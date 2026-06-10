@@ -18,7 +18,9 @@
     "honorifics_handling": "Xưng hô phải theo đúng ngữ cảnh: người dẫn truyện, quan hệ nhân vật, quyền lực, thân sơ, tuổi tác, phe phái, cảm xúc và bối cảnh văn hóa/thời đại; không dùng một kiểu xưng hô cố định máy móc.",
     "technical_terms": "Thuật ngữ ma pháp, thần thuật, giáo hội, cấp bậc, tổ chức phải thống nhất theo Glossary.md; thuật ngữ thuộc bối cảnh phương Tây/Nhật/Hàn phải giữ đúng hệ quy chiếu văn hóa.",
     "narrator_pronoun_handling": "Cần sử dụng đúng xưng hô và giọng kể của người dẫn truyện theo đúng ngữ cảnh hiện đại, cổ đại, phương Đông, phương Tây. Giọng người dẫn không được máy móc; phải phù hợp bối cảnh văn hóa, thời đại, thể loại và điểm nhìn truyện.",
-    "character_pronoun_handling": "Xưng hô giữa các nhân vật phải theo đúng ngữ cảnh, mối quan hệ, địa vị, tuổi tác, khoảng cách thân sơ, phe phái và cảm xúc tại thời điểm đối thoại. Khi quan hệ/cảm xúc thay đổi, xưng hô có thể cần thay đổi tương ứng."
+    "character_pronoun_handling": "Xưng hô giữa các nhân vật phải theo đúng ngữ cảnh, mối quan hệ, địa vị, tuổi tác, khoảng cách thân sơ, phe phái và cảm xúc tại thời điểm đối thoại. Khi quan hệ/cảm xúc thay đổi, xưng hô có thể cần thay đổi tương ứng.",
+    "output_title_language": "Tiêu đề chương trong output và toc.json phải là tiếng Việt tự nhiên; không giữ nguyên tiêu đề chương tiếng Trung trong filename hoặc toc.title nếu có thể dịch chuẩn.",
+    "output_filename_title": "Tên file final phải dùng tiêu đề tiếng Việt, theo pattern Chương {chapter:04d} - {title_vi}.md; không để CJK trong tên file."
   },
   "pronoun_mode": "hybrid",
   "reflection_max_iterations": 3,
