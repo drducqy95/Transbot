@@ -1,0 +1,70 @@
+{
+  "chapter_number": 10,
+  "items": [
+    {
+      "source": "巴哈姆特",
+      "type": "person",
+      "occurrences": 16,
+      "context_samples": ["总算取得了巴哈姆特的信任", "巴哈姆特就不断地在纸上写写停停", "巴哈姆特开口给培特解释道"],
+      "suggested_target": "Bahamut",
+      "status": "existing"
+    },
+    {
+      "source": "培特",
+      "type": "person",
+      "occurrences": 12,
+      "context_samples": ["培特只想尽快离开审讯室", "培特记得两人一来一回对话的时候", "培特发现他看不懂巴哈姆特用的语言"],
+      "suggested_target": "Pete",
+      "status": "existing"
+    },
+    {
+      "source": "培特·奇纳尔",
+      "type": "person",
+      "occurrences": 1,
+      "context_samples": ["培特一边用通用语签下\"培特·奇纳尔\"的名字"],
+      "suggested_target": "Pete Chinar",
+      "status": "existing"
+    },
+    {
+      "source": "特伦警长",
+      "type": "title",
+      "occurrences": 3,
+      "context_samples": ["是！特伦警长！您辛苦了！", "那可是特伦警长", "特伦警长？可是他明明叫巴哈姆特吧？"],
+      "suggested_target": "Cảnh trưởng Trent",
+      "status": "pending",
+      "note": "Fat cop calls Bahamut 'Sheriff Trent' - alias/title, not actual name"
+    },
+    {
+      "source": "卡罗恩·拉杆",
+      "type": "person",
+      "occurrences": 1,
+      "context_samples": ["这座城市的所有者——大地精财阀卡罗恩·拉杆"],
+      "suggested_target": "Carone Lever",
+      "status": "pending"
+    },
+    {
+      "source": "格林港",
+      "type": "location",
+      "occurrences": 6,
+      "context_samples": ["按照格林港警署的规定", "格林港这地方"],
+      "suggested_target": "Greenport",
+      "status": "existing"
+    },
+    {
+      "source": "普兰蒂斯大陆",
+      "type": "location",
+      "occurrences": 1,
+      "context_samples": ["这并非普兰蒂斯大陆的通用语"],
+      "suggested_target": "Plantis Continent",
+      "status": "pending"
+    },
+    {
+      "source": "格林港警署",
+      "type": "organization",
+      "occurrences": 4,
+      "context_samples": ["格林港警署什么时候这么敬业负责了", "格林港警署是个什么样子我知道"],
+      "suggested_target": "Sở Cảnh sát Greenport",
+      "status": "pending"
+    }
+  ]
+}

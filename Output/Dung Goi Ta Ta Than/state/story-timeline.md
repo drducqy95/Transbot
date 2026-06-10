@@ -231,3 +231,35 @@ Pete cầu nguyện Norwen để tìm cách lấy lòng tin của Bahamut. Norwe
 - Norwen suy luận Bahamut có thể đang che giấu thân phận thật.
 - Bahamut đã hoàn toàn tin tưởng Pete và không còn nghi ngờ cậu là tín đồ tà thần.
 - Pete đã ký giấy và có thể rời khỏi nơi thẩm vấn.
+
+## Chương 0010 - Bahamut là ai?
+
+### Tóm tắt
+Pete ký giấy xong và chuẩn bị rời khỏi đồn cảnh sát. Bahamut ra hiệu bằng mắt với thuộc hạ giữ lại Pete, rồi cho cậu xem tờ giấy với những dòng chữ hoa thể kỳ lạ viết bằng thứ ngôn ngữ không phải Thông dụng ngữ hay Phù Văn Chi Ngữ — đó là tiếng Trung, ngôn ngữ của thế giới cũ của Norven. Bahamut thừa nhận hắn biết chữ viết này, và bắt đầu mở lòng với Pete. Hóa ra Bahamut (tên thật là Lâm Dịch) cũng là người xuyên không, nhưng đến thế giới này bằng phương pháp đoạt xá, sử dụng thân xác của một pháp sư đã chết. Hắn về cơ bản đã xây dựng Ma Võng song song để hack Ma Võng chính thống và tu luyện thành pháp sư cấp 5. Sau khi biết Pete là người đầu tiên phát hiện thân phận thật của hắn, Bahamut quyết định hợp tác, xưng anh em với Pete và giúp cậu tìm đường thoát khỏi rắc rối.
+
+### Diễn biến chính
+- Pete ký giấy, tưởng đã thoát, nhưng bị giữ lại.
+- Bahamut cho Pete xem tờ giấy chứa chữ Trung Quốc — Pete ngạc nhiên vì sao Bahamut biết thứ ngôn ngữ này.
+- Mức tín nhiệm tăng lên 88% → cảnh báo Pete về sự thay đổi quan trọng.
+- Bahamut tiết lộ hắn là người xuyên không, tên thật Lâm Dịch, đoạt xá một pháp sư khi sắp chết.
+- Hắn giải thích cơ chế Ma Võng là sản phẩm của cảm nhận chủ quan về ma pháp, và cách hắn xây dựng Ma Võng song song.
+- Sau khi nghe Pete kể về Norven, Bahamut suy luận Norven cũng là người xuyên không, và đồng ý hợp tác.
+- Cả hai quyết định gặp nhau tại Cảng Bờ Biển.
+
+### Nhân vật xuất hiện
+- Pete Chinar (tín đồ của Norven)
+- Bahamut / Lâm Dịch (pháp sư cấp 5, người xuyên không)
+- Norven (Thần Tri Thức, được nhắc đến)
+
+### Thuật ngữ xuất hiện
+- Ma Võng song song (备用魔网)
+- Chữ hoa thể (花体字)
+- Thông dụng ngữ (通用语)
+- Phù Văn Chi Ngữ (符文之语)
+- Đoạt xá (夺舍)
+
+### Thay đổi quan trọng cần nhớ
+- Bahamut (Lâm Dịch) là người xuyên không thứ hai, chuyên hack Ma Võng.
+- Hắn biết thân phận của Norven là thần xuyên không và không có ác ý.
+- Bahamut đồng ý hợp tác với Norven/Pete.
+- Lần đầu tiên xuất hiện nhân vật người Trung Quốc xuyên không khác trong thế giới này.

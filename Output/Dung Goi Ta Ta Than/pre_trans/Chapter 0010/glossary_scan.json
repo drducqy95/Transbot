@@ -1,0 +1,53 @@
+{
+  "chapter_number": 10,
+  "items": [
+    {
+      "source": "秘法锁符文",
+      "type": "magic_term",
+      "occurrences": 1,
+      "context_samples": ["金属拷环上繁复的秘法锁符文逐渐消解在空气中"],
+      "suggested_target": "phù văn khóa bí pháp",
+      "status": "pending"
+    },
+    {
+      "source": "通用语",
+      "type": "language",
+      "occurrences": 2,
+      "context_samples": ["这并非普兰蒂斯大陆的通用语", "培特一边用通用语签下"],
+      "suggested_target": "Thông dụng ngữ",
+      "status": "pending"
+    },
+    {
+      "source": "符文之语",
+      "type": "language",
+      "occurrences": 1,
+      "context_samples": ["信仰魔法女神的信徒们喜欢用来记载魔法知识的符文之语"],
+      "suggested_target": "Phù Văn Chi Ngữ",
+      "status": "pending"
+    },
+    {
+      "source": "大地精",
+      "type": "race",
+      "occurrences": 1,
+      "context_samples": ["这座城市的拥有者——大地精财阀卡罗恩·拉杆"],
+      "suggested_target": "Đại địa tinh",
+      "status": "pending"
+    },
+    {
+      "source": "花体字",
+      "type": "writing_style",
+      "occurrences": 1,
+      "context_samples": ["漂亮的花体字将一个个字母衔接起来组成不同的单词"],
+      "suggested_target": "chữ hoa thể",
+      "status": "pending"
+    },
+    {
+      "source": "反制法术",
+      "type": "magic_term",
+      "occurrences": 0,
+      "context_samples": [],
+      "suggested_target": "Phản Chế Pháp Thuật / Counterspell",
+      "status": "existing"
+    }
+  ]
+}
