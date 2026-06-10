@@ -1,0 +1,109 @@
+{
+  "chapter_number": 3,
+  "items": [
+    {
+      "source": "哈达之饥渴",
+      "type": "spell_name",
+      "occurrences": 1,
+      "context_samples": ["学习法术[哈达之饥渴]"],
+      "suggested_target": "【Cơn Đói Khát của Hada】",
+      "status": "approved"
+    },
+    {
+      "source": "神孽畸变怪",
+      "type": "monster",
+      "occurrences": 1,
+      "context_samples": ["消灭神孽畸变怪"],
+      "suggested_target": "quái vật dị biến thần nghiệt",
+      "status": "approved"
+    },
+    {
+      "source": "畸变怪",
+      "type": "monster",
+      "occurrences": 4,
+      "context_samples": ["三阶的畸变怪"],
+      "suggested_target": "quái vật dị biến",
+      "status": "approved"
+    },
+    {
+      "source": "三阶法术/三阶",
+      "type": "tier_rank",
+      "occurrences": 6,
+      "context_samples": ["掌握一个三阶法术", "三阶攻击性魔法"],
+      "suggested_target": "pháp thuật cấp ba / cấp ba",
+      "status": "approved"
+    },
+    {
+      "source": "二阶法术/二阶",
+      "type": "tier_rank",
+      "occurrences": 2,
+      "context_samples": ["释放几个二阶魔法"],
+      "suggested_target": "pháp thuật cấp hai / cấp hai",
+      "status": "approved"
+    },
+    {
+      "source": "一阶",
+      "type": "tier_rank",
+      "occurrences": 2,
+      "context_samples": ["一阶水平的小魔物"],
+      "suggested_target": "cấp một",
+      "status": "approved"
+    },
+    {
+      "source": "魔网",
+      "type": "magic_concept",
+      "occurrences": 2,
+      "context_samples": ["调动魔网来释放法术"],
+      "suggested_target": "Ma lưới",
+      "status": "approved"
+    },
+    {
+      "source": "【秘法锁】",
+      "type": "spell_name",
+      "occurrences": 1,
+      "context_samples": ["【秘法锁】"],
+      "suggested_target": "【Khóa Bí Thuật】",
+      "status": "approved"
+    },
+    {
+      "source": "【侦测思想】",
+      "type": "spell_name",
+      "occurrences": 1,
+      "context_samples": ["【侦测思想】"],
+      "suggested_target": "【Dò Tìm Ý Nghĩ】",
+      "status": "approved"
+    },
+    {
+      "source": "【蛛网术】",
+      "type": "spell_name",
+      "occurrences": 1,
+      "context_samples": ["【蛛网术】"],
+      "suggested_target": "【Thuật Mạng Nhện】",
+      "status": "approved"
+    },
+    {
+      "source": "神力",
+      "type": "divine_power",
+      "occurrences": 6,
+      "context_samples": ["通过消耗神力"],
+      "suggested_target": "thần lực",
+      "status": "approved"
+    },
+    {
+      "source": "亲和度",
+      "type": "game_concept",
+      "occurrences": 4,
+      "context_samples": ["亲和度不够"],
+      "suggested_target": "mức độ tương thích (affinity)",
+      "status": "approved"
+    },
+    {
+      "source": "权能",
+      "type": "ability",
+      "occurrences": 1,
+      "context_samples": ["凭借权能"],
+      "suggested_target": "quyền năng",
+      "status": "approved"
+    }
+  ]
+}

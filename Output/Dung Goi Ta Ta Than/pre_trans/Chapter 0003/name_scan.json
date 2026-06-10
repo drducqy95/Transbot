@@ -1,0 +1,53 @@
+{
+  "chapter_number": 3,
+  "items": [
+    {
+      "source": "诺文",
+      "type": "person",
+      "occurrences": 6,
+      "context_samples": ["诺文试图复盘这个过程", "诺文顿时豁然开朗", "诺文赐予给信徒的能力"],
+      "suggested_target": "Norven",
+      "status": "approved"
+    },
+    {
+      "source": "培特·奇纳尔",
+      "type": "person",
+      "occurrences": 6,
+      "context_samples": ["培特·奇纳尔此时的想法就是后悔", "培特没吓的当场失禁", "培特·奇纳尔已然心如死灰"],
+      "suggested_target": "Pete Chinar",
+      "status": "approved"
+    },
+    {
+      "source": "黑袍人",
+      "type": "person_group",
+      "occurrences": 3,
+      "context_samples": ["那个给他领路的黑袍人", "黑袍人在得知他的来意后"],
+      "suggested_target": "người áo choàng đen",
+      "status": "approved"
+    },
+    {
+      "source": "魔法女神",
+      "type": "deity",
+      "occurrences": 3,
+      "context_samples": ["向传说中的魔法女神献上信仰", "魔法女神在上"],
+      "suggested_target": "Nữ thần Ma pháp",
+      "status": "approved"
+    },
+    {
+      "source": "卡罗恩学院",
+      "type": "organization",
+      "occurrences": 1,
+      "context_samples": ["卡罗恩学院奥法学派"],
+      "suggested_target": "Học viện Carone",
+      "status": "approved"
+    },
+    {
+      "source": "奥法学派",
+      "type": "organization",
+      "occurrences": 1,
+      "context_samples": ["卡罗恩学院奥法学派"],
+      "suggested_target": "Trường phái Huyền thuật",
+      "status": "approved"
+    }
+  ]
+}

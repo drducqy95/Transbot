@@ -5,7 +5,30 @@
       "branch": "Dung Goi Ta Ta Than",
       "title": "Đừng Gọi Ta Tà Thần",
       "chapters_done": 2,
-      "total_chapters": 968
+      "total_chapters": 968,
+      "completed_chapters": 3,
+      "latest_chapter": "Chương 3: Pete Chinar",
+      "status": "in_progress",
+      "status_label": "Đang ra",
+      "ongoing": true,
+      "updated_at": "2026-06-11T02:29:07+07:00"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-06-11T02:29:07+07:00",
+    "total_books": 1,
+    "source": "Dichtrung/Output"
+  },
+  "tabs": [
+    {
+      "key": "all",
+      "title": "Tất cả",
+      "count": 1
+    },
+    {
+      "key": "genre:unknown",
+      "title": "Unknown",
+      "count": 1
     }
   ]
 }
