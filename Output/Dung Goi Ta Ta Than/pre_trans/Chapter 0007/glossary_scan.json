@@ -1,0 +1,104 @@
+{
+  "chapter_number": 7,
+  "items": [
+    {
+      "source": "秘法口袋",
+      "type": "spell",
+      "occurrences": 1,
+      "context_samples": ["这应该是5阶法术【秘法口袋】"],
+      "suggested_target": "Túi Bí Pháp",
+      "status": "pending",
+      "note": "5th rank spell, personal Ethereal plane storage"
+    },
+    {
+      "source": "纲徳之手",
+      "type": "spell",
+      "occurrences": 1,
+      "context_samples": ["成功创造出【纲徳之手】这一魔法的吧"],
+      "suggested_target": "Bàn Tay của Gond",
+      "status": "pending",
+      "note": "Famous spell by Archmage Gond (cf. Bigby's Hand)"
+    },
+    {
+      "source": "以太位面",
+      "type": "concept",
+      "occurrences": 1,
+      "context_samples": ["施法者专属的以太位面空间"],
+      "suggested_target": "Vị diện Ethereal",
+      "status": "pending",
+      "note": "Ethereal plane - standard fantasy concept"
+    },
+    {
+      "source": "信任程度",
+      "type": "game_mechanic",
+      "occurrences": 3,
+      "context_samples": ["17%的信任程度", "当前信任程度：13%"],
+      "suggested_target": "mức độ tín nhiệm",
+      "status": "approved",
+      "note": "Trust level percentage (confirmed from Ch.6)"
+    },
+    {
+      "source": "亲和度",
+      "type": "concept",
+      "occurrences": 4,
+      "context_samples": ["跟魔法女神的亲和度", "测试你现在跟魔法女神的亲和度"],
+      "suggested_target": "mức độ tương thích (affinity)",
+      "status": "approved",
+      "note": "Affinity level - existing glossary"
+    },
+    {
+      "source": "浅信徒",
+      "type": "concept",
+      "occurrences": 1,
+      "context_samples": ["哪怕只成为了浅信徒"],
+      "suggested_target": "tín đồ nông cạn",
+      "status": "pending",
+      "note": "Shallow believer - minimal faith level"
+    },
+    {
+      "source": "马甲",
+      "type": "concept",
+      "occurrences": 2,
+      "context_samples": ["给自己安排个马甲"],
+      "suggested_target": "thân phận giả / mã giả",
+      "status": "pending",
+      "note": "Alt identity / disguise for a deity"
+    },
+    {
+      "source": "神孽畸变怪",
+      "type": "monster",
+      "occurrences": 1,
+      "context_samples": ["那只黑袍人转化成的神孽畸变怪"],
+      "suggested_target": "quái vật dị biến thần nghiệt",
+      "status": "approved",
+      "note": "Existing term"
+    },
+    {
+      "source": "神力权柄",
+      "type": "concept",
+      "occurrences": 2,
+      "context_samples": ["被他的神力权柄所制约", "诺文的神力权柄"],
+      "suggested_target": "quyền năng thần chức",
+      "status": "pending",
+      "note": "Divine authority/domain power scope"
+    },
+    {
+      "source": "邪神",
+      "type": "concept",
+      "occurrences": 5,
+      "context_samples": ["邪神的信徒视为文明叛徒", "因为邪神最麻烦的地方在于"],
+      "suggested_target": "tà thần",
+      "status": "approved",
+      "note": "Existing glossary term"
+    },
+    {
+      "source": "Ma Võng",
+      "type": "term",
+      "occurrences": 1,
+      "context_samples": ["我突然特别清晰地感受到魔网在回应我"],
+      "suggested_target": "Ma Võng",
+      "status": "approved",
+      "note": "Permanent rule: Ma Võng, NOT Ma Lưới"
+    }
+  ]
+}

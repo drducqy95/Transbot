@@ -28,5 +28,10 @@
         "chapter_number": 6,
         "title": "Chương 6: Thẩm vấn",
         "relative_path": "output/Chương 0006 - Thẩm vấn.md"
+    },
+    {
+        "chapter_number": 7,
+        "title": "Chương 7: Thần Tri Thức",
+        "relative_path": "output/Chương 0007 - Thần Tri Thức.md"
     }
 ]

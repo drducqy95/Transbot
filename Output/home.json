@@ -6,17 +6,17 @@
       "title": "Đừng Gọi Ta Tà Thần",
       "chapters_done": 5,
       "total_chapters": 968,
-      "completed_chapters": 6,
-      "latest_chapter": "Chương 6: Thẩm vấn",
+      "completed_chapters": 7,
+      "latest_chapter": "Chương 7: Thần Tri Thức",
       "status": "in_progress",
       "status_label": "Đang ra",
       "ongoing": true,
-      "updated_at": "2026-06-10T22:59:21+00:00",
-      "detail": " | Tiến độ: 6/968 chương | Mới nhất: Chương 6: Thẩm vấn"
+      "updated_at": "2026-06-11 06:04:49",
+      "detail": " | Tiến độ: 7/968 chương | Mới nhất: Chương 7: Thần Tri Thức"
     }
   ],
   "metadata": {
-    "generated_at": "2026-06-11T01:30:00+07:00",
+    "generated_at": "2026-06-11 06:04:49",
     "total_books": 1,
     "source": "Dichtrung/Output"
   },
@@ -27,8 +27,8 @@
       "count": 1
     },
     {
-      "key": "genre:fantasy",
-      "title": "Fantasy",
+      "key": "genre:unknown",
+      "title": "Unknown",
       "count": 1
     }
   ]

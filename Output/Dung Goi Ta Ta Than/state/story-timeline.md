@@ -141,3 +141,38 @@ Pete Chinar tỉnh dậy trong phòng thẩm vấn, bị còng trên ghế kim l
 - Pete đã trở thành tín đồ của một thần linh bí ẩn (nghi là tà thần)
 - Bahamut Conquertusglazcharden là danh hiệu Norven dùng trong hệ thống nhiệm vụ
 - Pete bắt đầu nhận nhiệm vụ từ thần linh này với mức tín nhiệm 17%
+
+
+## Chương 0007 - Thần Tri Thức
+
+### Tóm tắt
+Pete bị Bahamut thẩm vấn gắt gao. Pete bịa chuyện rằng mình được Nữ thần Ma pháp trợ giúp trong lúc nguy cấp, lấy ví dụ về đại pháp sư Gond. Bahamut không tin, kiểm tra bằng quả cầu pha lê — lộ rõ là pháp sư cấp 5. Mức độ tín nhiệm giảm từ 17% xuống 13%. Bị dồn vào đường cùng, Pete cầu nguyện Norven. Trong Thần quốc, Norven nhận ra hắn cần một thân phận giả để truyền giáo, và tự xưng là "Thần Tri Thức".
+
+### Diễn biến chính
+- Pete phân tích ba đặc điểm của tà thần và nhận ra mình trúng cả ba.
+- Bahamut thẩm vấn về nguồn gốc ma pháp cấp ba.
+- Pete bịa chuyện về Nữ thần Ma pháp và Gond nhưng bị lộ.
+- Bahamut dùng pháp thuật Túi Bí Pháp (cấp 5), lộ trình độ.
+- Mức độ tín nhiệm giảm từ 17% → 13%.
+- Pete cầu nguyện Norven trong tuyệt vọng.
+- Norven nhận ra cần thân phận giả: xưng là Thần Tri Thức.
+
+### Nhân vật xuất hiện
+- Pete Chinar (đang bị thẩm vấn)
+- Bahamut (pháp sư cấp 5, thẩm vấn viên)
+- Norven (trong Thần quốc, suy tính về thân phận)
+
+### Thuật ngữ xuất hiện
+- Túi Bí Pháp (秘法口袋) — pháp thuật cấp 5
+- Vị diện Ethereal (以太位面)
+- Bàn Tay của Gond (纲徳之手)
+- Tín đồ nông cạn (浅信徒)
+- Thân phận giả / mã giả (马甲)
+- Quyền năng thần chức (神力权柄)
+- Thần Tri Thức (求知之神) — thân phận mới của Norven
+
+### Thay đổi quan trọng cần nhớ
+- Bahamut là pháp sư cấp 5, rất mạnh, không dễ qua mặt.
+- Mức độ tín nhiệm Pete-Norven giảm còn 13%.
+- Norven chính thức tạo thân phận "Thần Tri Thức" để truyền giáo an toàn.
+- Thần lực của Norven bị giới hạn bởi quyền năng thần chức — chỉ biết những gì tín đồ cầu nguyện.
