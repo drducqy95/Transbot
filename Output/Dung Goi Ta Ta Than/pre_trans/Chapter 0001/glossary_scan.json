@@ -1,18 +1,4 @@
-[
-  {
-    "source": "神国",
-    "target": "Thần quốc"
-  },
-  {
-    "source": "神之眼",
-    "target": "Mắt Thần"
-  },
-  {
-    "source": "全知之父",
-    "target": "Cha Toàn Tri"
-  },
-  {
-    "source": "启蒙之主",
-    "target": "Chúa Tể Khai Sáng"
-  }
-]
+{
+  "chapter": 1,
+  "candidates": []
+}

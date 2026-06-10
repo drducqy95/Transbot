@@ -1,8 +1,6 @@
 {
   "chapter": 1,
-  "status": "pass",
-  "issues": [],
-  "target_len": 7535,
-  "source_len": 2119,
-  "checked_at": "2026-06-11T01:05:46.442121"
+  "cjk_count": 0,
+  "length": 7983,
+  "status": "pass"
 }
