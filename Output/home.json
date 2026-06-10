@@ -1,0 +1,16 @@
+{
+  "updated_at": "2026-06-10T18:05:46.479724+00:00",
+  "books": [
+    {
+      "project_branch": "Dung Goi Ta Ta Than",
+      "display_title": "Đừng Gọi Ta Tà Thần",
+      "display_author": "Thủy Quả Trung Đích Đồng Thần",
+      "completed_chapters": 1,
+      "total_chapters": 968,
+      "latest_chapter": 1,
+      "status": "in_progress",
+      "readme_path": "Output/Dung Goi Ta Ta Than/README.md",
+      "toc_path": "Output/Dung Goi Ta Ta Than/toc.json"
+    }
+  ]
+}
