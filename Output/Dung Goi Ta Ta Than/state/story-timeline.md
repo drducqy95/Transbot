@@ -201,3 +201,33 @@ Norven tự dựng lên thân phận "Thần Tri Thức" làm vỏ bọc, tự b
 - Tà thần (邪神): thần tà ác làm hại tín đồ
 - Mức độ tin tưởng (信任程度): thước đo game hóa trong đầu Pete
 - 【Cơn Đói Khát của Hada】: ma pháp cấp 3 Norven ban cho Pete
+
+## Chương 0009 - Biết Tên Thật
+
+### Tóm tắt
+Pete cầu nguyện Norwen để tìm cách lấy lòng tin của Bahamut. Norwen nhận được pháp thuật【Biết Tên Thật】và suy luận rằng Bahamut có thể đang che giấu thân phận. Pete thi triển pháp thuật, nhưng khi sắp đọc tên thật đầy đủ, Bahamut hoảng hốt dùng Counterspell ngăn lại. Ngay lập tức Bahamut hoàn toàn tin tưởng Pete (77%) và vội vã cho cậu ký giấy rời đi.
+
+### Diễn biến chính
+- Pete cầu nguyện Norwen để xin cách lấy lòng tin Bahamut.
+- Norwen nhận pháp thuật【Biết Tên Thật】, suy luận về khả năng Bahamut có ngụy trang.
+- Hệ thống nhiệm vụ giao cho Pete học và thi triển【Biết Tên Thật】lên Bahamut.
+- Pete thành công kết nối Ma Võng, độ tin tưởng tăng lên 40%.
+- Khi Pete sắp đọc tên thật, Bahamut dùng Counterspell ngăn lại.
+- Bahamut lập tức tuyên bố tin tưởng (77%), vội vã cho Pete ký giấy.
+
+### Nhân vật xuất hiện
+- Norwen (Thần Tri Thức)
+- Pete Chinar (tín đồ, người thi triển cấp 2)
+- Bahamut (pháp sư cấp 5, thẩm vấn viên)
+
+### Thuật ngữ xuất hiện
+- 【Biết Tên Thật】(真名知晓): pháp thuật cấp 2, dò tìm tên thật
+- 【Phản Chế Pháp Thuật】(法术反制/Counterspell): pháp thuật ngắt lời tụng niệm
+- Ma Võng (魔网)
+- Thần dụ (神谕)
+- Mức độ tin tưởng (信任程度)
+
+### Thay đổi quan trọng cần nhớ
+- Norwen suy luận Bahamut có thể đang che giấu thân phận thật.
+- Bahamut đã hoàn toàn tin tưởng Pete và không còn nghi ngờ cậu là tín đồ tà thần.
+- Pete đã ký giấy và có thể rời khỏi nơi thẩm vấn.
