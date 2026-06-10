@@ -29,11 +29,12 @@ Thế giới fantasy phương Tây với ma pháp, thần minh, học viện ma 
 
 ## Tiến độ
 - Tổng số chương: 968
-- Đã hoàn thành: 7
-- Đã audit: 7
-- Chương cuối đã hoàn thành: Chương 7: Thần Tri Thức
-- Trạng thái: Đang ra
-- Lần cập nhật gần nhất: 2026-06-11 06:04:49
+- Đã hoàn thành: 8
+- Đã audit: 8
+- Chương cuối đã hoàn thành: Chương 8: Background tự xào nấu
+- Trạng thái: Đang dịch
+- Lần cập nhật gần nhất: 2026-06-11 06:05:00
+
 ## Ghi chú vận hành
 - Branch được xử lý tuần tự qua cronjob mỗi 5 phút.
 - Mỗi lượt xử lý 1 chương đầy đủ: pre_trans → translate → audit → final → git push.

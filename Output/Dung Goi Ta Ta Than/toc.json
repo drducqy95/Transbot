@@ -1,37 +1,42 @@
 [
-    {
-        "chapter_number": 1,
-        "title": "Chương 1: Xuyên không thành tà thần thì phải làm sao",
-        "relative_path": "output/Chương 0001 - Xuyên không thành tà thần thì phải làm sao.md"
-    },
-    {
-        "chapter_number": 2,
-        "title": "Chương 2: Khởi đầu sụp đổ",
-        "relative_path": "output/Chương 0002 - Khởi đầu sụp đổ.md"
-    },
-    {
-        "chapter_number": 3,
-        "title": "Chương 3: Pete Chinar",
-        "relative_path": "output/Chương 0003 - Pete Chinar.md"
-    },
-    {
-        "chapter_number": 4,
-        "title": "Chương 4: Biện pháp hoàn toàn khác biệt",
-        "relative_path": "output/Chương 0004 - Biện pháp hoàn toàn khác biệt.md"
-    },
-    {
-        "chapter_number": 5,
-        "title": "Chương 5: Trao cần câu thay vì trao con cá",
-        "relative_path": "output/Chương 0005 - Trao cần câu thay vì trao con cá.md"
-    },
-    {
-        "chapter_number": 6,
-        "title": "Chương 6: Thẩm vấn",
-        "relative_path": "output/Chương 0006 - Thẩm vấn.md"
-    },
-    {
-        "chapter_number": 7,
-        "title": "Chương 7: Thần Tri Thức",
-        "relative_path": "output/Chương 0007 - Thần Tri Thức.md"
-    }
+  {
+    "chapter_number": 1,
+    "title": "Chương 1: Xuyên không thành tà thần thì phải làm sao",
+    "relative_path": "output/Chương 0001 - Xuyên không thành tà thần thì phải làm sao.md"
+  },
+  {
+    "chapter_number": 2,
+    "title": "Chương 2: Khởi đầu sụp đổ",
+    "relative_path": "output/Chương 0002 - Khởi đầu sụp đổ.md"
+  },
+  {
+    "chapter_number": 3,
+    "title": "Chương 3: Pete Chinar",
+    "relative_path": "output/Chương 0003 - Pete Chinar.md"
+  },
+  {
+    "chapter_number": 4,
+    "title": "Chương 4: Biện pháp hoàn toàn khác biệt",
+    "relative_path": "output/Chương 0004 - Biện pháp hoàn toàn khác biệt.md"
+  },
+  {
+    "chapter_number": 5,
+    "title": "Chương 5: Trao cần câu thay vì trao con cá",
+    "relative_path": "output/Chương 0005 - Trao cần câu thay vì trao con cá.md"
+  },
+  {
+    "chapter_number": 6,
+    "title": "Chương 6: Thẩm vấn",
+    "relative_path": "output/Chương 0006 - Thẩm vấn.md"
+  },
+  {
+    "chapter_number": 7,
+    "title": "Chương 7: Thần Tri Thức",
+    "relative_path": "output/Chương 0007 - Thần Tri Thức.md"
+  },
+  {
+    "chapter_number": 8,
+    "title": "Chương 8: Background tự xào nấu",
+    "relative_path": "output/Chương 0008 - Background tự xào nấu.md"
+  }
 ]

@@ -176,3 +176,28 @@ Pete bị Bahamut thẩm vấn gắt gao. Pete bịa chuyện rằng mình đư�
 - Mức độ tín nhiệm Pete-Norven giảm còn 13%.
 - Norven chính thức tạo thân phận "Thần Tri Thức" để truyền giáo an toàn.
 - Thần lực của Norven bị giới hạn bởi quyền năng thần chức — chỉ biết những gì tín đồ cầu nguyện.
+
+## Chương 0008 - Background tự xào nấu
+
+### Tóm tắt
+Norven tự dựng lên thân phận "Thần Tri Thức" làm vỏ bọc, tự biên tự diễn background về một ngoại thần vừa thức tỉnh sau giấc ngủ dài. Hắn tìm hiểu về hệ thống phân loại thần minh: chính thần, ngoại thần và tà thần. Trong khi đó, Pete thuyết phục Bahamut rằng hắn không phải tín đồ tà thần, và vị thần trong đầu hắn là Thần Tri Thức. Bahamut bắt đầu tin tưởng hơn (31%) và yêu cầu Pete cầu nguyện một lần nữa để chứng minh.
+
+### Diễn biến chính
+- Norven tạo vỏ bọc Thần Tri Thức với background tự biên.
+- Giải thích về ba loại thần minh: chính thần (đông tín đồ, ít quan tâm cá nhân), ngoại thần (ít tín đồ, hào phóng hơn), tà thần (nguy hiểm, làm hư hỏng tín đồ).
+- Norven chọn thân phận ngoại thần vì phù hợp hoàn cảnh.
+- Pete giải thích với Bahamut rằng hắn là tín đồ của Thần Tri Thức, một ngoại thần vừa thức tỉnh.
+- Mức độ tin tưởng của Bahamut tăng lên 31%.
+- Bahamut yêu cầu Pete cầu nguyện để chứng minh.
+
+### Nhân vật xuất hiện
+- Norven (nhân vật chính, tự xưng Thần Tri Thức)
+- Pete Chinar (tín đồ đầu tiên)
+- Bahamut (người thẩm vấn)
+
+### Thuật ngữ xuất hiện
+- Chính thần (正神): thần chính thống đông tín đồ
+- Ngoại thần (外神): thần cấp thấp, ít tín đồ
+- Tà thần (邪神): thần tà ác làm hại tín đồ
+- Mức độ tin tưởng (信任程度): thước đo game hóa trong đầu Pete
+- 【Cơn Đói Khát của Hada】: ma pháp cấp 3 Norven ban cho Pete
