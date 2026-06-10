@@ -1,0 +1,65 @@
+{
+  "chapter_number": 6,
+  "items": [
+    {
+      "source": "审讯",
+      "type": "chapter_title",
+      "occurrences": 2,
+      "suggested_target": "Thẩm vấn"
+    },
+    {
+      "source": "油灯",
+      "type": "item",
+      "occurrences": 2,
+      "suggested_target": "đèn dầu"
+    },
+    {
+      "source": "畸变体",
+      "type": "monster",
+      "occurrences": 1,
+      "suggested_target": "thể dị biến"
+    },
+    {
+      "source": "邪神",
+      "type": "concept",
+      "occurrences": 12,
+      "suggested_target": "tà thần"
+    },
+    {
+      "source": "二阶施法者",
+      "type": "rank",
+      "occurrences": 4,
+      "suggested_target": "người thi triển cấp hai"
+    },
+    {
+      "source": "3阶法术",
+      "type": "magic",
+      "occurrences": 4,
+      "suggested_target": "ma pháp cấp ba"
+    },
+    {
+      "source": "奥法学派",
+      "type": "school",
+      "occurrences": 1,
+      "suggested_target": "trường phái Huyền thuật"
+    },
+    {
+      "source": "神谕",
+      "type": "concept",
+      "occurrences": 2,
+      "suggested_target": "thần dụ"
+    },
+    {
+      "source": "信仰",
+      "type": "concept",
+      "occurrences": 2,
+      "suggested_target": "tín ngưỡng"
+    },
+    {
+      "source": "信徒",
+      "type": "concept",
+      "occurrences": 6,
+      "suggested_target": "tín đồ"
+    }
+  ]
+}

@@ -110,3 +110,34 @@ Pete nhận được chỉ dẫn chi tiết từ tín đồ cầu cứu, tìm hi
 - Pete nhận nhiệm vụ mới bao gồm 3 bước cụ thể
 - Cậu học cách kết nối với Ma Võng bằng phương pháp mới
 - Thành công thi triển pháp thuật Sự thèm khát của Hadar chống lại quái vật
+
+## Chương 0006 - Thẩm vấn
+
+### Tóm tắt
+Pete Chinar tỉnh dậy trong phòng thẩm vấn, bị còng trên ghế kim loại. Một người đàn ông vạm vỡ ngồi đối diện thẩm vấn anh về ma pháp cấp ba mà anh đã thi triển để tiêu diệt quái vật dị biến. Pete lo sợ bị coi là đồng bọn của những kẻ tế lễ tà thần. Khi bị hỏi về thân phận, anh khai là sinh viên trường phái Huyền thuật Học viện Carone, người thi triển cấp hai. Người thẩm vấn nghi ngờ vì một người thi triển cấp hai từ Học viện Carone (nổi tiếng đào tạo hàng dỏm) không thể thi triển ma pháp cấp ba uy lực mạnh như vậy. Pete nhận ra những đặc điểm của tà thần khớp với trải nghiệm của mình, và nhìn thấy thông báo nhiệm vụ từ hệ thống thần linh yêu cầu anh nhận được sự tín nhiệm của Bahamut Conquertusglazcharden.
+
+### Diễn biến chính
+- Pete tỉnh lại trong phòng thẩm vấn, bị còng tay
+- Người đàn ông thẩm vấn Pete về lai lịch và ma pháp cấp ba
+- Pete khai mình là sinh viên Học viện Carone, người Vương quốc Rayak
+- Người thẩm vấn chế giễu Học viện Carone vì nổi tiếng đào tạo kém chất lượng
+- Pete hồi tưởng về ba đặc điểm nhận diện tà thần và nhận ra sự trùng khớp
+- Hệ thống hiện ra thông báo nhiệm vụ: Nhận được sự tín nhiệm của Bahamut
+
+### Nhân vật xuất hiện
+- Pete Chinar (培特·奇纳尔): học viên Học viện Carone, người thi triển cấp hai
+- Người đàn ông thẩm vấn (chưa rõ danh tính)
+
+### Thuật ngữ xuất hiện
+- Tà thần (邪神)
+- Thể dị biến (畸变体)
+- Người thi triển cấp hai (二阶施法者)
+- Ma pháp cấp ba (3阶法术)
+- Trường phái Huyền thuật (奥法学派)
+- Thần dụ (神谕)
+- Học viện Carone, Vịnh Green, Cảng Green, lục địa Plantis
+
+### Thay đổi quan trọng cần nhớ
+- Pete đã trở thành tín đồ của một thần linh bí ẩn (nghi là tà thần)
+- Bahamut Conquertusglazcharden là danh hiệu Norven dùng trong hệ thống nhiệm vụ
+- Pete bắt đầu nhận nhiệm vụ từ thần linh này với mức tín nhiệm 17%

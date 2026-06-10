@@ -29,12 +29,11 @@ Thế giới fantasy phương Tây với ma pháp, thần minh, học viện ma 
 
 ## Tiến độ
 - Tổng số chương: 968
-- Đã hoàn thành: 4
-- Đã audit: 5
-- Chương cuối đã hoàn thành: Chương 5: Trao cần câu thay vì trao con cá
-- Trạng thái: Đang dịch
-- Lần cập nhật gần nhất: 11/06/2026 05:20
-
+- Đã hoàn thành: 6
+- Đã audit: 6
+- Chương cuối đã hoàn thành: Chương 6: Thẩm vấn
+- Trạng thái: Đang ra
+- Lần cập nhật gần nhất: 2026-06-10T22:59:21+00:00
 ## Ghi chú vận hành
 - Branch được xử lý tuần tự qua cronjob mỗi 5 phút.
 - Mỗi lượt xử lý 1 chương đầy đủ: pre_trans → translate → audit → final → git push.
