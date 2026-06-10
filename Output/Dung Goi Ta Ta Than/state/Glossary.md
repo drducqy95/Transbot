@@ -21,3 +21,4 @@
 - 【Thuật Mạng Nhện】: ma pháp loại hạn chế.
 - Mức độ tương thích (affinity): mức độ hòa hợp giữa tín đồ và thần.
 - Quyền năng: năng lực đặc thù của thần minh.
+| Ma Võng | Ma Võng | thuật ngữ | Mạng lưới ma pháp/kết nối ma thuật, không dịch là Ma Lưới |

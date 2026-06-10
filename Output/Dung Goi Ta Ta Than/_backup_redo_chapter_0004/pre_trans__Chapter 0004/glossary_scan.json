@@ -1,0 +1,122 @@
+{
+  "chapter_number": 4,
+  "items": [
+    {
+      "source": "魔网",
+      "type": "magic_system",
+      "occurrences": 14,
+      "context_samples": ["通过感知周围环境中从魔网逸散的魔法能量，建立与魔网的连接"],
+      "suggested_target": "Ma lưới",
+      "status": "approved",
+      "notes": "Khái niệm trung tâm của chương: mạng lưới ma pháp do Nữ thần Ma pháp quản lý."
+    },
+    {
+      "source": "调动魔网",
+      "type": "task_name",
+      "occurrences": 3,
+      "context_samples": ["【任务一：调动魔网】"],
+      "suggested_target": "Điều động Ma lưới",
+      "status": "approved",
+      "notes": "Tên nhiệm vụ con đầu tiên."
+    },
+    {
+      "source": "构筑法术模型",
+      "type": "task_name",
+      "occurrences": 3,
+      "context_samples": ["【任务二：构筑法术模型】"],
+      "suggested_target": "Cấu trúc Mô hình Ma pháp",
+      "status": "approved",
+      "notes": "Tên nhiệm vụ con thứ hai."
+    },
+    {
+      "source": "稳定性维持",
+      "type": "task_name",
+      "occurrences": 3,
+      "context_samples": ["【任务三：稳定性维持】"],
+      "suggested_target": "Duy trì Ổn định",
+      "status": "approved",
+      "notes": "Tên nhiệm vụ con thứ ba."
+    },
+    {
+      "source": "特征码",
+      "type": "term",
+      "occurrences": 2,
+      "context_samples": ["能从它们的波动中找到一种独特的特征码"],
+      "suggested_target": "mã đặc trưng",
+      "status": "approved",
+      "notes": "Mã nhận dạng đặc thù trong dao động ma pháp."
+    },
+    {
+      "source": "法表",
+      "type": "term",
+      "occurrences": 1,
+      "context_samples": ["对应法表将解码后的信息转译成密钥"],
+      "suggested_target": "biểu ma pháp",
+      "status": "approved",
+      "notes": "Bảng tra ma pháp/hệ thống phân loại ma pháp."
+    },
+    {
+      "source": "密钥",
+      "type": "term",
+      "occurrences": 2,
+      "context_samples": ["将解码后的信息转译成密钥"],
+      "suggested_target": "chìa khóa",
+      "status": "approved",
+      "notes": "Chìa khóa để kết nối với Ma lưới."
+    },
+    {
+      "source": "传奇大法师",
+      "type": "rank",
+      "occurrences": 1,
+      "context_samples": ["曾经有传奇大法师对这些逸散能量下过定义"],
+      "suggested_target": "Đại pháp sư huyền thoại",
+      "status": "approved",
+      "notes": "Cấp bậc pháp sư cao nhất."
+    },
+    {
+      "source": "逸散能量",
+      "type": "magic_term",
+      "occurrences": 3,
+      "context_samples": ["那些游离在周围环境中没有任何自主意识的零星魔法能量"],
+      "suggested_target": "năng lượng ma pháp tản mát",
+      "status": "approved",
+      "notes": "Năng lượng ma pháp thoát ly khỏi Ma lưới."
+    },
+    {
+      "source": "哈达之饥渴",
+      "type": "spell",
+      "occurrences": 3,
+      "context_samples": ["学习法术[哈达之饥渴]"],
+      "suggested_target": "Cơn Đói Khát của Hada",
+      "status": "approved",
+      "notes": "Ma pháp cấp ba, đã dùng ở Chương 3."
+    },
+    {
+      "source": "亲和度",
+      "type": "term",
+      "occurrences": 2,
+      "context_samples": ["绝大部分内容都与魔法女神的亲和度有关"],
+      "suggested_target": "mức độ tương thích (affinity)",
+      "status": "pending",
+      "notes": "Đã có trong Glossary.md Chương 3. Nên dùng 'mức độ tương thích' cho gọn, chỉ dùng thêm affinity khi cần."
+    },
+    {
+      "source": "畸变体/畸变怪",
+      "type": "monster",
+      "occurrences": 6,
+      "context_samples": ["正在缓缓逼近的畸变体怪物", "畸变怪的动作越来越迟缓"],
+      "suggested_target": "quái vật dị biến/quái thể dị biến",
+      "status": "approved",
+      "notes": "Đã dùng 'quái vật dị biến' ở Chương 3."
+    },
+    {
+      "source": "神孽畸变怪",
+      "type": "monster",
+      "occurrences": 2,
+      "context_samples": ["【消灭神孽畸变怪，（1/1）】"],
+      "suggested_target": "quái vật dị biến thần nghiệt",
+      "status": "approved",
+      "notes": "Đã dùng ở Chương 3 timeline."
+    }
+  ]
+}

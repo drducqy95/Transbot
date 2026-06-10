@@ -23,3 +23,34 @@ Audit: pass
 - HOME: updated
 - Timeline: updated
 - Git: pending
+
+## 2026-06-11T05:15:01+07:00
+
+- Branch: Dung Goi Ta Ta Than
+- Chapter: 0004
+- Step: completed
+- Pre-trans: OK
+- Translate: OK
+- Audit: OK
+- Retry: none
+- Final: OK
+- README: updated_progress
+- TOC: updated
+- HOME: updated
+- Git: pending
+
+## 2026-06-11T05:20:07+07:00
+
+- Branch: Dung Goi Ta Ta Than
+- Chapter: 0005
+- Step: completed
+- Pre-trans: OK (name_scan, glossary_scan, segment.json, context_pack.md)
+- Translate: OK (translated_segments.json, raw_response.md)
+- Audit: OK (audit_report.json → pass)
+- Retry: none needed
+- Final: OK (output/Chương 0005 - Trao cần câu thay vì trao con cá.md)
+- README: updated progress
+- Story timeline: updated
+- TOC: updated
+- HOME: updated
+- Git: pending

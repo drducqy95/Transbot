@@ -22,8 +22,7 @@
     "output_title_language": "Tiêu đề chương trong output và toc.json phải là tiếng Việt tự nhiên; không giữ nguyên tiêu đề chương tiếng Trung trong filename hoặc toc.title nếu có thể dịch chuẩn.",
     "output_filename_title": "Tên file final phải dùng tiêu đề tiếng Việt, theo pattern Chương {chapter:04d} - {title_vi}.md; không để CJK trong tên file.",
     "git_push_scope": "Chỉ git add/commit/push các nội dung trong Output/ và Output/home.json. Tuyệt đối không push Source/, Source Split/, script nguồn, hay dữ liệu nguồn gốc lên git.",
-    "git_ignore_source": "Không bao giờ add Source/ hoặc Source Split/ vào commit/push của cron branch.",
-    "term_ma_vong": "Ma Võng = mạng lưới ma pháp/kết nối ma thuật. Không dịch là \"Ma Lưới\". Thuật ngữ này phải giữ nguyên \"Ma Võng\" hoặc \"Ma Võng\" trong bản dịch, không thay bằng từ khác."
+    "git_ignore_source": "Không bao giờ add Source/ hoặc Source Split/ vào commit/push của cron branch."
   },
   "pronoun_mode": "hybrid",
   "reflection_max_iterations": 3,

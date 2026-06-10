@@ -1,0 +1,46 @@
+{
+  "chapter_number": 5,
+  "items": [
+    {
+      "source": "诺文",
+      "type": "person",
+      "occurrences": 15,
+      "context_samples": ["远在神国的诺文也长长的舒了一口气", "诺文觉得他自己应该不算邪神", "诺文确定了他的思路"],
+      "suggested_target": "Norven",
+      "status": "approved"
+    },
+    {
+      "source": "培特·奇纳尔",
+      "type": "person",
+      "occurrences": 5,
+      "context_samples": ["培特·奇纳尔脑海凭空出现的", "目前唯一的浅信徒——培特·奇纳尔"],
+      "suggested_target": "Pete Chinar",
+      "status": "approved"
+    },
+    {
+      "source": "黑袍人们",
+      "type": "group",
+      "occurrences": 1,
+      "context_samples": ["洞窟里那些黑袍人们"],
+      "suggested_target": "những người áo choàng đen",
+      "status": "approved"
+    },
+    {
+      "source": "神国",
+      "type": "place",
+      "occurrences": 1,
+      "context_samples": ["远在神国的诺文"],
+      "suggested_target": "thần quốc",
+      "status": "approved"
+    },
+    {
+      "source": "哈达之饥渴",
+      "type": "skill",
+      "occurrences": 2,
+      "context_samples": ["培特成功释放出了【哈达之饥渴】", "有关【哈达之饥渴】法术知识"],
+      "suggested_target": "【Cơn Đói Khát của Hada】",
+      "status": "approved"
+    }
+  ],
+  "new_items": []
+}

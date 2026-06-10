@@ -34,3 +34,79 @@ Norven nhận ra cơ chế thực sự của việc ban thần lực: hắn khô
 ### Thay đổi quan trọng cần nhớ
 - Norven đã hiểu cơ chế ban thần lực và có ý định tìm cách khắc phục dị biến.
 - Pete Chinar trở thành tín đồ mới của Norven, đang trong tình thế nguy hiểm.
+
+## Chương 0004 - Cách làm hoàn toàn khác biệt
+
+### Tóm tắt
+Trong lúc nguy cấp, Pete nhận được nhiệm vụ mới từ Norven với các bước thực hiện chi tiết. Khác với phương pháp ma pháp chính thống phải cầu nguyện Nữ thần Ma pháp, phương pháp của Norven dùng mã đặc trưng và chìa khóa để hack Ma lưới. Pete thành công thi triển【Cơn Đói Khát của Hada】và tiêu diệt quái vật dị biến thần nghiệt, sau đó ngất đi vì kiệt sức.
+
+### Diễn biến chính
+- Hệ thống nhiệm vụ cập nhật với ba bước: Điều động Ma lưới → Cấu trúc Mô hình Ma pháp → Duy trì Ổn định.
+- Pete phát hiện phương pháp của Norven khác hoàn toàn với ma pháp chính thống: dùng mã đặc trưng, giải mã, chìa khóa để kết nối Ma lưới thay vì cầu nguyện Nữ thần Ma pháp.
+- Cách tiếp cận "hacker" này giúp Pete kết nối Ma lưới nhanh chóng và dễ dàng chưa từng thấy.
+- Pete thành công thi triển ma pháp cấp ba【Cơn Đói Khát của Hada】dù chỉ là người thi triển cấp hai.
+- Cơn Đói Khát của Hada tiêu diệt hoàn toàn quái vật dị biến thần nghiệt.
+- Pete kiệt sức và ngất xỉu sau khi hoàn thành nhiệm vụ.
+
+### Nhân vật xuất hiện
+- Pete Chinar (tín đồ mới của Norven, học viên Học viện Carone)
+- Norven (thông qua hệ thống nhiệm vụ)
+
+### Thuật ngữ xuất hiện
+- Điều động Ma lưới (调动魔网)
+- Cấu trúc Mô hình Ma pháp (构筑法术模型)
+- Duy trì Ổn định (稳定性维持)
+- Mã đặc trưng (特征码)
+- Biểu ma pháp (法表)
+- Chìa khóa (密钥)
+- Đại pháp sư huyền thoại (传奇大法师)
+- Năng lượng ma pháp tản mát (逸散能量)
+
+### Thay đổi quan trọng cần nhớ
+- Norven có phương pháp kết nối Ma lưới hoàn toàn khác biệt, dạng "hack" không cần qua Nữ thần Ma pháp.
+- Pete đã chứng minh được năng lực và trở thành tín đồ đầu tiên sử dụng thành công thần lực của Norven.
+
+## Chương 0005 - Trao cần câu thay vì trao con cá
+
+### Tóm tắt
+Norven chiêm nghiệm về cơ chế thần lực và nhận ra sự khác biệt căn bản giữa thế giới này và kiếp trước của hắn. Ở thế giới này, thần minh chủ động giúp đỡ tín đồ, khiến văn minh phàm nhân đi theo hướng lệ thuộc vào thần thay vì tự nghiên cứu tri thức. Norven xác định chiến lược: không thể trao con cá (ban thần lực trực tiếp), nhưng có thể trao cần câu (dùng thần dụ hướng dẫn tri thức). Hắn nhận ra ưu thế của mình: thần dụ tiêu hao ít thần lực hơn nhiều so với ban phúc trực tiếp, cho phép hắn nuôi sống số lượng lớn tín đồ.
+
+### Diễn biến chính
+- Norven xác nhận thần lực trong thế giới này tuân theo quy tắc, không phải nhân quả luật.
+- Quá trình thi pháp thực chất là thần minh thay tín đồ hoàn thành ma pháp, không phải trao quyền trực tiếp.
+- Norven nhận ra văn minh phàm nhân thế giới này phát triển lệ thuộc vào thần minh, khác với thế giới cũ.
+- Hắn xác định chiến lược "trao cần câu thay vì trao con cá": dùng thần dụ hướng dẫn tri thức.
+- Phân tích chi phí: ban phúc trực tiếp = -30 đơn vị thần lực (lỗ), thần dụ ≈ 1 đơn vị (lãi).
+- Norven đặt mục tiêu "lấy số lượng thắng chất lượng" — phục vụ đại trà tín đồ.
+- Hắn nhìn về Pete, tín đồ duy nhất hiện tại, để bắt đầu mở rộng.
+
+### Nhân vật xuất hiện
+- Norven (nhân vật chính, tà thần tri thức)
+- Pete Chinar (tín đồ duy nhất hiện tại)
+- Những người áo choàng đen (đã bị dị biến)
+- Nữ thần Ma pháp (được nhắc đến)
+
+### Thuật ngữ xuất hiện
+- Thần lực (神力): năng lượng của thần minh
+- Thần dụ (神谕): chỉ dẫn bằng tri thức từ thần
+- Thần tứ/thần tích (神赐/神迹): ban phúc trực tiếp, tốn nhiều thần lực
+- Ban phúc (赐福): thần ban ơn cho tín đồ
+- Nhân quả luật (因果律): khái niệm nhân quả
+- Cây công nghệ (科技树): technology tree
+- Cân bằng thu chi (收支平衡): cân bằng tài nguyên thần lực
+- Tín đồ nông cạn (浅信徒): tín đồ mới, chưa có lòng tin sâu
+
+### Thay đổi quan trọng cần nhớ
+- Norven chính thức xác định chiến lược truyền giáo: "trao cần câu, không trao con cá" — dùng thần dụ hướng dẫn tri thức thay vì ban thần lực trực tiếp.
+- Mô hình kinh tế thần lực của Norven có lợi thế cạnh tranh: chi phí thấp, số lượng lớn.
+- Norven có ý định mở rộng số lượng tín đồ qua Pete.
+
+## Chương 0004 - Biện pháp hoàn toàn khác biệt
+
+### Tóm tắt
+Pete nhận được chỉ dẫn chi tiết từ tín đồ cầu cứu, tìm hiểu về Ma Võng và cách kết nối với nó thông qua phương pháp mới, khác biệt hoàn toàn với cách dạy của pháp thuật chính thống, và sử dụng pháp thuật Sự thèm khát của Hadar.
+
+### Diễn biến chính
+- Pete nhận nhiệm vụ mới bao gồm 3 bước cụ thể
+- Cậu học cách kết nối với Ma Võng bằng phương pháp mới
+- Thành công thi triển pháp thuật Sự thèm khát của Hadar chống lại quái vật
