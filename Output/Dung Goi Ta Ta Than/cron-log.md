@@ -32,3 +32,20 @@
 - README: updated progress (16→17)
 - HOME: updated (last_chapter=17)
 - Git: pending
+
+## 2026-06-11 02:04
+
+### Chapter 0020 - Completed
+- Branch: Dung Goi Ta Ta Than
+- Chapter: 0020
+- Title: Vị tín đồ thứ hai
+- Step: completed
+- Pre-trans: OK (resumed, had existing 12 segments)
+- Translate: OK (12 segments)
+- Audit: OK (CJK brackets only - 【】system UI, consistent with ch18/19)
+- Retry: none needed
+- Final: Output/Dung Goi Ta Ta Than/output/Chương 0020 - Vị tín đồ thứ hai.md
+- TOC: updated (ch20)
+- README: updated progress (17→20)
+- HOME: updated (last_chapter=20)
+- Git: pending
