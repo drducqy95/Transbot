@@ -13,3 +13,8 @@ Chapter 2 completed via pipeline.
 
 ### Summary
 Chapter 3 completed via pipeline.
+
+## Chapter 0004 - Chương 4: Yêu Đao Bành Hải
+
+### Summary
+Chapter 4 completed via pipeline.
