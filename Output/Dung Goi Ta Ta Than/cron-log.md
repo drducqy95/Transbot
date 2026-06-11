@@ -60,3 +60,4 @@
   - output: Chương 0021 - Tự tay tạo trận pháp kiểm tra.md
   - toc.json, home.json: cập nhật
 - **Kế tiếp:** Chương 0022 — 合作 (Hợp tác)
+| 2026-06-11 02:43 UTC | 22 | Hợp tác | Hoàn thành |
