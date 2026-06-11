@@ -29,11 +29,11 @@ Thế giới fantasy phương Tây với ma pháp, thần minh, học viện ma 
 
 ## Tiến độ
 - Tổng số chương: 968
-- Đã hoàn thành: 14
+- Đã hoàn thành: 15
 - Đã audit: 13
-- Chương cuối đã hoàn thành: Chương 14: Thay đổi tâm lý
+- Chương cuối đã hoàn thành: Chương 15: Xung đột quán rượu
 - Trạng thái: Đang dịch
-- Lần cập nhật gần nhất: 2026-06-11 07:30:00
+- Lần cập nhật gần nhất: 2026-06-11 08:15:00
 
 ## Ghi chú vận hành
 - Branch được xử lý tuần tự qua cronjob mỗi 5 phút.

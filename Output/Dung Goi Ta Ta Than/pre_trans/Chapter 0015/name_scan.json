@@ -1,0 +1,69 @@
+{
+  "chapter": 15,
+  "names_found": [
+    {
+      "source_term": "培特",
+      "type": "character",
+      "target": "Pete",
+      "context": "nhân vật chương, Thi Pháp Giả nhị giai, tín đồ của Thần Tri Thức"
+    },
+    {
+      "source_term": "德思礼",
+      "type": "character",
+      "target": "Dussley",
+      "context": "kẻ đứng sau sai đàn em đến đòi tiền quán rượu nhà Moni"
+    },
+    {
+      "source_term": "老莫尼",
+      "type": "character",
+      "target": "Old Moni",
+      "context": "chủ quán rượu Moni Brotherhood, cha của Lena"
+    },
+    {
+      "source_term": "领头壮汉",
+      "type": "character",
+      "target": "tên cầm đầu",
+      "context": "kẻ cầm đầu đám côn đồ, thực lực tầm Chiến Sĩ tập sự"
+    },
+    {
+      "source_term": "莫尼兄弟酒馆",
+      "type": "place",
+      "target": "quán rượu Moni Brotherhood",
+      "context": "quán rượu gia đình Lena ở Khu Hạ Thành"
+    },
+    {
+      "source_term": "格林港",
+      "type": "place",
+      "target": "Green Port",
+      "context": "thành phố cảng tự do"
+    },
+    {
+      "source_term": "下城区",
+      "type": "place",
+      "target": "Khu Hạ Thành",
+      "context": "khu bình dân của Green Port"
+    },
+    {
+      "source_term": "上城区",
+      "type": "place",
+      "target": "Khu Thượng Thành",
+      "context": "khu thượng lưu của Green Port"
+    },
+    {
+      "source_term": "诺文",
+      "type": "character",
+      "target": "Norven",
+      "context": "Thần Tri Thức, người xuyên không thành tà thần"
+    },
+    {
+      "source_term": "蕾娜",
+      "type": "character",
+      "target": "Lena",
+      "context": "thiếu nữ sống sót, con gái Old Moni (nhắc đến trong mạch truyện)"
+    }
+  ],
+  "title_suggestion": {
+    "source_title": "第15章 酒馆冲突",
+    "suggested_target": "Xung đột quán rượu"
+  }
+}

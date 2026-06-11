@@ -1,22 +1,22 @@
 {
-  "updated_at": "2026-06-11T05:20:07+07:00",
+  "updated_at": "2026-06-11T08:15:00+07:00",
   "books": [
     {
       "branch": "Dung Goi Ta Ta Than",
       "title": "Đừng Gọi Ta Tà Thần",
-      "chapters_done": 12,
+      "chapters_done": 15,
       "total_chapters": 968,
-      "completed_chapters": 13,
-      "latest_chapter": "Chương 13: Khu Hạ Thành",
+      "completed_chapters": 15,
+      "latest_chapter": "Chương 15: Xung đột quán rượu",
       "status": "in_progress",
       "status_label": "Đang ra",
       "ongoing": true,
       "updated_at": "2026-06-11T07:30:00+07:00",
-      "detail": "Tiến độ: 13/968 chương | Mới nhất: Chương 13: Khu Hạ Thành"
+      "detail": "Tiến độ: 15/968 chương | Mới nhất: Chương 15: Xung đột quán rượu"
     }
   ],
   "metadata": {
-    "generated_at": "2026-06-11T07:11:14+07:00",
+    "generated_at": "2026-06-11T08:15:00+07:00",
     "total_books": 1,
     "source": "Dichtrung/Output"
   },
@@ -35,9 +35,9 @@
   "branches": {
     "Dung Goi Ta Ta Than": {
       "display_title": "Đừng Gọi Ta Tà Thần",
-      "current_chapter": 14,
+      "current_chapter": 15,
       "total_chapters": 968,
-      "completed_chapters": 14,
+      "completed_chapters": 15,
       "last_updated": "2026-06-11"
     }
   }
