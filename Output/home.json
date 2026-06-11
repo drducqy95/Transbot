@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-11T08:15:00+07:00",
+  "updated_at": "2026-06-11T08:44:49+07:00",
   "books": [
     {
       "branch": "Dung Goi Ta Ta Than",
       "title": "Đừng Gọi Ta Tà Thần",
-      "chapters_done": 15,
+      "chapters_done": 17,
       "total_chapters": 968,
-      "completed_chapters": 15,
-      "latest_chapter": "Chương 15: Xung đột quán rượu",
+      "completed_chapters": 17,
+      "latest_chapter": "Chương 17: Rắc rối của nhà Lena",
       "status": "in_progress",
       "status_label": "Đang ra",
       "ongoing": true,
-      "updated_at": "2026-06-11T08:30:00+07:00",
-      "detail": "Tiến độ: 15/968 chương | Mới nhất: Chương 15: Xung đột quán rượu",
-      "last_chapter": 16,
-      "last_chapter_title": "Pháp thuật vị? Thứ gì thế",
-      "progress": "16/968"
+      "updated_at": "2026-06-11T08:44:49+07:00",
+      "detail": "Tiến độ: 17/968 chương | Mới nhất: Chương 17: Rắc rối của nhà Lena",
+      "last_chapter": 17,
+      "last_chapter_title": "Rắc rối của nhà Lena",
+      "progress": "17/968"
     }
   ],
   "metadata": {
-    "generated_at": "2026-06-11T08:15:00+07:00",
+    "generated_at": "2026-06-11T08:44:49+07:00",
     "total_books": 1,
     "source": "Dichtrung/Output"
   },
@@ -38,9 +38,9 @@
   "branches": {
     "Dung Goi Ta Ta Than": {
       "display_title": "Đừng Gọi Ta Tà Thần",
-      "current_chapter": 15,
+      "current_chapter": 17,
       "total_chapters": 968,
-      "completed_chapters": 15,
+      "completed_chapters": 17,
       "last_updated": "2026-06-11"
     }
   }

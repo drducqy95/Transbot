@@ -29,11 +29,11 @@ Thế giới fantasy phương Tây với ma pháp, thần minh, học viện ma 
 
 ## Tiến độ
 - Tổng số chương: 968
-- Đã hoàn thành: 16
-- Đã audit: 13
-- Chương cuối đã hoàn thành: Chương 16: Pháp thuật vị? Thứ gì thế
+- Đã hoàn thành: 17
+- Đã audit: 14
+- Chương cuối đã hoàn thành: Chương 17: Rắc rối của nhà Lena
 - Trạng thái: Đang dịch
-- Lần cập nhật gần nhất: 2026-06-11 08:15:00
+- Lần cập nhật gần nhất: 2026-06-11 08:44:00
 
 ## Ghi chú vận hành
 - Branch được xử lý tuần tự qua cronjob mỗi 5 phút.
