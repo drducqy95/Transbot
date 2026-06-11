@@ -323,3 +323,8 @@ Chapter 33 completed via pipeline.
 
 ### Summary
 Chapter 34 completed via pipeline.
+
+## Chapter 0035 - Chương 35: Xưởng Bu-lông Lăn Tròn
+
+### Summary
+Chapter 35 completed via pipeline.
