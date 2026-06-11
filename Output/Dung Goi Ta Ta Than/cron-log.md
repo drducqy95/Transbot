@@ -111,3 +111,4 @@
 - **README:** updated progress (25→26)
 - **HOME:** updated (last_chapter=26)
 - **Git:** pending
+2026-06-11 10:34:15 | Chapter 0027 | Hạ thấp rào cản | Dịch+Audit+Final | Hoàn thành
