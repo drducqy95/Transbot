@@ -1,0 +1,89 @@
+{
+  "chapter": 14,
+  "source_file": "Chapter 0014 心态转变.md",
+  "names_found": [
+    {
+      "source_term": "培特",
+      "type": "character",
+      "target": "Pete",
+      "context": "nhân vật chính của chương"
+    },
+    {
+      "source_term": "蕾娜",
+      "type": "character",
+      "target": "Lena",
+      "context": "thiếu nữ sống sót, con gái chủ quán rượu"
+    },
+    {
+      "source_term": "诺文",
+      "type": "character",
+      "target": "Norven",
+      "context": "Thần Tri Thức"
+    },
+    {
+      "source_term": "巴哈姆特",
+      "type": "character",
+      "target": "Bahamut",
+      "context": "pháp sư cấp 5, người xuyên không"
+    },
+    {
+      "source_term": "德思礼",
+      "type": "character",
+      "target": "Dussley",
+      "context": "kẻ sai đàn em đòi bồi thường"
+    },
+    {
+      "source_term": "老莫尼",
+      "type": "character",
+      "target": "Old Moni",
+      "context": "cha của Lena, chủ quán rượu"
+    },
+    {
+      "source_term": "卡罗恩学院",
+      "type": "organization",
+      "target": "Học viện Caroen",
+      "context": "học viện ma pháp"
+    },
+    {
+      "source_term": "格林港",
+      "type": "place",
+      "target": "Green Port",
+      "context": "thành phố cảng tự do"
+    },
+    {
+      "source_term": "上城区",
+      "type": "place",
+      "target": "Khu Thượng Thành",
+      "context": "khu thượng lưu của Green Port"
+    },
+    {
+      "source_term": "下城区",
+      "type": "place",
+      "target": "Khu Hạ Thành",
+      "context": "khu bình dân của Green Port"
+    },
+    {
+      "source_term": "求知之神",
+      "type": "title",
+      "target": "Thần Tri Thức",
+      "context": "thân phận giả của Norven"
+    },
+    {
+      "source_term": "魔法女神",
+      "type": "title",
+      "target": "Nữ thần Ma pháp",
+      "context": "vị thần ma pháp chính thống"
+    },
+    {
+      "source_term": "卡罗恩·拉杆",
+      "type": "character",
+      "target": "Caroen Lever",
+      "context": "đại tài phiệt tinh linh"
+    }
+  ],
+  "title_suggestion": {
+    "source_title": "第14章 心态转变",
+    "suggested_target": "Thay đổi tâm lý",
+    "notes": "Pete thay đổi từ sợ hãi sang tự tin sau khi được Norven gia trì"
+  }
+}

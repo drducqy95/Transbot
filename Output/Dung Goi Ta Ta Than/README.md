@@ -29,9 +29,9 @@ Thế giới fantasy phương Tây với ma pháp, thần minh, học viện ma 
 
 ## Tiến độ
 - Tổng số chương: 968
-- Đã hoàn thành: 13
+- Đã hoàn thành: 14
 - Đã audit: 13
-- Chương cuối đã hoàn thành: Chương 13: Khu Hạ Thành
+- Chương cuối đã hoàn thành: Chương 14: Thay đổi tâm lý
 - Trạng thái: Đang dịch
 - Lần cập nhật gần nhất: 2026-06-11 07:30:00
 

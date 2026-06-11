@@ -31,5 +31,14 @@
       "title": "Unknown",
       "count": 1
     }
-  ]
+  ],
+  "branches": {
+    "Dung Goi Ta Ta Than": {
+      "display_title": "Đừng Gọi Ta Tà Thần",
+      "current_chapter": 14,
+      "total_chapters": 968,
+      "completed_chapters": 14,
+      "last_updated": "2026-06-11"
+    }
+  }
 }
