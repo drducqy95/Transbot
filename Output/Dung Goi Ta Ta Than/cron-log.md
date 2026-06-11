@@ -95,3 +95,19 @@
 - **README:** updated progress (24→25)
 - **HOME:** updated (last_chapter=25)
 - **Git:** pending
+
+## 2026-06-11
+
+### Chapter 0026 - Completed
+- **Branch:** Dung Goi Ta Ta Than
+- **Chương 0026** — Cách tu luyện có thể thấy thanh tiến độ
+- **Step:** completed
+- **Pre-trans:** OK (had existing scans + context_pack)
+- **Translate:** OK (16 segments translated)
+- **Audit:** OK (no CJK/glossary issues, fixed "điểm Điểm" redundancy)
+- **Retry:** none needed
+- **Final:** Output/Dung Goi Ta Ta Than/output/Chương 0026 - Cách tu luyện có thể thấy thanh tiến độ.md
+- **TOC:** updated (ch26, title Việt)
+- **README:** updated progress (25→26)
+- **HOME:** updated (last_chapter=26)
+- **Git:** pending

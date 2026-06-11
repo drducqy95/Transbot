@@ -29,9 +29,9 @@ Thế giới fantasy phương Tây với ma pháp, thần minh, học viện ma 
 
 ## Tiến độ
 - Tổng số chương: 968
-- Đã hoàn thành: 25
-- Đã audit: 25
-- Chương cuối đã hoàn thành: Chương 25: Lộ trình Tiềm Hành Giả, nhưng là Thần Tri Thức
+- Đã hoàn thành: 26
+- Đã audit: 26
+- Chương cuối đã hoàn thành: Chương 26: Cách tu luyện có thể thấy thanh tiến độ
 - Trạng thái: Đang dịch
 - Lần cập nhật gần nhất: 2026-06-11
 
