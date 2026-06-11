@@ -1,0 +1,57 @@
+I will start by analyzing the workspace to understand the codebase context, particularly look for translation files, glossary files, or code relating to the translation pipeline, which will help us align with the project's formatting and terminology.
+I will inspect the `Script` and `Source` directories to understand the structure of the translation tool or bot.
+I will inspect the `Source` directory to see if there are translation resources, glossary databases, or chapter files.
+I will list the `$TRANS_DIR` directory to see what it contains.
+I will view the `transbot_pipeline.py` script to understand how names and terms are processed.
+I will list the contents of the `Source/Source Split` directory to see what branches exist.
+I will list the contents of the output directory for the branch `Dung Goi Ta Ta Than`.
+I will view `translation_config.json` in the `Dung Goi Ta Ta Than` directory to see the translation configuration and glossary database format.
+I will check the files inside the `Output/Dung Goi Ta Ta Than/output` directory.
+I will read the `README.md` file in the output directory.
+I will check the `converter_db` directory to see if there is any translation/terminology database there.
+I will check the `state` directory.
+I will read the `Glossary.md` file in the state directory to get the full definitions of the translation terms.
+I will perform a search in the source chapters to see the context of these terms.
+I will search for the substring "真名" to see where it appears in the source text and verify if "真名知晓" is part of a system log or status term.
+I will list the files in the `Source/Source full` directory.
+I will list the directory `Source/Source Split/Dung Goi Ta Ta Than` to see how the split chapter files are named.
+I will view parts of `Chapter 0009 真名知晓.md` to see the context of "真名知晓" and confirm if it is a specific system term/ability or just a phrase.
+I will read the translated file `Chương 0009 - Biết Tên Thật.md` to see how the term `真名知晓` was translated.
+Here is the review of the translation names and terms classified into **approved**, **rejected**, and **uncertain** categories.
+
+```json
+{
+  "approved": [
+    "潜行",
+    "真名知晓"
+  ],
+  "rejected": [
+    "任务完成的信",
+    "吾主的真理普",
+    "布兰登激动",
+    "检测到信徒诉",
+    "的配合，给目",
+    "目标：战士修",
+    "被诺文设定为",
+    "需求：3知识",
+    "，4名新信徒"
+  ],
+  "uncertain": []
+}
+```
+
+### Analysis & Explanation
+1. **Approved Terms**:
+   * **`潜行`** (Stealth / Prowl): A standard RPG/fantasy ability/class term (matching the occupation rule for *Tiềm Hành Giả*). Translated to **`Tiềm hành`** in Vietnamese.
+   * **`真名知晓`** (True Name Cognition / Knowing the True Name): A specific 2nd-level spell name and quest mechanism featured in the story (e.g. [Chapter 9](file:///mnt/sdcard/My%20Agent/Transbot/Output/Dung%20Goi%20Ta%20Ta%20Than/output/Ch%C6%B0%C6%A1ng%200009%20-%20Bi%E1%BA%BFt%20T%C3%AAn%20Th%E1%BA%ADt.md)). Translated to **`Biết Tên Thật`** or **`Chân Danh Tri Hiểu`**.
+
+2. **Rejected Items**:
+   * **`任务完成的信`** (Letter of task completion): A generic phrase, not a terminology key.
+   * **`吾主的真理普`** (My Lord's truth pu...): Truncated/incomplete phrase.
+   * **`布兰登激动`** (Brandon [is/was] excited): A sentence fragment combining a character name and an emotion.
+   * **`检测到信徒诉`** (Detected believer's appeal...): A truncated system notification fragment.
+   * **`的配合，给目`** (...coordination, to target...): A meaningless phrase fragment with punctuation.
+   * **`目标：战士修`** (Goal: Warrior culti...): A truncated quest target status line.
+   * **`被诺文设定为`** (...was set by Norven as...): A sentence/grammar fragment.
+   * **`需求：3知识`** (Requirement: 3 Knowledge): A generic quest status/requirement line fragment.
+   * **`，4名新信徒`** (... , 4 new believers): A sentence fragment containing a comma.

@@ -313,3 +313,8 @@ Pete gặp Lena Monia, một thiếu nữ trạc tuổi cậu từng bị lừa 
 - Pete nhận ra Bloodfang vô pháp vô thiên, không coi luật pháp ra gì
 - Pete vốn định chỉ phát triển giáo phái răn đe, nhưng thấy cảnh tượng này biết không thể giải quyết dễ dàng
 - Có Thần Tri Thức làm chỗ dựa, Pete quyết tâm phát triển trước rồi tính sổ sau
+
+## Chapter 0033 - Chương 33: Lộ trình Chiến Sĩ
+
+### Summary
+Chapter 33 completed via pipeline.

@@ -1,0 +1,416 @@
+{
+  "chapter_number": 33,
+  "chapter_title_vi": "Chương 33: Lộ trình Chiến Sĩ",
+  "segments": [
+    {
+      "segment_id": "0001",
+      "source": "神国的诺文全程关注着他的两名信徒。",
+      "target": "Norven ở Thần quốc quan sát toàn bộ quá trình của hai tín đồ của mình."
+    },
+    {
+      "segment_id": "0002",
+      "source": "“好家伙，这套路玩的不错啊！”",
+      "target": "\"Khá thật, chơi chiêu này hay đấy!\""
+    },
+    {
+      "segment_id": "0003",
+      "source": "诺文没想到，培特居然能无师自通地想出自己当“托”来诱惑其他人加入教会的办法。",
+      "target": "Norven không ngờ Pete lại có thể tự học tự hiểu, nghĩ ra cách tự mình làm \"chim mồi\" để dụ dỗ người khác gia nhập giáo hội."
+    },
+    {
+      "segment_id": "0004",
+      "source": "玩套路打配合的自然是培特和蕾娜两人。",
+      "target": "Người phối hợp diễn kịch đương nhiên là hai người Pete và Lena."
+    },
+    {
+      "segment_id": "0005",
+      "source": "先是通过【真名知晓】跟【潜行】的配合，给目标织造一个第一印象，让对方感觉自己是被人选中的。",
+      "target": "Đầu tiên là thông qua sự phối hợp giữa 【Biết Tên Thật】 và 【Tiềm Hành】 để tạo cho mục tiêu một ấn tượng ban đầu, khiến đối phương cảm thấy mình là người được chọn."
+    },
+    {
+      "segment_id": "0006",
+      "source": "用写有名字的纸条引起对方的好奇心。",
+      "target": "Dùng mảnh giấy có viết tên để khơi gợi trí tò mò của đối phương."
+    },
+    {
+      "segment_id": "0007",
+      "source": "声称说有办法帮助人成为职业者。",
+      "target": "Tuyên bố rằng có cách giúp người ta trở thành Chức nghiệp giả."
+    },
+    {
+      "segment_id": "0008",
+      "source": "一旦有人因此而有了想法，就算上钩了！",
+      "target": "Một khi có người vì thế mà nảy sinh ý nghĩ, coi như đã cắn câu!"
+    },
+    {
+      "segment_id": "0009",
+      "source": "等到他们来了莫尼兄弟酒馆，培特又装做同样是收到纸条的一员，按着提前设计的“剧本”，跟蕾娜一应一和。",
+      "target": "Đợi đến lúc họ tới quán rượu Moni Brotherhood, Pete lại giả vờ cũng là một trong số những người nhận được mảnh giấy, tung hứng nhịp nhàng với Lena theo \"kịch bản\" đã thiết kế từ trước."
+    },
+    {
+      "segment_id": "0010",
+      "source": "诺文能想象出来，就算来人原本抱有警惕，亲眼看到有人先去体验了相关的神术，甚至靠着信仰求知之神成为了职业者，警惕心也会被大幅度降低。",
+      "target": "Norven có thể tưởng tượng ra được, cho dù người đến ban đầu ôm lòng cảnh giác, nhưng khi tận mắt nhìn thấy có người đi trước trải nghiệm thần thuật liên quan, thậm chí dựa vào việc tín ngưỡng Thần Tri Thức mà trở thành Chức nghiệp giả, lòng cảnh giác cũng sẽ giảm đi đáng kể."
+    },
+    {
+      "segment_id": "0011",
+      "source": "培特和蕾娜计划的套路便是如此，",
+      "target": "Chiêu trò mà Pete and Lena lập kế hoạch chính là như vậy,"
+    },
+    {
+      "segment_id": "0012",
+      "source": "人都是从众的，倘若没有个出头鸟，大家可能都不敢相信。",
+      "target": "Con người đều có tâm lý bầy đàn, nếu không có một người tiên phong đi đầu, mọi người có lẽ đều chẳng dám tin."
+    },
+    {
+      "segment_id": "0013",
+      "source": "毕竟嘴上说的和实际做的可能是完全两回事，没有看到真正的仪式和信仰带来的效果，谁也不敢冒然就相信蕾娜说的话。",
+      "target": "Dù sao nói suông và thực tế hành động có thể là hai chuyện hoàn toàn khác nhau, nếu chưa nhìn thấy nghi thức thực sự cùng hiệu quả mà đức tin mang lại, không ai dám mạo muội tin vào những lời Lena nói."
+    },
+    {
+      "segment_id": "0014",
+      "source": "可是有培特带头做了表率，而且取得了切实的好处后。",
+      "target": "Nhưng một khi có Pete đi đầu làm gương, hơn nữa còn thu được lợi ích thực tế."
+    },
+    {
+      "segment_id": "0015",
+      "source": "那情况可就不一样了！",
+      "target": "Tình hình sẽ hoàn toàn khác biệt!"
+    },
+    {
+      "segment_id": "0016",
+      "source": "诺文很快收到了数道指向他的信仰来源！",
+      "target": "Norven nhanh chóng nhận được vài luồng nguồn cung cấp đức tin hướng về phía mình!"
+    },
+    {
+      "segment_id": "0017",
+      "source": "正是被培特和蕾娜忽悠到莫尼兄弟酒馆的那几位。",
+      "target": "Đó chính là mấy người bị Pete và Lena dụ dỗ tới quán rượu Moni Brotherhood."
+    },
+    {
+      "segment_id": "0018",
+      "source": "对此，诺文自然是来者不拒！",
+      "target": "Đối với việc này, Norven tự nhiên là ai đến cũng không từ chối!"
+    },
+    {
+      "segment_id": "0019",
+      "source": "他现在正是缺神力的时候，信徒愿意发挥主观能动性，帮他招揽信徒，诺文高兴还来不及呢。",
+      "target": "Bây giờ hắn đang lúc thiếu thốn thần lực, tín đồ bằng lòng pháthuy tính chủ động chủ quan, giúp hắn chiêu mộ thêm tín đồ mới, Norven mừng còn không kịp."
+    },
+    {
+      "segment_id": "0020",
+      "source": "按照先前发布的那条可重复的任务，【吾主的真理普照大地】，4名新信徒，诺文在接受信仰的同时，分别送出10点知识点数。",
+      "target": "Theo nhiệm vụ có thể lặp lại đã ban bố trước đó —— 【Chân lý của Chúa ta lan tỏa khắp đất】, có 4 tín đồ mới, Norven vừa tiếp nhận đức tin, vừa lần lượt ban tặng 10 Điểm Tri Thức."
+    },
+    {
+      "segment_id": "0021",
+      "source": "当然，培特和蕾娜应得的奖励也没落下。",
+      "target": "Dĩ nhiên, phần thưởng xứng đáng của Pete và Lena cũng không bị bỏ sót."
+    },
+    {
+      "segment_id": "0022",
+      "source": "【吾主的真理普照大地】被诺文设定为周常任务，每周只能触发并完成一次，因此两人各自拿到5点知识点数。",
+      "target": "【Chân lý của Chúa ta lan tỏa khắp đất】 được Norven thiết lập là nhiệm vụ hằng tuần, mỗi tuần chỉ có thể kích hoạt và hoàn thành một lần, vì thế hai người bọn họ mỗi người nhận được 5 Điểm Tri Thức."
+    },
+    {
+      "segment_id": "0023",
+      "source": "新的信徒没法立刻给诺文提供信仰。",
+      "target": "Tín đồ mới không thể ngay lập tức cung cấp đức tin cho Norven."
+    },
+    {
+      "segment_id": "0024",
+      "source": "虽然给他们奖励的10知识点数对诺文来说是纯支出，属于 he 免费送给的新人的“福利”。",
+      "target": "Mặc dù 10 Điểm Tri Thức thưởng cho họ đối với Norven mà nói là khoản chi thuần túy, thuộc về \"phúc lợi\" tặng miễn phí cho người mới."
+    },
+    {
+      "segment_id": "0025",
+      "source": "相当于诺文自掏腰包，提前超发。",
+      "target": "Tương đương với việc Norven tự bỏ tiền túi, phát hành vượt mức trước."
+    },
+    {
+      "segment_id": "0026",
+      "source": "但诺文并不担心这部分超发的“福利”会打水漂。",
+      "target": "Nhưng Norven không hề lo lắng phần \"phúc lợi\" phát hành vượt mức này sẽ đổ sông đổ bể."
+    },
+    {
+      "segment_id": "0027",
+      "source": "“知识点数”的本质是信徒从诺文这里换取各种信息的资源。",
+      "target": "Bản chất của \"Điểm Tri Thức\" là tài nguyên để tín đồ đổi lấy các loại thông tin từ chỗ Norven."
+    },
+    {
+      "segment_id": "0028",
+      "source": "而信息是一种可以复用的资源。",
+      "target": "Mà thông tin lại là một loại tài nguyên có thể tái sử dụng."
+    },
+    {
+      "segment_id": "0029",
+      "source": "信徒们能直观地得知，他们想从诺文这里得到回应，需要花费多少知识点数。",
+      "target": "Các tín đồ có thể biết một cách trực quan rằng họ cần tiêu tốn bao nhiêu Điểm Tri Thức để nhận được phản hồi từ Norven."
+    },
+    {
+      "segment_id": "0030",
+      "source": "初期运行的时候，诺文需要准备一部分神力作为前期成本，用来发动他的权柄，得到信徒们需要的知识。",
+      "target": "Trong giai đoạn vận hành ban đầu, Norven cần chuẩn bị một phần thần lực làm chi phí ban đầu, dùng để kích hoạt quyền năng của mình nhằm có được tri thức mà các tín đồ cần."
+    },
+    {
+      "segment_id": "0031",
+      "source": "不过，等到信徒数量多起来，新信徒需要的知识，很大一部分都会和老信徒重合。",
+      "target": "Tuy nhiên, đợi đến khi số lượng tín đồ tăng lên, phần lớn tri thức mà tín đồ mới cần sẽ trùng lặp với tín đồ cũ."
+    },
+    {
+      "segment_id": "0032",
+      "source": "每一次复用，诺文都能收回一部分他超发的知识点数。",
+      "target": "Mỗi một lần tái sử dụng, Norven đều có thể thu hồi lại một phần Điểm Tri Thức phát hành vượt mức của mình."
+    },
+    {
+      "segment_id": "0033",
+      "source": "长远来看，他的收入一定会大于支出。",
+      "target": "Về lâu về dài, thu nhập của hắn chắc chắn sẽ lớn hơn chi tiêu."
+    },
+    {
+      "segment_id": "0034",
+      "source": "至于为什么要给新人提供福利？",
+      "target": "Còn về việc tại sao phải cung cấp phúc lợi cho người mới?"
+    },
+    {
+      "segment_id": "0035",
+      "source": "自然是要用这点福利作为甜头，让新的信徒体验到这份信仰的好处！",
+      "target": "Tự nhiên là muốn dùng chút phúc lợi này làm vị ngọt đi trước, để các tín đồ mới trải nghiệm được lợi ích của đức tin này mang lại!"
+    },
+    {
+      "segment_id": "0036",
+      "source": "……",
+      "target": "..."
+    },
+    {
+      "segment_id": "0037",
+      "source": "布兰登跟着蕾娜念完祷词，瞬间得到了求知之神的回应。",
+      "target": "Brandon cùng Lena đọc xong lời nguyện cầu, ngay lập tức nhận được phản hồi của Thần Tri Thức."
+    },
+    {
+      "segment_id": "0038",
+      "source": "脑海中突然出现的信息把他给吓了一跳。",
+      "target": "Thông tin đột nhiên xuất hiện trong đầu khiến anh ta giật nảy mình."
+    },
+    {
+      "segment_id": "0039",
+      "source": "整个人都抖了一下。",
+      "target": "Cả người run lên một cái."
+    },
+    {
+      "segment_id": "0040",
+      "source": "毕竟他以前去教会向辉光之神献上信仰的时候，可不会有什么神谕降下，只能感觉身体变得暖洋洋的。",
+      "target": "Dù sao trước đây khi anh ta đến giáo hội dâng hiến đức tin cho Thần Huy Quang, làm gì có thần dụ nào giáng xuống, chỉ có thể cảm nhận được cơ thể trở nên ấm áp dễ chịu."
+    },
+    {
+      "segment_id": "0041",
+      "source": "按照辉光教会的教士的说法。",
+      "target": "Theo lời của các giáo sĩ thuộc Giáo hội Huy Quang."
+    },
+    {
+      "segment_id": "0042",
+      "source": "这是辉光之神赐给信徒的祝福。",
+      "target": "Đây là lời chúc phúc của Thần Huy Quang ban tặng cho tín đồ."
+    },
+    {
+      "segment_id": "0043",
+      "source": "祝福的效果是会让人变得身体强健，不容易被邪恶的气息影响。",
+      "target": "Hiệu quả của lời chúc phúc là giúp cơ thể người ta khỏe mạnh hơn, không dễ bị ảnh hưởng bởi những luồng khí tức tà ác."
+    },
+    {
+      "segment_id": "0044",
+      "source": "除此之外，没了！",
+      "target": "Ngoài cái đó ra, không còn gì nữa!"
+    },
+    {
+      "segment_id": "0045",
+      "source": "他每天在家里做日常礼拜，效果也仅仅只是维持祝福不减弱消散罢了。",
+      "target": "Mỗi ngày anh ta thực hiện các buổi lễ bái thường nhật ở nhà, hiệu quả cũng chỉ là để duy trì lời chúc phúc không bị suy yếu rồi tiêu tán mà thôi."
+    },
+    {
+      "segment_id": "0046",
+      "source": "像他这样的普通信徒，辉光之神根本不会特意投下注视，更别提神谕了。",
+      "target": "Với một tín đồ bình thường như anh ta, Thần Huy Quang căn bản sẽ không đặc biệt để mắt tới, chứ đừng nói đến thần dụ."
+    },
+    {
+      "segment_id": "0047",
+      "source": "结果在求知之神这里，他才刚刚成为信徒，就能直接收到神谕？！",
+      "target": "Thế mà ở chỗ Thần Tri Thức, anh ta vừa mới trở thành tín đồ đã có thể trực tiếp nhận được thần dụ sao?!"
+    },
+    {
+      "segment_id": "0048",
+      "source": "“不用紧张，这是正常现象。”",
+      "target": "\"Không cần căng thẳng, đây là hiện tượng bình thường thôi.\""
+    },
+    {
+      "segment_id": "0049",
+      "source": "收到【吾主的真理普照大地】任务完成的信息，蕾娜便知道布兰登已经成为求知之神的信徒。",
+      "target": "Nhận được thông tin hoàn thành nhiệm vụ 【Chân lý của Chúa ta lan tỏa khắp đất】, Lena liền biết Brandon đã trở thành tín đồ của Thần Tri Thức."
+    },
+    {
+      "segment_id": "0050",
+      "source": "就像培特曾经对她做的那样，这回她充当了引路人的身份。",
+      "target": "Giống như những gì Pete từng làm cho cô, lần này cô đóng vai trò là người dẫn đường."
+    },
+    {
+      "segment_id": "0051",
+      "source": "“放心地向吾主祈祷吧，告诉祂你想知道的事情。”",
+      "target": "\"Hãy yên tâm cầu nguyện với Ngài đi, nói cho Ngài biết những việc anh muốn biết.\""
+    },
+    {
+      "segment_id": "0052",
+      "source": "“吾主会馈赠你相应的知识，当然，主的真理不是免费的，需要消耗你拥有的知识点数去兑换。”",
+      "target": "\"Ngài sẽ ban tặng anh tri thức tương ứng. Đương nhiên, chân lý của Ngài không phải là miễn phí, cần phải tiêu hao Điểm Tri Thức mà anh đang có để trao đổi.\""
+    },
+    {
+      "segment_id": "0053",
+      "source": "布兰登思考了一会。",
+      "target": "Brandon suy nghĩ một lát."
+    },
+    {
+      "segment_id": "0054",
+      "source": "“求知之神在上，请问，我该怎么做，才能成为一名强大的战士。”",
+      "target": "\"Thần Tri Thức tại thượng, xin hỏi, tôi phải làm sao mới có thể trở thành một Chiến Sĩ mạnh mẽ?\""
+    },
+    {
+      "segment_id": "0055",
+      "source": "他刚刚已经做完了天赋检测，结果跟他预料的差不多，他跟几位主神的亲和度都不高。",
+      "target": "Anh ta vừa mới làm xong bài kiểm tra thiên phú, kết quả cũng tương tự như anh ta dự liệu, độ tương thích của anh ta với vài vị chủ thần đều không cao."
+    },
+    {
+      "segment_id": "0056",
+      "source": "这种情况，要么放弃走评级职业者的路子，要么……就是开发自己体内的潜能，尝试着激发并驾驭怒气，成为一名战士。",
+      "target": "Tình huống này, hoặc là từ bỏ con đường trở thành Chức nghiệp giả được đánh giá, hoặc là... khai phá tiềm năng bên trong cơ thể mình, thử kích phát và khống chế nộ khí, trở thành một Chiến Sĩ."
+    },
+    {
+      "segment_id": "0057",
+      "source": "布兰登本来就不怎么喜欢那些需要天天做礼拜、认认真真向对应神明祈祷的职业路线。",
+      "target": "Brandon vốn đã không thích những con đường nghề nghiệp đòi hỏi phải làm lễ bái hằng ngày, thành tâm cầu nguyện với thần minh tương ứng."
+    },
+    {
+      "segment_id": "0058",
+      "source": "因为他觉得神明好像并不怎么关爱他，他能从神明那里得到的只是人人都有的最基础的赐福。",
+      "target": "Bởi vì anh ta cảm thấy dường như các vị thần chẳng hề đoái hoài gì đến mình, thứ anh ta có thể nhận được từ thần linh chỉ là lời ban phước cơ bản nhất mà ai ai cũng có."
+    },
+    {
+      "segment_id": "0059",
+      "source": "他的梦想是仗剑走遍大陆，四处冒险，最好能留下属于自己的传说故事，光凭那点神明的基础赐福，肯定不够。",
+      "target": "Ước mơ của anh ta là mang kiếm đi khắp đại lục, mạo hiểm khắp nơi, tốt nhất là để lại những câu chuyện truyền kỳ của riêng mình. Chỉ dựa vào chút ban phước cơ bản kia của thần linh thì chắc chắn là không đủ."
+    },
+    {
+      "segment_id": "0060",
+      "source": "战士是大陆上唯一一个不依靠神明力量的评级职业。",
+      "target": "Chiến Sĩ là chức nghiệp được đánh giá duy nhất trên đại lục không phụ thuộc vào sức mạnh của thần linh."
+    },
+    {
+      "segment_id": "0061",
+      "source": "这条路线的修行方式，要学会驾驭怒气的力量，在各种战技中附上怒气，爆发出强横的破坏力。",
+      "target": "Phương thức tu luyện của con đường này đòi hỏi phải học cách làm chủ sức mạnh của nộ khí, truyền nộ khí vào trong các loại chiến kỹ để bộc phát ra sức tàn phá cực kỳ mạnh mẽ."
+    },
+    {
+      "segment_id": "0062",
+      "source": "虽说战士不要求什么与神明的亲和度，但想成为战士，难度可一点都不低。",
+      "target": "Dù nói rằng Chiến Sĩ không đòi hỏi độ tương thích với thần linh, nhưng muốn trở thành Chiến Sĩ thì độ khó lại chẳng hề thấp một chút nào."
+    },
+    {
+      "segment_id": "0063",
+      "source": "怒气这东西，会就是会，不会就是不会。",
+      "target": "Nộ khí cái thứ này, biết là biết, không biết là không biết."
+    },
+    {
+      "segment_id": "0064",
+      "source": "人在极度愤怒的情况下，可以爆发出比平时更强的力量。",
+      "target": "Con người khi ở trong trạng thái cực kỳ phẫn nộ có thể bộc phát ra sức mạnh lớn hơn bình thường."
+    },
+    {
+      "segment_id": "0065",
+      "source": "但这不代表成功驾驭了怒气。",
+      "target": "Nhưng điều này không có nghĩa là đã làm chủ được nộ khí một cách thành công."
+    },
+    {
+      "segment_id": "0066",
+      "source": "想在战士路线上达成1阶评级，最基本的要求就是对怒气的使用收放自如。",
+      "target": "Muốn đạt được đánh giá cấp một trên con đường Chiến Sĩ, yêu cầu cơ bản nhất chính là sử dụng nộ khí một cách thu phóng tự nhiên."
+    },
+    {
+      "segment_id": "0067",
+      "source": "在情绪起伏不大，依然能维持理智的前提下，掌控着怒气的力量，还得加持于战技。",
+      "target": "Dưới tiền đề cảm xúc không dao động lớn, vẫn duy trì được lý trí, khống chế được sức mạnh của nộ khí, lại còn phải gia trì nó vào chiến kỹ."
+    },
+    {
+      "segment_id": "0068",
+      "source": "相比起向神明祈祷获取力量的那些职业者途径，如果亲和度足够高的话，信徒更容易得到对应的神力的回应，等于降低了难度。",
+      "target": "So với những con đường chức nghiệp giả dựa vào việc cầu nguyện thần linh để đạt được sức mạnh, nếu độ tương thích đủ cao, tín đồ sẽ dễ dàng nhận được phản hồi từ thần lực tương ứng hơn, đồng nghĩa với việc giảm bớt độ khó."
+    },
+    {
+      "segment_id": "0069",
+      "source": "这也是为什么有条件的情况下，最好先做一次天赋检测仪式。",
+      "target": "Đây cũng là lý do vì sao trong điều kiện cho phép, tốt nhất nên thực hiện một buổi nghi lễ kiểm tra thiên phú trước."
+    },
+    {
+      "segment_id": "0070",
+      "source": "可以确认自己跟哪位神明的亲和度更高，哪条路线难度更低。",
+      "target": "Nó có thể xác nhận bản thân có độ tương thích cao hơn với vị thần nào, con đường nào có độ khó thấp hơn."
+    },
+    {
+      "segment_id": "0071",
+      "source": "战士之道则没有任何投机取巧的办法。",
+      "target": "Còn con đường Chiến Sĩ thì không có bất kỳ phương pháp đi đường tắt hay mánh khóe nào."
+    },
+    {
+      "segment_id": "0072",
+      "source": "只能靠自己的努力。",
+      "target": "Chỉ có thể dựa vào sự nỗ lực của chính mình."
+    },
+    {
+      "segment_id": "0073",
+      "source": "驾驭不了怒气，那任何战技都是花架子，徒具其表。",
+      "target": "Không khống chế được nộ khí thì mọi chiến kỹ đều chỉ là động tác làm màu, chỉ có cái mã ngoài."
+    },
+    {
+      "segment_id": "0074",
+      "source": "布兰登之前从未听说过有哪位神明能给信徒在战士之路上提供帮助。",
+      "target": "Brandon trước đây chưa từng nghe nói có vị thần nào có thể trợ giúp tín đồ trên con đường Chiến Sĩ."
+    },
+    {
+      "segment_id": "0075",
+      "source": "可是在收到求知之神的神谕后，他产生了希望。",
+      "target": "Nhưng sau khi nhận được thần dụ của Thần Tri Thức, anh ta đã nhen nhóm hy vọng."
+    },
+    {
+      "segment_id": "0076",
+      "source": "他以前也从来没听说过哪位神明会直接回应某位信徒的祈祷啊！",
+      "target": "Trước đây anh ta cũng chưa từng nghe nói có vị thần nào sẽ trực tiếp phản hồi lời cầu nguyện của một tín đồ nào đó!"
+    },
+    {
+      "segment_id": "0077",
+      "source": "或许……求知之神真的跟其他神明不一样？",
+      "target": "Có lẽ... Thần Tri Thức thực sự khác biệt so với các vị thần khác?"
+    },
+    {
+      "segment_id": "0078",
+      "source": "【检测到信徒诉求】",
+      "target": "【Phát hiện thỉnh cầu của tín đồ】"
+    },
+    {
+      "segment_id": "0079",
+      "source": "【目标：战士修行之路起始，掌控怒气】",
+      "target": "【Mục tiêu: Khởi đầu con đường tu luyện Chiến Sĩ, làm chủ nộ khí】"
+    },
+    {
+      "segment_id": "0080",
+      "source": "【需求：3知识点数】",
+      "target": "【Yêu cầu: 3 Điểm Tri Thức】"
+    },
+    {
+      "segment_id": "0081",
+      "source": "布兰登激动地瞪大了眼睛。",
+      "target": "Brandon kích động trợn to mắt."
+    },
+    {
+      "segment_id": "0082",
+      "source": "“真的可以！”",
+      "target": "\"Thực sự được này!\""
+    }
+  ]
+}
