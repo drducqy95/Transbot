@@ -343,3 +343,8 @@ Chapter 37 completed via pipeline.
 
 ### Summary
 Chapter 33 completed via pipeline.
+
+## Chapter 0034 - Chương 34: Những hạt giống đầu tiên
+
+### Summary
+Chapter 34 completed via pipeline.

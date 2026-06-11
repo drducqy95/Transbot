@@ -1,0 +1,45 @@
+Based on the source context of **Chương 34** in the novel **Đừng Gọi Ta Tà Thần** ([source.md](file:///mnt/sdcard/My%20Agent/Transbot/Output/Dung%20Goi%20Ta%20Ta%20Than/pre_trans/Chapter%200034/source.md)), here is the review and classification of the scanned names and terms. 
+
+I have updated the workspace scanning status files directly:
+* Updated [glossary_scan.json](file:///mnt/sdcard/My%20Agent/Transbot/Output/Dung%20Goi%20Ta%20Ta%20Than/pre_trans/Chapter%200034/glossary_scan.json)
+* Created [ai_review.json](file:///mnt/sdcard/My%20Agent/Transbot/Output/Dung%20Goi%20Ta%20Ta%20Than/pre_trans/Chapter%200034/ai_review.json)
+
+### Classification JSON
+
+```json
+{
+  "approved": [
+    "潜行"
+  ],
+  "rejected": [
+    "一条一条的",
+    "感知怒气于体",
+    "战技。\n布兰",
+    "深度呼吸，状",
+    "调整强度，依"
+  ],
+  "uncertain": []
+}
+```
+
+---
+
+### Detailed Review & Explanations
+
+#### 1. Approved Items
+* **`潜行`** (Stealth / Tiềm Hành)
+  * **Type**: Skill (kỹ năng)
+  * **Translation**: `Tiềm Hành`
+  * **Reason**: Standard fantasy/RPG skill name (Stealth). Used consistently in the novel for Rogue/Sneak characters (e.g. Leyla).
+
+#### 2. Rejected Items
+* **`一条一条的`** (yī tiáo yī tiáo de)
+  * **Reason**: Common descriptive phrase meaning "one by one" or "strip by strip" (from *一条一条的相关训练要点*). Not a terminology entry.
+* **`感知怒气于体`** (gǎn zhī nù qì yú tǐ)
+  * **Reason**: Sentence fragment from the warrior training manual inside brackets: *【感知怒气于体内的来源，期间保持理智与冷静】* (Cảm nhận nguồn gốc nộ khí trong cơ thể, trong lúc đó giữ lý trí và bình tĩnh). It is an instruction block rather than a standalone term.
+* **`战技。\n布兰`** (zhàn jì. \n bù lán)
+  * **Reason**: A corrupted extraction string resulting from joining two lines together (the end of the sentence *完整的掌握【潜行】战技。* and the start of the next paragraph *布兰登的天赋就差了不少。*).
+* **`深度呼吸，状`** (shēn dù hū xī, zhuàng)
+  * **Reason**: Incomplete, truncated sentence fragment from the bracketed instruction: *【深度呼吸，状态平稳...】* (Hít thở sâu, trạng thái bình ổn...).
+* **`调整强度，依`** (tiáo zhěng qiáng dù, yī)
+  * **Reason**: Incomplete, truncated sentence fragment from the bracketed instruction: *【调整强度，依照特定的经络通道...】* (Điều chỉnh cường độ, dựa theo đường kinh lạc đặc thù...).
