@@ -1,12 +1,12 @@
 [
   {
-    "chapter_number": 2,
-    "title": "Chương 2: Thuộc Tính",
-    "relative_path": "output/Chương 0002 - Chương 2 Thuộc Tính.md"
-  },
-  {
     "chapter_number": 1,
     "title": "Chương 1: Phương Nguyên",
     "relative_path": "output/Chương 0001 - Chương 1 Phương Nguyên.md"
+  },
+  {
+    "chapter_number": 2,
+    "title": "Chương 2: Thuộc Tính",
+    "relative_path": "output/Chương 0002 - Chương 2 Thuộc Tính.md"
   }
 ]

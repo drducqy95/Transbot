@@ -1,0 +1,80 @@
+I will start by checking the files in the workspace directory to see if there is any existing glossary, codebase, or translation rules.
+I will view the contents of the [README.md](file:///mnt/sdcard/My Agent/Transbot/README.md) file to understand the project structure and context.
+I will list the contents of the `Script` directory to see the translation scripts.
+I will search the python files for references to "approved", "rejected", or "glossary" to see if there is an expected JSON format or validation process.
+I will search for the word `terms` in the python scripts to see how terms and glossary are processed.
+I will view the beginning of `transbot_pipeline.py` to see what kind of translation system is being built and how terms might be used.
+I will list the contents of the `Global State` directory to see if there are glossary files or JSON files related to translation states.
+I will list the contents of the `Source` directory.
+I will list the contents of the `$TRANS_DIR` directory to see if any config files or glossary/term databases are located there.
+I will list the contents of the `Output` directory.
+I will view `Output/home.json` to see what kind of global structure is kept in the output directory.
+I will list the contents of the `Output/Dung Goi Ta Ta Than` directory to see its structure.
+I will search for the word `glossary` inside `/mnt/sdcard/My Agent/Transbot/Output/Dung Goi Ta Ta Than/translation_config.json` to see if it holds a glossary of terms.
+I will list the contents of `Output/Dung Goi Ta Ta Than/state/` to see if there is a glossary file.
+I will view the glossary file `Glossary.md` in `Output/Dung Goi Ta Ta Than/state/` to see the structure and current entries of the glossary.
+I will view `Character.md` in the same directory to get more context about the names.
+I will view the contents of the `safe_run.py` script.
+I will view `scan_branches.py` to see what it does.
+I will search for the term `种植术` in the source files to see how it is used.
+I will search for the term `种植` in the entire workspace to see where it appears.
+I will view the relevant lines in the source file of Chapter 2 for *Tieu Dao Mong Duong* to get context on the scanned terms.
+I will view the file `glossary_scan.json` in `Output/Tieu Dao Mong Duong/pre_trans/Chapter 0002/` to see the structure of the scanned terms.
+Here is the review of the terms for the translation of the novel *Tiêu Dao Mộng Lộ* (*Carefree Path of Dreams*).
+
+### Context Analysis
+Based on Chapter 2 of *Tiêu Dao Mộng Lộ*, these terms come from the protagonist's game-like attribute/character panel where his skills and specializations are listed (e.g., `专长：医术【一级】、种植术【二级】`). 
+
+### Reviewed Terms (JSON)
+
+```json
+{
+  "approved": [
+    {
+      "term": "一级",
+      "translation": "Cấp một / Bậc một / Cấp I",
+      "reason": "Valid rank/tier term referring to Level 1 skills (e.g., Medicine [Level 1]) in the protagonist's status panel."
+    },
+    {
+      "term": "二级",
+      "translation": "Cấp hai / Bậc hai / Cấp II",
+      "reason": "Valid rank/tier term referring to Level 2 skills (e.g., Planting [Level 2]) in the protagonist's status panel."
+    },
+    {
+      "term": "三级",
+      "translation": "Cấp ba / Bậc ba / Cấp III",
+      "reason": "Valid rank/tier term referring to Level 3 skills (e.g., Planting [Level 3]) after the protagonist upgrades them."
+    }
+  ],
+  "rejected": [
+    {
+      "term": "——你是一位",
+      "reason": "Sentence fragment from the description of a specialization starting with an em-dash."
+    },
+    {
+      "term": "——你是种植",
+      "reason": "Sentence fragment from the description of a specialization starting with an em-dash."
+    },
+    {
+      "term": "——能治疗简",
+      "reason": "Sentence fragment from the description of a specialization starting with an em-dash."
+    },
+    {
+      "term": "”\n……\n这",
+      "reason": "Punctuation/formatting noise containing quotes, a newline, and ellipsis."
+    },
+    {
+      "term": "，纵然如此，",
+      "reason": "Common transitional conjunction (meaning 'even so' or 'nevertheless') enclosed by Chinese punctuation commas, not a vocabulary term."
+    }
+  ],
+  "uncertain": [
+    {
+      "term": "、种植术",
+      "reason": "Contains an leading Chinese enumeration comma (、) that makes the raw string invalid. However, the cleaned term '种植术' (Planting/Horticulture Skill) is a core system terminology and should be approved once cleaned.",
+      "suggested_cleanup": "种植术",
+      "suggested_translation": "Thuật trồng trọt / Kỹ năng trồng trọt"
+    }
+  ]
+}
+```

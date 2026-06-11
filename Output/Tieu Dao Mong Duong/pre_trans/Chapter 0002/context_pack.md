@@ -1,0 +1,211 @@
+# Translation Context Pack
+
+## Project
+- Branch: Tieu Dao Mong Duong
+- Title: 
+- Author: 
+- Genre: /
+- Language: zh → vi
+
+## Translation Rules
+### Translation Goal
+Dịch truyện Trung sang tiếng Việt tự nhiên, dễ đọc, đúng nghĩa, đúng mạch truyện, đúng văn cảnh, đúng xưng hô, đúng tên riêng và thuật ngữ.
+Style: văn xuôi tiếng Việt mượt, rõ nghĩa, không máy móc
+Priorities:
+  • đúng nghĩa và đúng văn cảnh
+  • đúng tên riêng
+  • đúng thuật ngữ theo loại và bối cảnh
+  • đúng xưng hô và quan hệ nhân vật
+  • giữ ổn định thuật ngữ/tên riêng/xưng hô đã khóa
+  • tự nhiên trong tiếng Việt
+  • giữ nhịp văn, cảm xúc và giọng kể gốc
+Anti-goals:
+  • không dịch từng chữ máy móc
+  • không Hán Việt hóa tên Nhật, Hàn, phương Tây, fandom, thương hiệu, kỹ thuật
+  • không áp VietPhrase/LuatNhan lên tên riêng đã khóa
+  • không đổi thuật ngữ đã khóa nếu văn cảnh giống nhau
+  • không dùng một bản dịch cứng cho từ đa nghĩa khi văn cảnh khác nhau
+  • không làm lộ thông tin ngoài POV nếu bản gốc chưa tiết lộ
+
+### Output Rules
+  • keep paragraph structure
+  • keep dialogue structure
+  • do not merge paragraphs
+  • do not split paragraphs unnecessarily
+  • preserve punctuation when reasonable
+  • convert chinese quotes to vietnamese
+  • remove unnecessary explanation
+  • output only translation
+  • do not add notes inside translation
+  • mark uncertain items for audit only
+
+### Tone Guidelines
+  • narration: tự nhiên, rõ ràng, có chất truyện
+  • dialogue: phù hợp thân phận, quan hệ, tuổi tác, quyền lực và bối cảnh
+  • ancient_setting: cổ phong vừa phải, không lạm dụng Hán Việt khó hiểu
+  • modern_setting: hiện đại, đời thường, không cổ hóa lời thoại
+  • game_system: rõ ràng, gọn, quen thuộc với văn phong game/system
+  • comedy: giữ nhịp hài nếu có
+  • serious: giữ sắc thái căng thẳng, trang trọng nếu có
+
+### Term Normalization
+Purpose: Chuẩn hóa thuật ngữ theo văn cảnh truyện, bao gồm chiêu thức, nghề nghiệp, chức vị, cảnh giới, kỹ năng, vật phẩm, danh hiệu, tổ chức, hệ thống, khái niệm thế giới quan và cụm cố định lặp lại.
+Core principles:
+  • context first
+  • not word by word
+  • same source can have different translation if context differs
+  • same source same context must be consistent
+  • same term type should keep style consistent
+  • locked translation only applies to matching context
+  • source plus type plus context equals translation
+Decision rules:
+  • Không dịch thuật ngữ chỉ theo mặt chữ.
+  • Một source có thể có nhiều bản dịch nếu văn cảnh khác nhau.
+  • Một bản dịch đã khóa chỉ áp dụng cho đúng loại văn cảnh đã khóa.
+  • Tên chiêu thức, cảnh giới, pháp bảo quan trọng nên dùng dạng Hán Việt chuẩn, viết hoa nếu là danh từ riêng.
+  • Vật phẩm phổ thông không cần Hán Việt hóa quá mức.
+  • Nghề nghiệp phải xét bối cảnh.
+  • Chức vị phải xét hệ thống xã hội.
+  • Nếu cùng source và cùng văn cảnh, phải giữ nhất quán.
+  • Nếu không chắc văn cảnh, đánh dấu audit.
+
+### Engine Rules
+  • use context pack
+  • use previous chapter summary
+  • use character profile
+  • use story timeline
+  • use glossary
+  • use name scan
+  • use segment context
+  • avoid over literal translation
+  • avoid over smoothing that changes meaning
+
+## Characters
+N/A
+
+## Glossary
+N/A
+
+## Story Timeline (latest)
+
+## Chapter 0001 - Chương 1: Phương Nguyên
+
+### Summary
+Chapter 1 completed via pipeline.
+
+## Chapter 0002 - Chương 2: Thuộc Tính
+
+### Summary
+Chapter 2 completed via pipeline.
+
+## Chapter 0001 - Chương 1: Phương Nguyên
+
+### Summary
+Chapter 1 completed via pipeline.
+
+
+## Source Chapter 2 - 0002 属性（新书上传，求支持！）
+# 第2章 属性（新书上传，求支持！）
+
+深夜，月色如水。
+在幽谷之后，有着一条隐秘的林间小道，走了片刻，再拨开灌木，面前的场景就豁然开朗，赫然是一片平整的土地，上面诸多作物欣欣向荣。
+白天，见到幽谷中的出产，已经令林员外与余秋冷惊诧非常，但若到了这里，必然连眼珠子都要瞪下来。
+沉甸甸的玉晶米，原本小小的米粒此时却是如同珍珠一般圆润硕大，在月色下闪烁着光华。
+除此之外，还有硕果累累的碧玉果树，色泽越深，药效越强的青首乌，叶片已经紫得发黑，以及火龙树、蓝星草……诸多比较寻常的药材、粮食作物，似乎纷纷在这片土地上起了异变，长势好到吓人。
+当然，如果这里真的被发现，那保不准其他人要打什么坏主意了。
+因为只有传说中的福地，才能有着如此催发万物生长的奇效！
+而这种宝地，纵然整个归灵宗，也只有一小亩而已。
+奈何这个念头如果被方元知道，一定会嗤之以鼻，因为只有他才最为清楚，这片田亩虽然比较肥沃，但距离传说中能种仙种的福地，还是有着很大一段距离。
+“师父啊……”
+此时的他，站在一座无字石碑之前，面容带着一丝悲怆。
+方元本来是一个孤儿，被问心居士收养，两人相依为命，他的这位师父是一位奇人，不仅精擅种植与岐黄之学，为人更是豁达无比。
+在他临死之前，有着遗命，让方元将他尸骨烧成灰烬，撒遍群山，若要悼念，立一无字碑就可。
+说完之后，问心居士就闭目长逝，方元自然依命而行，只是暗地里猜测，或许师父以前招惹的仇家太多，死后生怕被报复，索性自己先将自己挫骨扬灰，立碑也是无字之碑，外人就无可奈何了。
+“今天我种了茶花，您最喜欢的那一种……田园里的九紫禾也开始抽芽了……”
+方元絮絮叨叨得对石碑说着：“哦……还有，林员外前来退婚，倒是送了不少好东西进来，其中还有师父你一直念叨的灵种红玉稻，我今晚就去种下！”
+祝祷完了之后，方元来到专门理出的一片空地上。
+此时月亮爬到正中，高高挂起，清辉的月光洒落，能见度并不是很差。
+借着月色，他挥舞锄头，小心翼翼地挖着坑，再将如火一般的稻种洒落。
+“这红玉稻，必须在阴时耕种，水要无根水，幽谷内的山泉水勉强可以，初种之时，每三个时辰松一次土，还要配以‘还火液’……”
+对于灵种种植，方元早就在问心居士的熏陶下烂熟于心，只是缺少实际操作经验。
+这时一丝不苟地劳作，汗水就渐渐落下，渗入土中。
+灵种远比凡物娇贵，种植起来也越发费劲。
+等到方元将最后一颗灵种侍弄好之后，不远处的天边已经泛出鱼肚白。
+“呼！”
+“总算种完了……”
+方元擦了把汗，吐出一口长气：“这可是灵种，应该足够让我的能力再次提升了吧？”
+在他心里，一直埋藏着一个秘密。
+从小时候开始，他就会常常进入一个梦境，里面的世界光怪陆离，又真实无比，置身其中，就仿佛身临其境地体验另外一个人生一般。
+是以纵然幽居山谷，很少外出，但他的举止行为却是老成无比，两世为人，心智也聪慧非凡。
+并且，还有一个小小的福利，或者说馈赠。
+伴随着方元的念头，一个只有他才能看到的光幕顿时浮现在眼前：
+“姓名：方元
+精：1
+气：1
+神：1
+年龄：18
+修为：无
+技能：无
+专长：医术【一级】、种植术【二级】”
+……
+这个类似梦里游戏属性表一样的东西，就是方元最大的秘密。
+并且，还有着特殊的作用。
+当他将目光投射到专长上的时候，更多的信息浮现了：
+“医术【一级】——能治疗简单伤势，包括轻微类的外伤，通过草药，可以获得额外的治愈加成效果。”
+“种植术【二级】——你是一位娴熟的种植家，任何普通作物在你手上，都可以成长到物种的极限！”
+这种植术所在，自然就是满山满谷欣欣向荣植物的原因了。
+“精气神应该是身体属性，而技能与修为，应该就是我主动或者攻击性的能力，而专长则是被动与辅助……”
+经过这么多年的摸索，方元对于自己的属性表也有了更多的了解。
+“目前的我，身体素质已经跟普通成年人一样，还有专长……”
+他早就发现，在这专长里面，应该还有类似经验值一般的限制，通过大量的练习，熟练度上升，专长的等级也会发生变化。
+好比医术，纵然问心居士妙手回春，悉心教导，可惜方元之前能练手的对象实在太少，总不能拿师父当实验品吧？因此熟练度一直上不去，从头到尾都是【一级】，纵然如此，也得到问心居士的赞誉，认为获得了他的三分真传。
+倒是种植术，在问心居士死后，方元终于再也没有任何顾忌，可以尽情地大展身手，将其提升到了二级，获得的效果也是无与伦比。
+按照方元自己的揣测，纵然问心居士，在这方面也有所不及了。
+奈何到了二级之后，种植术就似乎遇到了瓶颈，不论种得再多都难以继续提升，方元尝试了多次之后，就将主意打到了问心居士曾经提到过，在普通作物之上的灵种、仙种方面。
+奈何这种东西实在珍惜无比，纵然是林员外，也唯有等到女儿攀上归灵宗之后，才能搞到手，作为赔礼给他送来。
+“红玉稻米啊……纵然只是最低等的灵种，在整个归灵宗之内，恐怕也只有那位武宗与嫡系才能享用吧？”
+方元轻舒口气。
+林员外给他送来这个，纯粹是补偿的心思多一点，根本就没有指望他有什么成就。
+实际上也正是如此，错非拥有着专长能力，方元才不会去打这灵种的主意。
+不过，只要对方能帮助他突破目前的瓶颈，那也就足够了！
+此时，就到了应该见分晓的时候！
+方元全神贯注地注视着种下红玉稻种的土地。
+伴随着朝阳初生，第一缕紫气落下的时候，一种只有他才能看见的晶莹白光，一下从土地上浮现，丝丝缕缕地汇聚到他面前的属性栏当中。
+种植术后面，二级的标示一下模糊，旋即跳了一跳，变成了三级！
+三级种植术！
+方元揉了揉眼睛，确认自己并没有看错，嘴角终于露出笑意，并且越发扩大起来：“哈哈……哈哈……老子发啦！！！”
+他之所以这么狂喜，是因为种植术的专长介绍彻底变化了：
+“种植术【三级】——你是种植界当之无愧的专家级人物，双手拥有不可思议的力量，经过你种植的作物，有极小概率发生优良性状异变！”
+概率小不小的，方元根本无所谓，但这意味着，自己的专长与能力，绝对是可以随着熟练度而提升的！
+这个猜想一旦验证，就代表自己终于有了在这个世界上立足的底牌！
+毕竟，只是一个普通的种植术提升，都有如此不可思议的效果，如果换成其它的能力，甚至功法，又会怎么样？
+“优良性状异变？”
+冷静下来之后，方元立即开始摸索着自己的这个能力。
+“那些普通植物，在我手上已经成长到了物种的极限，接下来的异变，莫非说的是……突破限制，从普通转为灵物？”
+他摸了摸下巴，心里则是越发凛然起来，知道如果猜测为真，那自己的这个能力，更是不能对外流传出去。
+否则，必然少不了被那些大势力抓去，当成实验的小白鼠，又或者一辈子的老园丁。
+“确认这些之后，接下来是不是应该找本功法什么的了……”
+冷静下来之后，方元正对着自己的早餐，有些烦恼。
+这山谷物资齐备，他随手给自己准备的食物就诱人非常。
+主食是一条刚刚从溪水里抓来的烤鱼，熏得外焦里嫩，绝对没有半点鱼腥味，入口即化，口感丝滑无比。
+饮用的也是山泉水，清澈甘甜，沁人心脾。
+除此之外，还有营养丰富的黄精，与红扑扑、看着就十分喜人的一串浆果。
+他先塞了一棵烤熟的黄精入嘴，又狠狠咬了一口烤鱼：“呜……好吃！好吃！听说归灵宗是什么方圆百里第一大派，不知道是什么气象，武宗又有多厉害，说起来……我连这个世界什么模样都还不知道呢！可惜……师父也没有给我留下什么武功秘籍，他不是隐世高人么？怎么可能没有神功秘笈传下？这不科学！”
+幽居山谷十八年之后，方元也有了一颗躁动的心，想看看外面的世界。
+“不过目前为止，还是应该将自己的能力充分发掘出来再说……外面的世界很精彩，也肯定很危险，我这小身板，还是默默练级先！”
+吃饱喝足之后，方元回到房屋，心满意足地倒头就睡，没有多久就进入了梦乡。
+
+
+## Output Format
+Return ONLY valid JSON matching this schema:
+{
+  "chapter_number": 2,
+  "chapter_title_vi": "Chương 2: <Vietnamese title>",
+  "segments": [
+    {
+      "segment_id": "XXXX",
+      "source": "...",
+      "target": "..."
+    }
+  ]
+}
