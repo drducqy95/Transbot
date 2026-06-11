@@ -113,3 +113,5 @@
 - **Git:** pending
 2026-06-11 10:34:15 | Chapter 0027 | Hạ thấp rào cản | Dịch+Audit+Final | Hoàn thành
 2026-06-11 10:45:00 | Chapter 0028 | Thần Bóng Tối, Thần Công Chính: Bọn ta không ý kiến | Dịch+Audit+Final  | Hoàn thành
+
+2026-06-11 10:52:00 | Chapter 0029 | Chợ Đen | Dịch+Audit+Final | Hoàn thành
