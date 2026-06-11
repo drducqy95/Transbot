@@ -29,9 +29,9 @@ Thế giới fantasy phương Tây với ma pháp, thần minh, học viện ma 
 
 ## Tiến độ
 - Tổng số chương: 968
-- Đã hoàn thành: 15
+- Đã hoàn thành: 16
 - Đã audit: 13
-- Chương cuối đã hoàn thành: Chương 15: Xung đột quán rượu
+- Chương cuối đã hoàn thành: Chương 16: Pháp thuật vị? Thứ gì thế
 - Trạng thái: Đang dịch
 - Lần cập nhật gần nhất: 2026-06-11 08:15:00
 

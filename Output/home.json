@@ -11,8 +11,11 @@
       "status": "in_progress",
       "status_label": "Đang ra",
       "ongoing": true,
-      "updated_at": "2026-06-11T07:30:00+07:00",
-      "detail": "Tiến độ: 15/968 chương | Mới nhất: Chương 15: Xung đột quán rượu"
+      "updated_at": "2026-06-11T08:30:00+07:00",
+      "detail": "Tiến độ: 15/968 chương | Mới nhất: Chương 15: Xung đột quán rượu",
+      "last_chapter": 16,
+      "last_chapter_title": "Pháp thuật vị? Thứ gì thế",
+      "progress": "16/968"
     }
   ],
   "metadata": {

@@ -1,0 +1,81 @@
+{
+  "chapter": 16,
+  "pass": true,
+  "total_issues": 12,
+  "errors": [],
+  "warnings": [
+    {
+      "type": "GLOSSARY_MISMATCH",
+      "severity": "warning",
+      "segment": "s16-03",
+      "detail": "Cần có 'Pháp thuật vị' cho '法术位' nhưng không tìm thấy"
+    },
+    {
+      "type": "GLOSSARY_MISMATCH",
+      "severity": "warning",
+      "segment": "s16-04",
+      "detail": "Cần có 'Pháp thuật vị' cho '法术位' nhưng không tìm thấy"
+    },
+    {
+      "type": "GLOSSARY_MISMATCH",
+      "severity": "warning",
+      "segment": "s16-07",
+      "detail": "Cần có 'Pháp thuật vị' cho '法术位' nhưng không tìm thấy"
+    },
+    {
+      "type": "GLOSSARY_MISMATCH",
+      "severity": "warning",
+      "segment": "s16-11",
+      "detail": "Cần có 'Pháp thuật vị' cho '法术位' nhưng không tìm thấy"
+    },
+    {
+      "type": "GLOSSARY_MISMATCH",
+      "severity": "warning",
+      "segment": "s16-12",
+      "detail": "Cần có 'Pháp thuật vị' cho '法术位' nhưng không tìm thấy"
+    },
+    {
+      "type": "GLOSSARY_MISMATCH",
+      "severity": "warning",
+      "segment": "s16-09",
+      "detail": "Cần có '【O Thuật Phi Đạn】' cho '奥术飞弹' nhưng không tìm thấy"
+    },
+    {
+      "type": "GLOSSARY_MISMATCH",
+      "severity": "warning",
+      "segment": "s16-01",
+      "detail": "Cần có '【Nhiệm Vụ】' cho '任务' nhưng không tìm thấy"
+    },
+    {
+      "type": "GLOSSARY_MISMATCH",
+      "severity": "warning",
+      "segment": "s16-06",
+      "detail": "Cần có '【Nhiệm Vụ】' cho '任务' nhưng không tìm thấy"
+    },
+    {
+      "type": "GLOSSARY_MISMATCH",
+      "severity": "warning",
+      "segment": "s16-14",
+      "detail": "Cần có '【Nhiệm Vụ】' cho '任务' nhưng không tìm thấy"
+    },
+    {
+      "type": "GLOSSARY_MISMATCH",
+      "severity": "warning",
+      "segment": "s16-07",
+      "detail": "Cần có 'cấp 3' cho '三阶' nhưng không tìm thấy"
+    },
+    {
+      "type": "GLOSSARY_MISMATCH",
+      "severity": "warning",
+      "segment": "s16-08",
+      "detail": "Cần có 'cấp 3' cho '三阶' nhưng không tìm thấy"
+    },
+    {
+      "type": "GLOSSARY_MISMATCH",
+      "severity": "warning",
+      "segment": "s16-10",
+      "detail": "Cần có 'cấp 3' cho '三阶' nhưng không tìm thấy"
+    }
+  ],
+  "reflection_needed": false
+}
