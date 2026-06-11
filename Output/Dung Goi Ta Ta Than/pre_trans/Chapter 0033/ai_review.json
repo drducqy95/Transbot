@@ -1,57 +1,100 @@
-I will start by analyzing the workspace to understand the codebase context, particularly look for translation files, glossary files, or code relating to the translation pipeline, which will help us align with the project's formatting and terminology.
-I will inspect the `Script` and `Source` directories to understand the structure of the translation tool or bot.
-I will inspect the `Source` directory to see if there are translation resources, glossary databases, or chapter files.
-I will list the `$TRANS_DIR` directory to see what it contains.
-I will view the `transbot_pipeline.py` script to understand how names and terms are processed.
-I will list the contents of the `Source/Source Split` directory to see what branches exist.
-I will list the contents of the output directory for the branch `Dung Goi Ta Ta Than`.
-I will view `translation_config.json` in the `Dung Goi Ta Ta Than` directory to see the translation configuration and glossary database format.
-I will check the files inside the `Output/Dung Goi Ta Ta Than/output` directory.
-I will read the `README.md` file in the output directory.
-I will check the `converter_db` directory to see if there is any translation/terminology database there.
-I will check the `state` directory.
-I will read the `Glossary.md` file in the state directory to get the full definitions of the translation terms.
-I will perform a search in the source chapters to see the context of these terms.
-I will search for the substring "真名" to see where it appears in the source text and verify if "真名知晓" is part of a system log or status term.
-I will list the files in the `Source/Source full` directory.
-I will list the directory `Source/Source Split/Dung Goi Ta Ta Than` to see how the split chapter files are named.
-I will view parts of `Chapter 0009 真名知晓.md` to see the context of "真名知晓" and confirm if it is a specific system term/ability or just a phrase.
-I will read the translated file `Chương 0009 - Biết Tên Thật.md` to see how the term `真名知晓` was translated.
-Here is the review of the translation names and terms classified into **approved**, **rejected**, and **uncertain** categories.
+I will list the directory contents to understand the structure of the workspace and see if there are any existing translation tables, glossaries, or translation chapters.
+I will search for scripts or documents in the `Script` and `$TRANS_DIR` directories to see how translation terms are handled.
+I will list the `$TRANS_DIR` directory to see what is stored there.
+I will list the `Source` directory to see what translation sources we have.
+I will run a grep search for "Norven" to locate files related to the novel being translated.
+I will check the files and subfolders in the novel's output directory to understand how the translation project is configured and see if there are any other configuration files or script pipelines for this novel.
+I will view the `translation_config.json` file to read the translation rules and term maps already established for this novel.
+I will view the rest of the `translation_config.json` file.
+I will list the state directory to see what reference files are available.
+I will view the `state/Glossary.md` to see the currently approved term translations.
+I will search for the term "真名知晓" or others in the Output directory to see if they appear in any translation logs or chapter files, which might tell us how they were translated or what they mean in context.
+I will run a search for "任务完成的信" or parts of it to see if it has been translated or if there's context for it in the chapters.
+I will view the `glossary_scan.json` file of Chapter 33 to see if these terms are listed with their suggested target translations.
+I will view the contents of `source.md` in Chapter 33 to see the full sentences containing these pending terms so I can understand the context.
+I will view the `glossary_scan.json` from Chapter 9 to see how terms were reviewed and marked.
+I will search for the translation of "吾主" in the translated chapters to ensure term consistency.
+I will search for the translation of "吾主" to see if it is translated as "Chủ nhân" or "chủ nhân của ta".
+I will search for "吾主" in Chapter 30 files to see how it was translated there.
+I will list the contents of the `audit` directory to see which chapters have already been completed and reviewed.
+I will search for "吾主" in Chapter 33's audit results to see how it was actually translated.
+I will list the files in the audited folder for Chapter 33.
+I will search the whole output directory for the occurrence of "吾主" in any file.
+I will search for the translation of "吾主的真理普照大地" in the translated folders of Chapter 18 and 20 to find the established Vietnamese translation.
+I will view `translate_result/Chapter 0018/translated_segments.json` to see the actual Vietnamese translation of the task "吾主的真理普照大地".
+I will view `translate_result/Chapter 0020/translated_segments.json` around line 51 to confirm that the translation `Chân lý của Chúa ta lan tỏa khắp đất` is consistently used for the task "吾主的真理普照大地".
+Dưới đây là kết quả đánh giá các tên và thuật ngữ được trích xuất từ chương truyện dựa trên bối cảnh của tác phẩm [Đừng Gọi Ta Tà Thần](file:///mnt/sdcard/My%20Agent/Transbot/Output/Dung%20Goi%20Ta%20Ta%20Than/) (bao gồm [state/Glossary.md](file:///mnt/sdcard/My%20Agent/Transbot/Output/Dung%20Goi%20Ta%20Ta%20Than/state/Glossary.md) và chương đang dịch [pre_trans/Chapter 0033/source.md](file:///mnt/sdcard/My%20Agent/Transbot/Output/Dung%20Goi%20Ta%20Ta%20Than/pre_trans/Chapter%200033/source.md)):
 
 ```json
 {
   "approved": [
-    "潜行",
-    "真名知晓"
+    {
+      "source": "潜行",
+      "translation": "Tiềm Hành",
+      "type": "skill",
+      "reason": "Kỹ năng ẩn nấp/lén lút tiêu chuẩn (Stealth), đã được dịch nhất quán là 'Tiềm Hành' từ các chương trước (ví dụ Chương 30)."
+    },
+    {
+      "source": "真名知晓",
+      "translation": "Biết Tên Thật",
+      "type": "spell",
+      "reason": "Pháp thuật cấp 2 do Norven ban tặng cho Pete, được dùng nhất quán từ Chương 9 làm tiêu đề chương và xuyên suốt các chương 9, 11, 27, 30 là 'Biết Tên Thật'."
+    }
   ],
   "rejected": [
-    "任务完成的信",
-    "吾主的真理普",
-    "布兰登激动",
-    "检测到信徒诉",
-    "的配合，给目",
-    "目标：战士修",
-    "被诺文设定为",
-    "需求：3知识",
-    "，4名新信徒"
+    {
+      "source": "布兰登激动",
+      "reason": "Không phải thuật ngữ. Đây là tổ hợp tên nhân vật 'Brandon' và động từ/tính từ 'kích động' (布兰登 + 激动) trong câu '布兰登激动地瞪大了眼睛'."
+    },
+    {
+      "source": "的配合，给目",
+      "reason": "Mảnh cắt câu rác (garbage segment) bị trích xuất lỗi từ câu '的配合，给目标...'."
+    },
+    {
+      "source": "被诺文设定为",
+      "reason": "Mảnh cắt câu rác dịch nghĩa là 'được Norven thiết lập thành', không phải thuật ngữ hay tên riêng."
+    },
+    {
+      "source": "需求：3知识",
+      "reason": "Mảnh cắt câu từ giao diện hệ thống '需求：3知识点数' (Yêu cầu: 3 Điểm Tri Thức), không phải danh từ riêng hay thuật ngữ cố định cần khóa."
+    },
+    {
+      "source": "，4名新信徒",
+      "reason": "Mảnh cắt câu rác dịch nghĩa là ', 4 tín đồ mới'."
+    }
   ],
-  "uncertain": []
+  "uncertain": [
+    {
+      "source": "任务完成的信",
+      "correct_source": "任务完成的信息",
+      "suggested_translation": "thông tin hoàn thành nhiệm vụ / thông báo hoàn thành nhiệm vụ",
+      "reason": "Từ bị cắt cụt (truncated) ở cuối từ '信息' (thông tin) thành '信' (thư/tin). Câu gốc: '收到...任务完成的信息' (Nhận được thông tin hoàn thành nhiệm vụ...)."
+    },
+    {
+      "source": "吾主的真理普",
+      "correct_source": "吾主的真理普照大地",
+      "suggested_translation": "Chân lý của Chúa ta lan tỏa khắp đất / Chân lý của chúa tể ta soi sáng mặt đất",
+      "reason": "Từ bị cắt cụt từ tên nhiệm vụ tuần hoàn '吾主的真理普照大地' đã xuất hiện và được dịch ở Chương 18 và 20."
+    },
+    {
+      "source": "检测到信徒诉",
+      "correct_source": "检测到信徒诉求",
+      "suggested_translation": "Phát hiện lời thỉnh cầu của tín đồ",
+      "reason": "Dòng trạng thái hệ thống bị cắt cụt chữ '求' ở cuối. Câu gốc: '检测到信徒诉求' (Phát hiện lời thỉnh cầu của tín đồ) đã xuất hiện ở Chương 20."
+    },
+    {
+      "source": "目标：战士修",
+      "correct_source": "目标：战士修行之路起始",
+      "suggested_translation": "Mục tiêu: Bắt đầu con đường tu hành chiến sĩ",
+      "reason": "Mảnh giao diện hệ thống bị cắt cụt chữ '行之路起始' ở cuối. Câu gốc: '目标：战士修行之路起始，掌控怒气' (Mục tiêu: Bắt đầu con đường tu hành chiến sĩ, kiểm soát nộ khí)."
+    }
+  ]
 }
 ```
 
-### Analysis & Explanation
-1. **Approved Terms**:
-   * **`潜行`** (Stealth / Prowl): A standard RPG/fantasy ability/class term (matching the occupation rule for *Tiềm Hành Giả*). Translated to **`Tiềm hành`** in Vietnamese.
-   * **`真名知晓`** (True Name Cognition / Knowing the True Name): A specific 2nd-level spell name and quest mechanism featured in the story (e.g. [Chapter 9](file:///mnt/sdcard/My%20Agent/Transbot/Output/Dung%20Goi%20Ta%20Ta%20Than/output/Ch%C6%B0%C6%A1ng%200009%20-%20Bi%E1%BA%BFt%20T%C3%AAn%20Th%E1%BA%ADt.md)). Translated to **`Biết Tên Thật`** or **`Chân Danh Tri Hiểu`**.
-
-2. **Rejected Items**:
-   * **`任务完成的信`** (Letter of task completion): A generic phrase, not a terminology key.
-   * **`吾主的真理普`** (My Lord's truth pu...): Truncated/incomplete phrase.
-   * **`布兰登激动`** (Brandon [is/was] excited): A sentence fragment combining a character name and an emotion.
-   * **`检测到信徒诉`** (Detected believer's appeal...): A truncated system notification fragment.
-   * **`的配合，给目`** (...coordination, to target...): A meaningless phrase fragment with punctuation.
-   * **`目标：战士修`** (Goal: Warrior culti...): A truncated quest target status line.
-   * **`被诺文设定为`** (...was set by Norven as...): A sentence/grammar fragment.
-   * **`需求：3知识`** (Requirement: 3 Knowledge): A generic quest status/requirement line fragment.
-   * **`，4名新信徒`** (... , 4 new believers): A sentence fragment containing a comma.
+### Tóm tắt công việc:
+1. Tìm kiếm và truy vết các thuật ngữ trong toàn bộ dự án dịch và lịch sử dịch các chương trước (Chương 9, 11, 18, 20, 27, 30).
+2. Phân loại 11 thuật ngữ/tên do hệ thống quét được thành 3 nhóm: 
+   - **Approved**: Các thuật ngữ/kỹ năng chuẩn (`潜行` -> `Tiềm Hành`, `真名知晓` -> `Biết Tên Thật`).
+   - **Rejected**: Các từ ghép hoặc câu cắt vụn không có giá trị lưu trữ trong bảng thuật ngữ khóa.
+   - **Uncertain**: Các thuật ngữ hệ thống hoặc tên nhiệm vụ bị cắt cụt (đã được bổ sung dạng đầy đủ kèm bản dịch tương ứng).

@@ -2,35 +2,83 @@
 
 ## Project
 - Branch: Dung Goi Ta Ta Than
-- Title: Đừng Gọi Ta Tà Thần
-- Author: Thủy Quả Trung Đích Đồng Thần
-- Genre: fantasy/western_fiction
+- Title: 
+- Author: 
+- Genre: /
 - Language: zh → vi
 
 ## Translation Rules
-{
-  "style": "Dịch đúng theo ngữ cảnh, tự nhiên như truyện tiếng Việt; đặc biệt chú ý xưng hô của người dẫn truyện và giữa các nhân vật theo bối cảnh hiện đại/cổ đại/phương Đông/phương Tây.",
-  "proper_names_handling": "Các tên riêng và thuật ngữ có bối cảnh phương Tây, Nhật, Hàn phải sử dụng đúng ngôn ngữ/bối cảnh tương ứng; không Hán Việt hóa hoặc Việt hóa sai văn hóa. Tên/thuật ngữ Trung/Hán thì dùng Hán Việt khi phù hợp và giữ nhất quán.",
-  "forbidden_content": [
-    "Không để sót chữ Hán trong bản dịch cuối nếu không phải tên riêng được phép",
-    "Không tóm tắt thay cho dịch",
-    "Không thêm bình luận ngoài truyện",
-    "Không Hán Việt hóa sai tên/thuật ngữ phương Tây, Nhật, Hàn"
-  ],
-  "annotation_style": "Hạn chế chú thích; chỉ chú thích ngắn khi cần để tránh mất nghĩa văn hóa/ngữ cảnh.",
-  "honorifics_handling": "Xưng hô phải theo đúng ngữ cảnh: người dẫn truyện, quan hệ nhân vật, quyền lực, thân sơ, tuổi tác, phe phái, cảm xúc và bối cảnh văn hóa/thời đại; không dùng một kiểu xưng hô cố định máy móc.",
-  "technical_terms": "Thuật ngữ ma pháp, thần thuật, giáo hội, cấp bậc, tổ chức phải thống nhất theo Glossary.md; thuật ngữ thuộc bối cảnh phương Tây/Nhật/Hàn phải giữ đúng hệ quy chiếu văn hóa.",
-  "narrator_pronoun_handling": "Cần sử dụng đúng xưng hô và giọng kể của người dẫn truyện theo đúng ngữ cảnh hiện đại, cổ đại, phương Đông, phương Tây. Giọng người dẫn không được máy móc; phải phù hợp bối cảnh văn hóa, thời đại, thể loại và điểm nhìn truyện.",
-  "character_pronoun_handling": "Xưng hô giữa các nhân vật phải theo đúng ngữ cảnh, mối quan hệ, địa vị, tuổi tác, khoảng cách thân sơ, phe phái và cảm xúc tại thời điểm đối thoại. Khi quan hệ/cảm xúc thay đổi, xưng hô có thể cần thay đổi tương ứng.",
-  "output_title_language": "Tiêu đề chương trong output và toc.json phải là tiếng Việt tự nhiên; không giữ nguyên tiêu đề chương tiếng Trung trong filename hoặc toc.title nếu có thể dịch chuẩn.",
-  "output_filename_title": "Tên file final phải dùng tiêu đề tiếng Việt, theo pattern Chương {chapter:04d} - {title_vi}.md; không để CJK trong tên file.",
-  "git_push_scope": "Chỉ git add/commit/push các nội dung trong Output/ và Output/home.json. Tuyệt đối không push Source/, Source Split/, script nguồn, hay dữ liệu nguồn gốc lên git.",
-  "git_ignore_source": "Không bao giờ add Source/ hoặc Source Split/ vào commit/push của cron branch.",
-  "term_ma_vong": "Ma Võng = mạng lưới ma pháp/kết nối ma thuật. Không dịch là \"Ma Lưới\". Thuật ngữ này phải giữ nguyên \"Ma Võng\" hoặc \"Ma Võng\" trong bản dịch, không thay bằng từ khác.",
-  "occupation_hán_việt": "Thuật ngữ chỉ nghề nghiệp trong truyện (đặc biệt fantasy) viết dưới dạng Hán Việt. Ví dụ: 法师=Pháp Sư, 战士=Chiến Sĩ, 潜行者=Tiềm Hành Giả, 游侠=Du Hiệp, 术士=Thuật Sĩ, 牧师=Mục Sư, 盗贼=Đạo Tặc. Trừ một số nghề thông dụng hiện đại như học sinh, bác sĩ, nhân viên,... thì dùng từ phổ biến tiếng Việt.",
-  "name_caroen_lever": "卡罗恩·拉杆 = Caroen Lever (tên Latin chuẩn, đầy đủ họ và tên Latin). Không viết thành \"Caroen Lever\", \"Caroen Lever\", \"Caroen Kéo Cần\" hay bất kỳ biến thể nào khác. Tên trường 卡罗恩学院 = Học viện Caroen (theo tên người sáng lập Caroen Lever).",
-  "term_thi_phap_gia": "施法者 = Thi Pháp Giả (Hán Việt chuẩn). Không dịch là \"người thi triển pháp thuật\", \"Thi Triển Giả\" hay bất kỳ biến thể nào."
-}
+### Translation Goal
+Dịch truyện Trung sang tiếng Việt tự nhiên, dễ đọc, đúng nghĩa, đúng mạch truyện, đúng văn cảnh, đúng xưng hô, đúng tên riêng và thuật ngữ.
+Style: văn xuôi tiếng Việt mượt, rõ nghĩa, không máy móc
+Priorities:
+  • đúng nghĩa và đúng văn cảnh
+  • đúng tên riêng
+  • đúng thuật ngữ theo loại và bối cảnh
+  • đúng xưng hô và quan hệ nhân vật
+  • giữ ổn định thuật ngữ/tên riêng/xưng hô đã khóa
+  • tự nhiên trong tiếng Việt
+  • giữ nhịp văn, cảm xúc và giọng kể gốc
+Anti-goals:
+  • không dịch từng chữ máy móc
+  • không Hán Việt hóa tên Nhật, Hàn, phương Tây, fandom, thương hiệu, kỹ thuật
+  • không áp VietPhrase/LuatNhan lên tên riêng đã khóa
+  • không đổi thuật ngữ đã khóa nếu văn cảnh giống nhau
+  • không dùng một bản dịch cứng cho từ đa nghĩa khi văn cảnh khác nhau
+  • không làm lộ thông tin ngoài POV nếu bản gốc chưa tiết lộ
+
+### Output Rules
+  • keep paragraph structure
+  • keep dialogue structure
+  • do not merge paragraphs
+  • do not split paragraphs unnecessarily
+  • preserve punctuation when reasonable
+  • convert chinese quotes to vietnamese
+  • remove unnecessary explanation
+  • output only translation
+  • do not add notes inside translation
+  • mark uncertain items for audit only
+
+### Tone Guidelines
+  • narration: tự nhiên, rõ ràng, có chất truyện
+  • dialogue: phù hợp thân phận, quan hệ, tuổi tác, quyền lực và bối cảnh
+  • ancient_setting: cổ phong vừa phải, không lạm dụng Hán Việt khó hiểu
+  • modern_setting: hiện đại, đời thường, không cổ hóa lời thoại
+  • game_system: rõ ràng, gọn, quen thuộc với văn phong game/system
+  • comedy: giữ nhịp hài nếu có
+  • serious: giữ sắc thái căng thẳng, trang trọng nếu có
+
+### Term Normalization
+Purpose: Chuẩn hóa thuật ngữ theo văn cảnh truyện, bao gồm chiêu thức, nghề nghiệp, chức vị, cảnh giới, kỹ năng, vật phẩm, danh hiệu, tổ chức, hệ thống, khái niệm thế giới quan và cụm cố định lặp lại.
+Core principles:
+  • context first
+  • not word by word
+  • same source can have different translation if context differs
+  • same source same context must be consistent
+  • same term type should keep style consistent
+  • locked translation only applies to matching context
+  • source plus type plus context equals translation
+Decision rules:
+  • Không dịch thuật ngữ chỉ theo mặt chữ.
+  • Một source có thể có nhiều bản dịch nếu văn cảnh khác nhau.
+  • Một bản dịch đã khóa chỉ áp dụng cho đúng loại văn cảnh đã khóa.
+  • Tên chiêu thức, cảnh giới, pháp bảo quan trọng nên dùng dạng Hán Việt chuẩn, viết hoa nếu là danh từ riêng.
+  • Vật phẩm phổ thông không cần Hán Việt hóa quá mức.
+  • Nghề nghiệp phải xét bối cảnh.
+  • Chức vị phải xét hệ thống xã hội.
+  • Nếu cùng source và cùng văn cảnh, phải giữ nhất quán.
+  • Nếu không chắc văn cảnh, đánh dấu audit.
+
+### Engine Rules
+  • use context pack
+  • use previous chapter summary
+  • use character profile
+  • use story timeline
+  • use glossary
+  • use name scan
+  • use segment context
+  • avoid over literal translation
+  • avoid over smoothing that changes meaning
 
 ## Characters
 
@@ -112,12 +160,7 @@
 | 施法者 (Thi Pháp Giả) | Thi Pháp Giả | nghề nghiệp | Người thi triển pháp thuật. Viết hoa Hán Việt. |
 
 ## Story Timeline (latest)
-chỉ còn cách trở thành chức nghiệp giả cấp ba để thừa kế tước vị nam tước. Lena mời Pete đến quán rượu nhà mình uống một ly để tạ ơn.
-
-### Diễn biến chính
-- Lena Monia cảm ơn Pete vì đã cứu mạng trong hang ổ dị biến.
-- Pete ngượng ngùng vì không xứng với lời khen — cậu chỉ là Thi Pháp Giả nhị giai yếu kém.
-- Pete tiết lộ hoàn cảnh: là trưởng nam của nam tước nhỏ ở Vương quốc Rayak, phải đáp ứng 1 trong 3 điều kiện để thừa kế tước vị: tín đồ chân chính của Giáo Hội Huy Quang, nộp thuế quyền thừa kế, hoặc chức nghiệp giả cấp ba.
+thừa kế, hoặc chức nghiệp giả cấp ba.
 - Pete chọn con đường chức nghiệp giả vì không muốn bị ràng buộc bởi giáo lý hay mất tiền.
 - Cậu theo học tại Học viện Caroen nhưng ba năm vẫn chưa lên cấp ba.
 - Lena rủ Pete đến quán rượu nhà mình để tạ ơn.
@@ -158,6 +201,31 @@ chỉ còn cách trở thành chức nghiệp giả cấp ba để thừa kế t
 - Pete nhận ra Bloodfang vô pháp vô thiên, không coi luật pháp ra gì
 - Pete vốn định chỉ phát triển giáo phái răn đe, nhưng thấy cảnh tượng này biết không thể giải quyết dễ dàng
 - Có Thần Tri Thức làm chỗ dựa, Pete quyết tâm phát triển trước rồi tính sổ sau
+
+## Chapter 0033 - Chương 33: Lộ trình Chiến Sĩ
+
+### Summary
+Chapter 33 completed via pipeline.
+
+## Chapter 0034 - Chương 34: Những hạt giống đầu tiên
+
+### Summary
+Chapter 34 completed via pipeline.
+
+## Chapter 0035 - Chương 35: Xưởng Bu-lông Lăn Tròn
+
+### Summary
+Chapter 35 completed via pipeline.
+
+## Chapter 0036 - 0036 你知道的，我嘴巴最严实了
+
+### Summary
+Chapter 36 completed via pipeline.
+
+## Chapter 0037 - Chương 37: Cách dùng mới của Điểm Tri Thức
+
+### Summary
+Chapter 37 completed via pipeline.
 
 
 ## Source Chapter 33 - 0033 战士路线

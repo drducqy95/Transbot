@@ -338,3 +338,8 @@ Chapter 36 completed via pipeline.
 
 ### Summary
 Chapter 37 completed via pipeline.
+
+## Chapter 0033 - Chương 33: Lộ trình Chiến Sĩ
+
+### Summary
+Chapter 33 completed via pipeline.
