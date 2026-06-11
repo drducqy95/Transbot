@@ -1,0 +1,230 @@
+# Translation Context Pack
+
+## Project
+- Branch: Tieu Dao Mong Duong
+- Title: 
+- Author: 
+- Genre: /
+- Language: zh → vi
+
+## Translation Rules
+### Translation Goal
+Dịch truyện Trung sang tiếng Việt tự nhiên, dễ đọc, đúng nghĩa, đúng mạch truyện, đúng văn cảnh, đúng xưng hô, đúng tên riêng và thuật ngữ.
+Style: văn xuôi tiếng Việt mượt, rõ nghĩa, không máy móc
+Priorities:
+  • đúng nghĩa và đúng văn cảnh
+  • đúng tên riêng
+  • đúng thuật ngữ theo loại và bối cảnh
+  • đúng xưng hô và quan hệ nhân vật
+  • giữ ổn định thuật ngữ/tên riêng/xưng hô đã khóa
+  • tự nhiên trong tiếng Việt
+  • giữ nhịp văn, cảm xúc và giọng kể gốc
+Anti-goals:
+  • không dịch từng chữ máy móc
+  • không Hán Việt hóa tên Nhật, Hàn, phương Tây, fandom, thương hiệu, kỹ thuật
+  • không áp VietPhrase/LuatNhan lên tên riêng đã khóa
+  • không đổi thuật ngữ đã khóa nếu văn cảnh giống nhau
+  • không dùng một bản dịch cứng cho từ đa nghĩa khi văn cảnh khác nhau
+  • không làm lộ thông tin ngoài POV nếu bản gốc chưa tiết lộ
+
+### Output Rules
+  • keep paragraph structure
+  • keep dialogue structure
+  • do not merge paragraphs
+  • do not split paragraphs unnecessarily
+  • preserve punctuation when reasonable
+  • convert chinese quotes to vietnamese
+  • remove unnecessary explanation
+  • output only translation
+  • do not add notes inside translation
+  • mark uncertain items for audit only
+
+### Tone Guidelines
+  • narration: tự nhiên, rõ ràng, có chất truyện
+  • dialogue: phù hợp thân phận, quan hệ, tuổi tác, quyền lực và bối cảnh
+  • ancient_setting: cổ phong vừa phải, không lạm dụng Hán Việt khó hiểu
+  • modern_setting: hiện đại, đời thường, không cổ hóa lời thoại
+  • game_system: rõ ràng, gọn, quen thuộc với văn phong game/system
+  • comedy: giữ nhịp hài nếu có
+  • serious: giữ sắc thái căng thẳng, trang trọng nếu có
+
+### Term Normalization
+Purpose: Chuẩn hóa thuật ngữ theo văn cảnh truyện, bao gồm chiêu thức, nghề nghiệp, chức vị, cảnh giới, kỹ năng, vật phẩm, danh hiệu, tổ chức, hệ thống, khái niệm thế giới quan và cụm cố định lặp lại.
+Core principles:
+  • context first
+  • not word by word
+  • same source can have different translation if context differs
+  • same source same context must be consistent
+  • same term type should keep style consistent
+  • locked translation only applies to matching context
+  • source plus type plus context equals translation
+Decision rules:
+  • Không dịch thuật ngữ chỉ theo mặt chữ.
+  • Một source có thể có nhiều bản dịch nếu văn cảnh khác nhau.
+  • Một bản dịch đã khóa chỉ áp dụng cho đúng loại văn cảnh đã khóa.
+  • Tên chiêu thức, cảnh giới, pháp bảo quan trọng nên dùng dạng Hán Việt chuẩn, viết hoa nếu là danh từ riêng.
+  • Vật phẩm phổ thông không cần Hán Việt hóa quá mức.
+  • Nghề nghiệp phải xét bối cảnh.
+  • Chức vị phải xét hệ thống xã hội.
+  • Nếu cùng source và cùng văn cảnh, phải giữ nhất quán.
+  • Nếu không chắc văn cảnh, đánh dấu audit.
+
+### Engine Rules
+  • use context pack
+  • use previous chapter summary
+  • use character profile
+  • use story timeline
+  • use glossary
+  • use name scan
+  • use segment context
+  • avoid over literal translation
+  • avoid over smoothing that changes meaning
+
+## Characters
+N/A
+
+## Glossary
+N/A
+
+## Story Timeline (latest)
+
+## Chapter 0001 - Chương 1: Phương Nguyên
+
+### Summary
+Chapter 1 completed via pipeline.
+
+## Chapter 0002 - Chương 2: Thuộc Tính
+
+### Summary
+Chapter 2 completed via pipeline.
+
+## Chapter 0001 - Chương 1: Phương Nguyên
+
+### Summary
+Chapter 1 completed via pipeline.
+
+## Chapter 0002 - Chương 2: Thuộc Tính
+
+### Summary
+Chapter 2 completed via pipeline.
+
+
+## Source Chapter 3 - 0003 灵茶（求收藏 推荐！）
+# 第3章 灵茶（求收藏 推荐！）
+
+骨碌碌！
+炭火滚滚，舔舐着小红壶底肚，令里面的泉水不断打着翻，冒着水泡，炽热的水蒸汽升腾。
+方元面前摆着茶具，神态一丝不苟，先将泉水煮沸，第一遍水不饮，用来清洗器皿，旋即封壶、分杯、分壶、奉茶、闻香、品茗，一举一动中都浑然天成，带着致虚守静的味道。
+他这里虽然简陋，却仍有茶。
+不仅有茶，甚至还是经过他亲手培植的个中极品，此外，他茶道的手艺也是炉火纯青，师父问心居士就赞不绝口。
+当然，上次的恶客，是没有这个待遇的。
+杯盏之中，清茶喷香，方元神态从容，轻轻端起，慢慢品尝。
+对于他而言，这不仅是自身修养，更是对问心居士的缅怀。
+他的师父虽然并未教授他什么武功法术，但却教会了他这套坐忘茶道。
+每次煮茶，都是一次对心灵的洗涤，继而渐渐向‘坐忘’之境靠拢。
+何为坐忘？
+大宗师有云：‘堕肢体，黜聪明，离形去知，同于大通，此谓坐忘。’
+问心居士的茶道，最高理念便是天人合一，从而达到坐忘之境。
+对于方元的茶艺，他甚是喜欢，甚至还专门外出，寻了一套上好的茶具回来。
+可惜此时早已物是人非。
+在茶香缭绕中，方元只觉一股暖意直入肚腹，又化为冰线，带着温凉之意，刹那间物我两忘，不知外界春秋几度。
+辟居幽谷，无外事纷扰，方元每天喝茶、种植，却是雷打不动。
+唯专心致志，才能有着成就。
+饮完茶之后，心思一片空明，却是正好思虑事情。
+“这些天以来，我已经将谷内所有的作物都重新护养过一次，三级种植术，果然非同小可，让我自觉手艺比以往巅峰状态还要更进一步，只是那个异变概率，当真小到了极点，满山满谷，居然也没有出现一例，当然，红玉稻灵种还未长成，不知详情，只是这可能，就太小了一点……”
+方元摇摇头，起身拿着花锄、竹篓等物，来到田园中，开始每日的劳作。
+浇水、施肥、松土……再按照每株植物的不同予以区别对待，一切都是熟极而流。
+等到日头正中的时候，方元坐在岩石上，痛快地喝了一葫芦泉水，看着硕果累累的田园，心里有着老农看到丰收一般的喜悦。
+这时啃着上午准备的饭团，方元心里一动，一片荧幕又浮现而出：
+“姓名：方元
+精：1
+气：1
+神：1
+年龄：18
+修为：无
+技能：无
+专长：医术【一级】、种植术【三级】”
+……
+“精、气、神，指的应该是我的身体素质……”
+得益于问心居士的照料，还有种植术能力，方元当真没吃过什么苦，好吃好喝地养着，令他基础相当雄浑，十八岁就跟许多成年人一般无二。
+“种植术三级，异变概率很低啊……”
+方元长叹口气，三两口吃下了手里的饭团。
+这饭团用的是田园里的珍珠玉晶米制作，一粒粒米饭如同婴儿小指头大的珍珠一般璀璨光明，好像艺术品一般，兑水一蒸，就有天然的稻香之气四溢，口感酥糯无比，光吃饭不吃菜都是绝世美味，再加上酸豆角，酸梅配菜，爽口下饭，更是什么珍馐都比不上。
+玉晶米营养丰富，纵然米汤也可以直接当奶给婴儿服用，方元只是吃了一个饭团，就觉得浑身精力饱满，一上午辛勤劳动的体力尽数恢复，不由起身，开始巡视其它作物。
+“嗯，香蔻、黄果都可以收获，药堂的田老汉也差不多是时候来了，正好采下，换些油盐来……”
+方元巡视着自己的领地，有时候顺手摘下一两个果实，吃得汁液四溢，一边心里做着打算。
+等过了一个拐角的时候，一抹晶莹的绿色映入眼帘，却是令他不由放慢脚步，嘴里轻轻咦了一句。
+这是一片茶林所在，茶树特意选的猴魁，所制茶叶扁平挺直、鲜爽味醇，又带着兰花香气，很受方元喜爱。
+但此时，方元看着面前的茶树，却是有些呆了。
+在诸多遒劲的茶树中，这时却有一株通体变作碧玉一般，散发着晶莹之色，其上的茶叶宛若刀枪云集，龙飞凤舞，甚至没有经过炒制，一股惊人的茶香就自动逸散出来，提神醒脑，回味悠长。
+“极品！极品中的极品！”
+方元围在茶树边上，看得啧啧称奇：“这就是三级种植术的异变么？这株猴魁，恐怕已经变成了灵植吧？”
+可惜，纵然是他，也只见过红玉稻米的种子，无法真正比较。
+但有此气象之物，绝对不是凡品！
+“现在午后，时间正好！”
+看到这株茶树，并且上面还有新长出来的茶叶之后，方元顿时连什么心思都放下了，开始欣喜地拣尖，准备回去就制成茶叶品尝效果。
+“不行……实在是忍不住了！”
+采摘了几片碧玉般的茶叶之后，方元咽了口唾沫，直接将一片茶叶放入嘴里。
+“唔……”
+顿时，一股苦涩之意传开，只是还没有过多久，又转为浓郁的兰花香气。
+感受着舌头略微酸麻，触电一般的感觉，还有一股清流直冲脑海，方元的眼睛顿时亮了：“灵叶，绝对的灵叶！”
+“这苦味隽永，也是一道至味，不行了，光是原品就有如此味道，制成灵茶之后又有何效果？”
+方元眼睛发亮。
+夜晚。
+杀青、揉捻、烘烤……这些手续方元原本就纯熟，这时换了茶叶，效果却是相同。
+在烛火之下，他看着有食指长，笔挺如剑，色泽苍绿匀润，如同碧玉，叶脉中又带着红线的茶叶，脸上的表情呆滞：“美……太美了！这新制出来的灵茶，简直就如同艺术品一般呐！”
+当下就有些迫不及待，取出茶具，煮水分壶等步骤一一做下。
+等到最后闻香之时，惊人的茶香四溢，纵然周围是草木屋棚，也如同到了天宫一般。
+“香远益清，味道隽永，一见难忘，果然是绝品！”
+此时，经过一番手续下来，方元的神情却恢复了平静。
+茶道手法，本来就是一套通过洗茶等手续，不断剔除心中杂念的过程。
+到了此时，他眼眸中带着晶莹之色，思虑无邪，仿佛变成了赤子童心一般。
+品茶者，一闻香，二辨色，光是闻着茶香，看着碗中清绿明澈的色泽，方元的心里就有着一种感动，嘴唇沾上茶碗。
+轰！
+顷刻间，就如同一道惊雷在脑海炸开。
+他仿佛变成了一位行走在重重荆棘中的旅人，舌尖与味蕾被一股隽永的苦意禁锢。
+正在经受如此苦难之时，银瓶乍破水浆迸，荆棘消失，味蕾顿开，清香如山洪一般，冲破了积蓄的巨石，一下贯穿全身。
+方元神色怔怔，眼角带着一丝晶莹。
+一般而言，若是品尝到了无上的美味，人也会自动刺激泪腺，产生眼泪。
+这是他梦中另外一个世界的知识，但方元想象不到，仅仅只是一杯茶，竟然也有这样的效果。
+“好！”
+一杯饮尽，他又冲了一壶水，顿时香味渐渐淡去，味道却越发浓郁起来。
+三冲四泡之后，茶味犹在，清香犹存。
+“呼……”
+一壶茶终于喝尽，方元吐出一口长气，嘴里的滋味却萦绕不去，回味悠长。
+“此茶……绝非凡品，甚至……似乎还有问心之效……”
+方元擦了擦眼角的泪水：“只是一次品茗，竟然让我感觉心灵都受过洗涤一般……这难道就是灵物的效果？又或者是机缘巧合，灵茶与茶道结合的奇迹？”
+他脸上浮现出疑惑之色，下意识地调出属性，蓦然间，整个人又怔住了。
+此时他的属性赫然发生了变化：
+“姓名：方元
+精：1
+气：1
+神：1.2
+年龄：18
+修为：无
+技能：无
+专长：医术【一级】、种植术【三级】”
+“神增加了0.2？”
+方元盯着属性，心里默念了一句。
+精气神这三个数据，自从他十八岁生日那天整体涨到1之后，就再也没有变化过。
+而此时，神这一栏却是赫然增加了整整五分之一！
+对应到身体上的效果，就是方元骤然觉得自己更加精力充沛，思维飞快，仿佛一下变聪明了不少。
+“按照那个世界的理论，精气神三元，又称三宝，为人之根本所在，修行界千种法门，万般大道，最后都绕不开这个……”
+“而根据我的观察还有推测，所谓的精，就是指代精元，为肉身、体力、根骨等等有形有质之物！气，则是气血之力，无形无质，传说中的内息什么的或许也算！最后的神，则是精神、意志、知觉等等的集合。”
+“精气神三花，相辅相成，各有妙用！”
+方元看向剩余下来的茶叶，目光炯炯：“此茶，竟然有着洗涤心灵，增长神元的奇效，就命名为‘问心茶’吧。”
+
+
+## Output Format
+Return ONLY valid JSON matching this schema:
+{
+  "chapter_number": 3,
+  "chapter_title_vi": "Chương 3: <Vietnamese title>",
+  "segments": [
+    {
+      "segment_id": "XXXX",
+      "source": "...",
+      "target": "..."
+    }
+  ]
+}

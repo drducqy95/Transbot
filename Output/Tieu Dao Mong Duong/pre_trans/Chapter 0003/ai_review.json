@@ -1,0 +1,68 @@
+I will start by exploring the workspace to see what codebase we are working on and find any context regarding translations or glossary rules.
+I will list files inside the `Script` and `Source` directories to understand how terms and translations are processed in this project.
+I will list the files in the `Source` directory to see if there are source files, glossaries, or text being translated.
+I will check the contents of the `$TRANS_DIR` directory to see if there are glossary files or translation outputs.
+I will check the contents of the `Global State` directory.
+I will read `Script/transbot_pipeline.py` to understand the workflow and logic used in processing the novel translations and how names/terms are evaluated.
+I will perform a search across the workspace for references to "Glossary", "Terms", or "Names" to understand how they are structured or defined in existing translation pipelines.
+I will check the directory structure of the `Output` folder to see what novels/branches are currently being translated.
+I will run `git status` to see what files are currently modified or untracked. This will help us identify which chapter or novel we are working on right now.
+I will list the files in the directory `Output/Dung Goi Ta Ta Than/pre_trans/Chapter 0035/` to check if there is a `glossary_scan.json` or `name_scan.json` file there.
+I will list the files in `Output/Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han/pre_trans/Chapter 0003/` to see if it contains any scanning JSON files.
+I will view `Output/Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han/pre_trans/Chapter 0003/glossary_scan.json` to see the structure and contents of a glossary scan file in this project.
+I will view `Output/Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han/pre_trans/Chapter 0003/ai_review.json` to understand the review criteria and format.
+I will search the repository for `ai_review` to see how the JSON response is structured, written, or read by the automated translation scripts.
+I will view `Output/Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han/pre_trans/Chapter 0002/ai_review.json` to check how a standard `ai_review.json` file is structured.
+I will search the python scripts in `Script/` for references to `approved`, `rejected`, or `uncertain` to see if there is any code processing this JSON directly or if the pipeline expects a specific format.
+I will search for `glossary_scan` or `name_scan` in `Script/` to see what code interacts with these files.
+I will view the `Script/scan_branches.py` file to see if it processes glossary scans or files.
+I will search for `call_ai` in `Script/transbot_pipeline.py` to see where the pipeline invokes AI and what prompts or files it uses.
+I will view lines 150 to 350 of `Script/transbot_pipeline.py` to understand where files are read and processed, and if names or terms reviews are automated.
+I will view the rest of `Script/transbot_pipeline.py` (lines 351 to 552) to see how names/glossary reviews are generated or integrated into the pipeline.
+I will view the `Glossary.md` file for the active novel branch (`Dung Goi Ta Ta Than`) to maintain styling and translation conventions.
+I will perform a search for `种植` or `种植术` in the source files to see the context in which it appears.
+I will view the `Output/Tieu Dao Mong Duong/pre_trans/Chapter 0002/ai_review.json` file to see the exact structure and decisions made for `、种植术` and other terms.
+I will view the `Output/Tieu Dao Mong Duong/pre_trans/Chapter 0002/glossary_scan.json` file to check if it matches the updated statuses.
+I will search the repository for `神增加` or `增加` to see if there is any occurrence that helps us understand the context.
+I will view the source file `Output/Tieu Dao Mong Duong/pre_trans/Chapter 0003/source.md` around line 95 to see the context of the term `”\n“神增加`.
+Here is the review of the translation names and terms for the novel *Tiêu Dao Mộng Lộ* (*Carefree Path of Dreams*).
+
+### Context Analysis
+Based on Chapter 3 of the source text, the character panel lists the protagonist's skills and status attributes (e.g., `专长：医术【一级】、种植术【三级】` and `“神增加了0.2？”`). 
+
+- **`一级`** (Level 1 / Tier 1): Valid skill rank/tier term in the protagonist's status panel (e.g., `医术【一级】`). Translated as **`Cấp một`** (or `Cấp 1`).
+- **`三级`** (Level 3 / Tier 3): Valid skill rank/tier term in the protagonist's status panel (e.g., `种植术【三级】`). Translated as **`Cấp ba`** (or `Cấp 3`).
+- **`、种植术`** (comma + Planting Skill): Invalid raw term due to the leading Chinese enumeration comma (`、`). However, the cleaned term **`种植术`** is a core system terminology and is approved. Translated as **`Thuật trồng trọt`**.
+- **`”\n“神增加`**: Formatting noise containing quote marks and a newline. The Chinese text `神增加` is a fragment of the sentence `“神增加了0.2？”` (*"Spirit increased by 0.2?"*), where `神` is the "Spirit/Mind" attribute, rather than a standalone term. It is rejected.
+
+### Review Decisions (JSON)
+
+```json
+{
+  "approved": [
+    "一级",
+    "三级"
+  ],
+  "rejected": [
+    "”\n“神增加"
+  ],
+  "uncertain": [
+    "、种植术"
+  ],
+  "approved_characters": [],
+  "approved_glossary": [
+    {
+      "source": "一级",
+      "target": "Cấp một"
+    },
+    {
+      "source": "三级",
+      "target": "Cấp ba"
+    },
+    {
+      "source": "种植术",
+      "target": "Thuật trồng trọt"
+    }
+  ]
+}
+```
