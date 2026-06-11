@@ -328,3 +328,8 @@ Chapter 34 completed via pipeline.
 
 ### Summary
 Chapter 35 completed via pipeline.
+
+## Chapter 0036 - 0036 你知道的，我嘴巴最严实了
+
+### Summary
+Chapter 36 completed via pipeline.

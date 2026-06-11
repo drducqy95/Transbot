@@ -1,0 +1,38 @@
+```json
+{
+  "approved": [
+    "劳动",
+    "知识点数",
+    "英勇打击"
+  ],
+  "rejected": [
+    "吾主的真理普",
+    "快要攒够了！",
+    "战技的知识！",
+    "的奖励，才只",
+    "目标：战士1",
+    "这个任务。",
+    "这个数额的",
+    "需求：15知",
+    "；\n工友成为"
+  ],
+  "uncertain": []
+}
+```
+
+### Context & Justification
+
+All of the requested terms were identified in [Chapter 0036 你知道的，我嘴巴最严实了.md](file:///mnt/sdcard/My%20Agent/Transbot/Source/Source%20Split/Dung%20Goi%20Ta%20Ta%20Than/Chapter%200036%20%E4%BD%A0%E7%9F%A5%E9%81%93%E7%9A%84%EF%BC%8C%E6%88%91%E5%98%B4%E5%B7%B4%E6%9C%80%E4%B8%A5%E5%AE%9E%E4%BA%86.md). They appear to have been extracted by an automated parser that generated fragments or truncated terms:
+
+1. **`劳动` (Approved)**: A valid system daily quest name (`【完成任务：劳动（日常）（可重复）】`) in the novel's game-like mechanic.
+2. **`吾主的真理普` (Rejected)**: Truncated from the task name `【吾主的真理普照大地】` (My Lord's Truth Illuminates the Earth).
+3. **`快要攒够了！` (Rejected)**: Conversational dialog/description fragment (`因为他的【知识点数】快要攒够了！`).
+4. **`战技的知识！` (Rejected)**: Sentence fragment (`相当于立刻得到【英勇打击】战技的知识！`).
+5. **`的奖励，才只` (Rejected)**: Arbitrary sentence fragment (`最后触发了名为【劳动】的奖励，才只给了他0.3点知识点数。`).
+6. **`目标：战士1` (Rejected)**: Truncated from the quest objective `【目标：战士1阶战技，英勇打击】`.
+7. **`知识点数` (Approved)**: The key system currency/mechanism (Knowledge Points).
+8. **`英勇打击` (Approved)**: The warrior class active skill (Heroic Strike).
+9. **`这个任务。` (Rejected)**: Sentence fragment ending with trailing punctuation.
+10. **`这个数额的` (Rejected)**: Sentence fragment (`这个数额的点数需求`).
+11. **`需求：15知` (Rejected)**: Truncated from the quest requirement `【需求：15知识点数】`.
+12. **`；\n工友成为` (Rejected)**: Sentence fragment containing markdown punctuation and newlines (`他得到了【知识点数】；\n工友成为了新的信徒；`).
