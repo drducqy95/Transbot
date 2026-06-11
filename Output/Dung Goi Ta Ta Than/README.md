@@ -29,9 +29,9 @@ Thế giới fantasy phương Tây với ma pháp, thần minh, học viện ma 
 
 ## Tiến độ
 - Tổng số chương: 968
-- Đã hoàn thành: 20
-- Đã audit: 14
-- Chương cuối đã hoàn thành: Chương 20: Vị tín đồ thứ hai
+- Đã hoàn thành: 23
+- Đã audit: 23
+- Chương cuối đã hoàn thành: Chương 23: Quy tắc kỳ lạ
 - Trạng thái: Đang dịch
 - Lần cập nhật gần nhất: 2026-06-11 02:04
 
