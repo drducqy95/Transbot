@@ -49,3 +49,14 @@
 - README: updated progress (17→20)
 - HOME: updated (last_chapter=20)
 - Git: pending
+
+## 2026-06-11 09:29:02
+- **Branch:** Dung Goi Ta Ta Than
+- **Chương 0021** — Tự tay tạo trận pháp kiểm tra
+- **Status:** ✅ Hoàn thành
+  - pre_trans/Chapter 0021: context_pack.md, segments.json
+  - translate_result/Chapter 0021: segments.json (dịch xong)
+  - audit/Chapter 0021: segments.json (audit pass)
+  - output: Chương 0021 - Tự tay tạo trận pháp kiểm tra.md
+  - toc.json, home.json: cập nhật
+- **Kế tiếp:** Chương 0022 — 合作 (Hợp tác)

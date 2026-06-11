@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-06-11T08:44:49+07:00",
+  "updated_at": "2026-06-11T09:28:56+07:00",
   "books": [
     {
       "branch": "Dung Goi Ta Ta Than",
       "title": "Đừng Gọi Ta Tà Thần",
-      "chapters_done": 17,
+      "chapters_done": 21,
       "total_chapters": 968,
-      "completed_chapters": 17,
-      "latest_chapter": "Chương 17: Rắc rối của nhà Lena",
+      "completed_chapters": 21,
+      "latest_chapter": "Chương 21: Tự tay tạo trận pháp kiểm tra",
       "status": "in_progress",
       "status_label": "Đang ra",
       "ongoing": true,
-      "updated_at": "2026-06-11T08:44:49+07:00",
-      "detail": "Tiến độ: 17/968 chương | Mới nhất: Chương 17: Rắc rối của nhà Lena",
-      "last_chapter": 17,
-      "last_chapter_title": "Rắc rối của nhà Lena",
-      "progress": "17/968"
+      "updated_at": "2026-06-11T09:28:56+07:00",
+      "detail": "Tiến độ: 21/968 chương | Mới nhất: Chương 21: Tự tay tạo trận pháp kiểm tra",
+      "last_chapter": 21,
+      "last_chapter_title": "Tự tay tạo trận pháp kiểm tra",
+      "progress": "21/968"
     }
   ],
   "metadata": {
@@ -38,9 +38,9 @@
   "branches": {
     "Dung Goi Ta Ta Than": {
       "display_title": "Đừng Gọi Ta Tà Thần",
-      "current_chapter": 17,
+      "current_chapter": 21,
       "total_chapters": 968,
-      "completed_chapters": 17,
+      "completed_chapters": 21,
       "last_updated": "2026-06-11"
     }
   }
