@@ -1,0 +1,2 @@
+- 2026-06-11 22:36 | Chapter 1 | completed | Chương 0001 - Chương 1 Đạo Quả.md
+- 2026-06-11 22:41 | Chapter 2 | completed | Chương 0002 - Chương 2 Nhân Quả Tập.md
