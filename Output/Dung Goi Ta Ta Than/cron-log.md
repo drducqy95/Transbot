@@ -115,3 +115,4 @@
 2026-06-11 10:45:00 | Chapter 0028 | Thần Bóng Tối, Thần Công Chính: Bọn ta không ý kiến | Dịch+Audit+Final  | Hoàn thành
 
 2026-06-11 10:52:00 | Chapter 0029 | Chợ Đen | Dịch+Audit+Final | Hoàn thành
+2026-06-11 11:15:00 | Chapter 0030 | Bẫy chồng bẫy | Dịch+Audit+Final+Git | Hoàn thành

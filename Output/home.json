@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-11T12:00:00+07:00",
+  "updated_at": "2026-06-11T18:30:00+07:00",
   "books": [
     {
       "branch": "Dung Goi Ta Ta Than",
       "title": "Đừng Gọi Ta Tà Thần",
-      "chapters_done": 25,
+      "chapters_done": 29,
       "total_chapters": 968,
-      "completed_chapters": 25,
-      "latest_chapter": "Chương 25: Lộ trình Tiềm Hành Giả, nhưng là Thần Tri Thức",
+      "completed_chapters": 29,
+      "latest_chapter": "Chương 29: Bẫy chồng bẫy",
       "status": "in_progress",
       "status_label": "Đang ra",
       "ongoing": true,
-      "updated_at": "2026-06-11T12:00:00+07:00",
-      "detail": "Tiến độ: 25/968 chương | Mới nhất: Chương 25: Lộ trình Tiềm Hành Giả, nhưng là Thần Tri Thức",
-      "last_chapter": 25,
-      "last_chapter_title": "Lộ trình Tiềm Hành Giả, nhưng là Thần Tri Thức",
-      "progress": "25/968"
+      "updated_at": "2026-06-11T18:30:00+07:00",
+      "detail": "Tiến độ: 29/968 chương | Mới nhất: Chương 29: Bẫy chồng bẫy",
+      "last_chapter": 29,
+      "last_chapter_title": "Bẫy chồng bẫy",
+      "progress": "29/968"
     }
   ],
   "metadata": {
-    "generated_at": "2026-06-11T12:00:00+07:00",
+    "generated_at": "2026-06-11T18:30:00+07:00",
     "total_books": 1,
     "source": "Dichtrung/Output"
   },
