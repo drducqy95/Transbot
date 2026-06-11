@@ -29,9 +29,9 @@ Thế giới fantasy phương Tây với ma pháp, thần minh, học viện ma 
 
 ## Tiến độ
 - Tổng số chương: 968
-- Đã hoàn thành: 11
-- Đã audit: 11
-- Chương cuối đã hoàn thành: Chương 11 - Giới hạn của thần lực
+- Đã hoàn thành: 12
+- Đã audit: 12
+- Chương cuối đã hoàn thành: Chương 12 - Lòng biết ơn của người sống sót
 - Trạng thái: Đang dịch
 - Lần cập nhật gần nhất: 2026-06-11
 ## Ghi chú vận hành

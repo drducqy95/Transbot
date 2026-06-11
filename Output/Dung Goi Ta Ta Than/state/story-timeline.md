@@ -263,3 +263,37 @@ Pete ký giấy xong và chuẩn bị rời khỏi đồn cảnh sát. Bahamut r
 - Hắn biết thân phận của Norven là thần xuyên không và không có ác ý.
 - Bahamut đồng ý hợp tác với Norven/Pete.
 - Lần đầu tiên xuất hiện nhân vật người Trung Quốc xuyên không khác trong thế giới này.
+
+## Chương 0012 - Lòng biết ơn của người sống sót
+
+### Tóm tắt
+Pete gặp Lena Monia, một thiếu nữ trạc tuổi cậu từng bị lừa vào hang ổ dị biến. Lena hết lòng cảm ơn Pete vì đã cứu mạng, khiến Pete ngượng ngùng vì bản thân biết mình đâu có mạnh mẽ như cô nghĩ. Qua câu chuyện, Pete tiết lộ lý do thực sự cậu phải đến Green Port: vì không đủ tương thích với Nữ thần Ma pháp để vào Học viện Huyền thuật Hoàng gia Rayak, cậu chỉ còn cách trở thành chức nghiệp giả cấp ba để thừa kế tước vị nam tước. Lena mời Pete đến quán rượu nhà mình uống một ly để tạ ơn.
+
+### Diễn biến chính
+- Lena Monia cảm ơn Pete vì đã cứu mạng trong hang ổ dị biến.
+- Pete ngượng ngùng vì không xứng với lời khen — cậu chỉ là người thi triển cấp hai yếu kém.
+- Pete tiết lộ hoàn cảnh: là trưởng nam của nam tước nhỏ ở Vương quốc Rayak, phải đáp ứng 1 trong 3 điều kiện để thừa kế tước vị: tín đồ chân chính của Giáo Hội Huy Quang, nộp thuế quyền thừa kế, hoặc chức nghiệp giả cấp ba.
+- Pete chọn con đường chức nghiệp giả vì không muốn bị ràng buộc bởi giáo lý hay mất tiền.
+- Cậu theo học tại Học viện Caroen nhưng ba năm vẫn chưa lên cấp ba.
+- Lena rủ Pete đến quán rượu nhà mình để tạ ơn.
+
+### Nhân vật xuất hiện
+- Pete Chinar (người thi triển cấp hai, học viên Học viện Caroen)
+- Lena Monia (thiếu nữ sống sót, người Vương quốc Rayak, con gái chủ quán rượu)
+- Cha của Pete (Nam tước Chinar, được nhắc đến)
+- Thần Huy Quang (được nhắc đến)
+
+### Thuật ngữ xuất hiện
+- Người thi triển cấp hai (二阶施法者): cấp bậc ma pháp của Pete
+- Chức nghiệp giả cấp ba (3阶职业者): mục tiêu của Pete để thừa kế tước vị
+- Giáo Hội Huy Quang (辉光神教): giáo phái lớn nhất Vương quốc Rayak
+- Tín đồ chân chính (真信徒): tín đồ tuân thủ nghiêm ngặt giáo lý
+- Tín đồ nông cạn (浅信徒): tín đồ có thể tin hoặc bỏ đạo bất cứ lúc nào
+- Thuế quyền thừa kế (继承权利税金): thuế duy trì tước vị
+- Học viện Huyền thuật Hoàng gia Rayak (雷亚克宫廷奥法学院)
+- Học viện Caroen (卡罗恩学院)
+
+### Thay đổi quan trọng cần nhớ
+- Lena Monia là tín đồ mới của Pete (người thường không có năng lực ma pháp).
+- Pete có động cơ rõ ràng để trở thành chức nghiệp giả cấp ba: thừa kế tước vị.
+- Pete học tại Học viện Caroen vì bị Học viện Huyền thuật Hoàng gia từ chối do thiếu tương thích với Nữ thần Ma pháp.
