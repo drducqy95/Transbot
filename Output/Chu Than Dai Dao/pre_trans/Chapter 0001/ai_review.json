@@ -1,0 +1,35 @@
+I will explore the workspace directory `/mnt/sdcard/My Agent/Transbot` to understand the structure of the translation project and find existing glossary files, translations, or guidelines.
+I will list the contents of the `Script` and `$TRANS_DIR` directories to see the files, scripts, or glossaries related to the translation project.
+I will list the contents of the `Script` directory to see if there are python scripts or other automation scripts for this translation workflow.
+I will list the contents of the `Global State` and `Source` directories to locate the glossary or any instruction files that explain how names and terms should be translated or evaluated.
+I will check the `Source` directory.
+I will check `Source full` and `Source Split` directories.
+I will view the `README.md` file at `/mnt/sdcard/My Agent/Transbot/README.md`.
+I will view `Script/transbot_pipeline.py` to check the pipeline structure and understand the criteria for glossary items or names/terms review.
+I will list the contents of the `Output` directory to find translated books and check how `ai_review.json` or `pre_trans` files are structured.
+I will search the repository to see if there are any existing `ai_review.json` files or JSON formats that show the exact schema expected for this AI review output.
+I will read the found `ai_review.json` file to check the JSON schema and structure used for name and term reviews.
+I will perform a grep search for `最终文卷` to see which book and chapter it belongs to, which will help us understand the context of the terms.
+I will search the entire repository for the term `最终文卷` to see if it is present anywhere.
+I will check if there is an existing Glossary or Character file for the book "Chu Than Dai Dao" under `Output/Chu Than Dai Dao/state/` to ensure naming consistency.
+I will list the contents of the `Output/Chu Than Dai Dao` directory.
+I will perform a web search to check how "最终文卷" (Metatext) is translated in Vietnamese translations of the novel "Chủ Thần Đại Đạo" (Chu Than Dai Dao).
+I will perform a web search for "最终文卷" and "Chủ Thần Đại Đạo" to see what translation terms are commonly used.
+```json
+{
+  "approved_characters": [],
+  "approved_glossary": [
+    {
+      "source": "最终文卷",
+      "target": "Tối Hậu Văn Quyển",
+      "note": "Metatext (Tối Hậu Văn Quyển / Văn Quyển Cuối Cùng - D&D lore item belonging to Deneir containing all secrets of the multiverse)"
+    }
+  ],
+  "rejected": [
+    "中的一小部份",
+    "的零星片段－",
+    "里抽取出了创"
+  ],
+  "uncertain": []
+}
+```

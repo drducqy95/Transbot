@@ -1,0 +1,47 @@
+[
+  {
+    "source": "。”“是，发",
+    "type": "term",
+    "status": "rejected"
+  },
+  {
+    "source": "一书中的辉煌",
+    "type": "term",
+    "status": "rejected"
+  },
+  {
+    "source": "一书，它一开",
+    "type": "term",
+    "status": "rejected"
+  },
+  {
+    "source": "全民大穿越",
+    "type": "term",
+    "status": "approved"
+  },
+  {
+    "source": "出自",
+    "type": "term",
+    "status": "rejected"
+  },
+  {
+    "source": "刀剑神域",
+    "type": "term",
+    "status": "approved"
+  },
+  {
+    "source": "就是游戏引擎",
+    "type": "term",
+    "status": "rejected"
+  },
+  {
+    "source": "开发出的虚拟",
+    "type": "term",
+    "status": "rejected"
+  },
+  {
+    "source": "是能制作、管",
+    "type": "term",
+    "status": "rejected"
+  }
+]
