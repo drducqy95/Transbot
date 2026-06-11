@@ -1,0 +1,3 @@
+- 2026-06-11 21:17 | Chapter 1 | completed | Chương 0001 - Chương 1 Nghĩa địa pháp bảo.md
+- 2026-06-11 21:50 | Chapter 2 | completed | Chương 0002 - Chương 2 Quang mạc nghi.md
+- 2026-06-11 21:54 | Chapter 3 | completed | Chương 0003 - Chương 3 Dị mộng.md

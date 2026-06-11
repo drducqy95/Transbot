@@ -1,0 +1,47 @@
+I will start by analyzing the directory structure of the workspace to see what codebase we are working on.
+I will inspect the `Source` directory to find the relevant code for translating terms or managing the glossary.
+I will inspect the `Script` directory to find any automation scripts related to translation processing.
+I will check the `Global State` directory to see if there are global glossary or state files.
+I will list the contents of `$TRANS_DIR` to see what translation files or glossaries exist.
+I will check the `Output` directory.
+I will read one of the pipeline files, like `Script/transbot_pipeline.py`, to understand how the translation process is set up and if there are specific rules for terms and glossaries.
+I will search the `Script` directory for occurrences of "glossary", "name", or "term" to find how names and terms are typically processed.
+I will search for `dict` in the `Script` directory to see if there is any dictionary or mapping structure defined.
+I will read the next section of `Script/transbot_pipeline.py` to see where dictionary, term, or name validation/translation is happening.
+I will view the next section of `Script/transbot_pipeline.py` to see the logic for names, terms, or glossary updates.
+I will search for any existing `Glossary.md` files in the workspace to get an idea of the project's terminology style and context.
+I will view the AI review JSON output from another chapter/book to see the schema expected for the name and glossary review result.
+I will check another `ai_review.json` file to make sure I understand the output structure expected for this review.
+I will search the workspace for occurrences of `approved_glossary` to see how other `ai_review.json` files were formatted and if they contained both the categorizations and the translation targets.
+I will view the contents of the `ai_review.json` file from "Chu Than Dai Dao" to see its exact schema and structure.
+Here is the JSON containing the approved, rejected, and uncertain items, along with the approved translations:
+
+```json
+{
+  "approved": [
+    "灵蛇身法"
+  ],
+  "rejected": [
+    "，朝主城区电"
+  ],
+  "uncertain": [],
+  "approved_characters": [],
+  "approved_glossary": [
+    {
+      "source": "灵蛇身法",
+      "target": "Linh Xà Thân Pháp"
+    }
+  ]
+}
+```
+
+### Review Decisions
+1. **`灵蛇身法` (Linh Xà Thân Pháp) — Approved**: A valid martial art/movement technique (literally "Snake Agility Technique" or "Snake Movement Skill"), translated into Sino-Vietnamese as *Linh Xà Thân Pháp*.
+2. **`，朝主城区电` — Rejected**: An incomplete sentence fragment containing punctuation (`，`), a preposition (`朝`), and a partial location/context (`主城区电` - main city district/power...), rather than a proper term.
+
+***
+
+### Summary of Work
+- Analyzed the terms list according to the pipeline's translation context rules in [transbot_pipeline.py](file:///mnt/sdcard/My%20Agent/Transbot/Script/transbot_pipeline.py#L363-L382).
+- Categorized and translated the valid terms.
+- Formatted the final response matching the expected JSON structure.
