@@ -1,50 +1,52 @@
-I will list the contents of the workspace directory to understand the project structure and context for these translation terms.
-I will search for scripts and source files within the workspace to understand how the translation pipeline is structured and where the glossary or names/terms list is managed.
-I will check the files inside the `Source` directory to see if there are source files containing these terms.
-I will check the files inside `Source full` to see which novel we are dealing with.
-I will search for glossary-related files or scripts in the workspace to see if there is a specific structure or existing categorization script.
-I will view the content of `/mnt/sdcard/My Agent/Transbot/Output/Ta Te Bao Nguc Giam/pre_trans/Chapter 0001/ai_review.json` to inspect the expected JSON structure and format for approved/rejected/uncertain items.
-I will search for `ai_review.json` or "approved" / "rejected" in `transbot_pipeline.py` to see if there is a specific structure expected by the automated caller.
-I will check if there is any custom Python logic in `transbot_pipeline.py` handling the terms review.
-I will run a grep search in the whole `Script` directory for any references to `review` or `ai_review` to check if a specific script processes this output.
-I will view the `ai_review.json` of another chapter (e.g. Chu Than Dai Dao, Chapter 1) to compare the structure of the JSON.
-I will view the `ai_review.json` for another novel/chapter to verify the format conventions.
-Based on the context of the translation task for the novel *Ta Tế Bào Ngục Giam* (My Cell Prison), here is the review and classification of the terms:
-
+I will start by analyzing the directory structure of the workspace to understand the codebase.
+I will inspect the `Script` and `Source` directories to see how translation is being processed or stored.
+I will list the contents of the `Source` directory to find translation source files or logs.
+I will search the repository to locate where these terms appear or how they are handled.
+I will search the workspace for any glossary files or configurations to see how terms and names are categorized or approved/rejected.
+I will read the `ai_review.json` file to check the expected structure and format of the review output.
+I will search the `Output/Ta Te Bao Nguc Giam` directory to see if any past reviews or `ai_review.json` files exist, which will serve as a guide.
+I will list the `pre_trans` directory for "Ta Te Bao Nguc Giam" to check for chapters and reviews.
+I will list the contents of `Chapter 0001` inside `pre_trans` to find any translation/review metadata files.
+I will list the contents of `Chapter 0002` inside `pre_trans` as well.
+I will view the `ai_review.json` file in Chapter 0002 to inspect the review decisions.
+I will search the codebase for `坎贝尔` to see if `坎贝尔.弗兰` is the full proper name or if it's truncated.
 ```json
 {
   "approved": [
-    "堕落者贝克",
-    "魔眼",
-    "小魔眼",
-    "无面者头颅",
-    "死灵之书-眼",
-    "生魔眼"
+    "右脚",
+    "右臂",
+    "处理室",
+    "头颅",
+    "左脚",
+    "左臂",
+    "快速出拳",
+    "管理室",
+    "躯干"
   ],
   "rejected": [
-    "“魔眼！”",
-    "。\n就好像在",
-    "。\n而在韩东",
-    "。\n阵法白纸",
-    "。”\n韩东立",
-    "后背上的眼睛",
-    "完美吸入体内",
-    "小魔眼（可升",
-    "无面者头颅已",
-    "的全部能力",
-    "的本质。\n由",
-    "警告：当前",
-    "，在一星期废"
+    "。\n“国外的",
+    "。\n若对所挑",
+    "中进行舍弃，",
+    "之后，韩东很",
+    "优质、具备",
+    "劣等、负重需",
+    "并处于上锁状",
+    "技能、负重需",
+    "提示结束。",
+    "是！",
+    "普通、负重需",
+    "的全部肉体？",
+    "请在监狱内挑",
+    "请确认你是否",
+    "转眼间。"
   ],
   "uncertain": [
-    "上交眼睛"
+    "坎贝尔.弗兰"
   ]
 }
 ```
 
-### Review Rationale & Classification Summary
-- **Approved (6)**: Contains key character names (**堕落者贝克**), core concepts/abilities (**魔眼**, **小魔眼**, **生魔眼**), items (**无面者头颅**), and book chapters/lore elements (**死灵之书-眼**) that require consistent translation.
-- **Rejected (13)**: Excludes dialogue quotes/exclamations (`“魔眼！”`), system warning prefixes (`警告：当前`), sentence fragments starting with punctuation/newlines, generic descriptive phrases, and truncated items (`小魔眼（可升`, `无面者头颅已`).
-- **Uncertain (1)**: **上交眼睛** (handing in eyes) is a temporary verb phrase related to a specific plot context (submitting eyes as a school assignment) rather than a persistent name or glossary term.
-
-A historical review record can be found in the workspace at [ai_review.json](file:///mnt/sdcard/My%20Agent/Transbot/Output/Ta%20Te%20Bao%20Nguc%20Giam/pre_trans/Chapter%200001/ai_review.json).
+### Summary of Review Decisions
+1. **Approved (9)**: Body parts (`右脚`, `右臂`, `左脚`, `左臂`, `头颅`, `躯干`), facility locations (`处理室`, `管理室`), and specific character action/skill names (`快速出拳`).
+2. **Rejected (15)**: Sentence or phrase fragments with incomplete grammar, punctuation, or formatting markers (e.g. `。\n若对所挑`, `中进行舍弃，`, `之后，韩东很`, etc.).
+3. **Uncertain (1)**: `坎贝尔.弗兰` is flagged as uncertain because it is a truncated version of the full proper name `坎贝尔.弗兰克` (Campbell Frank) found in the source text.

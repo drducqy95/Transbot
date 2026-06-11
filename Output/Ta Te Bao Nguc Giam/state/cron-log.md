@@ -1,2 +1,3 @@
 - 2026-06-11 20:38 | Chapter 1 | completed | Chương 0001 - Chương 1 Tất cả tà thuật được ghi chép trong chương một, bao gồm luyện thành cơ thể người, hiến tế tà pháp, trận pháp ô nhiễm, v.v., đều là một số yếu lĩnh cơ bản..md
 - 2026-06-11 20:44 | Chapter 2 | completed | Chương 0002 - Chương 2 Sự phát hiện của Hàn Đông.md
+- 2026-06-11 20:58 | Chapter 1 | completed | Chương 0001 - 0001 神秘的监狱.md

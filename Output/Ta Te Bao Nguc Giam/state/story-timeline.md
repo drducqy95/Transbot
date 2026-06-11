@@ -8,3 +8,8 @@ Chapter 1 completed via pipeline.
 
 ### Summary
 Chapter 2 completed via pipeline.
+
+## Chapter 0001 - 0001 神秘的监狱
+
+### Summary
+Chapter 1 completed via pipeline.
