@@ -1,0 +1,50 @@
+I will list the contents of the workspace directory to understand the project structure and context for these translation terms.
+I will search for scripts and source files within the workspace to understand how the translation pipeline is structured and where the glossary or names/terms list is managed.
+I will check the files inside the `Source` directory to see if there are source files containing these terms.
+I will check the files inside `Source full` to see which novel we are dealing with.
+I will search for glossary-related files or scripts in the workspace to see if there is a specific structure or existing categorization script.
+I will view the content of `/mnt/sdcard/My Agent/Transbot/Output/Ta Te Bao Nguc Giam/pre_trans/Chapter 0001/ai_review.json` to inspect the expected JSON structure and format for approved/rejected/uncertain items.
+I will search for `ai_review.json` or "approved" / "rejected" in `transbot_pipeline.py` to see if there is a specific structure expected by the automated caller.
+I will check if there is any custom Python logic in `transbot_pipeline.py` handling the terms review.
+I will run a grep search in the whole `Script` directory for any references to `review` or `ai_review` to check if a specific script processes this output.
+I will view the `ai_review.json` of another chapter (e.g. Chu Than Dai Dao, Chapter 1) to compare the structure of the JSON.
+I will view the `ai_review.json` for another novel/chapter to verify the format conventions.
+Based on the context of the translation task for the novel *Ta Tế Bào Ngục Giam* (My Cell Prison), here is the review and classification of the terms:
+
+```json
+{
+  "approved": [
+    "堕落者贝克",
+    "魔眼",
+    "小魔眼",
+    "无面者头颅",
+    "死灵之书-眼",
+    "生魔眼"
+  ],
+  "rejected": [
+    "“魔眼！”",
+    "。\n就好像在",
+    "。\n而在韩东",
+    "。\n阵法白纸",
+    "。”\n韩东立",
+    "后背上的眼睛",
+    "完美吸入体内",
+    "小魔眼（可升",
+    "无面者头颅已",
+    "的全部能力",
+    "的本质。\n由",
+    "警告：当前",
+    "，在一星期废"
+  ],
+  "uncertain": [
+    "上交眼睛"
+  ]
+}
+```
+
+### Review Rationale & Classification Summary
+- **Approved (6)**: Contains key character names (**堕落者贝克**), core concepts/abilities (**魔眼**, **小魔眼**, **生魔眼**), items (**无面者头颅**), and book chapters/lore elements (**死灵之书-眼**) that require consistent translation.
+- **Rejected (13)**: Excludes dialogue quotes/exclamations (`“魔眼！”`), system warning prefixes (`警告：当前`), sentence fragments starting with punctuation/newlines, generic descriptive phrases, and truncated items (`小魔眼（可升`, `无面者头颅已`).
+- **Uncertain (1)**: **上交眼睛** (handing in eyes) is a temporary verb phrase related to a specific plot context (submitting eyes as a school assignment) rather than a persistent name or glossary term.
+
+A historical review record can be found in the workspace at [ai_review.json](file:///mnt/sdcard/My%20Agent/Transbot/Output/Ta%20Te%20Bao%20Nguc%20Giam/pre_trans/Chapter%200001/ai_review.json).

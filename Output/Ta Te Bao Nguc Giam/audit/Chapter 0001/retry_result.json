@@ -1,0 +1,350 @@
+Here is the corrected translation JSON with all CJK leftover punctuation characters (like `【 】`, `「 」`, `『 』`, `《 》`, and CJK em-spaces) replaced with standard Vietnamese/Western punctuation:
+
+```json
+{
+  "chapter_number": 1,
+  "chapter_title_vi": "Chương 1: Tất cả tà thuật được ghi chép trong chương một, bao gồm luyện thành cơ thể người, hiến tế tà pháp, trận pháp ô nhiễm, v.v., đều là một số yếu lĩnh cơ bản.",
+  "segments": [
+    {
+      "segment_id": "S0001",
+      "source": "# 第一章里所有记载的邪术，包括人体炼成、邪法献祭、污染法阵等等，都是一些基础要领。",
+      "target": "# Tất cả tà thuật được ghi chép trong chương một, bao gồm luyện thành cơ thể người, hiến tế tà pháp, trận pháp ô nhiễm, v.v., đều là một số yếu lĩnh cơ bản."
+    },
+    {
+      "segment_id": "S0002",
+      "source": "在习得基础后，才真正开始学习第一章核心内容-【眼】。",
+      "target": "Sau khi nắm vững các yếu lĩnh cơ bản, mới thực sự bắt đầu học tập nội dung cốt lõi của chương một - “Nhãn”."
+    },
+    {
+      "segment_id": "S0003",
+      "source": "就好像在学习物理与化学前，必须习得基础数学。",
+      "target": "Giống như trước khi học Vật lý và Hóa học, bắt buộc phải học Toán học cơ bản."
+    },
+    {
+      "segment_id": "S0004",
+      "source": "有限的时间里，韩东选择浅尝辄止，对于邪术原理不必深究，只要理解其基础概念就行。",
+      "target": "Trong thời gian hạn hẹp, Hàn Đông lựa chọn chỉ tìm hiểu sơ qua, đối với nguyên lý tà thuật không cần đi sâu nghiên cứu, chỉ cần hiểu rõ các khái niệm cơ bản của chúng là được."
+    },
+    {
+      "segment_id": "S0005",
+      "source": "韩东与原持有者贝克，学习方法上有着本质的差别。",
+      "target": "Giữa Hàn Đông và chủ sở hữu ban đầu là Beck có sự khác biệt bản chất về phương pháp học tập."
+    },
+    {
+      "segment_id": "S0006",
+      "source": "韩东的学习方式才是正确的。",
+      "target": "Phương thức học tập của Hàn Đông mới là chính xác."
+    },
+    {
+      "segment_id": "S0007",
+      "source": "配合「无面者头颅」，在一星期废寝忘食的阅读与学习中。",
+      "target": "Phối hợp với “đầu Vô Diện Nhân”, trong suốt một tuần đọc sách và học tập đến mức quên ăn quên ngủ."
+    },
+    {
+      "segment_id": "S0008",
+      "source": "偶然的一次机会，整体进入到了一种难以言喻的特殊状态。",
+      "target": "Trong một cơ hội ngẫu nhiên, toàn thân anh bước vào một trạng thái đặc biệt khó tả."
+    },
+    {
+      "segment_id": "S0009",
+      "source": "发生于命运空间开启的两天前。",
+      "target": "Chuyện này xảy ra vào hai ngày trước khi Không gian Vận Mệnh mở ra."
+    },
+    {
+      "segment_id": "S0010",
+      "source": "书桌上撑开着一张巨型白纸。",
+      "target": "Trên bàn làm việc đang trải ra một tờ giấy trắng khổng lồ."
+    },
+    {
+      "segment_id": "S0011",
+      "source": "上面被韩东写满了密密麻麻的生物学知识体系、神秘学相关图表、并临摹了一些书本里的邪恶阵法。",
+      "target": "Trên đó được Hàn Đông viết kín mít các hệ thống kiến thức sinh học, sơ đồ liên quan đến Thần bí học, đồng thời mô phỏng lại một số trận pháp tà ác trong sách."
+    },
+    {
+      "segment_id": "S0012",
+      "source": "韩东需要将这些知识串联起来，找到突破口。",
+      "target": "Hàn Đông cần phải xâu chuỗi những kiến thức này lại với nhau để tìm ra bước đột phá."
+    },
+    {
+      "segment_id": "S0013",
+      "source": "深入理解第一章里所阐述的【眼】的本质。",
+      "target": "Để thấu hiểu sâu sắc bản chất của “Nhãn” được trình bày trong chương một."
+    },
+    {
+      "segment_id": "S0014",
+      "source": "由于没有计算机的辅助支持，一系列的计算都需要在韩东的大脑中进行。",
+      "target": "Do không có máy tính hỗ trợ, một loạt các phép tính toán đều phải thực hiện trong não bộ của Hàn Đông."
+    },
+    {
+      "segment_id": "S0015",
+      "source": "“我是是不是有点急功近利了？”",
+      "target": "“Có phải mình hơi nôn nóng muốn thành công quá rồi không?”"
+    },
+    {
+      "segment_id": "S0016",
+      "source": "超高强度的信息处理，让韩东倍感困乏，大脑也传出一种休息指令。",
+      "target": "Việc xử lý thông tin với cường độ siêu cao khiến Hàn Đông cảm thấy vô cùng mệt mỏi, não bộ cũng truyền ra tín hiệu đòi nghỉ ngơi."
+    },
+    {
+      "segment_id": "S0017",
+      "source": "韩东早已习惯这样，一旦大脑有些疲倦，立马开睡。",
+      "target": "Hàn Đông đã sớm quen với việc này, hễ não bộ có chút mệt mỏi là lập tức đi ngủ."
+    },
+    {
+      "segment_id": "S0018",
+      "source": "谁知道，这一趴下！",
+      "target": "Ai mà ngờ được, cú nằm sấp này!"
+    },
+    {
+      "segment_id": "S0019",
+      "source": "让韩东的额头刚好与写满各种邪恶阵法的白纸触碰。",
+      "target": "Đã khiến trán của Hàn Đông vừa vặn chạm vào tờ giấy trắng viết đầy các trận pháp tà ác."
+    },
+    {
+      "segment_id": "S0020",
+      "source": "同时，韩东的右手又正巧触碰着放在一旁的《死灵之书-眼部抄本》。",
+      "target": "Đồng thời, tay phải của Hàn Đông cũng vừa khéo chạm vào cuốn “Tử Linh Chi Thư - Bản sao chép bộ phận mắt” đặt ở một bên."
+    },
+    {
+      "segment_id": "S0021",
+      "source": "阵法白纸、",
+      "target": "Tờ giấy trắng vẽ trận pháp,"
+    },
+    {
+      "segment_id": "S0022",
+      "source": "无面者头颅、",
+      "target": "Đầu Vô Diện Nhân,"
+    },
+    {
+      "segment_id": "S0023",
+      "source": "邪书。",
+      "target": "Tà thư."
+    },
+    {
+      "segment_id": "S0024",
+      "source": "三位一体。",
+      "target": "Tam vị nhất thể."
+    },
+    {
+      "segment_id": "S0025",
+      "source": "韩东刚一睡着，整体立即陷入了一个无比真实的梦境。",
+      "target": "Hàn Đông vừa mới thiếp đi, toàn thân lập tức rơi vào một giấc mộng vô cùng chân thực."
+    },
+    {
+      "segment_id": "S0026",
+      "source": "…………",
+      "target": "…………"
+    },
+    {
+      "segment_id": "S0027",
+      "source": "“这里是！？”",
+      "target": "“Nơi này là...!?”"
+    },
+    {
+      "segment_id": "S0028",
+      "source": "似乎衔接着上一次的真实梦境。",
+      "target": "Dường như có sự liên kết với giấc mộng chân thực lần trước."
+    },
+    {
+      "segment_id": "S0029",
+      "source": "韩东以大学老师的身份站在讲台上。",
+      "target": "Hàn Đông đứng trên bục giảng với thân phận là một giảng viên đại học."
+    },
+    {
+      "segment_id": "S0030",
+      "source": "只不过，这次坐满台下的学生与上一次稍有不同，不再是无面模样……上百位学生的面部多出了一道器官-眼睛。      单单一颗独眼长在学生的面部，就这么盯着讲台上的韩东老师。",
+      "target": "Chỉ là, những học sinh ngồi kín dưới lớp lần này hơi khác so với lần trước, không còn là bộ dáng vô diện nữa... Trên khuôn mặt của hàng trăm học sinh đã xuất hiện thêm một cơ quan - con mắt. Chỉ độc nhất một con mắt mọc trên mặt học sinh, cứ như vậy nhìn chằm chằm vào thầy giáo Hàn Đông trên bục giảng."
+    },
+    {
+      "segment_id": "S0031",
+      "source": "多媒体课件已展示。",
+      "target": "Giáo án điện tử đa phương tiện đã được trình chiếu."
+    },
+    {
+      "segment_id": "S0032",
+      "source": "上面明确写着今日的作业要求为-「上交眼睛」。",
+      "target": "Trên đó ghi rõ yêu cầu bài tập hôm nay là - “Nộp mắt”."
+    },
+    {
+      "segment_id": "S0033",
+      "source": "而在韩东的手中，不知何时多出了一个干净的玻璃箱。",
+      "target": "Còn trong tay Hàn Đông, không biết từ lúc nào đã có thêm một chiếc hộp thủy tinh sạch sẽ."
+    },
+    {
+      "segment_id": "S0034",
+      "source": "铃铃铃~随着上课铃响起。",
+      "target": "Reng reng reng~ Tiếng chuông vào lớp vang lên."
+    },
+    {
+      "segment_id": "S0035",
+      "source": "座位上的学生们依次起身，排队来到讲台前。",
+      "target": "Các học sinh trên ghế lần lượt đứng dậy, xếp hàng đi tới trước bục giảng."
+    },
+    {
+      "segment_id": "S0036",
+      "source": "上交作业！",
+      "target": "Nộp bài tập!"
+    },
+    {
+      "segment_id": "S0037",
+      "source": "一颗颗圆润湿滑的物体，从他们的面部滑落而下，刚好落在韩东手中的玻璃箱内。",
+      "target": "Từng vật thể tròn trịa, trơn ướt trượt xuống từ trên mặt bọn họ, rơi chuẩn xác vào trong hộp thủy tinh trên tay Hàn Đông."
+    },
+    {
+      "segment_id": "S0038",
+      "source": "提交了作业的学生们纷纷向韩东老师挥手，开心地离开教室。",
+      "target": "Những học sinh đã nộp bài tập lần lượt vẫy tay chào thầy giáo Hàn Đông, vui vẻ rời khỏi phòng học."
+    },
+    {
+      "segment_id": "S0039",
+      "source": "紧跟着，投影的课件发生变化。",
+      "target": "Ngay sau đó, slide bài giảng trình chiếu có sự thay đổi."
+    },
+    {
+      "segment_id": "S0040",
+      "source": "盯着课件的韩东一脸惊讶。",
+      "target": "Hàn Đông chăm chú nhìn vào bài giảng, vẻ mặt tràn đầy kinh ngạc."
+    },
+    {
+      "segment_id": "S0041",
+      "source": "“这不是我结合细胞生物学，融合第一章中多种阵法，推导出来的最终阵法吗？讲道理，我还没有完成啊……怎么补全的？”",
+      "target": "“Đây chẳng phải là trận pháp cuối cùng mà mình kết hợp Sinh học tế bào, dung hợp nhiều loại trận pháp trong chương một để suy diễn ra sao? Theo lý mà nói, mình còn chưa hoàn thành mà... Làm sao lại được bổ sung đầy đủ rồi?”"
+    },
+    {
+      "segment_id": "S0042",
+      "source": "就在韩东惊叹时。",
+      "target": "Ngay lúc Hàn Đông còn đang kinh thán."
+    },
+    {
+      "segment_id": "S0043",
+      "source": "阵法驱动。",
+      "target": "Trận pháp được khởi động."
+    },
+    {
+      "segment_id": "S0044",
+      "source": "玻璃箱里的‘作业’纷纷飞在阵法，在黑板上构建出一颗巨型活眼，就这么与韩东对视着。",
+      "target": "Những 'bài tập' trong chiếc hộp thủy tinh lũ lượt bay lên trận pháp, cấu tạo thành một con mắt sống khổng lồ trên bảng đen, cứ thế đối mắt với Hàn Đông."
+    },
+    {
+      "segment_id": "S0045",
+      "source": "眼睛的大小与【堕落者贝克】后背上的眼睛相同。",
+      "target": "Kích thước của con mắt này giống hệt con mắt trên lưng của “Đọa Lạc Giả Beck”."
+    },
+    {
+      "segment_id": "S0046",
+      "source": "“这是……眼书第一章里阐述的最后一步-【生魔眼】。”",
+      "target": "“Đây là... bước cuối cùng được trình bày trong chương một của Nhãn Thư - ‘Sinh Ma Nhãn’.”"
+    },
+    {
+      "segment_id": "S0047",
+      "source": "韩东立即回忆起书本上的内容，依照步骤要求，伸手触碰眼珠！",
+      "target": "Hàn Đông lập tức nhớ lại nội dung trong sách, làm theo yêu cầu của các bước, vươn tay chạm vào nhãn cầu!"
+    },
+    {
+      "segment_id": "S0048",
+      "source": "不同于贝克.马塞勒斯在这一步骤中彻底堕落，而从 his 后背长出一颗巨眼。",
+      "target": "Không giống với Beck Marcellus hoàn toàn đọa lạc trong bước này và mọc ra một con mắt khổng lồ từ sau lưng."
+    },
+    {
+      "segment_id": "S0049",
+      "source": "韩东未在这一过程中受到任何的污染。",
+      "target": "Hàn Đông không hề chịu bất kỳ sự ô nhiễm nào trong quá trình này."
+    },
+    {
+      "segment_id": "S0050",
+      "source": "通过手掌的吸附，将第一章所阐述的【魔眼】完美吸入体内，化为正常大小，并由眉心位置彰显出来。",
+      "target": "Thông qua sức hút của lòng bàn tay, anh hấp thụ hoàn hảo “Ma Nhãn” được trình bày trong chương một vào trong cơ thể, hóa thành kích thước bình thường và hiển lộ ra từ vị trí ấn đường."
+    },
+    {
+      "segment_id": "S0051",
+      "source": "开眼！",
+      "target": "Khai nhãn!"
+    },
+    {
+      "segment_id": "S0052",
+      "source": "韩东看到了许多肉眼所看不见的东西……看似寻常的教室，不只是黑板、讲台、课桌这些物件。",
+      "target": "Hàn Đông nhìn thấy rất nhiều thứ mà mắt thường không thể nhìn thấy... Phòng học tưởng chừng như bình thường kia, không chỉ có những vật dụng như bảng đen, bục giảng, bàn học."
+    },
+    {
+      "segment_id": "S0053",
+      "source": "就连墙体、地面也全都由触须所构成。",
+      "target": "Ngay cả tường phòng, mặt đất cũng đều được cấu tạo từ những xúc tu."
+    },
+    {
+      "segment_id": "S0054",
+      "source": "犹如置身于某种巨型污染怪物的体内！",
+      "target": "Giống như đang ở trong cơ thể của một con quái vật ô nhiễm khổng lồ nào đó!"
+    },
+    {
+      "segment_id": "S0055",
+      "source": "“哇！”",
+      "target": "“Oa!”"
+    },
+    {
+      "segment_id": "S0056",
+      "source": "猛然惊醒时，已是白天。",
+      "target": "Đột ngột tỉnh giấc thì trời đã sáng."
+    },
+    {
+      "segment_id": "S0057",
+      "source": "原本绘制着公式与阵法的白纸已化为一堆齑粉。",
+      "target": "Tờ giấy trắng vốn vẽ các công thức và trận pháp đã hóa thành một đống tro bụi."
+    },
+    {
+      "segment_id": "S0058",
+      "source": "与此同时，头颅内传来一阵底层的声音。",
+      "target": "Cùng lúc đó, trong đầu truyền đến một âm thanh sâu thẳm."
+    },
+    {
+      "segment_id": "S0059",
+      "source": "『无面者头颅已开启全新能力-「小魔眼（可升级）」",
+      "target": "[Đầu Vô Diện Nhân đã mở ra năng lực hoàn toàn mới - “Tiểu Ma Nhãn (Có thể nâng cấp)”"
+    },
+    {
+      "segment_id": "S0060",
+      "source": "警告：当前无面者头颅等级为（LV.1），难以发挥「小魔眼」的全部能力",
+      "target": "Cảnh báo: Cấp độ đầu Vô Diện Nhân hiện tại là (LV.1), rất khó phát huy toàn bộ năng lực của “Tiểu Ma Nhãn”"
+    },
+    {
+      "segment_id": "S0061",
+      "source": "请至少预留50点负重值，对无面者头颅进行升级。』",
+      "target": "Vui lòng để trống ít nhất 50 điểm chịu tải để tiến hành nâng cấp đầu Vô Diện Nhân.]"
+    },
+    {
+      "segment_id": "S0062",
+      "source": "“魔眼！”",
+      "target": "“Ma Nhãn!”"
+    },
+    {
+      "segment_id": "S0063",
+      "source": "韩东的意识层面也多出一道面部器官，可对这枚全新的眼睛自由控制……不单单是睁眼与闭眼，还有一些别的功能。",
+      "target": "Trong tầng ý thức của Hàn Đông cũng có thêm một cơ quan trên khuôn mặt, có thể tự do điều khiển con mắt hoàn toàn mới này... không đơn giản chỉ là mở mắt và nhắm mắt, mà còn có một số chức năng khác."
+    },
+    {
+      "segment_id": "S0064",
+      "source": "意念驱使。",
+      "target": "Ý niệm thúc đẩy."
+    },
+    {
+      "segment_id": "S0065",
+      "source": "小魔眼睁开。",
+      "target": "Tiểu Ma Nhãn mở ra."
+    },
+    {
+      "segment_id": "S0066",
+      "source": "‘视觉能力’特殊化的同时，五感也相应有所增强。",
+      "target": "Trong lúc 'năng lực thị giác' được đặc thù hóa, ngũ giác cũng theo đó được tăng cường."
+    },
+    {
+      "segment_id": "S0067",
+      "source": "“这眼睛！！”",
+      "target": "“Con mắt này!!”"
+    },
+    {
+      "segment_id": "S0068",
+      "source": "韩东连忙翻阅眼书。",
+      "target": "Hàn Đông vội vàng lật xem Nhãn Thư."
+    }
+  ]
+}
+```
