@@ -61,3 +61,37 @@
   - toc.json, home.json: cập nhật
 - **Kế tiếp:** Chương 0022 — 合作 (Hợp tác)
 | 2026-06-11 02:43 UTC | 22 | Hợp tác | Hoàn thành |
+
+## 2026-06-11 09:50
+
+### Chapter 0023 - Completed
+- Branch: Dung Goi Ta Ta Than
+- Chapter: 0023
+- Title: Quy tắc kỳ lạ
+- Step: completed
+- Final: output/Chương 0023 - Quy tắc kỳ lạ.md
+- TOC/README/HOME: updated
+- Git: pending
+## 2026-06-11 11:52
+- **Chương 0024** — Ám Ảnh Thần Tuyển
+- **Status:** ✅ Hoàn thành
+  - pre_trans + translate + audit → output
+  - toc.json, home.json, README: cập nhật
+  - Git: pending
+| 2026-06-11 11:52 UTC | 24 | Ám Ảnh Thần Tuyển | Hoàn thành |
+
+## 2026-06-11
+
+### Chapter 0025 - Completed
+- **Branch:** Dung Goi Ta Ta Than
+- **Chương 0025** — Lộ trình Tiềm Hành Giả, nhưng là Thần Tri Thức
+- **Step:** completed
+- **Pre-trans:** OK (resumed, had existing scans + context_pack)
+- **Translate:** OK (16 segments translated)
+- **Audit:** OK (no CJK/glossary issues)
+- **Retry:** none needed
+- **Final:** Output/Dung Goi Ta Ta Than/output/Chương 0025 - Lộ trình Tiềm Hành Giả nhưng là Thần Tri Thức.md
+- **TOC:** updated (ch25, title Việt)
+- **README:** updated progress (24→25)
+- **HOME:** updated (last_chapter=25)
+- **Git:** pending

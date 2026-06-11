@@ -29,11 +29,11 @@ Thế giới fantasy phương Tây với ma pháp, thần minh, học viện ma 
 
 ## Tiến độ
 - Tổng số chương: 968
-- Đã hoàn thành: 23
-- Đã audit: 23
-- Chương cuối đã hoàn thành: Chương 23: Quy tắc kỳ lạ
+- Đã hoàn thành: 25
+- Đã audit: 25
+- Chương cuối đã hoàn thành: Chương 25: Lộ trình Tiềm Hành Giả, nhưng là Thần Tri Thức
 - Trạng thái: Đang dịch
-- Lần cập nhật gần nhất: 2026-06-11 02:04
+- Lần cập nhật gần nhất: 2026-06-11
 
 ## Ghi chú vận hành
 - Branch được xử lý tuần tự qua cronjob mỗi 5 phút.

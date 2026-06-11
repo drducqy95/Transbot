@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-11T09:28:56+07:00",
+  "updated_at": "2026-06-11T12:00:00+07:00",
   "books": [
     {
       "branch": "Dung Goi Ta Ta Than",
       "title": "Đừng Gọi Ta Tà Thần",
-      "chapters_done": 21,
+      "chapters_done": 25,
       "total_chapters": 968,
-      "completed_chapters": 21,
-      "latest_chapter": "Chương 21: Tự tay tạo trận pháp kiểm tra",
+      "completed_chapters": 25,
+      "latest_chapter": "Chương 25: Lộ trình Tiềm Hành Giả, nhưng là Thần Tri Thức",
       "status": "in_progress",
       "status_label": "Đang ra",
       "ongoing": true,
-      "updated_at": "2026-06-11T09:28:56+07:00",
-      "detail": "Tiến độ: 21/968 chương | Mới nhất: Chương 21: Tự tay tạo trận pháp kiểm tra",
-      "last_chapter": 21,
-      "last_chapter_title": "Tự tay tạo trận pháp kiểm tra",
-      "progress": "21/968"
+      "updated_at": "2026-06-11T12:00:00+07:00",
+      "detail": "Tiến độ: 25/968 chương | Mới nhất: Chương 25: Lộ trình Tiềm Hành Giả, nhưng là Thần Tri Thức",
+      "last_chapter": 25,
+      "last_chapter_title": "Lộ trình Tiềm Hành Giả, nhưng là Thần Tri Thức",
+      "progress": "25/968"
     }
   ],
   "metadata": {
-    "generated_at": "2026-06-11T08:44:49+07:00",
+    "generated_at": "2026-06-11T12:00:00+07:00",
     "total_books": 1,
     "source": "Dichtrung/Output"
   },
@@ -38,9 +38,9 @@
   "branches": {
     "Dung Goi Ta Ta Than": {
       "display_title": "Đừng Gọi Ta Tà Thần",
-      "current_chapter": 21,
+      "current_chapter": 25,
       "total_chapters": 968,
-      "completed_chapters": 21,
+      "completed_chapters": 25,
       "last_updated": "2026-06-11"
     }
   }
