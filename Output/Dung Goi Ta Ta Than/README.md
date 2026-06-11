@@ -17,7 +17,7 @@ Thế giới fantasy phương Tây với ma pháp, thần minh, học viện ma 
 ## Phong cách dịch
 - Giọng văn: Tự nhiên, hiện đại, có chút hài hước và mỉa mai nhẹ phù hợp giọng kể của Norven.
 - Cách xử lý xưng hô: Linh hoạt theo ngữ cảnh — Norven tự xưng "ta" với tín đồ, người dẫn truyện dùng "hắn".
-- Cách xử lý tên riêng: Giữ nguyên tên Latin phương Tây (Norven, Pete Chinar, Hada, Carone).
+- Cách xử lý tên riêng: Giữ nguyên tên Latin phương Tây (Norven, Pete Chinar, Hada, Caroen).
 - Cách xử lý thuật ngữ: Thuật ngữ Hán dùng Hán Việt, thuật ngữ phương Tây giữ nguyên bối cảnh.
 - Ghi chú thể loại: Fantasy phương Tây, magic system, truyện xuyên không.
 

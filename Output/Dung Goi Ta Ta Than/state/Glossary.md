@@ -9,8 +9,8 @@
 - Pete Chinar: nhân vật mới, học viên ma pháp.
 - Người áo choàng đen: kẻ môi giới lừa người đến ổ dị biến.
 - Nữ thần Ma pháp: vị thần ma pháp trong thế giới.
-- Học viện Carone: học viện ma pháp.
-- Trường phái Huyền thuật: phân khoa tại Học viện Carone.
+- Học viện Caroen: học viện ma pháp.
+- Trường phái Huyền thuật: phân khoa tại Học viện Caroen.
 - 【Cơn Đói Khát của Hada】: ma pháp cấp ba mà Norven ban cho Pete.
 - Quái vật dị biến thần nghiệt: quái vật do thần lực hỗn loạn tạo ra.
 - Quái vật dị biến: quái vật biến dạng do thần lực hỗn loạn.
@@ -25,7 +25,7 @@
 
 - Chúa Tể Huy Quang / Thần Huy Quang / Giáo Hội Huy Quang (辉光之主/辉光之神/辉光神教): thần chính của Vương quốc Rayak, tín ngưỡng phổ biến nhất, mang bối cảnh phương Tây (tương tự thần Ánh Sáng/thần Mặt Trời).
 - Tín đồ chân chính (真信徒): tín đồ tuân thủ nghiêm ngặt giáo lý và giới luật của thần, khác với tín đồ nông cạn có thể tin hoặc bỏ bất cứ lúc nào.
-- Học viện Huyền thuật Hoàng gia Rayak (雷亚克宫廷奥法学院): học viện ma pháp danh giá của Vương quốc Rayak, khó đỗ hơn Học viện Carone.
+- Học viện Huyền thuật Hoàng gia Rayak (雷亚克宫廷奥法学院): học viện ma pháp danh giá của Vương quốc Rayak, khó đỗ hơn Học viện Caroen.
 - Thuế quyền thừa kế (继承权利税金): thuế mà người thừa kế phải nộp cho quốc vương để giữ tước vị.
 
 | Caroen Lever (卡罗恩·拉杆) | Caroen Lever | nhân vật | Đại tài phiệt tinh linh, người sáng lập Học viện Caroen và Cảng Green. Latin chuẩn, không dịch một phần. |

@@ -66,7 +66,7 @@ Norven lắng tâm xuống, rất nhanh liền nhận ra một tiếng cầu ngu
 
 ...
 
-Trong hang động ngầm âm u ẩm ướt, ánh nến xanh lục chập chờn lúc sáng lúc tối, một bệ thờ có hình thù hung tợn kỳ dị, cùng với đống thịt xương, nội tạng và máu tươi lẫn lộn của loài động vật không rõ tên tuổi chất đống cùng nhau. Thêm vào đó là vài kẻ lén lút khoác áo choàng đen che khuất cơ thể, không nhìn rõ mặt mũi, đang ngồi xếp bằng bên dưới bệ thờ, trầm giọng ngâm tụng điều gì đó.
+Trong hang động ngầm âm u ẩm ướt, ánh nến xanh lục chập chờn lúc sáng lúc tối, một bệ thờ có hình thù hung tợn kỳ dị, cùng với đống thịt xương, nội tạng và máu tươi lẫn lộn của loài động vật không rõ tên tuổi chất đống cùng nhau. Thêm vào đó là vài Tiềm Hành Giả khoác áo choàng đen che khuất cơ thể, không nhìn rõ mặt mũi, đang ngồi xếp bằng bên dưới bệ thờ, trầm giọng ngâm tụng điều gì đó.
 
 Đây chính là cảnh tượng đầu tiên đập vào mắt Norven khi anh mở góc nhìn 【Mắt Thần】 ra quan sát.
 

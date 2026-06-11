@@ -9,7 +9,7 @@ Norven thử ban thần lực cho kẻ cầm đầu nhóm áo choàng đen, như
 ## Chương 0003 - Pete Chinar
 
 ### Tóm tắt
-Norven nhận ra cơ chế thực sự của việc ban thần lực: hắn không truyền năng lực trực tiếp mà chỉ cấp "giấy phép sử dụng" để tín đồ tiêu hao thần lực của hắn thi pháp. Vì thần lực của hắn mang khí tức hỗn loạn nên gây dị biến cho tín đồ. Trong khi đó, Pete Chinar, một học viên yếu kém của Học viện Carone, bị lừa vào hang ổ quái vật và trước khi chết nhận được nhiệm vụ từ Norven: học pháp thuật【Cơn Đói Khát của Hada】và tiêu diệt quái vật dị biến thần nghiệt.
+Norven nhận ra cơ chế thực sự của việc ban thần lực: hắn không truyền năng lực trực tiếp mà chỉ cấp "giấy phép sử dụng" để tín đồ tiêu hao thần lực của hắn thi pháp. Vì thần lực của hắn mang khí tức hỗn loạn nên gây dị biến cho tín đồ. Trong khi đó, Pete Chinar, một học viên yếu kém của Học viện Caroen, bị lừa vào hang ổ quái vật và trước khi chết nhận được nhiệm vụ từ Norven: học pháp thuật【Cơn Đói Khát của Hada】và tiêu diệt quái vật dị biến thần nghiệt.
 
 ### Diễn biến chính
 - Norven phát hiện cơ chế ban thần lực thực chất là cấp "giấy phép sử dụng", không phải truyền năng lực trực tiếp.
@@ -20,7 +20,7 @@ Norven nhận ra cơ chế thực sự của việc ban thần lực: hắn khô
 
 ### Nhân vật xuất hiện
 - Norven (nhân vật chính, tà thần tri thức)
-- Pete Chinar (học viên Trường phái Huyền thuật, Học viện Carone)
+- Pete Chinar (học viên Trường phái Huyền thuật, Học viện Caroen)
 - Người áo choàng đen (kẻ môi giới, đã chết/biến thành quái vật)
 
 ### Thuật ngữ xuất hiện
@@ -49,7 +49,7 @@ Trong lúc nguy cấp, Pete nhận được nhiệm vụ mới từ Norven với
 - Pete kiệt sức và ngất xỉu sau khi hoàn thành nhiệm vụ.
 
 ### Nhân vật xuất hiện
-- Pete Chinar (tín đồ mới của Norven, học viên Học viện Carone)
+- Pete Chinar (tín đồ mới của Norven, học viên Học viện Caroen)
 - Norven (thông qua hệ thống nhiệm vụ)
 
 ### Thuật ngữ xuất hiện
@@ -114,18 +114,18 @@ Pete nhận được chỉ dẫn chi tiết từ tín đồ cầu cứu, tìm hi
 ## Chương 0006 - Thẩm vấn
 
 ### Tóm tắt
-Pete Chinar tỉnh dậy trong phòng thẩm vấn, bị còng trên ghế kim loại. Một người đàn ông vạm vỡ ngồi đối diện thẩm vấn anh về ma pháp cấp ba mà anh đã thi triển để tiêu diệt quái vật dị biến. Pete lo sợ bị coi là đồng bọn của những kẻ tế lễ tà thần. Khi bị hỏi về thân phận, anh khai là sinh viên trường phái Huyền thuật Học viện Carone, người thi triển cấp hai. Người thẩm vấn nghi ngờ vì một người thi triển cấp hai từ Học viện Carone (nổi tiếng đào tạo hàng dỏm) không thể thi triển ma pháp cấp ba uy lực mạnh như vậy. Pete nhận ra những đặc điểm của tà thần khớp với trải nghiệm của mình, và nhìn thấy thông báo nhiệm vụ từ hệ thống thần linh yêu cầu anh nhận được sự tín nhiệm của Bahamut Conquertusglazcharden.
+Pete Chinar tỉnh dậy trong phòng thẩm vấn, bị còng trên ghế kim loại. Một người đàn ông vạm vỡ ngồi đối diện thẩm vấn anh về ma pháp cấp ba mà anh đã thi triển để tiêu diệt quái vật dị biến. Pete lo sợ bị coi là đồng bọn của những kẻ tế lễ tà thần. Khi bị hỏi về thân phận, anh khai là sinh viên trường phái Huyền thuật Học viện Caroen, người thi triển cấp hai. Người thẩm vấn nghi ngờ vì một người thi triển cấp hai từ Học viện Caroen (nổi tiếng đào tạo hàng dỏm) không thể thi triển ma pháp cấp ba uy lực mạnh như vậy. Pete nhận ra những đặc điểm của tà thần khớp với trải nghiệm của mình, và nhìn thấy thông báo nhiệm vụ từ hệ thống thần linh yêu cầu anh nhận được sự tín nhiệm của Bahamut Conquertusglazcharden.
 
 ### Diễn biến chính
 - Pete tỉnh lại trong phòng thẩm vấn, bị còng tay
 - Người đàn ông thẩm vấn Pete về lai lịch và ma pháp cấp ba
-- Pete khai mình là sinh viên Học viện Carone, người Vương quốc Rayak
-- Người thẩm vấn chế giễu Học viện Carone vì nổi tiếng đào tạo kém chất lượng
+- Pete khai mình là sinh viên Học viện Caroen, người Vương quốc Rayak
+- Người thẩm vấn chế giễu Học viện Caroen vì nổi tiếng đào tạo kém chất lượng
 - Pete hồi tưởng về ba đặc điểm nhận diện tà thần và nhận ra sự trùng khớp
 - Hệ thống hiện ra thông báo nhiệm vụ: Nhận được sự tín nhiệm của Bahamut
 
 ### Nhân vật xuất hiện
-- Pete Chinar (培特·奇纳尔): học viên Học viện Carone, người thi triển cấp hai
+- Pete Chinar (培特·奇纳尔): học viên Học viện Caroen, người thi triển cấp hai
 - Người đàn ông thẩm vấn (chưa rõ danh tính)
 
 ### Thuật ngữ xuất hiện
@@ -135,7 +135,7 @@ Pete Chinar tỉnh dậy trong phòng thẩm vấn, bị còng trên ghế kim l
 - Ma pháp cấp ba (3阶法术)
 - Trường phái Huyền thuật (奥法学派)
 - Thần dụ (神谕)
-- Học viện Carone, Vịnh Green, Cảng Green, lục địa Plantis
+- Học viện Caroen, Vịnh Green, Cảng Green, lục địa Plantis
 
 ### Thay đổi quan trọng cần nhớ
 - Pete đã trở thành tín đồ của một thần linh bí ẩn (nghi là tà thần)

@@ -35,7 +35,7 @@ Tạm gác những nghi hoặc này sang một bên, Pete tiếp tục chuyên t
 【Mức độ tin tưởng hiện tại: 40%】
 Bahamut ngồi đối diện trên mặt vẫn không lộ rõ biểu cảm gì, chỉ là thần sắc có chút tập trung hơn, nhưng mức độ tin tưởng hiển thị trên thần dụ không thể lừa người, Pete mừng thầm trong lòng.
 "Thần Tri Thức đúng là đáng tin! Tuy không biết tại sao thi triển ma pháp này lại có thể lấy được lòng tin của Bahamut, nhưng chỉ riêng việc hoàn thành bước điều động Ma Võng đã có thể tăng mức độ tin tưởng của ông ta đối với mình, đủ thấy cách này hữu hiệu!"
-Độ phức tạp của mô hình pháp thuật cấp 2 so với cấp 3 đã thấp hơn nhiều. Tuy là một người thi triển cấp 2 dạng hàng lỗi, nhưng Pete cũng đã từng nắm giữ có bài bản vài pháp thuật cấp 2, vì thế lần này quá trình hoàn thành【Biết Tên Thật】diễn ra khá thuận lợi.
+Độ phức tạp của mô hình pháp thuật cấp 2 so với cấp 3 đã thấp hơn nhiều. Tuy là một Thi Triển Giả cấp 2 dạng hàng lỗi, nhưng Pete cũng đã từng nắm giữ có bài bản vài pháp thuật cấp 2, vì thế lần này quá trình hoàn thành【Biết Tên Thật】diễn ra khá thuận lợi.
 Không tốn quá nhiều sức, Pete đã cảm thấy một luồng năng lượng huyền thuật dưới sự ràng buộc của ma pháp dần dần hội tụ đến vị trí yết hầu của cậu.
 Khoảnh khắc pháp thuật hoàn thành, Pete không kiểm soát được mà há miệng, phát ra một giọng nói rõ ràng khác hẳn trạng thái bình thường của cậu:
 "Vì chân lý, khởi tên thật! Tên của ngươi là——Bahamut·Concado... khụ! khụ khụ! khụ khụ khụ!!!"
@@ -43,7 +43,7 @@ Khi Pete bắt đầu trì tụng, vẻ mặt vốn bình tĩnh của Bahamut ng
 "Counterspell!"
 Pete cứ như đang nói giữa chừng đột nhiên bị người ta bóp chặt dây thanh quản, nhưng cảm giác thực tế của cậu còn tệ hơn thế: không chỉ pháp thuật đang tụng bị cưỡng chế ngắt giữa chừng, hô hấp không thông, cổ họng truyền đến cảm giác đau rát bỏng lửa, mà đầu óc cũng như bị thứ gì đó nện mạnh một phát, bên tai toàn là tiếng ù ù ảo giác, căn bản không thể tập trung tinh thần!
 "Khụ... khụ khụ! Khụ!!!"
-Cái tên người thi triển thuần "học viện phái" như cậu chưa từng trải qua chiến đấu giữa những người thi triển thực thụ, trong tình trạng không phòng bị mà ăn trọn một kỹ【Phản Chế Pháp Thuật】do ít nhất người thi triển cấp năm phóng ra, khiến cho một ma pháp vốn chỉ dùng để ngắt lời tụng niệm của người khác, đã cứng đơ cậu ta cả mấy chục giây!
+Cái tên Thi Triển Giả thuần "học viện phái" như cậu chưa từng trải qua chiến đấu giữa những Thi Triển Giả thực thụ, trong tình trạng không phòng bị mà ăn trọn một kỹ【Phản Chế Pháp Thuật】do ít nhất Thi Triển Giả cấp năm phóng ra, khiến cho một ma pháp vốn chỉ dùng để ngắt lời tụng niệm của người khác, đã cứng đơ cậu ta cả mấy chục giây!
 Hơn nửa phút sau, Pete miễn cưỡng hồi phục, mặt đầy vẻ chấn động:
 "Không phải, thưa ngài! Tôi đã theo lời ngài cầu nguyện Thần Tri Thức, Ngài đáp lại tôi chính là pháp thuật này, tôi hoàn toàn làm theo yêu cầu của ngài, sao lại khụ... ngăn tôi thi pháp!"
 Lần này Bahamut tỏ ra rất cô đọng, giọng nói rất nhanh:

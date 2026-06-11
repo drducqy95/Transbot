@@ -27,9 +27,9 @@
 | Tên gốc | Tên dịch | Ghi chú |
 |---------|----------|---------|
 | 诺文 | Norven | Nhân vật chính, xưng thần/tự xưng Thần Tri Thức |
-| 培特·奇纳尔 | Pete Chinar | Tín đồ, học viên Học viện Carone, người thi triển cấp 2 |
+| 培特·奇纳尔 | Pete Chinar | Tín đồ, học viên Học viện Caroen, Thi Triển Giả cấp 2 |
 | 培特 | Pete | Gọi tắt của Pete Chinar |
-| 巴哈姆特 | Bahamut | Pháp sư cấp 5, thẩm vấn viên |
+| 巴哈姆特 | Bahamut | Pháp Sư cấp 5, thẩm vấn viên |
 | 巴哈姆特·康克敦特斯格拉兹查尔登 | Bahamut·Concadontesglazchalden | Tên đầy đủ |
 | 魔法女神 | Nữ thần Ma pháp | |
 | 辉光之神 | Thần Huy Quang | |
@@ -49,8 +49,8 @@
 
 ## Previous Story Context (tóm tắt đến chương 8)
 - Norven xuyên không thành tà thần, có quyền năng tri thức.
-- Pete Chinar, học viên yếu kém Học viện Carone, bị lừa vào ổ quái vật dị biến, được Norven ban pháp thuật【Cơn Đói Khát của Hada】và sống sót.
-- Pete bị Bahamut (pháp sư cấp 5) thẩm vấn. Ban đầu tin tưởng 17%, bị giảm xuống 13% sau khi Pete bịa chuyện bị lộ.
+- Pete Chinar, học viên yếu kém Học viện Caroen, bị lừa vào ổ quái vật dị biến, được Norven ban pháp thuật【Cơn Đói Khát của Hada】và sống sót.
+- Pete bị Bahamut (Pháp Sư cấp 5) thẩm vấn. Ban đầu tin tưởng 17%, bị giảm xuống 13% sau khi Pete bịa chuyện bị lộ.
 - Norven tạo thân phận "Thần Tri Thức" (外神) làm vỏ bọc.
 - Bahamut yêu cầu Pete cầu nguyện vị thần đó để chứng minh không phải tà thần.
 

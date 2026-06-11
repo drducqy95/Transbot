@@ -15,7 +15,7 @@
 - Xưng hô người dẫn truyện: giọng kể hiện đại, phương Tây (fantasy). Dùng "hắn" cho nam, "nó" cho vật/sinh vật phi nhân.
 - Xưng hô nhân vật: Pete với Norven = con/ngài (tôn kính thần). Pete với cảnh sát = tôi/anh. Cảnh sát với Pete = mày/cậu/anh tùy ngữ cảnh.
 - Norven (thần) tự xưng: ta, gọi người khác = ngươi.
-- Tên riêng phương Tây GIỮ NGUYÊN dạng Latin (Pete Chinar, Norven, Bahamut, Carone, Prantis, Reak, Green Haven, etc.) - KHÔNG Hán Việt hóa tên phương Tây.
+- Tên riêng phương Tây GIỮ NGUYÊN dạng Latin (Pete Chinar, Norven, Bahamut, Caroen, Prantis, Reak, Green Haven, etc.) - KHÔNG Hán Việt hóa tên phương Tây.
 - Địa danh: Frostfire Plateau → Cao Nguyên Sương Lửa (dịch nghĩa), Green Haven → Green Haven (giữ tên gốc), các địa danh như Misty Sea → Biển Sương Mù, Darkwood → Rừng U Ám.
 - 【Tên Pháp Thuật】: giữ dấu 【】 format. "法术反制" → Phản Chế Pháp Thuật, "真名知晓" → Biết Tên Thật.
 - Thuật ngữ: "神职权柄" → quyền năng thần chức, "神力" → thần lực, "神谕" → thần dụ, "传教" → truyền giáo.
@@ -28,7 +28,7 @@
 
 ## Characters
 - Norven (诺文): nhân vật chính, xuyên không thành thần/tà thần tri thức
-- Pete Chinar (培特·奇纳尔): học viên trường phái Huyền thuật Học viện Carone
+- Pete Chinar (培特·奇纳尔): học viên trường phái Huyền thuật Học viện Caroen
 - Bahamut (巴哈姆特): nhân vật bí ẩn Pete gặp ở đồn cảnh sát
 - Cảnh sát mập (胖警员): cảnh sát
 - Cảnh sát trưởng Trent (特伦警长): sếp của cảnh sát mập
@@ -50,7 +50,7 @@
 - 格林港: Green Haven (giữ tên gốc Latin)
 - 普兰蒂斯大陆: Lục địa Prantis
 - 雷亚克王国: Vương quốc Reak
-- 卡罗恩学院: Học viện Carone
+- 卡罗恩学院: Học viện Caroen
 - 锻锤镇: Thị trấn Rèn Búa
 - 迷雾海: Biển Sương Mù
 - 幽暗森林: Rừng U Ám

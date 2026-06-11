@@ -23,11 +23,11 @@
 ## Character Table
 | Source | Target | Type | Note |
 |--------|--------|------|------|
-| 巴哈姆特 | Bahamut | person | Cảnh sát trưởng/pháp sư thẩm vấn, thân phận bí ẩn |
+| 巴哈姆特 | Bahamut | person | Cảnh sát trưởng/Pháp Sư thẩm vấn, thân phận bí ẩn |
 | 培特 | Pete | person | Pete Chinar, tín đồ đầu tiên của Norven |
 | 培特·奇纳尔 | Pete Chinar | person | Tên đầy đủ của Pete |
 | 特伦警长 | Cảnh trưởng Trent | title | Biệt danh Bahamut dùng ở sở cảnh sát |
-| 卡罗恩·拉杆 | Carone Lever | person | Đại địa tinh tài phiệt, chủ sở hữu Greenport |
+| 卡罗恩·拉杆 | Caroen Lever | person | Đại địa tinh tài phiệt, chủ sở hữu Greenport |
 | 格林港 | Greenport | location | Thành phố cảng tự do |
 | 普兰蒂斯大陆 | Plantis Continent | location | Lục địa trong thế giới |
 | 格林港警署 | Sở Cảnh sát Greenport | organization | |
@@ -45,8 +45,8 @@
 
 ## Previous Story Summary
 - Chương 9: Pete bị thẩm vấn bởi Bahamut. Norven (qua thần dụ) giúp Pete dùng pháp thuật【Biết Tên Thật】lên Bahamut. Bahamut hoảng hốt dùng Counterspell ngăn lại rồi đột ngột hoàn toàn tin tưởng Pete (77%). Pete được cho ký giấy rời đi.
-- Bahamut là pháp sư cấp 5, có thân phận bí ẩn và đang che giấu danh tính thật.
-- Pete là học viên trường phái Huyền thuật Học viện Carone, mới cấp 1-2.
+- Bahamut là Pháp Sư cấp 5, có thân phận bí ẩn và đang che giấu danh tính thật.
+- Pete là học viên trường phái Huyền thuật Học viện Caroen, mới cấp 1-2.
 
 ## IMPORTANT: Output Requirements
 

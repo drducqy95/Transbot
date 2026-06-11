@@ -30,10 +30,10 @@
 ## Characters Active in This Chapter
 | Source | Target | Note |
 |--------|--------|------|
-| 培特·奇纳尔 | Pete Chinar | Học viên trường phái Huyền thuật Học viện Carone |
+| 培特·奇纳尔 | Pete Chinar | Học viên trường phái Huyền thuật Học viện Caroen |
 | 巴哈姆特 | Bahamut | Người thẩm vấn, ít nhất cấp 5, tên đầy đủ: Bahamut Conquertusglazcharden |
 | 诺文 | Norven | Nhân vật chính, thần/tà thần tri thức |
-| 纲德 | Gond | Đại pháp sư nổi tiếng, tạo ra Bàn Tay của Gond |
+| 纲德 | Gond | Đại Pháp Sư nổi tiếng, tạo ra Bàn Tay của Gond |
 | 魔法女神 | Nữ thần Ma pháp | Thần ma pháp chính thống |
 | 求知之神 | Thần Tri Thức | Thân phận giả Norven tự đặt |
 

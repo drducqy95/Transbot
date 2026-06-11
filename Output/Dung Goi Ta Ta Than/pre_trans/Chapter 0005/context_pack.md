@@ -12,7 +12,7 @@
 - Dịch đúng theo ngữ cảnh, tự nhiên như truyện tiếng Việt.
 - Đặc biệt chú ý xưng hô của người dẫn truyện: bối cảnh phương Tây fantasy, giọng kể hiện đại, tự nhiên, có chút hài hước và mỉa mai nhẹ.
 - Xưng hô giữa các nhân vật: Norven là thần, Pete là tín đồ — Norven dùng "ta", Pete dùng "cậu" hoặc gọi tên. Khi Norven tự độc thoại nội tâm, dùng "hắn" hoặc "Norven".
-- Các tên riêng phương Tây giữ nguyên Latin (Norven, Pete Chinar, Hada, Carone).
+- Các tên riêng phương Tây giữ nguyên Latin (Norven, Pete Chinar, Hada, Caroen).
 - Thuật ngữ Trung/Hán dùng Hán Việt khi phù hợp (thần lực, thần dụ, tín ngưỡng, dị biến).
 - KHÔNG để sót chữ Hán/CJK trong bản dịch, trừ tên riêng được phép (Hada).
 - KHÔNG tóm tắt thay cho dịch.
@@ -31,7 +31,7 @@
 | Name | Source | Target | Type | Note |
 |---|---|---|---|---|
 | Norven | 诺文 | Norven | MC | Tà thần tri thức, xuyên không, giọng nội tâm hài hước |
-| Pete Chinar | 培特·奇纳尔 | Pete Chinar | disciple | Học viên Học viện Carone, tín đồ đầu tiên |
+| Pete Chinar | 培特·奇纳尔 | Pete Chinar | disciple | Học viên Học viện Caroen, tín đồ đầu tiên |
 | Người áo choàng đen | 黑袍人 | Người áo choàng đen | group | Kẻ môi giới lừa người đến ổ dị biến |
 | Nữ thần Ma pháp | 魔法女神 | Nữ thần Ma pháp | deity | Thần ma pháp chính thống |
 
@@ -56,7 +56,7 @@
 ## Previous Story Timeline (up to Chapter 4)
 - Norven xuyên không thành tà thần trong thế giới fantasy phương Tây.
 - Thần lực của Norven có vấn đề: ban thần lực trực tiếp sẽ làm tín đồ biến thành quái vật dị biến.
-- Pete Chinar, học viên Học viện Carone, bị lừa đến ổ dị biến, được Norven cứu.
+- Pete Chinar, học viên Học viện Caroen, bị lừa đến ổ dị biến, được Norven cứu.
 - Norven đã thử nghiệm cơ chế ban thần lực qua Pete, phát hiện ra phương pháp "hack" Ma lưới.
 - Pete đã thành công thi triển ma pháp cấp ba 【Cơn Đói Khát của Hada】 và tiêu diệt quái vật.
 

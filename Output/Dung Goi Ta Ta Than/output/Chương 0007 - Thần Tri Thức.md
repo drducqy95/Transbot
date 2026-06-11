@@ -32,9 +32,9 @@ Pete nghiến răng, gật đầu khẳng định: "Vâng! Ý cháu muốn nói 
 
 Để tăng sức thuyết phục cho lời nói dối của mình, Pete còn cố ý đưa ra một ví dụ.
 
-"Cháu nhớ trước đây có ví dụ tương tự mà? Đã từng có vị đại pháp sư nổi tiếng Gond, khi gặp nguy hiểm đến tính mạng, đã đột phá được ngưỡng tấn giai kìm hãm hắn bấy lâu, thành công sáng tạo ra pháp thuật 【Bàn Tay của Gond】 phải không ạ!"
+"Cháu nhớ trước đây có ví dụ tương tự mà? Đã từng có vị đại Pháp Sư nổi tiếng Gond, khi gặp nguy hiểm đến tính mạng, đã đột phá được ngưỡng tấn giai kìm hãm hắn bấy lâu, thành công sáng tạo ra pháp thuật 【Bàn Tay của Gond】 phải không ạ!"
 
-"Hừ hừ…" Người đàn ông cười nhẹ một tiếng, hơi gật đầu nói, "Không sai, quả thực không thể loại trừ khả năng cậu gặp phải tình huống tương tự như đại pháp sư Gond được."
+"Hừ hừ…" Người đàn ông cười nhẹ một tiếng, hơi gật đầu nói, "Không sai, quả thực không thể loại trừ khả năng cậu gặp phải tình huống tương tự như đại Pháp Sư Gond được."
 
 Pete tưởng rằng lời giải thích của mình coi như đã thành công lừa gạt được đối phương, nhưng còn chưa kịp mừng, cảm nhận thông tin trong đầu, trái tim đang lơ lửng liền chùng xuống.
 
@@ -52,7 +52,7 @@ Pete cảm thấy một giọt mồ hôi lạnh đang lăn dài trên trán mìn
 
 Nếu hắn không nhầm, đây hẳn là pháp thuật cấp 5 【Túi Bí Pháp】, có thể cất giữ vật phẩm vào không gian Vị diện Ethereal riêng của người thi triển, có thể lấy ra bất cứ lúc nào.
 
-Điều này có nghĩa Bahamut ít nhất là một người thi triển cấp năm.
+Điều này có nghĩa Bahamut ít nhất là một Thi Triển Giả cấp năm.
 
 "Haha, haha, phòng này hơi bí quá nhỉ, cháu nóng đến chảy cả mồ hôi rồi, kiểm tra mức độ tương thích ạ, vâng, vâng, cách hay đấy… haha."
 

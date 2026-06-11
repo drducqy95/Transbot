@@ -29,7 +29,7 @@ Dù sao tuyệt đại đa số nhân viên cảnh sát đến cả chức vụ 
 
 Đương nhiên, theo một nghĩa nào đó, kiểu hệ thống quản lý an ninh mà gặp việc gì cũng chỉ dựa vào tiền bạc để nói chuyện này cũng là nét đặc sắc riêng của Greenport.
 
-Dù sao thì chủ nhân của thành phố này — tên đại địa tinh tài phiệt Caroen Lever, một kẻ cuồng nhiệt thu gom tài sản chính hiệu, chỉ cần đưa ra cái giá đủ cao, Carone thậm chí có thể dám bán cả sợi dây thắt cổ chính mình.
+Dù sao thì chủ nhân của thành phố này — tên đại địa tinh tài phiệt Caroen Lever, một kẻ cuồng nhiệt thu gom tài sản chính hiệu, chỉ cần đưa ra cái giá đủ cao, Caroen thậm chí có thể dám bán cả sợi dây thắt cổ chính mình.
 
 Cùng một đạo lý, nếu trả tiền đủ nhiều, sở cảnh sát cũng có thể trong nháy mắt biến thành những con linh cẩu hung dữ nhất, ngoan ngoãn vâng lời chủ tiền, chăm chăm nhắm vào những quả hồng mềm mà chúng có thể bắt nạt để ra tay tàn nhẫn.
 

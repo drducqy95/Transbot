@@ -94,7 +94,7 @@ Tạm gác những nghi hoặc này sang một bên, Pete tiếp tục chuyên t
 → "Thần Tri Thức đúng là đáng tin! Tuy không biết tại sao thi triển ma pháp này lại có thể lấy được lòng tin của Bahamut, nhưng chỉ riêng việc hoàn thành bước điều động Ma Võng đã có thể tăng mức độ tin tưởng của ông ta đối với mình, đủ thấy cách này hữu hiệu!"
 
 ### [0022] 2阶魔法的法术模型复杂度比起3阶就要低了许多，虽然是个水货二阶施法者，但培特好歹也像模像样地掌握过好几个2阶法术，因此这回完成【真名知晓】魔法的过程很顺利。
-→ Độ phức tạp của mô hình pháp thuật cấp 2 so với cấp 3 đã thấp hơn nhiều. Tuy là một người thi triển cấp 2 dạng hàng lỗi, nhưng Pete cũng đã từng nắm giữ có bài bản vài pháp thuật cấp 2, vì thế lần này quá trình hoàn thành【Biết Tên Thật】diễn ra khá thuận lợi.
+→ Độ phức tạp của mô hình pháp thuật cấp 2 so với cấp 3 đã thấp hơn nhiều. Tuy là một Thi Triển Giả cấp 2 dạng hàng lỗi, nhưng Pete cũng đã từng nắm giữ có bài bản vài pháp thuật cấp 2, vì thế lần này quá trình hoàn thành【Biết Tên Thật】diễn ra khá thuận lợi.
 
 ### [0023] 没费太多力气，培特便感觉到一股奥术能量在魔法的约束下逐渐汇聚到他的咽喉位置。
 魔法完成的瞬间，培特不受控制地张开嘴巴，发出了一阵明显不同于他正常状态下的声音：
@@ -116,7 +116,7 @@ Khoảnh khắc pháp thuật hoàn thành, Pete không kiểm soát được m�
 ### [0028] "咳……咳咳！咳！！！"
 他这种纯"学院系"的施法者可从来没体验过真正的施法者战斗，在毫无防备的情况下挨了一记最少五阶施法者放出的【法术反制】，导致这原本只是个用于打断他人吟唱的魔法，让他整整被硬控了几十秒！
 → "Khụ... khụ khụ! Khụ!!!"
-Cái tên người thi triển thuần "học viện phái" như cậu chưa từng trải qua chiến đấu giữa những người thi triển thực thụ, trong tình trạng không phòng bị mà ăn trọn một kỹ【Phản Chế Pháp Thuật】do ít nhất người thi triển cấp năm phóng ra, khiến cho một ma pháp vốn chỉ dùng để ngắt lời tụng niệm của người khác, đã cứng đơ cậu ta cả mấy chục giây!
+Cái tên Thi Triển Giả thuần "học viện phái" như cậu chưa từng trải qua chiến đấu giữa những Thi Triển Giả thực thụ, trong tình trạng không phòng bị mà ăn trọn một kỹ【Phản Chế Pháp Thuật】do ít nhất Thi Triển Giả cấp năm phóng ra, khiến cho một ma pháp vốn chỉ dùng để ngắt lời tụng niệm của người khác, đã cứng đơ cậu ta cả mấy chục giây!
 
 ### [0029] 过了半分多钟，培特勉强恢复过来，满脸都是震惊的表情：
 → Hơn nửa phút sau, Pete miễn cưỡng hồi phục, mặt đầy vẻ chấn động:

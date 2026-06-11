@@ -56,13 +56,13 @@
       "note": "Norven's new divine identity/alt"
     },
     {
-      "source": "Carone",
+      "source": "Caroen",
       "type": "organization",
       "occurrences": 1,
       "context_samples": ["魔法女神", "我确实是魔法女神的信徒"],
-      "suggested_target": "Carone",
+      "suggested_target": "Caroen",
       "status": "approved",
-      "note": "Học viện Carone - existing"
+      "note": "Học viện Caroen - existing"
     }
   ]
 }

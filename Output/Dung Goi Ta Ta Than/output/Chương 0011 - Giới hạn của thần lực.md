@@ -100,9 +100,9 @@ Chỉ cần không nghĩ tới thì coi như không có!
 
 Mấy hôm qua gặp đủ chuyện điên rồi, không thiếu chuyện này!
 
-Vì ham "người thi triển cấp 3 tốc thành" mà tin lời áo choàng đen, bị kéo vào tế tự, suýt chết, may có ngoại thần tỉnh giúp, âm dương sai lầm nắm được ma pháp cấp 3.
+Vì ham "Thi Triển Giả cấp 3 tốc thành" mà tin lời áo choàng đen, bị kéo vào tế tự, suýt chết, may có ngoại thần tỉnh giúp, âm dương sai lầm nắm được ma pháp cấp 3.
 
-Tỉnh dậy bị đưa vào đồn cảnh sát, bị thẩm vấn như đồng bọn, mệt mỏi, chỉ muốn về ký túc xá Carone nghỉ vài ngày xoa dịu tổn thương!
+Tỉnh dậy bị đưa vào đồn cảnh sát, bị thẩm vấn như đồng bọn, mệt mỏi, chỉ muốn về ký túc xá Caroen nghỉ vài ngày xoa dịu tổn thương!
 
 Vừa bước ra khỏi đồn vài bước, Pete nghe tiếng bước chân dồn dập sau lưng, rồi giọng nói thanh thoát:
 "Anh!

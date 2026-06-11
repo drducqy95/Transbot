@@ -25,7 +25,7 @@
     "git_ignore_source": "Không bao giờ add Source/ hoặc Source Split/ vào commit/push của cron branch.",
     "term_ma_vong": "Ma Võng = mạng lưới ma pháp/kết nối ma thuật. Không dịch là \"Ma Lưới\". Thuật ngữ này phải giữ nguyên \"Ma Võng\" hoặc \"Ma Võng\" trong bản dịch, không thay bằng từ khác.",
     "occupation_hán_việt": "Thuật ngữ chỉ nghề nghiệp trong truyện (đặc biệt fantasy) viết dưới dạng Hán Việt. Ví dụ: 法师=Pháp Sư, 战士=Chiến Sĩ, 潜行者=Tiềm Hành Giả, 游侠=Du Hiệp, 术士=Thuật Sĩ, 牧师=Mục Sư, 盗贼=Đạo Tặc. Trừ một số nghề thông dụng hiện đại như học sinh, bác sĩ, nhân viên,... thì dùng từ phổ biến tiếng Việt.",
-    "name_caroen_lever": "卡罗恩·拉杆 = Caroen Lever (tên Latin chuẩn, đầy đủ họ và tên Latin). Không viết thành \"Carone Kéo Cần\", \"Carone Lever\", \"Caroen Kéo Cần\" hay bất kỳ biến thể nào khác. Tên trường 卡罗恩学院 = Học viện Caroen (theo tên người sáng lập Caroen Lever)."
+    "name_caroen_lever": "卡罗恩·拉杆 = Caroen Lever (tên Latin chuẩn, đầy đủ họ và tên Latin). Không viết thành \"Caroen Lever\", \"Caroen Lever\", \"Caroen Kéo Cần\" hay bất kỳ biến thể nào khác. Tên trường 卡罗恩学院 = Học viện Caroen (theo tên người sáng lập Caroen Lever)."
   },
   "pronoun_mode": "hybrid",
   "reflection_max_iterations": 3,

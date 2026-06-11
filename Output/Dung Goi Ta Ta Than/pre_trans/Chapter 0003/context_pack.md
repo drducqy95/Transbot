@@ -36,9 +36,9 @@ Tiêu đề này sẽ dùng cho filename và toc.title.
 | Source | Target | Notes |
 |---|---|---|
 | 诺文 | Norven | MC, xuyên không thành tà thần |
-| 培特·奇纳尔 | Pete Chinar | Học viên Học viện Carone |
+| 培特·奇纳尔 | Pete Chinar | Học viên Học viện Caroen |
 | 黑袍人 | người áo choàng đen | Kẻ môi giới |
-| 魔法女神 | Nữ thần Ma pháp | Thần của các pháp sư |
+| 魔法女神 | Nữ thần Ma pháp | Thần của các Pháp Sư |
 
 ## Glossary
 | Source | Target | Type |

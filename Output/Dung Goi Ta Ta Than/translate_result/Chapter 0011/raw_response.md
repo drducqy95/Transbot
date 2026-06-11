@@ -64,7 +64,7 @@
     },
     {
       "segment_id": "0013",
-      "target": "Trong lớp địa lý ở Học viện Carone đã học, Lục địa Prantis có hình con quay hướng bắc-nam, Green Haven nằm ở mũi đất nhỏ cực nam, vị trí đặc biệt tạo thành cảng tránh gió tốt;",
+      "target": "Trong lớp địa lý ở Học viện Caroen đã học, Lục địa Prantis có hình con quay hướng bắc-nam, Green Haven nằm ở mũi đất nhỏ cực nam, vị trí đặc biệt tạo thành cảng tránh gió tốt;",
       "notes": ""
     },
     {
@@ -234,12 +234,12 @@
     },
     {
       "segment_id": "0047",
-      "target": "Vì ham \"người thi triển cấp 3 tốc thành\" mà tin lời áo choàng đen, bị kéo vào tế tự, suýt chết, may có ngoại thần tỉnh giúp, âm dương sai lầm nắm được ma pháp cấp 3.",
+      "target": "Vì ham \"Thi Triển Giả cấp 3 tốc thành\" mà tin lời áo choàng đen, bị kéo vào tế tự, suýt chết, may có ngoại thần tỉnh giúp, âm dương sai lầm nắm được ma pháp cấp 3.",
       "notes": ""
     },
     {
       "segment_id": "0048",
-      "target": "Tỉnh dậy bị đưa vào đồn cảnh sát, bị thẩm vấn như đồng bọn, mệt mỏi, chỉ muốn về ký túc xá Carone nghỉ vài ngày xoa dịu tổn thương!",
+      "target": "Tỉnh dậy bị đưa vào đồn cảnh sát, bị thẩm vấn như đồng bọn, mệt mỏi, chỉ muốn về ký túc xá Caroen nghỉ vài ngày xoa dịu tổn thương!",
       "notes": ""
     },
     {

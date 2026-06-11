@@ -28,13 +28,13 @@
 - Pete Chinar (培特): nam, ~20, học viên ma pháp, con trai nam tước. Tự xưng "tôi", được Lena gọi là "anh/chị" (ban đầu) → "cậu" (khi thân). 
 - Lena Monia (蕾娜): nữ, ~18-20, thiếu nữ bình dân, tín đồ Thần Huy Quang. Tự xưng "cháu" (với Pete vì biết ơn lúc đầu), dần chuyển "tôi"/"em". Pete gọi "cô" (ban đầu) → "cậu"/"em".
 - Norven: thần, được gọi là "Thần Tri Thức"/"Norven".
-- Bahamut: pháp sư cấp 5, thẩm vấn viên.
+- Bahamut: Pháp Sư cấp 5, thẩm vấn viên.
 
 ## Character Table
 - Norven (诺文): nhân vật chính, xuyên không thành thần tri thức.
-- Pete Chinar (培特·奇纳尔): học viên Học viện Carone, người thi triển cấp 2, con trai nam tước Rayak.
+- Pete Chinar (培特·奇纳尔): học viên Học viện Caroen, Thi Triển Giả cấp 2, con trai nam tước Rayak.
 - Lena Monia (蕾娜·莫妮娅) — **NHÂN VẬT MỚI**: thiếu nữ ~18-20, tóc nâu dài, mắt xanh, con gái chủ quán rượu ở Green Port, người Rayak, tín đồ Thần Huy Quang. Vui vẻ, biết ơn, ngưỡng mộ Pete.
-- Bahamut Conquertusglazcharden: pháp sư cấp 5.
+- Bahamut Conquertusglazcharden: Pháp Sư cấp 5.
 - Cha của Pete — Nam tước nhỏ của Vương quốc Rayak.
 - Thần Huy Quang (辉光之神): thần chính của Vương quốc Rayak.
 - Nữ thần Ma pháp (魔法女神): thần ma pháp thế giới.
@@ -47,8 +47,8 @@
 - Học viện Huyền thuật Hoàng gia Rayak = học viện danh giá tại thủ đô
 - Thuế quyền thừa kế (继承权利税金) = thuế giữ tước vị
 - Vương quốc Rayak (雷亚克王国) = vương quốc quê hương Pete và Lena
-- Cảng Green / Green Port (格林港) = thành phố ven biển nơi Học viện Carone tọa lạc
-- Học viện Carone (卡罗恩学院) = học viện ma pháp Pete theo học
+- Cảng Green / Green Port (格林港) = thành phố ven biển nơi Học viện Caroen tọa lạc
+- Học viện Caroen (卡罗恩学院) = học viện ma pháp Pete theo học
 - Starosh / Thủ đô Starosh (斯塔罗什) = thủ đô Vương quốc Rayak
 
 ## Previous Story (summary)
@@ -280,7 +280,7 @@ Chương 1-11: Norven xuyên không thành tà thần → ban thần lực gây 
       "segment_id": "0037",
       "source": "比起什么战士、游侠、武僧这些一看就要天天吃苦锻炼的修行路线，明显还是不要求体质的法师更符合培特这种贵族子弟的需求。",
       "target": "",
-      "notes": "Lý do Pete chọn pháp sư."
+      "notes": "Lý do Pete chọn Pháp Sư."
     },
     {
       "segment_id": "0038",

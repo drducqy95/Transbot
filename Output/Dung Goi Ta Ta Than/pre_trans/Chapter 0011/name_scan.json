@@ -11,7 +11,7 @@
     {"source": "霜火高原", "type": "location", "occurrences": 6, "context_samples": ["前往霜火高原"], "suggested_target": "Cao Nguyên Sương Lửa", "status": "pending"},
     {"source": "普兰蒂斯大陆", "type": "location", "occurrences": 2, "context_samples": ["普兰蒂斯大陆大体是个"], "suggested_target": "Lục địa Prantis", "status": "pending"},
     {"source": "雷亚克王国", "type": "location", "occurrences": 3, "context_samples": ["培特的家乡雷亚克王国"], "suggested_target": "Vương quốc Reak", "status": "pending"},
-    {"source": "卡罗恩学院", "type": "organization", "occurrences": 3, "context_samples": ["卡罗恩学院地理通识课"], "suggested_target": "Học viện Carone", "status": "approved"},
+    {"source": "卡罗恩学院", "type": "organization", "occurrences": 3, "context_samples": ["卡罗恩学院地理通识课"], "suggested_target": "Học viện Caroen", "status": "approved"},
     {"source": "锻锤镇", "type": "location", "occurrences": 1, "context_samples": ["北抵矮人的锻锤镇"], "suggested_target": "Thị trấn Rèn Búa", "status": "pending"},
     {"source": "迷雾海", "type": "location", "occurrences": 1, "context_samples": ["西达迷雾海"], "suggested_target": "Biển Sương Mù", "status": "pending"},
     {"source": "幽暗森林", "type": "location", "occurrences": 1, "context_samples": ["东至幽暗森林"], "suggested_target": "Rừng U Ám", "status": "pending"}
