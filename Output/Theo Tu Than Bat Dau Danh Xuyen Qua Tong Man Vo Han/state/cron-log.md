@@ -1,0 +1,2 @@
+- 2026-06-11 19:48 | Chapter 1 | completed | Chương 0001 - Chương 1 Ta Có Một Vẻ Đẹp Trị Số.md
+- 2026-06-11 19:53 | Chapter 2 | completed | Chương 0002 - Chương 2 Không Gian Chung Yên.md

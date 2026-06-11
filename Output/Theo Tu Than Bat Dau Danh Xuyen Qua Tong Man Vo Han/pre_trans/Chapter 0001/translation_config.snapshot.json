@@ -1,0 +1,552 @@
+{
+  "schema_version": "1.1",
+  "config_name": "default_zh_vi_contextual_novel_translation",
+  "description": "Config mặc định cho workflow dịch truyện Trung sang tiếng Việt, hỗ trợ chuẩn hóa thuật ngữ theo văn cảnh, tên riêng đa ngôn ngữ, xưng hô người dẫn truyện, tương thích dữ liệu Quick Translator cũ và audit sau dịch.",
+  "language": {
+    "source": "zh",
+    "target": "vi",
+    "source_script": "auto",
+    "pre_convert": {
+      "enabled": true,
+      "tool": "opencc",
+      "mode": "t2s",
+      "description": "Tự động chuyển phồn thể sang giản thể trước khi dịch nếu cần."
+    }
+  },
+  "translation_goal": {
+    "main_goal": "Dịch truyện Trung sang tiếng Việt tự nhiên, dễ đọc, đúng nghĩa, đúng mạch truyện, đúng văn cảnh, đúng xưng hô, đúng tên riêng và thuật ngữ.",
+    "style": "văn xuôi tiếng Việt mượt, rõ nghĩa, không máy móc",
+    "priority_order": [
+      "đúng nghĩa và đúng văn cảnh",
+      "đúng tên riêng",
+      "đúng thuật ngữ theo loại và bối cảnh",
+      "đúng xưng hô và quan hệ nhân vật",
+      "giữ ổn định thuật ngữ/tên riêng/xưng hô đã khóa",
+      "tự nhiên trong tiếng Việt",
+      "giữ nhịp văn, cảm xúc và giọng kể gốc"
+    ],
+    "anti_goals": [
+      "không dịch từng chữ máy móc",
+      "không Hán Việt hóa tên Nhật, Hàn, phương Tây, fandom, thương hiệu, kỹ thuật",
+      "không áp VietPhrase/LuatNhan lên tên riêng đã khóa",
+      "không đổi thuật ngữ đã khóa nếu văn cảnh giống nhau",
+      "không dùng một bản dịch cứng cho từ đa nghĩa khi văn cảnh khác nhau",
+      "không làm lộ thông tin ngoài POV nếu bản gốc chưa tiết lộ"
+    ]
+  },
+  "output_rules": {
+    "keep_paragraph_structure": true,
+    "keep_dialogue_structure": true,
+    "do_not_merge_paragraphs": true,
+    "do_not_split_paragraphs_unnecessarily": true,
+    "preserve_punctuation_when_reasonable": true,
+    "convert_chinese_quotes_to_vietnamese": true,
+    "remove_unnecessary_explanation": true,
+    "output_only_translation": true,
+    "do_not_add_notes_inside_translation": true,
+    "mark_uncertain_items_for_audit_only": true
+  },
+  "genre_profile": {
+    "default": "generic_chinese_webnovel",
+    "auto_detect": true,
+    "available_profiles": [
+      "generic_chinese_webnovel",
+      "xianxia",
+      "wuxia",
+      "xuanhuan",
+      "historical",
+      "palace_intrigue",
+      "modern_romance",
+      "urban",
+      "danmei",
+      "fantasy",
+      "western_fantasy",
+      "game",
+      "system",
+      "fanfiction",
+      "quick_transmigration",
+      "multi_world",
+      "japanese_setting",
+      "korean_setting",
+      "western_setting"
+    ],
+    "profile_rules": {
+      "xianxia": {
+        "prefer_han_viet_for_realms_skills_artifacts": true,
+        "tone": "cổ phong vừa phải, không lạm dụng Hán Việt khó hiểu"
+      },
+      "modern_romance": {
+        "prefer_modern_vietnamese": true,
+        "avoid_unnecessary_ancient_terms": true
+      },
+      "game": {
+        "prefer_game_terms": true,
+        "class_term": "chức nghiệp",
+        "dungeon_term": "phó bản"
+      },
+      "fanfiction": {
+        "prefer_fandom_canonical_names": true,
+        "do_not_hanvietize_known_fandom_names": true
+      },
+      "western_fantasy": {
+        "preserve_western_names": true,
+        "translate_titles_contextually": true
+      },
+      "japanese_setting": {
+        "prefer_romaji_or_fandom_standard": true,
+        "do_not_hanvietize_japanese_names": true
+      },
+      "korean_setting": {
+        "prefer_korean_standard_or_romanization": true,
+        "do_not_hanvietize_korean_names": true
+      }
+    }
+  },
+  "tone": {
+    "narration": "tự nhiên, rõ ràng, có chất truyện",
+    "dialogue": "phù hợp thân phận, quan hệ, tuổi tác, quyền lực và bối cảnh",
+    "ancient_setting": "cổ phong vừa phải, không lạm dụng Hán Việt khó hiểu",
+    "modern_setting": "hiện đại, đời thường, không cổ hóa lời thoại",
+    "game_system": "rõ ràng, gọn, quen thuộc với văn phong game/system",
+    "comedy": "giữ nhịp hài nếu có",
+    "serious": "giữ sắc thái căng thẳng, trang trọng nếu có"
+  },
+  "context_usage": {
+    "enabled": true,
+    "read_before_translation": [
+      "State/translation_config.json",
+      "State/Character.md",
+      "State/Glossary.md",
+      "State/Name-Lock.md",
+      "State/Term-Lock.md",
+      "State/Addressing.md",
+      "State/story-timeline.md",
+      "State/Readme.md"
+    ],
+    "use_context_pack": true,
+    "use_previous_chapter_summary": true,
+    "use_character_profile": true,
+    "use_story_timeline": true,
+    "use_glossary": true,
+    "use_name_scan": true,
+    "use_segment_context": true,
+    "if_context_conflict": "prefer locked state files and manual config"
+  },
+  "term_normalization": {
+    "enabled": true,
+    "purpose": "Chuẩn hóa thuật ngữ theo văn cảnh truyện, bao gồm chiêu thức, nghề nghiệp, chức vị, cảnh giới, kỹ năng, vật phẩm, danh hiệu, tổ chức, hệ thống, khái niệm thế giới quan và cụm cố định lặp lại.",
+    "core_principle": {
+      "context_first": true,
+      "not_word_by_word": true,
+      "same_source_can_have_different_translation_if_context_differs": true,
+      "same_source_same_context_must_be_consistent": true,
+      "same_term_type_should_keep_style_consistent": true,
+      "locked_translation_only_applies_to_matching_context": true,
+      "source_plus_type_plus_context_equals_translation": true
+    },
+    "priority_order": [
+      "manual_term_lock",
+      "story_glossary",
+      "fandom_canonical_glossary",
+      "official_translation",
+      "widely_used_vietnamese_translation",
+      "original_latin_spelling",
+      "romaji_or_revised_romanization",
+      "han_viet_only_for_chinese_context",
+      "contextual_term_profile",
+      "genre_glossary",
+      "core_dictionary",
+      "vietphrase",
+      "hanviet_fallback",
+      "contextual_detection",
+      "ai_contextual_inference"
+    ],
+    "term_types": {
+      "skill_move": {
+        "enabled": true,
+        "description": "Chiêu thức, võ kỹ, pháp thuật, kỹ năng chiến đấu, tuyệt chiêu.",
+        "translation_style": "ngắn gọn, có lực, giữ sắc thái võ hiệp/tiên hiệp/game nếu có",
+        "examples": [
+          {
+            "source": "破云掌",
+            "wrong": "bàn tay phá mây",
+            "correct": "Phá Vân Chưởng",
+            "context": "tên chiêu thức võ học"
+          },
+          {
+            "source": "火球术",
+            "wrong": "thuật quả bóng lửa",
+            "correct": "Hỏa Cầu Thuật",
+            "context": "pháp thuật"
+          },
+          {
+            "source": "影袭",
+            "wrong": "bóng dáng đánh lén",
+            "correct": "Ảnh Tập",
+            "context": "kỹ năng sát thủ/game"
+          }
+        ]
+      },
+      "profession": {
+        "enabled": true,
+        "description": "Nghề nghiệp, chức nghiệp, class, nghề phụ, thân phận chuyên môn.",
+        "translation_style": "dịch theo vai trò trong thế giới truyện, không dịch cứng theo từ điển phổ thông",
+        "examples": [
+          {
+            "source": "炼丹师",
+            "wrong": "thầy luyện đan",
+            "correct": "luyện đan sư",
+            "context": "nghề nghiệp trong tiên hiệp"
+          },
+          {
+            "source": "药师",
+            "wrong": "dược sĩ",
+            "correct": "dược sư",
+            "context": "bối cảnh cổ đại/huyền huyễn"
+          },
+          {
+            "source": "刺客",
+            "wrong": "người đâm khách",
+            "correct": "thích khách / sát thủ",
+            "context": "cổ đại dùng thích khách, hiện đại/game có thể dùng sát thủ"
+          },
+          {
+            "source": "牧师",
+            "wrong": "mục sư",
+            "correct": "trị liệu sư / mục sư",
+            "context": "game/fantasy cần xét class chữa trị hay chức sắc tôn giáo"
+          }
+        ]
+      },
+      "rank_realm": {
+        "enabled": true,
+        "description": "Cảnh giới, cấp bậc, đẳng cấp, rank nghề nghiệp, cấp tu luyện.",
+        "translation_style": "ổn định, có thể viết hoa nếu là cảnh giới chính thức",
+        "examples": [
+          {
+            "source": "筑基",
+            "wrong": "xây nền",
+            "correct": "Trúc Cơ",
+            "context": "cảnh giới tu tiên"
+          },
+          {
+            "source": "三品炼丹师",
+            "wrong": "luyện đan sư ba sản phẩm",
+            "correct": "luyện đan sư tam phẩm",
+            "context": "cấp bậc nghề luyện đan"
+          }
+        ]
+      },
+      "title_position": {
+        "enabled": true,
+        "description": "Chức vị, quan hàm, chức danh môn phái, quân đội, gia tộc, công hội, công ty.",
+        "translation_style": "dịch theo hệ thống quyền lực của truyện",
+        "examples": [
+          {
+            "source": "宗主",
+            "wrong": "chủ tông",
+            "correct": "tông chủ",
+            "context": "môn phái/tiên hiệp"
+          },
+          {
+            "source": "会长",
+            "wrong": "hội trưởng cố định trong mọi trường hợp",
+            "correct": "hội trưởng / chủ tịch",
+            "context": "công hội dùng hội trưởng, công ty hiện đại dùng chủ tịch"
+          },
+          {
+            "source": "队长",
+            "wrong": "đội trưởng cố định",
+            "correct": "đội trưởng / tổ trưởng",
+            "context": "đội chiến đấu dùng đội trưởng, nhóm công việc hiện đại có thể dùng tổ trưởng"
+          }
+        ]
+      },
+      "item_artifact": {
+        "enabled": true,
+        "description": "Vũ khí, pháp bảo, trang bị, đạo cụ, đan dược, tài liệu, vật phẩm nhiệm vụ.",
+        "translation_style": "giữ sắc thái danh từ riêng nếu vật phẩm có tên riêng; dịch nghĩa nếu là vật phẩm phổ thông",
+        "examples": [
+          {
+            "source": "回春丹",
+            "wrong": "đan mùa xuân trở lại",
+            "correct": "Hồi Xuân Đan",
+            "context": "tên đan dược"
+          },
+          {
+            "source": "铁剑",
+            "wrong": "Thiết Kiếm",
+            "correct": "kiếm sắt",
+            "context": "vật phẩm phổ thông"
+          },
+          {
+            "source": "斩星剑",
+            "wrong": "kiếm chém sao",
+            "correct": "Trảm Tinh Kiếm",
+            "context": "tên riêng của pháp bảo/vũ khí"
+          }
+        ]
+      },
+      "system_game_term": {
+        "enabled": true,
+        "description": "Thuật ngữ hệ thống, nhiệm vụ, kỹ năng, bảng trạng thái, class, buff/debuff, phó bản.",
+        "translation_style": "rõ nghĩa, quen thuộc với game/system, không cổ hóa quá mức",
+        "examples": [
+          {
+            "source": "任务",
+            "wrong": "công việc nếu đang trong bảng hệ thống",
+            "correct": "nhiệm vụ",
+            "context": "hệ thống game"
+          }
+        ]
+      }
+    },
+    "audit_categories": [
+      "term_translated_word_by_word_wrongly",
+      "term_context_mismatch",
+      "profession_mistranslation",
+      "skill_move_mistranslation",
+      "rank_realm_inconsistency",
+      "title_position_mismatch",
+      "item_name_vs_common_item_confusion",
+      "game_term_mistranslation",
+      "same_source_same_context_inconsistent",
+      "locked_term_used_in_wrong_context",
+      "wrong_pronoun",
+      "pronoun_inconsistency",
+      "wrong_gender_pronoun",
+      "wrong_relationship_addressing",
+      "dialogue_pronoun_used_in_narration_wrongly",
+      "narrator_voice_shift",
+      "pov_break",
+      "ambiguous_reference",
+      "paragraph_structure_error",
+      "meaning_drift",
+      "unnatural_vietnamese",
+      "dialogue_tone_error",
+      "genre_style_error"
+    ],
+    "if_uncertain": {
+      "do_not_guess_aggressively": true,
+      "preserve_original_meaning": true,
+      "use_name_instead_of_pronoun": true,
+      "preserve_original_or_canonical_name": true,
+      "mark_for_audit": true
+    },
+    "name_origin_detection": {
+      "enabled": true,
+      "detect_types": [
+        "chinese",
+        "japanese",
+        "korean",
+        "western_latin",
+        "brand",
+        "technical_term",
+        "fandom_character",
+        "game_character",
+        "place",
+        "organization",
+        "mixed_origin"
+      ],
+      "rules": {
+        "if_latin_script": "preserve_original_spelling_unless_official_vietnamese_name_exists",
+        "if_known_japanese_fandom": "use_romaji_or_fandom_standard_name",
+        "if_known_korean_name": "use_common_korean_vietnamese_or_revised_romanization",
+        "if_known_western_name": "preserve_original_latin_name",
+        "if_brand_or_technology": "preserve_standard_name",
+        "if_chinese_context_and_chinese_characters": "use_han_viet_or_locked_story_name",
+        "if_mixed_fandom_context": "check_fandom_canonical_glossary_before_dictionary"
+      }
+    },
+    "origin_specific_policy": {
+      "chinese": {
+        "prefer_han_viet_when_context_is_chinese": true,
+        "examples": [
+          {
+            "source": "陆沉",
+            "correct": "Lục Trầm",
+            "wrong": "Lu Chen nếu truyện đang dùng phong cách Hán Việt",
+            "context": "tên nhân vật Trung Quốc"
+          },
+          {
+            "source": "青云宗",
+            "correct": "Thanh Vân Tông",
+            "wrong": "Qingyun Sect nếu bản dịch đang dùng phong cách Trung-Việt",
+            "context": "tông môn tiên hiệp"
+          }
+        ]
+      },
+      "japanese": {
+        "prefer_romaji_or_fandom_standard": true,
+        "do_not_hanvietize_kanji_names_by_default": true,
+        "examples": [
+          {
+            "source": "ナルト / Naruto / 鸣人",
+            "correct": "Naruto",
+            "wrong": "Minh Nhân",
+            "context": "fandom Naruto"
+          },
+          {
+            "source": "佐助 / Sasuke",
+            "correct": "Sasuke",
+            "wrong": "Tá Trợ",
+            "context": "fandom Naruto"
+          },
+          {
+            "source": "春野樱 / Sakura",
+            "correct": "Sakura",
+            "wrong": "Xuân Dã Anh",
+            "context": "tên nhân vật Nhật"
+          }
+        ]
+      },
+      "korean": {
+        "prefer_standard_korean_name": true,
+        "do_not_hanvietize_hanja_by_default": true,
+        "examples": [
+          {
+            "source": "성진우 / Sung Jinwoo",
+            "correct": "Sung Jinwoo",
+            "wrong": "Thành Chấn Vũ",
+            "context": "tên nhân vật Hàn"
+          },
+          {
+            "source": "김독자 / Kim Dokja",
+            "correct": "Kim Dokja",
+            "wrong": "Kim Độc Giả",
+            "context": "tên nhân vật Hàn/fandom"
+          }
+        ]
+      },
+      "western_latin": {
+        "preserve_original": true,
+        "translate_titles_only": true,
+        "examples": [
+          {
+            "source": "Harry Potter",
+            "correct": "Harry Potter",
+            "wrong": "Cáp Lợi Ba Đặc",
+            "context": "tên người phương Tây/fandom"
+          },
+          {
+            "source": "Arthur",
+            "correct": "Arthur",
+            "wrong": "A Sắt / Á Sắt / A Thuật",
+            "context": "tên người phương Tây"
+          },
+          {
+            "source": "Dragon Knight",
+            "correct": "Dragon Knight / Kỵ sĩ Rồng",
+            "wrong": "Long Kỵ Sĩ nếu đây là class/game phương Tây không yêu cầu Hán Việt",
+            "context": "class hoặc danh hiệu cần xét style truyện"
+          }
+        ]
+      },
+      "brand_technical": {
+        "preserve_standard_name": true,
+        "examples": [
+          {
+            "source": "Laser",
+            "correct": "Laser",
+            "wrong": "Lôi Xạ / Lạp Tắc nếu đang là tên riêng hoặc thuật ngữ chuẩn",
+            "context": "tên riêng, biệt danh, thương hiệu hoặc thuật ngữ kỹ thuật chuẩn"
+          },
+          {
+            "source": "laser",
+            "correct": "tia laser",
+            "wrong": "Lôi Xạ",
+            "context": "danh từ chung chỉ tia laser"
+          },
+          {
+            "source": "Android",
+            "correct": "Android",
+            "wrong": "người máy nếu là hệ điều hành",
+            "context": "tên nền tảng"
+          },
+          {
+            "source": "Bluetooth",
+            "correct": "Bluetooth",
+            "wrong": "răng xanh",
+            "context": "chuẩn kỹ thuật"
+          }
+        ]
+      }
+    },
+    "mixed_context_policy": {
+      "enabled": true,
+      "rules": {
+        "fanfiction_world_priority": true,
+        "detect_original_work_origin": true,
+        "use_world_specific_name_style": true,
+        "do_not_force_all_names_into_chinese_style": true,
+        "do_not_force_all_names_into_vietnamese_translation": true
+      },
+      "examples": [
+        {
+          "context": "Truyện đồng nhân Naruto do tác giả Trung viết",
+          "rule": "Tên nhân vật Naruto dùng chuẩn fandom: Naruto, Sasuke, Sakura, Kakashi. Nhân vật Trung Quốc gốc truyện thì dùng Hán Việt."
+        },
+        {
+          "context": "Truyện xuyên vào Harry Potter",
+          "rule": "Tên Harry Potter giữ chuẩn: Harry, Hermione, Ron, Hogwarts."
+        }
+      ]
+    }
+  },
+  "chapter_processing": {
+    "segment_mode": "by_paragraph_group",
+    "max_segment_tokens": 2500,
+    "context_window_budget": 4096,
+    "include_previous_summary": true,
+    "include_character_state": true,
+    "include_glossary_slice": true,
+    "include_timeline_slice": true,
+    "include_name_lock_slice": true,
+    "include_term_lock_slice": true,
+    "include_addressing_slice": true
+  },
+  "state_files": {
+    "character": "State/Character.md",
+    "glossary": "State/Glossary.md",
+    "name_lock": "State/Name-Lock.md",
+    "term_lock": "State/Term-Lock.md",
+    "addressing": "State/Addressing.md",
+    "readme": "State/Readme.md",
+    "story_timeline": "State/story-timeline.md",
+    "toc": "State/toc.md",
+    "translation_config": "State/translation_config.json"
+  },
+  "output_paths": {
+    "cover": "Cover",
+    "state": "State",
+    "pre_trans": "Pre-trans",
+    "translate_result": "Translate result",
+    "audit": "Audit",
+    "output_final": "Output final"
+  },
+  "agent_behavior": {
+    "read_config_before_every_chapter": true,
+    "update_state_after_each_chapter": true,
+    "update_character_after_each_chapter": true,
+    "update_glossary_after_each_chapter": true,
+    "update_name_lock_when_new_name_confirmed": true,
+    "update_term_lock_when_new_term_confirmed": true,
+    "update_addressing_when_relationship_or_xungho_confirmed": true,
+    "do_not_forget_rules": true,
+    "if_conflict_detected": "prefer_manual_config_and_state_files",
+    "if_uncertain": "keep_original_meaning_and_mark_for_audit"
+  },
+  "project_branch": "Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han",
+  "source_ref": {
+    "full": "Source/Source full/Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han.txt",
+    "split": "Source/Source Split/Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han/",
+    "description": "Source nam o thu muc goc, KHONG copy vao branch"
+  },
+  "readme_path": "Output/Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han/README.md",
+  "output_filename_pattern_display": "Chương {chapter:04d}: {title}.md",
+  "output_filename_pattern_filesystem": "Chương {chapter:04d} - {title}.md",
+  "sanitization": {
+    "ban_cjk_in_output": true,
+    "cjk_check_mode": "error"
+  }
+}
