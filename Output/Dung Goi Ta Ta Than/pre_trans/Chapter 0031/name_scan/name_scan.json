@@ -1,0 +1,50 @@
+{
+  "chapter": "0031",
+  "source_title": "邪神！异端！",
+  "vi_title": "Tà Thần! Dị Đoan!",
+  "names": {
+    "布兰登·罗伯特": {
+      "type": "character",
+      "translation": "Brandon Robert",
+      "notes": "Nhân vật mới, nam, thanh niên nghèo ở Green Port, mơ ước thành chức nghiệp giả",
+      "status": "new"
+    },
+    "布兰登": {
+      "type": "character",
+      "translation": "Brandon",
+      "notes": "Tên gọi tắt của Brandon Robert",
+      "status": "alias"
+    },
+    "雷亚克王国": {
+      "type": "location",
+      "translation": "Vương quốc Rayak",
+      "status": "existing"
+    },
+    "格林港": {
+      "type": "location",
+      "translation": "Green Port",
+      "status": "existing"
+    },
+    "莫尼兄弟酒馆": {
+      "type": "location",
+      "translation": "Quán rượu Moni Brotherhood",
+      "status": "existing"
+    },
+    "菲尔": {
+      "type": "character",
+      "translation": "Phil",
+      "notes": "Thần Công Chính",
+      "status": "existing"
+    },
+    "下城区": {
+      "type": "location",
+      "translation": "Khu Hạ Thành",
+      "status": "existing"
+    },
+    "贸易集市": {
+      "type": "location",
+      "translation": "Chợ Mậu Dịch",
+      "status": "existing"
+    }
+  }
+}

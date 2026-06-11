@@ -1,0 +1,71 @@
+{
+  "chapter": "0031",
+  "terms": {
+    "邪神": {
+      "translation": "tà thần",
+      "type": "concept",
+      "notes": "Chủ đề chính của chương.",
+      "status": "existing"
+    },
+    "异端": {
+      "translation": "dị đoan",
+      "type": "concept",
+      "notes": "Kẻ tà giáo, đi ngược chính thống.",
+      "status": "new"
+    },
+    "职业者": {
+      "translation": "chức nghiệp giả",
+      "type": "profession",
+      "notes": "Người hành nghề chuyên nghiệp, có chứng nhận.",
+      "status": "existing"
+    },
+    "战士": {
+      "translation": "Chiến Sĩ",
+      "type": "profession",
+      "notes": "Viết hoa Hán Việt.",
+      "status": "existing"
+    },
+    "战士公会": {
+      "translation": "Hội Chiến Sĩ",
+      "type": "organization",
+      "notes": "Công hội đào tạo Chiến Sĩ.",
+      "status": "existing"
+    },
+    "职业者天赋检测": {
+      "translation": "kiểm tra thiên phú chức nghiệp giả",
+      "type": "skill",
+      "notes": "Thần thuật độc quyền của Thần Công Chính Phil.",
+      "status": "new"
+    },
+    "神术": {
+      "translation": "thần thuật",
+      "type": "magic",
+      "notes": "Pháp thuật do thần ban cho tín đồ.",
+      "status": "existing"
+    },
+    "正教教会": {
+      "translation": "giáo hội chính thống",
+      "type": "organization",
+      "notes": "Giáo hội các chủ thần chính thống.",
+      "status": "existing"
+    },
+    "外神": {
+      "translation": "ngoại thần",
+      "type": "concept",
+      "notes": "Thần ngoài chính thống, ít tín đồ.",
+      "status": "existing"
+    },
+    "入教福利": {
+      "translation": "phúc lợi gia nhập giáo phái",
+      "type": "concept",
+      "notes": "Quyền lợi cho người mới gia nhập.",
+      "status": "new"
+    },
+    "矮人工匠": {
+      "translation": "thợ rèn người lùn",
+      "type": "profession",
+      "notes": "Thợ rèn người lùn.",
+      "status": "new"
+    }
+  }
+}

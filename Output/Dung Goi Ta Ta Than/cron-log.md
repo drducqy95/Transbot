@@ -116,3 +116,5 @@
 
 2026-06-11 10:52:00 | Chapter 0029 | Chợ Đen | Dịch+Audit+Final | Hoàn thành
 2026-06-11 11:15:00 | Chapter 0030 | Bẫy chồng bẫy | Dịch+Audit+Final+Git | Hoàn thành
+
+2026-06-11 04:17:22 | Chapter 0031 | Tà Thần! Dị Đoan! | Dịch+Audit+Final | Hoàn thành
