@@ -52,7 +52,7 @@ Pete cảm thấy một giọt mồ hôi lạnh đang lăn dài trên trán mìn
 
 Nếu hắn không nhầm, đây hẳn là pháp thuật cấp 5 【Túi Bí Pháp】, có thể cất giữ vật phẩm vào không gian Vị diện Ethereal riêng của người thi triển, có thể lấy ra bất cứ lúc nào.
 
-Điều này có nghĩa Bahamut ít nhất là một Thi Triển Giả cấp năm.
+Điều này có nghĩa Bahamut ít nhất là một Thi Pháp Giả cấp năm.
 
 "Haha, haha, phòng này hơi bí quá nhỉ, cháu nóng đến chảy cả mồ hôi rồi, kiểm tra mức độ tương thích ạ, vâng, vâng, cách hay đấy… haha."
 

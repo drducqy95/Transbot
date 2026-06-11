@@ -53,7 +53,7 @@ IMPORTANT RULES:
 1. Title segment (0001): phải dịch "# 第6章 审讯" thành "# Chương 6: Thẩm vấn" - dùng tiếng Việt tự nhiên
 2. Tên riêng phương Tây giữ nguyên Latin (Pete Chinar, Navarre, Proust, Caroen, Rayak, Green, Plantis, Bahamut, v.v.)
 3. "邪神" = tà thần, "畸变体" = thể dị biến, "奥法学派" = trường phái Huyền thuật
-4. "二阶施法者" = Thi Triển Giả nhị giai, "3阶法术" = ma pháp cấp ba
+4. "二阶施法者" = Thi Pháp Giả nhị giai, "3阶法术" = ma pháp cấp ba
 5. "信徒" = tín đồ, "神谕" = thần dụ
 6. 【检测到信徒诉求】 = 【Phát hiện tín đồ thỉnh cầu】, 【任务已更新】 = 【Nhiệm vụ đã cập nhật】
 7. 【任务：取得巴哈姆特·康克敦特斯格拉兹查尔登的信任】 = 【Nhiệm vụ: Nhận được sự tín nhiệm của Bahamut Conquertusglazcharden】

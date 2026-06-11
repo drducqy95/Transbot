@@ -11,7 +11,7 @@
     {"source": "全知之父", "type": "title", "occurrences": 1, "context_samples": ["全知之父、启蒙之主"], "suggested_target": "Cha Toàn Tri", "status": "approved"},
     {"source": "启蒙之主", "type": "title", "occurrences": 1, "context_samples": ["全知之父、启蒙之主"], "suggested_target": "Chúa Tể Khai Sáng", "status": "approved"},
     {"source": "神国", "type": "concept", "occurrences": 1, "context_samples": ["远在神国中的诺文"], "suggested_target": "thần quốc", "status": "approved"},
-    {"source": "3阶施法者", "type": "rank", "occurrences": 1, "context_samples": ["所谓的速成3阶施法者"], "suggested_target": "người thi triển cấp 3", "status": "pending"},
+    {"source": "3阶施法者", "type": "rank", "occurrences": 1, "context_samples": ["所谓的速成3阶施法者"], "suggested_target": "Thi Pháp Giả cấp 3", "status": "pending"},
     {"source": "马甲", "type": "concept", "occurrences": 1, "context_samples": ["根本就是个马甲"], "suggested_target": "vỏ bọc", "status": "pending"},
     {"source": "外神", "type": "concept", "occurrences": 1, "context_samples": ["自称是刚从沉眠中苏醒的外神"], "suggested_target": "ngoại thần", "status": "pending"}
   ]

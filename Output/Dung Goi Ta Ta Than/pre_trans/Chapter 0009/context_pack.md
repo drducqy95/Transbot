@@ -27,7 +27,7 @@
 | Tên gốc | Tên dịch | Ghi chú |
 |---------|----------|---------|
 | 诺文 | Norven | Nhân vật chính, xưng thần/tự xưng Thần Tri Thức |
-| 培特·奇纳尔 | Pete Chinar | Tín đồ, học viên Học viện Caroen, Thi Triển Giả cấp 2 |
+| 培特·奇纳尔 | Pete Chinar | Tín đồ, học viên Học viện Caroen, Thi Pháp Giả cấp 2 |
 | 培特 | Pete | Gọi tắt của Pete Chinar |
 | 巴哈姆特 | Bahamut | Pháp Sư cấp 5, thẩm vấn viên |
 | 巴哈姆特·康克敦特斯格拉兹查尔登 | Bahamut·Concadontesglazchalden | Tên đầy đủ |

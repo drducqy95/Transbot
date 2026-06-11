@@ -44,7 +44,7 @@ Trong lúc nguy cấp, Pete nhận được nhiệm vụ mới từ Norven với
 - Hệ thống nhiệm vụ cập nhật với ba bước: Điều động Ma lưới → Cấu trúc Mô hình Ma pháp → Duy trì Ổn định.
 - Pete phát hiện phương pháp của Norven khác hoàn toàn với ma pháp chính thống: dùng mã đặc trưng, giải mã, chìa khóa để kết nối Ma lưới thay vì cầu nguyện Nữ thần Ma pháp.
 - Cách tiếp cận "hacker" này giúp Pete kết nối Ma lưới nhanh chóng và dễ dàng chưa từng thấy.
-- Pete thành công thi triển ma pháp cấp ba【Cơn Đói Khát của Hada】dù chỉ là người thi triển cấp hai.
+- Pete thành công thi triển ma pháp cấp ba【Cơn Đói Khát của Hada】dù chỉ là Thi Pháp Giả nhị giai.
 - Cơn Đói Khát của Hada tiêu diệt hoàn toàn quái vật dị biến thần nghiệt.
 - Pete kiệt sức và ngất xỉu sau khi hoàn thành nhiệm vụ.
 
@@ -114,7 +114,7 @@ Pete nhận được chỉ dẫn chi tiết từ tín đồ cầu cứu, tìm hi
 ## Chương 0006 - Thẩm vấn
 
 ### Tóm tắt
-Pete Chinar tỉnh dậy trong phòng thẩm vấn, bị còng trên ghế kim loại. Một người đàn ông vạm vỡ ngồi đối diện thẩm vấn anh về ma pháp cấp ba mà anh đã thi triển để tiêu diệt quái vật dị biến. Pete lo sợ bị coi là đồng bọn của những kẻ tế lễ tà thần. Khi bị hỏi về thân phận, anh khai là sinh viên trường phái Huyền thuật Học viện Caroen, người thi triển cấp hai. Người thẩm vấn nghi ngờ vì một người thi triển cấp hai từ Học viện Caroen (nổi tiếng đào tạo hàng dỏm) không thể thi triển ma pháp cấp ba uy lực mạnh như vậy. Pete nhận ra những đặc điểm của tà thần khớp với trải nghiệm của mình, và nhìn thấy thông báo nhiệm vụ từ hệ thống thần linh yêu cầu anh nhận được sự tín nhiệm của Bahamut Conquertusglazcharden.
+Pete Chinar tỉnh dậy trong phòng thẩm vấn, bị còng trên ghế kim loại. Một người đàn ông vạm vỡ ngồi đối diện thẩm vấn anh về ma pháp cấp ba mà anh đã thi triển để tiêu diệt quái vật dị biến. Pete lo sợ bị coi là đồng bọn của những kẻ tế lễ tà thần. Khi bị hỏi về thân phận, anh khai là sinh viên trường phái Huyền thuật Học viện Caroen, Thi Pháp Giả nhị giai. Người thẩm vấn nghi ngờ vì một Thi Pháp Giả nhị giai từ Học viện Caroen (nổi tiếng đào tạo hàng dỏm) không thể thi triển ma pháp cấp ba uy lực mạnh như vậy. Pete nhận ra những đặc điểm của tà thần khớp với trải nghiệm của mình, và nhìn thấy thông báo nhiệm vụ từ hệ thống thần linh yêu cầu anh nhận được sự tín nhiệm của Bahamut Conquertusglazcharden.
 
 ### Diễn biến chính
 - Pete tỉnh lại trong phòng thẩm vấn, bị còng tay
@@ -125,7 +125,7 @@ Pete Chinar tỉnh dậy trong phòng thẩm vấn, bị còng trên ghế kim l
 - Hệ thống hiện ra thông báo nhiệm vụ: Nhận được sự tín nhiệm của Bahamut
 
 ### Nhân vật xuất hiện
-- Pete Chinar (培特·奇纳尔): học viên Học viện Caroen, người thi triển cấp hai
+- Pete Chinar (培特·奇纳尔): học viên Học viện Caroen, Thi Pháp Giả nhị giai
 - Người đàn ông thẩm vấn (chưa rõ danh tính)
 
 ### Thuật ngữ xuất hiện
@@ -217,7 +217,7 @@ Pete cầu nguyện Norwen để tìm cách lấy lòng tin của Bahamut. Norwe
 
 ### Nhân vật xuất hiện
 - Norwen (Thần Tri Thức)
-- Pete Chinar (tín đồ, người thi triển cấp 2)
+- Pete Chinar (tín đồ, Thi Pháp Giả cấp 2)
 - Bahamut (pháp sư cấp 5, thẩm vấn viên)
 
 ### Thuật ngữ xuất hiện
@@ -271,14 +271,14 @@ Pete gặp Lena Monia, một thiếu nữ trạc tuổi cậu từng bị lừa 
 
 ### Diễn biến chính
 - Lena Monia cảm ơn Pete vì đã cứu mạng trong hang ổ dị biến.
-- Pete ngượng ngùng vì không xứng với lời khen — cậu chỉ là người thi triển cấp hai yếu kém.
+- Pete ngượng ngùng vì không xứng với lời khen — cậu chỉ là Thi Pháp Giả nhị giai yếu kém.
 - Pete tiết lộ hoàn cảnh: là trưởng nam của nam tước nhỏ ở Vương quốc Rayak, phải đáp ứng 1 trong 3 điều kiện để thừa kế tước vị: tín đồ chân chính của Giáo Hội Huy Quang, nộp thuế quyền thừa kế, hoặc chức nghiệp giả cấp ba.
 - Pete chọn con đường chức nghiệp giả vì không muốn bị ràng buộc bởi giáo lý hay mất tiền.
 - Cậu theo học tại Học viện Caroen nhưng ba năm vẫn chưa lên cấp ba.
 - Lena rủ Pete đến quán rượu nhà mình để tạ ơn.
 
 ### Nhân vật xuất hiện
-- Pete Chinar (người thi triển cấp hai, học viên Học viện Caroen)
+- Pete Chinar (Thi Pháp Giả nhị giai, học viên Học viện Caroen)
 - Lena Monia (thiếu nữ sống sót, người Vương quốc Rayak, con gái chủ quán rượu)
 - Cha của Pete (Nam tước Chinar, được nhắc đến)
 - Thần Huy Quang (được nhắc đến)

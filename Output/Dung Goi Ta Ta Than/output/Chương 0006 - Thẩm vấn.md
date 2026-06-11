@@ -50,11 +50,11 @@ Pete hơi do dự một chút, rồi đáp: "Tôi là tín đồ của Nữ th�
 
 "Nữ thần Ma pháp? Anh là người thi triển?" Người đàn ông đối diện cúi đầu ghi chép nhanh thứ gì đó, xác nhận lại.
 
-"Vâng, tôi là sinh viên năm ba trường phái Huyền thuật Học viện Caroen, thật đấy, tôi là người Vương quốc Rayak, sang đây học tập, tôi có chứng chỉ và huy hiệu Thi Triển Giả nhị giai do viện khảo thí cấp, có thể chứng minh thân phận của tôi! Tôi cũng là nạn nhân mà!"
+"Vâng, tôi là sinh viên năm ba trường phái Huyền thuật Học viện Caroen, thật đấy, tôi là người Vương quốc Rayak, sang đây học tập, tôi có chứng chỉ và huy hiệu Thi Pháp Giả nhị giai do viện khảo thí cấp, có thể chứng minh thân phận của tôi! Tôi cũng là nạn nhân mà!"
 
 Người đàn ông ngẩng đầu lên: "Mấy nạn nhân sống sót từ hang động đó kể với tôi rằng, anh đã giải phóng một thứ ma pháp mà họ chưa từng thấy, uy lực cực kỳ mạnh mẽ mới tiêu diệt được con quái vật đó, nếu không chắc chắn tất cả đều sẽ chết ở đó."
 
-"Xác quái vật tôi đã đi xem rồi, thứ đó, tôi ước tính ma pháp cấp ba thông thường cũng không thể một kích tiêu diệt được, vậy mà anh chỉ dùng một pháp thuật, huống hồ anh nói hiện tại anh chỉ là Thi Triển Giả nhị giai của Học viện Caroen?"
+"Xác quái vật tôi đã đi xem rồi, thứ đó, tôi ước tính ma pháp cấp ba thông thường cũng không thể một kích tiêu diệt được, vậy mà anh chỉ dùng một pháp thuật, huống hồ anh nói hiện tại anh chỉ là Thi Pháp Giả nhị giai của Học viện Caroen?"
 
 "Nói thật nhé, tôi hơi tò mò, anh đã làm thế nào? Hử?"
 
@@ -72,7 +72,7 @@ Học viện Caroen sản sinh đầy hàng dỏm và kẻ lười, trình độ
 
 Người thi triển cấp hai muốn hoàn thành ma pháp cấp ba vốn đã rất khó khăn;
 
-Huống hồ Pete còn là một Thi Triển Giả nhị giai hàng dỏm của Học viện Caroen;
+Huống hồ Pete còn là một Thi Pháp Giả nhị giai hàng dỏm của Học viện Caroen;
 
 Thế mà anh ta lại làm được điều rõ ràng không nằm trong 'trình độ bình thường' của mình.
 

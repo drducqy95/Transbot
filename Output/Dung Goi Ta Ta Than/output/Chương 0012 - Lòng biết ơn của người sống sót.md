@@ -15,7 +15,7 @@ Thiếu nữ vội vàng giải thích: “Thưa anh, chuyện là thế này, c
 
 Pete chợt hiểu.
 Thiếu nữ tên Lena trước mắt cũng là kẻ xui xẻo giống cậu, vô tình bị cuốn vào hiện trường tế lễ.
-Hơn nữa nhìn dáng vẻ cô gái không phải là chức nghiệp giả. Pete ít nhất còn là người thi triển cấp hai, dù không biết pháp thuật công kích nào, nhưng dù sao cũng là chức nghiệp giả có khả năng tự bảo vệ nhất định. Nếu cậu là người thường, đối mặt với tình cảnh đó chỉ càng tuyệt vọng hơn mà thôi.
+Hơn nữa nhìn dáng vẻ cô gái không phải là chức nghiệp giả. Pete ít nhất còn là Thi Pháp Giả nhị giai, dù không biết pháp thuật công kích nào, nhưng dù sao cũng là chức nghiệp giả có khả năng tự bảo vệ nhất định. Nếu cậu là người thường, đối mặt với tình cảnh đó chỉ càng tuyệt vọng hơn mà thôi.
 
 “Không không không, không cần khách sáo thế đâu, tôi tên Pete Chinar. Thực ra tôi cũng giống cô thôi, lúc đó tôi bị ma đưa lối quỷ dẫn đường, tin vào lời bịp của mấy kẻ điên đó, bảo đi thì sẽ học được pháp thuật, kết quả suýt bị hại chết.” Pete vội vàng xua tay.
 
@@ -49,7 +49,7 @@ Nếu phải định kỳ nộp tiền cho quốc vương, chất lượng sốn
 
 Thế nên lựa chọn để lại cho cậu chỉ còn là trở thành chức nghiệp giả cấp ba.
 So với mấy con đường tu hành như chiến sĩ, du hiệp, võ tăng — nhìn là thấy phải khổ luyện mỗi ngày — thì rõ ràng pháp sư không yêu cầu thể chất phù hợp với nhu cầu của một quý tộc trẻ như Pete hơn.
-Dĩ nhiên, trình độ tu hành pháp sư của cậu cũng chỉ là nửa vời. Ở Học viện Caroen ba năm mà vẫn chưa lên được người thi triển cấp ba, thêm vào đó quý tộc không làm việc chân tay nên thể chất vốn yếu. Sức chiến đấu thực tế cũng chỉ hơn người thường có hạn. Trình độ thật sự trước đây của cậu căn bản không xứng với những miêu tả khen ngợi của Lena.
+Dĩ nhiên, trình độ tu hành pháp sư của cậu cũng chỉ là nửa vời. Ở Học viện Caroen ba năm mà vẫn chưa lên được Thi Pháp Giả tam giai, thêm vào đó quý tộc không làm việc chân tay nên thể chất vốn yếu. Sức chiến đấu thực tế cũng chỉ hơn người thường có hạn. Trình độ thật sự trước đây của cậu căn bản không xứng với những miêu tả khen ngợi của Lena.
 
 Để tránh tiếp tục ngượng ngùng, Pete quyết đoán chuyển đề tài: “Vừa nãy nghe cô nói về Thần Huy Quang, cô là tín đồ của Thần Huy Quang sao? Cô cũng là người Rayak à?”
 Giáo Hội Huy Quang là giáo phái có quy mô lớn nhất Vương quốc Rayak, đồng thời cũng là tín ngưỡng chủ lưu nhất. Ngay cả hoàng thất cũng là tín đồ nông cạn của Thần Huy Quang. Nếu ai đó nói mình là tín đồ của Thần Huy Quang, thì mười mươi là người Rayak.

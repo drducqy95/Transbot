@@ -1,0 +1,112 @@
+{
+  "chapter_number": 13,
+  "status": "retry_required",
+  "issues": [
+    {
+      "segment_id": "0020",
+      "type": "cjk_leftover",
+      "severity": "high",
+      "source": "培特顺手给自己和蕾娜挂了个【净息术】戏法。",
+      "target": "Pete thuận tay gieo hí pháp 【Tịnh Tức Thuật】 lên cả hai người.",
+      "message": "CJK characters found: ['【', '】']"
+    },
+    {
+      "segment_id": "0027",
+      "type": "cjk_leftover",
+      "severity": "high",
+      "source": "当然，戏法本身不会有什么强大的效果，绝大部分都是像【净息术】之类的小把戏伎俩而已。",
+      "target": "Dĩ nhiên, bản thân hí pháp không có hiệu quả gì mạnh mẽ cả, tuyệt đại đa số chỉ là những trò vặt vãnh kiểu như 【Tịnh Tức",
+      "message": "CJK characters found: ['【', '】']"
+    },
+    {
+      "segment_id": "0028",
+      "type": "cjk_leftover",
+      "severity": "high",
+      "source": "培特在卡罗恩学院待了三年，正规的法术没学会多少，倒是类似于【净息术】、【清洁术】、【舞光术】之类的戏法学了一大堆，主要目",
+      "target": "Pete ở Học viện Caroen ba năm, pháp thuật chính quy chẳng học được bao nhiêu, ngược lại các hí pháp kiểu như 【Tịnh Tức T",
+      "message": "CJK characters found: ['【', '】', '【', '】', '【']"
+    },
+    {
+      "segment_id": "0020",
+      "type": "name_mismatch",
+      "severity": "medium",
+      "source": "培特顺手给自己和蕾娜挂了个【净息术】戏法。",
+      "target": "Pete thuận tay gieo hí pháp 【Tịnh Tức Thuật】 lên cả hai người.",
+      "message": "Expected 'Lena' for '蕾娜', not found in target"
+    },
+    {
+      "segment_id": "0005",
+      "type": "glossary_concern",
+      "severity": "medium",
+      "source": "这条被地精们称为贸易集市的长街沿着格林港的地势大致呈东西走向，向北是远离海岸、地势更高的上城区，向南则是靠近海岸线和港口所在的下城区，刚好卡在两片城区交界的位置",
+      "target": "Con phố dài mà các tinh linh gọi là Chợ Mậu Dịch chạy theo địa hình Green Port t",
+      "message": "地精 (goblin) translated as 'tinh linh' (elf) - verify if this is intentional in this story context"
+    },
+    {
+      "segment_id": "0006",
+      "type": "glossary_concern",
+      "severity": "medium",
+      "source": "贸易集市里尤以喜欢到处做生意的地精数量最多，大概占了总数的8成。有时候也能看到矮人、半精灵、以及人类的身影。",
+      "target": "Trong Chợ Mậu Dịch, đông đảo nhất vẫn là các tinh linh vốn ưa buôn bán khắp nơi,",
+      "message": "地精 (goblin) translated as 'tinh linh' (elf) - verify if this is intentional in this story context"
+    },
+    {
+      "segment_id": "0012",
+      "type": "glossary_concern",
+      "severity": "medium",
+      "source": "不过，这两种交通工具的运营权都被格林港的大地精财阀卡罗恩·拉杆牢牢地把控在手里，无论船票还是飞艇票，价格昂贵的那叫一个丧心病狂。",
+      "target": "Tuy nhiên, quyền vận hành cả hai phương tiện này đều nằm chắc trong tay đại tài ",
+      "message": "地精 (goblin) translated as 'tinh linh' (elf) - verify if this is intentional in this story context"
+    },
+    {
+      "segment_id": "0013",
+      "type": "glossary_concern",
+      "severity": "medium",
+      "source": "雷亚克王国最主要产出的是各种各样的粮食与农产品，在王国内部凭借物美价廉的优势很是畅销，但如果要长途运输的话，算上途中的损耗，保存的成本，以及地精那不要脸一般的高",
+      "target": "Sản phẩm chủ lực của Vương quốc Rayak là đủ loại lương thực và nông sản, vốn bán",
+      "message": "地精 (goblin) translated as 'tinh linh' (elf) - verify if this is intentional in this story context"
+    },
+    {
+      "segment_id": "0020",
+      "type": "cjk_punctuation_leftover",
+      "severity": "low",
+      "target": "Pete thuận tay gieo hí pháp 【Tịnh Tức Thuật】 lên cả hai người.",
+      "message": "Chinese punctuation '【' found in target"
+    },
+    {
+      "segment_id": "0020",
+      "type": "cjk_punctuation_leftover",
+      "severity": "low",
+      "target": "Pete thuận tay gieo hí pháp 【Tịnh Tức Thuật】 lên cả hai người.",
+      "message": "Chinese punctuation '】' found in target"
+    },
+    {
+      "segment_id": "0027",
+      "type": "cjk_punctuation_leftover",
+      "severity": "low",
+      "target": "Dĩ nhiên, bản thân hí pháp không có hiệu quả gì mạnh mẽ cả, tuyệt đại đa số chỉ ",
+      "message": "Chinese punctuation '【' found in target"
+    },
+    {
+      "segment_id": "0027",
+      "type": "cjk_punctuation_leftover",
+      "severity": "low",
+      "target": "Dĩ nhiên, bản thân hí pháp không có hiệu quả gì mạnh mẽ cả, tuyệt đại đa số chỉ ",
+      "message": "Chinese punctuation '】' found in target"
+    },
+    {
+      "segment_id": "0028",
+      "type": "cjk_punctuation_leftover",
+      "severity": "low",
+      "target": "Pete ở Học viện Caroen ba năm, pháp thuật chính quy chẳng học được bao nhiêu, ng",
+      "message": "Chinese punctuation '【' found in target"
+    },
+    {
+      "segment_id": "0028",
+      "type": "cjk_punctuation_leftover",
+      "severity": "low",
+      "target": "Pete ở Học viện Caroen ba năm, pháp thuật chính quy chẳng học được bao nhiêu, ng",
+      "message": "Chinese punctuation '】' found in target"
+    }
+  ]
+}

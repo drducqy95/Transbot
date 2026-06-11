@@ -32,7 +32,7 @@
 
 ## Character Table
 - Norven (诺文): nhân vật chính, xuyên không thành thần tri thức.
-- Pete Chinar (培特·奇纳尔): học viên Học viện Caroen, Thi Triển Giả cấp 2, con trai nam tước Rayak.
+- Pete Chinar (培特·奇纳尔): học viên Học viện Caroen, Thi Pháp Giả cấp 2, con trai nam tước Rayak.
 - Lena Monia (蕾娜·莫妮娅) — **NHÂN VẬT MỚI**: thiếu nữ ~18-20, tóc nâu dài, mắt xanh, con gái chủ quán rượu ở Green Port, người Rayak, tín đồ Thần Huy Quang. Vui vẻ, biết ơn, ngưỡng mộ Pete.
 - Bahamut Conquertusglazcharden: Pháp Sư cấp 5.
 - Cha của Pete — Nam tước nhỏ của Vương quốc Rayak.

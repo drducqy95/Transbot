@@ -1,0 +1,212 @@
+{
+  "chapter_number": 13,
+  "items": [
+    {
+      "source": "戏法",
+      "type": "magic_skill",
+      "occurrences": 9,
+      "context_samples": [
+        "口下城区来说要好很多。 培特顺手给自己和蕾娜挂了个【净息术】戏法。 这个法术属于魔法学徒都能掌握的入门戏法，效果也很简单，奥",
+        "娜挂了个【净息术】戏法。 这个法术属于魔法学徒都能掌握的入门戏法，效果也很简单，奥术能量会在受术者的鼻孔处形成一层滤网，能够",
+        "感觉闻不到那些难闻的味道了！” “不，不是法术，只是个简单的戏法而已。”培特纠正道。 戏法的施放要比法术简单的多。 魔法女神"
+      ],
+      "suggested_target": "Hí pháp",
+      "status": "pending"
+    },
+    {
+      "source": "法术",
+      "type": "magic_skill",
+      "occurrences": 10,
+      "context_samples": [
+        "要好很多。 培特顺手给自己和蕾娜挂了个【净息术】戏法。 这个法术属于魔法学徒都能掌握的入门戏法，效果也很简单，奥术能量会在受",
+        "空气变得清新起来，蕾娜眼睛一亮，好奇道：“培特先生，这是什么法术吗？我感觉闻不到那些难闻的味道了！” “不，不是法术，只是个",
+        "这是什么法术吗？我感觉闻不到那些难闻的味道了！” “不，不是法术，只是个简单的戏法而已。”培特纠正道。 戏法的施放要比法术简"
+      ],
+      "suggested_target": "pháp thuật",
+      "status": "pending"
+    },
+    {
+      "source": "法术位",
+      "type": "magic_system",
+      "occurrences": 2,
+      "context_samples": [
+        "此执行才能获得相应的法术使用次数，这个规则被施法者们称之为“法术位”规则。 戏法则没有那么多的限制，只要能得到魔法女神的回应与",
+        "多的限制，只要能得到魔法女神的回应与魔网完成沟通，不需要消耗法术位也能随时施展。 培特听说像精灵、半精灵这样与魔法女神先天亲和"
+      ],
+      "suggested_target": "Pháp thuật vị",
+      "status": "pending"
+    },
+    {
+      "source": "魔网",
+      "type": "magic_system",
+      "occurrences": 1,
+      "context_samples": [
+        "”规则。 戏法则没有那么多的限制，只要能得到魔法女神的回应与魔网完成沟通，不需要消耗法术位也能随时施展。 培特听说像精灵、半"
+      ],
+      "suggested_target": "Ma Võng",
+      "status": "pending"
+    },
+    {
+      "source": "净息术",
+      "type": "magic_skill",
+      "occurrences": 3,
+      "context_samples": [
+        "，比起港口下城区来说要好很多。 培特顺手给自己和蕾娜挂了个【净息术】戏法。 这个法术属于魔法学徒都能掌握的入门戏法，效果也很简",
+        "戏法。 当然，戏法本身不会有什么强大的效果，绝大部分都是像【净息术】之类的小把戏伎俩而已。 培特在卡罗恩学院待了三年，正规的法",
+        "培特在卡罗恩学院待了三年，正规的法术没学会多少，倒是类似于【净息术】、【清洁术】、【舞光术】之类的戏法学了一大堆，主要目的是为"
+      ],
+      "suggested_target": "Tịnh Tức Thuật",
+      "status": "pending"
+    },
+    {
+      "source": "清洁术",
+      "type": "magic_skill",
+      "occurrences": 1,
+      "context_samples": [
+        "学院待了三年，正规的法术没学会多少，倒是类似于【净息术】、【清洁术】、【舞光术】之类的戏法学了一大堆，主要目的是为了能让他平时"
+      ],
+      "suggested_target": "Thanh Khiết Thuật",
+      "status": "pending"
+    },
+    {
+      "source": "舞光术",
+      "type": "magic_skill",
+      "occurrences": 1,
+      "context_samples": [
+        "，正规的法术没学会多少，倒是类似于【净息术】、【清洁术】、【舞光术】之类的戏法学了一大堆，主要目的是为了能让他平时的生活过得更"
+      ],
+      "suggested_target": "Vũ Quang Thuật",
+      "status": "pending"
+    },
+    {
+      "source": "魔法亲和度",
+      "type": "magic_system",
+      "occurrences": 1,
+      "context_samples": [
+        "只有施法者这一条，你的情况听起来跟我弟弟很像，他也是没有多少魔法亲和度，不过有那么多的修行路线可以走，你肯定也能找到适合你的道路的"
+      ],
+      "suggested_target": "mức độ tương thích ma pháp",
+      "status": "pending"
+    },
+    {
+      "source": "亲和度",
+      "type": "magic_system",
+      "occurrences": 3,
+      "context_samples": [
+        "术位也能随时施展。 培特听说像精灵、半精灵这样与魔法女神先天亲和度较高的种族，甚至在刚出生的时候，哪怕没有经过学习都能凭借本能",
+        "的雷亚克宫廷奥法学院测试的时候，他们说我完全没有跟魔法女神的亲和度，就连成为魔法学徒都很勉强。” 培特安慰道：“成为职业者的路",
+        "施法者这一条，你的情况听起来跟我弟弟很像，他也是没有多少魔法亲和度，不过有那么多的修行路线可以走，你肯定也能找到适合你的道路的"
+      ],
+      "suggested_target": "độ tương thích",
+      "status": "pending"
+    },
+    {
+      "source": "施法者",
+      "type": "occupation",
+      "occurrences": 3,
+      "context_samples": [
+        "要使用的法术，如此执行才能获得相应的法术使用次数，这个规则被施法者们称之为“法术位”规则。 戏法则没有那么多的限制，只要能得到",
+        "不上1阶法术的戏法，依然让蕾娜流露出无比羡慕的表情： “能当施法者，真好啊！” “我也想努力成为法师，可惜我可能太笨了，魔法女",
+        "魔法学徒都很勉强。” 培特安慰道：“成为职业者的路又不是只有施法者这一条，你的情况听起来跟我弟弟很像，他也是没有多少魔法亲和度"
+      ],
+      "suggested_target": "Thi Pháp Giả",
+      "status": "pending"
+    },
+    {
+      "source": "职业者",
+      "type": "occupation",
+      "occurrences": 2,
+      "context_samples": [
+        "在卡罗恩学院周边转悠，认识的朋友也基本都是跟他一样来这里混个职业者证明的小贵族子弟，只有屈指可数的几次去过下城区，而且也就是在",
+        "神的亲和度，就连成为魔法学徒都很勉强。” 培特安慰道：“成为职业者的路又不是只有施法者这一条，你的情况听起来跟我弟弟很像，他也"
+      ],
+      "suggested_target": "Chức nghiệp giả",
+      "status": "pending"
+    },
+    {
+      "source": "法师",
+      "type": "occupation",
+      "occurrences": 2,
+      "context_samples": [
+        "无比羡慕的表情： “能当施法者，真好啊！” “我也想努力成为法师，可惜我可能太笨了，魔法女神觉得我不适合这条路，小时候在王都",
+        "的道路的。” 蕾娜展颜笑道：“谢谢你的安慰，来自一位强大的大法师给我的祝福，这应该是我这段时间得到最好的消息！” 两人说话的"
+      ],
+      "suggested_target": "Pháp Sư",
+      "status": "pending"
+    },
+    {
+      "source": "学徒",
+      "type": "occupation",
+      "occurrences": 2,
+      "context_samples": [
+        "培特顺手给自己和蕾娜挂了个【净息术】戏法。 这个法术属于魔法学徒都能掌握的入门戏法，效果也很简单，奥术能量会在受术者的鼻孔处",
+        "测试的时候，他们说我完全没有跟魔法女神的亲和度，就连成为魔法学徒都很勉强。” 培特安慰道：“成为职业者的路又不是只有施法者这"
+      ],
+      "suggested_target": "học đồ",
+      "status": "pending"
+    },
+    {
+      "source": "魔法学徒",
+      "type": "occupation",
+      "occurrences": 2,
+      "context_samples": [
+        "。 培特顺手给自己和蕾娜挂了个【净息术】戏法。 这个法术属于魔法学徒都能掌握的入门戏法，效果也很简单，奥术能量会在受术者的鼻孔处",
+        "学院测试的时候，他们说我完全没有跟魔法女神的亲和度，就连成为魔法学徒都很勉强。” 培特安慰道：“成为职业者的路又不是只有施法者这"
+      ],
+      "suggested_target": "ma pháp học đồ",
+      "status": "pending"
+    },
+    {
+      "source": "奥术能量",
+      "type": "magic_system",
+      "occurrences": 1,
+      "context_samples": [
+        "法。 这个法术属于魔法学徒都能掌握的入门戏法，效果也很简单，奥术能量会在受术者的鼻孔处形成一层滤网，能够有效地过滤掉各种气味，最"
+      ],
+      "suggested_target": "năng lượng Huyền thuật",
+      "status": "pending"
+    },
+    {
+      "source": "施法",
+      "type": "magic_system",
+      "occurrences": 3,
+      "context_samples": [
+        "要使用的法术，如此执行才能获得相应的法术使用次数，这个规则被施法者们称之为“法术位”规则。 戏法则没有那么多的限制，只要能得",
+        "不上1阶法术的戏法，依然让蕾娜流露出无比羡慕的表情： “能当施法者，真好啊！” “我也想努力成为法师，可惜我可能太笨了，魔法",
+        "魔法学徒都很勉强。” 培特安慰道：“成为职业者的路又不是只有施法者这一条，你的情况听起来跟我弟弟很像，他也是没有多少魔法亲和"
+      ],
+      "suggested_target": "thi triển pháp thuật",
+      "status": "pending"
+    },
+    {
+      "source": "大法师",
+      "type": "occupation",
+      "occurrences": 1,
+      "context_samples": [
+        "你的道路的。” 蕾娜展颜笑道：“谢谢你的安慰，来自一位强大的大法师给我的祝福，这应该是我这段时间得到最好的消息！” 两人说话的"
+      ],
+      "suggested_target": "Đại Pháp Sư",
+      "status": "pending"
+    },
+    {
+      "source": "滤网",
+      "type": "other",
+      "occurrences": 1,
+      "context_samples": [
+        "的入门戏法，效果也很简单，奥术能量会在受术者的鼻孔处形成一层滤网，能够有效地过滤掉各种气味，最终只留下纯净的空气。     "
+      ],
+      "suggested_target": "màng lọc",
+      "status": "pending"
+    },
+    {
+      "source": "1阶法术",
+      "type": "magic_system",
+      "occurrences": 1,
+      "context_samples": [
+        "能让他平时的生活过得更加舒服。 不过哪怕只是最简单甚至算不上1阶法术的戏法，依然让蕾娜流露出无比羡慕的表情： “能当施法者，真好"
+      ],
+      "suggested_target": "Pháp thuật cấp 1",
+      "status": "pending"
+    }
+  ]
+}

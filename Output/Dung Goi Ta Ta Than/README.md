@@ -29,11 +29,12 @@ Thế giới fantasy phương Tây với ma pháp, thần minh, học viện ma 
 
 ## Tiến độ
 - Tổng số chương: 968
-- Đã hoàn thành: 12
-- Đã audit: 12
-- Chương cuối đã hoàn thành: Chương 12 - Lòng biết ơn của người sống sót
+- Đã hoàn thành: 13
+- Đã audit: 13
+- Chương cuối đã hoàn thành: Chương 13: Khu Hạ Thành
 - Trạng thái: Đang dịch
-- Lần cập nhật gần nhất: 2026-06-11
+- Lần cập nhật gần nhất: 2026-06-11 07:30:00
+
 ## Ghi chú vận hành
 - Branch được xử lý tuần tự qua cronjob mỗi 5 phút.
 - Mỗi lượt xử lý 1 chương đầy đủ: pre_trans → translate → audit → final → git push.
