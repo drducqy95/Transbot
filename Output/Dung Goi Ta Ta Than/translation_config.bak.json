@@ -1,0 +1,49 @@
+{
+  "project_name": "Đừng Gọi Ta Tà Thần",
+  "source_language": "zh",
+  "target_language": "vi",
+  "genre": "fantasy",
+  "sub_genre": "western_fiction",
+  "name_setting": "keep_original",
+  "translation_rules": {
+    "style": "Dịch đúng theo ngữ cảnh, tự nhiên như truyện tiếng Việt; đặc biệt chú ý xưng hô của người dẫn truyện và giữa các nhân vật theo bối cảnh hiện đại/cổ đại/phương Đông/phương Tây.",
+    "proper_names_handling": "Các tên riêng và thuật ngữ có bối cảnh phương Tây, Nhật, Hàn phải sử dụng đúng ngôn ngữ/bối cảnh tương ứng; không Hán Việt hóa hoặc Việt hóa sai văn hóa. Tên/thuật ngữ Trung/Hán thì dùng Hán Việt khi phù hợp và giữ nhất quán.",
+    "forbidden_content": [
+      "Không để sót chữ Hán trong bản dịch cuối nếu không phải tên riêng được phép",
+      "Không tóm tắt thay cho dịch",
+      "Không thêm bình luận ngoài truyện",
+      "Không Hán Việt hóa sai tên/thuật ngữ phương Tây, Nhật, Hàn"
+    ],
+    "annotation_style": "Hạn chế chú thích; chỉ chú thích ngắn khi cần để tránh mất nghĩa văn hóa/ngữ cảnh.",
+    "honorifics_handling": "Xưng hô phải theo đúng ngữ cảnh: người dẫn truyện, quan hệ nhân vật, quyền lực, thân sơ, tuổi tác, phe phái, cảm xúc và bối cảnh văn hóa/thời đại; không dùng một kiểu xưng hô cố định máy móc.",
+    "technical_terms": "Thuật ngữ ma pháp, thần thuật, giáo hội, cấp bậc, tổ chức phải thống nhất theo Glossary.md; thuật ngữ thuộc bối cảnh phương Tây/Nhật/Hàn phải giữ đúng hệ quy chiếu văn hóa.",
+    "narrator_pronoun_handling": "Cần sử dụng đúng xưng hô và giọng kể của người dẫn truyện theo đúng ngữ cảnh hiện đại, cổ đại, phương Đông, phương Tây. Giọng người dẫn không được máy móc; phải phù hợp bối cảnh văn hóa, thời đại, thể loại và điểm nhìn truyện.",
+    "character_pronoun_handling": "Xưng hô giữa các nhân vật phải theo đúng ngữ cảnh, mối quan hệ, địa vị, tuổi tác, khoảng cách thân sơ, phe phái và cảm xúc tại thời điểm đối thoại. Khi quan hệ/cảm xúc thay đổi, xưng hô có thể cần thay đổi tương ứng.",
+    "output_title_language": "Tiêu đề chương trong output và toc.json phải là tiếng Việt tự nhiên; không giữ nguyên tiêu đề chương tiếng Trung trong filename hoặc toc.title nếu có thể dịch chuẩn.",
+    "output_filename_title": "Tên file final phải dùng tiêu đề tiếng Việt, theo pattern Chương {chapter:04d} - {title_vi}.md; không để CJK trong tên file.",
+    "git_push_scope": "Chỉ git add/commit/push các nội dung trong Output/ và Output/home.json. Tuyệt đối không push Source/, Source Split/, script nguồn, hay dữ liệu nguồn gốc lên git.",
+    "git_ignore_source": "Không bao giờ add Source/ hoặc Source Split/ vào commit/push của cron branch.",
+    "term_ma_vong": "Ma Võng = mạng lưới ma pháp/kết nối ma thuật. Không dịch là \"Ma Lưới\". Thuật ngữ này phải giữ nguyên \"Ma Võng\" hoặc \"Ma Võng\" trong bản dịch, không thay bằng từ khác.",
+    "occupation_hán_việt": "Thuật ngữ chỉ nghề nghiệp trong truyện (đặc biệt fantasy) viết dưới dạng Hán Việt. Ví dụ: 法师=Pháp Sư, 战士=Chiến Sĩ, 潜行者=Tiềm Hành Giả, 游侠=Du Hiệp, 术士=Thuật Sĩ, 牧师=Mục Sư, 盗贼=Đạo Tặc. Trừ một số nghề thông dụng hiện đại như học sinh, bác sĩ, nhân viên,... thì dùng từ phổ biến tiếng Việt.",
+    "name_caroen_lever": "卡罗恩·拉杆 = Caroen Lever (tên Latin chuẩn, đầy đủ họ và tên Latin). Không viết thành \"Caroen Lever\", \"Caroen Lever\", \"Caroen Kéo Cần\" hay bất kỳ biến thể nào khác. Tên trường 卡罗恩学院 = Học viện Caroen (theo tên người sáng lập Caroen Lever).",
+    "term_thi_phap_gia": "施法者 = Thi Pháp Giả (Hán Việt chuẩn). Không dịch là \"người thi triển pháp thuật\", \"Thi Triển Giả\" hay bất kỳ biến thể nào."
+  },
+  "pronoun_mode": "hybrid",
+  "reflection_max_iterations": 3,
+  "total_chapters": 968,
+  "source_ref": {
+    "full": "Source/Source full/Đừng Gọi Ta Tà Thần_Thủy Quả Trung Đích Đồng Thần.txt",
+    "split": "Source/Source Split/Dung Goi Ta Ta Than/",
+    "description": "Source nam o thu muc goc, KHONG copy vao branch"
+  },
+  "project_branch": "Dung Goi Ta Ta Than",
+  "display_title": "Đừng Gọi Ta Tà Thần",
+  "display_author": "Thủy Quả Trung Đích Đồng Thần",
+  "output_filename_pattern_display": "Chương {chapter:04d}: {title}.md",
+  "output_filename_pattern_filesystem": "Chương {chapter:04d} - {title}.md",
+  "readme_path": "Output/Dung Goi Ta Ta Than/README.md",
+  "sanitization": {
+    "ban_cjk_in_output": true,
+    "cjk_check_mode": "error"
+  }
+}

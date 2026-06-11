@@ -333,3 +333,8 @@ Chapter 35 completed via pipeline.
 
 ### Summary
 Chapter 36 completed via pipeline.
+
+## Chapter 0037 - Chương 37: Cách dùng mới của Điểm Tri Thức
+
+### Summary
+Chapter 37 completed via pipeline.
