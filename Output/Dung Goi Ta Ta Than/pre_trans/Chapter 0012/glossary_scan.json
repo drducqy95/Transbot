@@ -1,0 +1,50 @@
+{
+  "chapter_number": 12,
+  "items": [
+    {
+      "source": "辉光之主 / 辉光之神 / 辉光神教",
+      "type": "deity",
+      "occurrences": 5,
+      "context_samples": [
+        "辉光之主在上啊",
+        "辉光神教是雷亚克王国规模最大的教派",
+        "辉光之神"
+      ],
+      "suggested_target": "Chúa Tể Huy Quang / Thần Huy Quang / Giáo Hội Huy Quang",
+      "notes": "Thần chính của Vương quốc Rayak, tương tự thần Ánh Sáng trong bối cảnh phương Tây.",
+      "status": "pending"
+    },
+    {
+      "source": "真信徒",
+      "type": "concept",
+      "occurrences": 2,
+      "context_samples": [
+        "成为真信徒就意味着要严格遵循神明的教会各种教义、戒律",
+        "真信徒不同于可以随时信仰或者弃信的浅信徒"
+      ],
+      "suggested_target": "tín đồ chân chính",
+      "status": "pending"
+    },
+    {
+      "source": "宫廷奥法学院",
+      "type": "organization",
+      "occurrences": 2,
+      "context_samples": [
+        "雷亚克宫廷奥法学院",
+        "宫廷奥法学院根本看不上他"
+      ],
+      "suggested_target": "Học viện Huyền thuật Hoàng gia Rayak",
+      "status": "pending"
+    },
+    {
+      "source": "继承权利税金",
+      "type": "concept",
+      "occurrences": 1,
+      "context_samples": [
+        "定期向国王缴纳高额的继承权利税金"
+      ],
+      "suggested_target": "thuế quyền thừa kế",
+      "status": "pending"
+    }
+  ]
+}

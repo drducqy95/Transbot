@@ -1,0 +1,18 @@
+{
+  "chapter_number": 11,
+  "items": [
+    {"source": "神力", "type": "concept", "occurrences": 6, "context_samples": ["神力的消耗"], "suggested_target": "thần lực", "status": "approved"},
+    {"source": "神职权柄", "type": "concept", "occurrences": 3, "context_samples": ["神职权柄的上限"], "suggested_target": "quyền năng thần chức", "status": "pending"},
+    {"source": "神谕", "type": "concept", "occurrences": 2, "context_samples": ["收到神谕"], "suggested_target": "thần dụ", "status": "approved"},
+    {"source": "【法术反制】", "type": "spell", "occurrences": 1, "context_samples": ["被【法术反制】影响"], "suggested_target": "【Phản Chế Pháp Thuật】", "status": "approved"},
+    {"source": "【真名知晓】", "type": "spell", "occurrences": 2, "context_samples": ["【真名知晓】法术"], "suggested_target": "【Biết Tên Thật】", "status": "approved"},
+    {"source": "【任务：前往霜火高原，进度0/1】", "type": "system", "occurrences": 1, "context_samples": ["【任务：前往霜火高原，进度0/1】"], "suggested_target": "【Nhiệm vụ: Đến Cao Nguyên Sương Lửa, tiến độ 0/1】", "status": "pending"},
+    {"source": "传教", "type": "concept", "occurrences": 3, "context_samples": ["展开传教"], "suggested_target": "truyền giáo", "status": "approved"},
+    {"source": "全知之父", "type": "title", "occurrences": 1, "context_samples": ["全知之父、启蒙之主"], "suggested_target": "Cha Toàn Tri", "status": "approved"},
+    {"source": "启蒙之主", "type": "title", "occurrences": 1, "context_samples": ["全知之父、启蒙之主"], "suggested_target": "Chúa Tể Khai Sáng", "status": "approved"},
+    {"source": "神国", "type": "concept", "occurrences": 1, "context_samples": ["远在神国中的诺文"], "suggested_target": "thần quốc", "status": "approved"},
+    {"source": "3阶施法者", "type": "rank", "occurrences": 1, "context_samples": ["所谓的速成3阶施法者"], "suggested_target": "người thi triển cấp 3", "status": "pending"},
+    {"source": "马甲", "type": "concept", "occurrences": 1, "context_samples": ["根本就是个马甲"], "suggested_target": "vỏ bọc", "status": "pending"},
+    {"source": "外神", "type": "concept", "occurrences": 1, "context_samples": ["自称是刚从沉眠中苏醒的外神"], "suggested_target": "ngoại thần", "status": "pending"}
+  ]
+}

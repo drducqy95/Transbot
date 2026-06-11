@@ -50,29 +50,29 @@ Pete hơi do dự một chút, rồi đáp: "Tôi là tín đồ của Nữ th�
 
 "Nữ thần Ma pháp? Anh là người thi triển?" Người đàn ông đối diện cúi đầu ghi chép nhanh thứ gì đó, xác nhận lại.
 
-"Vâng, tôi là sinh viên năm ba trường phái Huyền thuật Học viện Carone, thật đấy, tôi là người Vương quốc Rayak, sang đây học tập, tôi có chứng chỉ và huy hiệu người thi triển cấp hai do viện khảo thí cấp, có thể chứng minh thân phận của tôi! Tôi cũng là nạn nhân mà!"
+"Vâng, tôi là sinh viên năm ba trường phái Huyền thuật Học viện Caroen, thật đấy, tôi là người Vương quốc Rayak, sang đây học tập, tôi có chứng chỉ và huy hiệu người thi triển cấp hai do viện khảo thí cấp, có thể chứng minh thân phận của tôi! Tôi cũng là nạn nhân mà!"
 
 Người đàn ông ngẩng đầu lên: "Mấy nạn nhân sống sót từ hang động đó kể với tôi rằng, anh đã giải phóng một thứ ma pháp mà họ chưa từng thấy, uy lực cực kỳ mạnh mẽ mới tiêu diệt được con quái vật đó, nếu không chắc chắn tất cả đều sẽ chết ở đó."
 
-"Xác quái vật tôi đã đi xem rồi, thứ đó, tôi ước tính ma pháp cấp ba thông thường cũng không thể một kích tiêu diệt được, vậy mà anh chỉ dùng một pháp thuật, huống hồ anh nói hiện tại anh chỉ là người thi triển cấp hai của Học viện Carone?"
+"Xác quái vật tôi đã đi xem rồi, thứ đó, tôi ước tính ma pháp cấp ba thông thường cũng không thể một kích tiêu diệt được, vậy mà anh chỉ dùng một pháp thuật, huống hồ anh nói hiện tại anh chỉ là người thi triển cấp hai của Học viện Caroen?"
 
 "Nói thật nhé, tôi hơi tò mò, anh đã làm thế nào? Hử?"
 
-Lúc người đàn ông nhắc đến Học viện Carone, trong giọng nói rõ ràng mang vài phần chế giễu.
+Lúc người đàn ông nhắc đến Học viện Caroen, trong giọng nói rõ ràng mang vài phần chế giễu.
 
 Pete biết tại sao đối phương lại có phản ứng như vậy.
 
-Học viện Carone tọa lạc tại Cảng Green, thành phố tự do trung lập thuộc Vịnh Green, được sáng lập bởi đại tài phiệt tinh linh Carone Kéo Cần nổi tiếng. Học viện này trên toàn bộ lục địa Plantis, bất luận quy mô hay danh tiếng đều thuộc hàng có tiếng.
+Học viện Caroen tọa lạc tại Cảng Green, thành phố tự do trung lập thuộc Vịnh Green, được sáng lập bởi đại tài phiệt tinh linh Caroen Lever nổi tiếng. Học viện này trên toàn bộ lục địa Plantis, bất luận quy mô hay danh tiếng đều thuộc hàng có tiếng.
 
 Đáng tiếc là, cái danh tiếng này lại chẳng phải danh tiếng tốt đẹp gì.
 
-Bởi vì ở Học viện Carone, cho dù học viên có trình độ kém cỡ nào, chỉ cần bỏ đủ tiền là mua được suất nhập học; hơn nữa các kỳ khảo thí chức nghiệp giả của học viện này cũng nổi tiếng dễ dãi, nộp đủ tiền là có thể dùng đủ mọi cách gian lận trong quá trình khảo thí để hạ thấp độ khó.
+Bởi vì ở Học viện Caroen, cho dù học viên có trình độ kém cỡ nào, chỉ cần bỏ đủ tiền là mua được suất nhập học; hơn nữa các kỳ khảo thí chức nghiệp giả của học viện này cũng nổi tiếng dễ dãi, nộp đủ tiền là có thể dùng đủ mọi cách gian lận trong quá trình khảo thí để hạ thấp độ khó.
 
-Học viện Carone sản sinh đầy hàng dỏm và kẻ lười, trình độ chức nghiệp giả của sinh viên tốt nghiệp thường thấp hơn cấp đánh giá của họ từ một đến hai bậc, gần như đã trở thành nhận thức chung của lục địa.
+Học viện Caroen sản sinh đầy hàng dỏm và kẻ lười, trình độ chức nghiệp giả của sinh viên tốt nghiệp thường thấp hơn cấp đánh giá của họ từ một đến hai bậc, gần như đã trở thành nhận thức chung của lục địa.
 
 Người thi triển cấp hai muốn hoàn thành ma pháp cấp ba vốn đã rất khó khăn;
 
-Huống hồ Pete còn là một người thi triển cấp hai hàng dỏm của Học viện Carone;
+Huống hồ Pete còn là một người thi triển cấp hai hàng dỏm của Học viện Caroen;
 
 Thế mà anh ta lại làm được điều rõ ràng không nằm trong 'trình độ bình thường' của mình.
 

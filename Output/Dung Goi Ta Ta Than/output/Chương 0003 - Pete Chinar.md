@@ -30,7 +30,7 @@ Nếu ví von để hình dung, trong thế giới trước kia của Norven, ng
 Trong một hang động dưới lòng đất âm u ngổn ngang hỗn độn.
 Ý nghĩ lúc này của Pete Chinar chính là hối hận, vô cùng hối hận!
 Chắc chắn trước đó hắn bị quỷ ám mất rồi, sao lại nghĩ quẩn, tin vào lời ma quỷ của tên áo choàng đen đó chứ!
-Vài tiếng trước hắn vẫn còn là học sinh cá biệt kéo tụt điểm trung bình của Trường phái Huyền thuật Học viện Carone, đau đầu vắt óc tìm cách nắm giữ một pháp thuật cấp ba.
+Vài tiếng trước hắn vẫn còn là học sinh cá biệt kéo tụt điểm trung bình của Trường phái Huyền thuật Học viện Caroen, đau đầu vắt óc tìm cách nắm giữ một pháp thuật cấp ba.
 Thế mà sao bây giờ lại một phát cuốn vào tình cảnh nguy hiểm sinh tử thế này!
 Nhìn con quái vật thịt máu đầy u bướu, miệng lưỡi và nhãn cầu đằng kia, đã dựa vào việc không ngừng nuốt chửng con người mà trưởng thành thành một khối khổng lồ, đang vung vẩy xúc tu, như mèo vờn chuột, không trực tiếp cuốn mấy “thức ăn” cuối cùng còn lại xé nát, mà từng bước từng bước siết chặt không gian sinh tồn của chúng.
 Pete không tè ra quần tại chỗ đã coi là gan to lắm rồi!
