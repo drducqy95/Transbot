@@ -1,7 +1,7 @@
 {
-  "schema_version": "2.0",
-  "chapter_id": "chapter_0007",
-  "segment_translations": [
+  "chapter_number": 7,
+  "chapter_title_vi": "Chương 7: Không gian Vận Mệnh",
+  "segments": [
     {
       "segment_id": "0001",
       "source": "# 第7章 命运空间",

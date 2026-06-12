@@ -58,3 +58,8 @@ Chapter 8 completed via pipeline.
 
 ### Summary
 Chapter 6 completed via pipeline.
+
+## Chapter 0007 - Chương 7: Không gian Vận Mệnh
+
+### Summary
+Chapter 7 completed via pipeline.

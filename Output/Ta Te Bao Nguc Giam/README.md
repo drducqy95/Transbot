@@ -1,6 +1,6 @@
 # Ta Te Bao Nguc Giam
 
-- Đã hoàn thành: 7
-- Chương cuối: Chương 6: Quảng trường Tế Điển
+- Đã hoàn thành: 8
+- Chương cuối: Chương 7: Không gian Vận Mệnh
 
 - **Tiến độ hiện tại**: 5/2169 chương
