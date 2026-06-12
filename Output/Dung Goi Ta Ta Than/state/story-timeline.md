@@ -478,3 +478,8 @@ Chapter 59 completed via pipeline.
 
 ### Summary
 Chapter 1 completed via pipeline.
+
+## Chapter 0002 - Chương 2: Khởi đầu nát bét
+
+### Summary
+Chapter 2 completed via pipeline.

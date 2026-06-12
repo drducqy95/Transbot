@@ -1,0 +1,273 @@
+```json
+{
+  "chapter_number": 2,
+  "chapter_title_vi": "Chương 2: Khởi đầu nát bét",
+  "segments": [
+    {
+      "segment_id": "0001",
+      "source": "# 第2章 天崩开局",
+      "target": "# Chương 2: Khởi đầu nát bét"
+    },
+    {
+      "segment_id": "0002",
+      "source": "诺文心情复杂地通过神之眼注视着他的这批“信徒”。",
+      "target": "Norven với tâm trạng phức tạp, thông qua Mắt Thần quan sát nhóm “tín đồ” này của mình."
+    },
+    {
+      "segment_id": "0003",
+      "source": "他觉得这个世界的凡人似乎对他有什么误会。",
+      "target": "Hắn cảm thấy phàm nhân ở thế giới này dường như có hiểu lầm gì đó về hắn."
+    },
+    {
+      "segment_id": "0004",
+      "source": "通过这些黑袍人们祈祷提供的信仰之力，让诺文搞清楚了他拥有的神职权能。",
+      "target": "Thông qua lực lượng tín ngưỡng được cung cấp từ những lời cầu nguyện của đám người áo choàng đen này, Norven đã làm rõ được quyền năng thần chức mà mình sở hữu."
+    },
+    {
+      "segment_id": "0005",
+      "source": "黑袍人所请求的“哈达的饥渴之力”，实际上是一种通过构筑法术模型而施放的，名为【哈达之饥渴】的强力魔法。",
+      "target": "“Sức mạnh đói khát của Hada” mà đám người áo choàng đen cầu xin, thực chất là một ma pháp mạnh mẽ được thi triển bằng cách xây dựng mô hình pháp thuật, có tên là [Cơn Đói Khát của Hada]."
+    },
+    {
+      "segment_id": "0006",
+      "source": "诺文投下注视接收了信徒的祷告，便在一瞬间无师自通地掌握了有关这道法术的全部知识，从其诞生发展到现在的各种变种、优化、进阶等信息全部一清二楚，尽在掌握，无论理解还是熟练度都直接达到冠绝于世的顶级程度。",
+      "target": "Norven phóng tầm mắt xuống nhận lấy lời cầu nguyện của tín đồ, ngay lập tức tự hiểu mà nắm vững toàn bộ tri thức về môn pháp thuật này, từ khi nó ra đời, phát triển cho đến các loại biến thể, tối ưu, tiến giai hiện nay, tất cả đều rõ mồn một trong lòng bàn tay. Bất kể là khả năng thấu hiểu hay độ thuần thục đều trực tiếp đạt đến cấp độ đỉnh phong hàng đầu thế giới."
+    },
+    {
+      "segment_id": "0007",
+      "source": "并且只要他消耗一部分神力，可以直接将知识和力量快速传授给他的信徒。",
+      "target": "Hơn nữa, chỉ cần tiêu hao một phần thần lực, hắn có thể trực tiếp truyền thụ tri thức và sức mạnh này cho tín đồ một cách nhanh chóng."
+    },
+    {
+      "segment_id": "0008",
+      "source": "哪怕信徒是个从未尝试过施法的门外汉，也能通过这种神赐的力量立马成为熟练掌握该法术的顶级大师。",
+      "target": "Cho dù tín đồ có là một kẻ ngoại đạo chưa từng thử thi pháp, cũng có thể thông qua sức mạnh thần ban này mà lập tức trở thành một bậc thầy đỉnh cao thành thục môn pháp thuật này."
+    },
+    {
+      "segment_id": "0009",
+      "source": "诺文寻思着，他的神职权能简直强的离谱，要知道这对普通的凡人来说，相当于是跳过了原本漫长的研究、学习、熟练的过程，甚至可以无视天赋等各种外界条件限制，只要神明赐下力量，凡人便能直接完全掌握相关的技能。",
+      "target": "Norven thầm nghĩ, quyền năng thần chức của hắn quả thực mạnh đến mức vô lý. Phải biết rằng đối với phàm nhân bình thường mà nói, việc này tương đương với chuyện bỏ qua cả một quá trình nghiên cứu, học tập, rèn luyện lâu dài, thậm chí có thể bỏ qua mọi hạn chế về thiên phú hay các điều kiện ngoại cảnh khác, chỉ cần thần minh ban phát sức mạnh là phàm nhân có thể trực tiếp nắm vững hoàn toàn kỹ năng liên quan."
+    },
+    {
+      "segment_id": "0010",
+      "source": "可问题的关键就在这里。",
+      "target": "Nhưng mấu chốt của vấn đề nằm ở chính chỗ này."
+    },
+    {
+      "segment_id": "0011",
+      "source": "照理来讲，这种宛若作弊般的神明伟力，明明应该受到大量的凡人追捧才对。",
+      "target": "Theo lý mà nói, loại vĩ lực thần minh tựa như hack game này rõ ràng phải được đông đảo phàm nhân săn đón mới đúng."
+    },
+    {
+      "segment_id": "0012",
+      "source": "可在诺文的神觉感知里，除了那些可能仅仅只是无意间提起跟他相关的信息才被他接收到的“祈祷声”，此刻只有这群被他投下神之眼注视的，俨然一副邪教徒做派的黑袍人们，在指向性非常明确地向他发出祈祷。",
+      "target": "Thế nhưng trong cảm tri thần giác của Norven, ngoại trừ những “tiếng cầu nguyện” có lẽ chỉ do vô tình nhắc tới thông tin liên quan đến hắn mới bị hắn tiếp nhận được, thì lúc này chỉ có đám người áo choàng đen ăn mặc như tà giáo đồ này, những kẻ đang được hắn dùng Mắt Thần chú ý, là đang thành kính cầu nguyện hướng thẳng về phía hắn một cách cực kỳ rõ ràng."
+    },
+    {
+      "segment_id": "0013",
+      "source": "事出反常必有妖，诺文隐隐觉得似乎有哪里不太对，但他一时又说不上来。",
+      "target": "Sự đời bất thường ắt có quái dị, Norven lờ mờ cảm thấy có điểm nào đó không đúng, nhưng nhất thời hắn lại chưa nghĩ ra."
+    },
+    {
+      "segment_id": "0014",
+      "source": "……",
+      "target": "..."
+    },
+    {
+      "segment_id": "0015",
+      "source": "地下洞窟的仪式现场，为首的黑袍人感受到一阵不同于他们往常祈祷献祭时的神力波动，顿觉激动，惊喊出声：",
+      "target": "Tại hiện trường nghi thức trong hang động ngầm, kẻ cầm đầu nhóm áo choàng đen cảm nhận được một luồng dao động thần lực khác hẳn với những lần cầu nguyện tế lễ trước đây, gã lập tức kích động, kinh ngạc hét lên:"
+    },
+    {
+      "segment_id": "0016",
+      "source": "“兄弟姐妹们！伟大的全知之父！祂终于回应了我们！我感觉到了！我感觉到了祂的注视！”",
+      "target": "“Hỡi các anh chị em! Cha Toàn Tri vĩ đại! Ngài cuối cùng đã đáp lại chúng ta! Ta cảm nhận được rồi! Ta cảm nhận được ánh mắt của Ngài rồi!”"
+    },
+    {
+      "segment_id": "0017",
+      "source": "“为了伟大的主，我等愿意献出一切！遵从主的指引！请引领我们，见证世界的真相！”",
+      "target": "“Vì Chúa Tể vĩ đại, chúng ta nguyện dâng hiến tất cả! Tuân theo sự dẫn dắt của Ngài! Xin hãy dẫn dắt chúng ta, chứng kiến chân tướng của thế giới!”"
+    },
+    {
+      "segment_id": "0018",
+      "source": "看着这群黑袍人虔诚的样子，诺文做出了决定：",
+      "target": "Nhìn dáng vẻ thành kính của đám người áo choàng đen này, Norven đưa ra quyết định:"
+    },
+    {
+      "segment_id": "0019",
+      "source": "“邪教徒就邪教徒！至少这些人能够为我提供信仰之力！有了更多的信仰来源，才能扩张教派。”",
+      "target": "“Tà giáo đồ thì tà giáo đồ vậy! Ít nhất những kẻ này cũng có thể cung cấp lực lượng tín ngưỡng cho ta! Có nhiều nguồn tín ngưỡng hơn mới có thể mở rộng giáo phái.”"
+    },
+    {
+      "segment_id": "0020",
+      "source": "“何况邪教徒又不是不能引导他们去向善，力量本身又没有善恶之分，重要的肯定是如何去使用！”",
+      "target": "“Hơn nữa tà giáo đồ cũng đâu phải là không thể hướng dẫn họ hướng thiện, bản thân sức mạnh vốn không phân biệt thiện ác, điều quan trọng chắc chắn là cách sử dụng nó!”"
+    },
+    {
+      "segment_id": "0021",
+      "source": "在这个有神明存在的世界里，信徒和神灵的关系是双向的。",
+      "target": "Trong thế giới có thần minh tồn tại này, quan hệ giữa tín đồ và thần linh là hai chiều."
+    },
+    {
+      "segment_id": "0022",
+      "source": "神灵需要信仰来维持存在，凡人则需要神明赐福的力量。",
+      "target": "Thần linh cần tín ngưỡng để duy trì sự tồn tại, còn phàm nhân cần sức mạnh ban phước của thần minh."
+    },
+    {
+      "segment_id": "0023",
+      "source": "凡人可以选择向对应的不同神明提供信仰，通过虔诚的祈祷或者仪式，有机会得到神明的赐福。",
+      "target": "Phàm nhân có thể lựa chọn dâng hiến tín ngưỡng cho các vị thần khác nhau, thông qua những lời cầu nguyện hoặc nghi thức thành kính để có cơ hội nhận được sự ban phước của thần."
+    },
+    {
+      "segment_id": "0024",
+      "source": "同时，凡人也要遵守神明的指引或戒律，否则的话，神明亦可随时选择收回他给予的神力，不再接受这名凡人的信仰。",
+      "target": "Đồng thời, phàm nhân cũng phải tuân thủ sự dẫn dắt hoặc giới luật của thần minh, bằng không, thần minh có thể tùy thời thu hồi thần lực đã ban phát, không tiếp nhận tín ngưỡng của phàm nhân đó nữa."
+    },
+    {
+      "segment_id": "0025",
+      "source": "当然，在这份双向选择的关系里，毫无疑问，神明会占据更多的主动权。",
+      "target": "Dĩ nhiên, trong mối quan hệ lựa chọn hai chiều này, không còn nghi ngờ gì nữa, thần minh sẽ chiếm nhiều quyền chủ động hơn."
+    },
+    {
+      "segment_id": "0026",
+      "source": "如果信徒的行事不符合神明的要求，随时可以单方面地将其“拉黑”，神明损失的只是一个信仰之力来源，而信徒则可能会立刻失去大部分的力量。",
+      "target": "Nếu hành vi của tín đồ không phù hợp với yêu cầu của thần minh, ngài có thể đơn phương “cho vào danh sách đen” bất cứ lúc nào, thần minh chỉ mất đi một nguồn cung cấp lực lượng tín ngưỡng, còn tín đồ thì có khả năng sẽ ngay lập tức mất đi phần lớn sức mạnh."
+    },
+    {
+      "segment_id": "0027",
+      "source": "诺文此刻便是抱了类似的想法。",
+      "target": "Norven lúc này chính là có suy nghĩ như vậy."
+    },
+    {
+      "segment_id": "0028",
+      "source": "如果这个世界的凡人真的对他的形象有什么误会，那他大可从接纳这批黑袍人开始，给予他们力量，然后再通过指引他们的行动，来逐渐改善诺文的风评！",
+      "target": "Nếu phàm nhân ở thế giới này thực sự có hiểu lầm về hình tượng của hắn, vậy thì hắn hoàn toàn có thể bắt đầu từ việc tiếp nhận đám người áo choàng đen này, ban cho bọn họ sức mạnh, sau đó thông qua việc chỉ dẫn hành động của bọn họ để dần cải thiện danh tiếng của Norven!"
+    },
+    {
+      "segment_id": "0029",
+      "source": "“先从这个领头的家伙开始，看看赐予神力的效果。”      诺文尝试着建立起他与信徒间神力通道，一阵虚幻的波动过后，诺文将他的力量灌注入了为首的黑袍人体内。",
+      "target": "“Bắt đầu từ tên cầm đầu này trước, để xem hiệu quả ban phát thần lực thế nào.” Norven cố gắng thiết lập kênh truyền dẫn thần lực giữa mình và tín đồ. Sau một hồi dao động hư ảo, Norven truyền sức mạnh của mình vào cơ thể kẻ cầm đầu nhóm áo choàng đen."
+    },
+    {
+      "segment_id": "0030",
+      "source": "“我已经看到了！这个世界的真实，是的，我亲眼目睹了一切……呃……呃啊……！”",
+      "target": "“Ta đã nhìn thấy rồi! Sự thật của thế giới này, đúng vậy, ta đã tận mắt chứng kiến tất cả... Hự... Á...!”"
+    },
+    {
+      "segment_id": "0031",
+      "source": "黑袍人声音中满是狂喜地接收着来自神明的力量时，异变突生。",
+      "target": "Trong lúc kẻ cầm đầu nhóm áo choàng đen tiếp nhận sức mạnh từ thần minh với giọng điệu đầy cuồng hỷ, dị biến đột ngột xảy ra."
+    },
+    {
+      "segment_id": "0032",
+      "source": "只见他黑袍下的身体毫无预兆地胀大起来，原本有些瘦削的身形，在短短数秒时间里，膨胀到足足4、5米高，无数凭空快速增生的腐败血块与丑陋的肉瘤撑破了黑袍，伴随着痛苦的惨叫声，血肉层层堆叠，数不清的眼球，口器与触手在它可怖的躯体上生长。",
+      "target": "Chỉ thấy cơ thể ẩn dưới lớp áo choàng đen của gã phình to lên không một điềm báo trước. Thân hình vốn hơi gầy gò chỉ trong vài giây ngắn ngủi đã trương phình lên cao tới bốn, năm mét. Vô số cục máu thối rữa và những khối u thịt xấu xí tự dưng sinh sôi nảy nở nhanh chóng làm rách toạc chiếc áo choàng đen. Đi kèm với tiếng hét thảm khốc đau đớn, máu thịt chất chồng từng lớp, vô số nhãn cầu, miệng và xúc tu mọc ra trên cơ thể đáng sợ của nó."
+    },
+    {
+      "segment_id": "0033",
+      "source": "这一刻，诺文的沉默震耳欲聋。",
+      "target": "Lúc này, sự im lặng của Norven chấn động đến chói tai."
+    },
+    {
+      "segment_id": "0034",
+      "source": "他终于意识到了他先前觉得不对劲的地方究竟是什么：",
+      "target": "Cuối cùng hắn cũng nhận ra điểm bất thường mà mình cảm thấy trước đó rốt cuộc là cái gì:"
+    },
+    {
+      "segment_id": "0035",
+      "source": "“坏了，不是这个世界对我的认识有误会，而是我好像对自己的认知有误解。”",
+      "target": "“Hỏng rồi, không phải thế giới này hiểu lầm về ta, mà hình như ta đã hiểu lầm về chính bản thân mình.”"
+    },
+    {
+      "segment_id": "0036",
+      "source": "“难怪只有这些家伙愿意向我献上信仰，合着原来我自己是邪神本神！”",
+      "target": "“Thảo nào chỉ có những kẻ này chịu dâng hiến tín ngưỡng cho ta, hóa ra chính ta mới là tà thần chính hiệu!”"
+    },
+    {
+      "segment_id": "0037",
+      "source": "他所谓的知识与启蒙的神职权能，的确可以在得到信徒的相关诉求时，瞬间了解并掌握知识，学会技能。可是伴随着神力的传输，诺文能明显感受到他的力量中还有着一股混乱无序的气息！",
+      "target": "Quyền năng thần chức tri thức và khai sáng của hắn quả thực có thể lập tức thấu hiểu, nắm giữ tri thức và học được kỹ năng khi nhận được yêu cầu tương ứng từ tín đồ. Thế nhưng đi kèm với sự truyền dẫn thần lực, Norven có thể cảm nhận rõ ràng trong sức mạnh của mình còn có một luồng khí tức hỗn loạn vô trật tự!"
+    },
+    {
+      "segment_id": "0038",
+      "source": "诺文身为神灵不会受其影响，但对凡人来说，这股混乱气息的冲击足够瞬间摧毁他们的心智，导致凡人发生严重的畸变，变成失去理智的怪物！",
+      "target": "Norven là thần linh nên không bị ảnh hưởng, nhưng đối với phàm nhân, sự công kích từ luồng khí tức hỗn loạn này đủ để hủy diệt tâm trí họ trong nháy mắt, khiến họ bị dị biến nghiêm trọng, trở thành những quái vật mất đi lý trí!"
+    },
+    {
+      "segment_id": "0039",
+      "source": "仪式现场的黑袍人们目睹带头人转化成怪物的一幕，产生了截然不同的两种反应。",
+      "target": "Đám người áo choàng đen tại hiện trường nghi thức tận mắt chứng kiến cảnh tượng kẻ cầm đầu biến thành quái vật, đã nảy sinh hai loại phản ứng hoàn toàn trái ngược."
+    },
+    {
+      "segment_id": "0040",
+      "source": "更靠近祭坛的几个成员情绪变得更加疯狂，纷纷狂热高喊起来：",
+      "target": "Mấy thành viên đứng gần tế đàn nhất trở nên điên cuồng hơn, nhao nhao cuồng nhiệt hét lớn:"
+    },
+    {
+      "segment_id": "0041",
+      "source": "“伟大的主终于苏醒了！”",
+      "target": "“Chúa Tể vĩ đại cuối cùng đã thức tỉnh!”"
+    },
+    {
+      "segment_id": "0042",
+      "source": "“回归父神怀抱！”",
+      "target": "“Trở về vòng tay của Phụ Thần!”"
+    },
+    {
+      "segment_id": "0043",
+      "source": "“所有的未来都将向我们敞开大门！”",
+      "target": "“Mọi tương lai sẽ rộng mở cánh cửa chào đón chúng ta!”"
+    },
+    {
+      "segment_id": "0044",
+      "source": "几个黑袍人一边声嘶力竭地叫喊着，一边狂热跪拜着那只刚刚完成转化的丑陋畸变体。",
+      "target": "Mấy kẻ áo choàng đen vừa khản giọng gào thét, vừa cuồng nhiệt quỳ lạy thể dị biến xấu xí vừa mới hoàn thành chuyển hóa kia."
+    },
+    {
+      "segment_id": "0045",
+      "source": "甚至还有彻底疯狂的，主动冲进了畸变体的“怀抱”。",
+      "target": "Thậm chí còn có kẻ hoàn toàn điên loạn, chủ động lao vào “vòng ôm” của thể dị biến."
+    },
+    {
+      "segment_id": "0046",
+      "source": "一阵让人毛骨悚然的骨骼混合着血肉被压碎、咀嚼的声音响起，新鲜的人体被融入其中，畸变怪的身躯变得更加庞大，更多的触手源源不断地从它体内长出，不断向四周挥舞，尝到甜头让它开始兴奋地寻找着新的原料。",
+      "target": "Một tiếng xương cốt lẫn lộn máu thịt bị nghiền nát, nhai nuốt vang lên đầy rợn người, cơ thể người tươi sống bị hòa nhập vào trong đó, thân hình của quái vật dị biến trở nên to lớn hơn, vô số xúc tu liên tục mọc ra từ cơ thể nó, không ngừng quất loạn bốn phía. Việc nếm trải ngon ngọt khiến nó bắt đầu hưng phấn tìm kiếm thêm “nguyên liệu” mới."
+    },
+    {
+      "segment_id": "0047",
+      "source": "至于那些比较外围的黑袍人则是一片鬼哭狼嚎，吓得瑟瑟发抖，个别胆小的甚至能从黑袍上看到可疑的水渍。",
+      "target": "Còn đám người áo choàng đen đứng ở vòng ngoài thì gào khóc thảm thiết, sợ hãi run rẩy bần bật, vài kẻ nhát gan thậm chí còn lộ ra vệt nước khả nghi trên vạt áo choàng."
+    },
+    {
+      "segment_id": "0048",
+      "source": "这场面简直包含了一切反派邪神该有的要素。",
+      "target": "Cảnh tượng này quả thực chứa đầy đủ mọi yếu tố của một tà thần phản diện."
+    },
+    {
+      "segment_id": "0049",
+      "source": "那些争着抢着要变成怪物的，连自己的命都愿意献祭给神，明显是已经没救了的狂热癫佬；",
+      "target": "Những kẻ tranh giành đòi biến thành quái vật, đến cả mạng sống của mình cũng sẵn sàng dâng hiến cho thần, rõ ràng là đám cuồng tín hết thuốc chữa;"
+    },
+    {
+      "segment_id": "0050",
+      "source": "那些快被吓破胆的，则大概率是一群不知情的倒霉蛋，被骗过来准备连带着一同献祭给诺文。",
+      "target": "Còn những kẻ sắp bị dọa cho vỡ mật kia, phần lớn là một lũ xui xẻo không biết sự tình, bị lừa gạt tới đây để chuẩn bị đem hiến tế luôn cho Norven."
+    },
+    {
+      "segment_id": "0051",
+      "source": "诺文的传教事业迎来了标准的天崩开局！",
+      "target": "Sự nghiệp truyền giáo của Norven đã đón nhận một khởi đầu nát bét kinh điển!"
+    },
+    {
+      "segment_id": "0052",
+      "source": "……",
+      "target": "..."
+    },
+    {
+      "segment_id": "0053",
+      "source": "18:00准时投放更新，改状态前每天1更，改状态后公众章节期间每天2更，上架入V会开始稳定爆更。",
+      "target": "Cập nhật đúng giờ vào lúc 18:00. Trước khi đổi trạng thái, mỗi ngày cập nhật 1 chương. Sau khi đổi trạng thái, trong thời gian chương công cộng, mỗi ngày 2 chương. Sau khi vào VIP sẽ bắt đầu bạo chương ổn định."
+    }
+  ]
+}
+```

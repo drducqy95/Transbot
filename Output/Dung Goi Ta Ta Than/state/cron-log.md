@@ -195,3 +195,4 @@ Audit: pass
 - 2026-06-12 14:57 | Chapter 58 | completed | Chương 0058 - Chương 58 Cấp độ huyền thoại.md
 - 2026-06-12 15:25 | Chapter 59 | completed | Chương 0059 - Chương 59 Nữ thần Ma pháp, chó cũng không thèm tin.md
 - 2026-06-12 15:54 | Chapter 1 | completed | Chương 0001 - Chương 1 Xuyên không thành tà thần thì phải làm sao.md
+- 2026-06-12 16:23 | Chapter 2 | completed | Chương 0002 - Chương 2 Khởi đầu nát bét.md

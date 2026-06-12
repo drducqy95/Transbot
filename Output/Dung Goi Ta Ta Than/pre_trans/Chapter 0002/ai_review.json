@@ -1,0 +1,18 @@
+```json
+{
+  "approved": [
+    {
+      "term": "哈达之饥渴",
+      "translation": "Cơn Đói Khát của Hada",
+      "note": "Matches the glossary entry '【Cơn Đói Khát của Hada】', which represents the level 3 magic/spell associated with Hada."
+    }
+  ],
+  "rejected": [
+    {
+      "term": "的强力魔法。",
+      "note": "This is a grammatical fragment ('...of/is a powerful magic.') containing a trailing Chinese full stop (。). It is not a standalone term."
+    }
+  ],
+  "uncertain": []
+}
+```
