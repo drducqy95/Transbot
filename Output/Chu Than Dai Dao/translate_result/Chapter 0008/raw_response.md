@@ -1,0 +1,98 @@
+```json
+{
+  "chapter_number": 8,
+  "chapter_title_vi": "Chương 8: Tin vui lan truyền, chúc mừng Trò Chơi Vô Hạn chính thức mở server!",
+  "segments": [
+    {
+      "segment_id": "0001",
+      "source": "# 第8章 喜大普奔，恭喜无限游戏正式开服！",
+      "target": "# Chương 8: Tin vui lan truyền, chúc mừng Trò Chơi Vô Hạn chính thức mở server!"
+    },
+    {
+      "segment_id": "0002",
+      "source": "不知从什么时候开始，在华国大地大大小小的私人或个体的电脑中，每当有人游览网页时，总是会跳出一垃圾页面“万众瞩目的无限游戏即将公测，现在领取激活码，还有神秘礼包一份哦，还在等什么，赶紧过来游戏吧”",
+      "target": "Không biết từ lúc nào, trên những chiếc máy tính cá nhân lớn nhỏ khắp đất Hoa Quốc, mỗi khi có người lướt web, luôn xuất hiện một trang rác nhảy ra: \"Trò Chơi Vô Hạn được vạn người chú ý sắp open beta, nhận ngay mã kích hoạt để nhận một phần quà bí ẩn, còn chần chờ gì nữa, mau đến chơi game thôi!\""
+    },
+    {
+      "segment_id": "0003",
+      "source": "“这是哪来的垃圾游戏，天天往外蹦，让我打一盘英雄联盟的激情都没有了，这网监也不管管，也太让人火大了吧。”姬诚熟练将那个网页给关了，心中暗骂道。这个网页不知到是怎么回事，无论用什么办法都没有办法拦截下来，姬诚因为这个网页连电脑系统都重做了好几遍，可还是不管用，打开网页时它还是冒出来。姬诚询问了他几个要好的朋友，发现他们的电脑虽然也冒出这样的网页，但并不频繁，一天也就两三次而已，哪像他这样一天冒出上百次，恨的姬诚恨不得把电脑给砸了。",
+      "target": "\"Game rác ở đâu ra vậy, ngày nào cũng nhảy ra, làm mình chẳng còn chút hứng thú đánh một ván Liên Minh Huyền Thoại nào cả. Bọn an ninh mạng cũng chẳng thèm quản lý, thật khiến người ta tức điên lên được.\" Cơ Thành thành thạo tắt trang web đó đi, trong lòng thầm mắng. Không biết trang web này bị làm sao, dùng đủ mọi cách đều không thể chặn được, Cơ Thành vì trang web này mà cài lại hệ điều hành máy tính mấy lần rồi, thế nhưng vẫn vô dụng, cứ mở trình duyệt lên là nó lại hiện ra. Cơ Thành hỏi mấy người bạn thân thì phát hiện máy tính của họ mặc dù cũng nhảy ra trang web này, nhưng không thường xuyên, một ngày nhiều lắm cũng chỉ hai ba lần, đâu như cậu một ngày xuất hiện cả trăm lần, khiến Cơ Thành hận không thể đập nát cái máy tính."
+    },
+    {
+      "segment_id": "0004",
+      "source": "“哈哈，姬诚又在和你那破电脑较劲啊。”QQ信息亮起，显示出他好友王康的信息。“是啊，就这一会儿，我就关了三遍那破网页的。”“来来来，趁这会儿有空，我们几个再来撸上几把呗。”“好主意，我这就开房间。”“同上同上。。”看到王康的信息，几个要好的纷纷冒头，就准备开片了。“你们先进去，等我把那几个垃圾网页给关了就来找你们。”姬诚刚飞快的打完信息，就看见一个又一个页面不停刷新出来。",
+      "target": "\"Haha, Cơ Thành lại đang vật lộn với cái máy tính cùi bắp của cậu à.\" Tin nhắn QQ sáng lên, hiển thị tin nhắn của Vương Khang, một người bạn tốt của cậu. \"Đúng vậy, mới nãy thôi mà tớ đã phải tắt trang web rác đó ba lần rồi.\" \"Nào nào nào, nhân lúc rảnh rỗi này, mấy đứa mình lại làm vài ván đi.\" \"Ý hay đấy, tớ đi tạo phòng ngay đây.\" \"Cộng một cộng một...\" Thấy tin nhắn của Vương Khang, mấy người bạn thân cũng lần lượt ngoi lên, chuẩn bị vào trận. \"Các cậu vào trước đi, đợi tớ tắt mấy trang web rác này rồi sẽ vào tìm các cậu.\" Cơ Thành vừa gõ phím thoăn thoắt trả lời xong thì đã thấy từng trang web một không ngừng load ra."
+    },
+    {
+      "segment_id": "0005",
+      "source": "“到底有完没完，还让不让人过了？”姬诚看着占满整个电脑屏的网页，不由的哀嚎起来，心中一发狠，就点进那网页之中，“我到要看看你能耍什么花样，大不了我再做系统罢了。”姬诚早已做好，刚一进网页，系统就崩溃的准备。可真正进去了却什么都没有发生，只见网页中出现了一组数字，还有一段文字“请玩家妥善的保存好您的激活码，本游戏与今晚凌晨正式开服，请玩家注意时间。”“开什么玩笑？晚上凌晨开服？有人进去那才有鬼吧。”姬诚嘲笑一声就将那网页给关了，鬼使神差的却将那组激活码给记了下来。说来也怪，当姬诚真的点进网页并退出后，那个网页就再也没有刷新出来，好像之前的一切都只是他的幻觉。",
+      "target": "\"Rốt cuộc là có xong chưa, có để cho người ta yên không hả?\" Cơ Thành nhìn mấy trang web chiếm trọn màn hình máy tính mà không khỏi kêu rên. Cậu nhẫn tâm nhấp thẳng vào trang web đó, \"Để xem mày còn giở trò gì được nữa, cùng lắm là tao lại cài win thôi.\" Cơ Thành đã chuẩn bị sẵn tâm lý, vừa vào trang web là hệ thống sẽ sập luôn. Nhưng lúc thật sự nhấn vào thì chẳng có chuyện gì xảy ra cả, chỉ thấy trên màn hình hiện ra một dãy số và một dòng chữ: \"Người chơi vui lòng lưu giữ cẩn thận mã kích hoạt của bạn. Trò chơi này sẽ chính thức mở server vào lúc rạng sáng đêm nay, người chơi chú ý thời gian.\" \"Đùa gì vậy? Mở server lúc rạng sáng? Có quỷ mới thèm chơi.\" Cơ Thành cười nhạo một tiếng rồi tắt luôn trang web đó, nhưng ma xui quỷ khiến thế nào mà cậu lại ghi nhớ dãy mã kích hoạt kia. Nói ra cũng lạ, sau khi Cơ Thành thật sự nhấn vào trang web rồi thoát ra, trang web đó không bao giờ nhảy ra nữa, cứ như mọi chuyện trước đó chỉ là ảo giác của cậu vậy."
+    },
+    {
+      "segment_id": "0006",
+      "source": "“喂，姬诚，好了没有，就差你一个了，你还来不来？”王康的QQ信息闪个不停，把姬诚惊起。“来了来了，催什么催。”一转眼姬诚就将刚才的感觉甩出脑外，现在天大地大，撸一把最大。。。。。",
+      "target": "\"Này, Cơ Thành, xong chưa thế, thiếu mỗi cậu thôi, có chơi nữa không?\" Tin nhắn QQ của Vương Khang nhấp nháy liên tục làm Cơ Thành sực tỉnh. \"Đến đây đến đây, giục cái gì mà giục.\" Trong nháy mắt, Cơ Thành đã ném ngay cái cảm giác vừa rồi ra sau đầu, bây giờ trời đất bao la, làm một ván Liên Minh là lớn nhất....."
+    },
+    {
+      "segment_id": "0007",
+      "source": "晚上12点，姬诚还在电脑桌上奋斗着，至于那无限游戏？早就不知道被他忘哪里去了。当时针指向12点时，整个电脑突然黑屏，“靠，怎么回事，难道电脑现在坏了？”姬诚吃了一惊，还不待他发话，就觉整个人被吸进的电脑之中，耳边传来电子机械的声音“无限游戏现在正式开服，祝玩家玩得愉快，谢谢。”刚听完整个人便昏了过去。。。",
+      "target": "12 giờ đêm, Cơ Thành vẫn đang miệt mài chiến đấu trên bàn máy tính, còn về cái Trò Chơi Vô Hạn kia ư? Cậu đã quên béng nó từ đời nào rồi. Khi kim đồng hồ chỉ đúng 12 giờ, toàn bộ máy tính đột nhiên đen thui. \"Đệt, chuyện gì vậy, chẳng lẽ máy tính bị hỏng rồi?\" Cơ Thành giật mình, chưa kịp để cậu lên tiếng thì cậu đã cảm thấy cả người bị hút vào trong máy tính. Bên tai truyền đến âm thanh điện tử máy móc: \"Trò Chơi Vô Hạn hiện đã chính thức mở server, chúc người chơi chơi game vui vẻ, xin cảm ơn.\" Vừa nghe xong cả người cậu liền ngất lịm đi..."
+    },
+    {
+      "segment_id": "0008",
+      "source": "当姬诚再次清醒时，顿时被眼前的景象惊呆了，只见在一个广阔，浩渺，浩瀚的宇宙之中端坐着一个位其大不可思议的神祗，那位神祗手中拿着一卷图卷，图卷中无数的星辰在里面生生灭灭，再仔细一看那些星辰分明是一个又一个的世界！姬诚彻底被震撼了，他没想到自己竟能看到这种在神话中都看不到的场景。“这位究竟是谁，怎么会有如此的伟力？”没等到姬诚发问，只见那神祗手中图卷微微一震，姬诚整个人便投入到了图卷之中。“不会吧，又来？”说完姬诚又昏了过去。。",
+      "target": "Khi Cơ Thành tỉnh lại lần nữa, cậu lập tức bị cảnh tượng trước mắt làm cho chết sững. Cậu nhìn thấy trong một vũ trụ rộng lớn, mênh mông, bát ngát có một vị thần linh to lớn đến mức không thể tưởng tượng nổi đang ngồi. Trên tay vị thần linh đó đang cầm một bức họa quyển, trong họa quyển, vô số vì sao đang không ngừng sinh ra rồi lụi tàn. Nhìn kỹ lại, những vì sao đó rõ ràng là hết thế giới này đến thế giới khác! Cơ Thành hoàn toàn bị chấn động, cậu không ngờ mình lại có thể nhìn thấy cảnh tượng mà ngay cả trong thần thoại cũng không thể thấy được. \"Vị này rốt cuộc là ai, sao lại có sức mạnh vĩ đại như vậy?\" Chưa đợi Cơ Thành đặt câu hỏi, chỉ thấy họa quyển trong tay vị thần linh kia hơi chấn động, cả người Cơ Thành liền bị hút thẳng vào trong đó. \"Không thể nào, lại nữa à?\" Nói xong, Cơ Thành lại ngất đi..."
+    },
+    {
+      "segment_id": "0009",
+      "source": "“我这是在哪里？”模模糊糊的姬诚感觉自己就像躺在一辆马车上，那种不太猛烈的颠簸感，很快让他清醒过来。只见他正躺在一辆小马车中，一个好像小精灵似的生物正静静的浮在他的不远处。那生物看见姬诚醒过来后，连忙飞到他的面前“尊敬的玩家，你好，我是系统24468号，欢迎你参加无限游戏。”",
+      "target": "\"Mình đang ở đâu đây?\" Cơ Thành lơ mơ cảm thấy mình giống như đang nằm trên một cỗ xe ngựa, cảm giác xóc nảy không quá mãnh liệt đó rất nhanh đã khiến cậu tỉnh táo lại. Cậu thấy mình đang nằm trong một cỗ xe ngựa nhỏ, một sinh vật trông như tiểu tinh linh đang lơ lửng im lặng cách cậu không xa. Sinh vật đó thấy Cơ Thành tỉnh dậy, liền vội vã bay đến trước mặt cậu: \"Xin chào người chơi đáng kính, tôi là hệ thống số 24468, chào mừng ngài tham gia Trò Chơi Vô Hạn.\""
+    },
+    {
+      "segment_id": "0010",
+      "source": "“我这是在哪，我还能回去吗？。”姬诚听到小精灵的话，连忙问出他最想知道的问题。他虽然喜欢看穿越类的玄幻小说，可真正让他穿越的话，没有手机，没有电脑，不出三天他就得自尽生亡！“不要着急玩家，我在此的目的就是解决你心中的疑问。首先你现在身在创造主神所开辟的无限世界当中的一个世界里。其次就是，你随时都能回去，只要你在心中默念“回归”，就会接到提醒的。”小精灵犹如吟唱般，将这些话说了出来。",
+      "target": "\"Tôi đang ở đâu đây, tôi còn có thể về được không?\" Cơ Thành nghe thấy lời của tiểu tinh linh, vội vàng hỏi ra vấn đề mà cậu muốn biết nhất. Tuy rằng cậu thích đọc tiểu thuyết huyền huyễn thể loại xuyên không, nhưng nếu thực sự để cậu xuyên không, không có điện thoại, không có máy tính, không quá ba ngày cậu sẽ tự tử mà chết! \"Người chơi đừng vội, mục đích tôi ở đây chính là để giải đáp những thắc mắc trong lòng ngài. Trước tiên, ngài hiện đang ở trong một thế giới thuộc Thế Giới Vô Hạn do Sáng Tạo Chủ Thần khai phá. Thứ hai là, ngài có thể trở về bất cứ lúc nào, chỉ cần ngài nhẩm trong lòng hai chữ 'Trở về', là sẽ nhận được lời nhắc.\" Tiểu tinh linh nói ra những lời này với giọng điệu cứ như đang ngâm xướng."
+    },
+    {
+      "segment_id": "0011",
+      "source": "听了小精灵的话，姬诚的心里莫名的安定下来，他在心中默念“回归”，刚念完，只听耳边传来机型感的电子声，“尊敬的玩家，你是否现在退出无限游戏？如果你退出，你将于24小时内禁止进入此游戏，是或否？”",
+      "target": "Nghe tiểu tinh linh nói vậy, trong lòng Cơ Thành bỗng nhiên bình tĩnh lại một cách khó hiểu. Cậu thầm niệm \"Trở về\" trong lòng, vừa mới niệm xong, chỉ nghe bên tai vang lên âm thanh điện tử máy móc: \"Người chơi đáng kính, ngài có muốn thoát khỏi Trò Chơi Vô Hạn ngay bây giờ không? Nếu thoát ra, ngài sẽ bị cấm tham gia trò chơi này trong vòng 24 giờ tới, Có hoặc Không?\""
+    },
+    {
+      "segment_id": "0012",
+      "source": "“否。”姬诚毫不犹豫点在了否上。经过qingdian十几年如一日的熏陶，姬诚又怎么想不到这是他一生中最大的机遇呢。“无限空间？梦魇都市？恶魔岛？还是其他的主神世界？”姬诚口中喃喃自语，只有他自己能听见。",
+      "target": "\"Không.\" Cơ Thành không chút do dự chọn chữ Không. Trải qua hơn mười năm đắm chìm trên QiDian, Cơ Thành làm sao lại không nhận ra đây chính là cơ hội lớn nhất trong đời cậu chứ. \"Không Gian Vô Hạn? Thành Phố Ác Mộng? Đảo Ác Ma? Hay là thế giới Chủ Thần nào khác?\" Cơ Thành lẩm bẩm tự nhủ, giọng chỉ đủ để bản thân nghe thấy."
+    },
+    {
+      "segment_id": "0013",
+      "source": "小精灵的声音继续响起“这个游戏是由三大至高神合力制造而出，里面有着无尽的机遇，只要玩家努力那就有无限的可能。”“那怎么才能获得这些机遇呢？”姬诚问道。“参与到这个世界中，努力的融入进去，只要努力，玩家你就能获得至高神所赠与的神币，而神币则是能购买无限奇物的唯一货币。”“无限奇物？那是什么。”“那是一张榜单，榜单上的物品就是无限奇物。每天凌晨至高神都会将榜单刷新，所以玩家你要努力哦，可别好不容易凑够了神币，却因为刷新而错过咯。”“怎么样才能看到那张榜单？”姬诚又问道。“很容易，只要心中默念“奇物榜”就可以了。”",
+      "target": "Giọng nói của tiểu tinh linh tiếp tục vang lên: \"Trò chơi này do ba vị Chí Cao Thần hợp sức tạo ra, bên trong chứa đựng vô số cơ duyên, chỉ cần người chơi nỗ lực thì sẽ có những khả năng vô hạn.\" \"Vậy làm thế nào mới có thể giành được những cơ duyên này?\" Cơ Thành hỏi. \"Hãy tham gia vào thế giới này, nỗ lực hòa nhập vào đó. Chỉ cần nỗ lực, người chơi sẽ nhận được Thần Tệ do Chí Cao Thần ban tặng, mà Thần Tệ chính là loại tiền tệ duy nhất có thể dùng để mua Kỳ Vật Vô Hạn.\" \"Kỳ Vật Vô Hạn? Đó là gì?\" \"Đó là một bảng danh sách, những vật phẩm trên bảng danh sách chính là Kỳ Vật Vô Hạn. Mỗi ngày vào rạng sáng, Chí Cao Thần sẽ làm mới lại bảng danh sách này, vậy nên người chơi ngài phải cố gắng lên nhé, đừng để khó khăn lắm mới gom đủ Thần Tệ, nhưng lại bỏ lỡ chỉ vì bảng danh sách đã làm mới.\" \"Làm thế nào mới có thể nhìn thấy bảng danh sách đó?\" Cơ Thành lại hỏi. \"Rất dễ, chỉ cần ngài nhẩm trong lòng ba chữ 'Kỳ Vật Bảng' là được.\""
+    },
+    {
+      "segment_id": "0014",
+      "source": "“奇物榜。”姬诚在心中默念了一句。顿时一张榜单出现在他的面前，姬诚只瞟了一眼，就移不开眼神了。只见榜单的第一位就是。。蓬莱药，服之长生不老，不死不灭！出自《东方幻想乡》世界十二级奇物，价值一百万神币，可带入现实！“我靠，这东西都能出现，那也太犯规了吧。”姬诚看到这件奇物，忍不住内心的震撼，爆了一句粗口。姬诚可以肯定，如果现实中的那些亿万富翁知道有这东西的话，那就是倾家荡产，都要把它得到手！长生不老，不死不灭！那是铭刻在人类基因深处，最原始的欲，望！现在就在眼前，谁能镇定的下来？？可惜那刺眼的一百万神币，深深地将他阻拦，想想都知道神币获得的难道那一定是极高的，想要凑出一百万，那就真的只能靠做梦了。",
+      "target": "\"Kỳ Vật Bảng.\" Cơ Thành nhẩm đọc trong lòng. Ngay lập tức, một tấm bảng danh sách xuất hiện trước mặt cậu, Cơ Thành chỉ lướt nhìn một cái đã không thể rời mắt được nữa. Cậu nhìn thấy vật phẩm đứng đầu tiên trên bảng danh sách chính là... Thuốc Bồng Lai, uống vào trường sinh bất lão, bất tử bất diệt! Xuất phát từ thế giới \"Đông Phương Huyễn Tưởng Hương\" (Touhou Project), Kỳ Vật cấp 12, giá trị một triệu Thần Tệ, có thể mang ra hiện thực! \"Đệt, thứ này mà cũng xuất hiện được, đúng là ăn gian quá mức rồi đấy.\" Cơ Thành nhìn thấy kỳ vật này, không kiềm chế được sự chấn động trong lòng bèn chửi thề một câu. Cơ Thành có thể khẳng định, nếu những tên tỷ phú trong hiện thực biết có thứ này tồn tại, cho dù khuynh gia bại sản bọn họ cũng phải lấy cho bằng được! Trường sinh bất lão, bất tử bất diệt! Đó là dục vọng nguyên thủy nhất, đã khắc sâu vào tận trong chuỗi gen của loài người! Bây giờ nó đang ở ngay trước mắt, có ai mà bình tĩnh cho nổi chứ?? Đáng tiếc, con số một triệu Thần Tệ chói mắt kia đã chặn đứng cậu lại một cách phũ phàng, nghĩ thôi cũng biết độ khó để kiếm Thần Tệ chắc chắn cực cao, muốn gom đủ một triệu thì e là chỉ có nằm mơ mới được."
+    },
+    {
+      "segment_id": "0015",
+      "source": "姬诚撇了撇嘴，将目光移到别处，宇宙魔方，雷神之锤，地元灵丹，赤帝血，二向箔，退缩炮等等，都是只要出现在现实，就会引发世界大战的十级以上的奇物！",
+      "target": "Cơ Thành bĩu môi, dời mắt sang chỗ khác: Khối Tesseract, Búa Thor, Địa Nguyên Linh Đan, Xích Đế Huyết, Nhị Hướng Bạc, Pháo Thoái Súc... tất cả đều là những Kỳ Vật từ cấp 10 trở lên, chỉ cần xuất hiện ngoài hiện thực là dư sức khơi mào một cuộc Chiến tranh thế giới!"
+    },
+    {
+      "segment_id": "0016",
+      "source": "“可惜啊，我身上一枚神币都没有。”这时姬诚突然想到什么，他询问道：“我身上还有一道激活码，它有什么用？”“激活码能激活小礼包一份，是否激活？”“确认激活。”听了这话，姬诚顿时激动起来，也不知道会是些什么东西。",
+      "target": "\"Tiếc quá, trên người tôi chẳng có lấy một đồng Thần Tệ nào.\" Lúc này Cơ Thành đột nhiên nhớ ra chuyện gì đó, cậu liền hỏi: \"Tôi còn có một mã kích hoạt, nó dùng để làm gì?\" \"Mã kích hoạt có thể mở một gói quà nhỏ, ngài có muốn kích hoạt không?\" \"Xác nhận kích hoạt.\" Nghe thấy vậy, Cơ Thành lập tức kích động, không biết bên trong sẽ là thứ gì đây."
+    },
+    {
+      "segment_id": "0017",
+      "source": "“尊敬的玩家，你获得小礼包一份，是否打开？”“打开！”“恭喜玩家，你获得“乾元造骨丹”一粒，神币十枚，请玩家继续努力。”乾元造骨丹，服之脱胎换骨，百病全消，出自《仙葫》世界，四级奇物。",
+      "target": "\"Người chơi đáng kính, ngài nhận được một phần quà nhỏ, có muốn mở ra không?\" \"Mở!\" \"Chúc mừng người chơi, ngài nhận được một viên 'Càn Nguyên Tạo Cốt Đan' và mười đồng Thần Tệ. Xin người chơi hãy tiếp tục cố gắng.\" Càn Nguyên Tạo Cốt Đan, uống vào thoát thai hoán cốt, bách bệnh tiêu tán, xuất phát từ thế giới \"Tiên Hồ\", Kỳ Vật cấp 4."
+    },
+    {
+      "segment_id": "0018",
+      "source": "“尊敬的玩家，我的任务已完成，此世界请玩家自行摸索，再见。”话一说完，小精灵就已消失不见。“喂喂，我还有好多问题没有问呢，你怎么这么快就溜了？？？？？？”",
+      "target": "\"Người chơi đáng kính, nhiệm vụ của tôi đã hoàn thành, xin người chơi hãy tự mình khám phá thế giới này. Tạm biệt.\" Vừa dứt lời, tiểu tinh linh đã biến mất tăm. \"Này này, tôi còn bao nhiêu là chuyện chưa hỏi mà, sao cô đã chuồn lẹ thế hả??????\""
+    }
+  ]
+}
+```

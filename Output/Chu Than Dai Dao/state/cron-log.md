@@ -7,3 +7,4 @@
 - 2026-06-12 14:24 | Chapter 5 | completed | Chương 0005 - Chương 5 Mọi thứ đã sẵn sàng, chỉ chờ phong thần.md
 - 2026-06-12 14:42 | Chapter 6 | completed | Chương 0006 - Chương 6 Thần Văn học Deneir.md
 - 2026-06-12 14:59 | Chapter 7 | completed | Chương 0007 - Chương 7 Phong thần! Phong thần!.md
+- 2026-06-12 15:13 | Chapter 8 | completed | Chương 0008 - Chương 8 Tin vui lan truyền, chúc mừng Trò Chơi Vô Hạn chính thức mở server!.md
