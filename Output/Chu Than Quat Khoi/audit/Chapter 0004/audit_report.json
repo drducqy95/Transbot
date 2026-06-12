@@ -1,0 +1,10 @@
+{
+  "chapter_number": 4,
+  "status": "retry_required",
+  "issues": [
+    {
+      "type": "too_short",
+      "severity": "high"
+    }
+  ]
+}
