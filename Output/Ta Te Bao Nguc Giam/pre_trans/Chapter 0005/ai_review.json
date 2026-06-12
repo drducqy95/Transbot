@@ -1,0 +1,33 @@
+```json
+{
+  "approved": [
+    "个体匹配性",
+    "便携式监狱",
+    "密室",
+    "无面者的头颅",
+    "无面者的监狱",
+    "死尸注射器"
+  ],
+  "rejected": [
+    "……第一个能",
+    "。\n完全密封",
+    "击杀特定生命",
+    "升级后，会增",
+    "只能对死亡时",
+    "可随意取用，",
+    "听闻提示后",
+    "将增加监狱规",
+    "抽取‘细胞精",
+    "相关能力已激",
+    "韩东思索着"
+  ],
+  "uncertain": [
+    "模仿"
+  ]
+}
+```
+
+### Review Notes:
+* **Approved**: These are complete, distinct nouns or proper nouns that are highly suitable for a glossary (e.g., "Portable Prison", "Faceless One's Head", "Corpse Syringe").
+* **Rejected**: Most of these are fragmented sentences, phrases containing punctuation/newlines, or descriptive actions rather than proper terminology (e.g., "……第一个能", "抽取‘细胞精", "韩东思索着").
+* **Uncertain**: "模仿" (Imitation/Mimic) is a very common word, so it might not need to be tracked as a specialized glossary term unless it refers to a specific skill or mechanic in the context of the story.

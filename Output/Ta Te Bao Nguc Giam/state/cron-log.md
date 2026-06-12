@@ -5,3 +5,4 @@
 - 2026-06-12 11:39 | Chapter 2 | completed | Chương 0002 - Chương 2 Sự phát hiện của Hàn Đông.md
 - 2026-06-12 13:31 | Chapter 3 | completed | Chương 0003 - Chương 3 Bắt đầu lại từ đầu.md
 - 2026-06-12 14:05 | Chapter 4 | completed | Chương 0004 - Chương 4 Thanh niên treo cổ.md
+- 2026-06-12 14:35 | Chapter 5 | completed | Chương 0005 - Chương 5 Nhà giam di động.md

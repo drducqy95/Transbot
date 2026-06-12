@@ -33,3 +33,8 @@ Chapter 3 completed via pipeline.
 
 ### Summary
 Chapter 4 completed via pipeline.
+
+## Chapter 0005 - Chương 5: Nhà giam di động
+
+### Summary
+Chapter 5 completed via pipeline.
