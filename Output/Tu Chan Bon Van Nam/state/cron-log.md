@@ -6,3 +6,4 @@
 - 2026-06-12 11:44 | Chapter 2 | completed | Chương 0002 - 0002 光幕仪.md
 - 2026-06-12 13:40 | Chapter 3 | completed | Chương 0003 - Chương 3 Dị mộng.md
 - 2026-06-12 14:13 | Chapter 5 | completed | Chương 0005 - Chương 5 Thi thử đại học.md
+- 2026-06-12 14:41 | Chapter 6 | completed | Chương 0006 - Chương 6 Thời đại Đại Hắc Ám.md
