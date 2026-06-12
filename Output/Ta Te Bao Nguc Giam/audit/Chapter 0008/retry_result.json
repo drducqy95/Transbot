@@ -1,0 +1,8 @@
+I have successfully fixed the `cjk_leftover` issues in the translation for Chapter 8. 
+
+Specifically, I located `chapter_0008.translation_result.json` and replaced the leftover Chinese punctuation characters with standard characters:
+* Changed the CJK brackets `【` and `】` to standard brackets `[` and `]` in segment `0007` and `0062`.
+* Changed the CJK quotes `『` and `』` to standard quotes `"` in segment `0007`, `0008`, and `0064`.
+
+I also ran a quick script to verify that there are no further CJK leftover characters anywhere else in the translation of this chapter. Please let me know if you need any other issues fixed!
+The background search task we started earlier has also finished successfully, confirming that the changes are correctly reflected in `chapter_0008.translation_result.json`. The translation should be completely clean of any CJK leftover punctuation now. Let me know if there's anything else you need!

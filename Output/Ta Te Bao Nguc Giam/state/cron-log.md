@@ -14,3 +14,4 @@
 - 2026-06-12 17:18 | Chapter 6 | completed | Chương 0006 - Chương 6 Quảng trường Tế Điển.md
 - 2026-06-12 18:08 | Chapter 6 | completed | Chương 0006 - 0006 祭典广场.md
 - 2026-06-12 18:38 | Chapter 6 | completed | Chương 0006 - Chương 6 Quảng trường Tế Điển.md
+- 2026-06-12 19:00 | Chapter 8 | completed | Chương 0008 - Chương 8 Đội sáu người.md

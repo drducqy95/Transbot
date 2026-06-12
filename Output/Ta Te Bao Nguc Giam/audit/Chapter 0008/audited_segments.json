@@ -1,7 +1,7 @@
 {
-  "schema_version": "2.0",
-  "chapter_id": "chapter_0008",
-  "segment_translations": [
+  "chapter_number": 8,
+  "chapter_title_vi": "Chương 8: Đội sáu người",
+  "segments": [
     {
       "segment_id": "0001",
       "source": "# 第8章 六人小队",
@@ -35,12 +35,12 @@
     {
       "segment_id": "0007",
       "source": "『事件尚未开启，你们的身份为大学生拍摄团队，请在一小时内与事件主要人物‘王婆’正面接触，一同前往事件发生地【废弃山庄】。",
-      "target": "\"Sự kiện vẫn chưa mở ra, thân phận của các ngươi là đoàn làm phim sinh viên đại học. Hãy tiếp xúc trực diện với nhân vật chính của sự kiện 'Vương bà' trong vòng một giờ, cùng nhau đến nơi xảy ra sự kiện [Sơn trang bỏ hoang]."
+      "target": "『Sự kiện vẫn chưa mở ra, thân phận của các ngươi là đoàn làm phim sinh viên đại học. Hãy tiếp xúc trực diện với nhân vật chính của sự kiện 'Vương bà' trong vòng một giờ, cùng nhau đến nơi xảy ra sự kiện【Sơn trang bỏ hoang】."
     },
     {
       "segment_id": "0008",
       "source": "若在规定时间内未与‘王婆’接触，干扰或是拒绝乘坐前往事件发生地的车辆，个体将遭到强制抹除。』",
-      "target": "Nếu trong thời gian quy định không tiếp xúc với 'Vương bà', gây trở ngại hoặc từ chối lên xe đi đến nơi xảy ra sự kiện, cá thể đó sẽ bị cưỡng chế xóa sổ.\""
+      "target": "Nếu trong thời gian quy định không tiếp xúc với 'Vương bà', gây trở ngại hoặc từ chối lên xe đi đến nơi xảy ra sự kiện, cá thể đó sẽ bị cưỡng chế xóa sổ.』"
     },
     {
       "segment_id": "0009",
@@ -310,7 +310,7 @@
     {
       "segment_id": "0062",
       "source": "【义肢】、【信徒】、【金发妹】、【光头哥】、【报童】",
-      "target": "[Chi giả], [Tín đồ], [Gái tóc vàng], [Anh trọc], [Cậu bé bán báo]"
+      "target": "【Chi giả】, 【Tín đồ】, 【Gái tóc vàng】, 【Anh trọc】, 【Cậu bé bán báo】"
     },
     {
       "segment_id": "0063",
@@ -320,7 +320,7 @@
     {
       "segment_id": "0064",
       "source": "『检测到主体目前置身于特别的空间区域，开启监狱将消耗大量的空间能源……便携式监狱仅会在收容外物时短暂开启，主体无法自主进入便携式监狱。』",
-      "target": "\"Phát hiện chủ thể hiện đang ở trong một khu vực không gian đặc biệt, việc mở nhà giam sẽ tiêu tốn một lượng lớn năng lượng không gian... Nhà giam di động sẽ chỉ mở trong thời gian ngắn khi chứa ngoại vật, chủ thể không thể tự chủ đi vào nhà giam di động.\""
+      "target": "『Phát hiện chủ thể hiện đang ở trong một khu vực không gian đặc biệt, việc mở nhà giam sẽ tiêu tốn một lượng lớn năng lượng không gian... Nhà giam di động sẽ chỉ mở trong thời gian ngắn khi chứa ngoại vật, chủ thể không thể tự chủ đi vào nhà giam di động.』"
     },
     {
       "segment_id": "0065",

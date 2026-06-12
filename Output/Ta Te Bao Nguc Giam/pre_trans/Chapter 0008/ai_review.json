@@ -1,0 +1,29 @@
+```json
+{
+  "approved": [
+    "义肢",
+    "信徒",
+    "光头哥",
+    "废弃山庄",
+    "报童",
+    "无面者的头颅",
+    "金发妹"
+  ],
+  "rejected": [
+    "“果然没这",
+    "。\n若在规定",
+    "一小时的准",
+    "事件尚未开启",
+    "另外，一道",
+    "检测到主体目",
+    "的信息打消掉"
+  ],
+  "uncertain": []
+}
+```
+
+### Explanation of Categorization:
+
+*   **Approved**: These are clear nouns, proper nouns, locations, items, or character nicknames that make sense to add to a translation glossary to ensure consistency (e.g., "义肢" - Prosthesis, "废弃山庄" - Abandoned Villa, "光头哥" - Bald Guy).
+*   **Rejected**: These are incomplete fragments of sentences (e.g., "“果然没这", "一小时的准", "检测到主体目"), punctuation errors ("。\n若在规定"), or full UI strings/sentences ("事件尚未开启") that shouldn't be constrained by a single glossary term entry. 
+*   **Uncertain**: None of the provided terms fell into a gray area; they were either clearly glossary-worthy terms or clearly fragmented/non-term strings.
