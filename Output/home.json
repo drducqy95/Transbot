@@ -459,9 +459,9 @@
       "status": "in_progress",
       "status_label": "Đang ra",
       "ongoing": true,
-      "completed_chapters": 7,
+      "completed_chapters": 9,
       "total_chapters": 3339,
-      "latest_chapter": "Chương 7: Nữ thần Nhị Trung",
+      "latest_chapter": "Chương 8: Sửa chữa tinh não",
       "genre": "eastern_fiction",
       "sub_genre": "sci_fi",
       "style_tags": [
@@ -516,7 +516,7 @@
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Tu Chan Bon Van Nam/README.md",
       "toc_path": "Output/Tu Chan Bon Van Nam/toc.json",
-      "updated_at": "2026-06-12T15:00:11.322740+07:00"
+      "updated_at": "2026-06-12T15:13:55+07:00"
     },
     {
       "branch": "Hong Hoang Lich_Zhttty",
@@ -971,7 +971,7 @@
     }
   ],
   "metadata": {
-    "generated_at": "2026-06-12T15:13:23+07:00",
+    "generated_at": "2026-06-12T15:13:55+07:00",
     "total_books": 17,
     "source": "Dichtrung/Output"
   },

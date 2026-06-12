@@ -1,0 +1,313 @@
+# Translation Context Pack
+
+## Project
+- Branch: Tu Chan Bon Van Nam
+- Title: 
+- Author: 
+- Genre: /
+- Language: zh → vi
+
+## Translation Rules
+### Translation Goal
+Dịch truyện Trung sang tiếng Việt tự nhiên, dễ đọc, đúng nghĩa, đúng mạch truyện, đúng văn cảnh, đúng xưng hô, đúng tên riêng và thuật ngữ.
+Style: văn xuôi tiếng Việt mượt, rõ nghĩa, không máy móc
+Priorities:
+  • đúng nghĩa và đúng văn cảnh
+  • đúng tên riêng
+  • đúng thuật ngữ theo loại và bối cảnh
+  • đúng xưng hô và quan hệ nhân vật
+  • giữ ổn định thuật ngữ/tên riêng/xưng hô đã khóa
+  • tự nhiên trong tiếng Việt
+  • giữ nhịp văn, cảm xúc và giọng kể gốc
+Anti-goals:
+  • không dịch từng chữ máy móc
+  • không Hán Việt hóa tên Nhật, Hàn, phương Tây, fandom, thương hiệu, kỹ thuật
+  • không áp VietPhrase/LuatNhan lên tên riêng đã khóa
+  • không đổi thuật ngữ đã khóa nếu văn cảnh giống nhau
+  • không dùng một bản dịch cứng cho từ đa nghĩa khi văn cảnh khác nhau
+  • không làm lộ thông tin ngoài POV nếu bản gốc chưa tiết lộ
+
+### Output Rules
+  • keep paragraph structure
+  • keep dialogue structure
+  • do not merge paragraphs
+  • do not split paragraphs unnecessarily
+  • preserve punctuation when reasonable
+  • convert chinese quotes to vietnamese
+  • remove unnecessary explanation
+  • output only translation
+  • do not add notes inside translation
+  • mark uncertain items for audit only
+
+### Tone Guidelines
+  • narration: tự nhiên, rõ ràng, có chất truyện
+  • dialogue: phù hợp thân phận, quan hệ, tuổi tác, quyền lực và bối cảnh
+  • ancient_setting: cổ phong vừa phải, không lạm dụng Hán Việt khó hiểu
+  • modern_setting: hiện đại, đời thường, không cổ hóa lời thoại
+  • game_system: rõ ràng, gọn, quen thuộc với văn phong game/system
+  • comedy: giữ nhịp hài nếu có
+  • serious: giữ sắc thái căng thẳng, trang trọng nếu có
+
+### Term Normalization
+Purpose: Chuẩn hóa thuật ngữ theo văn cảnh truyện, bao gồm chiêu thức, nghề nghiệp, chức vị, cảnh giới, kỹ năng, vật phẩm, danh hiệu, tổ chức, hệ thống, khái niệm thế giới quan và cụm cố định lặp lại.
+Core principles:
+  • context first
+  • not word by word
+  • same source can have different translation if context differs
+  • same source same context must be consistent
+  • same term type should keep style consistent
+  • locked translation only applies to matching context
+  • source plus type plus context equals translation
+Decision rules:
+  • Không dịch thuật ngữ chỉ theo mặt chữ.
+  • Một source có thể có nhiều bản dịch nếu văn cảnh khác nhau.
+  • Một bản dịch đã khóa chỉ áp dụng cho đúng loại văn cảnh đã khóa.
+  • Tên chiêu thức, cảnh giới, pháp bảo quan trọng nên dùng dạng Hán Việt chuẩn, viết hoa nếu là danh từ riêng.
+  • Vật phẩm phổ thông không cần Hán Việt hóa quá mức.
+  • Nghề nghiệp phải xét bối cảnh.
+  • Chức vị phải xét hệ thống xã hội.
+  • Nếu cùng source và cùng văn cảnh, phải giữ nhất quán.
+  • Nếu không chắc văn cảnh, đánh dấu audit.
+
+### Engine Rules
+  • use context pack
+  • use previous chapter summary
+  • use character profile
+  • use story timeline
+  • use glossary
+  • use name scan
+  • use segment context
+  • avoid over literal translation
+  • avoid over smoothing that changes meaning
+
+## Characters
+N/A
+
+## Glossary
+N/A
+
+## Story Timeline (latest)
+
+## Chapter 0001 - Chương 1: Nghĩa địa pháp bảo
+
+### Summary
+Chapter 1 completed via pipeline.
+
+## Chapter 0002 - Chương 2: Quang mạc nghi
+
+### Summary
+Chapter 2 completed via pipeline.
+
+## Chapter 0003 - Chương 3: Dị mộng
+
+### Summary
+Chapter 3 completed via pipeline.
+
+## Chapter 0004 - Chương 4: Yêu Đao Bành Hải
+
+### Summary
+Chapter 4 completed via pipeline.
+
+## Chapter 0001 - Chương 1: Nghĩa địa pháp bảo
+
+### Summary
+Chapter 1 completed via pipeline.
+
+## Chapter 0002 - 0002 光幕仪
+
+### Summary
+Chapter 2 completed via pipeline.
+
+## Chapter 0003 - Chương 3: Dị mộng
+
+### Summary
+Chapter 3 completed via pipeline.
+
+## Chapter 0005 - Chương 5: Thi thử đại học
+
+### Summary
+Chapter 5 completed via pipeline.
+
+## Chapter 0006 - Chương 6: Thời đại Đại Hắc Ám
+
+### Summary
+Chapter 6 completed via pipeline.
+
+## Chapter 0007 - Chương 7: Nữ thần Nhị Trung
+
+### Summary
+Chapter 7 completed via pipeline.
+
+
+## Source Chapter 8 - 0008 维修晶脑
+```json
+[
+  {
+    "segment_id": "0001",
+    "text": "# 第8章 维修晶脑"
+  },
+  {
+    "segment_id": "0002",
+    "text": "“你迟到了55秒。”冰山美女冷冷道。"
+  },
+  {
+    "segment_id": "0003",
+    "text": "“不好意思，这里有些难找，东西带来了吧？”李耀腹诽了几句，伸出脏兮兮的爪子。"
+  },
+  {
+    "segment_id": "0004",
+    "text": "司佳雪柳眉轻皱，评估着李耀的模样，觉得自己似乎做出了一个轻率的选择，犹豫片刻，还是从书包里掏出一台晶脑递过来。"
+  },
+  {
+    "segment_id": "0005",
+    "text": "“就是这台晶脑，开机之后很不稳定，每次运行不超过三分钟就死机了，我跑了好几家维修商店，都说款式太过古老，里面很多元件都停产了，没有办法维修。我听说你是一名资深的晶脑迷，也十分擅长晶脑维修，如果你能修，要什么价尽管开口，钱，不是问题；当然，如果不能修，也请直说，千万不要弄坏里面的元件。”"
+  },
+  {
+    "segment_id": "0006",
+    "text": "“看看再说。”"
+  },
+  {
+    "segment_id": "0007",
+    "text": "晶脑维修是一门博大精深的技术，李耀也不敢打包票，从书包里抽出一副防尘手套戴上，这才郑重其事地接过晶脑。"
+  },
+  {
+    "segment_id": "0008",
+    "text": "入手有些发沉，充满了古典晶脑敦厚扎实的手感，这是一具起码有上百年历史的古董晶脑，采用的还是半机械结构，在球形表面上有一个三角形的按钮。"
+  },
+  {
+    "segment_id": "0009",
+    "text": "李耀轻轻一按，晶脑嗡嗡作响，轻轻震动起来，似乎其中的机械结构正在飞快运作，几秒钟之后，忽然飞出李耀的手掌，悬浮在半空中，上下两个孔洞中射出两道光束，一道凝结成一幅巨大的光幕，一道幻化出了四十九个闪闪发亮的符文，组成一具精巧的虚拟符文键盘。"
+  },
+  {
+    "segment_id": "0010",
+    "text": "“简直是一件艺术品……”李耀的眼神变得无比温柔。"
+  },
+  {
+    "segment_id": "0011",
+    "text": "他辨认出来，这是一百四十多年前“天琴门”研发的管式晶脑“广陵7型”。"
+  },
+  {
+    "segment_id": "0012",
+    "text": "在晶脑发展的历史上，“管式晶脑”只风光了短短几十年就让位于更加先进的“片式晶脑”，而天琴门更是一个只存在了五十多年的小门派，这个门派依靠初代“广陵”晶脑取得成功，却没跟上时代的发展，在片式晶脑大行其道的年代依旧孤注一掷，将所有资源都投入到“广陵7型”的研发上，最终资金链断裂，宣告破产。"
+  },
+  {
+    "segment_id": "0013",
+    "text": "而“广陵7型”，也被称为“管式晶脑最后的辉煌，集大成之作”。"
+  },
+  {
+    "segment_id": "0014",
+    "text": "李耀的双手化作一道微风，在光波符文键盘上轻盈跳动。"
+  },
+  {
+    "segment_id": "0015",
+    "text": "他的手速并不高，但动作行云流水，潇洒舒展，仿佛不是在敲击键盘，而是真的在撩拨一张价值连城的古琴，伴随他的动作，光幕上出现了一行行的符文指令，如暴雨般疯狂落下，而晶脑也随着一个个界面的启动，发出十分微弱，常人无法分辨的异响。"
+  },
+  {
+    "segment_id": "0016",
+    "text": "李耀侧耳倾听，他的眼神十分专注，每一个动作都无比精确。"
+  },
+  {
+    "segment_id": "0017",
+    "text": "管式晶脑毕竟是一百多年前的法宝，相对于目前主流的片式晶脑而言，结构比较简单，两分钟之后，李耀初步得出了结论：“应该是散热片出了问题，导致运行时晶脑内部温度异常提升——现代晶脑的功能越来越强大，需要处理的信息也包含越来越庞大的神念，对于上百年前的老式晶脑而言，负担就太重了，相当于一个一百五十岁的老人，每天都负担上千斤重量，长年累月，关节想要不报废也难。”"
+  },
+  {
+    "segment_id": "0018",
+    "text": "“这台晶脑是一位至亲留给我的遗物，对我有非常重要的纪念意义，只要能修好，我愿意付出任何代价。”司佳雪认真地说。"
+  },
+  {
+    "segment_id": "0019",
+    "text": "李耀想了想，点头道：“散热片报废是一个很常见的晶脑故障，并不算太大的问题，之所以你跑了几家维修商店都无法修理，主要是因为这台晶脑的型号非常罕见，使用的技术又太过落后，里面采用的散热片在百年前都停产了，而现代晶脑使用的散热片又根本不兼容——不过没关系，我的藏品里刚好有几枚非常珍贵的古董散热片，只要多尝试几次，哪怕报废几块，应该可以改出适合这台晶脑的散热片。”"
+  },
+  {
+    "segment_id": "0020",
+    "text": "“不用废话，直接开价！”司佳雪听出他的弦外之音。"
+  },
+  {
+    "segment_id": "0021",
+    "text": "“哎呀，同学之间，急着谈钱多伤感情？反正问题也不大，我拿回去赶一赶时间，估计一个晚上就能完工，至于拆卸费、检测费、维修费、成本费、组装费再加上我的工本费加在一起，给你打个九五折，算九万八千五百元，你走现金还是转账？”"
+  },
+  {
+    "segment_id": "0022",
+    "text": "“嗯？”"
+  },
+  {
+    "segment_id": "0023",
+    "text": "司佳雪眯起眼睛，眼底流露出一丝危险的光芒，杂物间里的气温仿佛一下子低了十度。"
+  },
+  {
+    "segment_id": "0024",
+    "text": "“我有钱，并不代表我愿意让别人把我当肥羊来宰，懂吗？”"
+  },
+  {
+    "segment_id": "0025",
+    "text": "李耀十分艰难地吞了口唾沫，强忍着低气压，辩解道：“没错，比起普通的晶脑维修，这个价格是稍微高了一点点，将近十万块都可以买一台‘计算力’堪比炼气期巅峰修真者的高级晶脑了，不过你这台晶脑有上百年历史，已经算是古董，维修古董当然是另外一个价格嘛！别的不谈，就说我要用在这台晶脑上的几块散热片，都是我花费多年心血，费尽九牛二虎之力才搜集到的珍稀藏品，简直都是无价之宝！所以，相信我，这个价格绝对天公地道！”"
+  },
+  {
+    "segment_id": "0026",
+    "text": "司佳雪一言不发，双眼幽深地盯着他。"
+  },
+  {
+    "segment_id": "0027",
+    "text": "灵根开发度超过70%，带来强大的心灵压力，李耀心中一紧，几乎要崩溃，可是想到自己的“目标”，还是硬着头皮说：“如果司佳雪同学觉得太贵，也没有关系，就当我免费帮你检修一次好了，你可以把这台晶脑寄到外地一些大型维修商店，让他们慢慢寻找对应型号的散热片，我估计用不了三五个月，总能找到一两片库存品吧，这样的话，费用应该能压制在一万块以下。”"
+  },
+  {
+    "segment_id": "0028",
+    "text": "“三五个月……”"
+  },
+  {
+    "segment_id": "0029",
+    "text": "司佳雪轻哼一声，她知道李耀说的是实话，因为几家维修商店的技师也是这么说的，按他们的说法，老式晶脑的维修难度并不高，但合适的配件却很难找，三五个月也只是估计，如果运气不好，等个一年半载都是有可能的。"
+  },
+  {
+    "segment_id": "0030",
+    "text": "想必，这个小无赖也是看出了这一点，所以才把自己当成了“肥羊”！"
+  },
+  {
+    "segment_id": "0031",
+    "text": "算了，自己还要去修炼，没必要和这些普通班的家伙纠缠，司佳雪点了点头，面无表情道：“好，李耀同学，我可以给你十万块，但交易就要有交易的规矩，明天这个时候，我要见到焕然一新的晶脑，而且你要保证持续运行稳定，别隔三差五再出岔子，除了十万块之外，我也不会支付任何后续费用，有问题吗？”"
+  },
+  {
+    "segment_id": "0032",
+    "text": "“绝对没问题，换上合适的散热片之后，至少可以正常使用三年，这三年里你可以继续搜寻同型号的散热片，以后定期更换就行了。”李耀飞快说道，面带微笑。"
+  },
+  {
+    "segment_id": "0033",
+    "text": "“那就好。”司佳雪点了点头，她一秒钟也不愿意和这个小无赖多纠缠，转身离去。"
+  },
+  {
+    "segment_id": "0034",
+    "text": "李耀一屁股坐在杂物箱上，满头冷汗，过了很久，才在黑暗中，如释重负地吹了声口哨。"
+  },
+  {
+    "segment_id": "0035",
+    "text": "成功了！"
+  },
+  {
+    "segment_id": "0036",
+    "text": "有了十万块，他就可以去“地下鬼市”购买非法生产的“山寨强化药剂”，就有机会将灵根开发度，提升一大截！"
+  },
+  {
+    "segment_id": "0037",
+    "text": "山寨强化药剂，含有大量杂质，服用下去有极强的副作用，但是胜在价格便宜量又足，十万块足够买下可以服用三个月的剂量，让他在“百日冲刺”中，有机会洗练灵根，脱胎换骨！"
+  },
+  {
+    "segment_id": "0038",
+    "text": "“想要考上‘九大精英联校’，这是唯一的机会，就算你是‘二中女神’，也只能狠宰你一刀了，真是不好意思！”李耀将“广陵－7型”晶脑塞进书包里，按了按有些胀痛的太阳穴，脸上笑意隐现，大摇大摆，走出杂物间。"
+  }
+]
+```
+
+## Output Format
+CRITICAL INSTRUCTION: You MUST translate the source text EXACTLY paragraph by paragraph, preserving the original order perfectly. DO NOT skip, drop, merge, or reorder any paragraphs. Each paragraph in the source MUST be translated.
+Return ONLY valid JSON matching this schema:
+{
+  "chapter_number": 8,
+  "chapter_title_vi": "Chương 8: <Vietnamese title>",
+  "segments": [
+    {
+      "segment_id": "XXXX",
+      "source": "...",
+      "target": "..."
+    }
+  ]
+}

@@ -48,3 +48,8 @@ Chapter 6 completed via pipeline.
 
 ### Summary
 Chapter 7 completed via pipeline.
+
+## Chapter 0008 - Chương 8: Sửa chữa tinh não
+
+### Summary
+Chapter 8 completed via pipeline.
