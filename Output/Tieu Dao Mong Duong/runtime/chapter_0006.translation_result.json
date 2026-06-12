@@ -1,0 +1,476 @@
+{
+  "schema_version": "2.0",
+  "chapter_id": "chapter_0006",
+  "segment_translations": [
+    {
+      "segment_id": "0001",
+      "source": "# 第6章 遭贼",
+      "target": "# Chương 6: Bị trộm"
+    },
+    {
+      "segment_id": "0002",
+      "source": "“那是什么人？”",
+      "target": "“Hai người đó là ai thế?”"
+    },
+    {
+      "segment_id": "0003",
+      "source": "看着兄妹二人离开的背影，方元一边整理着上品雄黄粉，一边随口问道。",
+      "target": "Nhìn theo bóng lưng hai anh em rời đi, Phương Nguyên vừa thu dọn bột hùng hoàng thượng phẩm, vừa thuận miệng hỏi."
+    },
+    {
+      "segment_id": "0004",
+      "source": "“他们啊……可是县城大户，周家之人，今日你算运气好，遇到了周家二公子出来，否则若单独是他家的刁蛮小姐，那真是……”",
+      "target": "“Họ ấy à... là người của Chu gia, một gia tộc lớn trong huyện thành. Hôm nay cậu coi như may mắn gặp được nhị công tử nhà họ Chu đi cùng, chứ nếu chỉ có vị tiểu thư ngang ngược nhà đó đi một mình thì thật là...”"
+    },
+    {
+      "segment_id": "0005",
+      "source": "掌柜的摇了摇头，显然对此了解颇深。",
+      "target": "Chưởng quỹ lắc đầu, rõ ràng hiểu biết rất rõ về chuyện này."
+    },
+    {
+      "segment_id": "0006",
+      "source": "“要红山参，治病么？周家老爷染疾了？”",
+      "target": "“Cần hồng sơn sâm để trị bệnh sao? Lão gia nhà họ Chu bị bệnh à?”"
+    },
+    {
+      "segment_id": "0007",
+      "source": "“哪有那么简单，周家背靠归灵宗，周家老爷也是一名执事，据说是受了伤！内伤！因此才要诸多草药大补元气，可惜……若你那株红参有着一百年！不……五十年份，说不定就可试试去揭榜文了！”",
+      "target": "“Đâu có đơn giản như thế. Chu gia có Quy Linh Tông chống lưng, Chu lão gia cũng là một chấp sự, nghe nói là bị thương! Nội thương! Vì thế mới cần rất nhiều thảo dược để đại bổ nguyên khí. Tiếc là... nếu gốc hồng sâm của cậu có trăm năm! Không... năm mươi năm tuổi, nói không chừng có thể thử đi gỡ bảng văn rồi!”"
+    },
+    {
+      "segment_id": "0008",
+      "source": "“榜文？”",
+      "target": "“Bảng văn?”"
+    },
+    {
+      "segment_id": "0009",
+      "source": "方元来了兴趣：“掌柜的你给我说说呗。”",
+      "target": "Phương Nguyên nổi lên hứng thú: “Chưởng quỹ, ông kể cho tôi nghe chút đi.”"
+    },
+    {
+      "segment_id": "0010",
+      "source": "“嗨……那有什么？左右不过是周家见老爷子迟迟未愈，发出榜文，招募良医，声明只要能妙手回春，什么条件都可答应……”",
+      "target": "“Haiz... có gì đâu chứ? Chẳng qua là do Chu gia thấy lão gia tử lâu ngày không khỏi nên đã dán bảng văn chiêu mộ lương y, tuyên bố chỉ cần có thể diệu thủ hồi xuân thì điều kiện gì cũng đáp ứng...”"
+    },
+    {
+      "segment_id": "0011",
+      "source": "掌柜的叹息一声，显然对那位周家老爷的未来不甚看好了了。",
+      "target": "Chưởng quỹ thở dài một tiếng, rõ ràng không mấy lạc quan về tương lai của vị Chu lão gia kia."
+    },
+    {
+      "segment_id": "0012",
+      "source": "方元听了，却是下意识地瞥了一眼自己的属性栏，里面的医术明晃晃地杵在那里。",
+      "target": "Phương Nguyên nghe xong lại vô thức liếc nhìn bảng thuộc tính của mình, mục y thuật hiển thị rõ mồn một ở trong đó."
+    },
+    {
+      "segment_id": "0013",
+      "source": "能被这个系统看上并且收录的内容，那都是入了品阶的。",
+      "target": "Những nội dung có thể được hệ thống này nhìn trúng và ghi nhận đều đã đạt đến phẩm giai."
+    },
+    {
+      "segment_id": "0014",
+      "source": "方元虽然掌握了不少技能，但真正被收录的，仍旧只有被问心居士点拨过的医术与种植。",
+      "target": "Phương Nguyên tuy nắm giữ không ít kỹ năng, nhưng thứ thực sự được ghi nhận vẫn chỉ có y thuật và trồng trọt từng được Vấn Tâm cư sĩ chỉ điểm."
+    },
+    {
+      "segment_id": "0015",
+      "source": "因此，比起那些普通医生而言，方元自觉也算得上良医了。",
+      "target": "Bởi vậy, so với những đại phu bình thường, Phương Nguyên tự thấy mình cũng được coi là một lương y."
+    },
+    {
+      "segment_id": "0016",
+      "source": "只是他天性懒散，对那周家小姐的脾性也不怎么喜欢，半点都没有毛遂自荐的心思。",
+      "target": "Chỉ là tính tình hắn vốn lười biếng, lại chẳng mấy ưa tính khí của vị tiểu thư nhà họ Chu kia, nên không mảy may có ý định tự tiến cử."
+    },
+    {
+      "segment_id": "0017",
+      "source": "‘倒是周家也是归灵宗之人，说不定就有着武功秘籍什么的……不过这条路还是有些危险，放弃吧……’",
+      "target": "‘Có điều Chu gia cũng là người của Quy Linh Tông, biết đâu lại có bí tịch võ công gì đó... Nhưng con đường này vẫn hơi nguy hiểm, bỏ đi vậy...’"
+    },
+    {
+      "segment_id": "0018",
+      "source": "那周家兄妹虽然有些无礼，但财大气粗，价钱给得很足，令方元不仅购置了大批雄黄粉，甚至手上还有着余钱。",
+      "target": "Anh em nhà họ Chu tuy có phần vô lễ nhưng giàu nứt đố đổ vách, trả tiền rất hào phóng, giúp Phương Nguyên không chỉ mua được một lượng lớn bột hùng hoàng mà trong tay vẫn còn dư dả."
+    },
+    {
+      "segment_id": "0019",
+      "source": "出了商铺，当即又在街上闲逛，左顾右盼，自得其乐。",
+      "target": "Ra khỏi cửa hàng, hắn lập tức đi dạo trên phố, nhìn đông nhìn tây, tự tìm niềm vui."
+    },
+    {
+      "segment_id": "0020",
+      "source": "‘说起来，这次的事情，应该就是归灵宗底下某个人的自作主张，并且能量也不是很大……’",
+      "target": "‘Nói đi cũng phải nói lại, chuyện lần này chắc là do một kẻ nào đó dưới trướng Quy Linh Tông tự ý hành động, hơn nữa thế lực cũng không lớn lắm...’"
+    },
+    {
+      "segment_id": "0021",
+      "source": "到了正午，方元蹲在街角，一边啃着自己带来的饭团，一边思索着。",
+      "target": "Đến giữa trưa, Phương Nguyên ngồi xổm ở góc đường, vừa ăn nắm cơm tự mang theo vừa suy nghĩ."
+    },
+    {
+      "segment_id": "0022",
+      "source": "这是个好消息，代表着自己暂时不用背井离乡，仓惶逃离了。",
+      "target": "Đây là một tin tốt, nghĩa là hắn tạm thời không cần phải rời bỏ quê hương, hốt hoảng chạy trốn nữa."
+    },
+    {
+      "segment_id": "0023",
+      "source": "对方断了自己的供应，未尝也没有逼迫自己离开的打算，只是如今不识趣，后面会如何，可就当真不好说了。",
+      "target": "Đối phương cắt đứt nguồn cung của hắn, chưa biết chừng cũng có ý định ép hắn phải rời đi, chỉ là hiện giờ hắn lại không \"biết điều\" như thế, về sau thế nào thì thật sự khó nói."
+    },
+    {
+      "segment_id": "0024",
+      "source": "‘或许……应该去找本武功秘籍什么的练练？传说归灵宗有武宗坐镇，武宗是什么？很厉害么？还有武功，不知道系统认不认啊……’",
+      "target": "‘Có lẽ... nên đi tìm cuốn bí tịch võ công gì đó về luyện thử xem? Nghe đồn Quy Linh Tông có Võ Tông tọa trấn, Võ Tông là gì nhỉ? Rất lợi hại sao? Còn cả võ công nữa, không biết hệ thống có công nhận không đây...’"
+    },
+    {
+      "segment_id": "0025",
+      "source": "饭团用的是珍珠玉晶米所做，中间包了酸梅，散发着阵阵食物香气。",
+      "target": "Nắm cơm được làm từ gạo Trân Châu Ngọc Tinh, ở giữa bọc mơ chua, tỏa ra hương thơm ngào ngạt."
+    },
+    {
+      "segment_id": "0026",
+      "source": "在他周围，则是聚集了几个乞丐，目光炯炯，狂咽着口水，显然也是被香味吸引过来的。",
+      "target": "Xung quanh hắn có mấy kẻ ăn xin tụ tập, ánh mắt hau háu, liên tục nuốt nước bọt, rõ ràng cũng bị mùi thơm thu hút tới."
+    },
+    {
+      "segment_id": "0027",
+      "source": "看样子，若不是在人来人往的大街上，恐怕早就要过来直接抢了。",
+      "target": "Nhìn điệu bộ này, nếu không phải đang ở trên đường phố đông đúc người qua kẻ lại, e rằng bọn họ đã sớm xông lên cướp thẳng tay rồi."
+    },
+    {
+      "segment_id": "0028",
+      "source": "“呵呵……小乞丐，你原来在这里？”",
+      "target": "“Hì hì... tiểu ăn mày, hóa ra ngươi ở đây à?”"
+    },
+    {
+      "segment_id": "0029",
+      "source": "就在方元被那些可怜巴巴的眼神盯得受不了，想着是不是施舍几个的时候，一个有些熟悉的声音在旁边响了起来。",
+      "target": "Ngay khi Phương Nguyên bị những ánh mắt tội nghiệp kia nhìn chằm chằm đến mức không chịu nổi, đang phân vân có nên bố thí cho họ vài miếng hay không, thì một giọng nói có phần quen thuộc vang lên bên cạnh."
+    },
+    {
+      "segment_id": "0030",
+      "source": "他抬起头，顿时就看到了那位周家小姐，正趾高气昂地看着他。",
+      "target": "Hắn ngẩng đầu lên, lập tức nhìn thấy vị tiểu thư nhà họ Chu kia đang vênh váo tự đắc nhìn mình."
+    },
+    {
+      "segment_id": "0031",
+      "source": "“小乞丐？我么？”",
+      "target": "“Tiểu ăn mày? Tôi sao?”"
+    },
+    {
+      "segment_id": "0032",
+      "source": "方元有些愕然地指了指自己的鼻子。",
+      "target": "Phương Nguyên hơi ngạc nhiên chỉ vào mũi mình."
+    },
+    {
+      "segment_id": "0033",
+      "source": "“你跟乞丐挤在一堆，不是小乞丐又是什么？”",
+      "target": "“Ngươi ngồi chung một chỗ với đám ăn mày, không phải tiểu ăn mày thì là cái gì?”"
+    },
+    {
+      "segment_id": "0034",
+      "source": "周家小姐笑嘻嘻地道，一边掏出绣着金丝银线的荷包：“怎么样？要不要大小姐打赏你几个小钱，好进饭馆享用一顿？”",
+      "target": "Vị tiểu thư nhà họ Chu cười hi hi nói, đồng thời lôi từ trong người ra chiếc túi tiền thêu chỉ vàng chỉ bạc: “Thế nào? Có muốn đại tiểu thư ta ban cho ngươi vài đồng tiền lẻ để vào quán ăn ngon lành một bữa không?”"
+    },
+    {
+      "segment_id": "0035",
+      "source": "方元顿时无语了，又看了看自己。",
+      "target": "Phương Nguyên lập tức cạn lời, lại nhìn lại bản thân."
+    },
+    {
+      "segment_id": "0036",
+      "source": "没办法，乡下人进城，不都是这幅模样么？",
+      "target": "Chịu thôi, người nhà quê vào thành không phải đều có bộ dạng này sao?"
+    },
+    {
+      "segment_id": "0037",
+      "source": "他翻了翻白眼，干脆不理不睬，直接啃着自己的饭团。",
+      "target": "Hắn đảo mắt xem thường, dứt khoát không thèm để ý tới, tiếp tục gặm nắm cơm của mình."
+    },
+    {
+      "segment_id": "0038",
+      "source": "“呵呵……也就你这种乡下人，才将饭团当宝，本小姐可是刚刚从富贵楼……咦，什么这么香？”",
+      "target": "“Hừm... Chỉ có hạng người quê mùa như ngươi mới coi nắm cơm như bảo bối, bản tiểu thư vừa mới từ Phú Quý Lầu... Ơ, cái gì mà thơm thế?”"
+    },
+    {
+      "segment_id": "0039",
+      "source": "周家大小姐琼鼻动了动，忽然间看向方元手里的饭团。",
+      "target": "Chiếc mũi nhỏ nhắn của vị đại tiểu thư nhà họ Chu khẽ khịt khịt, bỗng nhiên nhìn về phía nắm cơm trong tay Phương Nguyên."
+    },
+    {
+      "segment_id": "0040",
+      "source": "那一粒粒珍珠般的玉晶米，晶莹剔透，宛若水晶一般，与中间的梅子红白相称，完全不像是乡下人的东西。",
+      "target": "Từng hạt gạo Ngọc Tinh tròn trịa như trân châu, trong suốt lấp lánh, tựa như pha lê, phối hợp cùng quả mơ ở giữa đỏ trắng hài hòa, hoàn toàn không giống thứ của một người nhà quê."
+    },
+    {
+      "segment_id": "0041",
+      "source": "当然，最关键的，还是那纯粹的米香。",
+      "target": "Tất nhiên, mấu chốt nhất vẫn là hương gạo tinh khiết kia."
+    },
+    {
+      "segment_id": "0042",
+      "source": "她刚刚就在富贵楼用饭，吃的同样是玉晶米，但这种纯粹的香气，实在……实在是……不能忍了啊……",
+      "target": "Nàng vừa mới dùng bữa ở Phú Quý Lầu, cũng ăn gạo Ngọc Tinh, nhưng hương thơm thuần khiết này thực sự... thực sự là... không thể nhịn nổi mà..."
+    },
+    {
+      "segment_id": "0043",
+      "source": "周家大小姐无限怨念地发现，自己刚刚吃过的肚子又咕咕叫了起来。",
+      "target": "Vị đại tiểu thư nhà họ Chu vô cùng oán hận phát hiện ra cái bụng vừa mới ăn no của mình lại bắt đầu kêu réo lên."
+    },
+    {
+      "segment_id": "0044",
+      "source": "不，这并非单纯的肚子饿，而是吸引！美食的吸引！",
+      "target": "Không, đây không đơn giản là đói bụng, mà là sự cám dỗ! Sự cám dỗ của mỹ thực!"
+    },
+    {
+      "segment_id": "0045",
+      "source": "她喉咙滚动，感觉方元正在吃着的饭团仿佛变成了一个黑洞，吸引着她的目光，怎么也摆脱不了。",
+      "target": "Cổ họng nàng nuốt ực một cái, cảm thấy nắm cơm Phương Nguyên đang ăn tựa như biến thành một hố đen vũ trụ, thu hút trọn vẹn ánh mắt của nàng, làm sao cũng không dứt ra được."
+    },
+    {
+      "segment_id": "0046",
+      "source": "不行了，再这样下去，口水都要流出来了！",
+      "target": "Không được rồi, cứ thế này thì nước dãi chảy ra mất!"
+    },
+    {
+      "segment_id": "0047",
+      "source": "周家大小姐明智地决定转身就走。",
+      "target": "Vị đại tiểu thư nhà họ Chu sáng suốt quyết định xoay người bỏ đi."
+    },
+    {
+      "segment_id": "0048",
+      "source": "“那个……你要么？”",
+      "target": "“Cái đó... cô có muốn ăn không?”"
+    },
+    {
+      "segment_id": "0049",
+      "source": "方元正好看见这姑娘的目光，感觉对方也是可怜，将最后一个饭团拿出来：“给你！”",
+      "target": "Phương Nguyên vừa vặn bắt gặp ánh mắt của cô nương này, cảm thấy đối phương cũng thật tội nghiệp, bèn lấy nắm cơm cuối cùng ra: “Cho cô này!”"
+    },
+    {
+      "segment_id": "0050",
+      "source": "“咕噜！”",
+      "target": "“Ực!”"
+    },
+    {
+      "segment_id": "0051",
+      "source": "周家小姐喉咙滚动，白玉般的脸庞却是变得涨红，手指发抖，一副想伸又不想伸的纠结模样，最后转为浓烈的气场爆发了：“开……开什么玩笑，我堂堂周家大小姐周文馨，又怎么……又怎么会……”",
+      "target": "Vị tiểu thư nhà họ Chu nuốt ực một cái, khuôn mặt trắng mịn như ngọc lập tức đỏ bừng lên, ngón tay run rẩy, dáng vẻ xoắn xuýt muốn nhận lại muốn thôi, cuối cùng hóa thành khí thế bộc phát dữ dội: “Đùa... đùa cái gì thế chứ! Ta đường đường là đại tiểu thư Chu gia Chu Văn Hinh, làm sao... làm sao lại...”"
+    },
+    {
+      "segment_id": "0052",
+      "source": "她说着，脚步却是不自觉地上前。",
+      "target": "Nàng tuy nói vậy nhưng bước chân lại vô thức tiến lên phía trước."
+    },
+    {
+      "segment_id": "0053",
+      "source": "“哦，你不要啊！”",
+      "target": "“Ồ, cô không cần à!”"
+    },
+    {
+      "segment_id": "0054",
+      "source": "方元感觉听懂了，直接将饭团给旁边的一名小乞丐：“拿去吃吧！”",
+      "target": "Phương Nguyên cảm thấy mình đã hiểu ý, liền đưa thẳng nắm cơm cho một đứa bé ăn xin bên cạnh: “Cầm lấy ăn đi!”"
+    },
+    {
+      "segment_id": "0055",
+      "source": "“谢谢大爷！”“谢谢大爷！”",
+      "target": "“Cảm ơn đại gia!” “Cảm ơn đại gia!”"
+    },
+    {
+      "segment_id": "0056",
+      "source": "这小乞丐之前就对着方元不停流口水，这时喜从天降，当即连连道谢，美滋滋地吃了起来。",
+      "target": "Đứa bé ăn xin này trước đó đã không ngừng nuốt nước miếng nhìn Phương Nguyên, lúc này như có niềm vui từ trên trời rơi xuống, lập tức rối rít cảm ơn, đón lấy rồi ăn một cách ngon lành."
+    },
+    {
+      "segment_id": "0057",
+      "source": "看着他黑乎乎的小手一抓，饭团上就浮现出清晰的爪印，纵然周文馨都产生出暴殄天物的感觉。",
+      "target": "Nhìn bàn tay nhỏ nhắn đen nhẻm của nó chộp lấy, trên nắm cơm lập tức hằn rõ dấu tay bẩn thỉu, ngay cả Chu Văn Hinh cũng dâng lên cảm giác phí phạm của trời."
+    },
+    {
+      "segment_id": "0058",
+      "source": "“呜呜……好吃……好吃！”",
+      "target": "“Ưm ừm... ngon quá... ngon quá!”"
+    },
+    {
+      "segment_id": "0059",
+      "source": "小乞丐狼吞虎咽，三两口就将饭团啃完，最后更是连嘴角与发丝上的米粒都不放过，吃完之后，意犹未尽地舔着嘴唇手指。",
+      "target": "Đứa bé ăn xin ngấu nghiến ăn sạch, chỉ ba hai miếng đã gặm xong nắm cơm, cuối cùng đến cả hạt cơm dính trên khóe miệng hay sợi tóc cũng không tha, ăn xong còn thòm thèm liếm môi liếm ngón tay."
+    },
+    {
+      "segment_id": "0060",
+      "source": "“你……”",
+      "target": "“Ngươi...”"
+    },
+    {
+      "segment_id": "0061",
+      "source": "周文馨一下呆滞，面皮从白转红，又从红转白，突然‘哇’的一声哭了出来：“你欺负我！呜呜……”",
+      "target": "Chu Văn Hinh ngẩn người ra, sắc mặt hết trắng lại đỏ, rồi lại từ đỏ chuyển sang trắng bệch, đột nhiên \"oa\" một tiếng khóc lớn: “Ngươi bắt nạt ta! Oa oa...”"
+    },
+    {
+      "segment_id": "0062",
+      "source": "也不知道为什么，心里就是觉得委屈非常，转身跑了。",
+      "target": "Cũng không biết tại sao trong lòng nàng lại thấy ấm ức tột cùng, bèn xoay người chạy mất."
+    },
+    {
+      "segment_id": "0063",
+      "source": "周围认识她的人，纷纷向方元投来敬佩的目光。",
+      "target": "Những người xung quanh nhận ra nàng đều đồng loạt ném ánh mắt kính phục về phía Phương Nguyên."
+    },
+    {
+      "segment_id": "0064",
+      "source": "竟然能将周家小辣椒都气哭了？嗯，小伙子人不可貌相！前途无量啊！",
+      "target": "Lại có thể chọc cho \"ớt hiểm\" nhà họ Chu phát khóc sao? Ừm, cậu thanh niên này thật đúng là nhân bất khả lộ tướng, tiền đồ vô lượng!"
+    },
+    {
+      "segment_id": "0065",
+      "source": "“这……”",
+      "target": "“Chuyện này...”"
+    },
+    {
+      "segment_id": "0066",
+      "source": "方元摸了摸脑袋，感觉自己非常无辜，这姑娘自己哭了，关他鸟事？不得不说，有时候，智商并不等于情商。",
+      "target": "Phương Nguyên gãi đầu, cảm thấy bản thân vô cùng oan uổng. Cô nương kia tự nhiên khóc thì liên quan quái gì đến hắn? Phải nói là đôi khi, chỉ số thông minh không tương đương với chỉ số cảm xúc (EQ)."
+    },
+    {
+      "segment_id": "0067",
+      "source": "但他情商再不正常，也知道再不跑的话，等到给小姑娘出头的人来了，那就是想跑都跑不了了。",
+      "target": "Có điều dù EQ của hắn có không bình thường đến đâu, thì hắn cũng biết nếu còn không chạy, đợi đến lúc người đến đòi lại công đạo cho nha đầu kia tới thì muốn chạy cũng chạy không thoát."
+    },
+    {
+      "segment_id": "0068",
+      "source": "当即转身就进入街道拐角，开溜去也。",
+      "target": "Lập tức xoay người lủi vào góc phố, chuồn lẹ."
+    },
+    {
+      "segment_id": "0069",
+      "source": "……",
+      "target": "……"
+    },
+    {
+      "segment_id": "0070",
+      "source": "方元的预感果然无比正确。",
+      "target": "Linh cảm của Phương Nguyên quả nhiên cực kỳ chuẩn xác."
+    },
+    {
+      "segment_id": "0071",
+      "source": "过了没有多久，一帮气势汹汹的家丁就飞扑而来，就差封闭四门，全城大索了。",
+      "target": "Chẳng bao lâu sau, một đám gia đinh hung hăng hùng hổ xông tới, chỉ thiếu nước đóng chặt bốn cổng thành để truy lùng khắp nơi nữa thôi."
+    },
+    {
+      "segment_id": "0072",
+      "source": "可惜这时候，他早就悠哉悠哉地出了城，在回山的路上。",
+      "target": "Tiếc là lúc này hắn đã sớm thong thả ra khỏi thành, đang trên đường trở về núi."
+    },
+    {
+      "segment_id": "0073",
+      "source": "而整个县城中，又有几个认得他这个陌生人，知道他老窝在那里？",
+      "target": "Vả lại trong cả huyện thành này, có mấy người quen mặt một kẻ xa lạ như hắn, biết được tổ ấm của hắn ở phương nào?"
+    },
+    {
+      "segment_id": "0074",
+      "source": "连那小浑蛋姓名都没问清楚的周家大小姐周文馨闹得鸡飞狗跳之后，也只能恹恹离去，倒是传闻越传越广，在诸多八卦与好事之人的流传下，最后竟然变成周家刁蛮小姐在一个山野穷小子面前吃了大亏，其中颇多喜闻乐见，不可描述之事，将周文馨气得七窍生烟，却又无处发泄。",
+      "target": "Đại tiểu thư Chu gia Chu Văn Hinh đến cả tên của \"tên tiểu tử kia\" cũng chưa hỏi rõ, sau khi quậy phá đến mức gà bay chó sủa cũng chỉ đành uể oải bỏ qua. Thế nhưng tin đồn lại ngày một lan xa, qua sự thêu dệt của những kẻ thích hóng hớt và rỗi việc, cuối cùng lại biến thành vị tiểu thư ngang ngược nhà họ Chu phải chịu thiệt thòi lớn trước một gã trai nghèo chốn thâm sơn cùng cốc. Trong đó còn thêu dệt nên bao tình tiết ly kỳ, không thể miêu tả bằng lời, khiến Chu Văn Hinh giận đến mức bảy lỗ bốc khói mà chẳng biết trút vào đâu."
+    },
+    {
+      "segment_id": "0075",
+      "source": "“嗯……原来武宗，就是武者中的一个境界，觉醒元力，能以一敌百，万夫莫当……整个归灵宗，也只有一位……”",
+      "target": "“Ừm... hóa ra Võ Tông là một cảnh giới của võ giả, thức tỉnh nguyên lực, có thể lấy một địch trăm, vạn phu khó địch... Toàn bộ Quy Linh Tông cũng chỉ có một vị như vậy...”"
+    },
+    {
+      "segment_id": "0076",
+      "source": "此时的方元，拿着随手花了几个铜板，从地摊上淘来的书册，却是看得津津有味。",
+      "target": "Lúc này Phương Nguyên đang cầm cuốn sách cũ tiện tay mua bằng mấy đồng tiền lẻ ở sạp hàng ven đường, đọc đến mức vô cùng say sưa."
+    },
+    {
+      "segment_id": "0077",
+      "source": "这应该是某个读书人的笔记，上面写了许多见闻，看来他应当很喜欢游历，其中就有关于武宗的描述，方元看了之后，见猎心喜，当即买了下来。",
+      "target": "Đây có lẽ là bút ký của một vị thư sinh nào đó, bên trên ghi chép rất nhiều điều mắt thấy tai nghe, xem ra người này rất thích đi du ngoạn, trong đó có cả miêu tả về Võ Tông. Phương Nguyên đọc xong thấy thích thú nên lập tức mua lại."
+    },
+    {
+      "segment_id": "0078",
+      "source": "“而我所在的山脉，被称为清灵山，这里是清河郡，刚才的县城是青叶城……”",
+      "target": "“Còn dãy núi mình đang ở được gọi là Thanh Linh Sơn, nơi này thuộc quận Thanh Hà, còn huyện thành lúc nãy là Thanh Diệp Thành...”"
+    },
+    {
+      "segment_id": "0079",
+      "source": "令方元欣喜的是，通过对游记的解读，令他对这附近地域，乃至自己所处的世界，都有了一点了解。",
+      "target": "Điều khiến Phương Nguyên vui mừng là nhờ đọc cuốn du ký này, hắn đã hiểu thêm đôi chút về khu vực lân cận, thậm chí là về thế giới nơi mình đang sống."
+    },
+    {
+      "segment_id": "0080",
+      "source": "“这个大陆似乎面积很广，纵然我所在的国度，也只是一个小国而已，与整个大陆相比，根本算不得什么，当然，对普通人而言，还是庞然大物一般了……”",
+      "target": "“Đại lục này dường như vô cùng rộng lớn, ngay cả quốc gia mình đang ở cũng chỉ là một nước nhỏ, so với toàn bộ đại lục thì chẳng thấm vào đâu. Dĩ nhiên, đối với người bình thường mà nói thì nó vẫn là một quái vật khổng lồ...”"
+    },
+    {
+      "segment_id": "0081",
+      "source": "从这部游记里面，方元知晓外面的世界很大，也非常精彩。",
+      "target": "Từ cuốn du ký này, Phương Nguyên biết được thế giới bên ngoài vô cùng rộng lớn và cũng cực kỳ đặc sắc."
+    },
+    {
+      "segment_id": "0082",
+      "source": "“纵然武宗，也不过能在附近百里称雄一时，并且除了武道之外，还应该有着其它的体系……”",
+      "target": "“Ngay cả Võ Tông cũng chỉ có thể xưng bá một phương trong phạm vi trăm dặm, hơn nữa ngoài võ đạo ra, chắc hẳn còn có những hệ thống khác...”"
+    },
+    {
+      "segment_id": "0083",
+      "source": "方元将本子收进竹篓，起身开始继续跋涉。",
+      "target": "Phương Nguyên cất cuốn sổ vào gùi tre, đứng dậy tiếp tục lên đường."
+    },
+    {
+      "segment_id": "0084",
+      "source": "“可惜，此时的我，连最基本的一本武功秘籍都弄不到，就根本不用考虑其它的东西了……”",
+      "target": "“Tiếc là hiện tại mình đến một cuốn bí tịch võ công cơ bản nhất cũng không kiếm được, căn bản không cần phải nghĩ ngợi đến những thứ khác làm gì...”"
+    },
+    {
+      "segment_id": "0085",
+      "source": "回到幽谷之中，立即就有一种安心感传来。",
+      "target": "Trở về trong u cốc, lập tức có một cảm giác an tâm ùa tới."
+    },
+    {
+      "segment_id": "0086",
+      "source": "“到底还是自己的狗窝最舒坦啊……”",
+      "target": "“Dù sao thì ổ chó của mình vẫn là thoải mái nhất...”"
+    },
+    {
+      "segment_id": "0087",
+      "source": "虽然离开的时间不是很久，但方元还是不由生出一种游子归乡的情绪。",
+      "target": "Dù thời gian rời đi không lâu nhưng Phương Nguyên vẫn không khỏi sinh ra cảm giác như đứa con xa xứ trở về nhà."
+    },
+    {
+      "segment_id": "0088",
+      "source": "等到放下东西之后，他几乎是迫不及待地来到了种植园内。",
+      "target": "Sau khi đặt đồ đạc xuống, hắn gần như không đợi được nữa mà đi ngay tới vườn trồng trọt."
+    },
+    {
+      "segment_id": "0089",
+      "source": "“咦？”",
+      "target": "“Ủa?”"
+    },
+    {
+      "segment_id": "0090",
+      "source": "只是来到路口，他的脸色就顿时变化了：“这脚印，有兽害？”",
+      "target": "“Chỉ mới đến lối vào, sắc mặt hắn đã lập tức thay đổi: “Dấu chân này... có thú dữ quấy phá sao?””"
+    },
+    {
+      "segment_id": "0091",
+      "source": "深山之中开辟种植园，鸟兽之类的侵害绝对是个大问题，好在问心居士于此道有着专长，能调配辟兽散。",
+      "target": "Khai hoang làm vườn trong núi sâu, việc chiêm thú quấy phá tuyệt đối là một vấn đề lớn. May mà Vấn Tâm cư sĩ có sở trường về lĩnh vực này, có thể điều chế ra Tịch Thú Tán."
+    },
+    {
+      "segment_id": "0092",
+      "source": "猛虎、暴狼之类的猛兽，会用尿液标记领地，百兽莫敢相犯，辟兽散理论相同，实际上，就是用药材配置出类似东西，洒在周围，给其它动物造成此地已经有着‘领主’的错觉，就不敢冒然前来。",
+      "target": "Mãnh hổ, bạo lang cùng những loài dã thú khác thường dùng nước tiểu để đánh dấu lãnh thổ, khiến muôn thú không dám xâm phạm. Nguyên lý của Tịch Thú Tán cũng tương tự, thực chất là dùng dược liệu bào chế ra thứ tương tự rồi rắc xung quanh, tạo cho các loài động vật khác ảo giác rằng nơi này đã có \"lãnh chúa\", từ đó không dám tùy tiện bén mảng tới."
+    },
+    {
+      "segment_id": "0093",
+      "source": "再有那么几只生冷不忌的，几个兽夹与陷阱也足以解决问题。",
+      "target": "Còn nếu gặp phải vài con cứng đầu không biết sợ, một vài chiếc bẫy kẹp và cạm bẫy cũng đủ để giải quyết vấn đề."
+    },
+    {
+      "segment_id": "0094",
+      "source": "但现在，种植园里面的陷阱却是被一起破坏，里面的诱饵却消失得无影无踪，仿佛窃贼发出了无声的嘲笑。",
+      "target": "Thế nhưng lúc này, toàn bộ bẫy rập trong vườn trồng trọt đều đã bị phá hủy, mồi nhử bên trong cũng biến mất không một tăm hơi, như thể kẻ trộm đang để lại một nụ cười chế giễu âm thầm."
+    }
+  ]
+}

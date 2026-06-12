@@ -33,3 +33,8 @@ Chapter 4 completed via pipeline.
 
 ### Summary
 Chapter 5 completed via pipeline.
+
+## Chapter 0006 - Chương 6: Bị trộm
+
+### Summary
+Chapter 6 completed via pipeline.

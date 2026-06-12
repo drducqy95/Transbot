@@ -439,11 +439,11 @@
           "title": "Đông phương"
         }
       ],
-      "completed_chapters": 6,
+      "completed_chapters": 7,
       "total_chapters": 1184,
-      "latest_chapter": "Chương 5: Xuất sơn (Cầu đề cử)",
+      "latest_chapter": "Chương 6: Bị trộm",
       "detail": "Tiến độ: 3/1184 chương | Mới nhất: Chương 3: Linh Trà",
-      "updated_at": "2026-06-12T14:42:18+07:00",
+      "updated_at": "2026-06-12T14:51:29+07:00",
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Tieu Dao Mong Duong/README.md",
       "toc_path": "Output/Tieu Dao Mong Duong/toc.json"
@@ -971,7 +971,7 @@
     }
   ],
   "metadata": {
-    "generated_at": "2026-06-12T14:51:08+07:00",
+    "generated_at": "2026-06-12T14:51:29+07:00",
     "total_books": 17,
     "source": "Dichtrung/Output"
   },
