@@ -58,3 +58,8 @@ Chapter 7 completed via pipeline.
 
 ### Summary
 Chapter 11 completed via pipeline.
+
+## Chapter 0012 - Chương 12: Sousuke, trói tôi
+
+### Summary
+Chapter 12 completed via pipeline.

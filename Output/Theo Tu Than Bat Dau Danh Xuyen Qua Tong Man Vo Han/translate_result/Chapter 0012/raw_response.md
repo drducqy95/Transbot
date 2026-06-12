@@ -1,0 +1,281 @@
+{
+  "chapter_number": 12,
+  "chapter_title_vi": "Chương 12: Sousuke, trói tôi",
+  "segments": [
+    {
+      "segment_id": "0001",
+      "source": "# 第12章 惣右介，捆我",
+      "target": "# Chương 12: Sousuke, trói tôi"
+    },
+    {
+      "segment_id": "0002",
+      "source": "“真令我惊讶，阁下的鬼道天赋比我当年还要强。”",
+      "target": "“Thật khiến ta kinh ngạc, thiên phú Quỷ Đạo của các hạ còn mạnh hơn cả ta năm đó.”"
+    },
+    {
+      "segment_id": "0003",
+      "source": "握菱铁斋惊叹道，他怎么也没想到陆离居然真的能成功，而且完成度还挺高的。",
+      "target": "Tsukabishi Tessai kinh ngạc thán phục, ông làm sao cũng không ngờ tới Lục Ly lại thực sự có thể thành công, hơn nữa độ hoàn thành lại còn rất cao."
+    },
+    {
+      "segment_id": "0004",
+      "source": "要知道他这个大鬼道长已经是被誉为千年一出的鬼道天才了，可即便是他，当年练习赤火炮也是循序渐进尝试前面的低阶鬼道后，才一次成功的。",
+      "target": "Phải biết rằng vị Đại Quỷ Đạo Trưởng như ông vốn đã được ca tụng là thiên tài Quỷ Đạo ngàn năm mới xuất hiện một lần, nhưng ngay cả ông năm đó khi luyện tập Xích Hỏa Pháo cũng phải tiến hành từng bước, thử nghiệm các Quỷ Đạo cấp thấp trước đó rồi mới có thể thành công ngay lần đầu tiên."
+    },
+    {
+      "segment_id": "0005",
+      "source": "如果陆离身份没问题的话，那他现在就是第一天接触鬼道，第二次释放就完成了赤火炮，这鬼道天赋简直了。",
+      "target": "Nếu thân phận của Lục Ly không có vấn đề gì, thì đây là ngày đầu tiên cậu tiếp xúc với Quỷ Đạo, giải phóng lần thứ hai đã hoàn thành Xích Hỏa Pháo, thiên phú Quỷ Đạo này quả thực quá đỗi kinh người."
+    },
+    {
+      "segment_id": "0006",
+      "source": "“老师过誉了，以后还要向您多请教……”",
+      "target": "“Thầy quá khen rồi, sau này em còn phải xin thỉnh giáo thầy nhiều hơn...”"
+    },
+    {
+      "segment_id": "0007",
+      "source": "陆离谦虚的说道，又看了眼蓝染，笑了笑，“也需要惣右介多多指教啊。”",
+      "target": "Lục Ly khiêm tốn nói, lại liếc mắt nhìn Aizen, mỉm cười: “Cũng cần Sousuke chỉ giáo nhiều hơn nhé.”"
+    },
+    {
+      "segment_id": "0008",
+      "source": "蓝染此时可真是完全被震惊了，他和夜一的观点一样，本以为陆离这样的人多半不会擅长鬼道这样的‘精细活’，没想到对方真能一次成功。",
+      "target": "Aizen lúc này quả thực hoàn toàn bị kinh ngạc, hắn cũng giống như Yoruichi, vốn tưởng rằng người như Lục Ly đa phần sẽ không giỏi những 'việc tỉ mỉ' như Quỷ Đạo, không ngờ đối phương lại thực sự có thể thành công ngay lần đầu tiên."
+    },
+    {
+      "segment_id": "0009",
+      "source": "简直……不在他之下啊。",
+      "target": "Quả thực... không dưới hắn chút nào."
+    },
+    {
+      "segment_id": "0010",
+      "source": "哦，他蓝染当年也是一次就释放成功赤火炮了。",
+      "target": "Ồ, bản thân Aizen hắn năm đó cũng là thành công giải phóng Xích Hỏa Pháo ngay lần đầu."
+    },
+    {
+      "segment_id": "0011",
+      "source": "蓝染黑色镜框下的眼睛微眯了一下，随后脸上浮现出诸多同学熟悉的爽朗笑容，“陆君，我们互相学习进步吧。”",
+      "target": "Đôi mắt bên dưới gọng kính đen của Aizen khẽ nheo lại một chút, ngay sau đó khuôn mặt hắn liền hiện lên nụ cười sảng khoái quen thuộc với nhiều bạn học: “Cậu Lục, chúng ta cùng học hỏi tiến bộ nhé.”"
+    },
+    {
+      "segment_id": "0012",
+      "source": "在场的同学们还处于惊讶状态，而此时握菱铁斋的一句话，更是让众人惊掉了下巴，“阁下要不要在毕业后加入鬼道大队，这样才不会浪费阁下的天赋。”",
+      "target": "Các bạn học có mặt tại đó vẫn đang trong trạng thái kinh ngạc, mà lúc này một câu nói của Tsukabishi Tessai lại càng khiến mọi người kinh rớt cả cằm: “Các hạ có muốn sau khi tốt nghiệp gia nhập Quỷ Đạo Chúng không, như vậy mới không lãng phí thiên phú của các hạ.”"
+    },
+    {
+      "segment_id": "0013",
+      "source": "陆离也有些意外，没想到握菱铁斋会这么‘性急’，这才第一堂课第一次见面，就要拉人了。",
+      "target": "Lục Ly cũng hơi bất ngờ, không ngờ Tsukabishi Tessai lại 'nôn nóng' đến thế, mới chỉ là buổi học đầu tiên, lần đầu tiên gặp mặt mà đã bắt đầu chiêu mộ người rồi."
+    },
+    {
+      "segment_id": "0014",
+      "source": "周遭的同学们都露出了羡慕的目光，因为鬼道大队是独立于护庭十三队外的特别部队，一般能进这个‘部门’工作的死神都是学霸，待遇是很高的。",
+      "target": "Các bạn học xung quanh đều lộ ra ánh mắt hâm mộ, bởi vì Quỷ Đạo Chúng là lực lượng đặc biệt độc lập với Hộ Đình Thập Tam Đội, thông thường những Tử Thần có thể vào 'bộ phận' này làm việc đều là học bá, đãi ngộ cực kỳ cao."
+    },
+    {
+      "segment_id": "0015",
+      "source": "而且看握菱铁斋的这幅做派，恐怕陆离一毕业加入鬼道大队后，就会身居高职，这简直是一步登天的橄榄枝。",
+      "target": "Hơn nữa nhìn thái độ này của Tsukabishi Tessai, e rằng chỉ cần Lục Ly tốt nghiệp gia nhập Quỷ Đạo Chúng là sẽ được đảm nhận chức vụ cao ngay, đây quả thực là cành ô liu giúp một bước lên mây."
+    },
+    {
+      "segment_id": "0016",
+      "source": "陆离也注意到了握菱铁斋的称呼，看来喜欢称呼对方为‘阁下’并不是在后世才有的口癖，而是入了握菱铁斋眼的人，他都会下意识的用这个称呼。",
+      "target": "Lục Ly cũng chú ý tới cách xưng hô của Tsukabishi Tessai, xem ra việc thích gọi đối phương là 'các hạ' không phải là thói quen cửa miệng sau này mới có, mà là những ai lọt vào mắt xanh của Tsukabishi Tessai thì ông đều sẽ vô thức dùng cách xưng hô này."
+    },
+    {
+      "segment_id": "0017",
+      "source": "鬼道大队的橄榄枝很美妙，但很可惜，即便他有很长的停留时间，他也并不准备加入鬼道大队",
+      "target": "Cành ô liu của Quỷ Đạo Chúng tuy rất tuyệt vời, nhưng đáng tiếc là dù có thời gian lưu lại rất dài, cậu cũng không dự định gia nhập Quỷ Đạo Chúng."
+    },
+    {
+      "segment_id": "0018",
+      "source": "在大脑回路中，那是‘法师’待的地方，他一个武夫，热爱的是拳拳到肉，刀刀见血的厮杀，鬼道大队和他的风格不搭。",
+      "target": "Theo cậu thấy, đó là nơi dành cho các 'pháp sư', còn cậu là một võ phu, thứ cậu yêu thích là những trận chiến quyền quyền thấu thịt, đao đao thấy máu, Quỷ Đạo Chúng không hề hợp với phong cách của cậu."
+    },
+    {
+      "segment_id": "0019",
+      "source": "他想学习鬼道，只是想给自己的战斗策略中增添一些可选性罢了。",
+      "target": "Cậu muốn học Quỷ Đạo chẳng qua chỉ là muốn thêm một vài lựa chọn vào chiến thuật chiến đấu của mình mà thôi."
+    },
+    {
+      "segment_id": "0020",
+      "source": "“感谢老师的厚爱，但我才刚入学，还没想好将来的路线，能让我再考虑一段时间吗？”",
+      "target": "“Cám ơn thầy đã ưu ái, nhưng em mới vừa nhập học, vẫn chưa nghĩ kỹ về hướng đi trong tương lai, thầy có thể cho em cân nhắc thêm một thời gian được không?”"
+    },
+    {
+      "segment_id": "0021",
+      "source": "陆离回复道，其实就算是婉拒了，给大鬼道长留点面子。",
+      "target": "Lục Ly trả lời, thực chất đây coi như là một lời từ chối khéo để giữ lại thể diện cho Đại Quỷ Đạo Trưởng."
+    },
+    {
+      "segment_id": "0022",
+      "source": "握菱铁斋闻言稍稍有些失望，他听说这孩子是卯之花队长带来学院的，而对方的剑道和白打造诣都极高，乃是全能的天才，将来的成就不可限量，他当然有选择自己道路的权利。",
+      "target": "Tsukabishi Tessai nghe vậy hơi thất vọng một chút. Ông nghe nói đứa trẻ này là do Đội trưởng Unohana đưa tới học viện, mà tạo nghệ Kiếm Đạo và Bạch Đả của đối phương đều cực cao, là một thiên tài toàn năng, thành tựu tương lai không thể hạn lượng, cậu đương nhiên có quyền tự lựa chọn con đường của mình."
+    },
+    {
+      "segment_id": "0023",
+      "source": "仔细想想，鬼道大队还是有局限性，因为他自己就是大鬼道长，他不可能把位置让给陆离，而以陆离的天赋，将来毕业后奋斗一些年份，完全有可能成为一位新的护庭队长。",
+      "target": "Nghĩ kỹ lại, Quỷ Đạo Chúng quả thực vẫn có những hạn chế nhất định. Bởi vì bản thân ông đã là Đại Quỷ Đạo Trưởng, ông không thể nhường lại vị trí này cho Lục Ly được, mà với thiên phú của Lục Ly, sau khi tốt nghiệp phấn đấu một số năm thì hoàn toàn có khả năng trở thành một Đội trưởng Hộ Đình mới."
+    },
+    {
+      "segment_id": "0024",
+      "source": "“嗯，那你们就先继续练习吧，关于鬼道方面，有不懂的可以直接问我。”",
+      "target": "“Ừm, vậy các em cứ tiếp tục luyện tập trước đi, về phương diện Quỷ Đạo, có chỗ nào không hiểu có thể hỏi trực tiếp ta.”"
+    },
+    {
+      "segment_id": "0025",
+      "source": "握菱铁斋毫不掩饰自己对陆离的欣赏，即便被婉拒了，但他还是很乐意栽培这个鬼道天才。",
+      "target": "Tsukabishi Tessai không hề che giấu sự tán thưởng của mình đối với Lục Ly, cho dù bị từ chối khéo nhưng ông vẫn rất sẵn lòng bồi dưỡng thiên tài Quỷ Đạo này."
+    },
+    {
+      "segment_id": "0026",
+      "source": "接下来的时间，陆离又把教科书上有的鬼道都尝试了一遍。",
+      "target": "Trong khoảng thời gian tiếp theo, Lục Ly lại đem tất cả các Quỷ Đạo có trong sách giáo khoa ra thử nghiệm một lượt."
+    },
+    {
+      "segment_id": "0027",
+      "source": "看着周围很多同学因为一个破道之四.白雷愁眉苦脸的样子，陆离就感到奇怪……这鬼道，真的很难学吗？",
+      "target": "Nhìn thấy rất nhiều bạn học xung quanh mặt mày ủ dột vì một chiêu Phá Đạo số 4 - Bạch Lôi, Lục Ly liền thấy kỳ lạ... Thứ Quỷ Đạo này thật sự khó học đến vậy sao?"
+    },
+    {
+      "segment_id": "0028",
+      "source": "他天生就对自我肉身的操控性极强，而在掌握了灵子调动的方法后，他发现自己同样可以精准细致的操控自己体内潜藏的能量。",
+      "target": "Cậu vốn sinh ra đã có khả năng kiểm soát cực mạnh đối với cơ thể mình, sau khi nắm giữ được phương pháp điều động linh tử, cậu phát hiện bản thân cũng có thể kiểm soát năng lượng tiềm ẩn trong cơ thể một cách chính xác và tỉ mỉ như thế."
+    },
+    {
+      "segment_id": "0029",
+      "source": "在我看来，鬼道就是按照既定的操控方式去组合排列灵子，最终将其化为有攻击性的术。",
+      "target": "Theo cậu thấy, Quỷ Đạo chính là sắp xếp và tổ hợp các linh tử theo một phương thức kiểm soát định sẵn, cuối cùng chuyển hóa nó thành một loại thuật có tính tấn công."
+    },
+    {
+      "segment_id": "0030",
+      "source": "但现在有一个问题，那就是他虽然感觉鬼道并不难，但他却对破道没什么兴趣了。      以陆离的脑回路，破道的目的就是为了伤敌，那他为什么不直接提刀砍呢？",
+      "target": "Nhưng hiện tại có một vấn đề, đó là mặc dù cậu thấy Quỷ Đạo không khó, nhưng cậu lại chẳng còn mấy hứng thú với Phá Đạo nữa. Với mạch tư duy của Lục Ly, mục đích của Phá Đạo là để diệt địch, vậy tại sao cậu không trực tiếp vác đao lên chém luôn cho nhanh?"
+    },
+    {
+      "segment_id": "0031",
+      "source": "反倒是缚道、回道更有对战斗的辅助意义，缚道可以抓捕敌人，回道则是能奶自己。",
+      "target": "Ngược lại Phược Đạo và Hồi Đạo mới có ý nghĩa bổ trợ nhiều hơn cho chiến đấu, Phược Đạo có thể trói giữ kẻ địch, còn Hồi Đạo thì có thể hồi máu cho bản thân."
+    },
+    {
+      "segment_id": "0032",
+      "source": "尤其是后者，若是回道能力强大，那自己以后战斗是不是可以在特定情况下只攻不守了？",
+      "target": "Đặc biệt là cái sau, nếu năng lực Hồi Đạo đủ mạnh, vậy chẳng phải sau này khi chiến đấu, trong những tình huống đặc thù cậu hoàn toàn có thể chỉ công không thủ sao?"
+    },
+    {
+      "segment_id": "0033",
+      "source": "因为回道比较复杂，一年级的教科书上没有，缚道倒是有几个，但也都是很低端的，而他想学点高级玩意。",
+      "target": "Bởi vì Hồi Đạo tương đối phức tạp nên sách giáo khoa năm nhất không có, Phược Đạo tuy có vài cái nhưng đều rất cấp thấp, trong khi cậu lại muốn học thứ gì đó cao cấp hơn."
+    },
+    {
+      "segment_id": "0034",
+      "source": "于是陆离只能向万能的室友——蓝染同学求助，“惣右介，你能教我点教科书上没有缚道吗？”",
+      "target": "Thế là Lục Ly chỉ đành tìm kiếm sự trợ giúp từ người bạn cùng phòng vạn năng — cậu bạn Aizen: “Sousuke, cậu có thể dạy tôi vài Phược Đạo không có trong sách giáo khoa được không?”"
+    },
+    {
+      "segment_id": "0035",
+      "source": "“缚道？我确实会一些，但你为什么会对这个感兴趣？”",
+      "target": "“Phược Đạo? Tôi quả thực biết một vài cái, nhưng tại sao cậu lại hứng thú với thứ này?”"
+    },
+    {
+      "segment_id": "0036",
+      "source": "蓝染好奇的问道，在我看来，一般人不都是想学威力巨大的破道吗？就像他，最近一直在研究怎么释放黑棺。",
+      "target": "Aizen tò mò hỏi. Theo hắn thấy, người bình thường chẳng phải đều muốn học Phá Đạo có uy lực khổng lồ sao? Giống như hắn gần đây vẫn luôn nghiên cứu cách giải phóng Hắc Quan."
+    },
+    {
+      "segment_id": "0037",
+      "source": "“感觉破道杀敌太麻烦了，倒是缚道会有比较多的辅助应用场景，捆人什么的。”",
+      "target": "“Cảm giác Phá Đạo giết địch phiền phức quá, ngược lại Phược Đạo có nhiều tình huống ứng dụng hỗ trợ hơn, kiểu như trói người chẳng hạn.”"
+    },
+    {
+      "segment_id": "0038",
+      "source": "陆离随口解释道，又想了想，在蓝染怪异的目光中开口，“惣右介，不如你先释放一个缚道捆住我，让我感受一下。”",
+      "target": "Lục Ly tùy ý giải thích, rồi nghĩ ngợi một lát, dưới ánh mắt kỳ quái của Aizen cất lời: “Sousuke, hay là cậu thi triển một Phược Đạo trói tôi lại trước đi, để tôi cảm nhận thử.”"
+    },
+    {
+      "segment_id": "0039",
+      "source": "“这么看着我干嘛？动手啊，老师只说不让我们继续尝试危险的破道，缚道没关系的吧？”",
+      "target": "“Nhìn tôi như vậy làm gì? Ra tay đi chứ, thầy chỉ bảo chúng ta không được tiếp tục thử Phá Đạo nguy hiểm thôi, Phược Đạo thì chắc không sao đâu nhỉ?”"
+    },
+    {
+      "segment_id": "0040",
+      "source": "陆离催促道，“来，越高级的越好。”",
+      "target": "Lục Ly thúc giục: “Nào, càng cao cấp càng tốt.”"
+    },
+    {
+      "segment_id": "0041",
+      "source": "即便是蓝染的心性，此时也抬手扶额了一瞬，随后才开口，“自我毁灭吧隆达尼尼的黑犬一阅之下、彻底烧尽、割断自己的喉咙吧！缚道之九.击！”",
+      "target": "Ngay cả với tâm tính của Aizen, lúc này cũng không nhịn được đưa tay nâng trán một thoáng, sau đó mới lên tiếng: “Tự hủy diệt đi, hắc khuyển của Rondanini! Đọc qua một lượt, thiêu rụi hoàn toàn, tự cắt đứt cổ họng mình đi! Phược Đạo số 9 — Kích!”"
+    },
+    {
+      "segment_id": "0042",
+      "source": "陆离没有闪躲，一道红光缠绕上了自己，瞬间他感觉到身体的行动变得不畅了，与此同时一股火辣的窒息感自脖颈传来。",
+      "target": "Lục Ly không hề né tránh, một luồng hồng quang quấn chặt lấy người cậu, ngay lập tức cậu cảm thấy cử động của cơ thể trở nên khó khăn, đồng thời một cảm giác ngột ngạt bỏng rát truyền tới từ vùng cổ."
+    },
+    {
+      "segment_id": "0043",
+      "source": "缚道之九.击，这是一个困敌和伤敌一体的缚道，陆离的身体倒是还能勉强行动，但那股窒息感会严重影响他的战力。",
+      "target": "Phược Đạo số 9 - Kích, đây là một Phược Đạo kết hợp cả giam giữ và gây sát thương. Cơ thể của Lục Ly tuy vẫn có thể miễn cưỡng cử động, nhưng cảm giác nghẹt thở kia sẽ ảnh hưởng nghiêm trọng đến sức chiến đấu của cậu."
+    },
+    {
+      "segment_id": "0044",
+      "source": "按照防的判断，如果在战斗中中了这一招，不能尽快挣脱这一缚道，或是在刚被捆住时迅速结束战斗的话，那么战斗只会朝败北方向发展。",
+      "target": "Theo phán đoán của cậu, nếu trúng phải chiêu này trong lúc chiến đấu mà không thể nhanh chóng thoát khỏi Phược Đạo này, hoặc kết thúc cuộc chiến thật nhanh ngay khi vừa bị trói, thì trận đấu chỉ có nước đi đến thất bại."
+    },
+    {
+      "segment_id": "0045",
+      "source": "果然，缚道是强力的战斗辅助技能。",
+      "target": "Quả nhiên, Phược Đạo là kỹ năng bổ trợ chiến đấu vô cùng mạnh mẽ."
+    },
+    {
+      "segment_id": "0046",
+      "source": "陆离思索后，便调动身上的灵力抵抗缚道，同时以肉身蛮力去‘撕扯’缚道，在他的张力达到极限时，那道红光溃散了。",
+      "target": "Lục Ly suy nghĩ một lát, liền điều động linh lực trên người để kháng cự Phược Đạo, đồng thời dùng man lực cơ thể để 'xé rách' Phược Đạo. Khi lực kéo của cậu đạt đến giới hạn, luồng hồng quang kia liền vỡ vụn tiêu tan."
+    },
+    {
+      "segment_id": "0047",
+      "source": "“在灵压相差不大的情况下，低级的缚道在击中敌人后，大多也只能起到临时困敌和干扰的作用，很难彻底将对手困死。”",
+      "target": "“Trong trường hợp linh áp không chênh lệch quá nhiều, các Phược Đạo cấp thấp sau khi trúng mục tiêu phần lớn cũng chỉ có tác dụng giam giữ và quấy rối tạm thời, rất khó để hoàn toàn trói chết đối thủ.”"
+    },
+    {
+      "segment_id": "0048",
+      "source": "蓝染看着陆离挣脱自己的缚道并不意外，继续解释道：“只有高阶的缚道，才有将敌人行动彻底锁死的功效，但这也更考验死神对自身灵力的操控技巧。”",
+      "target": "Aizen nhìn Lục Ly thoát khỏi Phược Đạo của mình không chút ngạc nhiên, tiếp tục giải thích: “Chỉ có Phược Đạo cấp cao mới có công hiệu khóa chết hoàn toàn hành động của kẻ địch, nhưng điều này cũng đòi hỏi khả năng kiểm soát linh lực của Tử Thần khắt khe hơn.”"
+    },
+    {
+      "segment_id": "0049",
+      "source": "陆离点了点头，“那惣右介给我来点高级的吧，你应该……会的吧？”",
+      "target": "Lục Ly gật gật đầu: “Vậy Sousuke cho tôi thử cái nào cao cấp đi, cậu chắc là... biết chứ?”"
+    },
+    {
+      "segment_id": "0050",
+      "source": "蓝染神色如常，笑着摇头，“你太高看我了陆君，虽然我在鬼道方面是有些天赋，但和你一样不过是个一年级生，怎么会那么高阶的缚道，如果你对高阶缚道感兴趣的话，不如去请教握菱老师，缚道不算危险，他应该会教你的。”",
+      "target": "Aizen thần sắc như thường, mỉm cười lắc đầu: “Cậu đề cao tôi quá rồi cậu Lục, mặc dù tôi quả thực có chút thiên phú ở phương diện Quỷ Đạo, nhưng cũng giống cậu chỉ là một học sinh năm nhất, sao có thể biết được Phược Đạo cấp cao như vậy. Nếu cậu hứng thú với Phược Đạo cấp cao, chi bằng đi thỉnh giáo thầy Tsukabishi, Phược Đạo không tính là nguy hiểm, thầy chắc sẽ dạy cậu.”"
+    },
+    {
+      "segment_id": "0051",
+      "source": "陆离看着蓝染人畜无害的面庞，心说我信你个鬼！",
+      "target": "Lục Ly nhìn khuôn mặt nhân súc vô hại của Aizen, trong lòng thầm nghĩ ta tin cậu mới lạ!"
+    },
+    {
+      "segment_id": "0052",
+      "source": "他不敢肯定蓝染现在能不能释放黑棺那样的高级鬼道，但放个六七十号的破道、缚道应该只是洒洒水。",
+      "target": "Cậu không dám chắc Aizen hiện tại có thể thi triển được Quỷ Đạo cấp cao như Hắc Quan hay không, nhưng thi triển mấy cái Phá Đạo, Phược Đạo cỡ đầu sáu đầu bảy chắc chỉ là chuyện muỗi."
+    },
+    {
+      "segment_id": "0053",
+      "source": "没办法，蓝染这么能忍的人肯定不会因为他破功，陆离只能去请教握菱铁斋看看。",
+      "target": "Không còn cách nào khác, một kẻ giỏi nhẫn nhịn như Aizen chắc chắn sẽ không vì cậu mà để lộ sơ hở, Lục Ly chỉ đành đi thỉnh giáo Tsukabishi Tessai xem sao."
+    },
+    {
+      "segment_id": "0054",
+      "source": "“哦？缚道和回道？缚道的话我倒是可以教你一些现在灵压能尝试的，但如果你对回道感兴趣的话，不如等卯之花队长来代课的时候请教她吧。”",
+      "target": "“Ồ? Phược Đạo và Hồi Đạo sao? Phược Đạo thì ta quả thực có thể dạy trò một số thứ mà linh áp hiện tại của trò có thể thử sức, nhưng nếu trò có hứng thú với Hồi Đạo, chi bằng đợi Đội trưởng Unohana tới dạy thay rồi thỉnh giáo cô ấy.”"
+    },
+    {
+      "segment_id": "0055",
+      "source": "握菱铁斋听了陆离的请求后说道，“相信卯之花队长会很乐意教你的。”",
+      "target": "Tsukabishi Tessai nghe xong yêu cầu của Lục Ly liền nói: “Tin rằng Đội trưởng Unohana sẽ rất sẵn lòng dạy trò.”"
+    }
+  ]
+}
