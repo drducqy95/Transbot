@@ -73,3 +73,8 @@ Chapter 13 completed via pipeline.
 
 ### Summary
 Chapter 14 completed via pipeline.
+
+## Chapter 0015 - Chương 15: Vụ cá cược
+
+### Summary
+Chapter 15 completed via pipeline.
