@@ -178,3 +178,4 @@ Audit: pass
 - 2026-06-12 08:18 | Chapter 41 | completed | Chương 0041 - Chương 41 Bắt đầu sự kiện giới hạn.md
 - 2026-06-12 08:25 | Chapter 42 | completed | Chương 0042 - Chương 42 Đụng trúng họng súng rồi.md
 - 2026-06-12 08:32 | Chapter 43 | completed | Chương 0043 - Chương 43 Tình hình hoàn toàn khác so với dự đoán.md
+- 2026-06-12 08:39 | Chapter 44 | completed | Chương 0044 - Chương 44 Dụ địch vào sâu!.md

@@ -1,0 +1,41 @@
+Here is the review of the translation terms:
+
+### JSON Review Result
+
+```json
+{
+  "approved": [
+    "奥术飞弹",
+    "潜行"
+  ],
+  "rejected": [
+    "建议方案：诱",
+    "快速看完神",
+    "战技，可以被",
+    "挨个点名，一",
+    "的冲击后，虽",
+    "直接招呼上去"
+  ],
+  "uncertain": []
+}
+```
+
+---
+
+### Term Classifications and Notes
+
+| Term | Classification | Description / Translation Reference |
+| :--- | :--- | :--- |
+| **`奥术飞弹`** | **Approved** | Spell name: *Arcane Missile* (1st-tier spell), translated to Vietnamese as `【O Thuật Phi Đạn】`. See [context_pack.md](file:///mnt/sdcard/My%20Agent/Transbot/Output/Dung%20Goi%20Ta%20Ta%20Than/pre_trans/Chapter%200014/context_pack.md#L38) and [translated_segments.json](file:///mnt/sdcard/My%20Agent/Transbot/Output/Dung%20Goi%20Ta%20Ta%20Than/audit/Chapter%200014/translated_segments.json#L96-L138). |
+| **`潜行`** | **Approved** | Class skill / Action: *Stealth* / *Sneak*, translated to Vietnamese as `Ẩn mình` / `Tiềm hành`. |
+| **`建议方案：诱`** | **Rejected** | Text option / System prompt segment (*Suggested plan: Lure*), not a standard proper noun or terminology. |
+| **`快速看完神`** | **Rejected** | Sentence fragment (*Quickly finish reading/looking at God/divine...*). |
+| **`战技，可以被`** | **Rejected** | Clause fragment containing punctuation and auxiliary verb (*combat technique, can be...*). |
+| **`挨个点名，一`** | **Rejected** | Sentence fragment (*call names one by one, one...*). |
+| **`的冲击后，虽`** | **Rejected** | Grammatical fragment (*after the impact of..., although...*). |
+| **`直接招呼上去`** | **Rejected** | Action phrase / Idiom meaning to go straight at them or strike directly. |
+
+### Summary of Work
+1. Searched the workspace directory structures for prior glossary logs, name scans, and config states.
+2. Audited the source terms in Chapter 14 and 15 datasets of the translation project *Đừng Gọi Ta Tà Thần* to verify usage context and correct translation equivalents.
+3. Structured the final classifications into the requested JSON response.

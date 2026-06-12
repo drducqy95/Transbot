@@ -1,0 +1,435 @@
+Here is the corrected translation where the CJK brackets (`【` and `】`) have been replaced with standard Western brackets (`[` and `]`), resolving the `cjk_leftover` issues:
+
+```json
+{
+  "chapter_number": 44,
+  "chapter_title_vi": "Chương 44: Dụ địch vào sâu!",
+  "segments": [
+    {
+      "segment_id": "0001",
+      "source": "势大力沉的一拳带着呼啸的破风声袭来，蕾娜躲闪不及，勉强微侧了下身子避开要害部位。",
+      "target": "Cú đấm dũng mãnh nặng nề mang theo tiếng gió rít ào ạt lao tới, Lena né tránh không kịp, chỉ đành gượng nghiêng người để tránh đi vị trí hiểm yếu."
+    },
+    {
+      "segment_id": "0002",
+      "source": "“嘭！”",
+      "target": "\"Binh!\""
+    },
+    {
+      "segment_id": "0003",
+      "source": "遭到重击的蕾娜眼冒金星，脑子里嗡嗡作响，剧烈的疼痛让她根本没法再集中起精神。",
+      "target": "Trúng đòn nặng nề, Lena nảy đom đóm mắt, đầu óc ong ong, cơn đau dữ dội khiến cô hoàn toàn không cách nào tập trung tinh thần nổi."
+    },
+    {
+      "segment_id": "0004",
+      "source": "“咳……咳咳……”",
+      "target": "\"Khụ... khụ khụ...\""
+    },
+    {
+      "segment_id": "0005",
+      "source": "蕾娜接连咳嗽几声，还没来得及恢复，又是迎面一拳砸来！",
+      "target": "Lena ho khan vài tiếng, còn chưa kịp hồi phục thì lại thêm một cú đấm đập thẳng diện lao tới!"
+    },
+    {
+      "segment_id": "0006",
+      "source": "“嘭！”",
+      "target": "\"Binh!\""
+    },
+    {
+      "segment_id": "0007",
+      "source": "这回蕾娜没能闪开，当场被打飞出去，砸碎了张酒馆的木桌，身上的粗布短衫胸口位置都被划出几道口子，露出里面的一抹白嫩。",
+      "target": "Lần này Lena không thể tránh né, lập tức bị đấm bay ra ngoài, đập nát một chiếc bàn gỗ trong quán rượu. Chiếc áo ngắn bằng vải thô trên người cô bị rách vài đường trước ngực, để lộ ra làn da trắng ngần thấp thoáng bên trong."
+    },
+    {
+      "segment_id": "0008",
+      "source": "领头的混混却对其视若无睹，因为自从在血色轮盘接受了那股燥动的能量后，他就感觉自己的脾气变得越发暴躁，越来越不愿意动脑思考。",
+      "target": "Thế nhưng tên du côn cầm đầu lại hoàn toàn ngó lơ cảnh đó, bởi vì kể từ sau khi tiếp nhận nguồn năng lượng cuồng bạo kia ở Vòng Quay Huyết Sắc, hắn cảm thấy tính khí của mình ngày càng trở nên nóng nảy, ngày càng lười động não suy nghĩ."
+    },
+    {
+      "segment_id": "0009",
+      "source": "而且只要动起手来，就会有一种想要将面前一切都毁掉的冲动感。",
+      "target": "Hơn nữa chỉ cần động thủ, hắn sẽ nảy sinh một khao khát muốn hủy diệt hết thảy trước mắt."
+    },
+    {
+      "segment_id": "0010",
+      "source": "……",
+      "target": "......"
+    },
+    {
+      "segment_id": "0011",
+      "source": "血牙帮混混的实力突然大幅变强，直接导致蕾娜'的计划出现了巨大问题。",
+      "target": "Thực lực của đám du côn băng Bloodfang đột nhiên tăng mạnh, trực tiếp khiến kế hoạch của Lena nảy sinh vấn đề lớn."
+    },
+    {
+      "segment_id": "0012",
+      "source": "她本想靠偷袭解决一人后，将其他几人引诱出去，然后甩开他们或利用潜行的隐匿能力逐个击破。",
+      "target": "Cô vốn muốn nhờ đánh lén hạ gục một tên, sau đó dụ những tên còn lại ra ngoài, rồi cắt đuôi hoặc lợi dụng năng lực ẩn mình của [Tiềm Hành] để tiêu diệt từng tên một."
+    },
+    {
+      "segment_id": "0013",
+      "source": "然而现在她却自身难保。",
+      "target": "Thế nhưng hiện tại bản thân cô còn khó lòng tự bảo vệ."
+    },
+    {
+      "segment_id": "0014",
+      "source": "敌人超过普通人的身体素质，成了计划中的变数。",
+      "target": "Tố chất cơ thể vượt trội người thường của kẻ địch đã trở thành biến số trong kế hoạch."
+    },
+    {
+      "segment_id": "0015",
+      "source": "5名敌人数量，更是让本就不平衡的局面雪上加霜！",
+      "target": "Số lượng kẻ địch lên đến năm tên lại càng khiến cục diện vốn đã mất cân bằng này trở nên tồi tệ hơn!"
+    },
+    {
+      "segment_id": "0016",
+      "source": "以蕾娜现在的状态，别说5个人了，哪怕让她一对一的应付其中一人都相当困难。",
+      "target": "Với trạng thái hiện tại của Lena, đừng nói là năm người, ngay cả đối phó một chọi một với một tên trong số đó cũng vô cùng khó khăn."
+    },
+    {
+      "segment_id": "0017",
+      "source": "因为严格意义上来说，蕾娜虽然通过诺文给予的知识，快速学会了【潜行】战技，可以被认为1阶潜行者。",
+      "target": "Bởi vì nói một cách nghiêm túc, tuy Lena nhờ vào tri thức Norven ban cho đã nhanh chóng học được chiến kỹ [Tiềm Hành], có thể coi là Tiềm Hành Giả cấp 1."
+    },
+    {
+      "segment_id": "0018",
+      "source": "但她目前的真实实力还远远算不上1阶的水准。",
+      "target": "Nhưng thực lực thực tế hiện tại của cô vẫn còn cách xa cấp độ cấp 1."
+    },
+    {
+      "segment_id": "0019",
+      "source": "实力的构成，分为“基础”和“技巧”两个部分。",
+      "target": "Cấu thành của thực lực được chia làm hai phần: \"nền tảng\" và \"kỹ xảo\"."
+    },
+    {
+      "segment_id": "0020",
+      "source": "基础部分，对战士、潜行者、游侠这些职业路线来说，代表着身体的综合素质，比如体格是否强健、动作是否灵巧、反应是否快速；",
+      "target": "Phần nền tảng, đối với các lộ trình chức nghiệp như Chiến Sĩ, Tiềm Hành Giả, Du Hiệp mà nói, đại diện cho tố chất tổng hợp của cơ thể, ví dụ như thể chất có cường tráng hay không, động tác có linh hoạt hay không, phản ứng có nhanh nhạy hay không;"
+    },
+    {
+      "segment_id": "0021",
+      "source": "当然，如果法师、术士、牧师这些，还需要考察精神是否充裕，脑子是否聪明。",
+      "target": "Tất nhiên, nếu là Pháp Sư, Thuật Sĩ, Mục Sư, thì còn cần xét xem tinh thần có dồi dào, đầu óc có thông minh hay không."
+    },
+    {
+      "segment_id": "0022",
+      "source": "技巧部分才是考验对各种战技、魔法、神术的掌握情况。",
+      "target": "Còn phần kỹ xảo mới là thước đo thử thách sự nắm vững đối với các loại chiến kỹ, ma pháp và thần thuật."
+    },
+    {
+      "segment_id": "0023",
+      "source": "诺文给予信徒们的知识让他们能够快速达成对其他人来说最难的“技巧”部分。",
+      "target": "Tri thức mà Norven ban cho các tín đồ giúp họ có thể nhanh chóng hoàn thành phần \"kỹ xảo\" vốn được coi là khó nhất đối với những người khác."
+    },
+    {
+      "segment_id": "0024",
+      "source": "只要照着知识的引导便能一步步上手掌握。",
+      "target": "Chỉ cần làm theo sự dẫn dắt của tri thức là có thể từng bước làm quen và nắm vững."
+    },
+    {
+      "segment_id": "0025",
+      "source": "but 基础的部分却是诺文现在暂时没法改变的硬伤！",
+      "target": "Thế nhưng phần nền tảng lại là điểm yếu chí mạng mà hiện tại Norven tạm thời chưa thể thay đổi!"
+    },
+    {
+      "segment_id": "0026",
+      "source": "这些东西，要么靠神明的神力赐福，要么靠凡人自己长期的锻炼。",
+      "target": "Những thứ này, hoặc là dựa vào sự ban phước bằng thần lực của thần linh, hoặc là dựa vào sự rèn luyện lâu dài của chính phàm nhân."
+    },
+    {
+      "segment_id": "0027",
+      "source": "前者诺文做不了，后者不存在难度门槛，但却需要时间去积累！",
+      "target": "Vế trước Norven không làm được, vế sau tuy không có ngưỡng cửa độ khó nhưng lại cần thời gian để tích lũy!"
+    },
+    {
+      "segment_id": "0028",
+      "source": "空有技巧，没有基础，遇到血牙帮混混这种“基础牢固”的敌人时，就会出现攻击不破防的尴尬情况。",
+      "target": "Chỉ có kỹ xảo mà thiếu đi nền tảng, khi đụng phải kẻ địch có \"nền tảng vững chắc\" như đám du côn băng Bloodfang, sẽ xuất hiện tình huống khó xử là tấn công không thể phá phòng thủ của đối phương."
+    },
+    {
+      "segment_id": "0029",
+      "source": "亲眼看见女儿受到伤害，老莫尼藏不下去了。",
+      "target": "Tận mắt chứng kiến con gái chịu tổn thương, lão Moni không thể tiếp tục ẩn nấp được nữa."
+    },
+    {
+      "segment_id": "0030",
+      "source": "担心女儿被打出事来，老莫尼本能地决定要靠着牺牲自己来吸引几名混混注意。",
+      "target": "Lo lắng con gái bị đánh đến mức xảy ra chuyện, lão Moni quyết định theo bản năng là hy sinh bản thân để thu hút sự chú ý của mấy tên du côn."
+    },
+    {
+      "segment_id": "0031",
+      "source": "“别伤害我女儿！有什么事都冲我来！不然我跟你们拼……”",
+      "target": "“Đừng hại con gái ta! Có chuyện gì cứ nhắm vào ta này! Bằng không ta sẽ liều mạng với các ngươi...”"
+    },
+    {
+      "segment_id": "0032",
+      "source": "老莫尼话没说完，千钧一发之际，酒馆外突然传来一声爆喝：",
+      "target": "Lão Moni còn chưa dứt lời, giữa lúc ngàn cân treo sợi tóc, bên ngoài quán rượu bỗng vang lên một tiếng quát lớn:"
+    },
+    {
+      "segment_id": "0033",
+      "source": "“Arcane Missiles！！！”",
+      "target": "\"Arcane Missiles!!!\""
+    },
+    {
+      "segment_id": "0034",
+      "source": "三颗散发着明亮紫光的梭形飞弹在空中划过优美的弧形曲线，同时命中那正步步朝着蕾娜逼近的领头混混。",
+      "target": "Ba viên phi đạn hình thoi tỏa ra ánh tím sáng rực vạch thành những đường cong ưu mỹ trên không trung, đồng thời bắn trúng tên du côn cầm đầu đang từng bước áp sát Lena."
+    },
+    {
+      "segment_id": "0035",
+      "source": "“蕾娜别怕，我们来帮你了！！！”",
+      "target": "“Lena đừng sợ, chúng tôi tới giúp cô đây!!!”"
+    },
+    {
+      "segment_id": "0036",
+      "source": "赶到酒馆的培特和盖尔两人，刚好碰上正在爆发的冲突。",
+      "target": "Pete và Gael vừa chạy tới quán rượu thì đụng ngay lúc xung đột đang bùng nổ."
+    },
+    {
+      "segment_id": "0037",
+      "source": "培特当时便是眼冒精光。",
+      "target": "Hai mắt Pete lúc đó lập tức sáng rực lên."
+    },
+    {
+      "segment_id": "0038",
+      "source": "这不就是限定活动要求里的“犯罪行为”吗？",
+      "target": "Đây chẳng phải là “hành vi phạm tội” trong yêu cầu của sự kiện giới hạn sao?"
+    },
+    {
+      "segment_id": "0039",
+      "source": "二话不说，吟唱出一发【奥术飞弹】直接招呼上去！",
+      "target": "Không nói hai lời, cậu liền ngâm tụng một phát [Đạn Huyền Thuật] chào hỏi thẳng lên!"
+    },
+    {
+      "segment_id": "0040",
+      "source": "旁边的盖尔看到培特那熟练的施法动作，羡慕的眼神都快拉丝了！",
+      "target": "Gael đứng bên cạnh nhìn thấy động tác thi pháp thuần thục của Pete, ánh mắt ngưỡng mộ thèm thuồng khôn xiết!"
+    },
+    {
+      "segment_id": "0041",
+      "source": "他也想掌握攻击魔法，挥挥手就能放出强大的攻击，轻松写意地击败敌人。",
+      "target": "Cậu cũng muốn nắm giữ ma pháp tấn công, chỉ cần phất tay một cái là có thể phóng ra đòn tấn công mạnh mẽ, đánh bại kẻ địch một cách nhẹ nhàng thư thái."
+    },
+    {
+      "segment_id": "0042",
+      "source": "苦于天赋有限，以前的他跟培特一样，顶多学会些简单的辅助向、生活向的魔法，根本研究不明白攻击向 of 魔法。",
+      "target": "Nhưng ngặt nỗi thiên phú có hạn, trước đây cậu cũng giống như Pete, cùng lắm chỉ học được vài phép thuật bổ trợ hoặc sinh hoạt đơn giản, chứ căn bản không nghiên cứu nổi ma pháp thiên về tấn công."
+    },
+    {
+      "segment_id": "0043",
+      "source": "虽然现在他也成了求知之神诺文的信徒，但手头只有新人福利的10知识点数，想兑换1阶魔法却需要足足15知识点数。",
+      "target": "Mặc dù hiện tại cậu cũng đã trở thành tín đồ của Thần Tri Thức Norven, nhưng trong tay chỉ có 10 Điểm Tri Thức từ phúc lợi tân tín đồ, mà muốn đổi ma pháp cấp 1 lại cần tới tận 15 Điểm Tri Thức."
+    },
+    {
+      "segment_id": "0044",
+      "source": "想起限定活动的相关奖励。",
+      "target": "Nghĩ đến phần thưởng tương ứng của sự kiện giới hạn."
+    },
+    {
+      "segment_id": "0045",
+      "source": "盖尔看向血牙帮混混们的眼神顿时也变得火热起来。",
+      "target": "Ánh mắt Gael nhìn về phía đám du côn băng Bloodfang lập tức cũng trở nên hừng hực."
+    },
+    {
+      "segment_id": "0046",
+      "source": "这哪里是敌人，这分明是行走的正义点数啊！",
+      "target": "Đây đâu phải là kẻ địch, đây rõ ràng là những Điểm Chính Nghĩa di động!"
+    },
+    {
+      "segment_id": "0047",
+      "source": "不过，领头的混混在硬挨了一记【奥术飞弹】的冲击后，虽然被巨大的冲击力打得踉跄了好几步，身形不稳，但没有像上回那样直接被击倒失去战斗能力，反倒是面露凶光，气势更胜。",
+      "target": "Thế nhưng, sau khi hứng trọn một phát xung kích từ [Đạn Huyền Thuật], tên du côn cầm đầu dù bị lực chấn động cực lớn đẩy lui loạng choạng vài bước, đứng không vững, nhưng không hề trực tiếp ngã quỵ mất đi sức chiến đấu như lần trước, ngược lại gương mặt càng hiện rõ vẻ hung tợn, khí thế càng thêm hung hãn."
+    },
+    {
+      "segment_id": "0048",
+      "source": "培特顿觉不妙。",
+      "target": "Pete lập tức cảm thấy không ổn."
+    },
+    {
+      "segment_id": "0049",
+      "source": "情况跟他预想的好像不太一样！",
+      "target": "Tình hình có vẻ không giống như cậu dự đoán!"
+    },
+    {
+      "segment_id": "0050",
+      "source": "上回他收拾这些混混时，【奥术飞弹】挨个点名，一下一个。",
+      "target": "Lần trước khi cậu dọn dẹp đám du côn này, [Đạn Huyền Thuật] cứ điểm danh từng đứa một, mỗi phát hạ gục một tên."
+    },
+    {
+      "segment_id": "0051",
+      "source": "可这次对方的实力却变强了许多！",
+      "target": "Nhưng lần này thực lực của đối phương lại tăng lên rất nhiều!"
+    },
+    {
+      "segment_id": "0052",
+      "source": "普通人被奥术能量凝聚成的飞弹打中，最少也是当场被击晕。",
+      "target": "Người bình thường bị phi đạn ngưng tụ từ năng lượng huyền thuật đánh trúng, ít nhất cũng phải bất tỉnh nhân sự ngay tại chỗ."
+    },
+    {
+      "segment_id": "0053",
+      "source": "现在他们却能硬挨一记法术还有战斗能力，意味着对方的身体强度少说也是1阶的水平！",
+      "target": "Hiện giờ bọn chúng hứng trọn một phát phép thuật mà vẫn còn sức chiến đấu, chứng tỏ cường độ thân thể của đối phương ít nhất cũng đạt tới cấp độ cấp 1!"
+    },
+    {
+      "segment_id": "0054",
+      "source": "“哼哼……我记得你！上回就是你这个法师坏了我们好事！”",
+      "target": "“Hừ hừ... Tao nhớ ra mày rồi! Lần trước chính là thằng pháp sư nhà mày phá hỏng chuyện tốt của bọn tao!”"
+    },
+    {
+      "segment_id": "0055",
+      "source": "领头混混的暴虐气息越发严重，只觉腹中那股燥动的能量越来越难以压抑，将对方撕碎的念头更是越来越强烈。",
+      "target": "Khí tức bạo ngược trên người tên cầm đầu ngày càng trầm trọng, hắn chỉ cảm thấy nguồn năng lượng cuồng bạo trong bụng ngày càng khó kìm nén, ý nghĩ muốn xé xác đối phương lại càng thêm mãnh liệt."
+    },
+    {
+      "segment_id": "0056",
+      "source": "没法思考，失去理智，只想着把眼前的敌人给撕碎毁灭。",
+      "target": "Không thể suy nghĩ, mất đi lý trí, hắn chỉ muốn xé xác và hủy diệt kẻ địch trước mắt."
+    },
+    {
+      "segment_id": "0057",
+      "source": "之前那次冲突的时候，他们就跟培特结下了梁子。",
+      "target": "Từ lần xung đột trước, bọn chúng đã gây thù chuốc oán với Pete."
+    },
+    {
+      "segment_id": "0058",
+      "source": "这回再度碰上，自然是冤家路窄！",
+      "target": "Lần này đụng độ lần nữa, đúng thật là oan gia ngõ hẹp!"
+    },
+    {
+      "segment_id": "0059",
+      "source": "“就你是法师是吧？就你会魔法是吧？再放一个试试啊？”",
+      "target": "“Mỗi mình mày là pháp sư đúng không? Mỗi mình mày biết ma pháp thôi đúng không? Thử bắn thêm một phát nữa xem nào?”"
+    },
+    {
+      "segment_id": "0060",
+      "source": "领头混混用力拍着自己的脑壳，凶神恶煞地威胁道。",
+      "target": "Tên du côn cầm đầu vỗ mạnh vào đầu mình, hung tợn đe dọa."
+    },
+    {
+      "segment_id": "0061",
+      "source": "酒馆里，蕾娜努力吸了口气，大声提醒道：",
+      "target": "Trong quán rượu, Lena cố gắng hít sâu một hơi, lớn tiếng nhắc nhở:"
+    },
+    {
+      "segment_id": "0062",
+      "source": "“培特先生，他们现在很强，小心！”",
+      "target": "“Anh Pete, bọn chúng hiện tại rất mạnh, cẩn thận!”"
+    },
+    {
+      "segment_id": "0063",
+      "source": "她连续遭到几次攻击，现在浑身跟散架了一样，五脏六腑都在传来剧痛，连站起来都很困难，只能将希望寄托于培特身上。",
+      "target": "Cô liên tục chịu vài đòn tấn công, lúc này cả người như muốn rã rời, lục phủ ngũ tạng đều truyền đến cơn đau nhức nhối, ngay cả đứng dậy cũng vô cùng khó khăn, chỉ biết gửi gắm hy vọng vào Pete."
+    },
+    {
+      "segment_id": "0064",
+      "source": "这几天经历了不少事情的培特也算有了些成长，现在已经不会再慌张到六神无主，能维持足够理智去冷静地寻找破局的办法。",
+      "target": "Trải qua không ít chuyện trong mấy ngày qua, Pete cũng coi như đã có chút trưởng thành. Lúc này cậu không còn hoảng loạn đến mức mất phương hướng nữa, mà có thể duy trì đủ sự lý trí để bình tĩnh tìm kiếm phương án phá cục."
+    },
+    {
+      "segment_id": "0065",
+      "source": "思维急转。",
+      "target": "Đầu óc xoay chuyển nhanh chóng."
+    },
+    {
+      "segment_id": "0066",
+      "source": "“用那个3阶法术？”",
+      "target": "“Dùng ma pháp cấp 3 kia sao?”"
+    },
+    {
+      "segment_id": "0067",
+      "source": "“不行，那个法术的吟唱时间太长，根本来不及释放怕是就会被他们贴身打断。”",
+      "target": "“Không được, thời gian ngâm tụng ma pháp đó quá dài, e rằng chưa kịp giải phóng đã bị bọn chúng áp sát ngắt quãng mất rồi.”"
+    },
+    {
+      "segment_id": "0068",
+      "source": "“这些混混不知怎的实力暴涨！”",
+      "target": "“Đám du côn này không biết bằng cách nào mà thực lực lại tăng vọt!”"
+    },
+    {
+      "segment_id": "0069",
+      "source": "“距离太近，正面跟他们对拼的话，我可能顶多解决2、3个！”",
+      "target": "“Khoảng cách quá gần, nếu trực diện đối đầu với bọn chúng, mình cùng lắm chỉ giải quyết được hai ba đứa thôi!”"
+    },
+    {
+      "segment_id": "0070",
+      "source": "对比双方的实力，手头可用的办法似乎都无法破局。",
+      "target": "So sánh thực lực hai bên, những biện pháp hiện có trong tay có vẻ đều không thể phá vỡ thế bế tắc."
+    },
+    {
+      "segment_id": "0071",
+      "source": "若是换了一般人，可能这时候已经在想该用什么姿势求饶比较好了。",
+      "target": "Nếu là người bình thường, có lẽ lúc này đã bắt đầu suy nghĩ xem nên dùng tư thế nào để xin tha là tốt nhất."
+    },
+    {
+      "segment_id": "0072",
+      "source": "培特……自然不是一般人。",
+      "target": "Pete... tự nhiên không phải người thường."
+    },
+    {
+      "segment_id": "0073",
+      "source": "他选择果断开祷！",
+      "target": "Cậu dứt khoát lựa chọn cầu nguyện!"
+    },
+    {
+      "segment_id": "0074",
+      "source": "……",
+      "target": "......"
+    },
+    {
+      "segment_id": "0075",
+      "source": "“伟大的求知之神！”",
+      "target": "“Thần Tri Thức vĩ đại!”"
+    },
+    {
+      "segment_id": "0076",
+      "source": "“请告诉您忠实的信徒，我该怎么做才能解决眼前的麻烦！”",
+      "target": "“Xin hãy chỉ bảo cho tín đồ trung thành của Ngài biết phải làm sao mới giải quyết được rắc rối trước mắt!”"
+    },
+    {
+      "segment_id": "0077",
+      "source": "早在当初审讯室里的时候，培特就已经发现：求知之神的力量不但能给予知识，还能给予信徒需要的信息！",
+      "target": "Ngay từ hồi còn ở trong phòng thẩm vấn, Pete đã phát hiện ra: Sức mạnh của Thần Tri Thức không chỉ ban cho tri thức, mà còn có thể cung cấp thông tin mà tín đồ cần!"
+    },
+    {
+      "segment_id": "0078",
+      "source": "当 he 遇到麻烦的时候，解决方案同样是一种“信息”。",
+      "target": "Khi cậu gặp phải rắc rối, phương án giải quyết cũng chính là một loại “thông tin”."
+    },
+    {
+      "segment_id": "0079",
+      "source": "收到“需求1知识点数”的提醒后，培特毫不犹豫地消耗点数将其兑换！",
+      "target": "Sau khi nhận được thông báo “Yêu cầu 1 Điểm Tri Thức”, Pete không chút do dự tiêu hao điểm số để đổi lấy!"
+    },
+    {
+      "segment_id": "0080",
+      "source": "【建议方案：诱敌深入！】",
+      "target": "[Phương án kiến nghị: Dụ địch vào sâu!]"
+    },
+    {
+      "segment_id": "0081",
+      "source": "快速看完神谕的内容，培特心中大定。",
+      "target": "Nhanh chóng đọc xong nội dung thần dụ, Pete yên lòng hẳn."
+    },
+    {
+      "segment_id": "0082",
+      "source": "“不愧是求知之神！”",
+      "target": "“Không hổ là Thần Tri Thức!”"
+    },
+    {
+      "segment_id": "0083",
+      "source": "有办法了！",
+      "target": "Có cách rồi!"
+    },
+    {
+      "segment_id": "0084",
+      "source": "……",
+      "target": "......"
+    },
+    {
+      "segment_id": "0085",
+      "source": "感谢：路过看看000，Hank2016，冷蚕投出的1张月票，感谢恋心C投出的2张月票，感谢各位投出推荐票的书友，蟹蟹支持。",
+      "target": "Cảm ơn: Bạn đọc Luoguo kankan 000, Hank2016, Lãnh Tàm đã bỏ ra 1 nguyệt phiếu, cảm ơn Luyến Tâm C đã bỏ ra 2 nguyệt phiếu, cảm ơn các bạn đọc đã bỏ ra phiếu đề cử, cảm ơn sự ủng hộ của mọi người!"
+    }
+  ]
+}
+```

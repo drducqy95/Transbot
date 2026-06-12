@@ -393,3 +393,8 @@ Chapter 42 completed via pipeline.
 
 ### Summary
 Chapter 43 completed via pipeline.
+
+## Chapter 0044 - Chương 44: Dụ địch vào sâu!
+
+### Summary
+Chapter 44 completed via pipeline.
