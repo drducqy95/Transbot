@@ -288,11 +288,11 @@
           "title": "Đông phương"
         }
       ],
-      "completed_chapters": 6,
+      "completed_chapters": 7,
       "total_chapters": 2169,
-      "latest_chapter": "Chương 5: Nhà giam di động",
+      "latest_chapter": "Chương 6: Quảng trường Tế Điển",
       "detail": "Tiến độ: 3/2169 chương | Mới nhất: Chương 3: Bắt đầu lại từ đầu",
-      "updated_at": "2026-06-12T14:35:05+07:00",
+      "updated_at": "2026-06-12T14:47:53+07:00",
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Ta Te Bao Nguc Giam/README.md",
       "toc_path": "Output/Ta Te Bao Nguc Giam/toc.json"
@@ -971,7 +971,7 @@
     }
   ],
   "metadata": {
-    "generated_at": "2026-06-12T14:47:43+07:00",
+    "generated_at": "2026-06-12T14:47:53+07:00",
     "total_books": 17,
     "source": "Dichtrung/Output"
   },
