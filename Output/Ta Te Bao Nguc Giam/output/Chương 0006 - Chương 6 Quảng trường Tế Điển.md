@@ -1,163 +1,163 @@
 # Chương 6: Quảng trường Tế Điển
-# Chương 6: Quảng trường Tế Điển
+# Chương 6 Quảng trường Tế Điển
 
-“Anh hai, anh đi đâu thế? Sao không về nhà?”
+“Anh ơi, anh đi đâu vậy? Sao không về nhà?”
 
-Ngay khi Hàn Đông nhanh chóng bước ra khỏi con hẻm tối, vừa định hỏi thăm người qua đường về tình hình chung thì... một giọng nữ ngọt ngào, êm tai vang lên từ bên cạnh.
+Khi Hàn Đông nhanh chóng bước ra khỏi hẻm tối, vừa định hỏi thăm người qua đường… một giọng nữ nhẹ nhàng, trong trẻo vang lên bên cạnh.
 
-Não bộ của Hàn Đông phản ứng cực kỳ nhanh nhạy.
+Bộ não Hàn Đông phản ứng cực nhanh.
 
-Trong đầu anh lập tức phác họa hình ảnh một cô em gái dễ thương, tóc vàng mắt xanh, mặc chiếc váy xòe bằng ren đứng bên cạnh... Phân tích từ lời nói thì cô bé này tự nhiên là em gái của Nicholas.
+Trong đầu anh đã hình dung một cô gái dễ thương, mặc váy ren xòe, tóc vàng, mắt xanh ngọc đứng bên cạnh… dựa vào lời nói, chắc chắn là em gái của Nicolas.
 
-Thế nhưng khi Hàn Đông quay đầu lại, tình hình lại hoàn toàn khác so với những gì anh tưởng tượng.
+Khi Hàn Đông quay đầu, thực tế hoàn toàn khác với tưởng tượng.
 
-So với thân hình gầy gò yếu ớt của anh, thiếu nữ này trông khỏe mạnh hơn nhiều... Có điều, cũng vì thiếu hụt vitamin mà nước da hơi ngả vàng.
+Cô gái so với thân hình gầy gò của anh trông khỏe mạnh hơn… nhưng vì thiếu một số vitamin, da hơi vàng.
 
-Tuổi tác chừng khoảng mười lăm tuổi.
+Tuổi khoảng mười lăm.
 
-Không có mái tóc vàng gợn sóng như anh nghĩ.
+Không có mái tóc vàng xoăn như tưởng.
 
-Thay vào đó là mái tóc ngắn màu nâu giống hệt Hàn Đông cùng một đôi mắt màu xanh lam.
+Mà là tóc ngắn nâu giống Hàn Đông và đôi mắt xanh biển.
 
-Cô bé đeo một chiếc kính bảo hộ bằng đồng khá thô ráp, mặc chiếc quần yếm denim, bên hông đeo một chiếc túi đựng dụng cụ, trông hệt như một thợ thủ công trẻ tuổi.
+Cô gái đeo kính bảo hộ đồng thô, mặc quần jean có dây đai, bên hông còn có túi dụng cụ, trông thật như một thợ trẻ.
 
-Ngoài ra, trong tay cô bé còn ôm khư khư một túi thức ăn thơm phức... nâng niu như bảo vật trong lòng, sợ bị người khác cướp mất.
+Thêm nữa, cô ôm chặt một túi thức ăn thơm lừng… như bảo vật, sợ người khác lấy mất.
 
-“Ra ngoài hít thở chút không khí... vì không còn nhiều thời gian nữa.”
+“Ra ngoài hít hơi… vì thời gian không còn nhiều.”
 
-Hàn Đông khi còn sống là phó giáo sư tại một trường đại học ở Ý, nói một thứ tiếng Anh trôi chảy vốn là nền tảng cơ bản hàng ngày.
+Hàn Đông trước kia là phó giáo sư tại một trường đại học ở Ý, tiếng Anh lưu loát là tiêu chuẩn hàng ngày.
 
-Ngoài ra, cách nói của Hàn Đông rất thú vị, anh cố ý nhắc đến 'vấn đề thời gian', đồng thời lắc lắc chiếc vòng tay trước mặt cô bé.
+Thêm nữa, lời nói của Hàn Đông khá thú vị, cố tình nhắc ‘vấn đề thời gian’, và lắc vòng tay trước mặt cô gái.
 
-Nào ngờ, hành động này lập tức khiến vành mắt cô bé ươn ướt, rồi lao tới ôm chầm lấy Hàn Đông từ bên hông.
+Không ngờ hành động đó làm cô gái mắt ướt, ôm Hàn Đông từ bên cạnh.
 
-“Anh hai nhất định sẽ không chết đâu... Nina tin anh chắc chắn có thể trở thành 'người trở về', sống sót trở về nhà.”
+“Anh sẽ không chết đâu… Nina tin anh sẽ trở thành ‘người trở về’, sống sót về nhà.”
 
 Nina.
 
-Tên của em gái đã rõ.
+Biết được tên cô em.
 
-Tuy nhiên, so với tên của em gái, Hàn Đông vẫn quan tâm hơn đến vấn đề đếm ngược, cũng như danh từ 'người trở về' mà cô bé vừa nhắc tới.
+Nhưng so với tên cô em, Hàn Đông vẫn quan tâm hơn đến đồng hồ đếm ngược và từ ‘người trở về’.
 
-Nguyên nhân khiến gã thanh niên nhu nhược này chọn cách tự sát, mười phần thì có đến tám chín phần là liên quan đến thời gian đếm ngược kia.
+Lý do thanh niên yếu ớt này chọn tự tử, chín mươi phần trăm liên quan tới đồng hồ đếm ngược.
 
-Rốt cuộc là chuyện gì có thể dồn một người vào đường cùng, tuyệt vọng đến mức từ bỏ cả mạng sống? Hàn Đông vô cùng tò mò.
+Điều gì có thể khiến một người tuyệt vọng đến mức từ bỏ cuộc sống? Hàn Đông rất tò mò.
 
-“Ừm, anh sẽ sống sót trở về... Tất nhiên là vẫn hơi căng thẳng nên mới ra ngoài đi dạo một chút. Nina cứ yên tâm đi, không sao đâu.”
+“Ừ, anh sẽ sống quay lại… dĩ nhiên, vẫn hơi lo lắng, vì mới ra ngoài để thư giãn. Nina yên tâm, không có gì xảy ra.”
 
-Hàn Đông cố gắng tỏ ra vui vẻ và tự tin hết mức có thể, dù sao thì con gái khóc lóc cũng là một chuyện rất phiền phức.
+Hàn Đông cố gắng tỏ ra lạc quan, tự tin, vì cô gái khóc là chuyện phiền phức.
 
-Nina đẩy kính bảo hộ lên trên, lau đi vành mắt đẫm lệ, rồi lấy phần thức ăn đã chuẩn bị sẵn từ lâu ra.
+Nina nâng kính bảo hộ lên, lau mắt ướt, rút ra món ăn đã chuẩn bị lâu.
 
-“Dạ! Đây là món cá rán khoai tây chiên với bánh mì kẹp bắp cải mẹ làm cho anh, anh vừa đi vừa ăn rồi đến 【Quảng trường Tế Điển】 nhé... Cố gắng đến trước ít nhất mười lăm phút.”
+“Ừ! Đây là cá chiên giòn, khoai tây chiên và bánh mì kẹp bắp cải do mẹ làm, anh ăn rồi đi tới 【Quảng trường Tế Điển】… cố gắng đến trước 15 phút.”
 
-“Được...”
+“Được…”
 
-Hàn Đông thầm ghi nhớ địa danh 'Quảng trường Tế Điển' này.
+Hàn Đông ghi nhớ địa điểm ‘Quảng trường Tế Điển’ trong đầu.
 
-Dường như phải đến đó trước khi bộ đếm ngược của thiết bị dây cót kết thúc, nếu không sẽ có chuyện cực kỳ kinh khủng xảy ra.
+Có vẻ phải tới trước khi đồng hồ cơ kết thúc, nếu không sẽ xảy ra điều kinh hoàng.
 
-Trên đường đến quảng trường, vì quá đói nên Hàn Đông không còn bận tâm đến hình tượng, mỗi miếng ăn đều vô cùng 'xa xỉ', ít nhất phải kèm theo một miếng cá rán lớn cùng khoai tây chiên.
+Trên đường tới quảng trường, Hàn Đông vì quá đói, không bận tâm tới hình ảnh, mỗi miếng ăn đều ‘xa hoa’, ít nhất một con cá chiên nguyên con kèm khoai tây.
 
-Nếu cảm thấy quá nhiều dầu mỡ, anh lại cắn một miếng bánh mì kẹp rau để trung hòa lại.
+Nếu cảm thấy dầu quá nhiều, anh cắn một miếng bánh mì kẹp rau để cân bằng.
 
-Bởi vì tình cảnh đất nước và gia cảnh khó khăn, loại đồ ăn thế này đối với gia đình Valen có khi cả năm cũng không được ăn một lần... Thế nên lúc nãy Nina mới nâng niu túi thức ăn như bảo vật, ôm chặt suốt dọc đường.
+Vì quốc gia và hoàn cảnh gia đình, thực phẩm này đối với gia đình Valen thỉnh thoảng chỉ ăn được một lần trong năm… vì vậy Nina ôm chặt như bảo vật suốt chặng đường.
 
-Tuy nhiên...
+Tuy nhiên…
 
-Nina đi bên cạnh suýt chút nữa đã phát khóc vì thèm trước dáng vẻ ăn uống ngấu nghiến của Hàn Đông, cộng thêm mùi thơm phức tỏa ra từ món cá rán khoai tây chiên.
+Bên cạnh, Nina suýt nữa vì mùi thơm của cá chiên và khoai tây, cùng với cách ăn bừa bãi của Hàn Đông, rơi lệ vì thèm thuồng.
 
-Hàn Đông lộ vẻ bất đắc dĩ.
+Hàn Đông tỏ ra bất lực.
 
-Anh đã bảy năm ròng không được nếm một chút thức ăn nào của con người, nói thật lòng, anh chẳng muốn chia sẻ chút nào.
+Anh đã bảy năm không ăn bất kỳ thực phẩm người nào, thành thật mà nói, anh không muốn chia sẻ.
 
-Nhưng nghĩ tới việc mối quan hệ anh em này có thể sẽ hữu ích trong tương lai, đồng thời cũng cần khai thác thêm thông tin về Thánh Thành từ miệng Nina.
+Xét về mối quan hệ anh em có thể cần trong tương lai, đồng thời cần lấy thông tin về Thánh thành từ Nina.
 
-Hàn Đông mới chia cho cô bé một miếng cá rán nhỏ.
+Hàn Đông mới chia một miếng cá chiên nhỏ ra.
 
-“Em không đói đâu.”
+“Anh không đói.”
 
-Nhìn miếng cá rán mà Hàn Đông đưa qua, Nina vừa liếm nước bọt nơi khóe môi, vừa nói bằng giọng điệu hoàn toàn thiếu thuyết phục.
+Khi thấy miếng cá chiên do Hàn Đông đưa, Nina liếm sạch nước bọt ở góc miệng, vừa nói một cách không thuyết phục.
 
-Dù sao đây cũng có thể là bữa ăn cuối cùng của Hàn Đông... Nina biết rất rõ anh trai mình sắp phải trải qua sự kiện nguy hiểm đến nhường nào.
+Dù sao, đây có thể là bữa ăn cuối cùng của Hàn Đông… Nina rất rõ anh sẽ đối mặt với sự kiện nguy hiểm.
 
-“Cầm lấy đi, anh ăn no rồi.”
+“Lấy đi, anh đã no rồi.”
 
-“...Dạ được, cảm ơn anh hai.” Nhận lấy miếng cá, Nina định bắt chước Hàn Đông bỏ tọt cả miếng vào miệng... nhưng lại cảm thấy thế thì xa xỉ quá, đành phải chậm rãi cắn từng miếng nhỏ.
+“…được rồi, cảm ơn anh.”  Nina nhận miếng cá, dường như muốn nhai cả khối như Hàn Đông… nhưng cảm thấy quá xa hoa, nên ăn từng miếng nhỏ.
 
-Mỗi khi cắn một miếng, cô bé lại ngượng ngùng lén liếc nhìn Hàn Đông một cái.
+Mỗi khi ăn một miếng, cô lén nhìn Hàn Đông một cách ngượng ngùng.
 
-............
+…………
 
-Sau gần nửa tiếng rảo bước nhanh, 【Quảng trường Tế Điển】 cuối cùng cũng hiện ra trước mắt.
+Sau gần nửa giờ đi nhanh, 【Quảng trường Tế Điển】 cuối cùng cũng tới.
 
 Khổng lồ.
 
-Hàn Đông chưa từng nhìn thấy một quảng trường nào có quy mô khổng lồ đến như vậy.
+Hàn Đông chưa bao giờ thấy một quảng trường lớn như thế.
 
-Hơn nữa bên trong đã tụ tập hơn vạn người.
+Bên trong còn tụ tập hơn mười nghìn người.
 
-Nhìn lướt qua, ít nhất một nửa số người ở đây đều đeo trên cổ tay một chiếc vòng tay dây cót giống với Hàn Đông... Hơn nữa, đại đa số họ đều là thanh thiếu niên.
+Nhìn một mắt, ít nhất một nửa người đều đeo vòng đồng hồ cơ giống Hàn Đông… và phần lớn là thanh thiếu niên.
 
-Điều này cũng giải thích lý do tại sao trước đó Hàn Đông không thấy bóng dáng thanh thiếu niên nào trong các khu nhà của dân thường.
+Điều này giải thích vì sao Hàn Đông không thấy thanh thiếu niên trong các tòa nhà dân thường.
 
-“Còn lại 20 phút... Sao lại có dự cảm bất lành thế này. Hiện trường hiến tế quy mô lớn chăng?!”
+“Còn 20 phút… sao có cảm giác không lành. Địa điểm hiến tế lớn?!”
 
-Ý nghĩ đầu tiên lóe lên trong đầu Hàn Đông chính là một nghi thức hiến tế.
+Hàn Đông ngay nghĩ đến nghi lễ hiến tế.
 
-Thế nhưng nghĩ kỹ lại thì điều đó không khả thi cho lắm... Hiến tế một lúc hàng ngàn thanh thiếu niên vốn là biểu trưng cho quốc lực tương lai, trừ phi đất nước này không muốn tiếp tục tồn tại nữa.
+Nhưng suy xét kỹ, không khả thi… hiến tế hàng ngàn thanh thiếu niên tượng trưng cho sức mạnh tương lai, trừ khi quốc gia không muốn tiếp tục.
 
-Vả lại, theo lời kể của em gái Nina, anh chưa chắc đã phải chết, chỉ là tỷ lệ tử vong rất cao mà thôi.
+Thêm nữa, theo lời của em gái Nina, anh không nhất thiết sẽ chết, chỉ là xác suất cao.
 
-“Nina, đưa anh đến đây được rồi! Yên tâm đi, anh nhất định sẽ sống sót trở về.”
+“Nina, cứ để lại đây! Yên tâm, anh sẽ sống quay lại.”
 
-“Vâng, bất kể anh có phải là 'anh trai' hay không, em vẫn sẽ chờ anh.”
+“Ừ, dù anh có phải ‘anh’ hay không, tôi sẽ chờ anh.”
 
-Câu nói này khiến Hàn Đông thoáng kinh ngạc.
+Câu này khiến Hàn Đông hơi ngạc nhiên.
 
-Nina đã chạy đi từ lúc nào, cô bé đứng ngoài rìa quảng trường tinh nghịch thè lưỡi, vẫy vẫy tay chào tạm biệt anh.
+Nina đã chạy ra ngoài, lè lưỡi, vẫy tay chào tạm biệt.
 
 Cùng lúc đó.
 
-Từng tiếng móng ngựa bằng kim loại quen thuộc truyền tới.
+Tiếng kỵ binh kim loại quen thuộc vang lên.
 
-Tuy nhiên, lần này không phải xe ngựa, mà là một nhóm kỵ sĩ mặc giáp đen cưỡi trên những con chiến mã cơ khí.
+Nhưng lần này không phải xe ngựa, mà là một nhóm kỵ sĩ mặc áo đen cưỡi ngựa chiến cơ.
 
-Tổng cộng có ba mươi người.
+Tổng cộng ba mươi người.
 
-Hàn Đông mơ hồ cảm nhận được luồng khí thế tỏa ra từ ba mươi người này đủ sức áp chế hơn vạn dân thường đang tụ tập trong quảng trường.
+Hàn Đông cảm nhận rằng khí của ba mươi người này có thể áp đảo hàng vạn dân thường trong quảng trường.
 
-“Kỵ sĩ đoàn Hắc Tường Vi!!”
+“Đội Kỵ sĩ Hoa Hồng Đen!!”
 
-Dân chúng trong quảng trường không khỏi reo hò cái tên cao quý đầy kính sợ này.
+Mọi người trong quảng trường không khỏi hô vang tên đầy trang nghiêm và kính sợ này.
 
-Họ là lực lượng nòng cốt của đất nước này, là hy vọng thực sự cho sự sinh tồn của nhân loại.
+Họ là trụ cột của quốc gia, là hy vọng thực sự cho nhân loại tồn tại.
 
-「Huy hiệu Hắc Tường Vi」 chính là biểu tượng cho thân phận của họ.
+“Huy hiệu Hoa Hồng Đen” là biểu tượng danh tính của họ.
 
-Bộ giáp sắt đen mặc trên người họ trông có vẻ nặng nề, nhưng thực tế lại rất nhẹ nhàng và vừa vặn.
+Áo giáp sắt đen trên người họ trông nặng nề, thực tế lại nhẹ và vừa vặn.
 
-Các kỵ sĩ không đội mũ giáp mà đeo một chiếc mặt nạ thép đen kết hợp yếu tố 'kính bảo hộ'.
+Kỵ sĩ không đội mũ bảo hiểm, mà đeo mặt nạ thép đen kết hợp yếu tố ‘kính bảo hộ’.
 
-Điều này khiến Hàn Đông vô cùng tò mò, nhóm người trên cỗ xe ngựa lúc trước cũng đeo chiếc kính bảo hộ tương tự.
+Điều này khiến Hàn Đông tò mò, trước đó những người trên xe ngựa cũng đeo kính bảo hộ tương tự.
 
-Dường như, món đồ 'kính bảo hộ' này có một ý nghĩa đặc biệt trong thế giới này... Không chỉ đơn thuần dùng trong công nghiệp, mà dường như còn cần thiết khi đối phó với 'dị vật'.
+Có vẻ ‘kính bảo hộ’ trong thế giới này có ý nghĩa đặc biệt… không chỉ dùng trong công nghiệp, mà còn cần khi đối phó với ‘vật thể lạ’.
 
-Về phần tọa kỵ của họ, tất cả đều là giống ngựa đen thuần chủng thượng hạng.
+Về ngựa cưỡi, họ đều chọn ngựa đen thuần chủng chất lượng cao nhất.
 
-Khác với cỗ xe ngựa mà Hàn Đông trông thấy trước đó, những con hắc mã này vẫn giữ lại cơ bắp đùi khỏe mạnh ở mức độ nhất định, sử dụng công nghệ cải tạo cao cấp dạng gắn trong để tăng cường khả năng di chuyển.
+Khác với xe ngựa Lục Nhiên từng thấy, những con ngựa đen này giữ lại cơ bắp chân mạnh, được cải tiến nội tạng cao cấp, tăng cường khả năng di chuyển.
 
-“Những kỵ sĩ này hẳn không phải người bình thường, tốt nhất cứ nên tránh gây chú ý.”
+“Những kỵ sĩ này chắc không phải người thường, nên nên kín tiếng.”
 
-Hàn Đông cố gắng lách vào những khu vực đông đúc nhất, giảm thiểu sự hiện diện của mình xuống mức tối đa.
+Hàn Đông cố gắng hòa mình vào khu vực đông người, giảm tối đa sự hiện diện.
 
-Ba mươi kỵ sĩ đen đứng giãn cách đều nhau vây quanh rìa quảng trường, phong tỏa hoàn toàn nơi này.
+Ba mươi kỵ sĩ đen bao quanh quảng trường, đứng cách đều, phong tỏa hoàn toàn.
 
-Vị kỵ sĩ đen dẫn đầu tuốt thanh kiếm lộng lẫy bên hông ra, có thể thấy rõ trên bề mặt lưỡi kiếm đang quấn quanh một luồng khí lạnh màu trắng.
+Kỵ sĩ đứng đầu rút thanh kiếm lộng lẫy từ thắt lưng, thấy lưỡi kiếm quấn quanh một luồng khí lạnh trắng.
 
-Mũi kiếm chỉ thẳng lên bầu trời đêm.
+Lưỡi kiếm chỉ thẳng lên bầu trời đêm.
 
-Giọng nói trầm hùng phát ra từ bên dưới mặt nạ vang vọng khắp quảng trường.
+Tiếng vang mạnh mẽ từ dưới mặt nạ lan khắp quảng trường.
 
-“Nghi thức sắp bắt đầu... Tất cả những ai không nằm trong danh sách 'tuyển chọn' mau chóng rời khỏi quảng trường!”
+“Nghi lễ sắp bắt đầu… mọi người không ‘được chọn’ nhanh chóng rời khỏi！”
 

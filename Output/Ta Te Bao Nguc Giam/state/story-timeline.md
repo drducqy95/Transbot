@@ -63,3 +63,8 @@ Chapter 6 completed via pipeline.
 
 ### Summary
 Chapter 7 completed via pipeline.
+
+## Chapter 0006 - Chương 6: Quảng trường Tế Điển
+
+### Summary
+Chapter 6 completed via pipeline.

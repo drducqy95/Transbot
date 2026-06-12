@@ -143,6 +143,16 @@ Chapter 7 completed via pipeline.
 ### Summary
 Chapter 8 completed via pipeline.
 
+## Chapter 0006 - Chương 6: Quảng trường Tế Điển
+
+### Summary
+Chapter 6 completed via pipeline.
+
+## Chapter 0007 - Chương 7: Không gian Vận Mệnh
+
+### Summary
+Chapter 7 completed via pipeline.
+
 
 ## Source Chapter 6 - 0006 祭典广场
 ```json
