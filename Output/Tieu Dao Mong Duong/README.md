@@ -2,7 +2,7 @@
 
 **Branch:** Tieu Dao Mong Duong
 **Đã hoàn thành:** 1
-**Chương cuối: Chương 9: Khách tới
+**Chương cuối: Chương 10: Giao dịch
 **Tổng số chương:** ?
 
-- **Tiến độ hiện tại**: 8/1184 chương
+- **Tiến độ hiện tại**: 9/1184 chương

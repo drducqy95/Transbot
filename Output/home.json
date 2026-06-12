@@ -439,11 +439,11 @@
           "title": "Đông phương"
         }
       ],
-      "completed_chapters": 9,
+      "completed_chapters": 11,
       "total_chapters": 1184,
-      "latest_chapter": "Chương 9: Khách tới",
+      "latest_chapter": "Chương 10: Giao dịch",
       "detail": "Tiến độ: 9/1184 chương | Mới nhất: Chương 9: Khách tới",
-      "updated_at": "2026-06-12T17:00:10.025409+07:00",
+      "updated_at": "2026-06-12T17:54:00+07:00",
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Tieu Dao Mong Duong/README.md",
       "toc_path": "Output/Tieu Dao Mong Duong/toc.json"
@@ -971,7 +971,7 @@
     }
   ],
   "metadata": {
-    "generated_at": "2026-06-12T17:53:06+07:00",
+    "generated_at": "2026-06-12T17:54:00+07:00",
     "total_books": 17,
     "source": "Dichtrung/Output"
   },

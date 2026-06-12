@@ -1,0 +1,481 @@
+{
+  "chapter_number": 10,
+  "chapter_title_vi": "Chương 10: Giao dịch",
+  "segments": [
+    {
+      "segment_id": "0001",
+      "source": "# 第10章 交易",
+      "target": "# Chương 10: Giao dịch"
+    },
+    {
+      "segment_id": "0002",
+      "source": "“实不相瞒，贤侄啊，今日我等前来，乃是有事相求！”",
+      "target": "“Thực không dám giấu, hiền điệt à, hôm nay chúng ta tới đây là có việc muốn nhờ vả!”"
+    },
+    {
+      "segment_id": "0003",
+      "source": "林员外看着气哼哼的周文馨，又看向方元，神色间有些踌躇。",
+      "target": "Lâm viên ngoại nhìn Chu Văn Hinh đang tức hầm hầm, lại nhìn về phía Phương Nguyên, vẻ mặt hơi chút do dự."
+    },
+    {
+      "segment_id": "0004",
+      "source": "“不错，家父抱恙，听闻小居士妙手回春，特来求药！”",
+      "target": "“Đúng vậy, gia phụ nhiễm bệnh, nghe đồn tiểu cư sĩ diệu thủ hồi xuân, đặc biệt tới đây cầu thuốc!”"
+    },
+    {
+      "segment_id": "0005",
+      "source": "周家二哥涵养甚好，一揖到地：“还望小居士不吝相助，我周家上下，必感激不尽！”",
+      "target": "Chu gia nhị ca hàm dưỡng rất tốt, chắp tay cúi gập người đến đất: “Mong rằng tiểu cư sĩ không tiếc tương trợ, trên dưới Chu gia ta chắc chắn vô cùng cảm kích!”"
+    },
+    {
+      "segment_id": "0006",
+      "source": "在他身边，周文馨还想说些什么，却被以严厉的眼神制止。",
+      "target": "Ở bên cạnh hắn, Chu Văn Hinh còn muốn nói gì đó, lại bị một ánh mắt nghiêm khắc ngăn cản."
+    },
+    {
+      "segment_id": "0007",
+      "source": "‘想不到，周家这档子事，最后居然又找到我头上了……’",
+      "target": "‘Không ngờ tới, chuyện này của Chu gia cuối cùng lại tìm đến trên đầu mình...’"
+    },
+    {
+      "segment_id": "0008",
+      "source": "方元听了，却很是无语。",
+      "target": "Phương Nguyên nghe xong, lại cạn lời."
+    },
+    {
+      "segment_id": "0009",
+      "source": "同时他看着衣着光鲜的周家兄妹，还有膘肥体壮的仆役，心里相当清楚，若非今天还有一个林员外在场，这些人根本不会如此好说话的。",
+      "target": "Đồng thời hắn nhìn huynh muội Chu gia ăn mặc lộng lẫy, còn có gã sai vặt thân hình béo tốt khỏe mạnh, trong lòng khá rõ ràng, nếu không phải hôm nay còn có một vị Lâm viên ngoại ở đây, những người này căn bản sẽ không dễ nói chuyện như vậy."
+    },
+    {
+      "segment_id": "0010",
+      "source": "而纵然林员外，自从上次之事后，与自己交情也变浅薄了。",
+      "target": "Mà cho dù là Lâm viên ngoại, từ sau chuyện lần trước, giao tình với mình cũng trở nên nhạt nhẽo rồi."
+    },
+    {
+      "segment_id": "0011",
+      "source": "今日之事，除非立即将花狐貂叫出来，大杀四方，再连夜逃亡，否则还真躲不过去。",
+      "target": "Chuyện hôm nay, trừ phi lập tức gọi Hoa Hồ Điêu ra đại sát tứ phương, sau đó chạy trốn ngay trong đêm, bằng không còn thật sự không thể trốn tránh được."
+    },
+    {
+      "segment_id": "0012",
+      "source": "‘这林本初，到现在还不忘压榨小爷，不当人子……’",
+      "target": "‘Cái tên Lâm Bản Sơ này, đến bây giờ vẫn không quên chèn ép tiểu gia, thật chẳng ra sao...’"
+    },
+    {
+      "segment_id": "0013",
+      "source": "方元心里默默腹诽，嘴上却道：“兄台来晚了，我师父问心居士才是真正的医道国手，至于我么？只是略微得到些皮毛罢了，在未见过尊父，望闻问切之前，实在不好说什么的……”",
+      "target": "Trong lòng Phương Nguyên âm thầm oán thầm, ngoài miệng lại nói: “Huynh đài tới muộn rồi, sư phụ ta Vấn Tâm cư sĩ mới là y đạo quốc thủ chân chính, còn về ta sao? Chỉ là học được chút da lông mà thôi, trước khi nhìn thấy tôn phụ, vọng văn vấn thiết, thật sự là không tiện nói điều gì...”"
+    },
+    {
+      "segment_id": "0014",
+      "source": "“你这小无赖……”",
+      "target": "“Tên tiểu vô lại nhà ngươi...”"
+    },
+    {
+      "segment_id": "0015",
+      "source": "他只是下意识地先给自己预留退路，旁边的周文馨却是委屈得都快哭出来了。",
+      "target": "Hắn chỉ là theo bản năng chừa lại đường lui cho mình, Chu Văn Hinh bên cạnh lại tủi thân đến mức sắp khóc lên rồi."
+    },
+    {
+      "segment_id": "0016",
+      "source": "在她看来，之前县城内被这乡下小子欺负，就已经是奇耻大辱。",
+      "target": "Theo nàng thấy, trước đó trong huyện thành bị tên nhóc nhà quê này bắt nạt, đã là nỗi nhục nhã khó rửa."
+    },
+    {
+      "segment_id": "0017",
+      "source": "而现在，自己如此屈尊降贵地来求他，更关键的是，对方竟然还不领情！",
+      "target": "Mà hiện tại, bản thân hạ mình đến xin hắn như vậy, quan trọng hơn là đối phương vậy mà lại không nể tình!"
+    },
+    {
+      "segment_id": "0018",
+      "source": "这让周大小姐银牙暗咬，眼泪都快要落下来了。",
+      "target": "Điều này khiến Chu đại tiểu thư cắn chặt răng bạc, nước mắt đều sắp rơi xuống."
+    },
+    {
+      "segment_id": "0019",
+      "source": "“呵呵……贤侄太过谦虚了，不过纵然问心居士不在，我记得你这里，也应该有着不少好药的吧？只要能有一株，助周老爷子固本培元，也就足够了……”",
+      "target": "“Ha ha... Hiền điệt quá khiêm tốn rồi, nhưng dù cho Vấn Tâm cư sĩ không có ở đây, ta nhớ rõ chỗ này của ngươi chắc cũng có không ít thuốc tốt chứ nhỉ? Chỉ cần có một gốc, giúp Chu lão gia tử cố bản bồi nguyên, vậy là đủ rồi...”"
+    },
+    {
+      "segment_id": "0020",
+      "source": "林员外笑呵呵地搓着手道。",
+      "target": "Lâm viên ngoại cười ha hả xoa tay nói."
+    },
+    {
+      "segment_id": "0021",
+      "source": "而方元则是眉头一皱，顿生日防夜防，老贼难防的感觉。",
+      "target": "Mà Phương Nguyên thì nhíu mày, bỗng sinh ra cảm giác ngày phòng đêm phòng, lão tặc khó phòng."
+    },
+    {
+      "segment_id": "0022",
+      "source": "这林员外与他幽谷交往最深，当真是知根知底。",
+      "target": "Lâm viên ngoại này qua lại với u cốc của hắn sâu nhất, quả thật là hiểu rõ tận gốc rễ."
+    },
+    {
+      "segment_id": "0023",
+      "source": "也幸好自己不是师父问心居士，否则若让林员外知道了问心茶树的事情，恐怕立即就要麻烦上身。",
+      "target": "Cũng may bản thân không phải sư phụ Vấn Tâm cư sĩ, nếu không để Lâm viên ngoại biết được chuyện Vấn Tâm Trà thụ, e rằng lập tức sẽ có phiền phức dính lên người."
+    },
+    {
+      "segment_id": "0024",
+      "source": "“咦？不错，上次见到小居士，也是正在出售红山参，虽然年份不足，但药性惊人，家父用了之后，情况略有好转！”",
+      "target": "“Hả? Đúng vậy, lần trước gặp tiểu cư sĩ cũng là đang bán Hồng Sơn Sâm, mặc dù năm tuổi không đủ nhưng dược tính kinh người, gia phụ dùng xong tình huống đã có chút chuyển biến tốt đẹp!”"
+    },
+    {
+      "segment_id": "0025",
+      "source": "周二哥仿佛想到了什么，连连点头，脸上带着一丝喜色。",
+      "target": "Chu nhị ca phảng phất nghĩ tới điều gì, liên tục gật đầu, trên mặt mang theo một tia vui mừng."
+    },
+    {
+      "segment_id": "0026",
+      "source": "方元暗自翻了一个白眼，在林员外面前，却也不好信口开河。",
+      "target": "Phương Nguyên âm thầm trợn ngược mắt, ở trước mặt Lâm viên ngoại lại cũng không tiện thuận miệng nói bừa."
+    },
+    {
+      "segment_id": "0027",
+      "source": "脸上泛起为难之色，半天之后才道：“林叔也是知晓的，我师徒二人在幽谷生活还未二十年，一些上了年份的老药材，都是师父亲自去深山中寻来的，用一株少一株，到了现在，已经所剩无几……”",
+      "target": "Trên mặt hiện lên vẻ khó xử, nửa ngày sau mới nói: “Lâm thúc cũng biết, hai thầy trò ta sống ở u cốc chưa tới hai mươi năm, một số dược liệu lâu năm đều là do sư phụ đích thân đi vào trong núi sâu tìm về, dùng một gốc bớt một gốc, đến nay đã không còn sót lại mấy...”"
+    },
+    {
+      "segment_id": "0028",
+      "source": "“这我也知晓……”",
+      "target": "“Cái này ta cũng biết...”"
+    },
+    {
+      "segment_id": "0029",
+      "source": "林员外有些尴尬，知道问心居士是位奇人，能在深山老林中如履平地，但方元么？恐怕更力有未逮。",
+      "target": "Lâm viên ngoại có chút xấu hổ, biết Vấn Tâm cư sĩ là vị kỳ nhân, có thể đi trong rừng sâu núi thẳm như đi trên đất bằng, nhưng Phương Nguyên thì sao? E rằng là lực bất tòng tâm."
+    },
+    {
+      "segment_id": "0030",
+      "source": "如今自己连他这点压箱底的东西也要觊觎，实在是有些……",
+      "target": "Bây giờ bản thân ngay cả chút đồ lót đáy hòm này của hắn cũng muốn dòm ngó, thật sự là có chút..."
+    },
+    {
+      "segment_id": "0031",
+      "source": "奈何为了蕾月的前途，也只能厚着脸皮来了，当即就道：“贤侄你有什么要求，尽管提！”",
+      "target": "Làm sao được, vì tiền đồ của Lôi Nguyệt, cũng đành mặt dày mà đến, lúc này nói ngay: “Hiền điệt ngươi có yêu cầu gì thì cứ việc nói!”"
+    },
+    {
+      "segment_id": "0032",
+      "source": "“不错，我周家也发出榜文，只要小居士能药到痊愈，不论何事都可答应的。”",
+      "target": "“Không sai, Chu gia ta cũng đã phát bảng cáo thị, chỉ cần tiểu cư sĩ có thể lấy thuốc trị khỏi bệnh, bất luận chuyện gì cũng có thể đáp ứng.”"
+    },
+    {
+      "segment_id": "0033",
+      "source": "周二哥也在一边帮腔。",
+      "target": "Chu nhị ca cũng hùa theo ở một bên."
+    },
+    {
+      "segment_id": "0034",
+      "source": "“那我可就说了……”",
+      "target": "“Vậy ta liền nói nhé...”"
+    },
+    {
+      "segment_id": "0035",
+      "source": "方元心里一喜，他真正想要的，也就是这个，否则东西白白交出去，就得了所谓的人情？殊不知这人情最不可靠，保不准哪天就忘了，就如同这林员外一般，还是尽快变现，落袋为安的好。",
+      "target": "Trong lòng Phương Nguyên vui vẻ, thứ hắn thực sự muốn cũng chính là cái này, nếu không đồ đạc đem giao ra vô ích chỉ để đổi lấy cái gọi là nhân tình sao? Lại không biết cái nhân tình này là thứ không đáng tin cậy nhất, không chừng ngày nào đó liền quên mất, giống hệt như vị Lâm viên ngoại này vậy, chi bằng nhanh chóng quy ra tiền, bỏ túi cho yên tâm."
+    },
+    {
+      "segment_id": "0036",
+      "source": "“要说固本培元的珍惜药材，我这还有最后一株，乃是六十年份的红山参，药材绝对是真的，但能不能对周老爷子有所帮助，在下却不敢打包票，因此也不敢要求什么，只是居于深山老林中，想要学点武艺防身，还望能得到一本武功秘笈之类的……”",
+      "target": "“Nói đến dược liệu trân quý cố bản bồi nguyên, ta nơi này còn một gốc cuối cùng, chính là Hồng Sơn Sâm sáu mươi năm tuổi, dược liệu tuyệt đối là thật, nhưng có thể trợ giúp cho Chu lão gia tử hay không, tại hạ lại không dám đảm bảo, cho nên cũng không dám yêu cầu cái gì, chỉ là ở trong rừng sâu núi thẳm, muốn học chút võ nghệ phòng thân, mong rằng có thể có được một quyển bí kíp võ công gì đó...”"
+    },
+    {
+      "segment_id": "0037",
+      "source": "“你要学武？！”",
+      "target": "“Ngươi muốn học võ?!”"
+    },
+    {
+      "segment_id": "0038",
+      "source": "林员外有些诧异，看了看这周围深山老林的环境，又有些了然。",
+      "target": "Lâm viên ngoại có chút kinh ngạc, nhìn nhìn hoàn cảnh rừng thiêng nước độc xung quanh, lại hơi hiểu ra."
+    },
+    {
+      "segment_id": "0039",
+      "source": "倒是周家兄妹，脸上顿时就难看了。",
+      "target": "Ngược lại là anh em nhà họ Chu, sắc mặt lập tức trở nên khó coi."
+    },
+    {
+      "segment_id": "0040",
+      "source": "看到他们神态，方元顿时知晓他们将自己当成了那觊觎他们家传绝学之类的奸人，当即摇动双手：“当然，我只求粗浅武功，防身所用，绝对不敢奢望多高深的，只要林叔看着给本流传最广，最容易上手的就成！”",
+      "target": "Nhìn thấy thần thái của bọn họ, Phương Nguyên lập tức biết bọn họ coi mình thành loại người mưu mô nhòm ngó tuyệt học gia truyền nhà bọn họ, lập tức xua xua tay: “Đương nhiên, ta chỉ cầu võ công thô thiển dùng để phòng thân, tuyệt đối không dám xa vời loại cao thâm cỡ nào, chỉ cần Lâm thúc xem rồi đưa cho cuốn nào lưu truyền rộng rãi nhất, dễ luyện nhất là được!”"
+    },
+    {
+      "segment_id": "0041",
+      "source": "“这个啊……倒是简单……”",
+      "target": "“Cái này à... ngược lại rất đơn giản...”"
+    },
+    {
+      "segment_id": "0042",
+      "source": "林员外摸了摸胡须，心里一松。",
+      "target": "Lâm viên ngoại vuốt vuốt râu, trong lòng nhẹ nhõm."
+    },
+    {
+      "segment_id": "0043",
+      "source": "若方元要求归灵宗的高深武技，不说周家兄妹能否同意，纵然他们同意了，宗门也会有意见。",
+      "target": "Nếu Phương Nguyên yêu cầu võ kỹ cao thâm của Quy Linh tông, chưa nói tới anh em nhà họ Chu có đồng ý hay không, cho dù bọn họ đồng ý, tông môn cũng sẽ có ý kiến."
+    },
+    {
+      "segment_id": "0044",
+      "source": "但只求粗浅武功，种类不限？",
+      "target": "Nhưng chỉ cầu võ công thô thiển, không giới hạn thể loại?"
+    },
+    {
+      "segment_id": "0045",
+      "source": "他们这种大户人家，哪个没有收些‘江湖好手’看家护院？粗浅秘笈什么的凑凑，十本八本不敢说，四五本还是有的。",
+      "target": "Nhà giàu như bọn họ, nhà nào mà không thu nạp vài ‘hảo thủ giang hồ’ để trông coi bảo vệ nhà cửa cơ chứ? Mấy thứ bí kíp thô thiển này nọ gom góp lại, mười cuốn tám cuốn thì không dám nói chứ bốn năm cuốn thì vẫn có."
+    },
+    {
+      "segment_id": "0046",
+      "source": "并且也是那种烂大街的，绝对不会有什么麻烦。",
+      "target": "Hơn nữa cũng là loại đại trà bán đầy đường, tuyệt đối sẽ không có phiền toái gì."
+    },
+    {
+      "segment_id": "0047",
+      "source": "“此事甚易，老夫就代周家答应下来了！你尽管来找我要就是！”",
+      "target": "“Việc này rất dễ, lão phu liền thay mặt Chu gia đồng ý! Ngươi cứ tới tìm ta đòi là được!”"
+    },
+    {
+      "segment_id": "0048",
+      "source": "林员外笑呵呵地道。",
+      "target": "Lâm viên ngoại cười ha hả nói."
+    },
+    {
+      "segment_id": "0049",
+      "source": "“好，那我们就说定了，一株六十年红山参，换武功秘笈，不涉及其它……当然，也不是周家那个条件！只是单纯我与林叔的交易！”",
+      "target": "“Được, vậy chúng ta quyết định như thế, một củ Hồng Sơn Sâm sáu mươi năm đổi lấy bí kíp võ công, không đề cập đến những thứ khác... Đương nhiên, cũng không phải cái điều kiện kia của Chu gia! Chỉ đơn thuần là giao dịch giữa ta và Lâm thúc!”"
+    },
+    {
+      "segment_id": "0050",
+      "source": "看到林员外如此卖力，方元也明白了什么，正好卖个人情，外加撇清关系。",
+      "target": "Nhìn thấy Lâm viên ngoại ra sức như vậy, Phương Nguyên cũng hiểu được điều gì đó, vừa vặn bán một ân tình, lại nói rõ để rũ sạch quan hệ."
+    },
+    {
+      "segment_id": "0051",
+      "source": "“成！”",
+      "target": "“Được!”"
+    },
+    {
+      "segment_id": "0052",
+      "source": "周家兄妹对视一眼，发现没有自己插嘴的余地，也只能看着这两人达成协议。",
+      "target": "Anh em nhà họ Chu liếc nhau một cái, phát hiện không có chỗ cho mình xen mồm vào, cũng chỉ có thể nhìn hai người này đạt thành hiệp nghị."
+    },
+    {
+      "segment_id": "0053",
+      "source": "倒是周文馨，嘴里不满地嘟囔了一句：“现在这个年纪才来学武？呵呵……连金锁重楼十二关都不知晓，还想有着成就？”",
+      "target": "Ngược lại Chu Văn Hinh, trong miệng bất mãn lầm bầm một câu: “Đến cái tuổi này rồi mới đi học võ? Ha ha... ngay cả mười hai ải Kim Tỏa Trọng Lâu cũng không biết mà còn mong muốn có thành tựu?”"
+    },
+    {
+      "segment_id": "0054",
+      "source": "言语之间，不屑之情溢于言表。",
+      "target": "Trong lời nói, vẻ khinh thường lộ rõ ra ngoài."
+    },
+    {
+      "segment_id": "0055",
+      "source": "方元却是脸色淡然，只当没听到，反倒是暗暗记下了金锁重楼十二关这个名词，准备日后细细查询。",
+      "target": "Sắc mặt Phương Nguyên lại rất bình thản, coi như không nghe thấy, ngược lại âm thầm ghi nhớ danh từ mười hai ải Kim Tỏa Trọng Lâu này, chuẩn bị sau này đi tra xét tỉ mỉ."
+    },
+    {
+      "segment_id": "0056",
+      "source": "“林叔请跟我来！”",
+      "target": "“Lâm thúc mời đi theo ta!”"
+    },
+    {
+      "segment_id": "0057",
+      "source": "方元大大方方地拉开房门，请林员外进了仓库，也没阻止周家人跟着。",
+      "target": "Phương Nguyên rộng rãi đường hoàng mở cửa phòng, mời Lâm viên ngoại vào nhà kho, cũng không ngăn cản người của Chu gia đi theo."
+    },
+    {
+      "segment_id": "0058",
+      "source": "反正只要问心茶树与红玉稻田不暴露，这点东西被看了，完全没有什么。",
+      "target": "Dù sao chỉ cần Vấn Tâm Trà thụ cùng ruộng lúa Hồng Ngọc không bị bại lộ, chút đồ vật này bị nhìn thấy cũng hoàn toàn không có vấn đề gì."
+    },
+    {
+      "segment_id": "0059",
+      "source": "不如此，还不能打消他们觊觎之心。",
+      "target": "Không làm như vậy, vẫn không dập tắt được lòng dạ nhòm ngó của bọn họ."
+    },
+    {
+      "segment_id": "0060",
+      "source": "否则，日后不论谁碰到个重伤难愈的，都到他这里求药，那还活不活了？",
+      "target": "Bằng không, ngày sau mặc kệ là ai gặp phải trọng thương khó lành đều đến chỗ hắn cầu thuốc, vậy hắn còn sống thế nào được?"
+    },
+    {
+      "segment_id": "0061",
+      "source": "“嗯，贤侄将这打理得不错。”",
+      "target": "“Ừm, hiền điệt xử lý nơi này không tồi.”"
+    },
+    {
+      "segment_id": "0062",
+      "source": "库房之内，一股刺激的味道传来，令周文馨不由掩鼻，林员外倒是不以为意，背着双手：“特别是这玉晶米，种得最好，老夫上次吃过之后，当真茶饭不思，三月不知肉味啊……”",
+      "target": "Bên trong nhà kho, một mùi gay mũi truyền đến khiến Chu Văn Hinh không kìm được phải che mũi lại, Lâm viên ngoại lại tỏ vẻ không bận tâm, chắp tay sau lưng: “Đặc biệt là Ngọc Tinh Mễ này, trồng là tốt nhất, lão phu lần trước ăn xong, quả thật là ăn uống không ngon miệng, ba tháng không biết vị thịt a...”"
+    },
+    {
+      "segment_id": "0063",
+      "source": "“林叔若是喜欢，等会走的时候，背几袋米去就是了……”",
+      "target": "“Nếu Lâm thúc thích, đợi lát nữa rời đi thì vác vài túi gạo đi là được...”"
+    },
+    {
+      "segment_id": "0064",
+      "source": "方元头也不回地回答。",
+      "target": "Phương Nguyên đầu cũng không ngoảnh lại đáp."
+    },
+    {
+      "segment_id": "0065",
+      "source": "倒是周文馨，仿佛又想起上次被一个饭团戏弄的事情，面色殷红如血。",
+      "target": "Ngược lại Chu Văn Hinh dường như lại nhớ tới chuyện lần trước bị một nắm cơm châm chọc, sắc mặt đỏ bừng như máu."
+    },
+    {
+      "segment_id": "0066",
+      "source": "到了最里面，却是一排排木架，上面的盒子大多空了。",
+      "target": "Đi đến tận trong cùng là những hàng giá gỗ, trên đó phần lớn các hộp đều đã trống không."
+    },
+    {
+      "segment_id": "0067",
+      "source": "方元来到右侧，将一个盒子取出：“林叔请收好！”",
+      "target": "Phương Nguyên đi đến phía bên phải, lấy ra một chiếc hộp: “Lâm thúc xin cất kỹ!”"
+    },
+    {
+      "segment_id": "0068",
+      "source": "林本初接过木盒，打开一看，就见里面一株通体赤红如玉的山参，被封存得极好，品相颇佳，更难得的是一根参须都没有损伤。",
+      "target": "Lâm Bản Sơ cầm lấy hộp gỗ, mở ra xem thì thấy bên trong là một củ nhân sâm toàn thân đỏ rực như ngọc, được bảo quản cực kỳ tốt, phẩm tướng rất đẹp, hiếm thấy hơn là một sợi rễ sâm cũng không hề bị hư hại."
+    },
+    {
+      "segment_id": "0069",
+      "source": "“嗯，甚好！甚好！”",
+      "target": "“Ừm, rất tốt! Rất tốt!”"
+    },
+    {
+      "segment_id": "0070",
+      "source": "他眼角余光不自觉地四下盘望，心里又暗暗摇头：‘看来问心居士的家当，也的确快没了……’",
+      "target": "Khóe mắt hắn bất giác nhìn ngó xung quanh, trong lòng lại âm thầm lắc đầu: ‘Xem ra gia tài của Vấn Tâm cư sĩ, quả thật cũng sắp cạn rồi...’"
+    },
+    {
+      "segment_id": "0071",
+      "source": "“好！好！好！”",
+      "target": "“Tốt! Tốt! Tốt!”"
+    },
+    {
+      "segment_id": "0072",
+      "source": "周家二哥上来一看，却是喜不自胜：“这药力起码有着六十年，红山参年份越久，药效越强，超过五十年，就可谓珍品，家父治愈有望了！”",
+      "target": "Chu nhị ca tiến lên nhìn xem, lại vui mừng khôn xiết: “Dược lực này chí ít cũng sáu mươi năm, Hồng Sơn Sâm niên đại càng lâu, hiệu quả dược liệu càng mạnh, vượt qua năm mươi năm đã có thể gọi là trân phẩm, gia phụ có hi vọng được chữa khỏi rồi!”"
+    },
+    {
+      "segment_id": "0073",
+      "source": "“唔，贤侄你收好……”",
+      "target": "“Ừm, hiền điệt ngươi cất kỹ...”"
+    },
+    {
+      "segment_id": "0074",
+      "source": "看到这株红山参，林员外心里略有不舍，但还是交给了周二哥保管，又对方元道：“你放心，要的武功秘籍，我回去就让人给你送来。”",
+      "target": "Nhìn thấy củ Hồng Sơn Sâm này, trong lòng Lâm viên ngoại có chút luyến tiếc, nhưng vẫn giao cho Chu nhị ca cất giữ, lại nói với Phương Nguyên: “Ngươi yên tâm, bí kíp võ công ngươi cần, ta về sẽ sai người mang đến cho ngươi.”"
+    },
+    {
+      "segment_id": "0075",
+      "source": "“多谢林叔！”",
+      "target": "“Đa tạ Lâm thúc!”"
+    },
+    {
+      "segment_id": "0076",
+      "source": "方元一抱拳，不冷不热地道。",
+      "target": "Phương Nguyên ôm quyền, thái độ không lạnh không nhạt nói."
+    },
+    {
+      "segment_id": "0077",
+      "source": "“嗯，我也就不多留了，这就走！”",
+      "target": "“Ừm, ta cũng không nán lại lâu nữa, đi đây!”"
+    },
+    {
+      "segment_id": "0078",
+      "source": "交易谈完，再留下来多有尴尬，林员外背着双手，与周家一行人消失在谷外。",
+      "target": "Giao dịch bàn bạc xong xuôi, ở lại thêm chỉ tổ lúng túng, Lâm viên ngoại chắp tay sau lưng, cùng với đám người Chu gia biến mất ở ngoài cốc."
+    },
+    {
+      "segment_id": "0079",
+      "source": "“咯咯？！”",
+      "target": "“Cục cục?!”"
+    },
+    {
+      "segment_id": "0080",
+      "source": "方元望着他们离开的背影，却是默默叹了口气。",
+      "target": "Phương Nguyên nhìn bóng lưng họ rời đi, lại lặng lẽ thở dài."
+    },
+    {
+      "segment_id": "0081",
+      "source": "这时候，身后白影一闪，花狐貂又冒了出来，比着小爪子，机灵的瞳孔里似乎有着一丝疑惑。",
+      "target": "Lúc này, một bóng trắng lóe lên sau lưng, Hoa Hồ Điêu lại chui ra, múa múa cái vuốt nhỏ, trong đôi con ngươi lanh lợi dường như lóe lên một tia nghi hoặc."
+    },
+    {
+      "segment_id": "0082",
+      "source": "“这次就不必动手了……”",
+      "target": "“Lần này thì không cần phải động thủ...”"
+    },
+    {
+      "segment_id": "0083",
+      "source": "方元抚摸着花狐貂的脑袋，自言自语地叮嘱道：“但下次，凡是没有我陪同，靠近种植园的，直接下手，懂了没有？”",
+      "target": "Phương Nguyên vuốt ve cái đầu của Hoa Hồ Điêu, lẩm bẩm dặn dò: “Nhưng lần tới, hễ ai không có ta đi cùng mà đến gần vườn ươm thì cứ trực tiếp ra tay, hiểu chưa?”"
+    },
+    {
+      "segment_id": "0084",
+      "source": "野兽的领地观念可是很强的，而花狐貂通灵，极为人性化地点了点小脑袋。",
+      "target": "Quan niệm lãnh thổ của dã thú vốn rất mạnh, mà Hoa Hồ Điêu lại thông linh, vô cùng nhân tính hóa gật gật cái đầu nhỏ."
+    },
+    {
+      "segment_id": "0085",
+      "source": "“周家老爷的病症，也不知道一株红山参能不能治好，若是治不好，后续说不定还有些小麻烦……”",
+      "target": "“Chứng bệnh của Chu gia lão gia, cũng không biết một gốc Hồng Sơn Sâm có thể chữa khỏi hay không, nếu trị không hết, về sau nói không chừng còn có chút phiền phức nhỏ...”"
+    },
+    {
+      "segment_id": "0086",
+      "source": "方元下意识看了一眼自己的属性栏：",
+      "target": "Phương Nguyên theo bản năng nhìn thoáng qua bảng thuộc tính của mình:"
+    },
+    {
+      "segment_id": "0087",
+      "source": "“医术【一级】——能治疗简单伤势，包括轻微类的外伤，通过草药，可以获得额外的治愈加成效果。”",
+      "target": "“Y thuật [Cấp 1] - Có thể trị liệu những vết thương đơn giản, bao gồm cả ngoại thương dạng nhẹ, thông qua thảo dược, có thể nhận được hiệu quả cộng thêm khi chữa trị.”"
+    },
+    {
+      "segment_id": "0088",
+      "source": "“种植术【三级】——你是种植界当之无愧的专家级人物，双手拥有不可思议的力量，经过你种植的作物，有极小概率发生优良性状异变！”",
+      "target": "“Trồng trọt [Cấp 3] - Ngươi là nhân vật cấp chuyên gia hoàn toàn xứng đáng trong giới trồng trọt, hai bàn tay sở hữu sức mạnh không thể tưởng tượng nổi, thông qua ngươi gieo trồng cây cối, có xác suất cực nhỏ xảy ra dị biến tính trạng ưu việt!”"
+    },
+    {
+      "segment_id": "0089",
+      "source": "“轻微类，也不知道周家老爷子到底能不能算……倒是额外的草药加成效果值得期待一下……”",
+      "target": "“Dạng nhẹ, cũng không biết bệnh tình Chu lão gia tử rốt cuộc có được tính hay không... ngược lại hiệu quả thảo dược cộng thêm kia đáng để mong chờ một chút...”"
+    },
+    {
+      "segment_id": "0090",
+      "source": "对于自己的医术技能，方元自然也想着提升。",
+      "target": "Đối với kỹ năng y thuật của bản thân, Phương Nguyên tự nhiên cũng muốn tăng lên."
+    },
+    {
+      "segment_id": "0091",
+      "source": "通过对于种植术的实验，他也大体清楚了，要想提升专长，当中有着一个熟练度与瓶颈的问题。",
+      "target": "Thông qua thực nghiệm đối với thuật trồng trọt, hắn đại khái cũng đã rõ ràng, nếu muốn thăng cấp sở trường thì trong đó có một vấn đề về độ thuần thục cùng bình cảnh."
+    },
+    {
+      "segment_id": "0092",
+      "source": "自己的种植术就是通过不断的培育植物，这才升上二级，但不得到灵种，还是突破不了三级的层次。",
+      "target": "Thuật trồng trọt của hắn chính là nhờ vào việc không ngừng bồi dưỡng thực vật nên mới thăng lên cấp hai, nhưng nếu không lấy được linh chủng thì vẫn không thể đột phá lên cấp bậc thứ ba."
+    },
+    {
+      "segment_id": "0093",
+      "source": "医术要进步，就必然要找大量病人试手。",
+      "target": "Y thuật muốn tiến bộ thì tất nhiên phải tìm một lượng lớn bệnh nhân để thử nghiệm."
+    },
+    {
+      "segment_id": "0094",
+      "source": "“只是……周家么？呵呵……”",
+      "target": "“Chỉ là... Chu gia sao? Ha ha...”"
+    },
+    {
+      "segment_id": "0095",
+      "source": "方元摇了摇头，冷笑不语。",
+      "target": "Phương Nguyên lắc đầu, cười lạnh không nói."
+    }
+  ]
+}
