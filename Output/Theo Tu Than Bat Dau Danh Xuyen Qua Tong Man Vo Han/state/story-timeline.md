@@ -53,3 +53,8 @@ Chapter 10 completed via pipeline.
 
 ### Summary
 Chapter 7 completed via pipeline.
+
+## Chapter 0011 - Chương 11: Quỷ đạo cũng không khó mà (Canh ba cầu đọc tiếp, cất chứa, phiếu tháng)
+
+### Summary
+Chapter 11 completed via pipeline.
