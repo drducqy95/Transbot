@@ -28,3 +28,8 @@ Chapter 3 completed via pipeline.
 
 ### Summary
 Chapter 4 completed via pipeline.
+
+## Chapter 0005 - Chương 5: Vô danh công pháp thành
+
+### Summary
+Chapter 5 completed via pipeline.

@@ -1,0 +1,16 @@
+```json
+{
+  "chapter_number": 5,
+  "chapter_title_vi": "Chương 5: Vô danh công pháp thành",
+  "segments": [
+    {
+      "segment_id": "0001",
+      "source": "# 第三章 无名功法成",
+      "target": "# Chương 5: Vô danh công pháp thành"
+    }
+  ]
+}
+```
+
+**Explanation:**
+The translation issue stems from the fact that the original source text mistakenly lists this as Chapter 3 (`# 第三章`), while it is actually Chapter 5 based on the `chapter_number` metadata. The fix adjusts the translation from `# Chương 3` to `# Chương 5` to correctly align with the actual chapter numbering.
