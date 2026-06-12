@@ -109,11 +109,11 @@
           "title": "Huyền ảo"
         }
       ],
-      "completed_chapters": 6,
+      "completed_chapters": 8,
       "total_chapters": 852,
-      "latest_chapter": "Chương 6: Bất ngờ",
+      "latest_chapter": "Chương 7: Tát Mãn Vu",
       "detail": "Tiến độ: 6/852 chương | Mới nhất: Chương 6: Bất ngờ",
-      "updated_at": "2026-06-12T14:00:04.270391+07:00",
+      "updated_at": "2026-06-12T14:25:44+07:00",
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Chu Than Quat Khoi/README.md",
       "toc_path": "Output/Chu Than Quat Khoi/toc.json"
@@ -971,7 +971,7 @@
     }
   ],
   "metadata": {
-    "generated_at": "2026-06-12T14:25:08+07:00",
+    "generated_at": "2026-06-12T14:25:44+07:00",
     "total_books": 17,
     "source": "Dichtrung/Output"
   },

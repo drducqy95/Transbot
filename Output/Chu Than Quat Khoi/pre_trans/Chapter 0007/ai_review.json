@@ -1,0 +1,23 @@
+```json
+{
+  "approved": {
+    "names": [],
+    "terms": []
+  },
+  "rejected": {
+    "names": [],
+    "terms": [
+      "几乎是在骑",
+      "击杀胡人骑兵"
+    ]
+  },
+  "uncertain": {
+    "names": [],
+    "terms": []
+  }
+}
+```
+
+### Rationale
+* **几乎是在骑 (Almost riding):** This is a descriptive phrase rather than a specialized term or proper noun that would typically belong in a glossary.
+* **击杀胡人骑兵 (Kill Hu cavalry):** This is a specific action or event described in a sentence/phrase format, not a standalone glossary term. Individual words like "胡人" (Hu people) or "骑兵" (cavalry) might be glossary terms, but the entire phrase should not be included.

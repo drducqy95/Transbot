@@ -4,3 +4,4 @@
 - 2026-06-12 12:54 | Chapter 4 | completed | Chương 0004 - 0004 队友（求收藏！！！）.md
 - 2026-06-12 13:21 | Chapter 5 | completed | Chương 0005 - 0005 任务（求推荐！）.md
 - 2026-06-12 13:58 | Chapter 6 | completed | Chương 0006 - Chương 6 Bất ngờ.md
+- 2026-06-12 14:25 | Chapter 7 | completed | Chương 0007 - Chương 7 Tát Mãn Vu.md
