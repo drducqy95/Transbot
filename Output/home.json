@@ -12,9 +12,9 @@
       "status": "in_progress",
       "status_label": "Đang ra",
       "ongoing": true,
-      "completed_chapters": 9,
+      "completed_chapters": 10,
       "total_chapters": 1602,
-      "latest_chapter": "Chương 8: Tin vui lan truyền, chúc mừng Trò Chơi Vô Hạn chính thức mở server!",
+      "latest_chapter": "Chương 9: Khảo nghiệm",
       "genre": "eastern_fiction",
       "sub_genre": "unlimited_flow",
       "style_tags": [
@@ -63,7 +63,7 @@
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Chu Than Dai Dao/README.md",
       "toc_path": "Output/Chu Than Dai Dao/toc.json",
-      "updated_at": "2026-06-12T15:13:23+07:00"
+      "updated_at": "2026-06-12T15:52:34+07:00"
     },
     {
       "branch": "Chu Than Quat Khoi",
@@ -971,7 +971,7 @@
     }
   ],
   "metadata": {
-    "generated_at": "2026-06-12T15:52:24+07:00",
+    "generated_at": "2026-06-12T15:52:34+07:00",
     "total_books": 17,
     "source": "Dichtrung/Output"
   },
