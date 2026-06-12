@@ -8,3 +8,4 @@
 - 2026-06-12 15:52 | Chapter 6 | completed | Chương 0006 - Chương 6 Con đường tương lai sẽ rất đặc sắc.md
 - 2026-06-12 16:22 | Chapter 7 | completed | Chương 0007 - Chương 7 Cổ sư chia cửu chuyển, Hoa Tửu lưu di tàng.md
 - 2026-06-12 16:41 | Chapter 8 | completed | Chương 0008 - Chương 8 Vật thị nhân phi.md
+- 2026-06-12 18:11 | Chapter 9 | completed | Chương 0009 - 0009 渐行渐远.md

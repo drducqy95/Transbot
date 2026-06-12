@@ -168,11 +168,11 @@
           "title": "Cổ trùng"
         }
       ],
-      "completed_chapters": 7,
+      "completed_chapters": 10,
       "total_chapters": 1915,
-      "latest_chapter": "Chương 8: Vật thị nhân phi",
+      "latest_chapter": "0009 渐行渐远",
       "detail": "Tiến độ: 7/1915 chương | Mới nhất: Chương 8: Vật thị nhân phi",
-      "updated_at": "2026-06-12T18:00:11.612314+07:00",
+      "updated_at": "2026-06-12T18:11:37+07:00",
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Co Chan Nhan/README.md",
       "toc_path": "Output/Co Chan Nhan/toc.json"
@@ -971,7 +971,7 @@
     }
   ],
   "metadata": {
-    "generated_at": "2026-06-12T18:08:04+07:00",
+    "generated_at": "2026-06-12T18:11:37+07:00",
     "total_books": 17,
     "source": "Dichtrung/Output"
   },
