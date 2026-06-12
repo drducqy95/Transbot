@@ -6,3 +6,4 @@
 - 2026-06-12 15:01 | Chapter 4 | completed | Chương 0004 - Chương 4 Quan Bất Chu ngộ công pháp.md
 - 2026-06-12 15:21 | Chapter 5 | completed | Chương 0005 - Chương 5 Vô danh công pháp thành.md
 - 2026-06-12 16:01 | Chapter 6 | completed | Chương 0006 - Chương 6 Vô danh công pháp thành.md
+- 2026-06-12 16:27 | Chapter 7 | completed | Chương 0007 - Chương 7 Lên đường ba năm.md

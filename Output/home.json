@@ -216,9 +216,9 @@
       "status": "in_progress",
       "status_label": "Đang ra",
       "ongoing": true,
-      "completed_chapters": 7,
+      "completed_chapters": 8,
       "total_chapters": 4026,
-      "latest_chapter": "Chương 6: Vô danh công pháp thành",
+      "latest_chapter": "Chương 7: Lên đường ba năm",
       "genre": "eastern_fiction",
       "sub_genre": "xianxia",
       "style_tags": [
@@ -267,7 +267,7 @@
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Phi Pham Hong Hoang/README.md",
       "toc_path": "Output/Phi Pham Hong Hoang/toc.json",
-      "updated_at": "2026-06-12T16:01:59+07:00"
+      "updated_at": "2026-06-12T16:27:37+07:00"
     },
     {
       "branch": "Ta Te Bao Nguc Giam",
@@ -971,7 +971,7 @@
     }
   ],
   "metadata": {
-    "generated_at": "2026-06-12T16:23:30+07:00",
+    "generated_at": "2026-06-12T16:27:37+07:00",
     "total_books": 17,
     "source": "Dichtrung/Output"
   },
