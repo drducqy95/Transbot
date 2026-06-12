@@ -12,3 +12,4 @@
 - 2026-06-12 16:35 | Chapter 9 | completed | Chương 0009 - Chương 9 Khách tới.md
 - 2026-06-12 17:54 | Chapter 10 | completed | Chương 0010 - Chương 10 Giao dịch.md
 - 2026-06-12 18:17 | Chapter 11 | completed | Chương 0011 - Chương 11 Bí kíp (Cầu ủng hộ).md
+- 2026-06-12 18:47 | Chapter 12 | completed | Chương 0012 - Chương 12 Độc Long Thảo.md

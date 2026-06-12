@@ -1,0 +1,538 @@
+```json
+{
+  "chapter_number": 12,
+  "chapter_title_vi": "Chương 12: Độc Long Thảo",
+  "segments": [
+    {
+      "segment_id": "0001",
+      "source": "# 第12章 毒龙草",
+      "target": "Chương 12: Độc Long Thảo"
+    },
+    {
+      "segment_id": "0002",
+      "source": "数个大汉手持棍棒，面色不善地将方元团团围住。",
+      "target": "Vài tên tráng hán cầm gậy gộc trong tay, vẻ mặt bất thiện vây chặt Phương Nguyên vào giữa."
+    },
+    {
+      "segment_id": "0003",
+      "source": "敌众我寡之下，若是普通人遇到，必然要被打得抱头鼠窜。",
+      "target": "Dưới tình thế địch đông ta ít, nếu là người bình thường gặp phải, tất nhiên sẽ bị đánh cho ôm đầu bỏ chạy trối chết."
+    },
+    {
+      "segment_id": "0004",
+      "source": "方元还未开始习武，自然也是普通人一个，但他看着这些恶奴，嘴角却是带起一丝嘲讽的笑意。",
+      "target": "Phương Nguyên chưa bắt đầu tập võ, tự nhiên cũng là một người bình thường, nhưng hắn nhìn những ác nô này, khóe miệng lại nhếch lên một nụ cười trào phúng."
+    },
+    {
+      "segment_id": "0005",
+      "source": "“这个时候还敢笑，废了他！”",
+      "target": "“Lúc này mà còn dám cười, phế hắn đi!”"
+    },
+    {
+      "segment_id": "0006",
+      "source": "“打！”",
+      "target": "“Đánh!”"
+    },
+    {
+      "segment_id": "0007",
+      "source": "周家的豪仆都是横行惯的，霸道无比，直接喝着。",
+      "target": "Hào bộc của Chu gia đều quen thói ngang ngược, vô cùng bá đạo, trực tiếp quát lớn."
+    },
+    {
+      "segment_id": "0008",
+      "source": "嗖！",
+      "target": "Vút!"
+    },
+    {
+      "segment_id": "0009",
+      "source": "一道白光浮现，快如浮光掠影一般，在场中几闪。",
+      "target": "Một luồng bạch quang hiện lên, nhanh như phù quang lược ảnh, lóe lên vài cái trong sân."
+    },
+    {
+      "segment_id": "0010",
+      "source": "“啊！”",
+      "target": "“Á!”"
+    },
+    {
+      "segment_id": "0011",
+      "source": "旋即，几声惨叫传来。",
+      "target": "Ngay sau đó, vài tiếng kêu thảm thiết vang lên."
+    },
+    {
+      "segment_id": "0012",
+      "source": "等到周文馨回过神来之时，却发现她的手下已经倒了一地，捂着右手臂，血流如注。",
+      "target": "Đợi đến khi Chu Văn Hinh lấy lại tinh thần, lại phát hiện thủ hạ của nàng ta đã ngã rạp trên mặt đất, ôm cánh tay phải, máu chảy ròng ròng."
+    },
+    {
+      "segment_id": "0013",
+      "source": "“这……这是什么机关妖法？”",
+      "target": "“Đây... Đây là cơ quan yêu pháp gì?”"
+    },
+    {
+      "segment_id": "0014",
+      "source": "她脸色一下雪白，看到方元走过来，更是连连被吓得往后倒退：“不……不要过来！”",
+      "target": "Sắc mặt nàng ta thoắt cái trắng bệch, nhìn thấy Phương Nguyên đi tới, càng sợ tới mức liên tục lùi về sau: “Ngươi... Ngươi đừng qua đây!”"
+    },
+    {
+      "segment_id": "0015",
+      "source": "“周姑娘！之前的交易，是我与林叔所做，药材也经过他确认，什么假药之言，是谁告诉你的？”",
+      "target": "“Chu cô nương! Giao dịch trước đó là do ta và Lâm thúc thực hiện, dược liệu cũng đã qua hắn xác nhận, cái gì mà thuốc giả, là ai nói cho ngươi biết?”"
+    },
+    {
+      "segment_id": "0016",
+      "source": "方元一步步上前，眸子里带着冷光，今天若非他有着花狐貂这头护谷灵兽，下场恐怕不会太好。",
+      "target": "Phương Nguyên từng bước tiến lên, trong con ngươi mang theo tia sáng lạnh lẽo, hôm nay nếu không phải hắn có con hộ cốc linh thú Hoa Hồ Điêu này, kết cục e là sẽ không tốt đẹp gì."
+    },
+    {
+      "segment_id": "0017",
+      "source": "“呜哇！”",
+      "target": "“Oa oa!”"
+    },
+    {
+      "segment_id": "0018",
+      "source": "周文馨连连倒退，突然脚下一拐，摔倒在地，一下哭了起来：“呜呜……你欺负人！”",
+      "target": "Chu Văn Hinh liên tục lùi lại, đột nhiên trượt chân ngã nhào xuống đất, òa khóc nức nở: “Huhu... Ngươi bắt nạt người ta!”"
+    },
+    {
+      "segment_id": "0019",
+      "source": "“我去！”",
+      "target": "“Vãi!”"
+    },
+    {
+      "segment_id": "0020",
+      "source": "见到这一幕的方元心里非常无语。",
+      "target": "Nhìn thấy cảnh này, trong lòng Phương Nguyên vô cùng cạn lời."
+    },
+    {
+      "segment_id": "0021",
+      "source": "明明是这帮人上门当恶客，自己这种欺辱小女生的赶脚是什么鬼？",
+      "target": "Rõ ràng là đám người này chạy tới tận cửa làm ác khách, cảm giác mình đang bắt nạt tiểu nữ sinh này là cái quỷ gì?"
+    },
+    {
+      "segment_id": "0022",
+      "source": "“快说，还是你想跟他们一样！”",
+      "target": "“Nói mau, hay là ngươi muốn giống như bọn chúng!”"
+    },
+    {
+      "segment_id": "0023",
+      "source": "方元冷声恐吓，又踢了一脚旁边的某个倒霉奴仆。",
+      "target": "Phương Nguyên lạnh lùng dọa dẫm, lại đá thêm một cước vào một tên nô bộc xui xẻo bên cạnh."
+    },
+    {
+      "segment_id": "0024",
+      "source": "惨叫当中，周文馨的哭声却是一下止住了：“是……是宋志高说的！”",
+      "target": "Giữa tiếng kêu thảm thiết, tiếng khóc của Chu Văn Hinh lại đột ngột im bặt: “Là... Là Tống Chí Cao nói!”"
+    },
+    {
+      "segment_id": "0025",
+      "source": "“宋志高是谁？”",
+      "target": "“Tống Chí Cao là ai?”"
+    },
+    {
+      "segment_id": "0026",
+      "source": "“归灵宗外门买办！”",
+      "target": "“Ngoại môn mãi biện của Quy Linh tông!”"
+    },
+    {
+      "segment_id": "0027",
+      "source": "……",
+      "target": "..."
+    },
+    {
+      "segment_id": "0028",
+      "source": "在方元的逼问之下，周文馨这个傲娇女被撕开表皮，顿时将什么都倾倒得一干二净。",
+      "target": "Dưới sự gạn hỏi của Phương Nguyên, lớp vỏ bọc ngạo kiều của Chu Văn Hinh bị xé rách, lập tức tuôn ra sạch sành sanh mọi chuyện."
+    },
+    {
+      "segment_id": "0029",
+      "source": "据她所说，上次交易，获得红山参之后，兄妹二人喜不自胜，回去就给周老爷用下。",
+      "target": "Theo lời nàng ta nói, lần giao dịch trước, sau khi có được Hồng Sơn Sâm, hai anh em mừng rỡ khôn xiết, quay về liền cho Chu lão gia dùng ngay."
+    },
+    {
+      "segment_id": "0030",
+      "source": "而周老爷也的确有着好转，只是好景不长，伤势短暂稳定之后，竟然又恶化了起来，到了现在，已经近乎药石无灵的地步！",
+      "target": "Mà Chu lão gia cũng thật sự có chuyển biến tốt, chỉ là cảnh tượng ấy không kéo dài được bao lâu, sau khi thương thế tạm thời ổn định lại bất ngờ trở nên tồi tệ hơn, đến tận bây giờ, đã gần như tới mức hết thuốc chữa!"
+    },
+    {
+      "segment_id": "0031",
+      "source": "当然，周家二哥与林本初清楚，这并不是方元红山参的过错，但周文馨本来就是一个喜欢迁怒的性子，又如何能容忍？",
+      "target": "Tất nhiên, Chu gia nhị ca và Lâm Bản Sơ biết rõ đây không phải lỗi do Hồng Sơn Sâm của Phương Nguyên, nhưng Chu Văn Hinh vốn là một người có tính thích giận cá chém thớt, làm sao có thể nhẫn nhịn?"
+    },
+    {
+      "segment_id": "0032",
+      "source": "再加上与周家相熟的宋志高一挑拨，顿时就到了这个地步。",
+      "target": "Cộng thêm việc Tống Chí Cao vốn quen biết Chu gia châm ngòi ly gián một chút, lập tức liền đi đến bước đường này."
+    },
+    {
+      "segment_id": "0033",
+      "source": "“宋志高？负责外门采买？”",
+      "target": "“Tống Chí Cao? Phụ trách mua sắm ngoại môn?”"
+    },
+    {
+      "segment_id": "0034",
+      "source": "方元摸了摸下巴，感觉隐约抓住了某个脉络。",
+      "target": "Phương Nguyên xoa xoa cằm, cảm thấy lờ mờ nắm bắt được một manh mối nào đó."
+    },
+    {
+      "segment_id": "0035",
+      "source": "“此人我从未见过，也没听别人说过名字，可谓无冤无仇，真要惹下，八成就是上次蕾月的婚事了，果然麻烦……”",
+      "target": "“Người này ta chưa từng gặp mặt, cũng chưa nghe ai nhắc đến tên, có thể nói là không thù không oán, nếu thực sự chuốc lấy rắc rối, tám phần mười chính là do hôn sự của Lôi Nguyệt lần trước, quả nhiên là rắc rối...”"
+    },
+    {
+      "segment_id": "0036",
+      "source": "天可怜见，以他淡泊的性格，若是知晓订下婚约之后会有这种麻烦，当初死活也不可能同意的。",
+      "target": "Trời cao có mắt, với tính cách đạm bạc của hắn, nếu biết trước định ra hôn ước sẽ gặp phải loại phiền phức này, lúc đầu sống chết hắn cũng không thể nào đồng ý."
+    },
+    {
+      "segment_id": "0037",
+      "source": "“你要说的，人家都说了，你可不可以放了我……”",
+      "target": "“Những gì ngươi muốn biết, người ta đều đã nói rồi, ngươi có thể thả ta ra được không...”"
+    },
+    {
+      "segment_id": "0038",
+      "source": "到了最后，周文馨泪眼汪汪地道，身上刁蛮之气不见，倒是充满了一种楚楚可怜的味道。",
+      "target": "Đến cuối cùng, Chu Văn Hinh rơm rớm nước mắt nói, vẻ điêu ngoa trên người biến mất, thay vào đó lại tràn ngập một hương vị sở sở đáng thương."
+    },
+    {
+      "segment_id": "0039",
+      "source": "奈何，一个养尊处优的富家千金或许漂亮，但在深山中跋涉多时，再在泥地里滚个几滚，会是什么模样？",
+      "target": "Ngặt nỗi, một thiên kim nhà giàu sống trong nhung lụa có lẽ rất xinh đẹp, nhưng sau một thời gian lội bộ trong thâm sơn, lại lăn lộn trên bùn đất vài vòng, sẽ có bộ dạng gì?"
+    },
+    {
+      "segment_id": "0040",
+      "source": "反正方元表示，自己牙口远远没有这般好。",
+      "target": "Dù sao thì Phương Nguyên cũng tỏ vẻ, khẩu vị của hắn không hề tốt đến như vậy."
+    },
+    {
+      "segment_id": "0041",
+      "source": "“你走吧！带上你的狗一起！”",
+      "target": "“Ngươi đi đi! Dẫn theo đám chó của ngươi đi cùng nữa!”"
+    },
+    {
+      "segment_id": "0042",
+      "source": "方元心道这小妞如此大张旗鼓地找来，也不知道给多少人看见，难道自己真的能杀人外加毁尸灭迹不成？直接冷着脸道。",
+      "target": "Phương Nguyên thầm nghĩ cô ả này khua chiêng gõ mõ tìm tới đây như vậy, cũng không biết đã bị bao nhiêu người nhìn thấy, chẳng lẽ mình thật sự có thể giết người rồi cẩn thận hủy thi diệt tích hay sao? Hắn liền lạnh mặt nói thẳng."
+    },
+    {
+      "segment_id": "0043",
+      "source": "“快走！”",
+      "target": "“Đi mau!”"
+    },
+    {
+      "segment_id": "0044",
+      "source": "见此，周文馨立即与一干狗腿子掺扶着跑开，仿佛背后有着什么洪水猛兽在追逐一般。",
+      "target": "Thấy vậy, Chu Văn Hinh lập tức cùng một đám tay sai dìu dắt nhau chạy đi, cứ như thể sau lưng có thứ hồng thủy mãnh thú nào đó đang đuổi theo."
+    },
+    {
+      "segment_id": "0045",
+      "source": "在他们心里，刚才不知道用了什么办法轻易放倒如此多壮汉的方元，已经跟辟居深山，会使用邪魔法术的妖人无异。",
+      "target": "Trong lòng bọn họ, Phương Nguyên vừa nãy không biết đã dùng cách nào có thể dễ dàng đánh gục nhiều tráng hán như vậy, giờ đã chẳng khác gì yêu nhân sử dụng tà ma pháp thuật lẩn trốn trong thâm sơn."
+    },
+    {
+      "segment_id": "0046",
+      "source": "……",
+      "target": "..."
+    },
+    {
+      "segment_id": "0047",
+      "source": "“咯咯？”",
+      "target": "“Cục cục?”"
+    },
+    {
+      "segment_id": "0048",
+      "source": "直到他们都离开之后，花狐貂才现身出来，绕着方元兜着圈子，似乎在讨要奖赏。",
+      "target": "Mãi đến khi bọn họ rời đi hết, Hoa Hồ Điêu mới hiện thân ra, chạy vòng quanh Phương Nguyên, dường như đang đòi phần thưởng."
+    },
+    {
+      "segment_id": "0049",
+      "source": "“做得不错！关键是你的速度……又变快了！”",
+      "target": "“Làm không tệ! Quan trọng là tốc độ của ngươi... lại nhanh hơn rồi!”"
+    },
+    {
+      "segment_id": "0050",
+      "source": "自从上次种植园之后，方元这还是第一次看到花狐貂全力出手，之前的花狐貂就奔行绝迹，只能看到一条淡淡的影子。",
+      "target": "Kể từ lần ở khu đồn điền trước, đây vẫn là lần đầu tiên Phương Nguyên nhìn thấy Hoa Hồ Điêu ra tay dốc toàn lực, trước đây Hoa Hồ Điêu vốn đã chạy trốn thoắt ẩn thoắt hiện, chỉ có thể nhìn thấy một cái bóng mờ nhạt."
+    },
+    {
+      "segment_id": "0051",
+      "source": "但到了现在，似乎是因为灵茶滋补的缘故，速度更上一层楼，简直如同电光石火一般，就好像那些豪仆，纵然倒下了都不知道是被什么袭击的。",
+      "target": "Nhưng đến hiện tại, dường như vì được linh trà tẩm bổ, tốc độ đã tăng lên một bậc, quả thực chẳng khác nào tia chớp, giống như những tên hào bộc kia, cho dù ngã gục xuống cũng chẳng biết mình bị thứ gì tấn công."
+    },
+    {
+      "segment_id": "0052",
+      "source": "方元自问与他们易地而处，情况也好不到哪去。",
+      "target": "Phương Nguyên tự hỏi nếu đổi chỗ với bọn họ, tình hình của hắn e là cũng chẳng khá hơn là bao."
+    },
+    {
+      "segment_id": "0053",
+      "source": "“幸好花狐貂你当时没有这么生猛，否则我哪里还有命在……”",
+      "target": "“May mà lúc đó ngươi không hung hãn như vậy Hoa Hồ Điêu à, nếu không làm gì ta còn mạng mà sống...”"
+    },
+    {
+      "segment_id": "0054",
+      "source": "他抚摸着花狐貂的头，有些心有余悸地道。",
+      "target": "Hắn vuốt ve đầu Hoa Hồ Điêu, có chút sợ hãi rụt rè cất giọng."
+    },
+    {
+      "segment_id": "0055",
+      "source": "渐渐习惯了的花狐貂却是惬意地眯起了眼睛，又举了举小爪子，似乎在夸耀着：‘还有什么对付不了的人，都可以交给我！’",
+      "target": "Hoa Hồ Điêu dần dần thành thói quen lại thỏa mãn nheo mắt lại, nhấc đôi móng vuốt nhỏ lên, dường như đang khoe khoang: ‘Còn có kẻ nào không đối phó được, đều có thể giao cho ta!’"
+    },
+    {
+      "segment_id": "0056",
+      "source": "这种傲娇满满的姿态，顿时令方元忍俊不禁起来。",
+      "target": "Dáng vẻ ngập tràn kiêu ngạo này, lập tức khiến Phương Nguyên không nhịn được mà bật cười."
+    },
+    {
+      "segment_id": "0057",
+      "source": "……",
+      "target": "..."
+    },
+    {
+      "segment_id": "0058",
+      "source": "“花狐貂虽然厉害，但根据秘笈上所言，即使只破了第一关的武道好手，也会变得耳聪目明，反应激增，远超普通人……或许还是能够看清花狐貂的行动轨迹！”",
+      "target": "“Hoa Hồ Điêu tuy lợi hại, nhưng theo như bí kíp nói, cho dù chỉ là cao thủ võ đạo đột phá cửa ải đầu tiên, cũng sẽ trở nên tai thính mắt tinh, phản ứng tăng vọt, vượt xa người bình thường... Có lẽ vẫn có thể nhìn rõ được quỹ đạo hành động của Hoa Hồ Điêu!”"
+    },
+    {
+      "segment_id": "0059",
+      "source": "幽谷之内，方元看着黑沙掌的秘笈，默然不语。",
+      "target": "Trong u cốc, Phương Nguyên nhìn bí kíp Hắc Sa Chưởng, im lặng không nói."
+    },
+    {
+      "segment_id": "0060",
+      "source": "此时的花狐貂，大概也算得上一位人类中破关的武道好手。",
+      "target": "Hoa Hồ Điêu vào lúc này, đại khái cũng coi như là một cao thủ võ đạo trong loài người đã đột phá cửa ải."
+    },
+    {
+      "segment_id": "0061",
+      "source": "上次周文馨所带来的，却只是一帮普通人罢了，纵然学过几天拳脚，也只有一股蛮力，根本算不上真正的修行中人。",
+      "target": "Lần trước Chu Văn Hinh mang đến đây, cũng chỉ là một đám người bình thường mà thôi, cho dù có từng học quyền cước vài ngày đi nữa, thì cũng chỉ có một luồng sức mạnh man rợ, căn bản không tính là người tu hành chân chính."
+    },
+    {
+      "segment_id": "0062",
+      "source": "以周家的势力，这样的武者，未必会缺少！",
+      "target": "Với thế lực của Chu gia, những võ giả như vậy chưa chắc đã thiếu!"
+    },
+    {
+      "segment_id": "0063",
+      "source": "等到周文馨回过味来，请来周家的供奉什么的，方元自己还真的没有多少把握应对。",
+      "target": "Đến khi Chu Văn Hinh hiểu ra vấn đề, mời tới đám cung phụng của Chu gia hay gì đó tương tự, chính bản thân Phương Nguyên thực sự cũng không nắm chắc phần thắng để đối phó."
+    },
+    {
+      "segment_id": "0064",
+      "source": "“我的红山参绝对没有问题，若是那周老爷只是伤了元气的话，不至于如此！”",
+      "target": "“Hồng Sơn Sâm của ta chắc chắn không có vấn đề gì, nếu vị Chu lão gia kia chỉ là bị tổn thương nguyên khí, sẽ không đến mức độ này!”"
+    },
+    {
+      "segment_id": "0065",
+      "source": "对于自己的东西，方元自然很有信心。",
+      "target": "Đối với đồ vật của mình, Phương Nguyên tự nhiên có thừa lòng tin."
+    },
+    {
+      "segment_id": "0066",
+      "source": "“那么……他的伤势，必然牵扯到了什么别的东西！”",
+      "target": "“Vậy thì... Vết thương của ông ta, tất nhiên có liên quan đến một thứ gì đó khác!”"
+    },
+    {
+      "segment_id": "0067",
+      "source": "他倒是很佩服林本初的胆量，面对这种浑水，还敢光着膀子往里面跳。",
+      "target": "Hắn ngược lại rất khâm phục sự can đảm của Lâm Bản Sơ, đối mặt với loại nước đục này, vẫn dám tay không dấn thân vào."
+    },
+    {
+      "segment_id": "0068",
+      "source": "“关键是你自己跳也就罢了，还溅我一身泥！”",
+      "target": "“Quan trọng là chính ngươi nhảy vào thì cũng đành đi, lại còn làm ta văng bùn khắp người nữa!”"
+    },
+    {
+      "segment_id": "0069",
+      "source": "方元顿时有些怨念。",
+      "target": "Phương Nguyên bỗng dưng nảy sinh chút bực bội."
+    },
+    {
+      "segment_id": "0070",
+      "source": "“若是按照前世某些小说里面的套路，我现在是不是就应该主动出山，去展露医术，治好周老爷子，外加跟那些幕后黑手对上什么的……”",
+      "target": "“Nếu như làm theo lối mòn trong một số bộ tiểu thuyết ở kiếp trước, bây giờ chẳng phải ta nên chủ động xuống núi, thể hiện y thuật, chữa trị cho Chu lão gia tử, cộng thêm việc đối đầu với những kẻ giật dây sau lưng hay sao...”"
+    },
+    {
+      "segment_id": "0071",
+      "source": "他思维发散开，默默想着。",
+      "target": "Suy nghĩ của hắn bay xa, âm thầm nhẩm tính."
+    },
+    {
+      "segment_id": "0072",
+      "source": "实际上，这的确是一条积极解决之道，但方元就是不想这么做。",
+      "target": "Thực ra, đây quả thực là một cách giải quyết tích cực, nhưng Phương Nguyên lại không muốn làm như vậy."
+    },
+    {
+      "segment_id": "0073",
+      "source": "至于原因么……",
+      "target": "Còn về nguyên nhân ấy à..."
+    },
+    {
+      "segment_id": "0074",
+      "source": "今年已经出山过一次了，他实在不想再跑第二趟，并且，治病外带找出幕后黑手什么的，实在太麻烦了。",
+      "target": "Năm nay đã xuống núi một lần rồi, hắn thực sự không muốn chạy thêm chuyến thứ hai, vả lại, vừa chữa bệnh vừa tìm ra kẻ giật dây sau lưng các kiểu, thực sự quá phiền phức."
+    },
+    {
+      "segment_id": "0075",
+      "source": "方元懒洋洋打了个哈欠，决定回去睡个回笼觉先。",
+      "target": "Phương Nguyên lười biếng ngáp một cái, quyết định quay về ngủ nướng một giấc đã."
+    },
+    {
+      "segment_id": "0076",
+      "source": "……",
+      "target": "..."
+    },
+    {
+      "segment_id": "0077",
+      "source": "“花狐貂啊，以后要是我被人追得逃命，可就全靠你了！”",
+      "target": "“Hoa Hồ Điêu à, sau này nếu như ta bị người ta đuổi giết, thì phải trông cậy hết vào ngươi rồi!”"
+    },
+    {
+      "segment_id": "0078",
+      "source": "半天之后，方元背着竹篓，在深山里跋涉，又看了看轻灵无比的花狐貂，不由羡慕道。",
+      "target": "Nửa ngày sau, Phương Nguyên cõng sọt tre, lội bộ vào sâu trong núi, lại liếc nhìn Hoa Hồ Điêu nhanh nhẹn vô song, không khỏi ghen tị nói."
+    },
+    {
+      "segment_id": "0079",
+      "source": "幽谷四面通向深山，绝对没有被围困之虞，特别是当年的问心居士，在建造屋舍的时候，还特意留下了几条逃生密道，此时只有方元一人知道。",
+      "target": "Bốn bề u cốc đều dẫn vào thâm sơn, hoàn toàn không có mối lo bị vây khốn, đặc biệt là Vấn Tâm Cư Sĩ năm đó, khi xây dựng nhà cửa, còn cố ý để lại vài lối thoát hiểm bí mật, lúc này chỉ có một mình Phương Nguyên biết rõ."
+    },
+    {
+      "segment_id": "0080",
+      "source": "方元强烈怀疑，他这位师父之前说不定在外面也犯下了什么大事，有些惊弓之鸟，否则不仅生前随时准备跑路，死后还要那么布置，怎么看怎么有些不正常。",
+      "target": "Phương Nguyên cực kỳ nghi ngờ, vị sư phụ này của hắn trước đây không chừng ở bên ngoài cũng đã gây ra chuyện lớn tày trời gì đó, có hơi giống như chim sợ cành cong, nếu không thì chẳng những lúc còn sống luôn sẵn sàng chạy trốn bất cứ lúc nào, sau khi chết còn phải bố trí cẩn thận như vậy, nhìn thế nào cũng thấy có chút không bình thường."
+    },
+    {
+      "segment_id": "0081",
+      "source": "不过得益于他未雨绸缪的福，现在的方元却是每天都睡得非常安稳。",
+      "target": "Nhưng mà cũng nhờ phúc lo trước khỏi họa của ông, Phương Nguyên hiện tại lại mỗi ngày đều ngủ vô cùng an giấc."
+    },
+    {
+      "segment_id": "0082",
+      "source": "而此时，看着花狐貂在密林中奔行绝迹，方元玩笑一句，又有些惋惜。",
+      "target": "Và lúc này, nhìn Hoa Hồ Điêu thoắt ẩn thoắt hiện trong rừng rậm, Phương Nguyên đùa một câu, lại có chút tiếc nuối."
+    },
+    {
+      "segment_id": "0083",
+      "source": "若是白貂再大一点，自己或许就可以骑上祂，遨游整个清灵山脉，如履平地，那就不知道是一种怎样的快意了。",
+      "target": "Nếu Bạch Điêu lớn hơn một chút nữa, bản thân hắn có lẽ có thể cưỡi lên lưng nó, ngao du khắp dãy núi Thanh Linh, cứ như đi trên đất bằng, đó sẽ không biết là loại sảng khoái đến mức nào."
+    },
+    {
+      "segment_id": "0084",
+      "source": "爬山可是一件体力活，特别是深山老林当中，藤蔓密布，绝对没有什么石阶小道，相反却是猛兽毒虫更多一点。",
+      "target": "Leo núi nhưng lại là một công việc đòi hỏi thể lực, đặc biệt là trong thâm sơn cùng cốc, dây leo giăng kín, tuyệt đối không có con đường bậc đá nào cả, trái lại thì mãnh thú côn trùng độc hại lại nhiều hơn một chút."
+    },
+    {
+      "segment_id": "0085",
+      "source": "方元一边用柴刀将拦路的荆棘丛劈开，一边有些气喘吁吁地前行。",
+      "target": "Phương Nguyên vừa dùng đao bổ củi chém đứt bụi gai cản đường, vừa thở hồng hộc đi về phía trước."
+    },
+    {
+      "segment_id": "0086",
+      "source": "这几天他通过各种威逼利诱，总算令花狐貂妥协，带他进入深山，去寻找灵肥的踪迹。",
+      "target": "Mấy ngày nay hắn thông qua đủ loại ép buộc dụ dỗ, cuối cùng cũng khiến Hoa Hồ Điêu thỏa hiệp, đưa hắn tiến vào thâm sơn, đi tìm kiếm tung tích của linh phì."
+    },
+    {
+      "segment_id": "0087",
+      "source": "只是他非常怀疑这花狐貂根本是在向他装傻，自从进入深山之后就彻底撒了欢，更左跑右逛，一些珍惜药材见了不少，却丝毫没有灵肥的半点影子。",
+      "target": "Chỉ là hắn cực kỳ nghi ngờ con Hoa Hồ Điêu này căn bản đang giả ngốc với hắn, từ sau khi tiến vào trong núi sâu liền hoàn toàn chạy loanh quanh tung tăng hớn hở, lại còn chạy đi thăm thú trái phải, nhìn thấy không ít dược liệu trân quý, thế nhưng lại hoàn toàn không thấy nửa điểm bóng dáng của linh phì."
+    },
+    {
+      "segment_id": "0088",
+      "source": "“花狐貂，别想狡辩了，从你带来的份量来看，那些灵肥应该还有很多才对！”",
+      "target": "“Hoa Hồ Điêu, đừng hòng ngụy biện nữa, từ khối lượng ngươi mang đến mà nhìn, số linh phì đó lẽ ra phải còn rất nhiều mới đúng!”"
+    },
+    {
+      "segment_id": "0089",
+      "source": "方元看了看日头，停止继续前进的举动，找了块大石头坐下，吃着中午的饭团，又丢了花狐貂一个。",
+      "target": "Phương Nguyên nhìn mặt trời, dừng động tác tiếp tục tiến lên lại, tìm một tảng đá lớn ngồi xuống, ăn nắm cơm trưa, lại ném cho Hoa Hồ Điêu một vắt."
+    },
+    {
+      "segment_id": "0090",
+      "source": "“咯咯！咯咯！”",
+      "target": "“Cục cục! Cục cục!”"
+    },
+    {
+      "segment_id": "0091",
+      "source": "花狐貂抱着饭团，仿佛松鼠啃松果一下，转了几圈，飞快吃完，这才用小爪子比划。",
+      "target": "Hoa Hồ Điêu ôm lấy nắm cơm, tựa như con sóc gặm quả thông nhỏ, quay vòng vòng vài cái, nhanh chóng ăn xong, lúc này mới dùng cái vuốt nhỏ mà ra dấu."
+    },
+    {
+      "segment_id": "0092",
+      "source": "方元跟它鸡同鸭讲地比划了半天，勉强明白了意思：“那里我现在还不能去？只能在附近选找找其它好东西？”",
+      "target": "Phương Nguyên ra dấu một lúc lâu với nó như vịt nghe sấm, miễn cưỡng mới hiểu được ý tứ: “Nơi đó hiện giờ ta còn chưa đi được sao? Chỉ có thể đi tìm kiếm những thứ tốt khác ở gần đây?”"
+    },
+    {
+      "segment_id": "0093",
+      "source": "他回过头，看了看竹篓里的收获，勉强同意了这个说法：“好吧，不过再去下一处，我们就回去吧！今天采集的珍惜药材，都要好好封存起来，否则就实在太过暴殄天物了！”",
+      "target": "Hắn ngoảnh đầu lại, nhìn vào thu hoạch trong sọt tre, gượng gạo đồng ý với cách giải thích này: “Được rồi, nhưng đến chỗ tiếp theo xong, chúng ta sẽ quay về nhé! Dược liệu quý hiếm hái được hôm nay, đều phải niêm phong lưu giữ cẩn thận, bằng không thực sự quá lãng phí của trời!”"
+    },
+    {
+      "segment_id": "0094",
+      "source": "喝了一蓬清凉的泉水之后，方元抖擞精神，跟花狐貂继续上路，到了一处雾气萦绕的洼地。",
+      "target": "Uống một ngụm nước suối trong mát mẻ xong, Phương Nguyên vực dậy tinh thần, cùng Hoa Hồ Điêu tiếp tục lên đường, tới một vùng trũng sương mù lượn lờ."
+    },
+    {
+      "segment_id": "0095",
+      "source": "“唔……这种地方，最多瘴气毒雾！”",
+      "target": "“Ừm... Loại địa phương này, nhiều chướng khí sương độc nhất!”"
+    },
+    {
+      "segment_id": "0096",
+      "source": "方元一见色彩有些斑斓的雾气，顿时皱着眉头，忙不迭地往鼻下抹了问心居士配置的药散。",
+      "target": "Phương Nguyên vừa thấy lớp sương mù hơi có màu sắc sặc sỡ, tức khắc nhíu mày, vội vàng xoa thuốc bột do Vấn Tâm Cư Sĩ bào chế xuống dưới mũi."
+    },
+    {
+      "segment_id": "0097",
+      "source": "任何行走深山的猎人、采药人，都少不了这个，但还是问心居士所制的效果最佳。",
+      "target": "Bất kỳ thợ săn hay người hái thuốc nào hành tẩu trong thâm sơn, đều không thể thiếu thứ này, nhưng vẫn là thuốc của Vấn Tâm Cư Sĩ tự tay bào chế có hiệu quả tốt nhất."
+    },
+    {
+      "segment_id": "0098",
+      "source": "“咯咯！”",
+      "target": "“Cục cục!”"
+    },
+    {
+      "segment_id": "0099",
+      "source": "花狐貂一马当先，显得有些急迫。",
+      "target": "Hoa Hồ Điêu đi đầu, tỏ vẻ hơi khẩn cấp."
+    },
+    {
+      "segment_id": "0100",
+      "source": "“哈哈……这么着急做什么？”",
+      "target": "“Haha... Gấp gáp như vậy làm gì?”"
+    },
+    {
+      "segment_id": "0101",
+      "source": "方元笑嘻嘻跟上，拨开一丛杂草之后，却是深吸口气：“毒龙草？！”",
+      "target": "Phương Nguyên cười hì hì theo sau, sau khi vạch một bụi cỏ dại ra, lại hít sâu một hơi: “Độc Long Thảo?!”"
+    },
+    {
+      "segment_id": "0102",
+      "source": "在他面前，一处水潭边上，白色的乱石中，一株紫色的药草十分显眼。",
+      "target": "Ở trước mặt hắn, bên cạnh một đầm nước, lẫn giữa bãi đá vụn màu trắng, một cây linh thảo màu tím vô cùng bắt mắt."
+    },
+    {
+      "segment_id": "0103",
+      "source": "这是问心居士提过的一味名贵药材，生长在剧毒之地，有以毒攻毒的神效，许多高阶解毒药方，都需要这个。",
+      "target": "Đây là một vị dược liệu danh giá mà Vấn Tâm Cư Sĩ đã từng nhắc tới, mọc ở mảnh đất kịch độc, có công hiệu thần kỳ lấy độc trị độc, rất nhiều bài thuốc giải độc cao cấp, đều cần đến thứ này."
+    },
+    {
+      "segment_id": "0104",
+      "source": "“好东西！”",
+      "target": "“Đồ tốt!”"
+    },
+    {
+      "segment_id": "0105",
+      "source": "方元眼睛一亮，却没有冒然动作。",
+      "target": "Hai mắt Phương Nguyên sáng rực lên, nhưng lại không mạo hiểm hành động."
+    },
+    {
+      "segment_id": "0106",
+      "source": "此等药材，已经算是半株灵物，旁边或许就有凶兽守护！",
+      "target": "Loại dược liệu cỡ này, đã được coi là nửa cây linh vật, bên cạnh có lẽ sẽ có hung thú canh giữ!"
+    }
+  ]
+}
+```
