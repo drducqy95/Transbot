@@ -63,3 +63,8 @@ Chapter 11 completed via pipeline.
 
 ### Summary
 Chapter 12 completed via pipeline.
+
+## Chapter 0013 - Chương 13 Aizen: Muốn xem Thế giới đầu của tôi không?
+
+### Summary
+Chapter 13 completed via pipeline.
