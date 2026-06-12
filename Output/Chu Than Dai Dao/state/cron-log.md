@@ -4,3 +4,4 @@
 - 2026-06-11 22:53 | Chapter 2 | completed | Chương 0002 - Chương 2 Sức tưởng tượng của người Trái Đất há đám thổ dân kia có thể sánh bằng!.md
 - 2026-06-12 07:18 | Chapter 3 | completed | Chương 0003 - Chương 3 Khai thiên lập địa, tiểu thiên thế giới.md
 - 2026-06-12 10:57 | Chapter 4 | completed | Chương 0004 - Chương 4 Nghề nghiệp truyền kỳ cũng phải xem hoàn cảnh chứ.md
+- 2026-06-12 14:24 | Chapter 5 | completed | Chương 0005 - Chương 5 Mọi thứ đã sẵn sàng, chỉ chờ phong thần.md

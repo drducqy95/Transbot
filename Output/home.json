@@ -12,9 +12,9 @@
       "status": "in_progress",
       "status_label": "Đang ra",
       "ongoing": true,
-      "completed_chapters": 4,
+      "completed_chapters": 6,
       "total_chapters": 1602,
-      "latest_chapter": "Chương 4: Nghề nghiệp truyền kỳ cũng phải xem hoàn cảnh chứ",
+      "latest_chapter": "Chương 5: Mọi thứ đã sẵn sàng, chỉ chờ phong thần",
       "genre": "eastern_fiction",
       "sub_genre": "unlimited_flow",
       "style_tags": [
@@ -63,7 +63,7 @@
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Chu Than Dai Dao/README.md",
       "toc_path": "Output/Chu Than Dai Dao/toc.json",
-      "updated_at": "2026-06-12T14:00:03.819609+07:00"
+      "updated_at": "2026-06-12T14:24:14+07:00"
     },
     {
       "branch": "Chu Than Quat Khoi",
@@ -971,7 +971,7 @@
     }
   ],
   "metadata": {
-    "generated_at": "2026-06-12T14:23:00+07:00",
+    "generated_at": "2026-06-12T14:24:14+07:00",
     "total_books": 17,
     "source": "Dichtrung/Output"
   },
