@@ -1,0 +1,22 @@
+```json
+{
+  "approved": [
+    {
+      "original": "神之眼",
+      "translation": "【Mắt Thần】",
+      "reason": "Matches the concept of '【Mắt Thần】' in the glossary (quyền năng quan sát phàm giới qua tín đồ)."
+    }
+  ],
+  "rejected": [
+    {
+      "original": "视角时，第一",
+      "reason": "Sentence fragment, not a valid name or term."
+    },
+    {
+      "original": "，毫无疑问，",
+      "reason": "Common phrase/punctuation fragment, not a valid name or term."
+    }
+  ],
+  "uncertain": []
+}
+```

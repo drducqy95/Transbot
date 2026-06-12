@@ -1,58 +1,8 @@
 [
   {
-    "chapter_number": 1,
-    "title": "Chương 1: Xuyên không thành tà thần thì phải làm sao",
-    "relative_path": "output/Chương 0001 - Xuyên không thành tà thần thì phải làm sao.md"
-  },
-  {
-    "chapter_number": 2,
-    "title": "Chương 2: Khởi đầu sụp đổ",
-    "relative_path": "output/Chương 0002 - Khởi đầu sụp đổ.md"
-  },
-  {
-    "chapter_number": 3,
-    "title": "Chương 3: Pete Chinar",
-    "relative_path": "output/Chương 0003 - Pete Chinar.md"
-  },
-  {
-    "chapter_number": 4,
-    "title": "Chương 4: Biện pháp hoàn toàn khác biệt",
-    "relative_path": "output/Chương 0004 - Biện pháp hoàn toàn khác biệt.md"
-  },
-  {
-    "chapter_number": 5,
-    "title": "Chương 5: Trao cần câu thay vì trao con cá",
-    "relative_path": "output/Chương 0005 - Trao cần câu thay vì trao con cá.md"
-  },
-  {
-    "chapter_number": 6,
-    "title": "Chương 6: Thẩm vấn",
-    "relative_path": "output/Chương 0006 - Thẩm vấn.md"
-  },
-  {
-    "chapter_number": 7,
-    "title": "Chương 7: Thần Tri Thức",
-    "relative_path": "output/Chương 0007 - Thần Tri Thức.md"
-  },
-  {
-    "chapter_number": 8,
-    "title": "Chương 8: Background tự xào nấu",
-    "relative_path": "output/Chương 0008 - Background tự xào nấu.md"
-  },
-  {
-    "chapter_number": 9,
-    "title": "Chương 9: Biết Tên Thật",
-    "relative_path": "output/Chương 0009 - Biết Tên Thật.md"
-  },
-  {
     "chapter_number": 10,
     "title": "Chương 10: Bahamut là ai?",
     "relative_path": "output/Chương 0010 - Bahamut là ai.md"
-  },
-  {
-    "chapter_number": 11,
-    "title": "Chương 11: Giới hạn của thần lực",
-    "relative_path": "output/Chương 0011 - Giới hạn của thần lực.md"
   },
   {
     "chapter_number": 12,
@@ -65,56 +15,6 @@
     "relative_path": "output/Chương 0013 - Khu Hạ Thành.md"
   },
   {
-    "chapter_number": 14,
-    "title": "Chương 14: Thay đổi tâm lý",
-    "relative_path": "output/Chương 0014 - Thay đổi tâm lý.md"
-  },
-  {
-    "chapter_number": 15,
-    "title": "Chương 15: Xung đột quán rượu",
-    "relative_path": "output/Chương 0015 - Xung đột quán rượu.md"
-  },
-  {
-    "chapter_number": 16,
-    "title": "Chương 16: Pháp thuật vị? Thứ gì thế",
-    "relative_path": "output/Chương 0016 - Pháp thuật vị Thứ gì thế.md"
-  },
-  {
-    "chapter_number": 17,
-    "title": "Chương 17: Rắc rối của nhà Lena",
-    "relative_path": "output/Chương 0017 - Rắc rối của nhà Lena.md"
-  },
-  {
-    "chapter_number": 18,
-    "title": "Chương 18: Nghe nói về Thần Tri Thức chưa?",
-    "relative_path": "output/Chương 0018 - Nghe nói về Thần Tri Thức chưa.md"
-  },
-  {
-    "chapter_number": 19,
-    "title": "Chương 19: Điểm Tri Thức, Cơ chế thưởng",
-    "relative_path": "output/Chương 0019 - Điểm Tri Thức, Cơ chế thưởng.md"
-  },
-  {
-    "chapter_number": 20,
-    "title": "Chương 20: Vị tín đồ thứ hai",
-    "relative_path": "output/Chương 0020 - Vị tín đồ thứ hai.md"
-  },
-  {
-    "chapter_number": 21,
-    "title": "Chương 21: Tự tay tạo trận pháp kiểm tra",
-    "relative_path": "output/Chương 0021 - Tự tay tạo trận pháp kiểm tra.md"
-  },
-  {
-    "chapter_number": 22,
-    "title": "Chương 22: Hợp tác",
-    "relative_path": "output/Chương 0022 - Hợp tác.md"
-  },
-  {
-    "chapter_number": 23,
-    "title": "Chương 23: Quy tắc kỳ lạ",
-    "relative_path": "output/Chương 0023 - Quy tắc kỳ lạ.md"
-  },
-  {
     "chapter_number": 24,
     "title": "Chương 24: Ám Ảnh Thần Tuyển",
     "relative_path": "output/Chương 0024 - Ám Ảnh Thần Tuyển.md"
@@ -123,31 +23,6 @@
     "chapter_number": 25,
     "title": "Chương 25: Lộ trình Tiềm Hành Giả, nhưng là Thần Tri Thức",
     "relative_path": "output/Chương 0025 - Lộ trình Tiềm Hành Giả nhưng là Thần Tri Thức.md"
-  },
-  {
-    "chapter_number": 26,
-    "title": "Chương 26: Cách tu luyện có thể thấy thanh tiến độ",
-    "relative_path": "output/Chương 0026 - Cách tu luyện có thể thấy thanh tiến độ.md"
-  },
-  {
-    "chapter_number": 27,
-    "title": "Chương 27: Hạ thấp rào cản",
-    "relative_path": "output/Chương 0027 - Hạ thấp rào cản.md"
-  },
-  {
-    "chapter_number": 28,
-    "title": "Chương 28: Thần Bóng Tối, Thần Công Chính: Bọn ta không ý kiến",
-    "relative_path": "output/Chương 0028 - Thần Bóng Tối, Thần Công Chính: Bọn ta không ý kiến.md"
-  },
-  {
-    "chapter_number": 29,
-    "title": "Chương 29: Chợ Đen",
-    "relative_path": "output/Chương 0029 - Chợ Đen.md"
-  },
-  {
-    "chapter_number": 30,
-    "title": "Chương 30: Bẫy chồng bẫy",
-    "relative_path": "output/Chương 0030 - Bẫy chồng bẫy.md"
   },
   {
     "chapter_number": 31,
@@ -165,19 +40,9 @@
     "relative_path": "output/Chương 0033 - Chương 33 Lộ trình Chiến Sĩ.md"
   },
   {
-    "chapter_number": 34,
-    "title": "Chương 34: Những hạt giống đầu tiên",
-    "relative_path": "output/Chương 0034 - Chương 34 Những hạt giống đầu tiên.md"
-  },
-  {
     "chapter_number": 35,
     "title": "Chương 35: Xưởng Bu-lông Lăn Tròn",
     "relative_path": "output/Chương 0035 - Chương 35 Xưởng Bu-lông Lăn Tròn.md"
-  },
-  {
-    "chapter_number": 36,
-    "title": "Chương 36: Cậu biết mà, tôi kín miệng lắm",
-    "relative_path": "output/Chương 0036 - Chương 36 Cậu biết mà, tôi kín miệng lắm.md"
   },
   {
     "chapter_number": 37,
@@ -225,11 +90,6 @@
     "relative_path": "output/Chương 0045 - Chương 45 Ỷ đông hiếp yếu.md"
   },
   {
-    "chapter_number": 46,
-    "title": "Chương 46: Kỹ năng sự kiện",
-    "relative_path": "output/Chương 0046 - Chương 46 Kỹ năng sự kiện.md"
-  },
-  {
     "chapter_number": 47,
     "title": "Chương 47: Giáo Hội Huy Quang không đáng tin cậy",
     "relative_path": "output/Chương 0047 - Chương 47 Giáo Hội Huy Quang không đáng tin cậy.md"
@@ -260,21 +120,6 @@
     "relative_path": "output/Chương 0052 - Chương 52 Evan Tay sai của ta đâu.md"
   },
   {
-    "chapter_number": 53,
-    "title": "Chương 53: Ý nghĩa đích thực trong giáo lý của Thần Cầu Tri",
-    "relative_path": "output/Chương 0053 - Chương 53 Ý nghĩa đích thực trong giáo lý của Thần Cầu Tri.md"
-  },
-  {
-    "chapter_number": 54,
-    "title": "Chương 54: Cứ điểm tạm thời",
-    "relative_path": "output/Chương 0054 - Chương 54 Cứ điểm tạm thời.md"
-  },
-  {
-    "chapter_number": 55,
-    "title": "Chương 55: Tế đàn tà thần? Có thể phá không?",
-    "relative_path": "output/Chương 0055 - Chương 55 Tế đàn tà thần Có thể phá không.md"
-  },
-  {
     "chapter_number": 56,
     "title": "Chương 56: Chuyên tinh và kiêm tu",
     "relative_path": "output/Chương 0056 - Chương 56 Chuyên tinh và kiêm tu.md"
@@ -285,13 +130,13 @@
     "relative_path": "output/Chương 0057 - Chương 57 Trình mô phỏng tu hành đã ra mắt!.md"
   },
   {
-    "chapter_number": 58,
-    "title": "Chương 58: Cấp độ huyền thoại",
-    "relative_path": "output/Chương 0058 - Chương 58 Cấp độ huyền thoại.md"
-  },
-  {
     "chapter_number": 59,
     "title": "Chương 59: Nữ thần Ma pháp, chó cũng không thèm tin",
     "relative_path": "output/Chương 0059 - Chương 59 Nữ thần Ma pháp, chó cũng không thèm tin.md"
+  },
+  {
+    "chapter_number": 1,
+    "title": "Chương 1: Xuyên không thành tà thần thì phải làm sao",
+    "relative_path": "output/Chương 0001 - Chương 1 Xuyên không thành tà thần thì phải làm sao.md"
   }
 ]

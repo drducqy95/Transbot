@@ -1,4 +1,3 @@
-```json
 {
   "chapter_number": 1,
   "chapter_title_vi": "Chương 1: Xuyên không thành tà thần thì phải làm sao",
@@ -25,7 +24,7 @@
     },
     {
       "segment_id": "0005",
-      "source": "一次见义勇为，为了救下即将被卡车撞飞的小男孩，诺文舍身将对方扑飞出去，代价则是自己被送进ICU度过了大半个月。虽然侥幸捡回了一条命，但是却彻底失去了行动能力。",
+      "source": "一次见义勇为，为了救下即将被卡车撞飞的小男孩，诺文舍身将对方扑飞出去，代价则是自己被送进ICU度过了大半个月。虽然侥幸捡回一条命，但是却彻底失去了行动能力。",
       "target": "Trong một lần kiến nghĩa dũng vi, vì cứu một cậu bé sắp bị xe tải tông trúng, Norven đã liều mình lao tới đẩy cậu bé ra xa, cái giá phải trả là cậu bị đưa vào phòng ICU suốt hơn nửa tháng. Tuy may mắn nhặt lại được cái mạng, nhưng cậu lại hoàn toàn mất đi khả năng đi lại."
     },
     {
@@ -136,7 +135,7 @@
     {
       "segment_id": "0027",
       "source": "诺文脑子里瞬间有了一揽子对应的计划，没吃过猪肉还没看过猪跑吗，前世那种只存在于传说的所谓神啊仙啊都能吸引到那么多的信众，何况这个世界的运转规则里，神明是有着实打实的权与力，可以将赐福直接给予信徒。      “让我看看，现在的我有多少信徒？有什么权柄？”",
-      "target": "Trong đầu Norven lập tức có hẳn một loạt kế hoạch tương ứng, chưa ăn thịt heo chẳng lẽ chưa từng thấy heo chạy sao, kiếp trước mấy vị thần tiên vốn chỉ tồn tại trong truyền thuyết còn thu hút được lượng lớn tín đồ như vậy, huống hồ trong quy tắc vận hành của thế giới này, thần minh sở hữu quyền năng và sức mạnh thực sự, có thể trực tiếp ban phước cho tín đồ.      \"Để xem nào, hiện tại mình có bao nhiêu tín đồ? Có những quyền năng gì?\""
+      "target": "Trong đầu Norven lập tức có hẳn một loạt kế hoạch tương ứng, chưa ăn thịt heo chẳng lẽ chưa từng thấy heo chạy sao, kiếp trước mấy vị thần tiên vốn chỉ tồn tại trong truyền thuyết còn thu hút được lượng lớn tín đồ như vậy, huống hồ trong quy tắc vận hành của thế giới này, thần minh sở hữu quyền năng và sức mạnh thực sự, có thể trực tiếp ban phước cho tín đồ. \"Để xem nào, hiện tại mình có bao nhiêu tín đồ? Có những quyền năng gì?\""
     },
     {
       "segment_id": "0028",
@@ -156,7 +155,7 @@
     {
       "segment_id": "0031",
       "source": "这种手段被诺文称之为【神之眼】，毫无疑问，他拥有的信徒越多，那自然就会掌握更多的信息来源。",
-      "target": "Thủ đoạn này được Norven gọi là 【Mắt Thần】, không còn nghi ngờ gì nữa, cậu sở hữu càng nhiều tín đồ, thì tự nhiên sẽ nắm giữ được càng nhiều nguồn thông tin."
+      "target": "Thủ đoạn này được Norven gọi là \"Mắt Thần\", không còn nghi ngờ gì nữa, cậu sở hữu càng nhiều tín đồ, thì tự nhiên sẽ nắm giữ được càng nhiều nguồn thông tin."
     },
     {
       "segment_id": "0032",
@@ -176,7 +175,7 @@
     {
       "segment_id": "0035",
       "source": "这便是诺文睁开【神之眼】视角时，第一眼看到的情况。",
-      "target": "Đây chính là tình cảnh đầu tiên mà Norven nhìn thấy khi mở góc nhìn 【Mắt Thần】."
+      "target": "Đây chính là tình cảnh đầu tiên mà Norven nhìn thấy khi mở góc nhìn \"Mắt Thần\"."
     },
     {
       "segment_id": "0036",
@@ -255,4 +254,3 @@
     }
   ]
 }
-```

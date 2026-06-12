@@ -1,8 +1,7 @@
-```json
 {
-  "chapter_number": 1,
-  "chapter_title_vi": "Chương 1: Xuyên không thành tà thần thì phải làm sao",
-  "segments": [
+  "schema_version": "2.0",
+  "chapter_id": "chapter_0001",
+  "segment_translations": [
     {
       "segment_id": "0001",
       "source": "# 第1章 穿越成了邪神怎么办",
@@ -255,4 +254,3 @@
     }
   ]
 }
-```

@@ -1,6 +1,10 @@
 {
-  "chapter": 1,
-  "cjk_count": 0,
-  "length": 7983,
-  "status": "pass"
+  "chapter_number": 1,
+  "status": "retry_required",
+  "issues": [
+    {
+      "type": "cjk_leftover",
+      "severity": "high"
+    }
+  ]
 }

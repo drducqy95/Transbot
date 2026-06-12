@@ -473,3 +473,8 @@ Chapter 58 completed via pipeline.
 
 ### Summary
 Chapter 59 completed via pipeline.
+
+## Chapter 0001 - Chương 1: Xuyên không thành tà thần thì phải làm sao
+
+### Summary
+Chapter 1 completed via pipeline.
