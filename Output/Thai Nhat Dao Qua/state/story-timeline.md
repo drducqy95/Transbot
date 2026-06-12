@@ -58,3 +58,8 @@ Chapter 2 completed via pipeline.
 
 ### Summary
 Chapter 2 completed via pipeline.
+
+## Chapter 0007 - Chương 7: Kẻ thức thời mới là trang tuấn kiệt
+
+### Summary
+Chapter 7 completed via pipeline.
