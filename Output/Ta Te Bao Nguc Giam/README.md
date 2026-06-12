@@ -1,6 +1,6 @@
 # Ta Te Bao Nguc Giam
 
-- Đã hoàn thành: 8
-- Chương cuối: Chương 7: Không gian Vận Mệnh
+- Đã hoàn thành: 9
+- Chương cuối: Chương 8: Đội sáu người
 
 - **Tiến độ hiện tại**: 6/2169 chương

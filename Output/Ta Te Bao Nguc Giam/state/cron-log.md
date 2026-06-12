@@ -8,3 +8,4 @@
 - 2026-06-12 14:35 | Chapter 5 | completed | Chương 0005 - Chương 5 Nhà giam di động.md
 - 2026-06-12 14:47 | Chapter 6 | completed | Chương 0006 - Chương 6 Quảng trường Tế Điển.md
 - 2026-06-12 15:09 | Chapter 7 | completed | Chương 0007 - Chương 7 Không gian Vận Mệnh.md
+- 2026-06-12 15:29 | Chapter 8 | completed | Chương 0008 - Chương 8 Đội sáu người.md
