@@ -1,0 +1,266 @@
+{
+  "chapter_number": 3,
+  "chapter_title_vi": "Chương 3: Pete Chinar",
+  "segments": [
+    {
+      "segment_id": "0001",
+      "source": "# 第3章 培特奇纳尔",
+      "target": "# Chương 3: Pete Chinar"
+    },
+    {
+      "segment_id": "0002",
+      "source": "“不对不对，让我好好理顺下这个过程，到底是哪个步骤有问题才产生的异变！”",
+      "target": "“Không, không, để tôi sắp xếp lại quá trình này, bước nào gây ra biến dị!”"
+    },
+    {
+      "segment_id": "0003",
+      "source": "第一次回应信徒发生了完全没有预料到的意外情况，诺文试图复盘这个过程。",
+      "target": "Lần đầu đáp lại tín đồ, tình huống bất ngờ hoàn toàn xảy ra, Norven cố gắng phân tích lại quá trình."
+    },
+    {
+      "segment_id": "0004",
+      "source": "“第一步，信徒向我发出祈祷，我可以选择接听或无视，没问题。”",
+      "target": "“Bước một, tín đồ cầu nguyện với tôi, tôi có thể nhận hoặc bỏ qua, không vấn đề.”"
+    },
+    {
+      "segment_id": "0005",
+      "source": "“第二步，如果接收了信徒传递给我的信息，我就能凭借权能瞬间掌握有关信徒所想要的事物的一切相关信息，这个也没问题。”",
+      "target": "“Bước hai, nếu nhận được thông tin từ tín đồ, tôi có thể dùng quyền năng ngay lập tức nắm bắt mọi thông tin liên quan tới mong muốn của họ, cũng không vấn đề.”"
+    },
+    {
+      "segment_id": "0006",
+      "source": "“第三步，我可以选择回应信徒，通过消耗神力把相关能力……”",
+      "target": "“Bước ba, tôi có thể chọn đáp lại tín đồ, tiêu hao thần lực để truyền năng lực…”"
+    },
+    {
+      "segment_id": "0007",
+      "source": "“哎？等等，不对！”",
+      "target": "“Hả? Đợi đã, không đúng!”"
+    },
+    {
+      "segment_id": "0008",
+      "source": "回忆到导致发生异变的步骤时，诺文突然察觉到一个之前被他所忽略掉的问题。",
+      "target": "Khi nhớ lại bước gây ra biến dị, Norven bất ngờ nhận ra một vấn đề mình đã bỏ qua."
+    },
+    {
+      "segment_id": "0009",
+      "source": "“我原本以为神力赐予的效果是直接将对应的能力传输给信徒，就像灌顶传功一样，能直接让普通人变成绝世高手。”",
+      "target": "“Ban đầu tôi nghĩ thần lực sẽ truyền thẳng năng lực cho tín đồ, như truyền công, khiến người thường ngay lập tức trở thành cao cường.”"
+    },
+    {
+      "segment_id": "0010",
+      "source": "“但是……实际上的效果，好像并不是让普通人能跟我一样瞬间掌握相关能力，而是给了他们一个可以随时使用的许可！”",
+      "target": "“Nhưng… thực tế không phải khiến người thường ngay lập tức nắm bắt năng lực, mà chỉ cho họ một giấy phép sử dụng bất cứ lúc nào!”"
+    },
+    {
+      "segment_id": "0011",
+      "source": "“对了！这个过程中信徒需要神力的部分应该并非学习，而是使用！”",
+      "target": "“Đúng! Trong quá trình này, phần thần lực mà tín đồ cần không phải là học, mà là sử dụng!”"
+    },
+    {
+      "segment_id": "0012",
+      "source": "诺文顿时豁然开朗。",
+      "target": "Norven chợt sáng tỏ."
+    },
+    {
+      "segment_id": "0013",
+      "source": "凭借着前世各种科技产品使用出来的经验，让诺文意识到了两者间的区别。",
+      "target": "Nhờ kinh nghiệm sử dụng các sản phẩm công nghệ trong kiếp trước, Norven nhận ra sự khác biệt."
+    },
+    {
+      "segment_id": "0014",
+      "source": "诺文赐予给信徒的能力，并非面对面快传直接将相关的能力交给信徒，他真正给予信徒的，只是一个允许信徒使用能力的“许可凭证”。",
+      "target": "Norven trao cho tín đồ không phải là truyền năng lực trực tiếp, mà chỉ là một “giấy phép” cho phép họ sử dụng năng lực."
+    },
+    {
+      "segment_id": "0015",
+      "source": "即使信徒自身并没有掌握相关的能力，有了这个许可凭证，就可以通过消耗诺文的神力，来完成对应的施法！",
+      "target": "Ngay cả khi tín đồ chưa nắm được năng lực, với giấy phép này họ có thể tiêu hao thần lực của Norven để thực hiện phép thuật."
+    },
+    {
+      "segment_id": "0016",
+      "source": "如果打个比方来形容，在诺文以前的世界，普通人并不需要懂得手机的运行原理，但只要按下对应的按键，所有实际的运算实际是由幕后的硬件来完成，呈现在普通人面前的只是最终的结果！",
+      "target": "Nếu ví von, trong thế giới của Norven, người thường không cần hiểu cách điện thoại hoạt động; chỉ cần nhấn nút, mọi tính toán được phần cứng thực hiện, người chỉ thấy kết quả."
+    },
+    {
+      "segment_id": "0017",
+      "source": "“所以，其实这个世界所谓的神明给凡人赐予力量，或许真相是凡人借助那位神明的神力才临时拥有了使用的权限，并没有真正获得切实的能力……”",
+      "target": "“Vì vậy, thực chất các vị thần chỉ cho người thường quyền sử dụng tạm thời nhờ thần lực, chứ không thực sự trao cho họ năng lực thực tế…”"
+    },
+    {
+      "segment_id": "0018",
+      "source": "“……然后，因为我这种邪神的神力中有大量混乱危险的气息，凡人向我发送借助我的神力完成施法的请求时，我所消耗的神力顺着这一请求影响到了凡人，于是才会导致发生畸变！”",
+      "target": "“… Sau đó, vì thần lực của ta đầy hỗn loạn nguy hiểm, khi người thường yêu cầu dùng thần lực của ta để thi triển phép, thần lực tiêu hao của ta truyền tới họ, gây ra biến dị!”"
+    },
+    {
+      "segment_id": "0019",
+      "source": "“如果是这样的话，有办法破局了！”",
+      "target": "“Nếu vậy, có cách giải quyết!”"
+    },
+    {
+      "segment_id": "0020",
+      "source": "……",
+      "target": "……"
+    },
+    {
+      "segment_id": "0021",
+      "source": "一片狼藉的阴森地下洞窟中。",
+      "target": "Trong một hang ngầm âm u, hỗn loạn tàn phá."
+    },
+    {
+      "segment_id": "0022",
+      "source": "培特·奇纳尔此时的想法就是后悔，非常后悔！",
+      "target": "Pete Chinar lúc này chỉ nghĩ đến hối hận, vô cùng hối hận!"
+    },
+    {
+      "segment_id": "0023",
+      "source": "他先前一定是鬼迷了心窍，怎么就想不开，偏偏信了那个黑袍人的邪！",
+      "target": "Anh chắc đã bị mê hoặc, không suy nghĩ, lại tin vào kẻ áo choàng đen kia!"
+    },
+    {
+      "segment_id": "0024",
+      "source": "几小时前他还是个卡罗恩学院奥法学派拖低平均水平的吊车尾，为了想办法掌握一个三阶法术而绞尽脑汁，头疼不已。",
+      "target": "Vài giờ trước, anh vẫn là học viên kém cỏi của Học viện Caroen, đau đầu vì cố gắng nắm bắt một pháp thuật cấp ba."
+    },
+    {
+      "segment_id": "0025",
+      "source": "可是现在怎么就一下卷入到生死存亡的危险境地了呢！",
+      "target": "Nhưng giờ sao lại bất ngờ rơi vào tình huống sinh tử?"
+    },
+    {
+      "segment_id": "0026",
+      "source": "看着眼前这已经靠着不断吞食人类而成长为庞然大物，满是肉瘤、口器和眼球的恐怖血肉怪物正在挥舞着触手，仿佛猫戏老鼠一般，没有直接将剩下的最后几名“食物”卷走撕碎，而是一步步地慢慢压缩着他们的生存空间。",
+      "target": "Nhìn con quái vật bầm máu khổng lồ, đầy u nang, hàm và mắt, đang vung xúc tu như mèo đùa chuột, không ngay lập tức xé vụn “đồ ăn” còn lại mà dần dần ép chặt không gian sống của chúng."
+    },
+    {
+      "segment_id": "0027",
+      "source": "培特没吓的当场失禁已经是他胆子大了！",
+      "target": "Pete không chỉ sợ hãi mà còn tiểu không kiểm soát, thật là gan dạ!"
+    },
+    {
+      "segment_id": "0028",
+      "source": "几天前他在布告板上看到一则消息，说是有办法让人快速掌握三阶法术成为高级施法者，而且最重要的是，上面说了只要条件匹配，即使对魔法女神的亲和度不够也没有关系。",
+      "target": "Vài ngày trước, anh thấy thông báo trên bảng tin: có cách nhanh chóng nắm bắt pháp thuật cấp ba, dù độ tương thích với Nữ thần Ma pháp không đủ, nếu điều kiện phù hợp vẫn được."
+    },
+    {
+      "segment_id": "0029",
+      "source": "培特也是病急乱投医，还真就信了这上面的鬼话，循着消息留下的联系方式在对应时间来到了接头地点，有个神神秘秘的黑袍人在得知他的来意后，让他也披上黑袍，要带他去所谓的“秘密集会”。      结果现在亲眼目睹那个给他领路的黑袍人已经变成了那只可怕畸变怪的“身体组成部分”，培特哪里还不知道他是上了贼船！",
+      "target": "Pete, trong cơn hoảng loạn, đã tin lời lừa đảo, theo thông tin đến địa điểm hẹn, gặp kẻ áo choàng đen bí ẩn, người này cho anh mặc áo đen và dẫn tới “cuộc họp bí mật”. Kết quả, anh thấy kẻ dẫn đường đã trở thành một phần của quái vật biến dị khủng khiếp, và mới nhận ra mình đã lên tàu cướp."
+    },
+    {
+      "segment_id": "0030",
+      "source": "“魔法女神在上！不对，管他哪个神也行，谁能来救救我啊！”",
+      "target": "“Nữ thần Ma pháp ở trên! Không, dù là thần nào cũng được, ai có thể cứu tôi!”"
+    },
+    {
+      "segment_id": "0031",
+      "source": "培特对他自己是个什么水平有着清晰的认知，让他去打算当个学院派法师糊弄糊弄考核，装模作样搞个魔法研究还行，真要让他去实战？快别开玩笑了！",
+      "target": "Pete rõ ràng biết mình ở mức độ nào: có thể giả vờ là pháp sư học viện để qua kiểm tra, nhưng thực chiến? Đừng đùa nữa!"
+    },
+    {
+      "segment_id": "0032",
+      "source": "他可能连个一阶水平的小魔物都打不过，更何况眼前这个光凭气势压制培特感觉就少说得有三阶的畸变怪！",
+      "target": "Anh thậm chí không thắng được một quái vật cấp một, chứ còn con quái biến dị cấp ba trước mắt!"
+    },
+    {
+      "segment_id": "0033",
+      "source": "一阶评级的职业者通常就可以轻松撂倒正常体格的健壮成年人，更不用说三阶评级，若是在一些普通人生活的小村子，这种级别的怪物是有屠村威胁的，必须要筹集重金请动附近的教会或者高阶职业者来讨伐才有可能消灭。",
+      "target": "Những người nghề nghiệp cấp một thường dễ hạ gục người trưởng thành khỏe mạnh, còn cấp ba thì có thể tiêu diệt cả làng, cần huy động tiền bạc, hội thánh hoặc cao cấp để tiêu diệt."
+    },
+    {
+      "segment_id": "0034",
+      "source": "就在培特·奇纳尔已然心如死灰，准备想个还算体面的姿势闭眼等死的时候，他的脑海中忽然响起一道清脆的声音：",
+      "target": "Khi Pete Chinar đã tuyệt vọng, chuẩn bị chờ chết, trong đầu anh bỗng vang lên một tiếng trong trẻo:"
+    },
+    {
+      "segment_id": "0035",
+      "source": "【叮！】",
+      "target": "【Đinh!】"
+    },
+    {
+      "segment_id": "0036",
+      "source": "【检测到信徒正面临巨大危险，正在查找解决方案。】",
+      "target": "【Phát hiện tín đồ đang gặp nguy hiểm lớn, đang tìm giải pháp.】"
+    },
+    {
+      "segment_id": "0037",
+      "source": "【查找完成，任务已发布。】",
+      "target": "【Tìm kiếm hoàn tất, nhiệm vụ đã phát hành.】"
+    },
+    {
+      "segment_id": "0038",
+      "source": "【任务目标：",
+      "target": "【Mục tiêu nhiệm vụ："
+    },
+    {
+      "segment_id": "0039",
+      "source": "学习法术[哈达之饥渴]（当前进度：0%）",
+      "target": "Học phép [Cơn Đói Khát của Hada]（tiến độ hiện tại：0%）"
+    },
+    {
+      "segment_id": "0040",
+      "source": "消灭神孽畸变怪（当前进度：0/1）】",
+      "target": "Tiêu diệt quái vật dị biến thần nghiệt（tiến độ hiện tại：0/1）】"
+    },
+    {
+      "segment_id": "0041",
+      "source": "脑海里突然冒出的信息，先是让培特大喜过望，以为是哪位特别的神明真的收到他的求助，又打算赐下力量帮他度过危机，结果等看完实际内容，培特心直接凉了半截。",
+      "target": "Thông tin bỗng hiện lên trong đầu khiến Pete vô cùng vui mừng, tưởng có thần đặc biệt đáp lời, nhưng sau khi đọc nội dung, anh lạnh băng."
+    },
+    {
+      "segment_id": "0042",
+      "source": "“不是？我？让我现在当场学三阶法术？”",
+      "target": "“Không phải? Tôi? Được học pháp cấp ba ngay tại chỗ?”"
+    },
+    {
+      "segment_id": "0043",
+      "source": "培特从来没有如此因为他和魔法女神的亲和度太低而感到后悔，他虽然是魔法女神的浅信徒没错，但从魔法学徒开始，他花了将近三年时间，最高也才堪堪学会释放几个二阶魔法，还都是些类似【秘法锁】、【侦测思想】之类的辅助魔法。",
+      "target": "Pete chưa bao giờ hối hận vì độ tương thích thấp với Nữ thần Ma pháp; dù là tín đồ sơ khai, anh đã học gần ba năm, chỉ vừa biết một vài pháp cấp hai như 【Khóa bí thuật】, 【Dò tìm ý nghĩ】."
+    },
+    {
+      "segment_id": "0044",
+      "source": "唯一能称得上可以用于战斗的只有个【蛛网术】，可是这法术也仅仅只有限制敌人的效果，几乎没有攻击性。",
+      "target": "Phép duy nhất có thể dùng trong chiến đấu là 【Thuật Mạng Nhện】, nhưng chỉ hạn chế kẻ thù, hầu như không có tính tấn công."
+    },
+    {
+      "segment_id": "0045",
+      "source": "在这个世界，对正常的凡人来说，想要学习各种魔法，需要向传说中的魔法女神献上信仰，信徒与魔法女神的亲和度越高，越容易清晰地调动魔网来释放法术，反之，倘若亲和度不够高，那魔网在信徒的感知里就会模模糊糊，难以捉摸，越高阶复杂的法术便越难以成型。",
+      "target": "Trong thế giới này, người thường muốn học ma pháp phải dâng cúng Nữ thần Ma pháp; độ tương thích cao giúp dễ dàng điều khiển Ma Võng, ngược lại sẽ mờ ảo, pháp cao cấp khó thành."
+    },
+    {
+      "segment_id": "0046",
+      "source": "培特就是个亲和度不够的典型，他想成功释放出一个二阶魔法都得花费好几个月的时间才能勉强摸到方法，三阶更是直接毫无头绪，根本不知从何尝试。",
+      "target": "Pete là điển hình độ tương thích thấp; thậm chí một pháp cấp hai cũng mất vài tháng, cấp ba thì hoàn toàn không biết bắt đầu từ đâu."
+    },
+    {
+      "segment_id": "0047",
+      "source": "结果眼下这位不知名的神明发来的信息，却试图让他现在掌握一个真正的三阶攻击性魔法！",
+      "target": "Kết quả, thông điệp từ vị thần vô danh lại yêu cầu anh ngay lập tức nắm bắt một pháp tấn công cấp ba!"
+    },
+    {
+      "segment_id": "0048",
+      "source": "“不知道哪位神明大人在上！我也很想照您说的去自救，可我真的做不到！能不能请您换个方法啊！”培特绝望地在脑海中呐喊。",
+      "target": "“Không biết vị thần nào ở trên! Tôi muốn tự cứu mình nhưng không thể! Xin đổi cách!” Pete kêu lên trong tuyệt vọng."
+    },
+    {
+      "segment_id": "0049",
+      "source": "下一瞬间，更多的信息涌在培特的脑海。",
+      "target": "Ngay sau đó, thêm thông tin tràn vào đầu Pete."
+    },
+    {
+      "segment_id": "0050",
+      "source": "“这是？！”",
+      "target": "“Cái này?!”"
+    },
+    {
+      "segment_id": "0051",
+      "source": "……",
+      "target": "……"
+    },
+    {
+      "segment_id": "0052",
+      "source": "可以投推荐票吗，那对我真的很重要，谢谢！",
+      "target": "Có thể bỏ phiếu đề xuất không? Điều đó thực sự quan trọng với tôi, cảm ơn!"
+    }
+  ]
+}

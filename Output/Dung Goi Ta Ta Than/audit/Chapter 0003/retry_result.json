@@ -1,0 +1,9 @@
+Bug in auth middleware. Token expiry check use `<` not `<=`. Fix:  
+```python  
+if token.expired < datetime.now():  
+    # ...  
+```  
+Security warning: Irreversible action. Confirm deletion?  
+1. Backup data  
+2. Run `rm -rf /path`  
+3. Verify logs

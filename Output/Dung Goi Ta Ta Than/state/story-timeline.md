@@ -483,3 +483,8 @@ Chapter 1 completed via pipeline.
 
 ### Summary
 Chapter 2 completed via pipeline.
+
+## Chapter 0003 - Chương 3: Pete Chinar
+
+### Summary
+Chapter 3 completed via pipeline.
