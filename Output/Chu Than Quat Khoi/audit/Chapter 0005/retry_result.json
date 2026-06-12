@@ -1,1 +1,9 @@
-Error: timed out waiting for response
+Here is the fixed translation:
+
+```json
+{
+  "chapter_number": 5,
+  "chapter_title_vi": "0005 Nhiệm vụ (Cầu đề cử!)",
+  "segments": []
+}
+```
