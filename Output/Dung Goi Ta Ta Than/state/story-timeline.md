@@ -403,3 +403,8 @@ Chapter 44 completed via pipeline.
 
 ### Summary
 Chapter 45 completed via pipeline.
+
+## Chapter 0046 - Chương 46: Kỹ năng sự kiện
+
+### Summary
+Chapter 46 completed via pipeline.
