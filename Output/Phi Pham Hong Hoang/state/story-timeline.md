@@ -53,3 +53,8 @@ Chapter 8 completed via pipeline.
 
 ### Summary
 Chapter 9 completed via pipeline.
+
+## Chapter 0010 - Chương 10: Vực ngoại có Thiên Ma (1)
+
+### Summary
+Chapter 10 completed via pipeline.

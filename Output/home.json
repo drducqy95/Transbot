@@ -216,9 +216,9 @@
       "status": "in_progress",
       "status_label": "Đang ra",
       "ongoing": true,
-      "completed_chapters": 10,
+      "completed_chapters": 11,
       "total_chapters": 3381,
-      "latest_chapter": "Chương 9: Đỉnh thiên lập địa Bất Chu sơn",
+      "latest_chapter": "Chương 10: Vực ngoại có Thiên Ma (1)",
       "genre": "eastern_fiction",
       "sub_genre": "xianxia",
       "style_tags": [
@@ -267,7 +267,7 @@
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Phi Pham Hong Hoang/README.md",
       "toc_path": "Output/Phi Pham Hong Hoang/toc.json",
-      "updated_at": "2026-06-12T18:04:11+07:00"
+      "updated_at": "2026-06-12T18:37:21+07:00"
     },
     {
       "branch": "Ta Te Bao Nguc Giam",
@@ -971,7 +971,7 @@
     }
   ],
   "metadata": {
-    "generated_at": "2026-06-12T18:32:53+07:00",
+    "generated_at": "2026-06-12T18:37:21+07:00",
     "total_books": 17,
     "source": "Dichtrung/Output"
   },
