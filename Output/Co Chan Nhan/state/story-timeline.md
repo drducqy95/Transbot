@@ -43,3 +43,8 @@ Chapter 9 completed via pipeline.
 
 ### Summary
 Chapter 10 completed via pipeline.
+
+## Chapter 0009 - Chương 9: Ngày càng xa cách
+
+### Summary
+Chapter 9 completed via pipeline.
