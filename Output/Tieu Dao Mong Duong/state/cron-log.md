@@ -3,3 +3,4 @@
 - 2026-06-11 23:03 | Chapter 1 | completed | Chương 0001 - Chương 1 Phương Nguyên.md
 - 2026-06-11 23:07 | Chapter 2 | completed | Chương 0002 - Chương 2 Thuộc Tính.md
 - 2026-06-12 01:50 | Chapter 3 | completed | Chương 0003 - Chương 3 Linh Trà.md
+- 2026-06-12 14:12 | Chapter 4 | completed | Chương 0004 - Chương 4 Vấn Tâm (Cầu sưu tầm).md

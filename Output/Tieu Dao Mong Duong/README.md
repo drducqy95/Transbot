@@ -2,5 +2,7 @@
 
 **Branch:** Tieu Dao Mong Duong
 **Đã hoàn thành:** 1
-**Chương cuối: Chương 3: Linh Trà
+**Chương cuối: Chương 4: Vấn Tâm (Cầu sưu tầm)
 **Tổng số chương:** ?
+
+- **Tiến độ hiện tại**: 3/1184 chương
