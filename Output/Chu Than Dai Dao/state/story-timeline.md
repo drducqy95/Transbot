@@ -23,3 +23,8 @@ Chapter 2 completed via pipeline.
 
 ### Summary
 Chapter 3 completed via pipeline.
+
+## Chapter 0004 - Chương 4: Nghề nghiệp truyền kỳ cũng phải xem hoàn cảnh chứ
+
+### Summary
+Chapter 4 completed via pipeline.

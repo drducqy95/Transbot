@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-12T09:34:08.035116+07:00",
+  "updated_at": "2026-06-12T10:09:10.589916+07:00",
   "books": [
     {
       "branch": "Chu Than Dai Dao",
@@ -12,9 +12,9 @@
       "status": "in_progress",
       "status_label": "Đang ra",
       "ongoing": true,
-      "completed_chapters": 3,
+      "completed_chapters": 5,
       "total_chapters": 1602,
-      "latest_chapter": "Chương 3: Khai thiên lập địa, tiểu thiên thế giới",
+      "latest_chapter": "Chương 4: Nghề nghiệp truyền kỳ cũng phải xem hoàn cảnh chứ",
       "genre": "eastern_fiction",
       "sub_genre": "unlimited_flow",
       "style_tags": [
@@ -63,7 +63,7 @@
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Chu Than Dai Dao/README.md",
       "toc_path": "Output/Chu Than Dai Dao/toc.json",
-      "updated_at": "2026-06-12T09:23:40.909122+07:00"
+      "updated_at": "2026-06-12T10:57:27+07:00"
     },
     {
       "branch": "Chu Than Quat Khoi",
@@ -113,7 +113,7 @@
       "total_chapters": 852,
       "latest_chapter": "Chương 1: Xuyên không",
       "detail": "Tiến độ: 1/852 chương | Mới nhất: Chương 1: Xuyên không",
-      "updated_at": "2026-06-12T09:24:37.027703+07:00",
+      "updated_at": "2026-06-12T10:06:34.842295+07:00",
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Chu Than Quat Khoi/README.md",
       "toc_path": "Output/Chu Than Quat Khoi/toc.json"
@@ -122,19 +122,19 @@
       "branch": "Co Chan Nhan",
       "title": "Cổ Chân Nhân",
       "author": "Cổ Chân Nhân",
-      "summary": "Ảnh Vô Tà bất ngờ kích hoạt Xuân Thu Thiền trùng sinh quay ngược dòng thời gian hòng xoay chuyển thế cục bại vong trước Phương Nguyên. Trong Sông Thời Gian, ý chí của U Hồn Ma Tôn giải thích rằng chính Thiên ý đã ra tay trợ giúp nhằm mượn tay họ tiêu diệt Phương Nguyên, một \"ngoại lai chi ma\" hoàn chỉnh đang phá vỡ sự cân bằng của trời đất.",
-      "description": "Ảnh Vô Tà bất ngờ kích hoạt Xuân Thu Thiền trùng sinh quay ngược dòng thời gian hòng xoay chuyển thế cục bại vong trước Phương Nguyên. Trong Sông Thời Gian, ý chí của U Hồn Ma Tôn giải thích rằng chính Thiên ý đã ra tay trợ giúp nhằm mượn tay họ tiêu diệt Phương Nguyên, một \"ngoại lai chi ma\" hoàn chỉnh đang phá vỡ sự cân bằng của trời đất.",
+      "summary": "Phương Nguyên là một đại ma đầu sau khi bị chính đạo vây giết đã lựa chọn tự bạo, sử dụng Xuân Thu Thiền để trùng sinh về năm trăm năm trước thời niên thiếu tại Cổ Nguyệt sơn trại. Mang theo ký ức của kiếp trước cùng tâm tính lạnh lùng, tàn nhẫn, hắn quyết chí một lần nữa bước lên con đường ma đạo để theo đuổi mục tiêu trường sinh bất tử.",
+      "description": "Phương Nguyên là một đại ma đầu sau khi bị chính đạo vây giết đã lựa chọn tự bạo, sử dụng Xuân Thu Thiền để trùng sinh về năm trăm năm trước thời niên thiếu tại Cổ Nguyệt sơn trại. Mang theo ký ức của kiếp trước cùng tâm tính lạnh lùng, tàn nhẫn, hắn quyết chí một lần nữa bước lên con đường ma đạo để theo đuổi mục tiêu trường sinh bất tử.",
       "status": "in_progress",
       "status_label": "Đang ra",
       "ongoing": true,
       "genre": "eastern_fiction",
       "sub_genre": "unlimited_flow",
       "style_tags": [
-        "Tiên hiệp",
-        "Trọng sinh",
-        "Huyền ảo",
-        "Trí đấu",
-        "Hắc ám lưu"
+        "Trùng sinh",
+        "Ma đạo",
+        "Lạnh lùng",
+        "Mưu trí",
+        "Cổ trùng"
       ],
       "categories": [
         {
@@ -143,36 +143,36 @@
           "title": "Đông phương"
         },
         {
-          "key": "tag:tien-hiep",
-          "token": "Tiên hiệp",
-          "title": "Tiên hiệp"
+          "key": "tag:trung-sinh",
+          "token": "Trùng sinh",
+          "title": "Trùng sinh"
         },
         {
-          "key": "tag:trong-sinh",
-          "token": "Trọng sinh",
-          "title": "Trọng sinh"
+          "key": "tag:ma-đao",
+          "token": "Ma đạo",
+          "title": "Ma đạo"
         },
         {
-          "key": "tag:huyen-ao",
-          "token": "Huyền ảo",
-          "title": "Huyền ảo"
+          "key": "tag:lanh-lung",
+          "token": "Lạnh lùng",
+          "title": "Lạnh lùng"
         },
         {
-          "key": "tag:tri-đau",
-          "token": "Trí đấu",
-          "title": "Trí đấu"
+          "key": "tag:muu-tri",
+          "token": "Mưu trí",
+          "title": "Mưu trí"
         },
         {
-          "key": "tag:hac-am-luu",
-          "token": "Hắc ám lưu",
-          "title": "Hắc ám lưu"
+          "key": "tag:co-trung",
+          "token": "Cổ trùng",
+          "title": "Cổ trùng"
         }
       ],
-      "completed_chapters": 1,
+      "completed_chapters": 0,
       "total_chapters": 1915,
-      "latest_chapter": "Chương 1: Bè tre chao đảo trên sông Hoàng Long",
-      "detail": "Tiến độ: 1/1915 chương | Mới nhất: Chương 1: Bè tre chao đảo trên sông Hoàng Long",
-      "updated_at": "2026-06-12T09:25:30.310622+07:00",
+      "latest_chapter": "",
+      "detail": "Tiến độ: 0/1915 chương",
+      "updated_at": "2026-06-12T10:07:42.743856+07:00",
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Co Chan Nhan/README.md",
       "toc_path": "Output/Co Chan Nhan/toc.json"
@@ -196,11 +196,11 @@
           "title": "Đông phương"
         }
       ],
-      "completed_chapters": 53,
+      "completed_chapters": 52,
       "total_chapters": 968,
       "latest_chapter": "Chương 52: Evan: Tay sai của ta đâu?",
-      "detail": "Tiến độ: 50/968 chương | Mới nhất: Chương 50: Chức nghiệp đắt khách nhất",
-      "updated_at": "2026-06-12T09:36:50+07:00",
+      "detail": "Tiến độ: 52/968 chương | Mới nhất: Chương 52: Evan: Tay sai của ta đâu?",
+      "updated_at": "2026-06-12T10:07:43.241849+07:00",
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Dung Goi Ta Ta Than/README.md",
       "toc_path": "Output/Dung Goi Ta Ta Than/toc.json"
@@ -212,21 +212,20 @@
       "summary": "La Phàm tỉnh dậy giữa một thế giới hoàn toàn không còn dấu vết Trái Đất, từ đó bước vào hành trình nhận thức lại bản thân, huyết mạch và đại đạo trong môi trường nguyên sơ nhất của hồng hoang.",
       "backdrop": "Thiên địa sơ khai của thế giới Hồng Hoang, nơi núi chống trời, dị thú và quy luật nguyên thủy còn mạnh hơn mọi khái niệm văn minh.",
       "description": "La Phàm tỉnh dậy giữa một thế giới hoàn toàn không còn dấu vết Trái Đất, từ đó bước vào hành trình nhận thức lại bản thân, huyết mạch và đại đạo trong môi trường nguyên sơ nhất của hồng hoang.",
-      "detail": "Tiến độ: 2/3574 chương | Mới nhất: Chương 2: Quan Bất Chu ngộ công pháp",
+      "detail": "Tiến độ: 0/4026 chương",
       "status": "in_progress",
       "status_label": "Đang ra",
       "ongoing": true,
-      "completed_chapters": 2,
-      "total_chapters": 3574,
-      "latest_chapter": "Chương 2: Quan Bất Chu ngộ công pháp",
+      "completed_chapters": 0,
+      "total_chapters": 4026,
+      "latest_chapter": "",
       "genre": "eastern_fiction",
       "sub_genre": "xianxia",
       "style_tags": [
-        "Xuyên không",
-        "Hồng hoang",
-        "Tu chân",
-        "Thần thú",
-        "Tiên hiệp"
+        "tiên hiệp",
+        "hồng hoang lưu",
+        "xuyên không",
+        "tu chân"
       ],
       "categories": [
         {
@@ -235,29 +234,24 @@
           "title": "Đông phương"
         },
         {
+          "key": "tag:tien-hiep",
+          "token": "tiên hiệp",
+          "title": "Tiên hiệp"
+        },
+        {
+          "key": "tag:hong-hoang-luu",
+          "token": "hồng hoang lưu",
+          "title": "Hồng hoang lưu"
+        },
+        {
           "key": "tag:xuyen-khong",
-          "token": "Xuyên không",
+          "token": "xuyên không",
           "title": "Xuyên không"
         },
         {
-          "key": "tag:hong-hoang",
-          "token": "Hồng hoang",
-          "title": "Hồng hoang"
-        },
-        {
           "key": "tag:tu-chan",
-          "token": "Tu chân",
+          "token": "tu chân",
           "title": "Tu chân"
-        },
-        {
-          "key": "tag:than-thu",
-          "token": "Thần thú",
-          "title": "Thần thú"
-        },
-        {
-          "key": "tag:tien-hiep",
-          "token": "Tiên hiệp",
-          "title": "Tiên hiệp"
         }
       ],
       "cover_candidates": [
@@ -273,7 +267,7 @@
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Phi Pham Hong Hoang/README.md",
       "toc_path": "Output/Phi Pham Hong Hoang/toc.json",
-      "updated_at": "2026-06-12T09:27:47.013598+07:00"
+      "updated_at": "2026-06-12T10:09:06.272020+07:00"
     },
     {
       "branch": "Ta Te Bao Nguc Giam",
@@ -298,7 +292,7 @@
       "total_chapters": 2169,
       "latest_chapter": "0001 神秘的监狱",
       "detail": "Tiến độ: 2/2169 chương | Mới nhất: 0001 神秘的监狱",
-      "updated_at": "2026-06-12T09:28:59.339338+07:00",
+      "updated_at": "2026-06-12T10:09:07.293866+07:00",
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Ta Te Bao Nguc Giam/README.md",
       "toc_path": "Output/Ta Te Bao Nguc Giam/toc.json"
@@ -357,7 +351,7 @@
       "total_chapters": 1135,
       "latest_chapter": "Chương 2: Nhân Quả Tập",
       "detail": "Tiến độ: 2/1135 chương | Mới nhất: Chương 2: Nhân Quả Tập",
-      "updated_at": "2026-06-12T09:30:11.397327+07:00",
+      "updated_at": "2026-06-12T10:09:07.797398+07:00",
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Thai Nhat Dao Qua/README.md",
       "toc_path": "Output/Thai Nhat Dao Qua/toc.json"
@@ -424,7 +418,7 @@
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han/README.md",
       "toc_path": "Output/Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han/toc.json",
-      "updated_at": "2026-06-12T09:31:43.749937+07:00"
+      "updated_at": "2026-06-12T10:09:08.412381+07:00"
     },
     {
       "branch": "Tieu Dao Mong Duong",
@@ -449,7 +443,7 @@
       "total_chapters": 1184,
       "latest_chapter": "Chương 3: Linh Trà",
       "detail": "Tiến độ: 3/1184 chương | Mới nhất: Chương 3: Linh Trà",
-      "updated_at": "2026-06-12T09:33:01.018377+07:00",
+      "updated_at": "2026-06-12T10:09:09.003684+07:00",
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Tieu Dao Mong Duong/README.md",
       "toc_path": "Output/Tieu Dao Mong Duong/toc.json"
@@ -522,7 +516,7 @@
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Tu Chan Bon Van Nam/README.md",
       "toc_path": "Output/Tu Chan Bon Van Nam/toc.json",
-      "updated_at": "2026-06-12T09:34:08.033625+07:00"
+      "updated_at": "2026-06-12T10:09:10.589362+07:00"
     },
     {
       "branch": "Hong Hoang Lich_Zhttty",
@@ -977,7 +971,7 @@
     }
   ],
   "metadata": {
-    "generated_at": "2026-06-12T09:36:50+07:00",
+    "generated_at": "2026-06-12T10:57:27+07:00",
     "total_books": 17,
     "source": "Dichtrung/Output"
   },
@@ -1028,6 +1022,11 @@
       "count": 1
     },
     {
+      "key": "tag:co-trung",
+      "title": "Cổ trùng",
+      "count": 1
+    },
+    {
       "key": "tag:dark-fantasy",
       "title": "Dark fantasy",
       "count": 1
@@ -1048,11 +1047,6 @@
       "count": 3
     },
     {
-      "key": "tag:hac-am-luu",
-      "title": "Hắc ám lưu",
-      "count": 1
-    },
-    {
       "key": "tag:he-thong",
       "title": "Hệ thống",
       "count": 1
@@ -1060,12 +1054,17 @@
     {
       "key": "tag:hong-hoang",
       "title": "Hồng hoang",
-      "count": 2
+      "count": 1
+    },
+    {
+      "key": "tag:hong-hoang-luu",
+      "title": "Hồng hoang lưu",
+      "count": 1
     },
     {
       "key": "tag:huyen-ao",
       "title": "Huyền ảo",
-      "count": 3
+      "count": 2
     },
     {
       "key": "tag:khoa-hoc-vien-tuong",
@@ -1083,6 +1082,11 @@
       "count": 1
     },
     {
+      "key": "tag:lanh-lung",
+      "title": "Lạnh lùng",
+      "count": 1
+    },
+    {
       "key": "tag:linh-hon",
       "title": "Linh hồn",
       "count": 1
@@ -1093,6 +1097,11 @@
       "count": 1
     },
     {
+      "key": "tag:ma-đao",
+      "title": "Ma đạo",
+      "count": 1
+    },
+    {
       "key": "tag:mang-phu-luu",
       "title": "Mãng phu lưu",
       "count": 1
@@ -1100,6 +1109,11 @@
     {
       "key": "tag:muu-luoc",
       "title": "Mưu lược",
+      "count": 1
+    },
+    {
+      "key": "tag:muu-tri",
+      "title": "Mưu trí",
       "count": 1
     },
     {
@@ -1153,11 +1167,6 @@
       "count": 1
     },
     {
-      "key": "tag:than-thu",
-      "title": "Thần thú",
-      "count": 1
-    },
-    {
       "key": "tag:thanh-than",
       "title": "Thành thần",
       "count": 1
@@ -1165,7 +1174,7 @@
     {
       "key": "tag:tien-hiep",
       "title": "Tiên hiệp",
-      "count": 6
+      "count": 5
     },
     {
       "key": "tag:tien-hoa",
@@ -1178,13 +1187,8 @@
       "count": 1
     },
     {
-      "key": "tag:tri-đau",
-      "title": "Trí đấu",
-      "count": 1
-    },
-    {
-      "key": "tag:trong-sinh",
-      "title": "Trọng sinh",
+      "key": "tag:trung-sinh",
+      "title": "Trùng sinh",
       "count": 1
     },
     {
@@ -1240,23 +1244,23 @@
     },
     "Co Chan Nhan": {
       "display_title": "Cổ Chân Nhân",
-      "current_chapter": 1,
+      "current_chapter": 0,
       "total_chapters": 1915,
-      "completed_chapters": 1,
+      "completed_chapters": 0,
       "last_updated": "2026-06-12"
     },
     "Dung Goi Ta Ta Than": {
       "display_title": "Đừng Gọi Ta Tà Thần - Dung Goi Ta Ta Than",
-      "current_chapter": 50,
+      "current_chapter": 52,
       "total_chapters": 968,
-      "completed_chapters": 50,
+      "completed_chapters": 52,
       "last_updated": "2026-06-12"
     },
     "Phi Pham Hong Hoang": {
       "display_title": "Phi Phàm Hồng Hoang",
-      "current_chapter": 2,
-      "total_chapters": 3574,
-      "completed_chapters": 2,
+      "current_chapter": 0,
+      "total_chapters": 4026,
+      "completed_chapters": 0,
       "last_updated": "2026-06-12"
     },
     "Ta Te Bao Nguc Giam": {

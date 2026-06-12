@@ -1,0 +1,25 @@
+```json
+{
+  "approved": [
+    "大威天龙菩萨",
+    "最终文卷",
+    "现世如来经",
+    "阳神"
+  ],
+  "rejected": [
+    "世界里的人仙",
+    "再提高一级的",
+    "好是好，就是",
+    "是阳神世界中",
+    "的世界，武者",
+    "的力量等级摆",
+    "那称霸现在，"
+  ],
+  "uncertain": []
+}
+```
+
+**Reasoning:**
+*   **Approved:** "大威天龙菩萨" (a specific Bodhisattva title), "现世如来经" (a sutra/technique name), "阳神" (a key concept/realm, and the title of a famous web novel), and "最终文卷" (likely a specific scroll/item).
+*   **Rejected:** These are all fragmented phrases and sentence cutoffs rather than standalone terms. Translators would not add "好是好，就是" (It's good, but...) or "的世界，武者" (...world, martial artist...) to a glossary. They only contain partial context. If you want to add the terms within them, you should extract "人仙" (Human Immortal) and "武者" (Martial Artist) separately.
+*   **Uncertain:** None, the distinction between proper terms and broken phrases is quite clear in this list.
