@@ -196,11 +196,11 @@
           "title": "Đông phương"
         }
       ],
-      "completed_chapters": 58,
+      "completed_chapters": 60,
       "total_chapters": 968,
-      "latest_chapter": "Chương 58: Cấp độ huyền thoại",
+      "latest_chapter": "Chương 59: Nữ thần Ma pháp, chó cũng không thèm tin",
       "detail": "Tiến độ: 58/968 chương | Mới nhất: Chương 58: Cấp độ huyền thoại",
-      "updated_at": "2026-06-12T15:00:05.643232+07:00",
+      "updated_at": "2026-06-12T15:25:53+07:00",
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Dung Goi Ta Ta Than/README.md",
       "toc_path": "Output/Dung Goi Ta Ta Than/toc.json"
@@ -971,7 +971,7 @@
     }
   ],
   "metadata": {
-    "generated_at": "2026-06-12T15:23:42+07:00",
+    "generated_at": "2026-06-12T15:25:53+07:00",
     "total_books": 17,
     "source": "Dichtrung/Output"
   },
