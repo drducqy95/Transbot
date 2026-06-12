@@ -1,0 +1,194 @@
+# Translation Context Pack
+
+## Project
+- Branch: Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han
+- Title: 
+- Author: 
+- Genre: /
+- Language: zh → vi
+
+## Translation Rules
+### Translation Goal
+Dịch truyện Trung sang tiếng Việt tự nhiên, dễ đọc, đúng nghĩa, đúng mạch truyện, đúng văn cảnh, đúng xưng hô, đúng tên riêng và thuật ngữ.
+Style: văn xuôi tiếng Việt mượt, rõ nghĩa, không máy móc
+Priorities:
+  • đúng nghĩa và đúng văn cảnh
+  • đúng tên riêng
+  • đúng thuật ngữ theo loại và bối cảnh
+  • đúng xưng hô và quan hệ nhân vật
+  • giữ ổn định thuật ngữ/tên riêng/xưng hô đã khóa
+  • tự nhiên trong tiếng Việt
+  • giữ nhịp văn, cảm xúc và giọng kể gốc
+Anti-goals:
+  • không dịch từng chữ máy móc
+  • không Hán Việt hóa tên Nhật, Hàn, phương Tây, fandom, thương hiệu, kỹ thuật
+  • không áp VietPhrase/LuatNhan lên tên riêng đã khóa
+  • không đổi thuật ngữ đã khóa nếu văn cảnh giống nhau
+  • không dùng một bản dịch cứng cho từ đa nghĩa khi văn cảnh khác nhau
+  • không làm lộ thông tin ngoài POV nếu bản gốc chưa tiết lộ
+
+### Output Rules
+  • keep paragraph structure
+  • keep dialogue structure
+  • do not merge paragraphs
+  • do not split paragraphs unnecessarily
+  • preserve punctuation when reasonable
+  • convert chinese quotes to vietnamese
+  • remove unnecessary explanation
+  • output only translation
+  • do not add notes inside translation
+  • mark uncertain items for audit only
+
+### Tone Guidelines
+  • narration: tự nhiên, rõ ràng, có chất truyện
+  • dialogue: phù hợp thân phận, quan hệ, tuổi tác, quyền lực và bối cảnh
+  • ancient_setting: cổ phong vừa phải, không lạm dụng Hán Việt khó hiểu
+  • modern_setting: hiện đại, đời thường, không cổ hóa lời thoại
+  • game_system: rõ ràng, gọn, quen thuộc với văn phong game/system
+  • comedy: giữ nhịp hài nếu có
+  • serious: giữ sắc thái căng thẳng, trang trọng nếu có
+
+### Term Normalization
+Purpose: Chuẩn hóa thuật ngữ theo văn cảnh truyện, bao gồm chiêu thức, nghề nghiệp, chức vị, cảnh giới, kỹ năng, vật phẩm, danh hiệu, tổ chức, hệ thống, khái niệm thế giới quan và cụm cố định lặp lại.
+Core principles:
+  • context first
+  • not word by word
+  • same source can have different translation if context differs
+  • same source same context must be consistent
+  • same term type should keep style consistent
+  • locked translation only applies to matching context
+  • source plus type plus context equals translation
+Decision rules:
+  • Không dịch thuật ngữ chỉ theo mặt chữ.
+  • Một source có thể có nhiều bản dịch nếu văn cảnh khác nhau.
+  • Một bản dịch đã khóa chỉ áp dụng cho đúng loại văn cảnh đã khóa.
+  • Tên chiêu thức, cảnh giới, pháp bảo quan trọng nên dùng dạng Hán Việt chuẩn, viết hoa nếu là danh từ riêng.
+  • Vật phẩm phổ thông không cần Hán Việt hóa quá mức.
+  • Nghề nghiệp phải xét bối cảnh.
+  • Chức vị phải xét hệ thống xã hội.
+  • Nếu cùng source và cùng văn cảnh, phải giữ nhất quán.
+  • Nếu không chắc văn cảnh, đánh dấu audit.
+
+### Engine Rules
+  • use context pack
+  • use previous chapter summary
+  • use character profile
+  • use story timeline
+  • use glossary
+  • use name scan
+  • use segment context
+  • avoid over literal translation
+  • avoid over smoothing that changes meaning
+
+## Characters
+N/A
+
+## Glossary
+| Chinese | Vietnamese | Type |
+| --- | --- | --- |
+| 产地：衍生 | Sản địa: Phái sinh | term |
+| 天赋评级： | Đánh giá thiên phú: | term |
+| 天赋：限制器 | Thiên phú: Bộ hạn chế | term |
+| 浅打 | Thiển Đả | term |
+
+
+## Story Timeline (latest)
+
+## Chapter 0001 - Chương 1: Ta Có Một Vẻ Đẹp Trị Số
+
+### Summary
+Chapter 1 completed via pipeline.
+
+## Chapter 0002 - Chương 2: Không Gian Chung Yên
+
+### Summary
+Chapter 2 completed via pipeline.
+
+## Chapter 0003 - Chương 3: Hóa Ra Ta Đang Cười
+
+### Summary
+Chapter 3 completed via pipeline.
+
+## Chapter 0004 - Chương 4: Unohana (Truyện mới cầu cất chứa)
+
+### Summary
+Chapter 4 completed via pipeline.
+
+## Chapter 0005 - Chương 5: Bạn Cùng Phòng Của Ta Là Aizen? (Ba canh cầu phiếu)
+
+### Summary
+Chapter 5 completed via pipeline.
+
+
+## Source Chapter 6 - 0006 入学测验（求收藏 求月票）
+# 第6章 入学测验（求收藏 求月票）
+
+死神世界中，灵压亦或是灵威的概念，简单可以理解为‘灵魂的密度’。
+大抵是灵压高的人能动用的灵力就越高，操控力就看各人能力。
+死神和虚基本适用，如主角黑崎一护灵压极高，但操控力不强，所以初期无法自由控制灵压，对灵力的掌控也不高（参照黑崎一护去虚圈时凝结的灵力通道）
+而灭却师却比较特殊，不一定有很强的灵压，但因为其操纵灵子战斗的方式，其能使用的灵力未必不多。
+按照陆离的理解，大概就是死神是将灵子力量凝聚在自己体内，靠自身作战，灭却师则是可以借助自然力量作战。
+所以灵压的高低肯定不对等于陆离曾经了解过的游戏中的‘法力值’，也不完全对等于自己此时的精神属性，它是一个更综合的评判标准。
+比如他现在的‘肉身’很强大，如果他此时确实是死神世界中的灵魂的话，那么他的灵魂密度显然是较高的，那么灵压也不会低。
+当然，鉴于死神们的战斗方式中，有很多依赖灵压外放的情况，所以他分析精神属性在灵压数值的占比中应该是相当重要的。
+“居然……”
+此时，负责测试的藤本老师有些讶异的看着屏幕，而周围的同学们也都发出了各种讨论声。
+伴随着紫黑色的光芒闪烁，屏幕上的刻度条迅速飞涨，在陆离的手放上去后，几乎是瞬间就突破了那十个刻度区间。
+“二十等灵威了！”
+有人惊呼。
+但也有相当一部分同学保持淡定，因为自真央灵术院成立后出现过不少天才，历史上入学就有7等灵威的怪物也是有的。
+可随着屏幕上的数值继续变化，一些人的目光也变得凝重起来。
+二十等……十九等……十八等……十七等灵威！
+“可以了吗？”
+陆离看着屏幕上的数值不再波动，转头问藤本老师。
+不同于那些惊讶的同学，他并不觉得自己的灵威等级很高，因为他知道原著中的天才入学时灵威等级可都是个位数的。
+比如两百年后会出现的志波海燕，再之后的银、小白，入学时的灵威肯定完爆现在的自己。
+但陆离也没什么好失望的，因为他不是这个世界的人，也并不是一个真正的灵子聚集体，而他强在具有高成长性，以及卓越的战斗技巧和直感。
+“怪不得卯之花队长会将你带过来，果然是出色的人才，我们进行下一步测试吧。”
+藤本老师收起讶异的神情，走到一旁拿起两柄竹剑。
+其实陆离的十七等灵威在今年入学的学员中并不算顶尖，甚至排不进前十，他感到惊讶，是因为他知道陆离原先只是个流魂街的流民。
+那些一入学就有个位数灵威的天才也未必就比陆离天赋高多少，因为他们多半都是尸魂界内的贵族子弟，或是大家族子弟，从小就得到了培养。
+在进入真央灵术院前，他们就在族内修炼多年了，当然有着不俗的灵威等级。
+可藤本柱知道，陆离是没有得到过任何培养的，这个孩子甚至不知道如何凝练灵子，他的十七等灵威，完全是天生的天赋！
+如果在学院内好好修习六年，陆离的灵威等级完全可能会达到8等，甚至6等灵威，也就是席官的级别。
+在此时的藤本柱眼中，陆离已经是一块儿璞玉了，就是不知道战斗天赋如何。      这么想着，他将手中的一柄竹剑扔给陆离，“攻过来试试。”
+陆离接住竹剑，掂量了一番，似乎有些明白了，这所谓的第二场测试，根本就不在入学测试范畴内，只不过是藤本柱想要看看自己的剑道技巧罢了。
+所以对方才说只要自己通过了第一个测试就是正式学员了，现在只是这堂剑道课的老师，想要考教自己而已。
+见陆离接过竹剑后站在原地并未进攻，藤本柱以为对方在顾忌，开口道：“放心，我会将灵威等级压制到和你一个水准，而我也会点到为止，你就全力攻过来吧。”
+听到这句话，陆离嘴角压抑不住的勾起，看向藤本柱，“老师，你确定吗？”
+藤本柱皱了皱眉，他感觉眼前的这个年轻人，好似在小看自己。
+“你不用想其他的事，只要攻过来就行，抱着杀死我的觉悟动手吧，让我看看你的水准，也好给你制定训练计划，好跟上其他同学的进度。”
+藤本柱说道，他在退下来当真央灵术院的剑道老师之前，可是一位席官，自认在剑道领域还算有所成就。
+在他看来，陆离是有些天赋，多半在混乱的流民街长大的过程中经历过不少械斗，他仗着天赋好估计没输过，才会如此自大。
+他今天就要教育一下这个自大的年轻人，让他知道流民街械斗的野把式，在真正的剑道面前不堪一击！
+“抱着杀死你的觉悟吗……”
+陆离重复了一遍这句话，手中竹剑侧于身，身形微微下压。
+这一瞬，藤本柱忽然感觉原本松松垮垮站在那里的年轻人变了，变得是眼神，还有那无形的气势。
+仿佛猛虎捕猎前的匍匐，仿佛名刀归鞘般的蓄势。
+那低垂的眉眼下，藏着的亢奋，就像是即将喷发的火山，那是武人的疯癫，莽夫的狂热！
+下一刹，陆离脚下的木质地板向后翘起，他宛若一颗炮弹般重重射出，却又在射出后显得那么轻盈。
+十几米的距离一闪而逝，竹剑在空气中画出优雅的圆弧，宛若大师在宣纸上挥洒笔墨，分明只是竹剑，却带出了染血般的刀光。
+砰——
+千钧一发之际，藤本柱的竹剑挡住了这一刀，震波荡起了藤本柱的长发和青年的发梢。
+在对视中，藤本柱看到了那双眸子饱含渴望……与亢奋。
+“遭了！”
+藤本柱心中大呼不妙，因为他第一招已经慢了三分，而眼前这个年轻人的攻势却不会停止。
+他感觉对方就像是一个身经百战的剑道大师，亦或是有着天生的战斗直感，没有错过任何对手的破绽。
+果然，在他刀势回转之时，陆离的下一刀已如探首的蛇一般突破了他的防御圈，直刺他的咽喉！
+——————
+新书期追读数据真的很重要，如果喜欢本书，还请猛猛的用月票鞭笞大象吧(≧ω≦)/
+
+
+## Output Format
+Return ONLY valid JSON matching this schema:
+{
+  "chapter_number": 6,
+  "chapter_title_vi": "Chương 6: <Vietnamese title>",
+  "segments": [
+    {
+      "segment_id": "XXXX",
+      "source": "...",
+      "target": "..."
+    }
+  ]
+}
