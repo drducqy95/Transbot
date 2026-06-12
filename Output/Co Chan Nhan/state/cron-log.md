@@ -3,3 +3,4 @@
 - 2026-06-12 14:03 | Chapter 2 | completed | Chương 0002 - Chương 2 Giác ngộ năm trăm năm ngược dòng quang âm.md
 - 2026-06-12 14:23 | Chapter 3 | completed | Chương 0003 - Chương 3 Xin cứ ra một góc mà chơi đi.md
 - 2026-06-12 14:47 | Chapter 4 | completed | Chương 0004 - Chương 4 Cổ Nguyệt Phương Nguyên!.md
+- 2026-06-12 14:56 | Chapter 5 | completed | Chương 0005 - Chương 5 Nhân Tổ tam cổ, hy vọng khai khiếu.md
