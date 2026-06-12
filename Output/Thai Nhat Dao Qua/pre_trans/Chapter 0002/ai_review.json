@@ -1,33 +1,31 @@
-I will list the workspace directory to understand the project structure and context for these translation terms.
-I will perform a search in the workspace directories to find any Python or JavaScript files that deal with glossary extraction or translation validation.
-I will search for the term "glossary" in the project to see how glossaries are structured, loaded, or formatted.
-I will view the contents of an existing `ai_review.json` file in one of the chapters to see the format of the output it expects, how terms are classified, and how the results are returned.
-I will list the directory `Output/Chu Than Dai Dao/pre_trans/Chapter 0002` to see if there is a `glossary_scan.json` file.
-I will view the `glossary_scan.json` in Chapter 0002 to see its contents and format.
-I will run a `git status` command to find out which files are modified or where the active work is located.
-I will check the status of the background task running `git status`.
-I will search for the term "长蛇百寻" in the project to see which novel/chapter it belongs to and check its context.
-I will view the `glossary_scan.json` file under `Output/Thai Nhat Dao Qua/pre_trans/Chapter 0002` to see if it lists these exact terms.
-I will list the directory `Output/Thai Nhat Dao Qua/pre_trans/Chapter 0002` to see what files exist there.
-I will view the `source.md` file to see the context around all the terms and make sure we classify them accurately.
-I will view the `ai_review.json` file in Chapter 2 of "Chu Than Dai Dao" to check its structure and format.
-I will search for the term "ai_review.json" in the `Script` directory to see how the translation scripts parse it.
-I will search for the term "review" in the `Script` directory to find any scripts that process the AI review JSON output.
-I will view the `test_api.py` file to understand if there is a specific structure or API being tested.
-I will view the `Script/transbot_pipeline.py` file to understand the overall translation flow.
-I will search the `transbot_pipeline.py` file for references to `glossary_scan` or `name_scan` to see how they are read or updated.
-I will search all scripts in the `Script` directory for any references to `glossary_scan` to see how the status update is done.
-I will list the contents of `Output/Thai Nhat Dao Qua` to see if there is a state directory or a Glossary.md file.
-I will list the directory `Output/Thai Nhat Dao Qua/state` to see if any glossary files have been initialized there.
-I will list the `Global State` directory to see if there are global dictionaries or glossaries.
-I will run a command to find all `ai_review.json` files in the `Output` directory to check their structures.
-I will check the status of the `find` task to see the list of all `ai_review.json` files.
-I will view the log file of task-49 to see the list of all found `ai_review.json` files.
-I will view the `ai_review.json` file in Chapter 1 of "Thai Nhat Dao Qua" to see the schema used previously for this specific novel.
-I will update the `glossary_scan.json` file in Chapter 2 of "Thai Nhat Dao Qua" to mark the terms as either `approved` or `rejected`.
-I will write the JSON review results to the `ai_review.json` file in Chapter 2 of "Thai Nhat Dao Qua".
-Here is the JSON containing the approved, rejected, and uncertain terms reviewed for the translation:
+I will start by listing the contents of the project directory to understand the project structure and see how translation terms are handled.
+I will read the `README.md` and check the `Script` and `Source` directories to understand how the translation pipeline is configured and how glossary terms are validated.
+I will check the files in `Script` and `Source` directories to find the translation logic or glossary handling scripts.
+I will list the contents of the `Script` and `$TRANS_DIR` directories.
+I will list the `$TRANS_DIR` directory contents to see if there are translation glossaries, metadata or rules there.
+I will perform a search in the codebase to see how glossary terms or names are typically classified (approved, rejected, or uncertain).
+I will view one of the `ai_review.json` files to see how the system categorizes names and terms.
+I will view `Script/transbot_pipeline.py` to understand how the pipeline extracts and processes glossary terms and characters.
+I will search for `approved` inside `Script/transbot_pipeline.py` to see how the code processes these lists.
+I will search for `ai_review` in the `Script` directory to find which script does the review of terms.
+I will do a grep search for the word `review` in the `Script` directory to see if there is any code handling the name and term review.
+I will read another `ai_review.json` file from a different book/chapter to see its format and content.
+I will search the workspace for all `ai_review.json` files to see if there are other examples we can reference.
+I will read the `ai_review.json` for Chapter 0003 of *Chu Than Dai Dao* to gain more context on the classification rules.
+I will search for the term `三教合一：儒` or `长蛇百寻` to locate the source file and chapter, which will provide context on these terms.
+I will search for `求返其真` to see where it appears in the codebase. This will point us directly to the relevant chapter files.
+I will view the contents of the file `Output/Thai Nhat Dao Qua/pre_trans/Chapter 0006/glossary_scan.json` to see if there is any overlap with the terms listed in the user request.
+I will view the `ai_review.json` file for Chapter 6 of *Thai Nhat Dao Qua* to see what terms were approved, rejected, or uncertain.
+I will search the repository to see if the term `道法精通` appears in any source files or translations for *Thai Nhat Dao Qua*, to check if it's a specific term.
+I will search for `道法精通` inside Chapter 1 of *Thai Nhat Dao Qua* to see the sentence context.
+I will view the source file at `/mnt/sdcard/My Agent/Transbot/Output/Thai Nhat Dao Qua/pre_trans/Chapter 0001/source.md` around line 127 to see the full context.
+I will search for the term `长蛇` to see the context of `长蛇百寻` in the text.
+Based on the source context of *Thái Nhật Đạo Quả* (Thai Nhat Dao Qua) from [Chapter 1 source](file:///mnt/sdcard/My%20Agent/Transbot/Output/Thai%20Nhat%20Dao%20Qua/pre_trans/Chapter%200001/source.md#L124-L133) and [Chapter 2 source](file:///mnt/sdcard/My%20Agent/Transbot/Output/Thai%20Nhat%20Dao%20Qua/pre_trans/Chapter%200002/source.md#L48-L56), here is the review and classification of the terms:
 
+* **Approved**: Real, complete proper nouns corresponding to Dao果 (Dao Fruit) capabilities (e.g. `求返其真`, `性命双修`, `三教合一`, `道心通明`, `道法精通`, `长蛇百寻`).
+* **Rejected**: Punctuation-led fragments, incomplete list/definition cut-offs, or generic descriptive phrases rather than formal terminology.
+
+### JSON Review Result
 ```json
 {
   "approved": [
@@ -58,11 +56,5 @@ Here is the JSON containing the approved, rejected, and uncertain terms reviewed
 ```
 
 ### Summary of Work
-
-1. **Analyzed Workspace**: Inspected [source.md](file:///mnt/sdcard/My%20Agent/Transbot/Output/Thai%20Nhat%20Dao%20Qua/pre_trans/Chapter%200002/source.md) for Chapter 2 of *Thái Nhất Đạo Quả* (Thai Nhat Dao Qua) to find the original context of the terms.
-2. **Evaluated Terms**:
-   * **Approved**: Legitimate Daoist philosophy concepts, cultivation terms, or specific Dao Fruit abilities (e.g., `三教合一` - Tam Giáo Hợp Nhất, `性命双修` - Tính Mệnh Song Tu, `求返其真` - Cầu Phản Kỳ Chân, `长蛇百寻` - Trường Xà Bách Tầm).
-   * **Rejected**: Punctuation issues, cut-off lines, sentence fragments, and prepositions split during automatic segmentation.
-3. **Updated Files**:
-   * Generated and saved the review results to [ai_review.json](file:///mnt/sdcard/My%20Agent/Transbot/Output/Thai%20Nhat%20Dao%20Qua/pre_trans/Chapter%200002/ai_review.json).
-   * Updated the status flags in [glossary_scan.json](file:///mnt/sdcard/My%20Agent/Transbot/Output/Thai%20Nhat%20Dao%20Qua/pre_trans/Chapter%200002/glossary_scan.json) from `pending` to `approved` or `rejected`.
+1. **Investigated Context**: Located the source text of the terms in the book *Thai Nhat Dao Qua* ([Chapter 1 source](file:///mnt/sdcard/My%20Agent/Transbot/Output/Thai%20Nhat%20Dao%20Qua/pre_trans/Chapter%200001/source.md) and [Chapter 2 source](file:///mnt/sdcard/My%20Agent/Transbot/Output/Thai%20Nhat%20Dao%20Qua/pre_trans/Chapter%200002/source.md)).
+2. **Analyzed Terms**: Identified valid Dao Fruit capability names as approved terms, and filtered out grammatical fragments and run-on sentences as rejected.
