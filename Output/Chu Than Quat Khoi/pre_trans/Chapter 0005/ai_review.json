@@ -1,0 +1,74 @@
+Here is the JSON containing the approved, rejected, and uncertain items from the term review for Chapter 5 of *Chu Than Quat Khoi* (Chư Thần Quật Khởi):
+
+```json
+{
+  "approved": [
+    {
+      "source": "主线任务开启",
+      "translation": "Nhiệm vụ chính tuyến mở ra / Kích hoạt nhiệm vụ chính tuyến",
+      "type": "system",
+      "reason": "Thuật ngữ hệ thống/trò chơi tiêu chuẩn dùng để thông báo mở nhiệm vụ chính."
+    },
+    {
+      "source": "本次任务场景",
+      "translation": "Bối cảnh nhiệm vụ lần này / Phụ bản nhiệm vụ lần này",
+      "type": "system",
+      "reason": "Cụm thuật ngữ hệ thống chỉ bối cảnh phụ bản của nhiệm vụ hiện tại."
+    }
+  ],
+  "rejected": [
+    {
+      "source": "一个信息在",
+      "reason": "Mảnh cắt câu tự sự thông thường, không phải thuật ngữ hay danh từ riêng."
+    }
+  ],
+  "uncertain": [
+    {
+      "source": "“大夏？！",
+      "correct_source": "大夏",
+      "suggested_translation": "Đại Hạ",
+      "reason": "Cụm từ chứa dấu mở ngoặc kép và dấu chấm hỏi/chấm than dư thừa. Cần chuẩn hóa thành danh từ riêng Đại Hạ (大夏)."
+    },
+    {
+      "source": "任务目标：在",
+      "correct_source": "任务目标",
+      "suggested_translation": "Mục tiêu nhiệm vụ",
+      "reason": "Cụm từ bị cắt cụt dính giới từ '在' ở cuối. Cần chuẩn hóa thành '任务目标'."
+    },
+    {
+      "source": "即时任务：到",
+      "correct_source": "即时任务",
+      "suggested_translation": "Nhiệm vụ tức thời",
+      "reason": "Cụm từ bị cắt cụt dính chữ '到' ở cuối. Cần chuẩn hóa thành '即时任务'."
+    },
+    {
+      "source": "叮！主线任务",
+      "correct_source": "主线任务",
+      "suggested_translation": "Nhiệm vụ chính tuyến",
+      "reason": "Cụm từ dính âm thanh hệ thống '叮！' ở đầu và bị cắt cụt ở cuối. Cần chuẩn hóa thành '主线任务'."
+    },
+    {
+      "source": "场景介绍：大",
+      "correct_source": "场景介绍",
+      "suggested_translation": "Giới thiệu bối cảnh / Giới thiệu phụ bản",
+      "reason": "Cụm từ bị cắt cụt dính từ '大' ở cuối. Cần chuẩn hóa thành '场景介绍'."
+    },
+    {
+      "source": "支线任务：击",
+      "correct_source": "支线任务",
+      "suggested_translation": "Nhiệm vụ chi nhánh / Nhiệm vụ phụ",
+      "reason": "Cụm từ bị cắt cụt dính từ '击' ở cuối. Cần chuẩn hóa thành '支线任务'."
+    }
+  ]
+}
+```
+
+### Summary of Work
+1. **Context Identification**: Discovered the context of these terms in the source text of Chapter 5 of *Chu Than Quat Khoi* (Chư Thần Quật Khởi).
+2. **Evaluated Terms**:
+   * Approved complete system terms such as `主线任务开启` and `本次任务场景`.
+   * Rejected narrative fragments like `一个信息在`.
+   * Flagged dialogue and truncated pre-translation tags (`“大夏？！`, `任务目标：在`, etc.) as uncertain and provided their cleaned forms and suggested translations.
+3. **Updated Workspace Files**:
+   * Updated the term statuses in [glossary_scan.json](file:///mnt/sdcard/My Agent/Transbot/Output/Chu Than Quat Khoi/pre_trans/Chapter 0005/glossary_scan.json).
+   * Saved the review decisions to [ai_review.json](file:///mnt/sdcard/My Agent/Transbot/Output/Chu Than Quat Khoi/pre_trans/Chapter 0005/ai_review.json).

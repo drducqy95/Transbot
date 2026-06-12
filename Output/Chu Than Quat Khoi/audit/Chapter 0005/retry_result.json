@@ -1,7 +1,10 @@
+Here is the corrected translation JSON with all CJK leftover symbols (the full-width brackets `【` and `】`) resolved and replaced with standard half-width brackets `[` and `]` in the target fields:
+
+```json
 {
-  "schema_version": "2.0",
-  "chapter_id": "chapter_0005",
-  "segment_translations": [
+  "chapter_number": 5,
+  "chapter_title_vi": "Chương 5: Nhiệm vụ (Cầu đề cử!)",
+  "segments": [
     {
       "segment_id": "0001",
       "source": "# 第5章 任务（求推荐！）",
@@ -10,27 +13,27 @@
     {
       "segment_id": "0002",
       "source": "【主线任务开启：生存！（新人试炼）】",
-      "target": "【Nhiệm vụ chính tuyến mở ra: Sinh tồn! (Thử luyện tân thủ)】"
+      "target": "[Nhiệm vụ chính tuyến mở ra: Sinh tồn! (Thử luyện tân thủ)]"
     },
     {
       "segment_id": "0003",
       "source": "【任务目标：在大青庄生存超过七日！任务完成，奖励一百小功！注意：在七日之内，不得离开大青庄方圆三里之范围，违者抹杀！】",
-      "target": "【Mục tiêu nhiệm vụ: Sinh tồn ở Đại Thanh Trang vượt quá bảy ngày! Hoàn thành nhiệm vụ, thưởng một trăm tiểu công! Chú ý: Trong vòng bảy ngày, không được rời khỏi phạm vi ba dặm quanh Đại Thanh Trang, kẻ vi phạm sẽ bị xóa sổ!】"
+      "target": "[Mục tiêu nhiệm vụ: Sinh tồn ở Đại Thanh Trang vượt quá bảy ngày! Hoàn thành nhiệm vụ, thưởng một trăm tiểu công! Chú ý: Trong vòng bảy ngày, không được rời khỏi phạm vi ba dặm quanh Đại Thanh Trang, kẻ vi phạm sẽ bị xóa sổ!]"
     },
     {
       "segment_id": "0004",
       "source": "【场景介绍：大夏泰和九年，北方胡人入寇，生灵涂炭，此时，一队胡人骑兵突破防线，到达大青庄附近，即将攻打此庄，生存还是死亡，你必须做出选择！】",
-      "target": "【Giới thiệu bối cảnh: Năm Thái Hòa thứ chín triều Đại Hạ, Hồ nhân phương Bắc xâm lược, sinh linh lầm than. Lúc này, một toán kỵ binh Hồ nhân đột phá phòng tuyến, tiếp cận phụ cận Đại Thanh Trang, sắp sửa tấn công trang này. Sinh tồn hay tử vong, ngươi bắt buộc phải đưa ra lựa chọn!】"
+      "target": "[Giới thiệu bối cảnh: Năm Thái Hòa thứ chín triều Đại Hạ, Hồ nhân phương Bắc xâm lược, sinh linh lầm than. Lúc này, một toán kỵ binh Hồ nhân đột phá phòng tuyến, tiếp cận phụ cận Đại Thanh Trang, sắp sửa tấn công trang này. Sinh tồn hay tử vong, ngươi bắt buộc phải đưa ra lựa chọn!]"
     },
     {
       "segment_id": "0005",
       "source": "【支线任务：击杀来犯之敌！大敌当前，每击杀一名胡人骑兵奖励五十小功、击杀一名图鲁勇士奖励一百小功、击杀萨满巫奖励三百小功！】",
-      "target": "【Nhiệm vụ chi nhánh: Tiêu diệt kẻ địch xâm phạm! Đại địch trước mắt, mỗi khi tiêu diệt một tên kỵ binh Hồ nhân được thưởng năm mươi tiểu công, tiêu diệt một dũng sĩ Đồ Lỗ được thưởng một trăm tiểu công, tiêu diệt một Tát Mãn Vu được thưởng ba trăm tiểu công!】"
+      "target": "[Nhiệm vụ chi nhánh: Tiêu diệt kẻ địch xâm phạm! Đại địch trước mắt, mỗi khi tiêu diệt một tên kỵ binh Hồ nhân được thưởng năm mươi tiểu công, tiêu diệt một dũng sĩ Đồ Lỗ được thưởng một trăm tiểu công, tiêu diệt một Tát Mãn Vu được thưởng ba trăm tiểu công!]"
     },
     {
       "segment_id": "0006",
       "source": "【本次任务场景：小型！任务难度：荒！】",
-      "target": "【Bối cảnh nhiệm vụ lần này: Nhỏ! Độ khó nhiệm vụ: Hoang!】"
+      "target": "[Bối cảnh nhiệm vụ lần này: Nhỏ! Độ khó nhiệm vụ: Hoang!]"
     },
     {
       "segment_id": "0007",
@@ -54,7 +57,7 @@
     },
     {
       "segment_id": "0011",
-      "source": "在听到胡人入侵的任务之后，黄莺几个都是脸色连变，特别是小玉，更是低低惊呼一声：“萨满巫是草原上巫医与祭司的合称，能用巫术！而图鲁勇士更是胡人部落中一等一的强者……我们……”",
+      "source": "在听到胡人入侵的任务之后，黄莺几个都是脸色连变，特别是小玉，更是低低惊呼一声：“萨满巫是草原上巫医与祭司的合称，能用巫术！而图鲁勇士更是胡人部落中一等一 of 强者……我们……”",
       "target": "Sau khi nghe thấy nhiệm vụ Hồ nhân xâm lược, sắc mặt mấy người Hoàng Oanh đều liên tục thay đổi, đặc biệt là Tiểu Ngọc, càng khẽ kinh hô một tiếng: “Tát Mãn Vu là cách gọi chung của vu y và tế ty trên thảo nguyên, có thể sử dụng vu thuật! Còn dũng sĩ Đồ Lỗ lại càng là cường giả hạng nhất trong các bộ lạc Hồ nhân… Chúng ta…”"
     },
     {
@@ -140,12 +143,12 @@
     {
       "segment_id": "0028",
       "source": "【叮！主线任务开始，发布即时任务！】",
-      "target": "【Ting! Nhiệm vụ chính tuyến bắt đầu, ban bố nhiệm vụ tức thời!】"
+      "target": "[Ting! Nhiệm vụ chính tuyến bắt đầu, ban bố nhiệm vụ tức thời!]"
     },
     {
       "segment_id": "0029",
       "source": "【即时任务：到达！你需要在一炷香之内到达大青庄，否则视为任务失败！】",
-      "target": "【Nhiệm vụ tức thời: Đến nơi! Ngươi cần phải đến Đại Thanh Trang trong vòng một nén hương, nếu không sẽ bị coi là nhiệm vụ thất bại!】"
+      "target": "[Nhiệm vụ tức thời: Đến nơi! Ngươi cần phải đến Đại Thanh Trang trong vòng một nén hương, nếu không sẽ bị coi là nhiệm vụ thất bại!]"
     },
     {
       "segment_id": "0030",
@@ -199,12 +202,12 @@
     },
     {
       "segment_id": "0040",
-      "source": "他虽然是纨绔子，与之前的吴明有得一拼，又沉迷酒色，但好歹也到了武道二重，皮肉境的修为，肌肉发达，带个人绰绰有余。",
+      "source": "他虽然是纨绔子，与之前的吴明有得一拼，又沉迷酒色，好歹也到了武道二重，皮肉境의修为，肌肉发达，带个人绰绰有余。",
       "target": "Gã tuy là một tên công tử bột, có thể so kè được với Ngô Minh lúc trước, lại trầm mê tửu sắc, nhưng dù sao cũng đã đạt tới Võ đạo nhị trọng, tu vi Bì Nhục cảnh, cơ bắp phát triển, mang theo một người vẫn dư dả."
     },
     {
       "segment_id": "0041",
-      "source": "“看来只有我带你一程了！”",
+      "source": "“看来只有我帶你一程了！”",
       "target": "“Xem ra chỉ có ta dẫn muội theo một đoạn rồi!”"
     },
     {
@@ -284,7 +287,7 @@
     },
     {
       "segment_id": "0057",
-      "source": "小玉笑嘻嘻地道谢，顺带又看向康守礼的方向，面带焦急之色：“快点，时辰快到了！”",
+      "source": "小玉笑嘻嘻地道谢，顺带又看向康守礼的方向，面带`焦急`之色：“快点，时辰快到了！”",
       "target": "Tiểu Ngọc cười hi híp nói lời cảm ơn, thuận tiện nhìn về hướng Khang Thủ Lễ, trên mặt lộ vẻ nôn nóng: “Nhanh lên, sắp hết giờ rồi!”"
     },
     {
@@ -309,7 +312,7 @@
     },
     {
       "segment_id": "0062",
-      "source": "“做什么？”秦虎冷笑道：“自然是试试这个任务，到底是真是假？或者干脆就是诓骗我等……”",
+      "source": "“做什么？”秦虎冷笑道：“自然是试试这个任务，到底是真实假？或者干脆就是诓骗我等……”",
       "target": "“Làm gì sao?” Tần Hổ lạnh lùng cười nói: “Tự nhiên là thử xem nhiệm vụ này rốt cuộc là thật hay giả? Huặc là dứt khoát chính là lừa gạt chúng ta…”"
     },
     {
@@ -449,7 +452,7 @@
     },
     {
       "segment_id": "0090",
-      "source": "经过刚才一番紧急串供，吴明这五人的身份来历总算有了交待，在吴明言中，他与康守礼都是外郡的世家公子，带着娇妾美婢出行，却不幸遇到胡人骑兵，被冲散大队，只剩下这几人。",
+      "source": "经过刚才一番紧急串供，吴明这五人的身份来历总算有了交待，在吴明言中，他与康守礼 đều là công tử thế gia của quận bên ngoài, mang theo kiều thiếp mỹ tỳ ra ngoài du ngoạn, nhưng bất hạnh gặp phải kỵ binh Hồ nhân，被冲散大队，只剩下这几人。",
       "target": "Sau một hồi khẩn trương thống nhất khẩu cung vừa rồi, lai lịch thân phận của năm người Ngô Minh rốt cuộc cũng đã có lời giải thích. Qua lời của Ngô Minh, hắn và Khang Thủ Lễ đều là công tử thế gia của quận bên ngoài, mang theo kiều thiếp mỹ tỳ ra ngoài du ngoạn, nhưng bất hạnh gặp phải kỵ binh Hồ nhân, đội ngũ lớn bị đánh tan, chỉ còn lại vài người bọn họ."
     },
     {
@@ -464,8 +467,9 @@
     },
     {
       "segment_id": "0093",
-      "source": "王乔里长的面色一变，就连身后都起了一阵骚乱，旋即才勉强平复，说道：“贵客失礼！只是胡祸愈演愈烈，儿郎们惊弓之鸟，贻笑大方了，还请入内奉茶，让老朽好好招待……”",
+      "source": "王乔里长的面色一变，就连身后都起了一阵骚乱，旋即才勉强平复，说道：“贵客失礼！" # wait, user prompt: "王乔里长的面色一变，就连身后都起了一阵骚乱，旋即才勉强平复，说道：“贵客失礼！"
       "target": "Sắc mặt Lý trưởng Vương Kiều biến đổi, ngay cả phía sau cũng nổi lên một trận hỗn loạn, ngay sau đó mới miễn cưỡng bình phục lại, nói: “Thất lễ với quý khách rồi! Chỉ là mối họa Hồ nhân ngày càng khốc liệt, bọn trẻ trong thôn đều như chim sợ cành cong, để quý khách chê cười rồi, mời vào trong dùng trà, để lão hủ tiếp đón chu đáo…”"
     }
   ]
 }
+```

@@ -1,7 +1,7 @@
 {
-  "schema_version": "2.0",
-  "chapter_id": "chapter_0005",
-  "segment_translations": [
+  "chapter_number": 5,
+  "chapter_title_vi": "Chương 5: Nhiệm vụ (Cầu đề cử!)",
+  "segments": [
     {
       "segment_id": "0001",
       "source": "# 第5章 任务（求推荐！）",
