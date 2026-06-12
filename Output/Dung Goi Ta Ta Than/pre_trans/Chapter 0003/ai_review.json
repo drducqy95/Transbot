@@ -1,17 +1,33 @@
 ```json
 {
-  "names": {},
-  "terms": {
-    "之类的辅助魔": "rejected",
-    "任务目标：": "rejected",
-    "侦测思想": "rejected",
-    "叮！": "rejected",
-    "查找完成，任": "rejected",
-    "检测到信徒正": "rejected",
-    "秘法锁": "rejected",
-    "脑海里突然": "rejected",
-    "蛛网术": "rejected",
-    "，可是这法术": "rejected"
-  }
+  "approved": [
+    "侦测思想",
+    "秘法锁",
+    "蛛网术"
+  ],
+  "rejected": [
+    "能力",
+    "之类的辅助魔",
+    "任务目标：",
+    "叮！",
+    "查找完成，任",
+    "检测到信徒正",
+    "脑海里突然",
+    "，可是这法术"
+  ],
+  "uncertain": [
+    "向传"
+  ]
 }
 ```
+
+### Explanation:
+*   **Approved**: 
+    *   `侦测思想` matches **【Dò Tìm Ý Nghĩ】** in your glossary.
+    *   `秘法锁` matches **【Khóa Bí Thuật】**.
+    *   `蛛网术` matches **【Thuật Mạng Nhện】**.
+*   **Rejected**: 
+    *   `能力` (Ability/Power) is a common noun, not a proper name (although it relates to "Quyền năng" in your glossary, it should be categorized as a term rather than a Name).
+    *   The rest are incomplete sentence fragments (`之类的辅助魔`, `查找完成，任`, `检测到信徒正`, `，可是这法术`), generic phrases (`脑海里突然`, `任务目标：`), or sound effects (`叮！`) that do not qualify as glossary terms.
+*   **Uncertain**: 
+    *   `向传` is not in the glossary. It could be a new character name, or it might be an accidentally extracted fragment (e.g., from "向传达" - transmit to). Needs context to determine.

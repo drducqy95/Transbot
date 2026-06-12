@@ -160,12 +160,7 @@ Decision rules:
 | 施法者 (Thi Pháp Giả) | Thi Pháp Giả | nghề nghiệp | Người thi triển pháp thuật. Viết hoa Hán Việt. |
 
 ## Story Timeline (latest)
- - Chương 33: Lộ trình Chiến Sĩ
-
-### Summary
-Chapter 33 completed via pipeline.
-
-## Chapter 0034 - Chương 34: Những hạt giống đầu tiên
+ter 0034 - Chương 34: Những hạt giống đầu tiên
 
 ### Summary
 Chapter 34 completed via pipeline.
@@ -304,6 +299,11 @@ Chapter 1 completed via pipeline.
 
 ### Summary
 Chapter 2 completed via pipeline.
+
+## Chapter 0003 - Chương 3: Pete Chinar
+
+### Summary
+Chapter 3 completed via pipeline.
 
 
 ## Source Chapter 3 - 0003 培特奇纳尔
