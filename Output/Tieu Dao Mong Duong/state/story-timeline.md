@@ -63,3 +63,8 @@ Chapter 9 completed via pipeline.
 
 ### Summary
 Chapter 10 completed via pipeline.
+
+## Chapter 0011 - Chương 11: Bí kíp (Cầu ủng hộ)
+
+### Summary
+Chapter 11 completed via pipeline.

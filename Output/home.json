@@ -439,11 +439,11 @@
           "title": "Đông phương"
         }
       ],
-      "completed_chapters": 10,
+      "completed_chapters": 12,
       "total_chapters": 1184,
-      "latest_chapter": "Chương 10: Giao dịch",
+      "latest_chapter": "Chương 11: Bí kíp (Cầu ủng hộ)",
       "detail": "Tiến độ: 10/1184 chương | Mới nhất: Chương 10: Giao dịch",
-      "updated_at": "2026-06-12T18:00:21.569296+07:00",
+      "updated_at": "2026-06-12T18:17:12+07:00",
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Tieu Dao Mong Duong/README.md",
       "toc_path": "Output/Tieu Dao Mong Duong/toc.json"
@@ -971,7 +971,7 @@
     }
   ],
   "metadata": {
-    "generated_at": "2026-06-12T18:16:57+07:00",
+    "generated_at": "2026-06-12T18:17:12+07:00",
     "total_books": 17,
     "source": "Dichtrung/Output"
   },
