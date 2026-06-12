@@ -1,0 +1,448 @@
+```json
+{
+  "chapter_number": 1,
+  "chapter_title_vi": "Chương 1: Bè tre chao đảo trên sông Hoàng Long",
+  "segments": [
+    {
+      "segment_id": "0001",
+      "source": "（未完待续）",
+      "target": "(Còn tiếp)"
+    },
+    {
+      "segment_id": "0002",
+      "source": "黄龙江，南疆第三江，全长八千多公里，发源于黄果山，流经玄冥山、龟背山、青茅山、白骨山、雷磁山等，最后流入到海。",
+      "target": "Hoàng Long Giang, con sông lớn thứ ba của Nam Cương, tổng chiều dài hơn tám nghìn cây số, bắt nguồn từ núi Hoàng Quả, chảy qua núi Huyền Minh, núi Quy Bối, núi Thanh Mao, núi Bạch Cốt, núi Lôi Từ..., cuối cùng đổ ra biển."
+    },
+    {
+      "segment_id": "0003",
+      "source": "如果鸟瞰整个南疆地图，黄龙江如几字形，贯穿了南疆一半有余的面积。",
+      "target": "Nếu nhìn từ trên cao xuống toàn bộ bản đồ Nam Cương, Hoàng Long Giang uốn lượn như hình chữ Kỷ (几), đi qua hơn một nửa diện tích Nam Cương."
+    },
+    {
+      "segment_id": "0004",
+      "source": "几环咆哮卷沙腾，一路狂涛气势宏。裂岸穿峡惊大地，带云吐雾啸苍穹。",
+      "target": "Mấy khúc gầm vang cuốn cát cuộn,\nDọc đường sóng dữ khí thế hùng.\nLở bờ xuyên hẻm kinh thiên địa,\nMang mây nhả khói thét thương khung."
+    },
+    {
+      "segment_id": "0005",
+      "source": "黄龙江水流湍急，黄水滔滔。河中鱼鳖蛇蚌，别有生机。此刻，河面上，一只竹筏在水浪中颠簸流离。",
+      "target": "Nước sông Hoàng Long chảy xiết, sóng vàng cuồn cuộn. Cá, ba ba, rắn, trai dưới sông ẩn hiện, tràn đầy sức sống. Lúc này, trên mặt sông, một chiếc bè tre đang chao đảo trôi nổi giữa làn sóng dữ."
+    },
+    {
+      "segment_id": "0006",
+      "source": "这碧青竹筏相当的破烂，伤痕累累。竹筏中央竖着一根简陋的桅杆，挂着白色的破旧风帆。桅杆周围堆着物资，起到稳固重心的作用。竹子之间则用麻绳捆扎着。一些地方，箍了又箍，显然是在江面上，又临时紧急加工了许多次。",
+      "target": "Chiếc bè tre xanh biếc này đã vô cùng rách nát, đầy rẫy vết thương tích. Giữa bè dựng một cột buồm đơn sơ, treo một cánh buồm trắng cũ kỹ. Xung quanh cột buồm chất đầy vật tư để giữ vững trọng tâm. Các ống tre được buộc chặt bằng dây thừng. Một số chỗ được gia cố hết vòng này đến vòng khác, rõ ràng là lúc ở trên sông đã phải cấp tốc gia công lại nhiều lần."
+    },
+    {
+      "segment_id": "0007",
+      "source": "江水滚滚向前，竹筏乘着水势，随波逐流。",
+      "target": "Nước sông cuồn cuộn chảy về phía trước, bè tre nương theo dòng nước trôi xuôi."
+    },
+    {
+      "segment_id": "0008",
+      "source": "江水每一次拍击，都让竹筏发出不堪重负的声音，听着让人提心吊胆。",
+      "target": "Mỗi một lần nước sông vỗ vào lại khiến chiếc bè tre phát ra tiếng kêu cót két như không chịu nổi gánh nặng, nghe mà thót tim."
+    },
+    {
+      "segment_id": "0009",
+      "source": "这个似乎随时要散架的竹筏上，载着两个少年。",
+      "target": "Trên chiếc bè tre dường như có thể rã ra bất cứ lúc nào này có hai thiếu niên."
+    },
+    {
+      "segment_id": "0010",
+      "source": "一个少年郎，面容普通，身穿黑袍，黑眸黑发。另一位则是少女，一身白袍，蓝眸银发，盛颜仙姿。",
+      "target": "Một thiếu niên có gương mặt bình thường, mặc hắc bào, mắt đen tóc đen. Người còn lại là một thiếu nữ mặc bạch bào, mắt xanh tóc bạc, dung nhan tuyệt mỹ như tiên tử."
+    },
+    {
+      "segment_id": "0011",
+      "source": "正是方源和白凝冰二人。",
+      "target": "Đó chính là hai người Phương Nguyên và Bạch Ngưng Băng."
+    },
+    {
+      "segment_id": "0012",
+      "source": "自从青茅山一战，白凝冰自爆北冥冰魄体，将天鹤上人暂时困住后。他们费力破冰而出，斩了青矛竹，扎了这竹筏后，便立即跑路远遁。",
+      "target": "Kể từ sau trận chiến ở núi Thanh Mao, Bạch Ngưng Băng tự bạo Bắc Minh Băng Phách Thể, tạm thời vây khốn Thiên Hạc thượng nhân. Two người bọn họ đã tốn không ít sức lực để phá băng chui ra, chặt trúc Thanh Mâu buộc thành chiếc bè tre này rồi lập tức bỏ trốn thật xa."
+    },
+    {
+      "segment_id": "0013",
+      "source": "方源的千里地狼蛛已经死了，白凝冰的白相仙蛇，在之前就主动飞走，再无音讯。",
+      "target": "Thiên Lý Địa Lang Tru của Phương Nguyên đã chết, còn Bạch Tướng Tiên Xà của Bạch Ngưng Băng đã chủ động bay đi từ trước đó, bặt vô âm tín."
+    },
+    {
+      "segment_id": "0014",
+      "source": "两人没有蛊虫代步，单凭自身脚力，速度太慢，必定会被天鹤上人追击到。因此方源就只好采取了这个办法。",
+      "target": "Hai người không có cổ trùng để đi lại, chỉ dựa vào sức chân của bản thân thì tốc độ quá chậm, chắc chắn sẽ bị Thiên Hạc thượng nhân đuổi kịp. Do đó Phương Nguyên đành phải dùng đến biện pháp này."
+    },
+    {
+      "segment_id": "0015",
+      "source": "黄龙江在青茅山有着分脉支流，当初那只五转的吞江蟾，就是顺着黄龙江的主河道，意外地流落到青茅山脚边的。",
+      "target": "Hoàng Long Giang có các chi lưu chảy qua núi Thanh Mao, năm đó con Thôn Giang Thiềm ngũ chuyển kia chính là xuôi theo dòng chính của Hoàng Long Giang, vô tình lạc đến chân núi Thanh Mao."
+    },
+    {
+      "segment_id": "0016",
+      "source": "竹筏从支流，汇入到主河道，一路顺江而下，一日千里有余，速度自然是极快的。",
+      "target": "Bè tre đi từ chi lưu hội nhập vào dòng chính, xuôi dòng mà xuống, đi được hơn ngàn dặm một ngày, tốc độ tự nhiên là cực kỳ nhanh chóng."
+    },
+    {
+      "segment_id": "0017",
+      "source": "“已经过去了五天，看来那老家伙，是不会来了。”方源立足在竹筏上，回望身后一眼，喃喃地道。",
+      "target": "“Đã trôi qua năm ngày, xem ra lão già kia không đuổi tới rồi.” Phương Nguyên đứng trên bè tre, ngoái đầu nhìn lại phía sau một cái, lẩm bẩm nói."
+    },
+    {
+      "segment_id": "0018",
+      "source": "竹筏的速度，终究快不过铁喙飞鹤王。但铁喙飞鹤王毕竟是兽力，总得要休息，比不得竹筏借助水势，延绵不绝。时间越长，方源就越安全。",
+      "target": "Tốc độ của bè tre chung quy không nhanh bằng Thiết Uế Phi Hạc Vương. Nhưng Thiết Uế Phi Hạc Vương dù sao cũng là sức thú, vẫn cần phải nghỉ ngơi, không thể so với bè tre mượn sức nước chảy liên tục không ngừng. Thời gian càng dài, Phương Nguyên sẽ càng an toàn."
+    },
+    {
+      "segment_id": "0019",
+      "source": "况且，方源记得：当初天鹤上人斩杀了古月一代后，是独自一人回来。铁喙飞鹤王极可能已经死亡。",
+      "target": "Hơn nữa, Phương Nguyên nhớ rõ: năm đó sau khi Thiên Hạc thượng nhân chém chết Cổ Nguyệt đời thứ nhất là một mình trở về. Thiết Uế Phi Hạc Vương rất có thể đã chết."
+    },
+    {
+      "segment_id": "0020",
+      "source": "耳边江水滔滔轰鸣，白凝冰看了方源一眼，她虽然听不清方源话的内容，但也知方源的意思。",
+      "target": "Bên tai tiếng nước sông gầm vang cuồn cuộn, Bạch Ngưng Băng liếc nhìn Phương Nguyên một cái. Nàng tuy nghe không rõ nội dung lời nói của Phương Nguyên, nhưng cũng biết ý của hắn."
+    },
+    {
+      "segment_id": "0021",
+      "source": "她哈哈一笑：“有什么好担心的！那老东西若是追来，我们反身死战就是。在这黄龙江上作战，肯定十分精彩。不过，如果死在这里，恐怕要给鱼虾果腹了。呵呵，这也挺有趣。”",
+      "target": "Nàng ha ha cười lớn: “Có gì mà phải lo lắng! Lão già kia nếu đuổi tới, chúng ta quay người tử chiến là được. Chiến đấu trên dòng Hoàng Long Giang này chắc chắn sẽ vô cùng đặc sắc. Có điều, nếu chết ở đây, e rằng phải làm mồi cho cá tôm rồi. Hì hì, thế này cũng khá thú vị.”"
+    },
+    {
+      "segment_id": "0022",
+      "source": "方源没有理睬她，而是凝视远方。",
+      "target": "Phương Nguyên không để ý đến nàng, mà đăm đăm nhìn về phía xa."
+    },
+    {
+      "segment_id": "0023",
+      "source": "算一算，五天的水路，已经很接近白骨山了。",
+      "target": "Tính ra đi đường thủy năm ngày thì đã rất gần núi Bạch Cốt rồi."
+    },
+    {
+      "segment_id": "0024",
+      "source": "在他的记忆中，白骨山中藏有一个密藏传承，乃是一对正道四转蛊师所设，留待有缘人。",
+      "target": "Trong ký ức của hắn, trong núi Bạch Cốt có ẩn giấu một mật tàng truyền thừa do một cặp cổ sư tứ chuyển chính đạo lập ra, để lại cho người hữu duyên."
+    },
+    {
+      "segment_id": "0025",
+      "source": "“白骨山的传承，我前世并未亲自经历，只是耳闻。但据传这传承当中，有些关卡需要两人同心协力，才能通过。”",
+      "target": "“Truyền thừa của núi Bạch Cốt kiếp trước ta chưa từng tự mình trải qua, chỉ là nghe đồn. Nhưng nghe nói trong truyền thừa này có một số cửa ải cần hai người đồng tâm hiệp lực mới có thể vượt qua.”"
+    },
+    {
+      "segment_id": "0026",
+      "source": "方源想到这里，不着痕迹地看了白凝冰一眼。",
+      "target": "Phương Nguyên nghĩ đến đây, không để lại dấu vết liếc nhìn Bạch Ngưng Băng một cái."
+    },
+    {
+      "segment_id": "0027",
+      "source": "他虽然和白凝冰同行，但只是碍于情势，有强敌压迫。他自己又只是一转初阶，闯荡外界，非得有援手不可。再加上，白凝冰成了女子。而自己掌握了阳蛊，等若抓住了她最大的把柄，令她不得不选择妥协。",
+      "target": "Hắn tuy đồng hành cùng Bạch Ngưng Băng nhưng chỉ là vì tình thế bắt buộc, có cường địch áp bức. Bản thân hắn lại mới chỉ là nhất chuyển sơ giai, bôn ba bên ngoài nhất định phải có người trợ giúp. Thêm vào đó, Bạch Ngưng Băng đã biến thành nữ nhi, mà hắn lại nắm giữ Dương cổ, coi như nắm giữ tử huyệt lớn nhất của nàng, khiến nàng không thể không thỏa hiệp."
+    },
+    {
+      "segment_id": "0028",
+      "source": "如果真的进入白骨山，自己和白凝冰真的能同心协作吗？",
+      "target": "Nếu thật sự tiến vào núi Bạch Cốt, hắn và Bạch Ngưng Băng có thể thực sự đồng tâm hiệp lực hay không?"
+    },
+    {
+      "segment_id": "0029",
+      "source": "这是一个相当大的问题。",
+      "target": "Đây là một vấn đề khá lớn."
+    },
+    {
+      "segment_id": "0030",
+      "source": "崩。",
+      "target": "Phựt."
+    },
+    {
+      "segment_id": "0031",
+      "source": "陡然间，一声闷声炸响。",
+      "target": "Đột nhiên, một tiếng trầm đục nổ vang."
+    },
+    {
+      "segment_id": "0032",
+      "source": "“不好，绳索又脱落了。”这声音太令白凝冰熟悉了，她立即开口惊呼道。",
+      "target": "“Không xong, dây thừng lại tuột ra rồi.” Tiếng động này đã quá quen thuộc với Bạch Ngưng Băng, nàng lập tức lên tiếng kinh hô."
+    },
+    {
+      "segment_id": "0033",
+      "source": "江水力道猛烈，这五天来不知多少次，将捆绑青矛竹的麻绳冲烂掉。不过幸好方源出发前，准备得很充足。",
+      "target": "Sức nước sông cực kỳ mãnh liệt, năm ngày qua không biết đã bao nhiêu lần đánh nát dây thừng buộc trúc Thanh Mâu. Nhưng cũng may trước khi lên đường Phương Nguyên đã chuẩn bị rất đầy đủ."
+    },
+    {
+      "segment_id": "0034",
+      "source": "“快点取麻绳，这里暂时有我。”方源连忙蹲下身子，用双手按住分裂开来的地方，使糟糕的局面不在扩大。",
+      "target": "“Mau lấy dây thừng ra, ở đây tạm thời có ta lo.” Phương Nguyên vội vàng ngồi xổm xuống, dùng hai tay giữ chặt chỗ đang nứt ra, không để cho tình hình tồi tệ tiếp tục lan rộng."
+    },
+    {
+      "segment_id": "0035",
+      "source": "江水冲势迅猛，把住竹筏需要十足的力量，白凝冰远不能胜任，唯有拥有双猪之力的方源。",
+      "target": "Nước sông vỗ tới rất hung mãnh, giữ được bè tre cần phải có sức lực cực lớn, Bạch Ngưng Băng còn lâu mới đảm đương nổi, chỉ có Phương Nguyên sở hữu sức mạnh hai heo mới làm được."
+    },
+    {
+      "segment_id": "0036",
+      "source": "好在之前这种情况发生了很多次，白凝冰处理起来也有了经验，连忙去取竹筏中央的简易桅杆上的麻绳。",
+      "target": "May mà trước đó tình huống này đã xảy ra rất nhiều lần, Bạch Ngưng Băng xử lý cũng đã có kinh nghiệm, vội vàng đi lấy dây thừng trên cột buồm đơn sơ ở giữa bè tre."
+    },
+    {
+      "segment_id": "0037",
+      "source": "“来了，来了！”她赶忙过来，并且递去麻绳。",
+      "target": "“Đến đây, đến đây!” Nàng vội vàng đi tới, đồng thời đưa dây thừng qua."
+    },
+    {
+      "segment_id": "0038",
+      "source": "方源麻利地取来，迅速缠绕，忙得满头大汗，圈了好几道麻绳，这才勉强将这边固定住。",
+      "target": "Phương Nguyên nhanh nhẹn đón lấy, nhanh chóng quấn quanh, bận đến mức mồ hôi đầm đìa, quấn thêm mấy vòng dây thừng mới khó khăn lắm mới cố định được chỗ này."
+    },
+    {
+      "segment_id": "0039",
+      "source": "“竹筏已经破损不堪，按照这种态势，只能再坚持一天。一天之后，我们就得靠岸。”方源叹了一口气。",
+      "target": "“Bè tre đã rách nát không chịu nổi rồi, theo đà này thì chỉ có thể chống đỡ thêm một ngày nữa thôi. Sau một ngày, chúng ta buộc phải cập bờ.” Phương Nguyên thở dài một tiếng."
+    },
+    {
+      "segment_id": "0040",
+      "source": "黄龙江并不安全，滚滚的江水当中不知道潜伏了多少的危险。若是竹筏在江水中央崩溃，方源和白凝冰落下水，皆会有无法预测的生命危险。",
+      "target": "Hoàng Long Giang vốn không hề an toàn, trong làn nước sông cuồn cuộn không biết đang ẩn nấp bao nhiêu mối nguy hiểm. Nếu bè tre bị vỡ nát giữa sông, Phương Nguyên và Bạch Ngưng Băng rơi xuống nước đều sẽ gặp phải nguy hiểm tính mạng khó mà lường trước được."
+    },
+    {
+      "segment_id": "0041",
+      "source": "咄。",
+      "target": "Phập."
+    },
+    {
+      "segment_id": "0042",
+      "source": "“什么声音？”方源顿时皱眉。",
+      "target": "“Tiếng gì thế?” Phương Nguyên lập tức nhíu mày."
+    },
+    {
+      "segment_id": "0043",
+      "source": "白凝冰侧耳，表情疑惑：“有什么声音吗，我怎么没听到？”",
+      "target": "Bạch Ngưng Băng ghé tai lắng nghe, vẻ mặt nghi hoặc: “Có tiếng gì sao? Sao ta không nghe thấy?”"
+    },
+    {
+      "segment_id": "0044",
+      "source": "方源耳廓生出参须，几乎紧接着，咄咄的声音，连绵不断。竹筏随之不断的轻微震动。",
+      "target": "Vành tai Phương Nguyên mọc ra những sợi rễ sâm, gần như ngay sau đó, những tiếng “phập phập” vang lên liên hồi không dứt. Bè tre cũng theo đó mà liên tục chấn động nhẹ."
+    },
+    {
+      "segment_id": "0045",
+      "source": "“江水里有什么东西，正攻击竹筏！”白凝冰惊呼一声。",
+      "target": "“Trong nước sông có thứ gì đó đang tấn công bè tre!” Bạch Ngưng Băng kinh hô một tiếng."
+    },
+    {
+      "segment_id": "0046",
+      "source": "一道黑线，嗖的一下，从竹筏旁的江水中飞射而出，和白凝冰擦肩而过。",
+      "target": "Một vệt đen “vút” một tiếng, từ trong nước sông bên cạnh bè tre phóng vụt ra, sượt qua vai Bạch Ngưng Băng."
+    },
+    {
+      "segment_id": "0047",
+      "source": "这黑影速度极快，几乎视线都捕捉不到。白凝冰只觉得耳边一凉，脸颊上有股液体流下。下意识地伸手一摸，是血！",
+      "target": "Tốc độ của bóng đen này cực nhanh, mắt thường gần như không thể bắt kịp. Bạch Ngưng Băng chỉ cảm thấy bên tai mát lạnh, trên má có một dòng chất lỏng chảy xuống. Nàng vô thức đưa tay lên sờ, là máu!"
+    },
+    {
+      "segment_id": "0048",
+      "source": "“这是什么鬼东西！”她咒骂一声，仰天望去，只看到一条梭状的黑鱼，从半空中落入江水当中。",
+      "target": "“Đây là cái quái gì thế này!” Nàng mắng một tiếng, ngẩng đầu nhìn lên trời, chỉ thấy một con cá đen hình thoi rơi từ trên không xuống nước sông."
+    },
+    {
+      "segment_id": "0049",
+      "source": "“是梭箭鱼，该死的，赶紧靠岸！”方源大叫，连忙去扯风帆。",
+      "target": "“Là cá Thoi Tiễn, đáng chết, mau chóng cập bờ thôi!” Phương Nguyên hét lớn, vội vàng đi kéo cánh buồm."
+    },
+    {
+      "segment_id": "0050",
+      "source": "这梭箭鱼两头尖，中腹大，如同梭子。只有在大江大海中，才有其身影。常常上百只，或者上千只出没。它们食肉，成群结队地出发，常常狩猎比它们体积大上数十倍，甚至数百倍的猎物。",
+      "target": "Loại cá Thoi Tiễn này hai đầu nhọn, bụng to như con thoi, chỉ xuất hiện ở sông lớn biển khơi. Chúng thường đi theo đàn hàng trăm hoặc hàng ngàn con. Chúng là loài ăn thịt, đi săn theo bầy đàn, thường xuyên săn đuổi những con mồi lớn hơn cơ thể chúng gấp mười lần, thậm chí là trăm lần."
+    },
+    {
+      "segment_id": "0051",
+      "source": "嗖嗖嗖！",
+      "target": "Vút! Vút! Vút!"
+    },
+    {
+      "segment_id": "0052",
+      "source": "一支支黑箭，从江面下激射而出。",
+      "target": "Từng mũi tên đen từ dưới mặt nước bắn mạnh ra."
+    },
+    {
+      "segment_id": "0053",
+      "source": "竹筏急剧震动，大量的梭箭鱼射中竹筏。好在青茅竹，乃竹中佳品，十分坚硬，堪堪抗住。大量的梭箭鱼一头插在竹筏底部，使得竹筏危如累卵。",
+      "target": "Bè tre chấn động kịch liệt, một lượng lớn cá Thoi Tiễn bắn trúng bè tre. May mắn là trúc Thanh Mâu là loại trúc thượng hạng, vô cùng cứng cáp, khó khăn lắm mới chống đỡ được. Hàng loạt cá Thoi Tiễn cắm ngập đầu vào dưới đáy bè tre, khiến bè tre lâm vào tình cảnh nguy như trứng chồng."
+    },
+    {
+      "segment_id": "0054",
+      "source": "风帆调整，借助江风，竹筏倾斜方向，向江边快速靠去。",
+      "target": "Cánh buồm được điều chỉnh, mượn gió sông, bè tre nghiêng hướng, nhanh chóng tiến sát về phía bờ sông."
+    },
+    {
+      "segment_id": "0055",
+      "source": "但江水中的梭箭鱼群，并未有放弃。大量的黑影潜游急窜，猛烈冲击。",
+      "target": "Nhưng đàn cá Thoi Tiễn trong nước sông không hề bỏ cuộc. Vô số bóng đen lặn lội lao nhanh, va đập mãnh liệt."
+    },
+    {
+      "segment_id": "0056",
+      "source": "啪。",
+      "target": "Rắc."
+    },
+    {
+      "segment_id": "0057",
+      "source": "一根青矛竹破开，一条梭箭鱼撞破竹筏，动势已尽，落在白凝冰的脚边。",
+      "target": "Một cây trúc Thanh Mâu nứt toác, một con cá Thoi Tiễn đâm thủng bè tre, sức lực đã cạn, rơi ngay bên chân Bạch Ngưng Băng."
+    },
+    {
+      "segment_id": "0058",
+      "source": "它浑身鳞片紧凑，鱼头呈锥子状，闪着幽光。白凝冰看着它干瞪眼，她自爆之后，浑身上下的蛊虫皆被冻死。阴阳转身蛊只是救活了她，却没有能力令她的蛊虫复生。",
+      "target": "Toàn thân nó phủ vảy dày đặc, đầu cá hình chiếc dùi nhọn hoắt lấp lánh u quang. Bạch Ngưng Băng trố mắt nhìn nó đầy bất lực. Sau khi tự bạo, toàn bộ cổ trùng trên người nàng đều bị đóng băng mà chết. Âm Dương Chuyển Thân cổ tuy cứu sống nàng, nhưng không có khả năng làm cho những cổ trùng khác của nàng sống lại."
+    },
+    {
+      "segment_id": "0059",
+      "source": "啪啪啪。",
+      "target": "Rắc rắc rắc."
+    },
+    {
+      "segment_id": "0060",
+      "source": "紧接着，大量的竹片破裂之声传来。",
+      "target": "Ngay sau đó, hàng loạt tiếng tre nứt vỡ vang lên."
+    },
+    {
+      "segment_id": "0061",
+      "source": "竹筏支撑住第一波冲击，已经足够优秀。再也不能支撑第二波。",
+      "target": "Chiếc bè tre này chống đỡ được đợt va chạm đầu tiên đã là xuất sắc lắm rồi, tuyệt đối không thể chống chọi nổi đợt thứ hai nữa."
+    },
+    {
+      "segment_id": "0062",
+      "source": "江水弥漫，竹筏破损，开始沉没。",
+      "target": "Nước sông tràn vào, bè tre hư hỏng nặng, bắt đầu chìm xuống."
+    },
+    {
+      "segment_id": "0063",
+      "source": "“快，快，快！”方源咒骂着，保护风帆。风帆若失，竹筏就无动力，方源和白凝冰落入江水，必死无疑！",
+      "target": "“Nhanh, nhanh, nhanh!” Phương Nguyên chửi rủa, cố gắng bảo vệ cánh buồm. Nếu mất buồm, bè tre sẽ mất đi động lực, Phương Nguyên và Bạch Ngưng Băng rơi xuống sông thì chắc chắn phải chết!"
+    },
+    {
+      "segment_id": "0064",
+      "source": "梭箭鱼群酝酿出第三波攻击，大量的梭箭鱼如箭雨逆射，竹子洞破，麻绳破裂，竹筏开始大崩解。",
+      "target": "Đàn cá Thoi Tiễn ấp ủ đợt tấn công thứ ba, vô số cá Thoi Tiễn như mưa tên bắn ngược lên, thân trúc bị đâm thủng, dây thừng đứt đoạn, bè tre bắt đầu rã ra từng mảnh."
+    },
+    {
+      "segment_id": "0065",
+      "source": "天蓬蛊！",
+      "target": "Thiên Bồng cổ!"
+    },
+    {
+      "segment_id": "0066",
+      "source": "方源勉强催动三转蛊虫，顿时空窍中的真元海，以一种恐怖的速度在暴降。",
+      "target": "Phương Nguyên miễn cưỡng thúc động cổ trùng tam chuyển, ngay lập tức chân nguyên hải trong không khiếu lấy một tốc độ kinh người sụt giảm nghiêm trọng."
+    },
+    {
+      "segment_id": "0067",
+      "source": "这还是他有九成甲等资质，且有天元宝莲的情况下。",
+      "target": "Đây là trong tình huống hắn có tư chất Giáp đẳng chín phần, lại có Thiên Nguyên Bảo Liên hỗ trợ."
+    },
+    {
+      "segment_id": "0068",
+      "source": "一转初阶的青铜真元，质量上难以满足天蓬蛊的要求。",
+      "target": "Thanh Đồng chân nguyên của nhất chuyển sơ giai rất khó đáp ứng được yêu cầu về chất lượng của Thiên Bồng cổ."
+    },
+    {
+      "segment_id": "0069",
+      "source": "就算是凝成的白光虚甲，也虚弱不堪，不复三转修为的气象。",
+      "target": "Cho dù ngưng tụ ra bạch quang hư giáp thì cũng yếu ớt vô cùng, không hề có được khí thế của tu vi tam chuyển."
+    },
+    {
+      "segment_id": "0070",
+      "source": "砰砰砰。",
+      "target": "Binh binh binh."
+    },
+    {
+      "segment_id": "0071",
+      "source": "梭箭鱼撞在白光虚甲上，发出一阵阵的闷响，不能伤害方源。但白凝冰却已经负伤，她在竹筏上疯狂闪避，躲避着竹筏下射上来的梭箭鱼。同时站在方源身后，靠他抵挡了大部分的攻击。",
+      "target": "Cá Thoi Tiễn đâm vào bạch quang hư giáp, phát ra từng trận âm thanh trầm đục, không thể làm Phương Nguyên bị thương. Nhưng Bạch Ngưng Băng lại đã chịu thương tích, nàng điên cuồng né tránh trên bè tre, né tránh những con cá Thoi Tiễn bắn từ dưới bè lên. Đồng thời nàng đứng ở phía sau Phương Nguyên, dựa vào hắn để cản lại phần lớn công kích."
+    },
+    {
+      "segment_id": "0072",
+      "source": "情势危急无比，风帆也被射破，许多烂洞布满帆面。竹筏的动力越来越小。竹筏还剩下三分之一不到，大量的江水漫上来，盖过脚面，几乎就要沉没了。",
+      "target": "Tình thế vô cùng nguy cấp, cánh buồm cũng bị bắn thủng lỗ chỗ, vô số lỗ rách tràn ngập trên mặt buồm. Động lực của bè tre ngày càng yếu đi. Bè tre chỉ còn lại không tới một phần ba, một lượng nước sông lớn tràn lên ngập cả bàn chân, gần như sắp chìm hẳn."
+    },
+    {
+      "segment_id": "0073",
+      "source": "“该死的，难道五转蛊师都杀不死我，我却要死在这群小小的梭箭鱼上吗？”白凝冰长叹。",
+      "target": "“Đáng chết, đến cả cổ sư ngũ chuyển cũng không giết được ta, chẳng lẽ ta lại phải chết dưới tay đàn cá Thoi Tiễn bé nhỏ này sao?” Bạch Ngưng Băng thở dài."
+    },
+    {
+      "segment_id": "0074",
+      "source": "再有一波冲击，竹筏必定崩溃，他们落入水中，必死无疑。",
+      "target": "Chỉ cần thêm một đợt công kích nữa, bè tre chắc chắn sẽ sụp đổ hoàn toàn, bọn họ rơi xuống nước sẽ chỉ có con đường chết."
+    },
+    {
+      "segment_id": "0075",
+      "source": "然而……梭箭鱼群的攻击，迟迟未至，令白凝冰屏气凝神，提心吊胆。",
+      "target": "Thế nhưng... sự tấn công của đàn cá Thoi Tiễn mãi vẫn chưa tới, khiến Bạch Ngưng Băng phải nín thở tập trung tinh thần, nơm nớp lo sợ."
+    },
+    {
+      "segment_id": "0076",
+      "source": "“靠岸了，梭箭鱼群不会游到浅水区的。呼！我们暂时安全了。”方源吐出一口浊气，全身酸软无比。",
+      "target": "“Cập bờ rồi, đàn cá Thoi Tiễn sẽ không bơi vào vùng nước nông đâu. Phù! Chúng ta tạm thời an toàn rồi.” Phương Nguyên thở hắt ra một hơi trọc khí, toàn thân vô cùng rã rời."
+    },
+    {
+      "segment_id": "0077",
+      "source": "这些天来，他几乎不眠不休，掌控风帆，时刻调整竹筏漂流方向。几乎已经达到了体力的极限。",
+      "target": "Những ngày qua, hắn gần như không ăn không ngủ để điều khiển cánh buồm, liên tục điều chỉnh hướng trôi của bè tre. Quả thực đã chạm tới cực hạn của thể lực."
+    },
+    {
+      "segment_id": "0078",
+      "source": "白凝冰也狠狠地抽着冷气，她一身白袍都被血染红，身上伤害数十处，幸好她有战斗天赋，极力躲避，又有竹筏削减梭箭鱼的冲势，因此都是轻伤。",
+      "target": "Bạch Ngưng Băng cũng hít vào một ngụm khí lạnh, bộ bạch bào của nàng đã bị máu nhuộm đỏ tươi, trên người có tới mấy chục vết thương. May mà nàng có thiên phú chiến đấu bẩm sinh, ra sức né tránh, lại có bè tre cản bớt đà xông tới của cá Thoi Tiễn nên tất cả chỉ là vết thương nhẹ."
+    },
+    {
+      "segment_id": "0079",
+      "source": "方源看了一眼白凝冰，旋即自己身上也传来阵痛。",
+      "target": "Phương Nguyên nhìn Bạch Ngưng Băng một cái, ngay sau đó trên người hắn cũng truyền đến những cơn đau nhói."
+    },
+    {
+      "segment_id": "0080",
+      "source": "他也负伤了，血流不止。",
+      "target": "Hắn cũng bị thương, máu chảy không ngừng."
+    },
+    {
+      "segment_id": "0081",
+      "source": "天蓬蛊只是催动了几分钟，空窍中的真元海就彻底干涸。没有了防护，他以血肉之躯，自然抗不过梭箭鱼。",
+      "target": "Thiên Bồng cổ mới chỉ thúc động được vài phút, chân nguyên hải trong không khiếu đã hoàn toàn cạn kiệt. Không còn lớp bảo hộ, với thân xác bằng xương bằng thịt, hắn đương nhiên không chống lại nổi cá Thoi Tiễn."
+    },
+    {
+      "segment_id": "0082",
+      "source": "原本还计划着，再漂流一天。",
+      "target": "Hắn vốn dĩ định trôi dạt thêm một ngày nữa."
+    },
+    {
+      "segment_id": "0083",
+      "source": "但天有不测风云，人有旦夕祸福。计划永远赶不上变化，距离白骨山还有一段距离，但方源此刻，必须靠岸了。",
+      "target": "Nhưng trời có bão bùng bất chợt, người có họa phúc sớm chiều. Kế hoạch vĩnh viễn không theo kịp biến hóa, tuy cách núi Bạch Cốt vẫn còn một đoạn đường nhưng Phương Nguyên lúc này bắt buộc phải cập bờ."
+    },
+    {
+      "segment_id": "0084",
+      "source": "风帆已经失去作用，方源尽最大的努力，这才让竹筏避过礁石，搁浅在一处滩地上。",
+      "target": "Cánh buồm đã mất đi tác dụng, Phương Nguyên dốc hết toàn lực cuối cùng mới đưa được bè tre tránh khỏi các rạn đá ngầm, mắc cạn trên một bãi cát."
+    },
+    {
+      "segment_id": "0085",
+      "source": "两人淌水，踩在松软的沙滩上，上了岸。",
+      "target": "Hai người lội nước, bước lên bờ cát mềm mại, đi lên bờ."
+    },
+    {
+      "segment_id": "0086",
+      "source": "白凝冰捂着伤口，一屁股坐下来。她脸色苍白：“这样下去，必定失血过多，凶多吉少！你身上有什么蛊虫可以治疗，快拿出来。”",
+      "target": "Bạch Ngưng Băng ôm lấy vết thương, đặt mông ngồi xuống. Sắc mặt nàng tái nhợt: “Cứ thế này thì chắc chắn sẽ mất máu quá nhiều, lành ít dữ nhiều! Trên người ngươi có cổ trùng trị thương nào không, mau lấy ra đi.”"
+    },
+    {
+      "segment_id": "0087",
+      "source": "方源苦笑，他哪里来什么治疗蛊？",
+      "target": "Phương Nguyên cười khổ, hắn lấy đâu ra cổ trùng trị liệu chứ?"
+    },
+    {
+      "segment_id": "0088",
+      "source": "（未完待续）",
+      "target": "(Còn tiếp)"
+    }
+  ]
+}
+```

@@ -168,11 +168,11 @@
           "title": "Cổ trùng"
         }
       ],
-      "completed_chapters": 0,
+      "completed_chapters": 2,
       "total_chapters": 1915,
-      "latest_chapter": "",
+      "latest_chapter": "Chương 1: Bè tre chao đảo trên sông Hoàng Long",
       "detail": "Tiến độ: 0/1915 chương",
-      "updated_at": "2026-06-12T11:00:12.623657+07:00",
+      "updated_at": "2026-06-12T11:17:45+07:00",
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Co Chan Nhan/README.md",
       "toc_path": "Output/Co Chan Nhan/toc.json"
@@ -971,7 +971,7 @@
     }
   ],
   "metadata": {
-    "generated_at": "2026-06-12T11:12:44+07:00",
+    "generated_at": "2026-06-12T11:17:45+07:00",
     "total_books": 17,
     "source": "Dichtrung/Output"
   },
