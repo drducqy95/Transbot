@@ -18,3 +18,8 @@ Chapter 5 completed via pipeline.
 
 ### Summary
 Chapter 6 completed via pipeline.
+
+## Chapter 0006 - Chương 6: Con đường tương lai sẽ rất đặc sắc
+
+### Summary
+Chapter 6 completed via pipeline.

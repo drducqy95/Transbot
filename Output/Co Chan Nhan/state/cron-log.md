@@ -5,3 +5,4 @@
 - 2026-06-12 14:47 | Chapter 4 | completed | Chương 0004 - Chương 4 Cổ Nguyệt Phương Nguyên!.md
 - 2026-06-12 14:56 | Chapter 5 | completed | Chương 0005 - Chương 5 Nhân Tổ tam cổ, hy vọng khai khiếu.md
 - 2026-06-12 15:23 | Chapter 6 | completed | Chương 0006 - 0006 未来的路，会很精彩.md
+- 2026-06-12 15:52 | Chapter 6 | completed | Chương 0006 - Chương 6 Con đường tương lai sẽ rất đặc sắc.md

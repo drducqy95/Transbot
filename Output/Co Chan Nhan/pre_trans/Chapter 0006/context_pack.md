@@ -103,6 +103,11 @@ Chapter 4 completed via pipeline.
 ### Summary
 Chapter 5 completed via pipeline.
 
+## Chapter 0006 - 0006 未来的路，会很精彩
+
+### Summary
+Chapter 6 completed via pipeline.
+
 
 ## Source Chapter 6 - 0006 未来的路，会很精彩
 ```json
