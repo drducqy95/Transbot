@@ -2,7 +2,7 @@
 
 **Branch:** Tieu Dao Mong Duong
 **Đã hoàn thành:** 1
-**Chương cuối: Chương 8: Trao đổi
+**Chương cuối: Chương 9: Khách tới (Cầu sưu tầm)
 **Tổng số chương:** ?
 
-- **Tiến độ hiện tại**: 6/1184 chương
+- **Tiến độ hiện tại**: 8/1184 chương

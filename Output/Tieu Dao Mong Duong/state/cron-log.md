@@ -8,3 +8,4 @@
 - 2026-06-12 14:51 | Chapter 6 | completed | Chương 0006 - Chương 6 Bị trộm.md
 - 2026-06-12 15:13 | Chapter 7 | completed | Chương 0007 - Chương 7 Linh thú (Cầu ủng hộ!).md
 - 2026-06-12 15:40 | Chapter 8 | completed | Chương 0008 - Chương 8 Trao đổi.md
+- 2026-06-12 16:12 | Chapter 9 | completed | Chương 0009 - Chương 9 Khách tới (Cầu sưu tầm).md
