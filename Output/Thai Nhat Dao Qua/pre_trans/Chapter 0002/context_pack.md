@@ -138,6 +138,11 @@ Chapter 2 completed via pipeline.
 ### Summary
 Chapter 2 completed via pipeline.
 
+## Chapter 0002 - Chương 2: Nhân Quả Tập
+
+### Summary
+Chapter 2 completed via pipeline.
+
 
 ## Source Chapter 2 - 0002 因果集
 ```json
