@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-12T10:09:10.589916+07:00",
+  "updated_at": "2026-06-12T11:00:21.504691+07:00",
   "books": [
     {
       "branch": "Chu Than Dai Dao",
@@ -8,11 +8,11 @@
       "summary": "Triệu Kỳ từ một người bình thường bỗng chạm vào cơ duyên vượt khỏi nhận thức, từ đó bước lên hành trình thành thần, kiến tạo thế giới và can dự vào những cục diện lớn hơn rất nhiều so với đời sống phàm tục.",
       "backdrop": "Hiện đại đô thị giao cắt với con đường thành thần và vô hạn thế giới, nơi cơ duyên siêu hình có thể xé toạc nhịp sống bình thường chỉ trong một khoảnh khắc.",
       "description": "Triệu Kỳ từ một người bình thường bỗng chạm vào cơ duyên vượt khỏi nhận thức, từ đó bước lên hành trình thành thần, kiến tạo thế giới và can dự vào những cục diện lớn hơn rất nhiều so với đời sống phàm tục.",
-      "detail": "Tiến độ: 3/1602 chương | Mới nhất: Chương 3: Khai thiên lập địa, tiểu thiên thế giới",
+      "detail": "Tiến độ: 4/1602 chương | Mới nhất: Chương 4: Nghề nghiệp truyền kỳ cũng phải xem hoàn cảnh chứ",
       "status": "in_progress",
       "status_label": "Đang ra",
       "ongoing": true,
-      "completed_chapters": 5,
+      "completed_chapters": 4,
       "total_chapters": 1602,
       "latest_chapter": "Chương 4: Nghề nghiệp truyền kỳ cũng phải xem hoàn cảnh chứ",
       "genre": "eastern_fiction",
@@ -63,7 +63,7 @@
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Chu Than Dai Dao/README.md",
       "toc_path": "Output/Chu Than Dai Dao/toc.json",
-      "updated_at": "2026-06-12T10:57:27+07:00"
+      "updated_at": "2026-06-12T11:00:08.760661+07:00"
     },
     {
       "branch": "Chu Than Quat Khoi",
@@ -109,11 +109,11 @@
           "title": "Huyền ảo"
         }
       ],
-      "completed_chapters": 3,
+      "completed_chapters": 2,
       "total_chapters": 852,
       "latest_chapter": "Chương 2: Bàn tay vàng của ta ở đâu",
-      "detail": "Tiến độ: 1/852 chương | Mới nhất: Chương 1: Xuyên không",
-      "updated_at": "2026-06-12T10:57:41+07:00",
+      "detail": "Tiến độ: 2/852 chương | Mới nhất: Chương 2: Bàn tay vàng của ta ở đâu",
+      "updated_at": "2026-06-12T11:00:10.125465+07:00",
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Chu Than Quat Khoi/README.md",
       "toc_path": "Output/Chu Than Quat Khoi/toc.json"
@@ -172,7 +172,7 @@
       "total_chapters": 1915,
       "latest_chapter": "",
       "detail": "Tiến độ: 0/1915 chương",
-      "updated_at": "2026-06-12T10:07:42.743856+07:00",
+      "updated_at": "2026-06-12T11:00:12.623657+07:00",
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Co Chan Nhan/README.md",
       "toc_path": "Output/Co Chan Nhan/toc.json"
@@ -200,7 +200,7 @@
       "total_chapters": 968,
       "latest_chapter": "Chương 52: Evan: Tay sai của ta đâu?",
       "detail": "Tiến độ: 52/968 chương | Mới nhất: Chương 52: Evan: Tay sai của ta đâu?",
-      "updated_at": "2026-06-12T10:07:43.241849+07:00",
+      "updated_at": "2026-06-12T11:00:13.235770+07:00",
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Dung Goi Ta Ta Than/README.md",
       "toc_path": "Output/Dung Goi Ta Ta Than/toc.json"
@@ -267,7 +267,7 @@
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Phi Pham Hong Hoang/README.md",
       "toc_path": "Output/Phi Pham Hong Hoang/toc.json",
-      "updated_at": "2026-06-12T10:09:06.272020+07:00"
+      "updated_at": "2026-06-12T11:00:16.071326+07:00"
     },
     {
       "branch": "Ta Te Bao Nguc Giam",
@@ -290,9 +290,9 @@
       ],
       "completed_chapters": 2,
       "total_chapters": 2169,
-      "latest_chapter": "0001 神秘的监狱",
+      "latest_chapter": "Chương 1: Nhà giam thần bí",
       "detail": "Tiến độ: 2/2169 chương | Mới nhất: 0001 神秘的监狱",
-      "updated_at": "2026-06-12T10:09:07.293866+07:00",
+      "updated_at": "2026-06-12T11:05:47+07:00",
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Ta Te Bao Nguc Giam/README.md",
       "toc_path": "Output/Ta Te Bao Nguc Giam/toc.json"
@@ -351,7 +351,7 @@
       "total_chapters": 1135,
       "latest_chapter": "Chương 2: Nhân Quả Tập",
       "detail": "Tiến độ: 2/1135 chương | Mới nhất: Chương 2: Nhân Quả Tập",
-      "updated_at": "2026-06-12T10:09:07.797398+07:00",
+      "updated_at": "2026-06-12T11:00:17.862006+07:00",
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Thai Nhat Dao Qua/README.md",
       "toc_path": "Output/Thai Nhat Dao Qua/toc.json"
@@ -418,7 +418,7 @@
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han/README.md",
       "toc_path": "Output/Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han/toc.json",
-      "updated_at": "2026-06-12T10:09:08.412381+07:00"
+      "updated_at": "2026-06-12T11:00:19.080301+07:00"
     },
     {
       "branch": "Tieu Dao Mong Duong",
@@ -443,7 +443,7 @@
       "total_chapters": 1184,
       "latest_chapter": "Chương 3: Linh Trà",
       "detail": "Tiến độ: 3/1184 chương | Mới nhất: Chương 3: Linh Trà",
-      "updated_at": "2026-06-12T10:09:09.003684+07:00",
+      "updated_at": "2026-06-12T11:00:19.753968+07:00",
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Tieu Dao Mong Duong/README.md",
       "toc_path": "Output/Tieu Dao Mong Duong/toc.json"
@@ -516,7 +516,7 @@
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Tu Chan Bon Van Nam/README.md",
       "toc_path": "Output/Tu Chan Bon Van Nam/toc.json",
-      "updated_at": "2026-06-12T10:09:10.589362+07:00"
+      "updated_at": "2026-06-12T11:00:21.502316+07:00"
     },
     {
       "branch": "Hong Hoang Lich_Zhttty",
@@ -971,7 +971,7 @@
     }
   ],
   "metadata": {
-    "generated_at": "2026-06-12T10:57:41+07:00",
+    "generated_at": "2026-06-12T11:05:47+07:00",
     "total_books": 17,
     "source": "Dichtrung/Output"
   },
@@ -1230,16 +1230,16 @@
   "branches": {
     "Chu Than Dai Dao": {
       "display_title": "Chủ Thần Đại Đạo",
-      "current_chapter": 3,
+      "current_chapter": 4,
       "total_chapters": 1602,
-      "completed_chapters": 3,
+      "completed_chapters": 4,
       "last_updated": "2026-06-12"
     },
     "Chu Than Quat Khoi": {
       "display_title": "Chủ Thần Trỗi Dậy",
-      "current_chapter": 1,
+      "current_chapter": 2,
       "total_chapters": 852,
-      "completed_chapters": 1,
+      "completed_chapters": 2,
       "last_updated": "2026-06-12"
     },
     "Co Chan Nhan": {

@@ -1,20 +1,9 @@
-I will start by analyzing the directory structure of the workspace to understand the codebase.
-I will inspect the `Script` and `Source` directories to see how translation is being processed or stored.
-I will list the contents of the `Source` directory to find translation source files or logs.
-I will search the repository to locate where these terms appear or how they are handled.
-I will search the workspace for any glossary files or configurations to see how terms and names are categorized or approved/rejected.
-I will read the `ai_review.json` file to check the expected structure and format of the review output.
-I will search the `Output/Ta Te Bao Nguc Giam` directory to see if any past reviews or `ai_review.json` files exist, which will serve as a guide.
-I will list the `pre_trans` directory for "Ta Te Bao Nguc Giam" to check for chapters and reviews.
-I will list the contents of `Chapter 0001` inside `pre_trans` to find any translation/review metadata files.
-I will list the contents of `Chapter 0002` inside `pre_trans` as well.
-I will view the `ai_review.json` file in Chapter 0002 to inspect the review decisions.
-I will search the codebase for `坎贝尔` to see if `坎贝尔.弗兰` is the full proper name or if it's truncated.
 ```json
 {
   "approved": [
     "右脚",
     "右臂",
+    "坎贝尔.弗兰",
     "处理室",
     "头颅",
     "左脚",
@@ -40,13 +29,11 @@ I will search the codebase for `坎贝尔` to see if `坎贝尔.弗兰` is the f
     "请确认你是否",
     "转眼间。"
   ],
-  "uncertain": [
-    "坎贝尔.弗兰"
-  ]
+  "uncertain": []
 }
 ```
 
-### Summary of Review Decisions
-1. **Approved (9)**: Body parts (`右脚`, `右臂`, `左脚`, `左臂`, `头颅`, `躯干`), facility locations (`处理室`, `管理室`), and specific character action/skill names (`快速出拳`).
-2. **Rejected (15)**: Sentence or phrase fragments with incomplete grammar, punctuation, or formatting markers (e.g. `。\n若对所挑`, `中进行舍弃，`, `之后，韩东很`, etc.).
-3. **Uncertain (1)**: `坎贝尔.弗兰` is flagged as uncertain because it is a truncated version of the full proper name `坎贝尔.弗兰克` (Campbell Frank) found in the source text.
+**Reasoning:**
+*   **Approved**: These are valid nouns, names, body parts, locations, or skills that would benefit from consistent translation across a project (e.g., "Left arm", "Processing room", "Campbell Fran").
+*   **Rejected**: Most of these are incomplete sentence fragments (e.g., "。\n若对所挑", "的全部肉体？"), UI string fragments that are cut off (e.g., "技能、负重需"), or extremely common conversational phrases ("是！", "转眼间。") that do not belong in a specialized terminology glossary.
+*   **Uncertain**: None. The distinction between valid terms and broken fragments is clear in this list.

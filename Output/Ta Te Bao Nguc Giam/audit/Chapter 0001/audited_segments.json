@@ -1,451 +1,471 @@
 {
   "chapter_number": 1,
-  "chapter_title_vi": "Chương 1: Ngục giam thần bí",
+  "chapter_title_vi": "Chương 1: Nhà giam thần bí",
   "segments": [
     {
-      "segment_id": "0001",
+      "segment_id": "1",
+      "source": "# 第1章 神秘的监狱",
+      "target": "# Chương 1: Nhà giam thần bí"
+    },
+    {
+      "segment_id": "2",
       "source": "污水横流、菌斑肆掠。",
-      "target": "Nước bẩn chảy tràn, khuẩn ban hoành hành."
+      "target": "Nước bẩn chảy ngang, nấm mốc hoành hành."
     },
     {
-      "segment_id": "0002",
+      "segment_id": "3",
       "source": "某一废弃的监狱深处……",
-      "target": "Phía sâu trong một ngục giam bỏ hoang nào đó..."
+      "target": "Ở sâu trong một nhà giam bỏ hoang nào đó..."
     },
     {
-      "segment_id": "0003",
+      "segment_id": "4",
       "source": "啪！",
       "target": "Bộp!"
     },
     {
-      "segment_id": "0004",
+      "segment_id": "5",
       "source": "一团由质膜包裹的细胞团，竟从某具尸体的表面分离了出来。",
-      "target": "Một cụm tế bào được bao bọc bởi màng sinh chất, lại tách ra từ bề mặt của một xác chết."
+      "target": "Một khối tế bào được màng sinh chất bao bọc, thế mà lại tách ra từ bề mặt của một cái xác."
     },
     {
-      "segment_id": "0005",
+      "segment_id": "6",
       "source": "细胞团体仅有人类食指大小，宏观外表就像一团白色鼻涕。",
-      "target": "Cụm tế bào chỉ có kích thước bằng ngón tay trỏ của con người, ngoại quan vĩ mô giống như một bãi nước mũi màu trắng."
+      "target": "Khối tế bào chỉ lớn bằng ngón trỏ con người, bề ngoài nhìn bằng mắt thường giống như một cục nước mũi màu trắng."
     },
     {
-      "segment_id": "0006",
+      "segment_id": "7",
       "source": "这一细胞团似乎具备着独立的思维与行动能力。",
-      "target": "Cụm tế bào này dường như sở hữu tư duy và khả năng hành động độc lập."
+      "target": "Khối tế bào này dường như có được năng lực tư duy và hành động độc lập."
     },
     {
-      "segment_id": "0007",
+      "segment_id": "8",
       "source": "但由于神经系统的不完善性，并无五感。",
-      "target": "Nhưng do hệ thần kinh chưa hoàn thiện nên không hề có năm giác quan."
+      "target": "Nhưng do hệ thần kinh chưa hoàn thiện, nó không có ngũ quan."
     },
     {
-      "segment_id": "0008",
+      "segment_id": "9",
       "source": "不过，在细胞团与外物接触时，能通过‘细胞间信号传递’的特别手段，获取物质的基础信息。",
-      "target": "Tuy nhiên, khi cụm tế bào tiếp xúc với vật thể bên ngoài, nó có thể thông qua phương thức đặc biệt là 'truyền tín hiệu giữa các tế bào' để nhận biết thông tin cơ bản của vật chất."
+      "target": "Tuy nhiên, khi khối tế bào tiếp xúc với ngoại vật, nó có thể thông qua biện pháp đặc biệt là 'truyền tín hiệu giữa các tế bào', để thu thập thông tin cơ bản của vật chất."
     },
     {
-      "segment_id": "0009",
+      "segment_id": "10",
       "source": "分离出来的细胞没有过久的停留，开始移动了。",
-      "target": "Cụm tế bào đã tách ra không dừng lại quá lâu, bắt đầu di chuyển."
+      "target": "Tế bào tách ra không dừng lại quá lâu, bắt đầu di chuyển."
     },
     {
-      "segment_id": "0010",
+      "segment_id": "11",
       "source": "转录与翻译。",
       "target": "Phiên mã và dịch mã."
     },
     {
-      "segment_id": "0011",
+      "segment_id": "12",
       "source": "肌动蛋白产生。",
-      "target": "Actin được sản sinh."
+      "target": "Sản sinh actin."
     },
     {
-      "segment_id": "0012",
-      "source": "这团手指头大小 of 细胞群体开始进行极为缓慢的‘迁移运动’，大约与蜗牛的移动速度相当。",
-      "target": "Cụm tế bào kích thước bằng ngón tay này bắt đầu thực hiện 'chuyển động di cư' cực kỳ chậm chạp, tốc độ tương đương với ốc sên bò."
+      "segment_id": "13",
+      "source": "这团手指头大小的细胞群体开始进行极为缓慢的‘迁移运动’，大约与蜗牛的移动速度相当。",
+      "target": "Quần thể tế bào lớn cỡ ngón tay này bắt đầu tiến hành 'vận động di cư' cực kỳ chậm chạp, tốc độ di chuyển xấp xỉ bằng với ốc sên."
     },
     {
-      "segment_id": "0013",
+      "segment_id": "14",
       "source": "“不行……不够完美，也不是我想要的。”",
-      "target": "“Không được... không đủ hoàn mỹ, cũng không phải thứ tôi muốn.”"
+      "target": "\"Không được... Không đủ hoàn mỹ, cũng không phải thứ ta muốn.\""
     },
     {
-      "segment_id": "0014",
+      "segment_id": "15",
       "source": "细胞团似乎主动舍弃了这具看似完整且强壮的肉体，继续在监狱里展开搜寻……",
-      "target": "Cụm tế bào dường như chủ động từ bỏ cơ thể trông có vẻ nguyên vẹn và khỏe mạnh này, tiếp tục tìm kiếm trong ngục giam..."
+      "target": "Khối tế bào dường như chủ động vứt bỏ thân xác trông có vẻ hoàn chỉnh và cường tráng này, tiếp tục triển khai tìm kiếm trong nhà giam..."
     },
     {
-      "segment_id": "0015",
+      "segment_id": "16",
       "source": "若当前能有一束火把提供照明。",
-      "target": "Nếu lúc này có một bó đuốc chiếu sáng."
+      "target": "Nếu như hiện tại có một bó đuốc cung cấp ánh sáng."
     },
     {
-      "segment_id": "0016",
+      "segment_id": "17",
       "source": "你会发现这一处巨型牢房中，由细胞团所舍弃的肉体达到上百具。",
-      "target": "Bạn sẽ phát hiện ra trong buồng giam khổng lồ này, số lượng cơ thể bị cụm tế bào từ bỏ đã lên tới hàng trăm cái."
+      "target": "Bạn sẽ phát hiện ra trong phòng giam khổng lồ này, số lượng thân xác bị khối tế bào vứt bỏ lên đến hàng trăm cái."
     },
     {
-      "segment_id": "0017",
+      "segment_id": "18",
       "source": "…………",
-      "target": "............"
+      "target": "..."
     },
     {
-      "segment_id": "0018",
+      "segment_id": "19",
       "source": "细胞团并非自主形成。",
-      "target": "Cụm tế bào này không phải tự nhiên hình thành."
+      "target": "Khối tế bào không phải tự chủ hình thành."
     },
     {
-      "segment_id": "0019",
+      "segment_id": "20",
       "source": "它有着自己的名字-韩东。",
       "target": "Nó có tên riêng của mình - Hàn Đông."
     },
     {
-      "segment_id": "0020",
+      "segment_id": "21",
       "source": "华侨，意大利佛罗伦萨大学生命科学院的副教授，在成为这团细胞凝聚体前，他刚好31岁。",
-      "target": "Hoa kiều, phó giáo sư Viện Khoa học Sự sống thuộc Đại học Florence, Ý, trước khi trở thành cụm tế bào ngưng tụ này, hắn vừa vặn 31 tuổi."
+      "target": "Hoa kiều, phó giáo sư Học viện Khoa học Sự sống của Đại học Florence ở Ý, trước khi trở thành khối tế bào ngưng tụ này, hắn vừa tròn 31 tuổi."
     },
     {
-      "segment_id": "0021",
+      "segment_id": "22",
       "source": "于2018年7月21日，因肺癌死在佛罗伦萨中心医院的病床上。",
-      "target": "Vào ngày 21 tháng 7 năm 2018, hắn qua đời vì ung thư phổi trên giường bệnh của Bệnh viện Trung tâm Florence."
+      "target": "Ngày 21 tháng 7 năm 2018, qua đời vì bệnh ung thư phổi trên giường bệnh của Bệnh viện Trung tâm Florence."
     },
     {
-      "segment_id": "0022",
+      "segment_id": "23",
       "source": "病房里摆满着鲜花，然而这些鲜花却来源于他的学生，而非家人。",
-      "target": "Phòng bệnh bày đầy hoa tươi, nhưng những bó hoa này lại đến từ học trò của hắn chứ không phải người nhà."
+      "target": "Trong phòng bệnh bày đầy hoa tươi, tuy nhiên những bông hoa này lại đến từ học sinh của hắn, chứ không phải người nhà."
     },
     {
-      "segment_id": "0023",
+      "segment_id": "24",
       "source": "在死亡的一刻，病痛折磨消散一空，韩东反而感觉释然。",
-      "target": "Vào khoảnh khắc cái chết cận kề, sự hành hạ của bệnh tật tan biến hoàn toàn, Hàn Đông ngược lại cảm thấy nhẹ nhõm."
+      "target": "Giờ phút tử vong, sự giày vò của bệnh tật tiêu tán hoàn toàn, Hàn Đông ngược lại cảm thấy thanh thản."
     },
     {
-      "segment_id": "0024",
+      "segment_id": "25",
       "source": "没有升入天堂或是堕入地狱，也没有喝下孟婆汤、走上来奈何桥、经历所谓的轮回转世。",
-      "target": "Không bay lên thiên đàng hay sa xuống địa ngục, cũng không uống canh Mạnh Bà, không bước lên cầu Nại Hà, hay trải qua cái gọi là luân hồi chuyển kiếp."
+      "target": "Không lên thiên đường hay đọa xuống địa ngục, cũng không uống canh Mạnh Bà, bước lên cầu Nại Hà, trải qua cái gọi là luân hồi chuyển thế."
     },
     {
-      "segment_id": "0025",
+      "segment_id": "26",
       "source": "迎接他的只有无尽黑暗而已。",
-      "target": "Đón nhận hắn chỉ có bóng tối vô tận mà thôi."
+      "target": "Chào đón hắn chỉ có bóng tối vô tận mà thôi."
     },
     {
-      "segment_id": "0026",
+      "segment_id": "27",
       "source": "然而，他的意识却在这一过程中始终存在。",
-      "target": "Thế nhưng, ý thức của hắn vẫn luôn tồn tại trong suốt quá trình này."
+      "target": "Thế nhưng, ý thức của hắn lại luôn tồn tại trong quá trình này."
     },
     {
-      "segment_id": "0027",
+      "segment_id": "28",
       "source": "“我到底死没死？！人死后，大脑会继续保持活性五分钟……但我这已经死了一小时了吧？”",
-      "target": "“Mình rốt cuộc đã chết chưa?! Sau khi người ta chết đi, não bộ vẫn sẽ duy trì hoạt tính trong năm phút... nhưng mình đã chết được một tiếng rồi nhỉ?”"
+      "target": "\"Rốt cuộc mình đã chết hay chưa?! Sau khi con người chết, não bộ sẽ tiếp tục duy trì hoạt tính trong năm phút... Nhưng mình đây đã chết được một tiếng rồi nhỉ?\""
     },
     {
-      "segment_id": "0028",
+      "segment_id": "29",
       "source": "韩东的‘时间感’极强，意识清醒的他，很清楚自己‘死亡’了多长时间。",
-      "target": "Hàn Đông có 'cảm giác thời gian' cực kỳ mạnh mẽ, với ý thức tỉnh táo, hắn biết rất rõ bản thân đã 'chết' bao lâu."
+      "target": "'Cảm giác thời gian' của Hàn Đông cực kỳ mạnh, ý thức thanh tỉnh nên hắn rất rõ ràng bản thân đã 'tử vong' bao lâu."
     },
     {
-      "segment_id": "0029",
+      "segment_id": "30",
       "source": "韩东慢慢试着去感知‘身体’，谁知，竟在意识中出现了细胞团的形象。",
-      "target": "Hàn Đông từ từ thử cảm nhận 'cơ thể', ai ngờ, trong ý thức lại xuất hiện hình ảnh của một cụm tế bào."
+      "target": "Hàn Đông chậm rãi thử đi cảm nhận 'cơ thể', ai ngờ, trong ý thức lại xuất hiện hình ảnh một khối tế bào."
     },
     {
-      "segment_id": "0030",
+      "segment_id": "31",
       "source": "只有两件事情能做到。",
-      "target": "Chỉ có hai việc hắn có thể làm."
+      "target": "Chỉ có hai việc có thể làm được."
     },
     {
-      "segment_id": "0031",
+      "segment_id": "32",
       "source": "第一、能通过胞间信号传递来感应所接触物品的详细信息。",
-      "target": "Một là, có thể thông qua truyền tín hiệu giữa các tế bào để cảm nhận thông tin chi tiết của vật phẩm tiếp xúc."
+      "target": "Thứ nhất, có thể thông qua việc truyền tín hiệu giữa các tế bào để cảm ứng thông tin chi tiết của vật phẩm tiếp xúc."
     },
     {
-      "segment_id": "0032",
+      "segment_id": "33",
       "source": "第二、通过生成肌动蛋白而产生运动能力。",
-      "target": "Hai là, thông qua việc tạo ra actin để sản sinh khả năng vận động."
+      "target": "Thứ hai, thông qua việc sản sinh actin mà tạo ra năng lực vận động."
     },
     {
-      "segment_id": "0033",
+      "segment_id": "34",
       "source": "也就在韩东第一次在胞内合成肌动蛋白，进行相关活动时，一阵系统的提示声回荡在它的脑海中。",
-      "target": "Ngay khi Hàn Đông lần đầu tiên tổng hợp actin trong tế bào để tiến hành các hoạt động liên quan, một âm thanh nhắc nhở của hệ thống vang lên trong đầu hắn."
+      "target": "Cũng ngay lúc Hàn Đông lần đầu tiên tổng hợp actin trong nội bào, tiến hành các hoạt động liên quan, một tràng âm báo của hệ thống vang vọng trong đầu hắn."
     },
     {
-      "segment_id": "0034",
-      "source": "『请在监狱内挑选‘合适’的肉体，当前最大负重值为【100】。\n若对所挑选的肉体不太满意，可将肉体送往处理间，进行胞体分离。\n非细胞形态下，不可搬动或转移其系统的囚犯肉体。』",
-      "target": "『Vui lòng lựa chọn cơ thể \"phù hợp\" trong ngục giam, giá trị tải trọng tối đa hiện tại là 【100】.\nNếu không hài lòng với cơ thể đã chọn, có thể chuyển cơ thể tới [Phòng xử lý] để tiến hành phân tách bào thể.\nTrong trạng thái phi tế bào, không thể di chuyển hoặc di dời cơ thể của các phạm nhân khác.』"
+      "segment_id": "35",
+      "source": "『请在监狱内挑选‘合适’的肉体，当前最大负重值为【100】。",
+      "target": "\"Vui lòng chọn thân xác 'phù hợp' trong nhà giam, giá trị tải trọng tối đa hiện tại là [100]."
     },
     {
-      "segment_id": "0035",
+      "segment_id": "36",
+      "source": "若对所挑选的肉体不太满意，可将肉体送往处理间，进行胞体分离。",
+      "target": "Nếu không quá hài lòng với thân xác đã chọn, có thể đưa thân xác đến phòng xử lý, tiến hành tách rời thể tế bào."
+    },
+    {
+      "segment_id": "37",
+      "source": "非细胞形态下，不可搬动或转移其它的囚犯肉体。』",
+      "target": "Trong trạng thái không phải tế bào, không thể dời đi hoặc di chuyển thân xác của tù nhân khác.\""
+    },
+    {
+      "segment_id": "38",
       "source": "提示结束。",
-      "target": "Thông báo kết thúc."
+      "target": "Lời nhắc nhở kết thúc."
     },
     {
-      "segment_id": "0036",
+      "segment_id": "39",
       "source": "在韩东的意识层面又生成了一张监狱的平面图。",
-      "target": "Trong ý thức của Hàn Đông lại hiện ra một bản đồ mặt bằng của ngục giam."
+      "target": "Ở tầng ý thức của Hàn Đông lại tạo ra một bản đồ mặt bằng của nhà giam."
     },
     {
-      "segment_id": "0037",
+      "segment_id": "40",
       "source": "单层结构",
-      "target": "Cấu trúc một tầng."
+      "target": "Kết cấu một tầng"
     },
     {
-      "segment_id": "0038",
+      "segment_id": "41",
       "source": "总计二百零四间牢房。",
-      "target": "Tổng cộng có hai trăm lẻ bốn buồng giam."
+      "target": "Tổng cộng hai trăm lẻ bốn phòng giam."
     },
     {
-      "segment_id": "0039",
+      "segment_id": "42",
       "source": "平面图还通过光点与注释，标注了每一牢房里对应的囚犯，并注释着‘已死亡’三个字。",
-      "target": "Bản đồ mặt bằng còn thông qua các điểm sáng và chú thích để đánh dấu phạm nhân tương ứng trong mỗi buồng giam, kèm theo ba chữ 'Đã tử vong'."
+      "target": "Bản đồ mặt bằng còn thông qua điểm sáng và chú thích, đánh dấu tù nhân tương ứng trong mỗi phòng giam, đồng thời chú thích ba chữ 'đã tử vong'."
     },
     {
-      "segment_id": "0040",
+      "segment_id": "43",
       "source": "除此之外，监狱的中间区域显示着一处红色标记的房间，名为【管理室】并处于上锁状态。",
-      "target": "Ngoài ra, khu vực trung tâm của ngục giam hiển thị một căn phòng được đánh dấu bằng màu đỏ, tên là [Phòng quản lý] và đang ở trạng thái khóa."
+      "target": "Ngoài ra, khu vực trung tâm nhà giam hiển thị một căn phòng đánh dấu màu đỏ, có tên là [Phòng quản lý] và đang ở trạng thái khóa."
     },
     {
-      "segment_id": "0041",
+      "segment_id": "44",
       "source": "韩东目前所在的房间便是【处理室】。",
-      "target": "Căn phòng hiện tại Hàn Đông đang ở chính là [Phòng xử lý]."
+      "target": "Căn phòng Hàn Đông đang ở hiện tại chính là [Phòng xử lý]."
     },
     {
-      "segment_id": "0042",
+      "segment_id": "45",
       "source": "“国外的监狱？死后重生？我到底是一个什么东西？”",
-      "target": "“Ngục giam nước ngoài? Trùng sinh sau khi chết? Mình rốt cuộc là cái thứ gì thế này?”"
+      "target": "\"Nhà giam ở nước ngoài? Chết đi sống lại? Mình rốt cuộc là cái thứ gì?\""
     },
     {
-      "segment_id": "0043",
+      "segment_id": "46",
       "source": "这些的问题并没有困扰韩东太久。",
       "target": "Những câu hỏi này không làm khó Hàn Đông quá lâu."
     },
     {
-      "segment_id": "0044",
+      "segment_id": "47",
       "source": "长期走在前沿科学的他，接纳新事物的能力极强。",
-      "target": "Là một người lâu năm đi đầu trong nghiên cứu khoa học tiên phong, khả năng tiếp thu sự vật mới của hắn cực kỳ mạnh mẽ."
+      "target": "Gắn bó với khoa học tiên tiến trong thời gian dài, khả năng tiếp nhận sự vật mới của hắn cực kỳ mạnh mẽ."
     },
     {
-      "segment_id": "0045",
+      "segment_id": "48",
       "source": "短时间内意识到自己是一团具备保护膜的独立细胞团体，虽不清楚一团细胞是如何能独立存活与承载意识。",
-      "target": "Trong thời gian ngắn, hắn đã nhận thức được bản thân là một cụm tế bào độc lập có màng bảo vệ, mặc dù không rõ một cụm tế bào làm sao có thể sinh tồn độc lập và mang theo ý thức."
+      "target": "Trong thời gian ngắn đã nhận ra mình là một tập thể tế bào độc lập có màng bảo vệ, mặc dù không rõ một khối tế bào làm thế nào có thể tồn tại độc lập và gánh vác ý thức."
     },
     {
-      "segment_id": "0046",
+      "segment_id": "49",
       "source": "细胞是生命活动的基本单位，足以证明他还没有死。",
-      "target": "Tế bào là đơn vị cơ bản của hoạt động sống, điều này đủ để chứng minh hắn vẫn chưa chết."
+      "target": "Tế bào là đơn vị cơ bản của hoạt động sống, đủ để chứng minh hắn vẫn chưa chết."
     },
     {
-      "segment_id": "0047",
-      "source": "“所谓的死亡穿越发生在了我的身上？而且，还穿越成了一团细胞集合体？真是讽刺啊。”",
-      "target": "“Cái gọi là chết đi rồi xuyên không lại xảy ra trên người mình sao? Hơn nữa, còn xuyên thành một cụm tập hợp tế bào? Thật là mỉa mai làm sao.”"
+      "segment_id": "50",
+      "source": "“所谓的死亡穿越发生在了我的身上？而且，还穿越成了一团细胞集合体？真是讽刺啊。” \t\t \t\t韩东一生致力于细胞生物学的研究，在半年前于国际顶级期刊Cell上发表了一篇‘关于通过基因编码手段激活并控制细胞调节的作用’的文章。",
+      "target": "\"Cái gọi là tử vong xuyên việt đã xảy ra trên người mình? Hơn nữa, còn xuyên việt thành một khối tập hợp tế bào? Thật đúng là châm biếm a.\" Cả đời Hàn Đông cống hiến cho nghiên cứu sinh học tế bào, nửa năm trước đã đăng một bài báo về 'Tác dụng của việc kích hoạt và kiểm soát sự điều hòa tế bào thông qua phương pháp mã hóa gen' trên tạp chí học thuật hàng đầu quốc tế Cell."
     },
     {
-      "segment_id": "0048",
-      "source": "韩东一生致力于细胞生物学的研究，在半年前于国际顶级期刊Cell上发表了一篇‘关于通过基因编码手段激活并控制细胞调节的作用’的文章。",
-      "target": "Hàn Đông cả đời cống hiến cho việc nghiên cứu sinh học tế bào, nửa năm trước hắn vừa đăng một bài báo 'Về vai trò kích hoạt và kiểm soát sự điều hòa tế bào thông qua các phương thức mã hóa gen' trên tạp chí quốc tế hàng đầu Cell."
-    },
-    {
-      "segment_id": "0049",
+      "segment_id": "51",
       "source": "因这篇文章而评上副教授的韩东，在全校教师体检中，检测出肺癌晚期……遭受癌细胞的无情侵蚀，前程尽断。",
-      "target": "Hàn Đông nhờ bài báo này mà được phong hàm phó giáo sư, nhưng trong buổi khám sức khỏe của toàn thể giáo viên trong trường, hắn lại phát hiện ra mình bị ung thư phổi giai đoạn cuối... chịu sự tàn phá tàn nhẫn của tế bào ung thư, tiền đồ đứt đoạn."
+      "target": "Nhờ bài báo này mà được phong hàm phó giáo sư, Hàn Đông trong kỳ khám sức khỏe giáo viên toàn trường, lại bị phát hiện ung thư phổi giai đoạn cuối... Chịu sự ăn mòn vô tình của tế bào ung thư, tương lai hoàn toàn đứt đoạn."
     },
     {
-      "segment_id": "0050",
+      "segment_id": "52",
       "source": "本应意识消亡而彻底死去的他，却又以细胞团的生命形式重生。",
-      "target": "Đáng lẽ ý thức phải tiêu biến và chết hẳn, hắn lại tái sinh dưới dạng sự sống của một cụm tế bào."
+      "target": "Đáng lẽ ý thức phải tiêu vong mà chết đi hoàn toàn, hắn lại trùng sinh dưới hình thức sự sống của một khối tế bào."
     },
     {
-      "segment_id": "0051",
+      "segment_id": "53",
       "source": "…………",
-      "target": "............"
+      "target": "..."
     },
     {
-      "segment_id": "0052",
+      "segment_id": "54",
       "source": "没有太多的犹豫，考虑到细胞团也需要能量的补给才能正常活动，当务之急是按照神秘的系统指示，寻找‘合适’的肉体。",
-      "target": "Không chút do dự, cân nhắc đến việc cụm tế bào cũng cần được bổ sung năng lượng để hoạt động bình thường, việc cấp bách trước mắt là tuân theo chỉ dẫn của hệ thống thần bí để tìm kiếm cơ thể \"phù hợp\"."
+      "target": "Không do dự quá nhiều, cân nhắc đến việc khối tế bào cũng cần bổ sung năng lượng mới có thể hoạt động bình thường, việc cấp bách trước mắt là làm theo chỉ thị của hệ thống thần bí, tìm kiếm thân xác 'phù hợp'."
     },
     {
-      "segment_id": "0053",
+      "segment_id": "55",
       "source": "按照地图上的指示。",
-      "target": "Theo chỉ dẫn trên bản đồ."
+      "target": "Dựa theo chỉ thị trên bản đồ."
     },
     {
-      "segment_id": "0054",
+      "segment_id": "56",
       "source": "韩东通过极其缓慢的‘爬行’方式，前往最近的一间牢房。",
-      "target": "Hàn Đông dùng phương thức 'bò trườn' cực kỳ chậm chạp để đi đến buồng giam gần nhất."
+      "target": "Hàn Đông đi đến phòng giam gần nhất bằng cách 'bò' cực kỳ chậm chạp."
     },
     {
-      "segment_id": "0055",
+      "segment_id": "57",
       "source": "与蜗牛几乎相同的迁移运动，让他花费了足足一整天的时间。",
-      "target": "Chuyển động di cư gần như giống hệt ốc sên khiến hắn phải mất ròng rã một ngày trời."
+      "target": "Vận động di cư gần như giống hệt ốc sên, khiến hắn mất đứt trọn vẹn một ngày trời."
     },
     {
-      "segment_id": "0056",
+      "segment_id": "58",
       "source": "配对着意识中的地图，对应着象征着‘自己’的小光点，以最短路径迁移到隔壁牢房，首次与监狱内的囚犯尸体接触。",
-      "target": "Đối chiếu với bản đồ trong ý thức, tương ứng với điểm sáng nhỏ tượng trưng cho 'chính mình', hắn di chuyển theo con đường ngắn nhất đến buồng giam bên cạnh, lần đầu tiên tiếp xúc with xác chết của một phạm nhân trong ngục giam."
+      "target": "Đối chiếu với bản đồ trong ý thức, tương ứng với điểm sáng nhỏ tượng trưng cho 'chính mình', di cư đến phòng giam cách vách bằng tuyến đường ngắn nhất, lần đầu tiên tiếp xúc với xác tù nhân trong nhà giam."
     },
     {
-      "segment_id": "0057",
+      "segment_id": "59",
       "source": "“幸好有地图的指示，不然在五感完全丧失的情况下，真的麻烦……”",
-      "target": "“May mà có bản đồ chỉ dẫn, nếu không trong hoàn cảnh mất sạch năm giác quan thì thực sự phiền phức...”"
+      "target": "\"May mà có bản đồ chỉ thị, nếu không trong tình trạng mất đi ngũ quan hoàn toàn, đúng là phiền phức...\""
     },
     {
-      "segment_id": "0058",
+      "segment_id": "60",
       "source": "接触到尸体的一瞬间。",
-      "target": "Khoảnh khắc tiếp xúc với xác chết."
+      "target": "Khoảnh khắc tiếp xúc với thi thể."
     },
     {
-      "segment_id": "0059",
+      "segment_id": "61",
       "source": "韩东的意识层面，立即显出一道完整的人体剖面图，同时还配有详细的文字标注，可在意识层面进行查看。",
-      "target": "Trong tầng ý thức của Hàn Đông lập tức hiện ra một sơ đồ giải phẫu cơ thể người hoàn chỉnh, đồng thời còn có chú thích chữ chi tiết, có thể xem trực tiếp trong ý thức."
+      "target": "Ở tầng ý thức của Hàn Đông, lập tức hiện ra một bản đồ mặt cắt cơ thể người hoàn chỉnh, đồng thời còn kèm theo chú thích chữ viết chi tiết, có thể tiến hành xem xét ở tầng ý thức."
     },
     {
-      "segment_id": "0060",
+      "segment_id": "62",
       "source": "坎贝尔.弗兰克（生前为地下黑拳手）",
-      "target": "Campbell Frank (khi còn sống là võ sĩ đấm bốc thế giới ngầm)"
+      "target": "Campbell Frank (khi còn sống là tay đấm ngầm)"
     },
     {
-      "segment_id": "0061",
+      "segment_id": "63",
       "source": "【头颅】劣等、负重需求：5",
-      "target": "【Đầu】Kém cỏi, tải trọng yêu cầu: 5"
+      "target": "[Phần đầu] Kém cỏi, Yêu cầu tải trọng: 5"
     },
     {
-      "segment_id": "0062",
+      "segment_id": "64",
       "source": "【左臂】普通、负重需求：11",
-      "target": "【Tay trái】Bình thường, tải trọng yêu cầu: 11"
+      "target": "[Tay trái] Bình thường, Yêu cầu tải trọng: 11"
     },
     {
-      "segment_id": "0063",
+      "segment_id": "65",
       "source": "【右臂】优质、具备「快速出拳」技能、负重需求：23",
-      "target": "【Tay phải】Chất lượng tốt, sở hữu kỹ năng 「Ra quyền nhanh」, tải trọng yêu cầu: 23"
+      "target": "[Tay phải] Ưu tú, sở hữu kỹ năng \"Ra quyền nhanh\", Yêu cầu tải trọng: 23"
     },
     {
-      "segment_id": "0064",
+      "segment_id": "66",
       "source": "【躯干】普通、负重需求：13",
-      "target": "【Thân người】Bình thường, tải trọng yêu cầu: 13"
+      "target": "[Thân thể] Bình thường, Yêu cầu tải trọng: 13"
     },
     {
-      "segment_id": "0065",
+      "segment_id": "67",
       "source": "【左脚】普通、负重需求：11",
-      "target": "【Chân trái】Bình thường, tải trọng yêu cầu: 11"
+      "target": "[Chân trái] Bình thường, Yêu cầu tải trọng: 11"
     },
     {
-      "segment_id": "0066",
+      "segment_id": "68",
       "source": "【右脚】普通、负重需求：14",
-      "target": "【Chân phải】Bình thường, tải trọng yêu cầu: 14"
+      "target": "[Chân phải] Bình thường, Yêu cầu tải trọng: 14"
     },
     {
-      "segment_id": "0067",
+      "segment_id": "69",
       "source": "一系列的数据信息反馈到韩东的意识层面。",
-      "target": "Một loạt thông tin dữ liệu được phản hồi lại trong tầng ý thức của Hàn Đông."
+      "target": "Một loạt dữ liệu thông tin phản hồi lại tầng ý thức của Hàn Đông."
     },
     {
-      "segment_id": "0068",
-      "source": "“囚犯似乎在死前进行过‘特殊处理’，从而让尸体不腐烂，可供我占据与控制。\n之前的提示中说到，如果对于肉体不满意，即可在【处理室】中进行舍弃，重新挑选即可。\n可供选择 of 肉体还有很多，有必要利用其中一具来了解当前的情况。”",
-      "target": "“Phạm nhân dường như đã được 'xử lý đặc biệt' trước khi chết, nhờ đó mà xác chết không bị phân hủy, có thể cho mình chiếm giữ và kiểm soát.\nLời nhắc lúc trước có nói, nếu không hài lòng với cơ thể thì có thể từ bỏ trong [Phòng xử lý] rồi chọn lại cái khác.\nCơ thể để lựa chọn vẫn còn rất nhiều, cần thiết phải tận dụng một cái trong số đó để tìm hiểu tình hình hiện tại.”"
+      "segment_id": "70",
+      "source": "“囚犯似乎在死前进行过‘特殊处理’，从而让尸体不腐烂，可供我占据与控制。",
+      "target": "\"Tù nhân dường như đã được 'xử lý đặc biệt' trước khi chết, nhờ đó mà thi thể không thối rữa, có thể cho mình chiếm đoạt và khống chế."
     },
     {
-      "segment_id": "0069",
+      "segment_id": "71",
+      "source": "之前的提示中说到，如果对于肉体不满意，即可在【处理室】中进行舍弃，重新挑选即可。",
+      "target": "Lời nhắc nhở trước đó có nói, nếu như không hài lòng với thân xác, thì có thể vứt bỏ trong [Phòng xử lý], tiến hành chọn lại từ đầu là được."
+    },
+    {
+      "segment_id": "72",
+      "source": "可供选择的肉体还有很多，有必要利用其中一具来了解当前的情况。”",
+      "target": "Thân xác có thể lựa chọn vẫn còn rất nhiều, cần thiết phải tận dụng một cái trong số đó để tìm hiểu tình hình hiện tại.\""
+    },
+    {
+      "segment_id": "73",
       "source": "『请确认你是否要获得「坎贝尔.弗兰克」的全部肉体？所需负重值77。』",
-      "target": "『Vui lòng xác nhận xem bạn có muốn nhận toàn bộ cơ thể của 「Campbell Frank」 hay không? Giá trị tải trọng cần thiết là 77.』"
+      "target": "\"Vui lòng xác nhận bạn có muốn nhận được toàn bộ thân xác của 'Campbell Frank' hay không? Giá trị tải trọng cần thiết: 77.\""
     },
     {
-      "segment_id": "0070",
+      "segment_id": "74",
       "source": "『是！』",
-      "target": "『Đồng ý!』"
+      "target": "\"Có!\""
     },
     {
-      "segment_id": "0071",
+      "segment_id": "75",
       "source": "转眼间。",
-      "target": "Trong nháy mắt."
+      "target": "Chớp mắt một cái."
     },
     {
-      "segment_id": "0072",
+      "segment_id": "76",
       "source": "细胞团由囚犯肉体表面的‘孔’进入体内，短时间内激活全身，生机恢复。",
-      "target": "Cụm tế bào chui vào trong cơ thể thông qua các 'lỗ' trên bề mặt xác chết của phạm nhân, kích hoạt toàn thân chỉ trong thời gian ngắn, khôi phục sinh cơ."
+      "target": "Khối tế bào chui vào trong cơ thể thông qua các 'lỗ chân lông' trên bề mặt thân xác tù nhân, trong thời gian ngắn kích hoạt toàn thân, khôi phục sinh cơ."
     },
     {
-      "segment_id": "0073",
+      "segment_id": "77",
       "source": "先是一阵耳鸣声回荡在脑海中。",
       "target": "Đầu tiên là một tràng tiếng ù tai vang vọng trong đầu."
     },
     {
-      "segment_id": "0074",
+      "segment_id": "78",
       "source": "紧跟着，冰冷的石制触感从全身各个部位传来……说明神经系统全部接通。",
-      "target": "Ngay sau đó, cảm giác xúc giác lạnh lẽo của đá truyền đến từ mọi bộ phận trên cơ thể... chứng tỏ hệ thần kinh đã được kết nối hoàn toàn."
+      "target": "Ngay sau đó, xúc cảm lạnh lẽo của nền đá truyền đến từ khắp các bộ phận trên toàn thân... chứng minh hệ thống thần kinh đã kết nối toàn bộ."
     },
     {
-      "segment_id": "0075",
+      "segment_id": "79",
       "source": "黑岩与钢筋构成的简易牢房映入眼帘，视觉恢复。",
-      "target": "Buồng giam đơn sơ cấu tạo từ đá đen và thép gai hiện ra trước mắt, thị giác phục hồi."
+      "target": "Phòng giam đơn sơ cấu tạo từ đá đen và cốt thép đập vào mắt, thị giác khôi phục."
     },
     {
-      "segment_id": "0076",
+      "segment_id": "80",
       "source": "就在韩东打算对神秘的监狱展开调查与分析，推断自己为何而重生，神秘监狱到底隐藏着什么样的秘密时。",
-      "target": "Ngay khi Hàn Đông định tiến hành điều tra và phân tích về ngục giam thần bí này, suy đoán xem tại sao mình lại trùng sinh, và ngục giam thần bí này rốt cuộc ẩn chứa bí mật gì."
+      "target": "Ngay lúc Hàn Đông định triển khai điều tra và phân tích nhà giam thần bí này, suy đoán vì sao mình lại trùng sinh, nhà giam thần bí rốt cuộc ẩn chứa bí mật gì."
     },
     {
-      "segment_id": "0077",
+      "segment_id": "81",
       "source": "嗡！整个人突然呆住。",
-      "target": "Ong! Cả người hắn bỗng sững sờ."
+      "target": "Ong! Cả người đột nhiên sững lại."
     },
     {
-      "segment_id": "0078",
+      "segment_id": "82",
       "source": "韩东单手撑着墙面，咬牙切齿而发出怒吼声！",
-      "target": "Hàn Đông một tay đỡ tường, nghiến răng nghiến lợi gầm lên một tiếng tức giận!"
+      "target": "Hàn Đông một tay chống vào mặt tường, nghiến răng nghiến lợi mà phát ra tiếng gầm thét!"
     },
     {
-      "segment_id": "0079",
+      "segment_id": "83",
       "source": "“哇……这家伙是个智障！”",
-      "target": "“Trời... tên này là đồ thiểu năng!”"
+      "target": "\"Oa... Tên này là một thằng thiểu năng!\""
     },
     {
-      "segment_id": "0080",
+      "segment_id": "84",
       "source": "完全占据了【坎贝尔.弗兰克】之后，韩东很不好受。",
-      "target": "Sau khi hoàn toàn chiếm giữ 【Campbell Frank】, Hàn Đông cảm thấy vô cùng khó chịu."
+      "target": "Sau khi hoàn toàn chiếm đoạt [Campbell Frank], Hàn Đông cảm thấy rất khó chịu."
     },
     {
-      "segment_id": "0081",
+      "segment_id": "85",
       "source": "由于五感的恢复从而得到周围的环境信息，在他进一步，打算通过大脑进行复杂的数据处理时，出了大问题！",
-      "target": "Do năm giác quan được khôi phục dẫn đến việc tiếp nhận thông tin môi trường xung quanh, khi hắn tiến thêm một bước, định thông qua não bộ để xử lý dữ liệu phức tạp thì đã xảy ra vấn đề lớn!"
+      "target": "Do ngũ quan khôi phục từ đó mà thu nhận được thông tin môi trường xung quanh, lúc hắn định tiến thêm một bước, thông qua não bộ tiến hành xử lý dữ liệu phức tạp, thì đã xảy ra vấn đề lớn!"
     },
     {
-      "segment_id": "0082",
-      "source": "韩东这位意识本体，可是知名大学生命科学院里最年轻 of 副教授，学霸级的存在。",
-      "target": "Bản thể ý thức này của Hàn Đông vốn là phó giáo sư trẻ tuổi nhất trong Viện Khoa học Sự sống của một trường đại học danh tiếng, là một sự tồn tại thuộc hàng học bá."
+      "segment_id": "86",
+      "source": "韩东这位意识本体，可是知名大学生命科学院里最年轻的副教授，学霸级的存在。",
+      "target": "Bản thể ý thức của Hàn Đông, lại là phó giáo sư trẻ tuổi nhất trong Học viện Khoa học Sự sống của đại học danh tiếng, một sự tồn tại cấp bậc học bá."
     },
     {
-      "segment_id": "0083",
+      "segment_id": "87",
       "source": "但意识归意识，当意识通过感官收集到数据、拟化出相关的处理公式，想要交给大脑进行处理时却出了大问题！",
-      "target": "Thế nhưng ý thức chỉ là ý thức, khi ý thức thông qua các giác quan thu thập dữ liệu, phác thảo ra các công thức xử lý liên quan và muốn giao cho não bộ xử lý thì đã xảy ra vấn đề lớn!"
+      "target": "Nhưng ý thức là ý thức, khi ý thức thông qua giác quan thu thập được dữ liệu, mô phỏng ra các công thức xử lý liên quan, muốn giao cho não bộ tiến hành xử lý thì lại xảy ra vấn đề lớn!"
     },
     {
-      "segment_id": "0084",
+      "segment_id": "88",
       "source": "就好像买了一张败家之眼2080ti的显卡，然而这样的顶级显卡却装在一台CPU仅为老版本I3处理器的主机中。",
-      "target": "Nó giống như việc bạn mua một chiếc card đồ họa khủng ROG 2080Ti, thế nhưng chiếc card đồ họa đỉnh cấp như vậy lại được lắp vào một thùng máy có CPU chỉ là bộ vi xử lý Core i3 đời cũ."
+      "target": "Cứ như là mua một cái card đồ họa ROG 2080Ti, thế nhưng cái card đồ họa đỉnh cấp như vậy lại được lắp vào một dàn máy tính có CPU chỉ là bộ vi xử lý i3 đời cũ."
     },
     {
-      "segment_id": "0085",
+      "segment_id": "89",
       "source": "问题更大的是，这处理器还进过水！！",
       "target": "Vấn đề lớn hơn là, bộ vi xử lý này còn từng bị vào nước!!"
     },
     {
-      "segment_id": "0086",
+      "segment_id": "90",
       "source": "因大量数据的引入，系统近乎崩溃。",
-      "target": "Do lượng lớn dữ liệu được truyền vào, hệ thống gần như sụp đổ."
+      "target": "Vì nạp vào một lượng lớn dữ liệu, hệ thống gần như sụp đổ."
     },
     {
-      "segment_id": "0087",
+      "segment_id": "91",
       "source": "韩东只能将眼睛闭上、嘴里默念大悲咒，尽可能减少外界信息摄取、尽可能将思绪放空！",
-      "target": "Hàn Đông chỉ đành nhắm hai mắt lại, miệng thầm niệm Chú Đại Bi, cố gắng giảm thiểu việc hấp thụ thông tin từ thế giới bên ngoài, và cố gắng thả lỏng tâm trí hết mức có thể!"
+      "target": "Hàn Đông chỉ có thể nhắm mắt lại, trong miệng lẩm nhẩm Chú Đại Bi, cố gắng hết mức để giảm thiểu việc tiếp thu thông tin từ thế giới bên ngoài, cố gắng hết sức để thả lỏng tâm trí!"
     },
     {
-      "segment_id": "0088",
+      "segment_id": "92",
       "source": "否则，这个智障的大脑必将因大量数据的引入而死机，甚至‘烧掉’。",
-      "target": "Nếu không, bộ não thiểu năng này chắc chắn sẽ bị đứng máy, thậm chí là 'bị chập mạch' vì lượng lớn dữ liệu được đưa vào."
+      "target": "Nếu không, bộ não của thằng thiểu năng này nhất định sẽ vì nạp vào một lượng lớn dữ liệu mà đơ máy, thậm chí là 'cháy khét'."
     },
     {
-      "segment_id": "0089",
+      "segment_id": "93",
       "source": "重生开局，西幻世界——新书期一天两更，希望大家多多投票。",
-      "target": "Khởi đầu trùng sinh, thế giới kỳ ảo phương Tây - Thời gian ra mắt sách mới mỗi ngày hai chương, hy vọng mọi người bình chọn thật nhiều."
+      "target": "Mở đầu trùng sinh, thế giới Tây huyễn - Thời kỳ sách mới mỗi ngày hai chương, hi vọng mọi người nhiệt tình bỏ phiếu."
     }
   ]
 }

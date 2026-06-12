@@ -13,3 +13,8 @@ Chapter 2 completed via pipeline.
 
 ### Summary
 Chapter 1 completed via pipeline.
+
+## Chapter 0001 - Chương 1: Nhà giam thần bí
+
+### Summary
+Chapter 1 completed via pipeline.

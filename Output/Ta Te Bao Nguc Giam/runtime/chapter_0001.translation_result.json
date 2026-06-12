@@ -1,10 +1,7 @@
-Here is the corrected JSON with all the leftover CJK punctuations and full-width spaces removed or properly localized into Vietnamese standard punctuation (such as replacing `『` `』` with quotes, `——` with a dash, `…………` with `...`, and removing full-width spaces ` `):
-
-```json
 {
-  "chapter_number": 1,
-  "chapter_title_vi": "Chương 1: Nhà giam thần bí",
-  "segments": [
+  "schema_version": "2.0",
+  "chapter_id": "chapter_0001",
+  "segment_translations": [
     {
       "segment_id": "1",
       "source": "# 第1章 神秘的监狱",
@@ -93,7 +90,7 @@ Here is the corrected JSON with all the leftover CJK punctuations and full-width
     {
       "segment_id": "18",
       "source": "…………",
-      "target": "..."
+      "target": "…………"
     },
     {
       "segment_id": "19",
@@ -178,7 +175,7 @@ Here is the corrected JSON with all the leftover CJK punctuations and full-width
     {
       "segment_id": "35",
       "source": "『请在监狱内挑选‘合适’的肉体，当前最大负重值为【100】。",
-      "target": "\"Vui lòng chọn thân xác 'phù hợp' trong nhà giam, giá trị tải trọng tối đa hiện tại là [100]."
+      "target": "『Vui lòng chọn thân xác 'phù hợp' trong nhà giam, giá trị tải trọng tối đa hiện tại là [100]."
     },
     {
       "segment_id": "36",
@@ -188,7 +185,7 @@ Here is the corrected JSON with all the leftover CJK punctuations and full-width
     {
       "segment_id": "37",
       "source": "非细胞形态下，不可搬动或转移其它的囚犯肉体。』",
-      "target": "Trong trạng thái không phải tế bào, không thể dời đi hoặc di chuyển thân xác của tù nhân khác.\""
+      "target": "Trong trạng thái không phải tế bào, không thể dời đi hoặc di chuyển thân xác của tù nhân khác.』"
     },
     {
       "segment_id": "38",
@@ -252,8 +249,8 @@ Here is the corrected JSON with all the leftover CJK punctuations and full-width
     },
     {
       "segment_id": "50",
-      "source": "“所谓的死亡穿越发生在了我的身上？而且，还穿越成了一团细胞集合体？真是讽刺啊。” \t\t \t\t韩东一生致力于细胞生物学的研究，在半年前于国际顶级期刊Cell上发表了一篇‘关于通过基因编码手段激活并控制细胞调节的作用’的文章。",
-      "target": "\"Cái gọi là tử vong xuyên việt đã xảy ra trên người mình? Hơn nữa, còn xuyên việt thành một khối tập hợp tế bào? Thật đúng là châm biếm a.\" Cả đời Hàn Đông cống hiến cho nghiên cứu sinh học tế bào, nửa năm trước đã đăng một bài báo về 'Tác dụng của việc kích hoạt và kiểm soát sự điều hòa tế bào thông qua phương pháp mã hóa gen' trên tạp chí học thuật hàng đầu quốc tế Cell."
+      "source": "“所谓的死亡穿越发生在了我的身上？而且，还穿越成了一团细胞集合体？真是讽刺啊。”      韩东一生致力于细胞生物学的研究，在半年前于国际顶级期刊Cell上发表了一篇‘关于通过基因编码手段激活并控制细胞调节的作用’的文章。",
+      "target": "\"Cái gọi là tử vong xuyên việt đã xảy ra trên người mình? Hơn nữa, còn xuyên việt thành một khối tập hợp tế bào? Thật đúng là châm biếm a.\"      Cả đời Hàn Đông cống hiến cho nghiên cứu sinh học tế bào, nửa năm trước đã đăng một bài báo về 'Tác dụng của việc kích hoạt và kiểm soát sự điều hòa tế bào thông qua phương pháp mã hóa gen' trên tạp chí học thuật hàng đầu quốc tế Cell."
     },
     {
       "segment_id": "51",
@@ -268,7 +265,7 @@ Here is the corrected JSON with all the leftover CJK punctuations and full-width
     {
       "segment_id": "53",
       "source": "…………",
-      "target": "..."
+      "target": "…………"
     },
     {
       "segment_id": "54",
@@ -368,12 +365,12 @@ Here is the corrected JSON with all the leftover CJK punctuations and full-width
     {
       "segment_id": "73",
       "source": "『请确认你是否要获得「坎贝尔.弗兰克」的全部肉体？所需负重值77。』",
-      "target": "\"Vui lòng xác nhận bạn có muốn nhận được toàn bộ thân xác của 'Campbell Frank' hay không? Giá trị tải trọng cần thiết: 77.\""
+      "target": "『Vui lòng xác nhận bạn có muốn nhận được toàn bộ thân xác của \"Campbell Frank\" hay không? Giá trị tải trọng cần thiết: 77.』"
     },
     {
       "segment_id": "74",
       "source": "『是！』",
-      "target": "\"Có!\""
+      "target": "『Có!』"
     },
     {
       "segment_id": "75",
@@ -468,8 +465,7 @@ Here is the corrected JSON with all the leftover CJK punctuations and full-width
     {
       "segment_id": "93",
       "source": "重生开局，西幻世界——新书期一天两更，希望大家多多投票。",
-      "target": "Mở đầu trùng sinh, thế giới Tây huyễn - Thời kỳ sách mới mỗi ngày hai chương, hi vọng mọi người nhiệt tình bỏ phiếu."
+      "target": "Mở đầu trùng sinh, thế giới Tây huyễn —— Thời kỳ sách mới mỗi ngày hai chương, hi vọng mọi người nhiệt tình bỏ phiếu."
     }
   ]
 }
-```
