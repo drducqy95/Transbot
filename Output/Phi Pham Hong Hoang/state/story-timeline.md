@@ -48,3 +48,8 @@ Chapter 7 completed via pipeline.
 
 ### Summary
 Chapter 8 completed via pipeline.
+
+## Chapter 0009 - Chương 9: Đỉnh thiên lập địa Bất Chu sơn
+
+### Summary
+Chapter 9 completed via pipeline.
