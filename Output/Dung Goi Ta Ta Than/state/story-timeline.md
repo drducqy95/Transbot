@@ -368,3 +368,8 @@ Chapter 37 completed via pipeline.
 
 ### Summary
 Chapter 38 completed via pipeline.
+
+## Chapter 0039 - Chương 39: Desley
+
+### Summary
+Chapter 39 completed via pipeline.

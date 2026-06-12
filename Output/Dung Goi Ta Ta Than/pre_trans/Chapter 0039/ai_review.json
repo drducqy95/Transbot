@@ -1,0 +1,37 @@
+Dưới đây là kết quả đánh giá các thuật ngữ cho bản dịch dựa trên ngữ cảnh câu chuyện và hệ thống thuật ngữ sẵn có (đặc biệt là việc thống nhất dịch *Arcane* - **奥/奥法/奥术** thành **Huyền thuật** thay vì *Áo thuật* hay lỗi dịch thô *O Thuật*):
+
+### Danh sách đánh giá các thuật ngữ (JSON)
+
+```json
+{
+  "approved": [
+    {
+      "term": "奥术飞弹",
+      "translation": "【Đạn Huyền Thuật】",
+      "alternative_translation": "【Phi Đạn Huyền Thuật】",
+      "reason": "Phù hợp với thuật ngữ thống nhất trong truyện (Arcane -> Huyền thuật, xem thêm ở phân khoa [Trường phái Huyền thuật] hay [Học viện Huyền thuật Hoàng gia Rayak] trong [Glossary.md](file:///mnt/sdcard/My%20Agent/Transbot/Output/Dung%20Goi%20Ta%20Ta%20Than/state/Glossary.md#L13)). Đồng thời sửa lỗi dịch thô/typo cũ ở các chương trước."
+    },
+    {
+      "term": "点名一下一个",
+      "translation": "mỗi phát hạ gục một tên",
+      "alternative_translations": [
+        "bắn hạ từng mục tiêu một",
+        "gọi tên hạ gục từng đứa"
+      ],
+      "reason": "Đây là tiếng lóng chiến đấu/game (chỉ việc đứng từ xa xả chiêu điểm mặt hạ gục từng mục tiêu dễ dàng). Dịch thoát nghĩa theo ngữ cảnh để câu văn tự nhiên."
+    }
+  ],
+  "rejected": [
+    {
+      "term": "奥术飞弹",
+      "translation": "【O Thuật Phi Đạn】",
+      "reason": "Chứa lỗi dịch thô (typo) từ chữ '奥' (Áo/Huyền) thành chữ 'O' tại [translated_segments.json (Chương 14)](file:///mnt/sdcard/My%20Agent/Transbot/Output/Dung%20Goi%20Ta%20Ta%20Than/audit/Chapter%200014/translated_segments.json#L139), không đồng bộ với từ gốc và hệ thống thuật ngữ chung."
+    }
+  ],
+  "uncertain": []
+}
+```
+
+### Điểm nhấn ngữ cảnh trong truyện
+* **奥术飞弹 (Arcane Missiles):** Đã được đính chính và sử dụng đồng bộ là **【Đạn Huyền Thuật】** kể từ [Chương 21](file:///mnt/sdcard/My%20Agent/Transbot/Output/Dung%20Goi%20Ta%20Ta%20Than/audit/Chapter%200021/segments.json#L59) và [Chương 22](file:///mnt/sdcard/My%20Agent/Transbot/Output/Dung%20Goi%20Ta%20Ta%20Than/audit/Chapter%200022/segments.json#L11).
+* **点名一下一个:** Ở [Chương 39 - source.md](file:///mnt/sdcard/My%20Agent/Transbot/Output/Dung%20Goi%20Ta%20Ta%20Than/pre_trans/Chapter%200039/source.md#L46), câu thoại đề cập: *"没看人家【奥术飞弹】点名一下一个吗？"*. Bản dịch đề xuất: *"Không thấy 【Đạn Huyền Thuật】 của người ta mỗi phát hạ gục một tên sao?"* hoặc *"Không thấy người ta dùng 【Đạn Huyền Thuật】 bắn hạ từng đứa một sao?"*.
