@@ -5,3 +5,4 @@
 - 2026-06-12 13:21 | Chapter 5 | completed | Chương 0005 - 0005 任务（求推荐！）.md
 - 2026-06-12 13:58 | Chapter 6 | completed | Chương 0006 - Chương 6 Bất ngờ.md
 - 2026-06-12 14:25 | Chapter 7 | completed | Chương 0007 - Chương 7 Tát Mãn Vu.md
+- 2026-06-12 14:44 | Chapter 8 | completed | Chương 0008 - Chương 8 Kiến bám.md

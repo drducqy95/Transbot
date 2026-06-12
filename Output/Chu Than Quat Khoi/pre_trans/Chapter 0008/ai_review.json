@@ -1,0 +1,14 @@
+```json
+{
+  "approved": [],
+  "rejected": [
+    "主神殿的提",
+    "击杀图鲁勇士"
+  ],
+  "uncertain": []
+}
+```
+
+### Reasoning:
+*   **`主神殿的提`**: This appears to be an incomplete phrase (likely cut off from something like "主神殿的提示", meaning "Main Temple's hint/prompt"). 
+*   **`击杀图鲁勇士`**: This is a verb phrase meaning "Kill/Slay Tulu Warrior". Glossary terms should typically be nouns or proper nouns. I would recommend extracting just **`图鲁勇士`** (Tulu Warrior) as the term for your glossary instead.
