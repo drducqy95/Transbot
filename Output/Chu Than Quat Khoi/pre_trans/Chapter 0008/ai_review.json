@@ -1,0 +1,18 @@
+```json
+{
+  "approved": [],
+  "rejected": [
+    {
+      "item": "主神殿的提",
+      "type": "term",
+      "reason": "Appears to be an incomplete fragment. It is likely missing characters at the end (e.g., '提示' for 'hint/prompt', or it got cut off from a longer name/title)."
+    },
+    {
+      "item": "击杀图鲁勇士",
+      "type": "term",
+      "reason": "This is a verb phrase ('Kill Tulu Warrior' or 'Slay Tulu Warrior') rather than a distinct glossary noun term. It is recommended to extract just the entity '图鲁' (Tulu) or '图鲁勇士' (Tulu Warrior) instead."
+    }
+  ],
+  "uncertain": []
+}
+```

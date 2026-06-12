@@ -73,3 +73,8 @@ Chapter 10 completed via pipeline.
 
 ### Summary
 Chapter 11 completed via pipeline.
+
+## Chapter 0011 - Chương 11: Kế hoạch của thủ lĩnh ẩn sau
+
+### Summary
+Chapter 11 completed via pipeline.

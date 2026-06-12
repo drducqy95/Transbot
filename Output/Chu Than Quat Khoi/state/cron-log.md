@@ -13,3 +13,4 @@
 - 2026-06-12 16:57 | Chapter 5 | completed | Chương 0005 - 0005 任务（求推荐！）.md
 - 2026-06-12 17:54 | Chapter 5 | completed | Chương 0005 - 0005 任务（求推荐！）.md
 - 2026-06-12 18:30 | Chapter 5 | completed | Chương 0005 - 0005 任务（求推荐！）.md
+- 2026-06-12 18:48 | Chapter 8 | completed | Chương 0008 - Chương 8 Kiến bám (Cầu cất chứa!).md

@@ -1,13 +1,18 @@
+```json
 {
-  "names": [],
-  "terms": [
-    {
-      "item": "全民大穿越",
-      "status": "uncertain"
-    },
-    {
-      "item": "里的，在那里",
-      "status": "uncertain"
-    }
-  ]
+  "names": {
+    "approved": [],
+    "rejected": [],
+    "uncertain": []
+  },
+  "terms": {
+    "approved": [
+      "全民大穿越"
+    ],
+    "rejected": [
+      "里的，在那里"
+    ],
+    "uncertain": []
+  }
 }
+```

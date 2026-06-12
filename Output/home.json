@@ -63,7 +63,7 @@
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Chu Than Dai Dao/README.md",
       "toc_path": "Output/Chu Than Dai Dao/toc.json",
-      "updated_at": "2026-06-12T18:24:42+07:00"
+      "updated_at": "2026-06-12T18:47:17+07:00"
     },
     {
       "branch": "Chu Than Quat Khoi",
@@ -109,11 +109,11 @@
           "title": "Huyền ảo"
         }
       ],
-      "completed_chapters": 9,
+      "completed_chapters": 10,
       "total_chapters": 852,
-      "latest_chapter": "0005 任务（求推荐！）",
+      "latest_chapter": "Chương 8: Kiến bám (Cầu cất chứa!)",
       "detail": "Tiến độ: 7/852 chương | Mới nhất: Chương 4: Đồng đội (Cầu cất chứa!!!)",
-      "updated_at": "2026-06-12T18:30:48+07:00",
+      "updated_at": "2026-06-12T18:48:02+07:00",
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Chu Than Quat Khoi/README.md",
       "toc_path": "Output/Chu Than Quat Khoi/toc.json"
@@ -971,7 +971,7 @@
     }
   ],
   "metadata": {
-    "generated_at": "2026-06-12T18:47:15+07:00",
+    "generated_at": "2026-06-12T18:48:02+07:00",
     "total_books": 17,
     "source": "Dichtrung/Output"
   },
