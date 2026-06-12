@@ -37,7 +37,7 @@ Phốc...
 Một tiếng động khẽ bỗng nhiên vang lên trong đầu La Phàm.
 Tiếng động khẽ này tuy chỉ là nhẹ nhàng, nhưng lại giống như khai thiên lập địa, trong nháy mắt kéo La Phàm ra khỏi cảm giác khó tả kia, giật mình tỉnh lại.
 “Chuyện này là thế nào?” Trong lòng La Phàm vừa kinh ngạc vừa nghi ngờ.
-Hân cảm thấy trong cơ thể mình có thêm một thứ trước kia vốn không tồn tại, hoặc là thứ hắn vốn không cảm giác được!
+Hắn cảm thấy trong cơ thể mình có thêm một thứ trước kia vốn không tồn tại, hoặc là thứ hắn vốn không cảm giác được!
 Chăm chú cảm nhận thứ đó một hồi, bỗng nhiên một trận trời đất quay cuồng, ý niệm của hắn đã tiến vào một nơi kỳ lạ.
 
 Xung quanh xám xịt một màu, tựa như hỗn độn. Mà bản thân hắn lại biến thành một tồn tại vô cùng quái dị. Cúi đầu nhìn lại, một con Tỳ Hưu nhỏ chỉ bằng nắm tay, sống động như thật chính là thân thể lúc này của hắn. Con Tỳ Hưu nhỏ này toàn thân hỗn hỗn độn độn, trạng thái nửa trong suốt nửa hư nửa thực, vô cùng linh hoạt, vô cùng đáng yêu.
@@ -48,7 +48,7 @@ Cho nên không gian xám xịt tựa như hỗn độn này lại là nơi đ�
 
 Ý niệm ở trong thứ không biết là thần hồn hay nguyên thần này mang lại cảm giác vô cùng kỳ diệu, giống như trút bỏ mọi xiềng xích, trở nên vô cùng nhẹ nhàng, vô cùng tự tại.
 Run rẩy thân mình, không gian xám xịt xung quanh rung động một hồi, dần dần tản đi.
-Không lâu sau, liền trống ra một khu vực hư vô hình cầu có đường kính một mét kia.
+Không lâu sau, liền trống ra một khu vực hư vô hình cầu có đường kính một mét.
 Hoạt động thân thể một chút rồi đi tới biên giới của khu vực hình cầu này, muốn bước ra ngoài, lại tựa như va phải một bức tường không thể kháng cự.
 Mạnh mẽ va vào, một luồng thông tin huyền diệu bỗng nhiên tràn vào ý niệm của La Phàm.
 Đi kèm với luồng thông tin huyền diệu này, La Phàm trong nháy mắt hiểu rõ vị trí lúc này của mình, cũng hiểu rõ trạng thái hiện tại của mình là trạng thái gì.
