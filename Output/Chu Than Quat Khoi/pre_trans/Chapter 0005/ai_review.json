@@ -1,14 +1,1 @@
-I will explore the codebase to understand the context of the translation project and find existing glossary terms or translation scripts.
-I will read the `README.md` file to understand the project structure and goals.
-I will list the contents of the `Script` directory to see the translation scripts.
-I will search for occurrences of terms like "approved", "rejected", or "uncertain" in the codebase to see if there is a predefined format or script handling this.
-I will search for the string "approved" or "rejected" in `Script/transbot_pipeline.py` to see how it structures the glossary review process.
-I will read one of the `ai_review.json` files to see the typical format of the JSON output and how the terms are approved/rejected/uncertain.
-I will read the `ai_review.json` file using the correct path with spaces instead of URL encoding.
-I will run a command to check git status and the latest git commits to find the active branch and context of this translation project.
-I will view the modified `glossary_scan.json` file in "Chu Than Quat Khoi" to see if it lists these terms.
-I will list the files in the Chapter 5 pre-translation directory of "Chu Than Quat Khoi" to find the source text of the chapter.
-I will read the source text of Chapter 5 (`source.md`) to see the context of the terms in the raw Chinese text.
-I will search for `ai_review.json` files in the "Chu Than Quat Khoi" folder to understand how terms with punctuation or partial phrases were processed.
-I will search for `"uncertain": [` in any existing `ai_review.json` files to see how uncertain items are structured and what categories they fit into.
-I will view the `ai_review.json` file of Chapter 5 in "Ta Te Bao Nguc Giam" to see how they format their json structure.
+{"names":{"approved":[],"rejected":[],"uncertain":[]},"terms":{"approved":["主线任务开启","本次任务场景"],"rejected":[{"text":"一个信息在","reason":"ungrammatical fragment"}],"uncertain":[{"text":"“大夏？！","reason":"proper name + truncated quote"},{"text":"任务目标：在","reason":"truncated"},{"text":"即时任务：到","reason":"truncated"},{"text":"叮！主线任务","reason":"incomplete notification"},{"text":"场景介绍：大","reason":"truncated"},{"text":"支线任务：击","reason":"truncated"}]}}

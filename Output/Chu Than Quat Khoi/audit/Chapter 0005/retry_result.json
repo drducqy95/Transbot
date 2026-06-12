@@ -1,15 +1,1 @@
-translation → extend length, add context, keep meaning.  
-
-```json
-{
-  "chapter_number": 5,
-  "chapter_title_vi": "Chương 5: Nhiệm vụ (Yêu cầu đề xuất!)",
-  "segments": [
-    {
-      "id": 1,
-      "source": "Task description goes here...",
-      "translation_vi": "Mô tả nhiệm vụ: ... (bổ sung chi tiết, giải thích mục tiêu, yêu cầu và gợi ý thực hiện để đoạn văn đủ độ dài và rõ ràng)."
-    }
-  ]
-}
-```
+Error: timed out waiting for response
