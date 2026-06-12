@@ -428,3 +428,8 @@ Chapter 49 completed via pipeline.
 
 ### Summary
 Chapter 50 completed via pipeline.
+
+## Chapter 0051 - Chương 51: Trổ hết thần thông
+
+### Summary
+Chapter 51 completed via pipeline.

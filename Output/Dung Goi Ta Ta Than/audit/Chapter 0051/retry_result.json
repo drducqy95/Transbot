@@ -1,0 +1,140 @@
+Here is the corrected translation JSON with all CJK leftover brackets (`【` and `】`) replaced with standard square brackets (`[` and `]`):
+
+```json
+{
+  "chapter_number": 51,
+  "chapter_title_vi": "Chương 51: Trổ hết thần thông",
+  "segments": [
+    {
+      "segment_id": "0001",
+      "source": "跟随培特的队伍构成里大部分都是体质脆弱的法师。\n不擅长正面跟血牙帮的混混硬碰硬。\n这些血牙帮普通成员的强势之处主要在于攻击势大力沉、外加自身更加耐打。\n不过他们的行动并不算多么灵敏，只是肉体强度——俗称抗击打能力得到了巨大提升。",
+      "target": "Phần lớn thành viên trong đội ngũ đi theo Pete đều là các Pháp Sư có thể chất yếu ớt.\nHọ không giỏi đối đầu trực diện hay va chạm cứng với đám tay sai của băng Bloodfang.\nĐiểm mạnh của các thành viên thông thường thuộc băng Bloodfang chủ yếu nằm ở các đòn tấn công mạnh mẽ, nặng nề, cộng thêm bản thân có khả năng chịu đòn tốt hơn.\nTuy nhiên, hành động của họ không quá nhanh nhẹn, chỉ có cường độ cơ thể — thường gọi là khả năng chống chịu va đập — được nâng cao đáng kể."
+    },
+    {
+      "segment_id": "0002",
+      "source": "于是培特开动脑筋，想出了这个简单又实用的“套麻袋，接飞弹淹没”战术。\n靠着【状态显示】先锁定路上那些落单的血牙帮成员身份。\n不急着动手，而是先一路尾随，等待对方产生犯罪行为。\n如果只是直接将其击败的话，只能拿到基础的击败奖励，想拿到阻止犯罪的正义点数，就要有确凿的证据。\n俗称，放长线钓大鱼。",
+      "target": "Vì thế, Pete đã động não và nghĩ ra một chiến thuật đơn giản nhưng thực dụng: \"trùm bao tải, dội phi đạn dồn dập\".\nNhờ vào [Hiển Thị Trạng Thái], trước tiên cậu khóa định thân phận của những thành viên băng Bloodfang đi lẻ loi trên đường.\nCậu không vội ra tay mà bám theo suốt chặng đường, chờ đợi đối phương thực hiện hành vi phạm tội.\nNếu chỉ trực tiếp đánh bại đối phương, họ chỉ nhận được phần thưởng đánh bại cơ bản. Muốn nhận được Điểm Chính Nghĩa từ việc ngăn chặn tội phạm, họ cần phải có bằng chứng xác thực.\nNói cách khác, chính là thả dây dài câu cá lớn."
+    },
+    {
+      "segment_id": "0003",
+      "source": "等到抓住机会，培特带领的队伍也不会尝试近身，而是由他和盖尔俩人使用【法师之手】戏法，提着麻袋往人身上一套！\n法师之手是完全悬浮在空中的奥术构造体，行动起来无声无息，很难被人注意，完美契合了套麻袋战术的隐蔽度要求。",
+      "target": "Chờ đến khi nắm bắt được cơ hội, đội ngũ do Pete dẫn đầu cũng không cố gắng cận chiến, mà do cậu and Gael cùng sử dụng hí pháp [Bàn Tay Pháp Sư], nhấc bao tải lên trùm thẳng vào đầu đối phương!\n[Bàn Tay Pháp Sư] là một cấu trúc bí thuật lơ lửng hoàn toàn trong không trung, hành động không tiếng động, rất khó bị chú ý, hoàn toàn phù hợp với yêu cầu ẩn mật của chiến thuật trùm bao tải."
+    },
+    {
+      "segment_id": "0004",
+      "source": "再然后，便是法师队伍众人的【奥术飞弹】齐射！\n十几发【奥术飞弹】齐射上去，就算是2阶的身体强度都得栽个跟头，何况是只有1阶实力的血牙帮普通成员。",
+      "target": "Sau đó, chính là màn đồng loạt bắn [Phi Đạn Bí Thuật] của mọi người trong đội ngũ Pháp Sư!\nMười mấy phát [Phi Đạn Bí Thuật] bắn cùng lúc, ngay cả kẻ có cường độ cơ thể cấp 2 cũng phải ngã nhào, huống chi là thành viên thông thường chỉ có thực lực cấp 1 của băng Bloodfang."
+    },
+    {
+      "segment_id": "0005",
+      "source": "这样的战术，现阶段只有诺文的信徒们能用出来。\n原因很简单。\n换了其他人，没有人闲着没事花费重金雇佣十几位1阶法师，就为了让他们放【奥术飞弹】！",
+      "target": "Chiến thuật như vậy, ở giai đoạn hiện tại chỉ có các tín đồ của Norven mới dùng được.\nNguyên nhân rất đơn giản.\nNếu là người khác, chẳng ai rảnh rỗi tiêu tốn số tiền lớn để thuê mười mấy Pháp Sư cấp 1 chỉ để bảo họ bắn [Phi Đạn Bí Thuật]!"
+    },
+    {
+      "segment_id": "0006",
+      "source": "真正的法师阁下能为一个队伍提供全方面的帮助，属于全能型人才。\n上到火球术之类的攻击魔法。\n下到造餐术之类的生活魔法。\n让一名法师用每天有限的法术位放【奥术飞弹】去解决敌人的杂兵，属于一种严重的浪费。",
+      "target": "Một vị Pháp Sư thực sự có thể cung cấp sự hỗ trợ toàn diện cho một đội ngũ, thuộc về nhân tài toàn năng.\nTừ ma pháp tấn công như Hỏa Cầu Thuật.\nĐến ma pháp sinh hoạt như Tạo Thực Thuật.\nĐể một Pháp Sư sử dụng Pháp thuật vị có hạn mỗi ngày để bắn [Phi Đạn Bí Thuật] nhằm giải quyết đám lính lác của kẻ địch là một sự lãng phí nghiêm trọng."
+    },
+    {
+      "segment_id": "0007",
+      "source": "传统法师的每一个法术位都很宝贵。\n当然，诺文的信徒们情况不同。\n没有法术位限制，用起魔法来根本不带心疼的；\n而且，现在这些选择法师路线的信徒们基本也只会【奥术飞弹】这个魔法，其他的还没来得及学习。\n极度偏科。",
+      "target": "Mỗi một Pháp thuật vị của Pháp Sư truyền thống đều vô cùng quý giá.\nTất nhiên, các tín đồ của Norven thì khác.\nHọ không bị giới hạn bởi Pháp thuật vị, dùng ma pháp mà chẳng hề xót ruột chút nào;\nHơn nữa, hiện tại những tín đồ chọn con đường Pháp Sư này cơ bản cũng chỉ biết mỗi ma pháp [Phi Đạn Bí Thuật], các phép khác vẫn chưa kịp học.\nHọc lệch một cách cực đoan."
+    },
+    {
+      "segment_id": "0008",
+      "source": "这种偏科，眼下却起到了奇效。\n培特大力发挥了求知教派法师们特色：\n人多就是正义！\n数量就是真理！",
+      "target": "Sự học lệch này vào lúc này lại mang lại hiệu quả kỳ diệu.\nPete đã phát huy tối đa đặc trưng của các Pháp Sư thuộc Giáo phái Cầu Tri:\nĐông người chính là chính nghĩa!\nSố lượng chính là chân lý!"
+    },
+    {
+      "segment_id": "0009",
+      "source": "套麻袋短暂控住对方，令其暂时无法反抗。\n紧接着，大量魔法饱和式轰炸！\n既然偏科，那就把偏科的特点利用到极致！",
+      "target": "Trùm bao tải để khống chế đối phương trong thời gian ngắn, khiến kẻ đó tạm thời không thể phản kháng.\nNgay sau đó là một lượng lớn ma pháp oanh tạc bão hòa!\nĐã lệch tủ thì cứ tận dụng triệt để đặc điểm lệch tủ này đến cực hạn!"
+    },
+    {
+      "segment_id": "0010",
+      "source": "这套流程下来，除了每次行动后都要休息一阵子恢复精神力，几乎没有缺点。\n比起布兰登那种只知道正面对抗，跟人拳拳到肉的笨蛋战术对比起来，培特队伍的效率和安全性无疑更高。\n……",
+      "target": "Quy trình này vận hành trơn tru, ngoại trừ việc sau mỗi lần hành động đều phải nghỉ ngơi một lát để khôi phục tinh thần lực, thì hầu như không có nhược điểm nào.\nSo với chiến thuật ngốc nghếch chỉ biết đối đầu trực diện, đấm đá man dại giáp lá cà của Brandon, hiệu suất và độ an toàn của đội ngũ Pete rõ ràng cao hơn nhiều.\n..."
+    },
+    {
+      "segment_id": "0011",
+      "source": "至于蕾娜带领的队伍，信徒们更多选择的是潜行者、游侠这两条职业路线。\n正面对抗能力同样不强，而且也没有法师们那样强力的远程攻击手段。\n不过蕾娜很快也找到了适合她的队伍的战术。",
+      "target": "Về phần đội ngũ do Lena dẫn đầu, các tín đồ đa phần lựa chọn hai con đường chức nghiệp là Tiềm Hành Giả và Du Hiệp.\nKhả năng đối đầu trực diện của họ cũng không mạnh, hơn nữa lại không có phương thức tấn công tầm xa mạnh mẽ như các Pháp Sư.\nTuy nhiên, Lena cũng nhanh chóng tìm ra chiến thuật phù hợp với đội ngũ của mình."
+    },
+    {
+      "segment_id": "0012",
+      "source": "潜行者和游侠们最擅长的自然是偷袭、暗杀以及——布设陷阱！\n潜行者路线的信徒们在掌握了暗影能量后，能从诺文这里花费15知识点数兑换到的第一个战技名为【影袭】。\n效果是能够让下次攻击拥有暗影能量的加持，造成更容易穿透护甲的伤害。",
+      "target": "Tiềm Hành Giả và Du Hiệp sở trường nhất tự nhiên là đánh lén, ám sát cùng với —— bố trí cạm bẫy!\nTín đồ theo con đường Tiềm Hành Giả sau khi nắm giữ năng lượng bóng tối, có thể tiêu tốn 15 Điểm Tri Thức chỗ Norven để đổi lấy chiến kỹ đầu tiên mang tên [Ảnh Kích].\nHiệu quả của nó là giúp đòn tấn công tiếp theo có thêm sự gia trì của năng lượng bóng tối, gây ra sát thương dễ dàng xuyên thấu giáp bảo hộ hơn."
+    },
+    {
+      "segment_id": "0013",
+      "source": "据称，战士们需要掌握的第一个战技【英勇打击】便是模仿自【影袭】，只不过将暗影能量平替成了怒气。\n当然，战士公会的人一直没有正面承认过这点就是了。",
+      "target": "Nghe nói chiến kỹ đầu tiên mà các Chiến Sĩ cần nắm vững là [Đòn Đánh Anh Dũng] chính là mô phỏng từ [Ảnh Kích], chỉ là thay thế năng lượng bóng tối bằng nộ khí.\nTất nhiên, người của Hội Chiến Sĩ chưa bao giờ chính diện thừa nhận điều này."
+    },
+    {
+      "segment_id": "0014",
+      "source": "游侠职业在诺文这里兑换到的战技名为【伪装术】。\n效果类似于潜行者的【潜行】，但区别在于，伪装术并不能进入隐形状态，而是尽可能融入周遭的环境，不容易被人察觉。",
+      "target": "Chiến kỹ của chức nghiệp Du Hiệp đổi được ở chỗ Norven có tên là [Thuật Ngụy Trang].\nHiệu quả của nó tương tự như kỹ năng [Tiềm Hành] của Tiềm Hành Giả, nhưng điểm khác biệt là [Thuật Ngụy Trang] không thể khiến bản thân đi vào trạng thái tàng hình, mà là cố gắng hòa nhập vào môi trường xung quanh hết mức có thể để không dễ bị phát hiện."
+    },
+    {
+      "segment_id": "0015",
+      "source": "【伪装术】的特点在于，这个战技不仅是游侠用于伪装自己，还可以用来伪装他布置的各类陷阱。\n结合两职业的特点，蕾娜想到了对应的战术。",
+      "target": "Đặc điểm của [Thuật Ngụy Trang] là chiến kỹ này không chỉ giúp Du Hiệp ngụy trang bản thân, mà còn có thể dùng để ngụy trang các loại cạm bẫy mà họ bố trí.\nKết hợp đặc điểm của hai chức nghiệp này, Lena đã nghĩ ra chiến thuật tương ứng."
+    },
+    {
+      "segment_id": "0016",
+      "source": "血牙帮的普通成员们平时干了不少坏事。\n挨家挨户强收所谓的“保护费”，以及——抢劫他们看不顺眼的家伙。",
+      "target": "Các thành viên thông thường của băng Bloodfang ngày thường làm không ít chuyện xấu xa.\nGõ cửa từng nhà để cưỡng đoạt cái gọi là \"phí bảo kê\", và —— cướp bóc những kẻ mà họ ngứa mắt."
+    },
+    {
+      "segment_id": "0017",
+      "source": "有不少血牙帮的混混都沉迷于帮派开设的赌场，手里根本留不下钱，稍微有点闲钱就会丢上赌桌换成筹码，然后可能只要一夜时间就能输个精光。\n保护费大部分要上交帮派，自己拿不到多少，而且也不能天天去收。\n但是抢劫这种“赚外快”的办法就不一样了。",
+      "target": "Có không ít tên côn đồ băng Bloodfang chìm đắm trong sòng bạc do bang hội mở, trong tay căn bản không giữ nổi tiền. Hễ có chút tiền lẻ là sẽ ném lên bàn đánh bạc để đổi thành chip, sau đó có khi chỉ cần một đêm là thua sạch sành sanh.\nPhần lớn phí bảo kê phải nộp lên cho bang hội, bản thân họ chẳng giữ lại được bao nhiêu, vả lại cũng không thể ngày nào cũng đi thu.\nNhưng phương thức \"kiếm thêm\" như cướp bóc thì lại khác."
+    },
+    {
+      "segment_id": "0018",
+      "source": "在血牙帮赌场旁边那些不容易被人发现的小巷子，便是抢劫事件的高发地点。\n对血牙帮罪恶勾当有不少了解的蕾娜自然想到了利用这点！\n守株待兔。",
+      "target": "Những con hẻm nhỏ khó lòng phát hiện bên cạnh sòng bạc của băng Bloodfang chính là nơi thường xuyên xảy ra các vụ cướp bóc.\nVốn hiểu biết khá rõ về những hành vi tội ác của băng Bloodfang, Lena tự nhiên nghĩ đến việc lợi dụng điểm này!\nÔm cây đợi thỏ."
+    },
+    {
+      "segment_id": "0019",
+      "source": "提前在小巷子里布设好各种套索陷阱，潜行者们也纷纷进入【潜行】状态，安静地等待着猎物上钩。\n没等多久，一名眼窝深陷、流里流气的血牙帮混混“勾肩搭背”地强行拖着一个倒霉蛋走进小巷。",
+      "target": "Họ dựng sẵn đủ loại bẫy thòng lọng trong ngõ nhỏ từ trước, các Tiềm Hành Giả cũng lần lượt tiến vào trạng thái [Tiềm Hành], im lặng chờ đợi con mồi cắn câu.\nKhông đợi bao lâu, một tên côn đồ băng Bloodfang mắt trũng sâu, trông lưu manh, đang \"bá cổ khoác vai\" cưỡng ép kéo một kẻ xui xẻo đi vào con hẻm."
+    },
+    {
+      "segment_id": "0020",
+      "source": "“小子，不想吃苦头的话，借我点钱花花，等回头我手头宽裕了再还你啊。”\n血牙帮混混沉声威胁。",
+      "target": "\"Nhóc con, nếu không muốn chịu khổ thì cho tao mượn ít tiền tiêu xài đi, khi nào tay tao dư dả sẽ trả lại cho mày sau.\"\nTên côn đồ băng Bloodfang trầm giọng đe dọa."
+    },
+    {
+      "segment_id": "0021",
+      "source": "刚从哆哆嗦嗦 of 受害者手里接过钱袋，他还没来得及清点数目，便觉两只脚脖处猛地一紧！\n套索陷阱触发！\n毫无防备之下，混混顿时失去平衡向后倒去。",
+      "target": "Hắn vừa run rẩy nhận lấy túi tiền từ tay nạn nhân, còn chưa kịp kiểm đếm số lượng thì đột nhiên cảm thấy hai cổ chân thắt chặt lại!\nBẫy thòng lọng được kích hoạt!\nDưới sự phòng bị bằng không, tên côn đồ lập tức mất thăng bằng ngã ngửa ra sau."
+    },
+    {
+      "segment_id": "0022",
+      "source": "他还来不及查看情况，蕾娜的娇喝声已经响起：\n“就是现在，动手！”\n数名潜行者显露身形，手中泛着幽幽灰光的匕首朝着混混身体的各个要害刺来！",
+      "target": "Hắn còn chưa kịp xem xét tình hình, tiếng quát khẽ của Lena đã vang lên:\n\"Chính là lúc này, ra tay!\"\nMấy Tiềm Hành Giả lộ ra thân ảnh, dao găm trong tay tỏa ra ánh xám u ám đâm thẳng vào các vị trí hiểm yếu trên người tên côn đồ!"
+    },
+    {
+      "segment_id": "0023",
+      "source": "因为过去便饱受血牙帮骚扰，现在又知道血牙帮与邪神有染，没有了心理负担，蕾娜下手是最狠的。\n布兰登和培特还会稍微注意一下给对方留口气，蕾娜这边则是直接下了死手！",
+      "target": "Bởi vì quá khứ từng chịu đủ sự quấy rối của băng Bloodfang, giờ lại biết băng Bloodfang có liên quan đến tà thần, không còn gánh nặng tâm lý nào nữa, Lena ra tay là tàn nhẫn nhất.\nBrandon và Pete còn hơi chú ý để lại cho đối phương một hơi thở, còn phía Lena thì trực tiếp hạ sát thủ!"
+    },
+    {
+      "segment_id": "0024",
+      "source": "加持【影袭】的匕首攻击轻易地穿透了对方的皮肤，直接在血牙帮混混身上捅了个对穿！\n灰刀子进，红刀子出！\n刺杀方面，潜行者的优势是其他职业完全无法比拟的。\n只要防御出现漏洞，一击毙命都有可能！",
+      "target": "Đòn tấn công bằng dao găm được gia trì [Ảnh Kích] dễ dàng xuyên qua da thịt đối phương, trực tiếp đâm lút qua người tên côn đồ băng Bloodfang!\nDao xám cắm vào, dao đỏ rút ra!\nVề mặt ám sát, ưu thế của Tiềm Hành Giả là thứ mà các chức nghiệp khác hoàn toàn không thể so bì.\nChỉ cần phòng ngự xuất hiện sơ hở, việc nhất kích đoạt mạng là hoàn toàn có thể!"
+    },
+    {
+      "segment_id": "0025",
+      "source": "【阻止犯罪行为，根据贡献程度，正义点数+30】\n【击败血牙帮1阶成员，根据贡献程度，正义点数+30】\n两条提示传来，确认不用再补刀后，蕾娜顺手将受害者的钱袋丢回给对方，挑了下眉毛，提醒道：\n“愣着干嘛？你安全了。”\n“哦对，还有，这家伙不会再有抢劫你的机会了。”",
+      "target": "[Ngăn chặn hành vi phạm tội, dựa trên mức độ đóng góp, Điểm Chính Nghĩa +30]\n[Đánh bại thành viên cấp 1 của băng Bloodfang, dựa trên mức độ đóng góp, Điểm Chính Nghĩa +30]\nHai dòng thông báo truyền đến, sau khi xác nhận không cần phải bồi thêm nhát nào nữa, Lena thuận tay ném trả túi tiền cho nạn nhân, nhướng mày nhắc nhở:\n\"Còn ngơ ra đó làm gì? Bạn an toàn rồi.\"\n\"Ồ đúng rồi, còn nữa, tên này sẽ không bao giờ có cơ hội cướp của bạn nữa đâu.\""
+    }
+  ]
+}
+```
+
+### Summary of Changes
+- Parsed the original JSON payload directly from the conversation transcript to prevent encoding corruption.
+- Replaced all instances of CJK lenticular brackets (`【` and `】`) in the target Vietnamese translations with their standard Western equivalents (`[` and `]`).
+- Saved the output configuration locally to [final_output.json](file:///root/.gemini/antigravity-cli/brain/ac668bc3-41b6-4af2-a76b-3f2a6a03a990/scratch/final_output.json).

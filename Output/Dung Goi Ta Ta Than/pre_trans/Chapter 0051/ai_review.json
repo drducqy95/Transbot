@@ -1,0 +1,109 @@
+I will first inspect the codebase to understand the context of the translation project, including the structure, translation patterns, and existing glossaries. Let's list the contents of the workspace directory.
+I'll list the contents of the `Script` directory to see the scripts used in this translation project.
+I will check the `$TRANS_DIR` directory to see if there are guidelines, configuration files, or logs that define how name and term reviews should be structured.
+I'll list the contents of the `Source` directory to see if there are source translation files or lists of terms.
+I will list the contents of the `Global State` directory.
+I will view the `transbot_pipeline.py` file to understand how the translation pipeline handles terms, glossaries, or reviews.
+I'll list the subdirectories of the `Source/Source Split` directory to see the branches we are translating.
+I'll check the contents of `Source/Source Split/Dung Goi Ta Ta Than` to see what files exist, particularly if there are glossary or dictionary files.
+I'll run a grep search to find references to how "approved", "rejected", or "uncertain" items or terms are handled in the script files.
+I'll also search for "rejected" or "uncertain" to see if they appear in any Python files.
+I will read the `README.md` file in the root directory to see if there are instructions or details about the project setup.
+I will list the `Cronjob` directory to see what scripts or jobs run in the background.
+I will list the `Output` directory.
+I will list the contents of `Output/Dung Goi Ta Ta Than` to check if there are state files, dictionaries, or glossaries.
+I will view the `translation_config.json` file in `Output/Dung Goi Ta Ta Than/` to examine how terms, names, and translation settings are stored.
+I will list the contents of the `Output/Dung Goi Ta Ta Than/state` directory to see if there are markdown files that contain terms, character profiles, or name locks.
+I will view the `Glossary.md` file in `Output/Dung Goi Ta Ta Than/state` to see the current glossary entries.
+I will view `Character.md` just in case there are characters related to these terms.
+I will view `Script/scan_branches.py` to see if there is code that scans and extracts terms or processes translation items automatically.
+Here is the review of the terms for your translation, cross-referenced with your existing [translation_config.json](file:///mnt/sdcard/My%20Agent/Transbot/Output/Dung%20Goi%20Ta%20Ta%20Than/translation_config.json) and [Glossary.md](file:///mnt/sdcard/My%20Agent/Transbot/Output/Dung%20Goi%20Ta%20Ta%20Than/state/Glossary.md).
+
+### JSON Review Result
+
+```json
+{
+  "names": {
+    "approved": [],
+    "rejected": [],
+    "uncertain": []
+  },
+  "terms": {
+    "approved": [
+      {
+        "source": "伪装术",
+        "target": "Ngụy Trang Thuật / Thuật Ngụy Trang",
+        "type": "Ma pháp / Kỹ năng",
+        "description": "Phép cải trang (Disguise Self) hoặc kỹ năng ẩn mình (Camouflage)"
+      },
+      {
+        "source": "奥术飞弹",
+        "target": "Áo Thuật Phi Đạn / Tên Lửa Ma Pháp",
+        "type": "Ma pháp cấp 1",
+        "description": "Phép Magic Missile kinh điển trong D&D/WoW"
+      },
+      {
+        "source": "影袭",
+        "target": "Ảnh Tập / Ảnh Kích",
+        "type": "Kỹ năng",
+        "description": "Kỹ năng đánh lén/áp sát của sát thủ (Sinister Strike/Shadowstrike)"
+      },
+      {
+        "source": "法师之手",
+        "target": "Pháp Sư Chi Thủ / Bàn Tay Pháp Sư",
+        "type": "Hí pháp",
+        "description": "Phép phụ trợ Mage Hand trong D&D"
+      },
+      {
+        "source": "潜行",
+        "target": "Tiềm Hành",
+        "type": "Kỹ năng / Trạng thái",
+        "description": "Trạng thái tàng hình/ẩn nấp (Stealth)"
+      },
+      {
+        "source": "英勇打击",
+        "target": "Anh Dũng Đả Kích",
+        "type": "Kỹ năng",
+        "description": "Đòn đánh cận chiến của chiến binh (Heroic Strike)"
+      }
+    ],
+    "rejected": [
+      "。\n效果是能",
+      "。\n效果类似",
+      "两条提示传",
+      "便是模仿自",
+      "先锁定路上那",
+      "击败血牙帮1",
+      "去解决敌人的",
+      "戏法，提着麻",
+      "状态，安静地",
+      "的匕首攻击轻",
+      "的特点在于，",
+      "这个魔法，其",
+      "阻止犯罪行为",
+      "齐射上去，就",
+      "齐射！\n十几",
+      "！\n真正的法",
+      "，但区别在于",
+      "，只不过将暗"
+    ],
+    "uncertain": [
+      {
+        "source": "状态显示",
+        "reason": "Có thể là nhãn giao diện hệ thống (Hiển thị trạng thái / Bảng trạng thái) thường gặp trong thể loại võng du/hệ thống, nhưng cũng có thể chỉ là một cụm từ mô tả hành động thông thường."
+      }
+    ]
+  }
+}
+```
+
+---
+
+### Summary of Work
+
+1. **Inspected Workspace:** Explored the translation project files and pipelines under `Script` and `Source`.
+2. **Consulted Config and Glossary:** Referenced [translation_config.json](file:///mnt/sdcard/My%20Agent/Transbot/Output/Dung%20Goi%20Ta%20Ta%20Than/translation_config.json) (which already had `影袭` locked as `Ảnh Tập` in its examples), [Glossary.md](file:///mnt/sdcard/My%20Agent/Transbot/Output/Dung%20Goi%20Ta%20Ta%20Than/state/Glossary.md), and [Character.md](file:///mnt/sdcard/My%20Agent/Transbot/Output/Dung%20Goi%20Ta%20Ta%20Than/state/Character.md) to understand the Western RPG/fantasy setting.
+3. **Filtered Terms:**
+   - **Approved:** Valid D&D and RPG spells/skills (`奥术飞弹`, `法师之手`, `潜行`, etc.).
+   - **Rejected:** Incomplete text fragments containing syntax, punctuation, or generic sentence structures.
+   - **Uncertain:** Semi-generic system text (`状态显示`) which depends on context.
