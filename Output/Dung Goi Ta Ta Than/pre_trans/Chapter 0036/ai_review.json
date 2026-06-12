@@ -1,0 +1,61 @@
+Based on the source context of **Chapter 36** in the novel **Đừng Gọi Ta Tà Thần** ([source.md](file:///mnt/sdcard/My%20Agent/Transbot/Output/Dung%20Goi%20Ta%20Ta%20Than/pre_trans/Chapter%200036/source.md)), here is the classification of the scanned names and terms. 
+
+I have directly updated the workspace files for Chapter 36:
+* Updated [glossary_scan.json](file:///mnt/sdcard/My%20Agent/Transbot/Output/Dung%20Goi%20Ta%20Ta%20Than/pre_trans/Chapter%200036/glossary_scan.json)
+* Created [ai_review.json](file:///mnt/sdcard/My%20Agent/Transbot/Output/Dung%20Goi%20Ta%20Ta%20Than/pre_trans/Chapter%200036/ai_review.json)
+
+### Classification JSON
+
+```json
+{
+  "approved": [
+    "劳动",
+    "知识点数",
+    "英勇打击"
+  ],
+  "rejected": [
+    "快要攒够了！",
+    "战技的知识！",
+    "的奖励，才只",
+    "这个任务。",
+    "这个数额的",
+    "；\n工友成为"
+  ],
+  "uncertain": [
+    "吾主的真理普",
+    "目标：战士1",
+    "需求：15知"
+  ]
+}
+```
+
+---
+
+### Detailed Explanations
+
+#### 1. Approved Items
+* **`劳动`** (Labor / Lao Động)
+  * **Type**: Term / System reward name (danh từ / tên phần thưởng hệ thống)
+  * **Translation**: `Lao Động` (hoặc `lao động`)
+  * **Reason**: Tên phần thưởng hệ thống `【劳动】` được kích hoạt khi Brandon làm việc.
+* **`知识点数`** (Knowledge Points / Điểm Tri Thức)
+  * **Type**: Term / System attribute (thuộc tính hệ thống)
+  * **Translation**: `Điểm Tri Thức` (hoặc `điểm tri thức`)
+  * **Reason**: Thuộc tính hệ thống dùng để đổi lấy kỹ năng và tri thức từ thần Noven.
+* **`英勇打击`** (Heroic Strike / Anh Dũng Đả Kích)
+  * **Type**: Skill (kỹ năng)
+  * **Translation**: `Anh Dũng Đả Kích`
+  * **Reason**: Tên kỹ năng chiến binh chuẩn (Heroic Strike), tương tự như trong World of Warcraft.
+
+#### 2. Rejected Items
+* **`快要攒够了！`** (Sắp tích lũy đủ rồi!) -> Câu thoại/trần thuật thông thường, không phải thuật ngữ.
+* **`战技的知识！`** (Tri thức chiến kỹ!) -> Mảnh cắt câu văn thông thường.
+* **`的奖励，才只`** (Phần thưởng của..., mới chỉ) -> Mảnh cắt câu lỗi.
+* **`这个任务。`** (Nhiệm vụ này.) -> Mảnh cắt câu thông thường.
+* **`这个数额的`** (Hạn mức này) -> Mảnh cắt câu thông thường.
+* **`；\n工友成为`** (; bạn cùng làm trở thành) -> Mảnh cắt chứa ký tự điều khiển xuống dòng.
+
+#### 3. Uncertain Items (Truncated / Cut-off terms)
+* **`吾主的真理普`** (Ngô Chủ chân lý...) -> Bị cắt cụt từ tên nhiệm vụ tuần hoàn `【吾主的真理普照大地】` (Chân lý của Chúa ta lan tỏa khắp đất / Chân lý của chúa tể ta soi sáng mặt đất).
+* **`目标：战士1`** (Mục tiêu: Chiến sĩ 1...) -> Bị cắt cụt từ dòng trạng thái hệ thống `【目标：战士1阶战技，英勇打击】`.
+* **`需求：15知`** (Yêu cầu: 15 tri...) -> Bị cắt cụt từ yêu cầu hệ thống `【需求：15知识点数】`.

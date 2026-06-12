@@ -353,3 +353,8 @@ Chapter 34 completed via pipeline.
 
 ### Summary
 Chapter 35 completed via pipeline.
+
+## Chapter 0036 - Chương 36: Cậu biết mà, tôi kín miệng lắm
+
+### Summary
+Chapter 36 completed via pipeline.

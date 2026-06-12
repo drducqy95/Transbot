@@ -160,11 +160,6 @@
     "relative_path": "output/Chương 0032 - Người Rayak không lừa người Rayak.md"
   },
   {
-    "chapter_number": 36,
-    "title": "0036 你知道的，我嘴巴最严实了",
-    "relative_path": "output/Chương 0036 - 0036 你知道的，我嘴巴最严实了.md"
-  },
-  {
     "chapter_number": 37,
     "title": "Chương 37: Cách dùng mới của Điểm Tri Thức",
     "relative_path": "output/Chương 0037 - Chương 37 Cách dùng mới của Điểm Tri Thức.md"
@@ -183,5 +178,10 @@
     "chapter_number": 35,
     "title": "Chương 35: Xưởng Bu-lông Lăn Tròn",
     "relative_path": "output/Chương 0035 - Chương 35 Xưởng Bu-lông Lăn Tròn.md"
+  },
+  {
+    "chapter_number": 36,
+    "title": "Chương 36: Cậu biết mà, tôi kín miệng lắm",
+    "relative_path": "output/Chương 0036 - Chương 36 Cậu biết mà, tôi kín miệng lắm.md"
   }
 ]

@@ -170,3 +170,4 @@ Audit: pass
 - 2026-06-11 23:49 | Chapter 33 | completed | Chương 0033 - Chương 33 Lộ trình Chiến Sĩ.md
 - 2026-06-12 00:36 | Chapter 34 | completed | Chương 0034 - Chương 34 Những hạt giống đầu tiên.md
 - 2026-06-12 02:16 | Chapter 35 | completed | Chương 0035 - Chương 35 Xưởng Bu-lông Lăn Tròn.md
+- 2026-06-12 07:41 | Chapter 36 | completed | Chương 0036 - Chương 36 Cậu biết mà, tôi kín miệng lắm.md
