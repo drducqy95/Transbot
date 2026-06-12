@@ -459,9 +459,9 @@
       "status": "in_progress",
       "status_label": "Đang ra",
       "ongoing": true,
-      "completed_chapters": 4,
+      "completed_chapters": 6,
       "total_chapters": 3339,
-      "latest_chapter": "Chương 3: Dị mộng",
+      "latest_chapter": "Chương 5: Thi thử đại học",
       "genre": "eastern_fiction",
       "sub_genre": "sci_fi",
       "style_tags": [
@@ -516,7 +516,7 @@
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Tu Chan Bon Van Nam/README.md",
       "toc_path": "Output/Tu Chan Bon Van Nam/toc.json",
-      "updated_at": "2026-06-12T14:00:11.456340+07:00"
+      "updated_at": "2026-06-12T14:13:06+07:00"
     },
     {
       "branch": "Hong Hoang Lich_Zhttty",
@@ -971,7 +971,7 @@
     }
   ],
   "metadata": {
-    "generated_at": "2026-06-12T14:12:26+07:00",
+    "generated_at": "2026-06-12T14:13:06+07:00",
     "total_books": 17,
     "source": "Dichtrung/Output"
   },

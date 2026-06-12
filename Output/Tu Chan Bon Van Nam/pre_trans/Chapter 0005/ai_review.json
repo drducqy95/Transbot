@@ -1,0 +1,15 @@
+```json
+{
+  "approved": [
+    "战兽十三势"
+  ],
+  "rejected": [
+    "的连续技，起"
+  ],
+  "uncertain": []
+}
+```
+
+**Reasoning:**
+*   **`战兽十三势` (Thirteen Postures of the War Beast):** Approved. This is clearly a proper noun representing a specific martial arts technique, skill, or stance, which requires consistent translation.
+*   **`的连续技，起`:** Rejected. This is a sentence fragment ("'s combo, starting...") rather than a standalone term. If you need to track the term for "combo/chain skill", you should extract just `连续技`.

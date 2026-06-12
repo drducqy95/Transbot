@@ -33,3 +33,8 @@ Chapter 2 completed via pipeline.
 
 ### Summary
 Chapter 3 completed via pipeline.
+
+## Chapter 0005 - Chương 5: Thi thử đại học
+
+### Summary
+Chapter 5 completed via pipeline.
