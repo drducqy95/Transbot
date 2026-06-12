@@ -6,3 +6,4 @@
 - 2026-06-12 10:57 | Chapter 4 | completed | Chương 0004 - Chương 4 Nghề nghiệp truyền kỳ cũng phải xem hoàn cảnh chứ.md
 - 2026-06-12 14:24 | Chapter 5 | completed | Chương 0005 - Chương 5 Mọi thứ đã sẵn sàng, chỉ chờ phong thần.md
 - 2026-06-12 14:42 | Chapter 6 | completed | Chương 0006 - Chương 6 Thần Văn học Deneir.md
+- 2026-06-12 14:59 | Chapter 7 | completed | Chương 0007 - Chương 7 Phong thần! Phong thần!.md
