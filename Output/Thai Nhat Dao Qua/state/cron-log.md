@@ -1,3 +1,4 @@
 - 2026-06-11 22:36 | Chapter 1 | completed | Chương 0001 - Chương 1 Đạo Quả.md
 - 2026-06-11 22:41 | Chapter 2 | completed | Chương 0002 - Chương 2 Nhân Quả Tập.md
 - 2026-06-12 14:16 | Chapter 3 | completed | Chương 0003 - Chương 3 Đỉnh Hồ phái.md
+- 2026-06-12 14:36 | Chapter 4 | completed | Chương 0004 - Chương 4 Bán bộ vô địch thần công.md
