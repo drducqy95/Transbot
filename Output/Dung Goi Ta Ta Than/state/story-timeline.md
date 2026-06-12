@@ -373,3 +373,8 @@ Chapter 38 completed via pipeline.
 
 ### Summary
 Chapter 39 completed via pipeline.
+
+## Chapter 0040 - Chương 40: Thông báo giáo phái
+
+### Summary
+Chapter 40 completed via pipeline.

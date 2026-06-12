@@ -1,0 +1,363 @@
+I have identified and resolved the high-severity CJK leftover issues in your translation segments. 
+
+Here is a summary of the fixes applied:
+- **CJK Brackets (`【` and `】`)**: Replaced with standard Western square brackets (`[` and `]`) in segments `0007`, `0023`, `0024`, `0026`, `0030`, `0032`, `0033`, `0040`, `0042`, `0065`, `0066`, and `0067`.
+- **CJK Book Marks (`《` and `》`)**: Replaced with standard Vietnamese double quotes (`“` and `”`) in segment `0007`.
+- **CJK Ellipsis (`……`)**: Replaced with standard Western ellipsis (`...`) in segment `0068`.
+- **CJK Em Space (`\u2003`)**: Replaced with standard spaces in segment `0036`.
+
+### Corrected Translation JSON
+
+```json
+{
+  "chapter_number": 40,
+  "chapter_title_vi": "Chương 40: Thông báo giáo phái",
+  "segments": [
+    {
+      "segment_id": "0001",
+      "source": "# 第40章 教派公告",
+      "target": "# Chương 40: Thông báo giáo phái"
+    },
+    {
+      "segment_id": "0002",
+      "source": "比起肮脏杂乱的下城区，贸易集市北边位于更高地势的上城区环境要好得多。",
+      "target": "So với Khu Hạ Thành bẩn thỉu và nhếch nhác, môi trường ở Khu Thượng Thành nằm trên địa thế cao hơn về phía bắc Chợ Mậu Dịch tốt hơn rất nhiều."
+    },
+    {
+      "segment_id": "0003",
+      "source": "市政厅、财富之神教会、公正教派分会、辉光教派分会、战士公会，魔法隐修会等组织尽皆坐落于此；",
+      "target": "Tòa thị chính, Giáo hội Thần Tài Phú, phân hội Giáo phái Công Chính, phân hội Giáo phái Huy Quang, Hội Chiến Sĩ, Hội Ẩn Tu Ma Pháp cùng các tổ chức khác đều tọa lạc tại đây;"
+    },
+    {
+      "segment_id": "0004",
+      "source": "卡罗恩学院、锈水商行等等亦在上城区占据一席之地；",
+      "target": "Học viện Caroen, Thương hội Nước Rỉ Sét cùng các thế lực khác cũng chiếm một chỗ đứng ở Khu Thượng Thành;"
+    },
+    {
+      "segment_id": "0005",
+      "source": "随处可见精心设计的花园套房，任何一套都造价不菲，动辄上百金币的售卖价格。",
+      "target": "Khắp nơi đều có thể nhìn thấy những căn hộ sân vườn được thiết kế tinh tế, căn nào căn nấy đều đắt đỏ, giá bán dễ dàng lên tới hàng trăm đồng vàng."
+    },
+    {
+      "segment_id": "0006",
+      "source": "这座自由港口的上城区，就连空气中都透着令人心旷神怡的香甜气息。",
+      "target": "Khu Thượng Thành của thành phố cảng tự do này, ngay cả không khí cũng tỏa ra hương vị ngọt ngào khiến người ta sảng khoái tinh thần."
+    },
+    {
+      "segment_id": "0007",
+      "source": "这并非错觉，而是由大地精、大财阀卡罗恩·拉杆的《大名鼎鼎正牌卡罗恩联合商业集团》专门雇佣数位4阶大法师，利用4阶魔法【化雨术】，定期将他旗下工坊生产的柠檬薄荷香水混入雨水，喷洒到上城区的每个角落所造成的效果。",
+      "target": "Đây không phải là ảo giác, mà là do “Tập đoàn Thương mại Liên hợp Caroen Chính hiệu Lừng lẫy” của Đại Địa Tinh, đại tài phiệt Caroen Lever đã đặc biệt thuê vài Đại Pháp Sư cấp 4, sử dụng ma pháp cấp 4 [Hóa Vũ Thuật] để định kỳ pha nước hoa chanh bạc hà do công xưởng của ông ta sản xuất vào nước mưa, rồi phun khắp mọi ngóc ngách của Khu Thượng Thành tạo nên."
+    },
+    {
+      "segment_id": "0008",
+      "source": "卡罗恩还专门安排市政厅，给他出台了一项名为“香甜空气税”的新税务政策。",
+      "target": "Caroen còn đặc biệt thu xếp với tòa thị chính để ban hành cho ông ta một chính sách thuế mới gọi là “Thuế không khí ngọt ngào”."
+    },
+    {
+      "segment_id": "0009",
+      "source": "卡罗恩声称，他为了让格林港的居民享受到最高质量的空气，斥巨资提供了相关服务。",
+      "target": "Caroen tuyên bố rằng để cư dân Cảng Green được tận hưởng không khí chất lượng cao nhất, ông ta đã chi ra một khoản tiền khổng lồ để cung cấp dịch vụ này."
+    },
+    {
+      "segment_id": "0010",
+      "source": "为此，要征收上城区居民每月1枚银币的税款，用以补贴他的商业集团。",
+      "target": "Vì thế, ông ta thu khoản thuế 1 đồng bạc mỗi tháng đối với cư dân Khu Thượng Thành để trợ cấp cho tập đoàn thương mại của mình."
+    },
+    {
+      "segment_id": "0011",
+      "source": "当然，能在上城区拥有户权居住的人大部分倒也不在意这1枚银币的支出，他们更看重的是这里优越的地理位置和自由的贸易环境。",
+      "target": "Tất nhiên, hầu hết những người có quyền cư trú ở Khu Thượng Thành cũng không bận tâm đến khoản chi 1 đồng bạc này, thứ họ coi trọng hơn là vị trí địa lý ưu việt và môi trường thương mại tự do nơi đây."
+    },
+    {
+      "segment_id": "0012",
+      "source": "虽然格林港下城区的治安混乱、缺乏管理，但那也得看是跟谁比较。",
+      "target": "Mặc dù trị an ở Khu Hạ Thành của Cảng Green hỗn loạn và thiếu sự quản lý, nhưng đó cũng là phải xem so sánh với ai."
+    },
+    {
+      "segment_id": "0013",
+      "source": "倘若跟靠近邪神占领、魔物横行的边境镇子比起来，那下城区的环境已经算得上安全，至少不用担心夜里睡觉被魔物偷袭咬断喉咙。",
+      "target": "Nếu so với những thị trấn biên giới gần khu vực bị tà thần chiếm đóng và ma vật hoành hành, thì môi trường ở Khu Hạ Thành đã được coi là an toàn, ít nhất là không phải lo lắng về việc bị ma vật tập kích cắn đứt cổ họng khi đang ngủ ban đêm."
+    },
+    {
+      "segment_id": "0014",
+      "source": "格林港北边只隔着一片暮色荒原便是雷亚克王国的南部边境。",
+      "target": "Phía bắc Cảng Green chỉ ngăn cách bởi một Hoang Nguyên Chạng Vạng là đến biên giới phía nam của Vương quốc Rayak."
+    },
+    {
+      "segment_id": "0015",
+      "source": "有雷亚克王国顶在前面，这片荒原还没有受到严重的邪神影响，魔物阶位不高，数量有限，还达不到爆发魔物潮冲击城市的程度。",
+      "target": "Nhờ có Vương quốc Rayak chống đỡ phía trước, hoang nguyên này vẫn chưa chịu ảnh hưởng nghiêm trọng từ tà thần, cấp bậc ma vật không cao, số lượng có hạn, chưa đến mức bùng phát làn sóng ma vật tấn công thành phố."
+    },
+    {
+      "segment_id": "0016",
+      "source": "近几年雷亚克王国的边境战事愈发吃紧，有不少条件还算宽裕的雷亚克王国贵族都在考虑着来格林港买套房产。",
+      "target": "Những năm gần đây, chiến sự biên giới của Vương quốc Rayak ngày càng căng thẳng, có không ít quý tộc Vương quốc Rayak với gia cảnh tương đối khá giả đang cân nhắc đến việc mua bất động sản ở Cảng Green."
+    },
+    {
+      "segment_id": "0017",
+      "source": "如果爆发魔物潮，他们可以在收到消息后及时乘坐地精飞艇来格林港避难，顺便逃避王国宫廷的参战征召。",
+      "target": "Nếu làn sóng ma vật bùng phát, họ có thể kịp thời đi phi thuyền địa tinh đến Cảng Green tị nạn sau khi nhận được tin tức, sẵn tiện trốn tránh lệnh trưng tập tham chiến của cung đình vương quốc."
+    },
+    {
+      "segment_id": "0018",
+      "source": "因为这个原因，格林港上城区近些年来变得越来越繁华。",
+      "target": "Vì lý do này, Khu Thượng Thành của Cảng Green những năm gần đây ngày càng trở nên phồn hoa."
+    },
+    {
+      "segment_id": "0019",
+      "source": "不过这些上城区的繁华，基本都和正在唉声叹气的培特·奇纳尔没什么关系。",
+      "target": "Thế nhưng sự phồn hoa của Khu Thượng Thành này về cơ bản chẳng liên quan gì đến một Pete Chinar đang thở ngắn than dài."
+    },
+    {
+      "segment_id": "0020",
+      "source": "“求知之神在上啊！您这三阶魔法的兑换条件是认真的吗？！”",
+      "target": "“Thần Tri Thức ở trên cao tôn kính! Điều kiện đổi ma pháp cấp ba của Ngài là thật đấy à?!”"
+    },
+    {
+      "segment_id": "0021",
+      "source": "培特面色悲戚地哀嚎着。",
+      "target": "Pete đau khổ kêu gào."
+    },
+    {
+      "segment_id": "0022",
+      "source": "脑中挂着明晃晃的信息。",
+      "target": "Trong đầu hiện lên thông tin rõ mồn một."
+    },
+    {
+      "segment_id": "0023",
+      "source": "【目标：法师3阶魔法，奥术弹幕】",
+      "target": "[Mục tiêu: Ma pháp cấp 3 của Pháp Sư, Mưa Đạn Huyền Thuật]"
+    },
+    {
+      "segment_id": "0024",
+      "source": "【需求：150知识点数】",
+      "target": "[Yêu cầu: 150 Điểm Tri Thức]"
+    },
+    {
+      "segment_id": "0025",
+      "source": "“150点？！我把自己献祭了能值这么多点数吗？”",
+      "target": "“150 điểm?! Mình có hiến tế chính mình thì có đáng giá ngần ấy điểm không chứ?”"
+    },
+    {
+      "segment_id": "0026",
+      "source": "他作为求知之神的第一位正式信徒，刚开始的时候确实享受到了不少红利，比如最开始的【哈达之饥渴】，【真名知晓】，还有那个1阶魔法【奥术飞弹】。",
+      "target": "Là tín đồ chính thức đầu tiên của Thần Tri Thức, lúc mới bắt đầu cậu thực sự đã được hưởng không ít lợi ích, ví dụ như [Cơn Đói Khát của Hada] thuở ban đầu, [Biết Tên Thật], cùng với ma pháp cấp 1 [Đạn Huyền Thuật] kia."
+    },
+    {
+      "segment_id": "0027",
+      "source": "培特学习这些魔法的时候，诺文还没有推出知识点数的兑换体系。",
+      "target": "Lúc Pete học những ma pháp này, Norven vẫn chưa đưa ra hệ thống quy đổi Điểm Tri Thức."
+    },
+    {
+      "segment_id": "0028",
+      "source": "现在信徒数量变多，红利期结束。",
+      "target": "Giờ đây số lượng tín đồ tăng lên, thời kỳ ưu đãi cũng kết thúc."
+    },
+    {
+      "segment_id": "0029",
+      "source": "他想兑换一个3阶魔法用来应付卡罗恩学院的毕业考核，结果看到需求150知识点数这个数字的时候，眼前一黑差点没晕过去。",
+      "target": "Cậu muốn đổi lấy một ma pháp cấp 3 để đối phó với kỳ thi tốt nghiệp của Học viện Caroen, kết quả là khi nhìn thấy con số yêu cầu 150 Điểm Tri Thức, cậu tối sầm mặt mày suýt chút nữa ngất đi."
+    },
+    {
+      "segment_id": "0030",
+      "source": "虽说他已经掌握了3阶魔法【哈达之饥渴】，然而，这个魔法……不能用来考核！",
+      "target": "Tuy rằng cậu đã nắm giữ ma pháp cấp 3 [Cơn Đói Khát của Hada], thế nhưng, ma pháp này... không thể dùng để kiểm tra!"
+    },
+    {
+      "segment_id": "0031",
+      "source": "卡罗恩学院奥法学派的考核标准是，成功释放一个奥术系的3阶魔法即为合格，给予3阶法师认证。",
+      "target": "Tiêu chuẩn kiểm tra của trường phái Huyền thuật Học viện Caroen là giải phóng thành công một ma pháp cấp 3 thuộc hệ Huyền thuật thì coi như đạt yêu cầu, được cấp chứng nhận Pháp Sư cấp 3."
+    },
+    {
+      "segment_id": "0032",
+      "source": "【哈达之饥渴】不属于奥术系，甚至不属于正常魔法。",
+      "target": "[Cơn Đói Khát của Hada] không thuộc hệ Huyền thuật, thậm chí còn không thuộc về ma pháp bình thường."
+    },
+    {
+      "segment_id": "0033",
+      "source": "培特去卡罗恩学院的图书馆查过，【哈达之饥渴】被记录在“禁用魔法”的类别中。",
+      "target": "Pete đã đến thư viện của Học viện Caroen để tra cứu, [Cơn Đói Khát của Hada] được ghi nhận trong danh mục “Ma pháp bị cấm”."
+    },
+    {
+      "segment_id": "0034",
+      "source": "书上的描述是，这一魔法的原理是通过魔网的力量沟通虚空，借助虚空腐蚀并吞噬受其影响的生物。",
+      "target": "Mô tả trong sách là, nguyên lý của ma pháp này là thông qua sức mạnh của Ma Võng để kết nối với hư không, mượn hư không để ăn mòn và cắn nuốt những sinh vật chịu ảnh hưởng của nó."
+    },
+    {
+      "segment_id": "0035",
+      "source": "传说中，邪神便诞生于虚空。",
+      "target": "Trong truyền thuyết, tà thần chính là được sinh ra từ hư không."
+    },
+    {
+      "segment_id": "0036",
+      "source": "正因如此，几乎所有跟虚空搭得上关系的魔法、物品，现在基本都被禁用，以防因为过度使用而招来邪神的注视。      那个时候培特没得选，只能有什么用什么。",
+      "target": "Chính vì thế, hầu như tất cả ma pháp và vật phẩm có liên quan đến hư không hiện tại cơ bản đều bị cấm dùng, nhằm đề phòng việc sử dụng quá mức sẽ thu hút sự chú ý của tà thần.      Vào thời điểm đó Pete không có lựa chọn nào khác, chỉ có thể có gì dùng nấy."
+    },
+    {
+      "segment_id": "0037",
+      "source": "现在这个3阶魔法不敢再用，他只能想办法重新掌握一个新的，可以通过考核的法术。",
+      "target": "Hiện tại ma pháp cấp 3 này cậu không dám dùng nữa, chỉ có thể nghĩ cách nắm vững một pháp thuật mới có thể giúp cậu vượt qua kỳ thi."
+    },
+    {
+      "segment_id": "0038",
+      "source": "从蕾娜家的酒馆回到卡罗恩学院提供的学员宿舍，培特原本舒适的生活条件倒是回归了没错，但原本增长迅速的知识点数一下子就显得捉襟见肘了！",
+      "target": "Trở về ký túc xá học viên do Học viện Caroen cung cấp từ quán rượu nhà Lena, điều kiện sinh hoạt thoải mái trước đây của Pete quả thực đã quay trở lại, nhưng Điểm Tri Thức vốn tăng trưởng nhanh chóng lúc trước giờ đây bỗng chốc trở nên eo hẹp!"
+    },
+    {
+      "segment_id": "0039",
+      "source": "稳定的知识点数来源，培特知道的就3条。",
+      "target": "Nguồn Điểm Tri Thức ổn định mà Pete biết chỉ có 3 con đường."
+    },
+    {
+      "segment_id": "0040",
+      "source": "每天一次的冥想，提升自己精神力的同时，可以完成【冥想】日常任务，能够获得从0.01点到1点不等的知识点数。",
+      "target": "Thiền định mỗi ngày một lần, vừa nâng cao tinh thần lực của bản thân, vừa có thể hoàn thành nhiệm vụ hàng ngày [Thiền Định], có thể nhận được từ 0.01 đến 1 Điểm Tri Thức."
+    },
+    {
+      "segment_id": "0041",
+      "source": "每日一次的祈祷礼拜，可以获得1点知识点数。",
+      "target": "Cầu nguyện và lễ bái mỗi ngày một lần, có thể nhận được 1 Điểm Tri Thức."
+    },
+    {
+      "segment_id": "0042",
+      "source": "再就是去完成周常任务【吾主的真理普照大地】，如果传教成功的话，可以得到5点知识点数的奖励！",
+      "target": "Còn lại là đi hoàn thành nhiệm vụ hàng tuần [Chân Lý Của Ngài Chiếu Rọi Khắp Mặt Đất], nếu truyền giáo thành công thì có thể nhận được phần thưởng là 5 Điểm Tri Thức!"
+    },
+    {
+      "segment_id": "0043",
+      "source": "培特算了一下。",
+      "target": "Pete nhẩm tính một chút."
+    },
+    {
+      "segment_id": "0044",
+      "source": "就算他把这3项任务的奖励都给拿满，满打满算，每周也就是不到20知识点数！",
+      "target": "Cho dù cậu nhận đầy đủ phần thưởng của cả 3 nhiệm vụ này, tính toán kỹ lưỡng thì mỗi tuần cũng chỉ được chưa đầy 20 Điểm Tri Thức!"
+    },
+    {
+      "segment_id": "0045",
+      "source": "加上他手头现有的10知识点数。",
+      "target": "Cộng thêm 10 Điểm Tri Thức hiện có trong tay."
+    },
+    {
+      "segment_id": "0046",
+      "source": "相当于要7个多周的时间，才能攒够兑换一个3阶魔法需要的点数！",
+      "target": "Tương đương với việc phải mất hơn 7 tuần mới tích lũy đủ số điểm cần thiết để đổi lấy một ma pháp cấp 3!"
+    },
+    {
+      "segment_id": "0047",
+      "source": "“7个星期！我根本等不了那么久啊！”",
+      "target": "“Bảy tuần! Mình không thể nào chờ lâu như thế được!”"
+    },
+    {
+      "segment_id": "0048",
+      "source": "培特很急，非常急。",
+      "target": "Pete đang rất vội, cực kỳ vội."
+    },
+    {
+      "segment_id": "0049",
+      "source": "此刻已经是6月下旬，距离卡罗恩学院的毕业考核只剩下不到一个月的时间。",
+      "target": "Lúc này đã là cuối tháng Sáu, khoảng cách đến kỳ thi tốt nghiệp của Học viện Caroen chỉ còn chưa đầy một tháng."
+    },
+    {
+      "segment_id": "0050",
+      "source": "准确点来说，还有最后15天。",
+      "target": "Nói chính xác hơn thì chỉ còn 15 ngày cuối cùng."
+    },
+    {
+      "segment_id": "0051",
+      "source": "如果在考核到来前没法掌握一个合适的3阶法术，那他就拿不到学院开出的3阶法师证明。",
+      "target": "Nếu trước khi kỳ thi diễn ra mà không thể nắm vững một pháp thuật cấp 3 phù hợp, cậu sẽ không nhận được chứng nhận Pháp Sư cấp 3 do học viện cấp."
+    },
+    {
+      "segment_id": "0052",
+      "source": "至于将来去魔法隐修会参加考核这条路，对培特来说更是没戏。",
+      "target": "Còn về con đường đến Hội Ẩn Tu Ma Pháp tham gia kiểm tra trong tương lai, đối với Pete lại càng không có hy vọng."
+    },
+    {
+      "segment_id": "0053",
+      "source": "原因很简单。",
+      "target": "Nguyên nhân rất đơn giản."
+    },
+    {
+      "segment_id": "0054",
+      "source": "魔法隐修会的考核标准里有一条：",
+      "target": "Trong tiêu chuẩn kiểm tra của Hội Ẩn Tu Ma Pháp có một điều khoản:"
+    },
+    {
+      "segment_id": "0055",
+      "source": "他们只接受通过信仰魔法女神而掌握施法奥秘的人参与考核！",
+      "target": "Họ chỉ chấp nhận những người nắm vững bí ẩn thi pháp thông qua tín ngưỡng Nữ thần Ma pháp tham gia kiểm tra!"
+    },
+    {
+      "segment_id": "0056",
+      "source": "传说中魔法女神掌控着魔网，但祂慷慨地将使用魔网 the 权限给予了其他神明。",
+      "target": "Trong truyền thuyết, Nữ thần Ma pháp nắm quyền kiểm soát Ma Võng, nhưng Ngài đã hào phóng ban quyền sử dụng Ma Võng cho các vị thần khác."
+    },
+    {
+      "segment_id": "0057",
+      "source": "因此某些外神的信徒，在得到他们信仰外神的力量后，也能通过沟通魔网来施法。",
+      "target": "Vì vậy, một số tín đồ của ngoại thần sau khi nhận được sức mạnh từ ngoại thần mà họ tin tưởng, cũng có thể kết nối với Ma Võng để thi triển pháp thuật."
+    },
+    {
+      "segment_id": "0058",
+      "source": "这种人不被魔法隐修会认可，没有评级，无论实力如何，他们被统称为野法师。",
+      "target": "Những người như vậy sẽ không được Hội Ẩn Tu Ma Pháp công nhận, không có xếp hạng, bất kể thực lực ra sao, họ đều bị gọi chung là dã pháp sư."
+    },
+    {
+      "segment_id": "0059",
+      "source": "只有卡罗恩学院的考核可以睁一只眼闭一只眼，不管是什么神的信徒，只要能放出3阶奥术魔法，就可以给予认证。",
+      "target": "Chỉ có kỳ thi của Học viện Caroen là có thể nhắm mắt làm ngơ, bất kể là tín đồ của vị thần nào, chỉ cần có thể giải phóng được ma pháp cấp 3 thuộc hệ Huyền thuật là có thể cấp chứng nhận."
+    },
+    {
+      "segment_id": "0060",
+      "source": "培特学会的魔法知识来自于求知之神诺文， he 已经不再向魔法女神祈祷了，根本就不符合魔法隐修会的条件。",
+      "target": "Kiến thức ma pháp mà Pete học được đến từ Thần Tri Thức Norven, cậu đã không còn cầu nguyện với Nữ thần Ma pháp nữa, hoàn toàn không đáp ứng được điều kiện của Hội Ẩn Tu Ma Pháp."
+    },
+    {
+      "segment_id": "0061",
+      "source": "虽说培特已经改变了心态，不打算单单混个3阶认证，就这么回去继承他父亲的贵族爵位混吃等死。",
+      "target": "Dù rằng Pete đã thay đổi tâm thái, không định chỉ lăn lộn kiếm cái chứng nhận cấp 3 rồi trở về kế thừa tước vị quý tộc của cha mình để sống qua ngày chờ chết."
+    },
+    {
+      "segment_id": "0062",
+      "source": "但是否拥有3阶职业者认证，会直接影响到他将来能不能名正言顺地在雷亚克王国境内拥有封地，招募私军！",
+      "target": "Thế nhưng việc có sở hữu chứng nhận Chức nghiệp giả cấp 3 hay không sẽ ảnh hưởng trực tiếp đến việc sau này cậu có thể danh chính ngôn thuận sở hữu phong địa và chiêu mộ tư binh trong lãnh thổ Vương quốc Rayak hay không!"
+    },
+    {
+      "segment_id": "0063",
+      "source": "这关系到他的野心！",
+      "target": "Điều này liên quan mật thiết đến dã tâm của cậu!"
+    },
+    {
+      "segment_id": "0064",
+      "source": "正当培特一筹莫展之际，一条新的信息毫无征兆地出现在他的脑海中。",
+      "target": "Đúng lúc Pete đang bó tay không biết phải làm sao, một luồng thông tin mới đột ngột xuất hiện trong tâm trí cậu mà không hề có điềm báo trước."
+    },
+    {
+      "segment_id": "0065",
+      "source": "【求知教派公告】",
+      "target": "[Thông báo Giáo phái Tri Thức]"
+    },
+    {
+      "segment_id": "0066",
+      "source": "【第一次限定活动即将开始！】",
+      "target": "[Sự kiện giới hạn lần đầu tiên sắp sửa bắt đầu!]"
+    },
+    {
+      "segment_id": "0067",
+      "source": "【活动：清理血牙帮】",
+      "target": "[Sự kiện: Quét sạch băng Bloodfang]"
+    },
+    {
+      "segment_id": "0068",
+      "source": "……",
+      "target": "..."
+    },
+    {
+      "segment_id": "0069",
+      "source": "感谢书海游鱼投出的1张月票，蟹蟹",
+      "target": "Cảm ơn Thư Hải Du Ngư đã bầu 1 phiếu tháng, cảm ơn nha~"
+    }
+  ]
+}
+```

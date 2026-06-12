@@ -174,3 +174,4 @@ Audit: pass
 - 2026-06-12 07:48 | Chapter 37 | completed | Chương 0037 - Chương 37 Cách dùng mới của Điểm Tri Thức.md
 - 2026-06-12 07:54 | Chapter 38 | completed | Chương 0038 - Chương 38 Norven Ta thật sự không muốn làm tà thần.md
 - 2026-06-12 07:58 | Chapter 39 | completed | Chương 0039 - Chương 39 Desley.md
+- 2026-06-12 08:08 | Chapter 40 | completed | Chương 0040 - Chương 40 Thông báo giáo phái.md

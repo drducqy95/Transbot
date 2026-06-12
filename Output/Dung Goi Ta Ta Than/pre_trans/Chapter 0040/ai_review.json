@@ -1,0 +1,155 @@
+I will start by exploring the workspace to see what translation files, guidelines, or dictionaries already exist, so I can align my review with the current translation style and conventions of the project.
+I will list the contents of `$TRANS_DIR`, `Source`, and `Script` to understand the workflow and see if there are existing glossary files or tools.
+I will list the contents of the `Source` and `Script` directories.
+I will list the contents of the `Script` directory.
+I will perform a search across the workspace for keywords like "Caroen" to find the relevant book/pipeline and associated glossary or text files.
+I will list the contents of the `/mnt/sdcard/My Agent/Transbot/Output/Dung Goi Ta Ta Than` folder to see what resources and translation configurations exist for this novel.
+I will view the contents of the `translation_config.json` configuration file to check the existing glossary and translation rules.
+I will read the remaining lines of the `translation_config.json` file.
+I will list the contents of the `state` directory in the `Dung Goi Ta Ta Than` project to see the markdown files tracking terms, characters, and glossary details.
+I will view the `Glossary.md` file to see the current glossary entries.
+I will search for the Chinese terms in the repository files to find their exact context and see how they are translated in the text.
+I will view the translation files of Chapter 18 to see how "吾主的真理普照大地" was translated.
+I will view the contents of the translation file for Chapter 18 around the text of "吾主的真理普照大地".
+I will search for "150点" to find the context in which it appears.
+I will check the context of "150" or "需求：" in Chapter 40 to see how it fits.
+I will search for the occurrence of several terms like `化雨术`, `奥术飞弹`, `求知教派公告`, `活动：清理血`, `目标：法师3`, `真名知晓`, `第一次限定活`, and others to see their exact contexts.
+I will search for `奥术飞弹` to confirm its context.
+I will search for `求知教派公告` in the workspace.
+I will view the contents of the Chapter 40 source file around line 66 to see the context of `求知教派公告`.
+I will search for `还有那个1` in the codebase to find where it is located.
+I will search for `不属于奥术系` to check its context.
+I will search for `目标：法师3` to see what context it has.
+I will search for `。\n培特学习` to see where it comes from.
+I will search for `培特学习` in Chapter 40 source file to understand where it appears.
+I will search for `日常任务，能` in the workspace.
+I will search for `被记录在“禁` in the workspace.
+Based on the translation context, glossary rules, and occurrences in the text (such as in [Chapter 40 source.md](file:///mnt/sdcard/My%20Agent/Transbot/Output/Dung%20Goi%20Ta%20Ta%20Than/pre_trans/Chapter%200040/source.md) and [Chapter 18 translated_segments.json](file:///mnt/sdcard/My%20Agent/Transbot/Output/Dung%20Goi%20Ta%20Ta%20Than/translate_result/Chapter%200018/translated_segments.json)), I have reviewed the terms and categorized them as approved, rejected, or uncertain (need correction due to truncation).
+
+Here is the JSON result:
+
+```json
+{
+  "approved": [
+    {
+      "source": "冥想",
+      "translation": "Thiền định",
+      "type": "term",
+      "notes": "Hành động thiền định hằng ngày của pháp sư để hồi phục tinh thần lực và tích lũy điểm tri thức."
+    },
+    {
+      "source": "化雨术",
+      "translation": "Thuật Hóa Vũ / Hóa Vũ Thuật",
+      "type": "spell",
+      "notes": "Ma pháp cấp 4 dùng để phun mưa hương chanh bạc hà ở Thượng Thành."
+    },
+    {
+      "source": "哈达之饥渴",
+      "translation": "Cơn Đói Khát của Hada",
+      "type": "spell",
+      "notes": "Ma pháp cấp 3 hệ ngoại thần do Norven ban cho Pete. Đã có trong Glossary."
+    },
+    {
+      "source": "奥术飞弹",
+      "translation": "O Thuật Phi Đạn / Tên Lửa Pháp Thuật",
+      "type": "spell",
+      "notes": "Ma pháp công kích cấp 1 cơ bản."
+    },
+    {
+      "source": "求知教派公告",
+      "translation": "Thông báo Giáo hội Cầu Tri",
+      "type": "system_term",
+      "notes": "Tiêu đề thông báo hệ thống phát ra từ求知之神 (Thần Cầu Tri/Thần Tri Thức)."
+    },
+    {
+      "source": "真名知晓",
+      "translation": "Biết Tên Thật",
+      "type": "spell",
+      "notes": "Ma pháp phụ trợ cấp 2."
+    }
+  ],
+  "rejected": [
+    {
+      "source": "“150点",
+      "reason": "Mảnh vụn hội thoại bị cắt cụt (từ câu: “150点？！我把自己献祭了能值这么多点数吗？”)."
+    },
+    {
+      "source": "……\n感谢",
+      "reason": "Mảnh vụn lời cảm ơn của tác giả ở cuối chương (từ câu: ……\n感谢书海游鱼投出的1张月票, ...)."
+    },
+    {
+      "source": "。\n培特学习",
+      "reason": "Mảnh vụn văn bản bị dính ký tự xuống dòng và dấu câu."
+    },
+    {
+      "source": "不属于奥术系",
+      "reason": "Cụm từ mô tả thông thường ('không thuộc hệ O thuật'), không phải thuật ngữ độc lập."
+    },
+    {
+      "source": "专门雇佣数位",
+      "reason": "Cụm động từ/trạng từ thông thường ('chuyên môn thuê vài vị'), không phải thuật ngữ."
+    },
+    {
+      "source": "大名鼎鼎正牌",
+      "reason": "Mảnh vụn từ tên tập đoàn 《大名鼎鼎正牌卡罗恩联合商业集团》."
+    },
+    {
+      "source": "日常任务，能",
+      "reason": "Mảnh vụn câu mô tả nhiệm vụ hàng ngày."
+    },
+    {
+      "source": "目标：法师3",
+      "reason": "Mảnh vụn từ dòng mục tiêu hệ thống (từ câu: 【目标：法师3阶魔法，奥术弹幕】)."
+    },
+    {
+      "source": "被记录在“禁",
+      "reason": "Mảnh vụn câu mô tả bị cắt cụt (từ câu: 【哈达之饥渴】被记录在“禁用魔法”的类别中)."
+    },
+    {
+      "source": "需求：150",
+      "reason": "Mảnh vụn yêu cầu điểm tri thức của nhiệm vụ (từ câu: 【需求：150知识点数】)."
+    },
+    {
+      "source": "，如果传教成",
+      "reason": "Mảnh vụn câu điều kiện bị cắt cụt (từ câu: 如果传教成功的话)."
+    },
+    {
+      "source": "，定期将他旗",
+      "reason": "Mảnh vụn câu bị cắt cụt."
+    },
+    {
+      "source": "，然而，这个",
+      "reason": "Cụm liên từ thông thường kèm dấu phẩy."
+    },
+    {
+      "source": "，还有那个1",
+      "reason": "Mảnh vụn câu bị cắt cụt (từ câu: 还有那个1阶魔法【奥术飞弹】)."
+    }
+  ],
+  "uncertain": [
+    {
+      "source": "吾主的真理普",
+      "suggestion": "吾主的真理普照大地",
+      "translation": "Chân lý của Chúa ta lan tỏa khắp đất / Chân lý của Chúa ta soi sáng mặt đất",
+      "reason": "Bị cắt cụt từ tên nhiệm vụ tuần hoàn '吾主的真理普照大地'. Nên sửa lại đầy đủ trước khi khóa."
+    },
+    {
+      "source": "活动：清理血",
+      "suggestion": "活动：清理血牙帮",
+      "translation": "Hoạt động: Dọn dẹp Bang Huyết Nha",
+      "reason": "Bị cắt cụt từ tên hoạt động giới hạn '活动：清理血牙帮'. Nên sửa lại đầy đủ."
+    },
+    {
+      "source": "第一次限定活",
+      "suggestion": "第一次限定活动",
+      "translation": "Hoạt động giới hạn lần đầu",
+      "reason": "Bị cắt cụt từ '第一次限定活动'. Nên sửa lại đầy đủ."
+    }
+  ]
+}
+```
+
+### Summary of Work Done
+1. Located the project folder (`Dung Goi Ta Ta Than`) and loaded the existing [Glossary.md](file:///mnt/sccard/My%20Agent/Transbot/Output/Dung%20Goi%20Ta%20Ta%20Than/state/Glossary.md) and configuration files.
+2. Searched for the occurrences of the Chinese terms in the raw chapters to understand their context.
+3. Identified complete terms (`冥想`, `化雨术`, `哈达之饥渴`, `奥术飞弹`, `求知教派公告`, `真名知晓`), truncated terms (`吾主的真理普`, `活动：清理血`, `第一次限定活`), and grammatical fragments/author notes to reject.
