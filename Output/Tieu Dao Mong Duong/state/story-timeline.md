@@ -73,3 +73,8 @@ Chapter 11 completed via pipeline.
 
 ### Summary
 Chapter 12 completed via pipeline.
+
+## Chapter 0013 - Chương 13: Ngư ông
+
+### Summary
+Chapter 13 completed via pipeline.
