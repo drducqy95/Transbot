@@ -1,0 +1,18 @@
+{
+  "产地：衍生": {
+    "target": "Sản địa: Phái sinh",
+    "type": "term"
+  },
+  "天赋评级：": {
+    "target": "Đánh giá thiên phú:",
+    "type": "term"
+  },
+  "天赋：限制器": {
+    "target": "Thiên phú: Bộ hạn chế",
+    "type": "term"
+  },
+  "浅打": {
+    "target": "Thiển Đả",
+    "type": "term"
+  }
+}

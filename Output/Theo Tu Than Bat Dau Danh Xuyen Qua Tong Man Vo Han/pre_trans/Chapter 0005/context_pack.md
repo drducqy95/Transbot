@@ -1,0 +1,218 @@
+# Translation Context Pack
+
+## Project
+- Branch: Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han
+- Title: 
+- Author: 
+- Genre: /
+- Language: zh → vi
+
+## Translation Rules
+### Translation Goal
+Dịch truyện Trung sang tiếng Việt tự nhiên, dễ đọc, đúng nghĩa, đúng mạch truyện, đúng văn cảnh, đúng xưng hô, đúng tên riêng và thuật ngữ.
+Style: văn xuôi tiếng Việt mượt, rõ nghĩa, không máy móc
+Priorities:
+  • đúng nghĩa và đúng văn cảnh
+  • đúng tên riêng
+  • đúng thuật ngữ theo loại và bối cảnh
+  • đúng xưng hô và quan hệ nhân vật
+  • giữ ổn định thuật ngữ/tên riêng/xưng hô đã khóa
+  • tự nhiên trong tiếng Việt
+  • giữ nhịp văn, cảm xúc và giọng kể gốc
+Anti-goals:
+  • không dịch từng chữ máy móc
+  • không Hán Việt hóa tên Nhật, Hàn, phương Tây, fandom, thương hiệu, kỹ thuật
+  • không áp VietPhrase/LuatNhan lên tên riêng đã khóa
+  • không đổi thuật ngữ đã khóa nếu văn cảnh giống nhau
+  • không dùng một bản dịch cứng cho từ đa nghĩa khi văn cảnh khác nhau
+  • không làm lộ thông tin ngoài POV nếu bản gốc chưa tiết lộ
+
+### Output Rules
+  • keep paragraph structure
+  • keep dialogue structure
+  • do not merge paragraphs
+  • do not split paragraphs unnecessarily
+  • preserve punctuation when reasonable
+  • convert chinese quotes to vietnamese
+  • remove unnecessary explanation
+  • output only translation
+  • do not add notes inside translation
+  • mark uncertain items for audit only
+
+### Tone Guidelines
+  • narration: tự nhiên, rõ ràng, có chất truyện
+  • dialogue: phù hợp thân phận, quan hệ, tuổi tác, quyền lực và bối cảnh
+  • ancient_setting: cổ phong vừa phải, không lạm dụng Hán Việt khó hiểu
+  • modern_setting: hiện đại, đời thường, không cổ hóa lời thoại
+  • game_system: rõ ràng, gọn, quen thuộc với văn phong game/system
+  • comedy: giữ nhịp hài nếu có
+  • serious: giữ sắc thái căng thẳng, trang trọng nếu có
+
+### Term Normalization
+Purpose: Chuẩn hóa thuật ngữ theo văn cảnh truyện, bao gồm chiêu thức, nghề nghiệp, chức vị, cảnh giới, kỹ năng, vật phẩm, danh hiệu, tổ chức, hệ thống, khái niệm thế giới quan và cụm cố định lặp lại.
+Core principles:
+  • context first
+  • not word by word
+  • same source can have different translation if context differs
+  • same source same context must be consistent
+  • same term type should keep style consistent
+  • locked translation only applies to matching context
+  • source plus type plus context equals translation
+Decision rules:
+  • Không dịch thuật ngữ chỉ theo mặt chữ.
+  • Một source có thể có nhiều bản dịch nếu văn cảnh khác nhau.
+  • Một bản dịch đã khóa chỉ áp dụng cho đúng loại văn cảnh đã khóa.
+  • Tên chiêu thức, cảnh giới, pháp bảo quan trọng nên dùng dạng Hán Việt chuẩn, viết hoa nếu là danh từ riêng.
+  • Vật phẩm phổ thông không cần Hán Việt hóa quá mức.
+  • Nghề nghiệp phải xét bối cảnh.
+  • Chức vị phải xét hệ thống xã hội.
+  • Nếu cùng source và cùng văn cảnh, phải giữ nhất quán.
+  • Nếu không chắc văn cảnh, đánh dấu audit.
+
+### Engine Rules
+  • use context pack
+  • use previous chapter summary
+  • use character profile
+  • use story timeline
+  • use glossary
+  • use name scan
+  • use segment context
+  • avoid over literal translation
+  • avoid over smoothing that changes meaning
+
+## Characters
+N/A
+
+## Glossary
+| Chinese | Vietnamese | Type |
+| --- | --- | --- |
+| 产地：衍生 | Sản địa: Phái sinh | term |
+| 天赋评级： | Đánh giá thiên phú: | term |
+| 天赋：限制器 | Thiên phú: Bộ hạn chế | term |
+| 浅打 | Thiển Đả | term |
+
+
+## Story Timeline (latest)
+
+## Chapter 0001 - Chương 1: Ta Có Một Vẻ Đẹp Trị Số
+
+### Summary
+Chapter 1 completed via pipeline.
+
+## Chapter 0002 - Chương 2: Không Gian Chung Yên
+
+### Summary
+Chapter 2 completed via pipeline.
+
+## Chapter 0003 - Chương 3: Hóa Ra Ta Đang Cười
+
+### Summary
+Chapter 3 completed via pipeline.
+
+## Chapter 0004 - Chương 4: Unohana (Truyện mới cầu cất chứa)
+
+### Summary
+Chapter 4 completed via pipeline.
+
+
+## Source Chapter 5 - 0005 我的室友是蓝染？（三更求票）
+# 第5章 我的室友是蓝染？（三更求票）
+
+【浅打】
+产地：衍生世界.死神
+稀有度：精良
+主武器：刀剑类
+耐久度：30/30
+锋锐度：11
+坚韧度：11
+详情：由二枚屋王悦打造，被其所有者写入属于自己的精神、信念后，可成为唯一的斩魄刀，二枚屋王悦称其为“发展力无限的最强斩魄刀”
+武器技能1（被动）：共鸣
+技能描述：与浅打进行共鸣，当得知其真名时，便可获得自身独一无二的斩魄刀。
+当前共鸣进度：0%
+评价：虽然它看起来是大路货，但它真的有无穷潜力。
+盘坐在床上的陆离收回了查阅浅打信息的目光，查看自己获取到的道具详情，是终焉空间赋予的基础契约能力。
+按照契约内容描述，如果自己通过了试炼世界，就会成为正式探索者，到时候还会拥有一个储物空间，身上的东西收放就会方便多了。
+自己是在晚上抵达瀞灵廷的，在卯之花的推荐下，他成为了真央灵术院的预插班生。
+之所以说是预插班生，是因为他此时还不完全算是这里的学生，现在并不是每年真央灵术院招生的时间点，看在卯之花的面子上他被获准可以‘插班’，前提是要通过入学考试。
+他错过了‘入学季’，现在学院会单独为他安排一次简单的考核，算是补流程了。
+显然，卯之花不认为入学考试能难倒自己，看给自己办入住手续的老师的态度，已经把自己当成这里的学生了。
+倒是陆离自己不是很有底，因为他虽然看过一部分死神的漫画，但他并不知道真央灵术院入学考试都会考什么。
+如果会考鬼道之类他完全不了解的东西的话，那可真是难为他了。
+“406……”
+陆离口中低念自己的宿舍号，抬头确认房间后，敲了敲门。
+真央灵术院学员的住宿待遇不错，是两人一间宿舍，听宿舍老师说，自己的舍友是个很不错的人。
+据说其成绩优秀，待人谦和，后续有不懂的自己都可以问他。
+大概过了十几秒，门开了，开门的是一个长着棕色短发与棕色双瞳的青年。
+黑框眼镜下，有着向阳光般温柔的眼神，此时正带着浅浅的微笑，像是一个温柔的大男孩儿。
+见鬼了。
+这是陆离心中的第一个念头。
+他观察着给自己开门的室友，样貌、神态，以及自己的‘强者雷达’探测到那种危险感，都在告诉自己一个可能性。
+他的室友貌似是个原著中出现过的危险人物……蓝染惣右介。
+“同学，有什么事吗？”
+栗色头发的青年开口道。
+陆离回神，“你好，我是新入学的陆离，宿舍被分配在这里。”
+“原来是这样。”
+青年笑了笑，自我介绍道：“蓝染惣右介，欢迎入住。”
+说着，他将陆离带入宿舍，还热心的帮陆离一起整理床铺。
+言谈之间，陆离算是彻底肯定了室友的身份，眼前这个看似人畜无害的大男孩儿，就是未来的发胶手、骚话王，就连穿个拘束衣，也比自己强多了，把时髦值拿捏的死死的。
+但不得不说，跟此时的蓝染交流还是比较愉快的，因为这时候的蓝染表现出的样子完全就是一个温柔谦和的模范室友。
+他不仅帮陆离整理好了床铺，给他介绍了宿舍的各种设施，还给他解答了很多关于真央灵术院的问题，一点没有不耐烦的意思。
+也怪不得宿舍老师说蓝染是个‘好孩子’，同学们都喜欢跟他打交道。
+“对了，蓝染前辈，你是几年级？”
+陆离坐在刚整理好的床上问道，既来之则安之，蓝染就算将来再危险，目前应该也不会搞大事，起码对方不敢在真央灵术院内乱来。
+而且他感觉现在年轻的蓝染的野心还没那么离谱，更多的是扮猪吃老虎的恶趣味。
+“叫我惣右介就好，我也不是什么前辈，和你一样，是今年刚入学的。”
+蓝染一边说着，一边将刚泡好的红茶递给陆离。
+“怪不得我们被分配在一个宿舍。”      陆离恍然，随后礼貌的接过后用空间的鉴定功能看了一眼，确定并不是什么‘昏睡红茶’后浅饮了一口。
+之前蓝染跟他讲了不少真央灵术院内的事，他还以为蓝染已经是这里的老油子了，谁想到对方也只是今年刚入学，比自己多学了几个月而已。
+两人又聊了一会儿，之后就熄灯了，但陆离发现蓝染在熄灯后并没有睡觉，而是盘坐在床上，斩魄刀横于膝前，似乎在感应着什么。
+陆离猜测这多半就是死神提升自我的锻炼方式，只能说蓝染强不是没原因的，人家天赋本来就够变态了，还特么贼卷。
+似乎是感应到了陆离的目光，蓝染睁开眸子，笑容带着些许歉意，“如果有打扰到你休息的话，我可以去阳台。”
+陆离摇头笑道，“不碍事，以后说不定咱俩得一起练呢。”
+说罢，他便转头闭目，装作自己已经睡下了。
+如今他已经安全抵达了真央灵术院，只要明天的入学测验不出岔子，他的第一环任务就算完成了。
+在这里暂时是安全的，他要梳理一下自己目前掌握的信息。
+思索间，陆离在意念中打开了终焉空间的系统菜单，白天因为各种原因他还没来得及探索，他需要好好看看菜单中的内容。
+首先便是除了属性外，他发现还有着血统、功法、技能、专精能力等界面。
+功法栏是空的，在他所处的时代，传说中的那些有奇特能力的功法早就失传了，他所学的只有各种招式。
+某些特殊招式被终焉空间归类为了技能，他所学颇杂，各种实用的、花里胡哨的技能都有，也暂且不表。
+至于血统那一栏也是空的，他没有使用过任何公司的科技与狠活，是纯正的人族。
+最让他感兴趣的一栏是天赋，他也是直到今日才知道自己为何天生神力。
+【天赋：限制器.初解】
+天赋评级：S级（E-～SSS+）
+天赋详情：你的人体限制器已被初步解除，拥有极高的成长性，可通过各种锻炼，突破人体原本的限制，获得极强的力量。
+天赋技能.限制解除（被动）：所有针对于探索者属性提升的修习/锻炼效果，获得1000%的增益。
+天赋评价：哦，天呐，你将来该不会秃头吧？
+陆离看着终焉空间的评价有点难绷，他不知道限制器和秃头到底有什么关系。
+…………
+次日。
+清泉穿膛过，翠竹击石响。
+日光浸过纸糊的窗，洒落在陆离的面庞上，而他的眸子正盯着前方的石台。
+道场内还有不少年轻的学员，穿着白色的道服，好奇的看着陆离。
+是的，现在他正在进行入学测验。
+尽管蓝染已经说过真央灵术院的入学测验很简单，他也肯定能通过，但陆离还是没想到会这么随意。
+他还以为会单独给自己安排一个小黑屋秘密测试呢，看来是他想多了。
+按照方才这位负责剑道教学的藤本老师所说，他只需要测两项，而其中这第一项的灵威测试通过后，就算是真央灵术院的正式学员了。
+并且，合格线在陆离看来十分低，只要能引起测试装置的共鸣即可，这意味着他只要有灵压修行的天赋，就可以入学。
+想来也是，在这个世界里，普通的护庭十三队队士也不过20等灵威那样，也就是说，真央灵术院的毕业生，普遍只有20等灵威。
+那么在灵威的测试中，真央灵术院当然不可能要求学员一上来就有20等灵威乃至其之上的灵威等级才能入学，否则护庭十三队根本就招不到几个学生了。
+在诸多学员、包括蓝染略带好奇的目光中，陆离走上前去，将手放在了这奇特的石台上。
+这个装置据说是现任十二番队队长曳舟桐生开发的，可以精准检测一个人的灵压等级。
+为了检测新学员的天赋，其又在原本的二十等灵威下设置了十个刻度，只要在测试中达到第3刻度，就算是达到了入学标准。
+陆离目光盯着石台上面的显示屏，他自己也很好奇他到底有几等灵威。
+感谢好吃的煲仔饭打赏的10000点币！感谢潋边打赏的5000点币！感谢此间为尼打赏的500点币，感谢五河家的大小姐打赏的200点币，感谢暗影希德打赏的100点币，感谢靥XX（象文盲）打赏的500点币，返现浅梦U墨溪打赏的100点币，感谢掉在盐里的愚者打赏的100点币
+
+
+## Output Format
+Return ONLY valid JSON matching this schema:
+{
+  "chapter_number": 5,
+  "chapter_title_vi": "Chương 5: <Vietnamese title>",
+  "segments": [
+    {
+      "segment_id": "XXXX",
+      "source": "...",
+      "target": "..."
+    }
+  ]
+}

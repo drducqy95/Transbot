@@ -1,0 +1,108 @@
+I will list the contents of the workspace directory to understand the project structure and context.
+I will read the README file to get more context about the Transbot project.
+I will list the contents of the `Script` and `Source` directories to understand how the translation process is set up.
+I will list the contents of the `Source` directory to see the source files being processed.
+I will list the contents of `Source/Source full` to see the original novel text files.
+I will list the contents of the `Global State` directory to find any configuration or state files.
+I will list the contents of `$TRANS_DIR` directory to see if there are any active projects or temporary translation files there.
+I will read one of the pipeline python scripts, e.g., `pipeline_chu-than-quat-khoi.py` to see how translation, terms, names, and glossary are managed.
+I will list the contents of the `Output` directory to find files like `Glossary.md` or `ai_review.json` for reference on how terms are translated and formatted.
+I will search the source files to identify which novel and context these terms belong to.
+I will search for the term "魂源" in the source novels to identify the matching book.
+I will list the contents of the `Source/Source Split` directory to see if there are subfolders for the books.
+I will search for "探索者" across the entire workspace to see where it appears.
+I will read the source file for Chapter 3 in the `Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han` folder to understand the context of the terms.
+I will view the `glossary_scan.json` file in Chapter 3 to see how the terms were parsed and what their statuses are.
+I will view the existing `Glossary.md` and `Character.md` files for the active book to check their format and current contents.
+I will list the contents of the `state` directory of the current book to see what files exist.
+I will list the state directory of another book like `Chu Than Quat Khoi` to see what kind of glossary or character files they have and how they are structured.
+I will list the contents of the `Output/Chu Than Quat Khoi` directory.
+I will read the `ai_review.json` from Chapter 2 of the active book to see the exact structure the AI returned.
+I will list the completed chapters in the output folder of the novel to see if Chapter 2 is there and what its name is.
+I will search for the term "Khám phá" or "thám hiểm" in the translated Chapter 2 to see how the system translates "探索者".
+I will search for "không gian" in Chapter 2 to see the surrounding sentences and find the translation of "探索者".
+I will view lines 40 to 110 of Chapter 2's translated output to see how "探索者" and related terms were translated.
+I will list the contents of the Chapter 3 directory under `pre_trans` to see if `ai_review.json` or other files already exist or what files are present.
+I will check the running background tasks to see if the translation script is currently running.
+I will search for the term "敏捷" in the workspace to see if there is a preferred translation in this codebase (e.g. "Mẫn tiệp" or "Nhanh nhẹn").
+I will list the output directory of `Chu Than Dai Dao` to see the translated chapters.
+I will search for the translation of the attributes line in Chapter 2 of `Chu Than Dai Dao` to see the standard terms used.
+I will search for "thể chất" in the same chapter.
+I will create the `ai_review.json` file in the Chapter 3 folder containing the structured results of the term review and the clean glossary mappings.
+I will update the `glossary_scan.json` file to set all the raw scanned terms' statuses to `"rejected"` since they are either truncated, system UI labels, or specific stats.
+Here is the completed review of the names and terms for Chapter 3 of *Theo Tử Thần Bắt Đầu Đánh Xuyên Qua Tổng Mạn Vô Hạn*. 
+
+The raw scanned terms are mostly noisy system UI attributes, specific character stats, or truncated sentence fragments from brackets (`【` and `】`). I have categorized them all as **rejected** in their raw, truncated forms. However, I have extracted and approved the clean, underlying terms (such as `探索者`, `命源`, `体质`, etc.) with their correct Vietnamese translations in `approved_glossary` so they can be written to the project's permanent `Glossary.md` file.
+
+I have saved these decisions directly to [ai_review.json](file:///mnt/sdcard/My%20Agent/Transbot/Output/Theo%20Tu%20Than%20Bat%20Dau%20Danh%20Xuyen%20Qua%20Tong%20Man%20Vo%20Han/pre_trans/Chapter%200003/ai_review.json) and updated the statuses in [glossary_scan.json](file:///mnt/sdcard/My%20Agent/Transbot/Output/Theo%20Tu%20Than%20Bat%20Dau%20Danh%20Xuyen%20Qua%20Tong%20Man%20Vo%20Han/pre_trans/Chapter%200003/glossary_scan.json).
+
+```json
+{
+  "approved": [],
+  "rejected": [
+    "主线任务（第",
+    "任务内容：",
+    "体质：15点",
+    "力量：15点",
+    "参考：以下各",
+    "命源：100",
+    "因为是第一",
+    "幸运：1点",
+    "探索者404",
+    "敏捷：15点",
+    "注：探索者躯",
+    "等级：lv.",
+    "精神：20点",
+    "魂源：100",
+    "魅力：6点"
+  ],
+  "uncertain": [],
+  "approved_characters": [],
+  "approved_glossary": [
+    {
+      "source": "主线任务",
+      "target": "Nhiệm vụ chính tuyến"
+    },
+    {
+      "source": "探索者",
+      "target": "Khám phá giả"
+    },
+    {
+      "source": "命源",
+      "target": "Mệnh nguyên"
+    },
+    {
+      "source": "魂源",
+      "target": "Hồn nguyên"
+    },
+    {
+      "source": "体质",
+      "target": "Thể chất"
+    },
+    {
+      "source": "力量",
+      "target": "Sức mạnh"
+    },
+    {
+      "source": "敏捷",
+      "target": "Nhanh nhẹn"
+    },
+    {
+      "source": "精神",
+      "target": "Tinh thần"
+    },
+    {
+      "source": "魅力",
+      "target": "Mị lực"
+    },
+    {
+      "source": "幸运",
+      "target": "May mắn"
+    },
+    {
+      "source": "等级",
+      "target": "Cấp độ"
+    }
+  ]
+}
+```
