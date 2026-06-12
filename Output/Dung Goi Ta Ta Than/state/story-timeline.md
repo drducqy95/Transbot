@@ -463,3 +463,8 @@ Chapter 56 completed via pipeline.
 
 ### Summary
 Chapter 57 completed via pipeline.
+
+## Chapter 0058 - Chương 58: Cấp độ huyền thoại
+
+### Summary
+Chapter 58 completed via pipeline.

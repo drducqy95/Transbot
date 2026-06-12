@@ -1,0 +1,381 @@
+{
+  "chapter_number": 58,
+  "chapter_title_vi": "Chương 58: Cấp độ huyền thoại",
+  "segments": [
+    {
+      "segment_id": "0001",
+      "source": "# 第58章 传奇等级",
+      "target": "# Chương 58: Cấp độ huyền thoại"
+    },
+    {
+      "segment_id": "0002",
+      "source": "有了模拟功能，众人的争论直接被终结。",
+      "target": "Có chức năng mô phỏng, cuộc tranh luận của mọi người lập tức chấm dứt."
+    },
+    {
+      "segment_id": "0003",
+      "source": "这还吵什么？",
+      "target": "Còn cãi cọ gì nữa chứ?"
+    },
+    {
+      "segment_id": "0004",
+      "source": "你觉得自己的思路好，那就用“修行模拟器”自己测试一下呗。",
+      "target": "Cậu thấy hướng đi của mình tốt thì cứ tự dùng \"Trình mô phỏng tu hành\" thử nghiệm xem sao."
+    },
+    {
+      "segment_id": "0005",
+      "source": "搭配出来，提升幅度是最直观也是最有说服力的证据。",
+      "target": "Sau khi phối hợp xong, biên độ tăng trưởng là minh chứng trực quan và thuyết phục nhất."
+    },
+    {
+      "segment_id": "0006",
+      "source": "随着“修行模拟器”上线，很快，地窟中各个修行职业路线的信徒们纷纷上手自己测试起来。",
+      "target": "Trình mô phỏng tu hành vừa ra mắt, chẳng mấy chốc, các tín đồ theo những con đường nghề nghiệp khác nhau trong hang đất đã bắt đầu tự mình thử nghiệm."
+    },
+    {
+      "segment_id": "0007",
+      "source": "就连知道成熟的奥术法师专精体系的培特和盖尔俩人，在得知消息后，也忍不住将自己计划的“构筑”放进去测试了一番。",
+      "target": "Ngay cả Pete và Gale, những người vốn biết rõ hệ thống chuyên tinh Pháp sư Huyền thuật đã hoàn thiện, sau khi nhận được tin tức cũng không nhịn được mà đưa \"lối xây dựng\" dự kiến của mình vào để thử nghiệm một phen."
+    },
+    {
+      "segment_id": "0008",
+      "source": "培特和盖尔两个都是2阶法师，因此他们使用的修行模拟器，其效果跟1阶职业者的有些许区别。",
+      "target": "Cả Pete và Gale đều là Pháp sư cấp 2, thế nên Trình mô phỏng tu hành mà họ sử dụng có chút khác biệt so với của chức nghiệp giả cấp 1."
+    },
+    {
+      "segment_id": "0009",
+      "source": "每次模拟消耗的知识点数提升到了10点。",
+      "target": "Điểm tri thức tiêu hao cho mỗi lần mô phỏng tăng lên 10 điểm."
+    },
+    {
+      "segment_id": "0010",
+      "source": "当然，可供选择的各种魔法也多出了大量的2阶魔法。",
+      "target": "Tất nhiên, danh sách ma pháp để lựa chọn cũng xuất hiện thêm rất nhiều ma pháp cấp 2."
+    },
+    {
+      "segment_id": "0011",
+      "source": "培特将卡罗恩学院传授的奥术法师专精体系应当掌握的7、8个魔法放了进去。",
+      "target": "Pete đưa bảy, tám ma pháp cần nắm vững trong hệ thống chuyên tinh Pháp sư Huyền thuật do Học viện Caroen truyền thụ vào."
+    },
+    {
+      "segment_id": "0012",
+      "source": "最后模拟显示的结果是：",
+      "target": "Kết quả mô phỏng cuối cùng hiển thị:"
+    },
+    {
+      "segment_id": "0013",
+      "source": "奥术魔法威力会得到68%的提升；",
+      "target": "Uy lực ma pháp huyền thuật sẽ tăng 68%;"
+    },
+    {
+      "segment_id": "0014",
+      "source": "预计需要花费377个小时的时间去学习，他才能将这些魔法全部学会。",
+      "target": "Dự kiến cần tốn 377 giờ học tập thì cậu mới có thể học hết những ma pháp này."
+    },
+    {
+      "segment_id": "0015",
+      "source": "培特尝试着替换掉了其中的一、二个魔法。",
+      "target": "Pete thử thay thế một, hai ma pháp trong số đó."
+    },
+    {
+      "segment_id": "0016",
+      "source": "模拟结果，威力提升立马降低到了55%。",
+      "target": "Kết quả mô phỏng cho thấy, uy lực tăng lên lập tức giảm xuống còn 55%."
+    },
+    {
+      "segment_id": "0017",
+      "source": "预计花费时间则增长到了459小时。",
+      "target": "Thời gian dự kiến cần tiêu tốn lại tăng lên đến 459 giờ."
+    },
+    {
+      "segment_id": "0018",
+      "source": "对于这个结果，培特并不奇怪。",
+      "target": "Pete không hề ngạc nhiên trước kết quả này."
+    },
+    {
+      "segment_id": "0019",
+      "source": "情理之中，意料之内。",
+      "target": "Hợp tình hợp lý, nằm trong dự liệu."
+    },
+    {
+      "segment_id": "0020",
+      "source": "卡罗恩学院的奥法学派传授的法师修行路线，可是经过多年研究、调整、优化之后得出来的相对优秀、稳定的魔法搭配方案。",
+      "target": "Con đường tu hành của Pháp sư do trường phái Huyền thuật thuộc Học viện Caroen truyền dạy vốn là phương án phối hợp ma pháp tương đối ưu việt và ổn định sau nhiều năm nghiên cứu, điều chỉnh và tối ưu hóa."
+    },
+    {
+      "segment_id": "0021",
+      "source": "替换掉其中的任何一环，都有可能引起连锁反应。",
+      "target": "Thay thế bất kỳ mắt xích nào trong đó cũng có thể dẫn đến phản ứng dây chuyền."
+    },
+    {
+      "segment_id": "0022",
+      "source": "若是他能找到比传统奥术专精法师更好的魔法搭配方案，经过时间沉淀和验证后，那都算是可以写进教科书里的东西。",
+      "target": "Nếu cậu tìm ra phương án phối hợp ma pháp tốt hơn Pháp sư chuyên tinh huyền thuật truyền thống, thì sau khi được thời gian chứng minh và kiểm chứng, đó thậm chí có thể được viết vào sách giáo khoa."
+    },
+    {
+      "segment_id": "0023",
+      "source": "不过，培特已经意识到：",
+      "target": "Thế nhưng, Pete đã nhận ra rằng:"
+    },
+    {
+      "segment_id": "0024",
+      "source": "“修行模拟器”这种东西，如果有实体的话，若是放在其他神明的教会里，保底也是个神器、圣物级别，甚至成为镇教之宝都不为过。",
+      "target": "Thứ như \"Trình mô phỏng tu hành\" này, nếu có thực thể thì đặt trong giáo hội của các vị thần khác tối thiểu cũng thuộc cấp bậc thần khí hay thánh vật, thậm chí trở thành bảo vật trấn giáo cũng không ngoa."
+    },
+    {
+      "segment_id": "0025",
+      "source": "比如公正之神，祂本身的神力并不算强大，信徒也不像那些能成为评级职业者...的亲和度。",
+      "target": "Ví dụ như Thần Công Lý, thần lực của Ngài vốn không hề mạnh mẽ, tín đồ cũng chẳng sở hữu năng lực chiến đấu siêu phàm như tín đồ của các vị thần ban chức nghiệp có cấp bậc khác, thần thuật của Thần Công Lý chỉ là phân định mức độ tương thích của một người phàm với chư vị chính thần."
+    },
+    {
+      "segment_id": "0026",
+      "source": "但偏偏就这一个独家神术，便奠定了公正教会的高贵地位。",
+      "target": "Nhưng chỉ riêng một thần thuật độc quyền này đã đặt nền móng cho địa vị cao quý của Giáo hội Công Lý."
+    },
+    {
+      "segment_id": "0027",
+      "source": "其他人想成为职业者，为了避免选了不适合自己的神明信仰，唯一的办法就是借助公正之神的神术进行测试。",
+      "target": "Người khác muốn trở thành chức nghiệp giả, để tránh chọn phải tín ngưỡng vị thần không phù hợp với mình, cách duy nhất chính là nhờ vào thần thuật của Thần Công Lý để làm bài kiểm tra."
+    },
+    {
+      "segment_id": "0028",
+      "source": "虽然不能提升实力，但可以确保自己不走弯路。",
+      "target": "Tuy không thể nâng cao thực lực, nhưng có thể đảm bảo bản thân không đi đường vòng."
+    },
+    {
+      "segment_id": "0029",
+      "source": "同样的道理。",
+      "target": "Đạo lý cũng tương tự vậy."
+    },
+    {
+      "segment_id": "0030",
+      "source": "表面上看起来，修行模拟器的效果，只是让求知教派的信徒都能找到合适自己的发展路线，无需高阶职业者总结的经验或思路。",
+      "target": "Nhìn bên ngoài, hiệu quả của Trình mô phỏng tu hành dường như chỉ là giúp các tín đồ của giáo phái Cầu Tri tìm ra con đường phát triển thích hợp cho bản thân mà không cần đến kinh nghiệm hay hướng đi do các chức nghiệp giả bậc cao đúc kết."
+    },
+    {
+      "segment_id": "0031",
+      "source": "理论来说，如果信徒们跟培特和盖尔那样，能得到前人的经验的话，他们即使不用修行模拟器，也能知道该怎么选择合适的技能搭配组合。",
+      "target": "Về mặt lý thuyết, nếu các tín đồ cũng có được kinh nghiệm của người đi trước giống như Pete và Gale, thì dù không dùng Trình mô phỏng tu hành, họ vẫn biết cách lựa chọn sự kết hợp kỹ năng phù hợp."
+    },
+    {
+      "segment_id": "0032",
+      "source": "关键在于，那些高阶职业者们总结出来的办法，也是他们当初花费了大量的努力，去一点点试错、摸索出来的结果！",
+      "target": "Mấu chốt nằm ở chỗ, những phương pháp được các chức nghiệp giả cấp cao đúc kết ấy cũng chính là thành quả mà họ từng phải tốn rất nhiều công sức để thử sai, mò mẫm từng chút một!"
+    },
+    {
+      "segment_id": "0033",
+      "source": "效率低，成本高，还没有任何替代方法。",
+      "target": "Hiệu quả thấp, chi phí cao, lại chẳng có bất kỳ phương pháp thay thế nào."
+    },
+    {
+      "segment_id": "0034",
+      "source": "修行模拟器则完全打破了这个困境！",
+      "target": "Trình mô phỏng tu hành đã hoàn toàn đập tan nghịch cảnh này!"
+    },
+    {
+      "segment_id": "0035",
+      "source": "在前人已经走过的地方，修行模拟器的作用的确可以被平替。",
+      "target": "Ở những nơi người đi trước đã khai phá, tác dụng của Trình mô phỏng tu hành quả thực có thể tìm được thứ thay thế tương đương."
+    },
+    {
+      "segment_id": "0036",
+      "source": "但越是靠近未知的领域，模拟的作用就会越大！",
+      "target": "But càng tiếp cận những lĩnh vực chưa biết, vai trò của việc mô phỏng sẽ càng to lớn!"
+    },
+    {
+      "segment_id": "0037",
+      "source": "虽然现在求知教派还只是一群普遍1阶，刚刚成为职业者的家伙，没法完全发挥出修行模拟器的效果。",
+      "target": "Dù hiện tại giáo phái Cầu Tri vẫn chỉ là một nhóm người phổ biến ở cấp 1 và mới trở thành chức nghiệp giả, chưa thể phát huy tối đa hiệu quả của Trình mô phỏng tu hành."
+    },
+    {
+      "segment_id": "0038",
+      "source": "但培特已经可以预想到，修行模拟器的意义，只会随着求知教派的发展而越来越重要！",
+      "target": "Song Pete đã có thể đoán trước được rằng, ý nghĩa của Trình mô phỏng tu hành sẽ ngày càng trở nên quan trọng cùng với sự phát triển của giáo phái Cầu Tri!"
+    },
+    {
+      "segment_id": "0039",
+      "source": "……",
+      "target": "……"
+    },
+    {
+      "segment_id": "0040",
+      "source": "另一边，测试完自己想要的几个战技的蕾娜，则注意到了模拟结果中提醒的“推荐传奇等级”。",
+      "target": "Ở bên kia, Lena sau khi thử nghiệm xong mấy chiến kỹ mình muốn đã chú ý đến mục nhắc nhở \"Cấp độ huyền thoại đề xuất\" trong kết quả mô phỏng."
+    },
+    {
+      "segment_id": "0041",
+      "source": "她选择了一套感觉不错的潜行者技能搭配，但最后建议是14级传奇等级。      通过向诺文祈祷，蕾娜已经得知，她现在的传奇等级为12级。",
+      "target": "Cô chọn một bộ kỹ năng phối hợp khá ổn của Đạo tặc, nhưng đề xuất cuối cùng là cấp độ huyền thoại 14. Thông qua việc cầu nguyện với Norven, Lena đã biết cấp độ huyền thoại hiện tại của mình là cấp 12."
+    },
+    {
+      "segment_id": "0042",
+      "source": "传奇等级，是先前诺文跟传奇经验一起推出的，用来在求知教派内部完善那套老旧的职业者评级体系的新定义。",
+      "target": "Cấp độ huyền thoại là định nghĩa mới được Norven đưa ra cùng với điểm kinh nghiệm huyền thoại trước đó, nhằm hoàn thiện hệ thống đánh giá chức nghiệp giả cũ kỹ trong nội bộ giáo phái Cầu Tri."
+    },
+    {
+      "segment_id": "0043",
+      "source": "这个世界原本的职业者评级很简单。",
+      "target": "Hệ thống xếp hạng chức nghiệp giả ban đầu của thế giới này rất đơn giản."
+    },
+    {
+      "segment_id": "0044",
+      "source": "以牧师为例。",
+      "target": "Lấy Mục sư làm ví dụ."
+    },
+    {
+      "segment_id": "0045",
+      "source": "信仰神明，如果能得到辉光之神赐予的祝福和神术，那就可以成为牧师职业者。",
+      "target": "Tin tưởng thần minh, nếu có thể nhận được lời chúc phúc và thần thuật do Thần Huy Quang ban tặng thì có thể trở thành chức nghiệp giả Mục sư."
+    },
+    {
+      "segment_id": "0046",
+      "source": "赐予的祝福和神术被划分为6个阶段，即1阶到6阶。",
+      "target": "Lời chúc phúc và thần thuật được ban tặng được chia làm 6 giai đoạn, tức là từ cấp 1 đến cấp 6."
+    },
+    {
+      "segment_id": "0047",
+      "source": "6阶之上则为一代传奇。",
+      "target": "Trên cấp 6 chính là một huyền thoại của thế hệ."
+    },
+    {
+      "segment_id": "0048",
+      "source": "每次晋升都能得到更强大的赐福，越是向上，晋升便越困难。",
+      "target": "Mỗi lần thăng cấp đều nhận được sự ban phước mạnh mẽ hơn, càng lên cao thì việc thăng cấp càng khó khăn."
+    },
+    {
+      "segment_id": "0049",
+      "source": "两者的获得顺序是：",
+      "target": "Trình tự nhận được cả hai là:"
+    },
+    {
+      "segment_id": "0050",
+      "source": "先得到祝福强化肉体。",
+      "target": "Nhận được lời chúc phúc để cường hóa cơ thể trước."
+    },
+    {
+      "segment_id": "0051",
+      "source": "而后才能得到神术。",
+      "target": "Sau đó mới có thể nhận được thần thuật."
+    },
+    {
+      "segment_id": "0052",
+      "source": "是否拥有对应阶段的神术，被作为评定牧师职业者阶位的标准。",
+      "target": "Việc có sở hữu thần thuật ở giai đoạn tương ứng hay không được dùng làm tiêu chuẩn để đánh giá cấp bậc của chức nghiệp giả Mục sư."
+    },
+    {
+      "segment_id": "0053",
+      "source": "可是在诺文这里，这一评级标准明显不太适用！",
+      "target": "Thế nhưng ở chỗ Norven, tiêu chuẩn xếp hạng này rõ ràng không mấy áp dụng được!"
+    },
+    {
+      "segment_id": "0054",
+      "source": "诺文可以直接将相关知识给予信徒们。",
+      "target": "Norven có thể trực tiếp ban tri thức liên quan cho các tín đồ."
+    },
+    {
+      "segment_id": "0055",
+      "source": "对求知教派的信徒而言，学习高阶的战技或法术不存在障碍，哪怕是一位普通人，只要知识点数够，完全可以兑换出6阶的大型魔法进行学习。",
+      "target": "Đối với các tín đồ giáo phái Cầu Tri, việc học tập chiến kỹ hoặc pháp thuật cấp cao không hề có rào cản, ngay cả một người bình thường chỉ cần đủ điểm tri thức là hoàn toàn có thể đổi lấy ma pháp quy mô lớn cấp 6 để học tập."
+    },
+    {
+      "segment_id": "0056",
+      "source": "问题在于。",
+      "target": "Vấn đề nằm ở chỗ."
+    },
+    {
+      "segment_id": "0057",
+      "source": "其他神明先赐福肉体强度，而后才会赐下神术是有原因的。",
+      "target": "Các vị thần khác cường hóa thể chất trước rồi mới ban thần thuật là có lý do của nó."
+    },
+    {
+      "segment_id": "0058",
+      "source": "更加强大的技能，需要更好的肉体强度支撑才能正常使用！",
+      "target": "Kỹ năng càng mạnh mẽ thì càng cần thể chất tốt hơn nâng đỡ mới có thể sử dụng bình thường!"
+    },
+    {
+      "segment_id": "0059",
+      "source": "否则的话，就会像培特那次强行释放3阶法术【哈达之饥渴】一样，直接把自己的精神力给抽干透支，放完就晕了过去。",
+      "target": "Nếu không, họ sẽ giống như Pete lần trước, cưỡng ép thi triển pháp thuật cấp 3 【Cơn Đói Khát của Hada】, trực tiếp rút cạn và vắt kiệt tinh thần lực của mình, vừa niệm xong liền ngất đi."
+    },
+    {
+      "segment_id": "0060",
+      "source": "求知教派的情况跟那些信仰其他神明，因为没获得赐福而学不到相关法术不同。",
+      "target": "Tình huống của giáo phái Cầu Tri không giống với việc tín ngưỡng các vị thần khác khi không nhận được sự ban phước thì không thể học được pháp thuật tương ứng."
+    },
+    {
+      "segment_id": "0061",
+      "source": "诺文的信徒是可以提前学会高阶的能力，却会因为肉体强度不够而没法释放。",
+      "target": "Tín đồ của Norven có thể học trước năng lực cấp cao, nhưng lại không thể thi triển vì sức mạnh cơ thể không đủ."
+    },
+    {
+      "segment_id": "0062",
+      "source": "为了避免信徒们出现这种学习超过自己能力范围技能的情况，这才有了诺文设计的【传奇等级】体系。",
+      "target": "Để tránh việc các tín đồ gặp phải tình trạng học kỹ năng vượt quá phạm vi năng lực của bản thân, Norven mới thiết kế ra hệ thống 【Cấp độ huyền thoại】 này."
+    },
+    {
+      "segment_id": "0063",
+      "source": "诺文将不同的战技、魔法、神术需求的肉体强度，进行了分类。",
+      "target": "Norven đã phân loại yêu cầu về thể chất của các chiến kỹ, ma pháp và thần thuật khác nhau."
+    },
+    {
+      "segment_id": "0064",
+      "source": "体质，力量，智力，敏捷，精神，意志。",
+      "target": "Thể chất, Sức mạnh, Trí tuệ, Nhanh nhẹn, Tinh thần, Ý chí."
+    },
+    {
+      "segment_id": "0065",
+      "source": "共计6类属性，对应着不同的身体强度特性。",
+      "target": "Tổng cộng có 6 loại thuộc tính, tương ứng với các đặc tính thể chất khác nhau."
+    },
+    {
+      "segment_id": "0066",
+      "source": "信徒们可以消耗他们得到的传奇经验，提升传奇等级。",
+      "target": "Tín đồ có thể tiêu hao kinh nghiệm huyền thoại nhận được để nâng cao cấp độ huyền thoại."
+    },
+    {
+      "segment_id": "0067",
+      "source": "每次提升等级，都可以获得3点供信徒们自行分配的自由属性，用来强化他们的身体。",
+      "target": "Mỗi lần thăng cấp đều có thể nhận được 3 điểm thuộc tính tự do để tín đồ tự phân bổ, dùng để tăng cường cơ thể họ."
+    },
+    {
+      "segment_id": "0068",
+      "source": "更加强大的技能，诺文也根据其相关特性，提供了建议的各项属性数值作为参考。",
+      "target": "Với những kỹ năng mạnh mẽ hơn, Norven cũng cung cấp các trị số thuộc tính đề xuất dựa trên đặc tính liên quan của chúng để tham khảo."
+    },
+    {
+      "segment_id": "0069",
+      "source": "这相当于提醒信徒们，如果自己实力不到位的话，就别好高骛远去尝试那些高阶的能力。",
+      "target": "Điều này tương đương với việc nhắc nhở tín đồ rằng, nếu thực lực của mình chưa tới nơi tới chốn thì đừng có cao đạo mà đi thử thách những năng lực cấp cao đó."
+    },
+    {
+      "segment_id": "0070",
+      "source": "诺文希望信徒们能自由选择他们想要行走的道路，也希望他们能脚踏实地，从基础开始努力。",
+      "target": "Norven hy vọng các tín đồ có thể tự do lựa chọn con đường mình muốn đi, đồng thời cũng mong họ có thể bước đi vững chãi, nỗ lực bắt đầu từ những điều cơ bản."
+    },
+    {
+      "segment_id": "0071",
+      "source": "只不过。",
+      "target": "Có điều."
+    },
+    {
+      "segment_id": "0072",
+      "source": "当“修行模拟器”与“传奇等级”二者结合，却爆发出了连诺文都没想到的奇妙化学反应！",
+      "target": "Khi \"Trình mô phỏng tu hành\" kết hợp với \"Cấp độ huyền thoại\", nó lại bùng nổ một phản ứng hóa học kỳ diệu mà ngay cả Norven cũng không ngờ tới!"
+    },
+    {
+      "segment_id": "0073",
+      "source": "……",
+      "target": "……"
+    },
+    {
+      "segment_id": "0074",
+      "source": "感谢恋心C投出的2张月票，感谢 Roy_DB，火腿de，啊这Dc投出的1张月票！万分感谢各位投出推荐票的读者朋友，谢谢你们！",
+      "target": "Cảm ơn Luyến Tâm C đã bỏ 2 phiếu tháng, cảm ơn Roy_DB, Hỏa Đùi de, A Thế Dc đã bỏ 1 phiếu tháng! Vô cùng cảm ơn các bạn độc giả đã bỏ phiếu đề cử, xin cảm ơn mọi người!"
+    },
+    {
+      "segment_id": "0075",
+      "source": "PS：至此，第一卷诺文能力已全部解锁。欢迎加入求知教派，走上人生巅峰。",
+      "target": "T.B: Đến đây, toàn bộ năng lực của Norven ở quyển một đã được mở khóa. Chào mừng gia nhập giáo phái Cầu Tri, bước lên đỉnh cao cuộc đời."
+    }
+  ]
+}

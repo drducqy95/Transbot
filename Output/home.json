@@ -196,11 +196,11 @@
           "title": "Đông phương"
         }
       ],
-      "completed_chapters": 58,
+      "completed_chapters": 59,
       "total_chapters": 968,
-      "latest_chapter": "Chương 57: Trình mô phỏng tu hành đã ra mắt!",
+      "latest_chapter": "Chương 58: Cấp độ huyền thoại",
       "detail": "Tiến độ: 54/968 chương | Mới nhất: Chương 54: Cứ điểm tạm thời",
-      "updated_at": "2026-06-12T14:47:43+07:00",
+      "updated_at": "2026-06-12T14:57:10+07:00",
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Dung Goi Ta Ta Than/README.md",
       "toc_path": "Output/Dung Goi Ta Ta Than/toc.json"
@@ -971,7 +971,7 @@
     }
   ],
   "metadata": {
-    "generated_at": "2026-06-12T14:56:26+07:00",
+    "generated_at": "2026-06-12T14:57:10+07:00",
     "total_books": 17,
     "source": "Dichtrung/Output"
   },
