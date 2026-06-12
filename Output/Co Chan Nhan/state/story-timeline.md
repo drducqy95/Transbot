@@ -23,3 +23,8 @@ Chapter 6 completed via pipeline.
 
 ### Summary
 Chapter 6 completed via pipeline.
+
+## Chapter 0007 - Chương 7: Cổ sư chia cửu chuyển, Hoa Tửu lưu di tàng
+
+### Summary
+Chapter 7 completed via pipeline.

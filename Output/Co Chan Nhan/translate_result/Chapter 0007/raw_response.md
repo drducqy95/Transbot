@@ -1,0 +1,303 @@
+I will list the directory contents of the workspace to see if there are files like a glossary, previous chapters, or translation rules.
+I will list the contents of the `Source` and `Script` directories to see how the chapters and tools are organized.
+I will list the `Output` directory to check if there are previous translated chapters that we can use for style consistency.
+I will list the contents of the `Output/Co Chan Nhan` directory to see if there are translated chapters or metadata available.
+I will list the contents of `Output/Co Chan Nhan/translate_result` to see the format and contents of already translated chapters.
+I will list the contents of the `Output/Co Chan Nhan/translate_result/Chapter 0006` directory.
+I will view the contents of the translated segments for Chapter 6 to align with the translation style and vocabulary.
+I will view the `toc.json` file in the output directory of Co Chan Nhan to check if there are standard chapter titles we should match.
+I will search the previously translated chapters for "万物之灵" or "天地之精" to see if there is an existing translation for this famous quote.
+I will view the translation of Chapter 2 around line 67 to see how the quote "人是万物之灵长，蛊是天地之精华" was translated.
+I will search for "gia lão" in Chapter 6 to see what pronouns were used in dialogues between the elder and the students.
+I will search the translate_result folder to see what pronouns are used to address children in the clan.
+I will search the translate_result folder for "các ngươi".
+I will search the translate_result folder to see if "村" is translated as "thôn", "làng" or "trại".
+I will search the translate_result folder for the word "trại" to see if it is used for the clan village.
+```json
+{
+  "chapter_number": 7,
+  "chapter_title_vi": "Chương 7: Cổ sư chia cửu chuyển, Hoa Tửu lưu di tàng",
+  "segments": [
+    {
+      "segment_id": "0001",
+      "source": "# 第七节：蛊师有九转，花酒留遗藏",
+      "target": "# Chương 7: Cổ sư chia cửu chuyển, Hoa Tửu lưu di tàng"
+    },
+    {
+      "segment_id": "0002",
+      "source": "很快，一个星期就过去了。",
+      "target": "Rất nhanh, một tuần lễ đã trôi qua."
+    },
+    {
+      "segment_id": "0003",
+      "source": "“人是万物之灵，蛊是天地之精。在这个世界上存在着成千上万种，数不胜数的蛊。它们就生活在我们的周围，在矿土里，在草丛里，甚至在野兽的体内。”",
+      "target": "“Con người là anh linh của vạn vật, Cổ là tinh hoa của đất trời. Trên thế gian này tồn tại hàng hà sa số, nhiều không kể xiết các loại Cổ. Chúng sinh sống ngay xung quanh chúng ta, trong đất đá, trong bụi cỏ, thậm chí là ở bên trong cơ thể dã thú.”"
+    },
+    {
+      "segment_id": "0004",
+      "source": "“在人类繁衍生息的过程中，先贤们逐步发现了蛊虫的奥妙。已经开辟空窍，运用本身真元来喂养、炼化、操控这些蛊，达到各种目的的人，我们统称为蛊师。”",
+      "target": "“Trong quá trình nhân loại sinh sôi nảy nở, các bậc tiên hiền đã dần phát hiện ra sự huyền diệu của cổ trùng. Những người đã khai mở không khiếu, sử dụng chân nguyên của bản thân để nuôi dưỡng, luyện hóa, khống chế những con Cổ này nhằm đạt được những mục đích khác nhau, chúng ta gọi chung là Cổ sư.”"
+    },
+    {
+      "segment_id": "0005",
+      "source": "“而你们在七天前的开窍大典中，都已经成功开辟了空窍，凝聚了真元海，如今已经都是一转蛊师了。”",
+      "target": "“Mà các ngươi trong đại điển khai khiếu bảy ngày trước, đều đã thành công khai mở không khiếu, ngưng tụ chân nguyên hải, hiện tại đều đã là Cổ sư nhất chuyển rồi.”"
+    },
+    {
+      "segment_id": "0006",
+      "source": "山寨中的学堂中，学堂家老正侃侃而谈。",
+      "target": "Trong học đường của sơn trại, học đường gia lão đang dõng dạc giảng giải."
+    },
+    {
+      "segment_id": "0007",
+      "source": "在他的对面，端坐着五十七位少年，一个个都聚精会神的听着。",
+      "target": "Ở phía đối diện lão, năm mươi bảy vị thiếu niên đang ngồi ngay ngắn, từng người đều tập trung tinh thần lắng nghe."
+    },
+    {
+      "segment_id": "0008",
+      "source": "蛊师的神奇和强大，早就深入少年们的内心。因此家老讲述的一切，都深深地吸引着他们。",
+      "target": "Sự thần kỳ và mạnh mẽ của Cổ sư vốn đã ăn sâu vào trong lòng của các thiếu niên. Vì thế những điều mà gia lão giảng giải đều thu hút họ một cách sâu sắc."
+    },
+    {
+      "segment_id": "0009",
+      "source": "这时，一位少年举手，得到家老允许后，便站起来发问：“家老大人，我很小时就知道，蛊师有一转，二转等等之分，您能为我们详细讲述一下吗？”",
+      "target": "Đúng lúc này, một vị thiếu niên giơ tay, sau khi được gia lão cho phép liền đứng dậy hỏi: “Gia lão đại nhân, từ nhỏ con đã biết Cổ sư có sự phân biệt nhất chuyển, nhị chuyển vân vân, ngài có thể giảng giải chi tiết cho chúng con nghe được không?”"
+    },
+    {
+      "segment_id": "0010",
+      "source": "古月师点点头，摆手示意少年坐下：“蛊师一共有九大境界，从下到上，分别是一转、二转、三转直至九转。每一转大境界中又分初阶、中阶、高阶、巅峰四个小境界。你们刚刚成为蛊师，都是一转初阶。”",
+      "target": "Gia lão Cổ Nguyệt gật đầu, xua tay ra hiệu cho thiếu niên ngồi xuống: “Cổ sư tổng cộng có chín đại cảnh giới, từ dưới lên trên lần lượt là nhất chuyển, nhị chuyển, tam chuyển cho đến cửu chuyển. Trong mỗi một đại cảnh giới lại chia thành bốn tiểu cảnh giới là sơ giai, trung giai, cao giai và điên phong. Các ngươi vừa mới trở thành Cổ sư, đều là nhất chuyển sơ giai.”"
+    },
+    {
+      "segment_id": "0011",
+      "source": "“若是今后你们努力修行，修为自然就会提高，晋升二转、三转也有可能。当然了，资质越高，晋升的可能性就越大。”",
+      "target": "“Nếu như sau này các ngươi nỗ lực tu hành, tu vi tự nhiên sẽ nâng cao, việc tấn thăng nhị chuyển, tam chuyển cũng là điều có thể. Đương nhiên, tư chất càng cao thì khả năng tấn thăng lại càng lớn.”"
+    },
+    {
+      "segment_id": "0012",
+      "source": "“丁等资质，元海占据空窍两三成，往往最高能修行到一转二转。丙等资质，元海是空窍的四五成，通常会停在二转境界，只有很少一部分能侥幸突破到三转初阶。乙等资质，元海占据整个空窍的六七成，能修到三转，甚至四转。甲等资质，元海充足，是空窍的八九成，这样的人自然天赋最高，最适合蛊师修行，能修行到五转。”",
+      "target": "“Tư chất hạng Đinh, nguyên hải chiếm hai ba thành không khiếu, thường thường cao nhất chỉ có thể tu hành đến nhất chuyển, nhị chuyển. Tư chất hạng Bính, nguyên hải chiếm bốn năm thành không khiếu, thông thường sẽ dừng lại ở cảnh giới nhị chuyển, chỉ có một bộ phận cực kỳ nhỏ có thể may mắn đột phá đến tam chuyển sơ giai. Tư chất hạng Ất, nguyên hải chiếm sáu bảy thành toàn bộ không khiếu, có thể tu luyện tới tam chuyển, thậm chí là tứ chuyển. Tư chất hạng Giáp, nguyên hải dồi dào, chiếm tám chín thành không khiếu, người như vậy thiên phú tự nhiên là cao nhất, thích hợp nhất cho Cổ sư tu hành, có thể tu luyện tới ngũ chuyển.”"
+    },
+    {
+      "segment_id": "0013",
+      "source": "“至于六转向上的蛊师，每一个都是传奇，具体的我也不太清楚。我们古月一族，也没有出现过六转蛊师，但是五转、四转蛊师都有过。”",
+      "target": "“Còn về Cổ sư từ lục chuyển trở lên, mỗi một người đều là truyền kỳ, cụ thể thế nào ta cũng không rõ lắm. Tộc Cổ Nguyệt chúng ta cũng chưa từng xuất hiện Cổ sư lục chuyển, nhưng Cổ sư ngũ chuyển, tứ chuyển đều từng có.”"
+    },
+    {
+      "segment_id": "0014",
+      "source": "少年们的耳朵都竖起来，双眼炯炯发亮地听着。",
+      "target": "Lỗ tai của các thiếu niên đều dựng cả lên, đôi mắt sáng ngời chăm chú lắng nghe."
+    },
+    {
+      "segment_id": "0015",
+      "source": "许多人不由自主地看向第一排正襟危坐的古月方正，这可是甲等资质啊，目光中无不充满了羡慕嫉妒的情感。",
+      "target": "Nhiều người không tự chủ được mà nhìn về phía Cổ Nguyệt Phương Chính đang ngồi ngay ngắn ở hàng đầu tiên, đây chính là tư chất hạng Giáp đấy, trong ánh mắt của bọn họ không ai không tràn đầy sự hâm mộ và ghen tị."
+    },
+    {
+      "segment_id": "0016",
+      "source": "同时也有一部分目光飘向学堂最后一排的那个角落。",
+      "target": "Đồng thời cũng có một bộ phận ánh mắt hướng về phía góc phòng ở hàng cuối cùng của học đường."
+    },
+    {
+      "segment_id": "0017",
+      "source": "那靠着窗户的角落里，古月方源正趴在桌子上呼呼大睡。",
+      "target": "Ở góc phòng tựa sát cửa sổ kia, Cổ Nguyệt Phương Nguyên đang gục trên bàn ngủ say sưa."
+    },
+    {
+      "segment_id": "0018",
+      "source": "“看，还在睡呢。”有人轻轻地道。",
+      "target": "“Nhìn kìa, vẫn còn đang ngủ đấy.” Có người nhỏ giọng nói."
+    },
+    {
+      "segment_id": "0019",
+      "source": "“已经连续睡了一个星期了吧，还没缓过来？”有人撇嘴。",
+      "target": "“Đã ngủ liên tục một tuần rồi nhỉ, vẫn chưa lấy lại tinh thần sao?” Có người bĩu môi."
+    },
+    {
+      "segment_id": "0020",
+      "source": "“何止呢，听说他晚上都夜不归宿，在村外周边游荡。”",
+      "target": "“Đâu chỉ thế, nghe nói ban đêm hắn toàn đi qua đêm không về, lảng vảng xung quanh bên ngoài sơn trại.”"
+    },
+    {
+      "segment_id": "0021",
+      "source": "“有人还不止一次看到，在晚上他抱着个酒坛，烂醉在外面呢。幸好这些年，村子周围已经被肃清，比较安全。”同窗们交头接耳，各种小道消息迅速流传着。",
+      "target": "“Có người còn nhìn thấy không chỉ một lần, buổi tối hắn ôm một vò rượu, say khướt ở bên ngoài đấy. Cũng may những năm gần đây, xung quanh sơn trại đã được tiễu trừ sạch sẽ, tương đối an toàn.” Các bạn học rỉ tai nhau, đủ loại tin đồn nhanh chóng lan truyền."
+    },
+    {
+      "segment_id": "0022",
+      "source": "“唉，打击的确太大了。自己顶着天才的名称那么多年，想不到到头来只是个丙等，呵呵。”",
+      "target": "“Haiz, đả kích quả thực quá lớn mà. Bản thân mang danh thiên tài ngần ấy năm, không ngờ đến cuối cùng lại chỉ là hạng Bính, ha ha.”"
+    },
+    {
+      "segment_id": "0023",
+      "source": "“要是这样也就罢了。偏偏自己的那个亲弟弟，被测出了甲等，如今万众瞩目，享受最好的待遇。弟弟在天，哥哥在地呀，啧啧……”",
+      "target": "“Nếu chỉ như vậy thì cũng thôi đi. Đằng này đứa em trai ruột của hắn lại đo được tư chất hạng Giáp, giờ đây vạn người chú ý, hưởng thụ đãi ngộ tốt nhất. Em trai ở trên trời, anh trai ở dưới đất nha, chậc chậc...”"
+    },
+    {
+      "segment_id": "0024",
+      "source": "听着耳边越来越大的议论声，学堂家老的眉头已经凝成了一个疙瘩。",
+      "target": "Nghe thấy tiếng bàn tán xôn xao bên tai ngày càng lớn, chân mày của học đường gia lão đã nhíu chặt lại thành một nút thắt."
+    },
+    {
+      "segment_id": "0025",
+      "source": "整个教室内，少年们无不正襟危坐，焕发着生机活力，因此更显得摊睡在桌上的方源越加醒目刺眼。",
+      "target": "Trong toàn bộ lớp học, các thiếu niên đều ngồi ngay ngắn, tràn đầy sinh khí và sức sống, vì vậy càng khiến cho Phương Nguyên đang nằm gục trên bàn ngủ trở nên nổi bật và chướng mắt hơn."
+    },
+    {
+      "segment_id": "0026",
+      "source": "“已经一周过去了，还这么颓废。哼，当初也是看走了眼，这样的人怎么可能是个天才！”家老在心中不悦地冷哼。对于这个情况，他已经说过方源很多次了。但是毫无效果，方源仍旧我行我素。每节课都是睡过去的，让负责教学的家老十分头疼和恼火。",
+      "target": "“Đã một tuần trôi qua mà vẫn sa sút như thế. Hừ, lúc trước đúng là nhìn lầm người, hạng người thế này sao có thể là một thiên tài!” Gia lão bất mãn lạnh lùng hừ một tiếng trong lòng. Đối với tình trạng này, lão đã nhắc nhở Phương Nguyên rất nhiều lần, nhưng hoàn toàn vô hiệu, Phương Nguyên vẫn làm theo ý mình như cũ. Tiết học nào cũng ngủ từ đầu đến cuối, khiến gia lão phụ trách dạy học vô cùng đau đầu và bực bội."
+    },
+    {
+      "segment_id": "0027",
+      "source": "“算了，不过是个丙等。连这点打击都承受不住，就这样的心性培养出来，也难堪大用，反而是浪费家族资源。”家老心中对方源十分失望。",
+      "target": "“Thôi bỏ đi, dù sao cũng chỉ là một hạng Bính. Đến chút đả kích này cũng không chịu nổi, tâm tính như thế này dù có bồi dưỡng ra cũng khó gánh vác việc lớn, ngược lại còn lãng phí tài nguyên của gia tộc.” Gia lão vô cùng thất vọng về Phương Nguyên trong lòng."
+    },
+    {
+      "segment_id": "0028",
+      "source": "方源不过是丙等资质，相比较而言，他弟弟方正拥有甲等资质，这才是值得让家族花大力气培养的对象。",
+      "target": "Phương Nguyên chẳng qua chỉ là tư chất hạng Bính, so sánh ra thì đứa em trai Phương Chính của hắn sở hữu tư chất hạng Giáp mới là đối tượng đáng để gia tộc bỏ ra công sức to lớn để bồi dưỡng."
+    },
+    {
+      "segment_id": "0029",
+      "source": "学堂家老一边想着，一边口中又继续刚刚的话题：“在我族的历史上，出现过许多的强者。其中五转强者，就有两位。一位是一代族长，是我们的老祖宗，就是他创立了古月山寨。还有一位，是四代族长。天资卓越，一直修行到了五转蛊师的境界。要不是那个卑鄙无耻的魔头花酒行者偷袭的话，兴许能晋升成六转蛊师也说不定。唉……”",
+      "target": "Học đường gia lão vừa suy nghĩ, vừa tiếp tục chủ đề khi nãy: “Trong lịch sử của gia tộc ta, từng xuất hiện rất nhiều cường giả. Trong đó, cường giả ngũ chuyển có hai vị. Một vị là tộc trưởng đời thứ nhất, cũng là lão tổ tông của chúng ta, chính ông ấy đã sáng lập ra Cổ Nguyệt sơn trại. Còn một vị nữa là tộc trưởng đời thứ tư. Thiên tư trác tuyệt, tu hành một mạch đến cảnh giới Cổ sư ngũ chuyển. Nếu không phải bị tên ma đầu đê tiện vô sỉ Hoa Tửu hành giả dùng kế đánh lén, nói không chừng ngài ấy đã có thể tấn thăng thành Cổ sư lục chuyển rồi. Haiz...”"
+    },
+    {
+      "segment_id": "0030",
+      "source": "说到这里，古月师深深一叹。",
+      "target": "Nói đến đây, gia lão Cổ Nguyệt thở dài một tiếng thật sâu."
+    },
+    {
+      "segment_id": "0031",
+      "source": "讲台下，少年们都义愤填膺地叫嚷起来。",
+      "target": "Bên dưới giảng đài, các thiếu niên đều đầy lòng phẫn nộ mà la ó lên."
+    },
+    {
+      "segment_id": "0032",
+      "source": "“都是那花酒行者，太阴险狡诈了！”",
+      "target": "“Đều tại tên Hoa Tửu hành giả kia, quá đỗi âm hiểm xảo trá!”"
+    },
+    {
+      "segment_id": "0033",
+      "source": "“可惜我们四代族长宅心仁厚，英年早逝。”",
+      "target": "“Đáng tiếc cho tộc trưởng đời thứ tư của chúng ta trạch tâm nhân hậu, anh niên mất sớm.”"
+    },
+    {
+      "segment_id": "0034",
+      "source": "“只恨我没有早生几百年，否则见到那个魔头，定要拼死揭破他的丑恶嘴脸。”",
+      "target": "“Chỉ hận ta không sinh sớm mấy trăm năm, nếu không hễ gặp tên ma đầu kia, nhất định phải liều chết vạch trần bộ mặt xấu xa của hắn.”"
+    },
+    {
+      "segment_id": "0035",
+      "source": "四代族长和花酒行者的典故，古月族人没有一个不知道的。",
+      "target": "Điển tích về tộc trưởng đời thứ tư và Hoa Tửu hành giả, người của bộ tộc Cổ Nguyệt không một ai là không biết."
+    },
+    {
+      "segment_id": "0036",
+      "source": "花酒行者同样是五转蛊师，是为恶多年的采花大盗，在当时的魔道中赫赫有名。数百年前，他流窜到青茅山，企图在古月山寨中作案，结果被四代族长识破。一场惊天动地的大激战之后，花酒行者被打的跪地求饶，四代族长心慈仁厚，打算饶他一命。结果花酒行者突然发难偷袭，重伤四代族长。",
+      "target": "Hoa Tửu hành giả cũng là một Cổ sư ngũ chuyển, là tên hái hoa tặc làm ác nhiều năm, vô cùng nổi danh trong ma đạo thời bấy giờ. Mấy trăm năm trước, hắn lẩn trốn đến Thanh Mao sơn, mưu đồ gây án trong Cổ Nguyệt sơn trại, kết quả bị tộc trưởng đời thứ tư phát giác. Sau một trận ác chiến kinh thiên động địa, Hoa Tửu hành giả bị đánh tới mức quỳ xuống đất xin tha, tộc trưởng đời thứ tư lòng dạ nhân từ, định tha cho hắn một mạng. Không ngờ Hoa Tửu hành giả đột ngột ra tay đánh lén, khiến tộc trưởng đời thứ tư bị trọng thương."
+    },
+    {
+      "segment_id": "0037",
+      "source": "族长大怒，当场击毙了花酒行者，但是随后也重伤不治，撒手人寰。",
+      "target": "Tộc trưởng đại nộ, tại chỗ đánh chết Hoa Tửu hành giả, thế nhưng sau đó cũng bởi vì vết thương quá nặng không trị nổi mà buông tay nhân gian."
+    },
+    {
+      "segment_id": "0038",
+      "source": "因此，在所有古月族人的心中，四代族长是为了山寨而牺牲的英雄人物。",
+      "target": "Bởi vậy, trong lòng tất cả tộc nhân Cổ Nguyệt, tộc trưởng đời thứ tư là một anh hùng đã hy sinh vì sơn trại."
+    },
+    {
+      "segment_id": "0039",
+      "source": "“花酒行者么……”被学堂中的声讨吵醒，角落里方源睁开了朦胧的睡眼。",
+      "target": "“Hoa Tửu hành giả sao...” Bị tiếng la ó trong học đường làm thức giấc, ở trong góc, Phương Nguyên mở ra đôi mắt ngái ngủ nhập nhèm."
+    },
+    {
+      "segment_id": "0040",
+      "source": "他结结实实地伸了个大懒腰，心中也不无怨念：“这个花酒行者，到底死在哪里？为什么我将山寨周围都转了个遍，还未找到他的遗产？”",
+      "target": "Hắn vươn vai một cái thật sảng khoái, trong lòng cũng không khỏi oán thán: “Tên Hoa Tửu hành giả này rốt cuộc là chết ở chỗ nào? Tại sao ta đã đi tìm khắp xung quanh sơn trại một lượt mà vẫn chưa tìm thấy di sản của hắn?”"
+    },
+    {
+      "segment_id": "0041",
+      "source": "记忆中，大约是两个月后，一位因为失恋而醉酒的族内蛊师，烂醉如泥地躺在山寨外，结果四溢的酒香气息，意外地引来了一头酒虫。",
+      "target": "Trong ký ức của hắn, đại khái khoảng hai tháng sau, một vị Cổ sư trong tộc vì thất tình mà say rượu, say mèm nằm gục bên ngoài sơn trại, kết quả là hương rượu tỏa ra bốn phía đã vô tình dẫn dụ một con Tửu trùng đến."
+    },
+    {
+      "segment_id": "0042",
+      "source": "蛊师大喜，想要捕捉。酒虫慌忙逃窜，蛊师紧追不舍，顺着酒虫的踪迹，发现了一处隐秘的洞口，通往地下。",
+      "target": "Vị Cổ sư kia mừng rỡ khôn xiết, muốn bắt lấy nó. Tửu trùng hoảng hốt chạy trốn, Cổ sư đuổi theo không buông, dọc theo dấu vết của Tửu trùng mà phát hiện ra một cửa hang ẩn mật thông xuống lòng đất."
+    },
+    {
+      "segment_id": "0043",
+      "source": "酒虫是很珍贵的一种蛊，这蛊师带着酒意，就冒险进入洞口，来到地下秘洞。然后就发现了花酒行者的尸骸，还有留下来的遗产。",
+      "target": "Tửu trùng là một loại Cổ rất trân quý, vị Cổ sư kia nhân lúc đang ngà ngà say đã mạo hiểm đi vào cửa hang, tới một bí động dưới lòng đất. Rồi ở đó hắn phát hiện ra hài cốt của Hoa Tửu hành giả cùng di sản để lại."
+    },
+    {
+      "segment_id": "0044",
+      "source": "蛊师回到山寨后，汇报了所有的发现，立即引起了整个家族的大轰动。",
+      "target": "Cổ sư kia sau khi trở về sơn trại liền hồi báo lại tất cả những gì phát hiện được, ngay lập tức dẫn tới một trận oanh động lớn trong toàn bộ gia tộc."
+    },
+    {
+      "segment_id": "0045",
+      "source": "而那蛊师也因此得益，修为越加突出，反而吸引了那个曾经抛弃他的情侣回转了心意。成为一时的风云人物。",
+      "target": "Mà vị Cổ sư kia cũng vì vậy được hưởng lợi, tu vi ngày càng xuất sắc, ngược lại còn khiến cho người yêu từng ruồng bỏ hắn phải hồi tâm chuyển ý, trong phút chốc trở thành nhân vật phong vân một thời."
+    },
+    {
+      "segment_id": "0046",
+      "source": "“可惜这个消息，我也只听说了大概，并不知道确切的位置。当时也没想到会有重生的这一天啊。花酒行者，你到底死在哪里？”",
+      "target": "“Đáng tiếc tin tức này ta cũng chỉ nghe được đại khái, chứ không biết vị trí chính xác. Khi đó đâu có ngờ được bản thân sẽ có ngày trùng sinh chứ. Hoa Tửu hành giả, ngươi rốt cuộc chết ở chỗ nào vậy?”"
+    },
+    {
+      "segment_id": "0047",
+      "source": "他这些天来，买了许多酒，一到夜晚就在山寨周围闲逛。想借着散发的酒气，来吸引到酒虫露面。可惜，就是不见那酒虫，结果令人十分失望。",
+      "target": "“Những ngày qua hắn đã mua rất nhiều rượu, cứ đến tối là lại lảng vảng xung quanh sơn trại. Mục đích là muốn mượn mùi rượu tỏa ra để hấp dẫn Tửu trùng lộ diện. Đáng tiếc, chỉ là chẳng thấy con Tửu trùng kia đâu, kết quả thật khiến người ta vô cùng thất vọng.”"
+    },
+    {
+      "segment_id": "0048",
+      "source": "“若是找到那酒虫，炼化为本命蛊，比家族中的月光蛊要好多了。眨眼间，已经到了四月，时不我待呀。”方源叹了一口气，视线转向窗外。",
+      "target": "“Nếu tìm thấy Tửu trùng kia rồi luyện hóa làm bản mệnh Cổ thì tốt hơn Nguyệt Quang cổ của gia tộc nhiều rồi. Chớp mắt một cái đã tới tháng Tư, thời gian không đợi người a.” Phương Nguyên khẽ thở dài một tiếng, ánh mắt dời ra phía ngoài cửa sổ."
+    },
+    {
+      "segment_id": "0049",
+      "source": "只见蓝天白云下，群山葱茏延绵开去。近处则是一片竹林。",
+      "target": "Chỉ thấy dưới bầu trời xanh mây trắng, non xanh mướt mát trải dài vô tận. Gần đó là một mảnh rừng trúc."
+    },
+    {
+      "segment_id": "0050",
+      "source": "这是青茅山特有的矛竹，各个笔直得像一条直线，同时尖端锋锐异常，如同枪尖。",
+      "target": "Đây là Mâu trúc đặc sản của Thanh Mao sơn, mỗi một cây đều thẳng tắp như kẻ chỉ, đồng thời đầu ngọn lại vô cùng sắc bén, tựa như mũi thương."
+    },
+    {
+      "segment_id": "0051",
+      "source": "不远处的树林，已经泛起了新绿。抽出的嫩芽，黄绿一片。不时有漂亮的彩雀儿，落到枝干上。",
+      "target": "Cánh rừng cách đó không xa đã phủ một màu xanh non. Những chồi non mới nhú mang sắc xanh xen lẫn vàng nhạt. Thỉnh thoảng có những chú chim sẻ sặc sỡ xinh đẹp đậu xuống trên cành cây."
+    },
+    {
+      "segment_id": "0052",
+      "source": "春风袭来，将青山绿水的清新气息包裹着，吹洒人间。",
+      "target": "Gió xuân thoảng qua, cuộn lấy hơi thở trong lành của non xanh nước biếc thổi vào nhân gian."
+    },
+    {
+      "segment_id": "0053",
+      "source": "不知不觉间，这堂课接近了尾声。学堂家老最后通知道：“这一周来，我教会你们如何冥想，察看自身的空窍元海。如何打坐，调动体内的真元。现在是时候炼化你们的本命蛊了。这节课结束后，你们就去学堂里的蛊室，挑选蛊虫。选了蛊虫之后，就回家潜修。直到炼化了蛊虫，再来学堂继续上课。同时，这也是你们的第一场考核。谁能拔得头筹，就会有二十块元石的丰厚奖励。”",
+      "target": "Bất tri bất giác, buổi học đã trôi dần về cuối. Học đường gia lão đưa ra thông báo cuối cùng: “Một tuần qua, ta đã dạy các ngươi cách minh tưởng, quan sát không khiếu nguyên hải của bản thân; cách đả tọa, điều động chân nguyên trong cơ thể. Hiện giờ đã tới lúc các ngươi luyện hóa bản mệnh Cổ của mình rồi. Sau khi buổi học này kết thúc, các ngươi hãy đi đến Cổ thất trong học đường để lựa chọn cổ trùng. Lựa chọn xong thì về nhà tiềm tu, cho tới khi luyện hóa thành công cổ trùng mới quay lại học đường tiếp tục học tập. Đồng thời, đây cũng là kỳ khảo hạch đầu tiên của các ngươi. Ai có thể giành được vị trí đầu tiên sẽ được nhận phần thưởng hậu hĩnh là hai mươi khối nguyên thạch.”"
+    },
+    {
+      "segment_id": "0054",
+      "source": "喔！",
+      "target": "Oa!"
+    },
+    {
+      "segment_id": "0055",
+      "source": "下一刻，整个学堂都欢呼起来。",
+      "target": "Khoảnh khắc tiếp theo, toàn bộ học đường đều reo hò vang dội."
+    },
+    {
+      "segment_id": "0056",
+      "source": "“终于要炼化蛊虫了，那我该挑选什么蛊虫好呢？”方源双眼中精芒一闪而逝。",
+      "target": "“Cuối cùng cũng được luyện hóa cổ trùng rồi, vậy mình nên chọn loại cổ trùng nào thì tốt đây?” Trong đôi mắt của Phương Nguyên, một tia tinh quang lóe lên rồi biến mất."
+    }
+  ]
+}
+```
