@@ -109,11 +109,11 @@
           "title": "Huyền ảo"
         }
       ],
-      "completed_chapters": 1,
+      "completed_chapters": 3,
       "total_chapters": 852,
-      "latest_chapter": "Chương 1: Xuyên không",
+      "latest_chapter": "Chương 2: Bàn tay vàng của ta ở đâu",
       "detail": "Tiến độ: 1/852 chương | Mới nhất: Chương 1: Xuyên không",
-      "updated_at": "2026-06-12T10:06:34.842295+07:00",
+      "updated_at": "2026-06-12T10:57:41+07:00",
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Chu Than Quat Khoi/README.md",
       "toc_path": "Output/Chu Than Quat Khoi/toc.json"
@@ -971,7 +971,7 @@
     }
   ],
   "metadata": {
-    "generated_at": "2026-06-12T10:57:27+07:00",
+    "generated_at": "2026-06-12T10:57:41+07:00",
     "total_books": 17,
     "source": "Dichtrung/Output"
   },

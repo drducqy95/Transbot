@@ -1,0 +1,2 @@
+- 2026-06-11 23:31 | Chapter 1 | completed | Chương 0001 - Chương 1 Xuyên không.md
+- 2026-06-12 10:57 | Chapter 2 | completed | Chương 0002 - Chương 2 Bàn tay vàng của ta ở đâu.md

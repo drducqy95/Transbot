@@ -1,0 +1,209 @@
+# Translation Context Pack
+
+## Project
+- Branch: Chu Than Quat Khoi
+- Title: 
+- Author: 
+- Genre: /
+- Language: zh → vi
+
+## Translation Rules
+### Translation Goal
+Dịch truyện Trung sang tiếng Việt tự nhiên, dễ đọc, đúng nghĩa, đúng mạch truyện, đúng văn cảnh, đúng xưng hô, đúng tên riêng và thuật ngữ.
+Style: văn xuôi tiếng Việt mượt, rõ nghĩa, không máy móc
+Priorities:
+  • đúng nghĩa và đúng văn cảnh
+  • đúng tên riêng
+  • đúng thuật ngữ theo loại và bối cảnh
+  • đúng xưng hô và quan hệ nhân vật
+  • giữ ổn định thuật ngữ/tên riêng/xưng hô đã khóa
+  • tự nhiên trong tiếng Việt
+  • giữ nhịp văn, cảm xúc và giọng kể gốc
+Anti-goals:
+  • không dịch từng chữ máy móc
+  • không Hán Việt hóa tên Nhật, Hàn, phương Tây, fandom, thương hiệu, kỹ thuật
+  • không áp VietPhrase/LuatNhan lên tên riêng đã khóa
+  • không đổi thuật ngữ đã khóa nếu văn cảnh giống nhau
+  • không dùng một bản dịch cứng cho từ đa nghĩa khi văn cảnh khác nhau
+  • không làm lộ thông tin ngoài POV nếu bản gốc chưa tiết lộ
+
+### Output Rules
+  • keep paragraph structure
+  • keep dialogue structure
+  • do not merge paragraphs
+  • do not split paragraphs unnecessarily
+  • preserve punctuation when reasonable
+  • convert chinese quotes to vietnamese
+  • remove unnecessary explanation
+  • output only translation
+  • do not add notes inside translation
+  • mark uncertain items for audit only
+
+### Tone Guidelines
+  • narration: tự nhiên, rõ ràng, có chất truyện
+  • dialogue: phù hợp thân phận, quan hệ, tuổi tác, quyền lực và bối cảnh
+  • ancient_setting: cổ phong vừa phải, không lạm dụng Hán Việt khó hiểu
+  • modern_setting: hiện đại, đời thường, không cổ hóa lời thoại
+  • game_system: rõ ràng, gọn, quen thuộc với văn phong game/system
+  • comedy: giữ nhịp hài nếu có
+  • serious: giữ sắc thái căng thẳng, trang trọng nếu có
+
+### Term Normalization
+Purpose: Chuẩn hóa thuật ngữ theo văn cảnh truyện, bao gồm chiêu thức, nghề nghiệp, chức vị, cảnh giới, kỹ năng, vật phẩm, danh hiệu, tổ chức, hệ thống, khái niệm thế giới quan và cụm cố định lặp lại.
+Core principles:
+  • context first
+  • not word by word
+  • same source can have different translation if context differs
+  • same source same context must be consistent
+  • same term type should keep style consistent
+  • locked translation only applies to matching context
+  • source plus type plus context equals translation
+Decision rules:
+  • Không dịch thuật ngữ chỉ theo mặt chữ.
+  • Một source có thể có nhiều bản dịch nếu văn cảnh khác nhau.
+  • Một bản dịch đã khóa chỉ áp dụng cho đúng loại văn cảnh đã khóa.
+  • Tên chiêu thức, cảnh giới, pháp bảo quan trọng nên dùng dạng Hán Việt chuẩn, viết hoa nếu là danh từ riêng.
+  • Vật phẩm phổ thông không cần Hán Việt hóa quá mức.
+  • Nghề nghiệp phải xét bối cảnh.
+  • Chức vị phải xét hệ thống xã hội.
+  • Nếu cùng source và cùng văn cảnh, phải giữ nhất quán.
+  • Nếu không chắc văn cảnh, đánh dấu audit.
+
+### Engine Rules
+  • use context pack
+  • use previous chapter summary
+  • use character profile
+  • use story timeline
+  • use glossary
+  • use name scan
+  • use segment context
+  • avoid over literal translation
+  • avoid over smoothing that changes meaning
+
+## Characters
+N/A
+
+## Glossary
+N/A
+
+## Story Timeline (latest)
+
+## Chapter 0001 - Chương 1: Xuyên không
+
+### Summary
+Chapter 1 completed via pipeline.
+
+
+## Source Chapter 2 - 0002 我的金手指在哪
+# 第2章 我的金手指在哪
+
+吴明脸色淡漠，看着吴管家向护院大汉质问，脑海中还是在不断整理着前身的记忆。
+这个纨绔子虽然不学无术，但基本的常识还是有着，令吴明知道，自己所处的国家，叫做‘大周’！
+此处的大周，显然跟前世历史上那个东周西周没有多少关系，却有着神秘侧力量的存在！
+这里有肉身堪比金刚，好似太古凶兽一般的恐怖武者！
+也有读书养气，致世太平，能练出浩然之体的儒门炼气士！
+更有撒豆成兵、呼风唤雨的道家神仙！
+甚至，还有专长巫术，能借自然生灵之力的萨满巫，以及凶残诡秘，放虫养蛊，千里咒杀的神秘蛊师……
+吴明自然想知道更多，奈何前身一个不学无术的乡下纨绔，能晓得这些，还是他有着一个进了道院的姐姐之缘故。
+“鬼手老六真是废物！”
+吴管家一甩手臂，筋骨节节作响，仿佛凌空放了个炮竹一般。
+力贯筋骨！
+这个吴管家，手上的功夫竟也似丝毫不弱。
+“少爷！我去将那林奇抓来，任凭你处置如何？”
+只是，在转过身之后，吴管家身上凌厉的气势便尽数消失不见，换为了谄媚之色，前后差异极为明显，几乎便是两个人。
+“先等等！”
+若是之前那个吴明，肯定早就叫嚷着要去将林奇大卸八块了。
+但此吴明非彼吴明，女人不是他抢的，林奇也不是他派人去杀的，自然不想就这么顶缸。
+并且，作为刚刚穿越过来的吴明，前世的思维与观念一时间根深蒂固，让他直接下命杀人，特别是与自己无关之人，思想上还有点过不去。
+最重要的一点，却是现在的情形太诡异了！
+“那个林奇？到底是什么人？”
+吴明决定还是先摸清楚情况再说。
+“林奇？”
+吴管家不愧是做惯狗腿子的，功夫了得，眼珠一转就立马回答：“启禀明少爷，此人家住白水乡，与云小娘子比邻，自幼父母双亡，靠着几亩薄田过活……曾经也送入乡武堂，经过检验，却是没有半点资质根骨的废物，三天之后就被赶了出来……”
+吴明的脸色更加怪异。
+此世的乡武堂，便是后世的乡村小学一般，甚至还要更普及一点，基本每个农家孩童都会被送入，训练几月，算是练武防身。
+这准入资质自然低得很了，而连乡武堂都看不上，懒得施教的，自然可以称为绝世废材！
+“资质？！”
+吴明指头敲了敲自己脑袋，人乃百灵之长！理论上，只要是个人，都可以练武修道，养气炼蛊，乃至长生不死！
+只是，在人人都有资质的情况下，质量好坏就很重要了。
+有的人练武十年、百年、效果都比不上人家一年，甚至十天半个月！这差距就出来了。
+普遍都有资质，但很差的情况下，就相当于没有资质。
+自己这个身体，似乎也有那么几重的武道肉身境修为在身，只是全靠平时大补、上好功法、还有姐姐督促，勉强练成的。
+按照坞堡习武教头的说法，吴明的资质乃是中人，堪堪及格线，但洒落下去的资源，足以培养出十个、甚至十五个同等的武者了。
+之前此人的毅力之差，可见一斑！
+“如此看来……那个林奇，恐怕是比我前身还要差劲的废柴……要小心了！”
+吴明的心猛然提起。
+事出反常必有妖！原本一个废柴小子，武功突然突飞猛进，乃至杀伐果断，必然是有着奇遇！
+至于是遇到老爷爷，还是开启宿慧，又或者干脆被穿越先两说，吴明却发现自己正处于一个很尴尬的位置上。
+自己这个躯体，貌似已经成了对方不共戴天的仇人？
+“希望只是一个有些智慧，善于隐忍的小子吧！”
+吴明可是知道若是遇到了‘真主角’的可怕！
+不仅成长速度是妖孽级别的，更是逆天小强命！怎么打都打不死，而且锱铢必较，无论之前吃过什么亏，都会飞快报复回来，甚至祸及家人、师长。
+“若是按照前世小说的发展，此时就应该是我派出一波波的小怪去给主角升级练手混经验，随后将自己都赔进去……再然后，我姐姐出头，对方略吃小亏，旋即飞快升级，再次打脸……周而往返，最后甚至将姐姐所在的道脉门派都牵扯进来，成为主角成长的养料……”
+吴明心里默默念叨，心里有些凉飕飕的，旋即摇摇头：“罢了……也有可能是我完全在自己吓自己！”
+“明少爷？！”吴管家见吴明有些愣神，当即上前问道。
+“没什么……你跟我来……”
+吴明撇开思绪，带着吴管家走到记忆中的书房位置。
+紫檀木的书架上俱是崭新的书册，一边的花瓶中插着两束墨梅，清香四溢，案桌上却是一片狼藉散乱，隐隐还露出几册香艳无比，似是春宫秘谱一类的玩意。
+“……”
+吴明额头带着黑线，右手一拂，将各种杂七杂八的东西扫在一边，又感觉室内的光线略微黯淡，皱了皱眉头，在怀里掏出一枚火红色扳指，上面有着紫色的云篆图案，轻轻一抹。
+咔嚓！符文亮起，一点小火焰浮现出来，点燃了油灯。
+室内光线骤然亮堂了不少，吴管家脸上却是浮现出一丝羡慕之色。
+吴明面无表情地将扳指收好，心里其实也是复杂难言。
+这个世界，超凡力量与生活，相结合的是如此紧密。
+当然，虽然只是个连入级都算不上的居家小玩意，但显然价值颇高，要不是有着一个便宜姐姐，作为乡下土豪，要弄到手恐怕还有些难度。
+而这个，却是更加向吴明验证了这个世界的真实与神秘。
+“你去找林奇……或许他已经不在白水乡，但总不会走多远……”
+“放心，明少爷，小的一定狠狠折磨那小子，再……”自以为领会意思的吴管家狞笑着。
+“谁叫你去打生打死了？”
+吴明翻了一个白眼：“你追到他，就跟他解释，说一切都是误会，那云家小娘，我也可以还给他，两方就此罢手……”
+吴管家瞪大眼睛，仿佛第一次见到吴明。
+“还有一件事！”吴明的脸色肃穆起来：“你派人去县里道院，找我姐姐，就说我惹到事情，需要真正的高手相助！”
+吴明特意在真正二字上加重语气。
+“明少爷……你要惊动大小姐？”吴明倒吸冷气：“不就一个小子，至于么？”
+虽然这个纨绔少爷经常惹祸，但哪次不是把天捅破了才逼不得已去求姐姐摆平的，这次……
+吴管家的脑袋有些不够用了。
+“你尽管如此去做就是！”
+吴明打发着一头雾水的管家下去，关上书房之门，才长出一口气。
+前任的锅他不背！
+因此，先派人试探，若那个林奇肯和解，自然上善大吉。
+若是不肯，这些后手便可发挥作用了。
+他可不是童话故事里傻乎乎的大魔王，喜欢将手下一个个派出去给勇士送经验，最后等到对方成长到极限，自己变成孤家寡人了才下场受死。
+虽然立马就要见家人有些尴尬，不过消化了前身所有记忆的吴明，却还是有着把握蒙混过去。
+并且，他只是让姐姐大人派高手出来，不一定非要亲自出马。
+念及这个纨绔子之前的做法，吴明也是有些汗颜。
+不过此时，在疑似真命主角的威胁之下，吴明毫不犹豫地开启了自己的终极绝招——找家长！
+以吴明目前的实力，保护自己都有些勉强，在尽快提升实力，成长起来之前，托庇于别人丝毫不丢脸。
+而此时，确认周围没人，房门紧闭之后，吴明立即开始去做一件生死攸关的事情。
+“系统！”
+……一片沉默。
+“金手指！”
+……还是一片沉默。
+“老爷爷？”
+……空荡荡的书房当中毫无回应，吴明不信邪地将自己身上，里里外外又翻起找了一遍，忽然一屁股坐回椅子，愁眉苦脸地哀叹：“金手指？金手指呢？我的金手指到底在哪里？”
+在吴明的前世，一直流传着一个神话：
+你是否工作不如意？你是否厌倦了千篇一律的生活？你是否人生失败，想从头再来？
+那就穿越吧！只要穿越了，纵使人生败犬也能立即咸鱼翻身，当上CEO，迎娶白富美，走上人生巅峰！
+只要穿越了，什么问题都不是问题！
+丑的能变英俊，帅的能变更帅，懦弱的能变成勇士，即使白痴也能立即变成绝世天才！
+而这其中最重要的一点——便是金、手、指！
+吴明再三确认之后，不由捂脸哀嚎：“天呐……没有金手指，让我怎么在这个强者如云，动不动毁城灭国的世界中活下去？时空管理员，我要投诉，我要回家！”
+不得不说，相比于这种超凡之力狂乱，无视世俗规矩强者层出不穷的世界，前世虽然安逸，无聊，但至少足够安全。
+对于普通人而言，前世的生活，显然要比这里的下层幸福多了。
+……
+良久之后，书房内还是寂静无声，吴明只能摇头叹息：“连金手指都没有，难道我真的是反派命？”
+
+
+## Output Format
+Return ONLY valid JSON matching this schema:
+{
+  "chapter_number": 2,
+  "chapter_title_vi": "Chương 2: <Vietnamese title>",
+  "segments": [
+    {
+      "segment_id": "XXXX",
+      "source": "...",
+      "target": "..."
+    }
+  ]
+}
