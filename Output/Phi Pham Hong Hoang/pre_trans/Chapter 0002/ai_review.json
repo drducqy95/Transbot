@@ -1,0 +1,24 @@
+```json
+{
+  "approved": {
+    "names": [],
+    "terms": [
+      "淮南子天文训"
+    ]
+  },
+  "rejected": {
+    "names": [],
+    "terms": [
+      "有言，“昔者"
+    ]
+  },
+  "uncertain": {
+    "names": [],
+    "terms": []
+  }
+}
+```
+
+**Reasoning:**
+*   **Approved**: `淮南子天文训` (*Huainanzi: Tianwen Xun* / *Treatise on the Patterns of Heaven*) is a specific historical text/chapter title, which makes it a valid and useful term to track for consistent translation.
+*   **Rejected**: `有言，“昔者` (meaning "There is a saying, 'In the past...'" or "It is said, 'Formerly...'") is a sentence fragment and not a standalone term or noun phrase.

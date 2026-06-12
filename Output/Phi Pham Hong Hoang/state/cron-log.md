@@ -1,3 +1,4 @@
 - 2026-06-12 00:17 | Chapter 1 | completed | Chương 0001 - Chương 1 Thiên địa sơ khai có Tỳ Hưu.md
 - 2026-06-12 07:02 | Chapter 2 | completed | Chương 0002 - Chương 2 Quan Bất Chu ngộ công pháp.md
 - 2026-06-12 14:01 | Chapter 1 | completed | Chương 0001 - Chương 1 Thiên địa sơ khai có Tỳ Hưu.md
+- 2026-06-12 14:30 | Chapter 2 | completed | Chương 0002 - Chương 2 Quan Bất Chu ngộ công pháp.md
