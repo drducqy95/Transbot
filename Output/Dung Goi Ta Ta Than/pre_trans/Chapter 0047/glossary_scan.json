@@ -1,0 +1,12 @@
+[
+  {
+    "source": "状态显示",
+    "type": "term",
+    "status": "approved"
+  },
+  {
+    "source": "的激活进度中",
+    "type": "term",
+    "status": "rejected"
+  }
+]

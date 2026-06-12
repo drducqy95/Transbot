@@ -1,0 +1,46 @@
+I will check the workspace directory first to see if there are translation files, configurations, or dictionaries, and to find the context of these terms.
+I will list the contents of `$TRANS_DIR` to check what translation resources or files are stored there.
+I will list the contents of the `Script` directory to see if there are any automation or translation scripts.
+I will list the contents of the `Source` directory to see what translation source files are there.
+I will search for the terms '状态显示' and '的激活进度中' in the repository to see where they appear.
+I will read the source file of Chapter 0047 to get the full context of these terms in the story.
+I will list the files in `/mnt/sdcard/My Agent/Transbot/Output/Dung Goi Ta Ta Than/pre_trans/Chapter 0047/` to understand the state of the extraction.
+I will view the content of `glossary_scan.json` and `name_scan.json` in Chapter 47.
+I will search for the translation of `状态显示` in Chapter 41 or Chapter 46 translation results.
+I will search the `Script/` directory for keywords like `approved` or `rejected` to see how the review feedback is expected to be structured.
+I will view the contents of `Script/transbot_pipeline.py` to check the pipeline structure and see how it interacts with reviews.
+I will search for `glossary_scan.json` in the `Script/` directory to see where and how glossary terms are validated or processed in python.
+I will perform a grep search across the whole workspace for `approved` to see how other review results were saved or formatted.
+I will view `/mnt/sdcard/My Agent/Transbot/Output/Chu Than Dai Dao/pre_trans/Chapter 0002/ai_review.json` to understand the standard structure of `ai_review.json`.
+I will view `/mnt/sdcard/My Agent/Transbot/Output/Chu Than Dai Dao/pre_trans/Chapter 0001/ai_review.json` to see how it looks.
+I will search the repository to see which scripts read or write `ai_review.json`.
+I will view `/mnt/sdcard/My Agent/Transbot/Output/Dung Goi Ta Ta Than/pre_trans/Chapter 0041/ai_review.json` to verify the structure and see how it classified "状态显示:标" or similar.
+I will update `/mnt/sdcard/My Agent/Transbot/Output/Dung Goi Ta Ta Than/pre_trans/Chapter 0047/glossary_scan.json` with the approved and rejected statuses of the terms.
+I will save the updated `glossary_scan.json` file in the workspace without artifact metadata.
+I will create and write the `ai_review.json` file for Chapter 47.
+I will run `git status` to verify the state of the modifications we just made.
+I have completed the review of the translation names and terms for Chapter 47 of the novel *Đừng Gọi Ta Tà Thần* (Dung Goi Ta Ta Than). 
+
+The term results have been updated in [glossary_scan.json](file:///mnt/sdcard/My%20Agent/Transbot/Output/Dung%20Goi%20Ta%20Ta%20Than/pre_trans/Chapter%200047/glossary_scan.json) and saved in [ai_review.json](file:///mnt/sdcard/My%20Agent/Transbot/Output/Dung%20Goi%20Ta%20Ta%20Than/pre_trans/Chapter%200047/ai_review.json).
+
+Here is the JSON containing the approved, rejected, and uncertain items:
+
+```json
+{
+  "approved": [
+    {
+      "source": "状态显示",
+      "translation": "Hiển thị trạng thái",
+      "type": "system",
+      "reason": "Tên kỹ năng đặc thù trong hoạt động hạn giờ của hệ thống (giúp đánh dấu và hiển thị thân phận của đối tượng)."
+    }
+  ],
+  "rejected": [
+    {
+      "source": "的激活进度中",
+      "reason": "Mảnh ngữ pháp của câu tiếng Trung ('trong tiến trình kích hoạt của...'), không phải thuật ngữ hay danh từ riêng."
+    }
+  ],
+  "uncertain": []
+}
+```

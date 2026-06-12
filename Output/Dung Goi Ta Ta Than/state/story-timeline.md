@@ -408,3 +408,8 @@ Chapter 45 completed via pipeline.
 
 ### Summary
 Chapter 46 completed via pipeline.
+
+## Chapter 0047 - Chương 47: Giáo Hội Huy Quang không đáng tin cậy
+
+### Summary
+Chapter 47 completed via pipeline.
