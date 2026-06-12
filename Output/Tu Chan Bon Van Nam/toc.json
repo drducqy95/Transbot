@@ -10,11 +10,6 @@
     "relative_path": "output/Chương 0001 - Chương 1 Nghĩa địa pháp bảo.md"
   },
   {
-    "chapter_number": 2,
-    "title": "0002 光幕仪",
-    "relative_path": "output/Chương 0002 - 0002 光幕仪.md"
-  },
-  {
     "chapter_number": 3,
     "title": "Chương 3: Dị mộng",
     "relative_path": "output/Chương 0003 - Chương 3 Dị mộng.md"
@@ -38,5 +33,10 @@
     "chapter_number": 8,
     "title": "Chương 8: Sửa chữa tinh não",
     "relative_path": "output/Chương 0008 - Chương 8 Sửa chữa tinh não.md"
+  },
+  {
+    "chapter_number": 2,
+    "title": "0002 光幕仪",
+    "relative_path": "output/Chương 0002 - 0002 光幕仪.md"
   }
 ]
