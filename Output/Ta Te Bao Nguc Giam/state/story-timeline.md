@@ -68,3 +68,8 @@ Chapter 7 completed via pipeline.
 
 ### Summary
 Chapter 6 completed via pipeline.
+
+## Chapter 0006 - 0006 祭典广场
+
+### Summary
+Chapter 6 completed via pipeline.
