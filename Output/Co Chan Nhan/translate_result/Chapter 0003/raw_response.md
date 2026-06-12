@@ -1,0 +1,338 @@
+```json
+{
+  "chapter_number": 3,
+  "chapter_title_vi": "Chương 3: Xin cứ ra một góc mà chơi đi",
+  "segments": [
+    {
+      "segment_id": "0001",
+      "source": "# 第三节：请一边玩蛋去",
+      "target": "# Tiết 3: Xin cứ ra một góc mà chơi đi"
+    },
+    {
+      "segment_id": "0002",
+      "source": "邦、邦邦，邦、邦邦。",
+      "target": "Cộc, cộc cộc, cộc, cộc cộc."
+    },
+    {
+      "segment_id": "0003",
+      "source": "巡游的更夫，敲着有节奏的梆子。",
+      "target": "Người phu canh đi tuần, gõ chiếc mõ nhịp nhàng."
+    },
+    {
+      "segment_id": "0004",
+      "source": "声音传入高脚吊楼，方源睁开干涩的眼皮，心中暗道：“是五更天了。”",
+      "target": "Âm thanh truyền vào trong nhà sàn, Phương Nguyên mở đôi mắt khô khốc, thầm nghĩ: “Là canh năm rồi.”"
+    },
+    {
+      "segment_id": "0005",
+      "source": "昨夜躺在床上思索了很久，计划安排了一大堆，算起来只睡了一个时辰多丁点。",
+      "target": "Đêm qua nằm trên giường suy tính rất lâu, sắp xếp cả đống kế hoạch, tính ra chỉ ngủ được hơn một canh giờ đôi chút."
+    },
+    {
+      "segment_id": "0006",
+      "source": "这个身体还没有开始修行，精力并不旺盛，因此一阵阵的疲累困乏之意，仍旧笼罩着身心。",
+      "target": "Cơ thể này vẫn chưa bắt đầu tu hành, tinh lực không hề sung mãn, vì vậy từng cơn mệt mỏi buồn ngủ vẫn bao phủ lấy thân tâm."
+    },
+    {
+      "segment_id": "0007",
+      "source": "不过五百多年的经历，早就打造了方源钢铁般深沉的毅志。这点嗜睡之意，根本就算不了什么。",
+      "target": "Thế nhưng trải nghiệm hơn năm trăm năm đã sớm rèn giũa nên ý chí kiên định như sắt thép của Phương Nguyên. Chút xíu buồn ngủ này căn bản chẳng thấm vào đâu."
+    },
+    {
+      "segment_id": "0008",
+      "source": "当即便推开身上的薄丝被褥，干净利落地起了身。",
+      "target": "Ngay lập tức, hắn đẩy lớp chăn lụa mỏng đắp trên người ra, gọn gàng dứt khoát đứng dậy."
+    },
+    {
+      "segment_id": "0009",
+      "source": "推开窗户，春雨已经停了。",
+      "target": "Đẩy cửa sổ ra, cơn mưa xuân đã tạnh."
+    },
+    {
+      "segment_id": "0010",
+      "source": "混合着泥土、树木和野花的香味的清新湿气，顿时扑面而来。方源顿感头脑一清，昏沉的睡意被驱除了干净。",
+      "target": "Luồng không khí ẩm ướt trong lành mang theo mùi hương của bùn đất, cây cỏ và hoa dại tức thì phả vào mặt. Phương Nguyên chợt thấy đầu óc thanh tỉnh, cơn buồn ngủ mê man đã bị xua đi sạch sẽ."
+    },
+    {
+      "segment_id": "0011",
+      "source": "此时太阳还未升起，天空蓝的深沉，似暗似亮。",
+      "target": "Lúc này mặt trời vẫn chưa mọc, bầu trời một màu xanh thẫm, nửa tối nửa sáng."
+    },
+    {
+      "segment_id": "0012",
+      "source": "放眼望去，用绿竹和树木搭建的高脚吊楼，和群山相衬着，一片幽静苍绿之色。",
+      "target": "Phóng mắt nhìn lại, những tòa nhà sàn dựng bằng trúc xanh và gỗ mộc nằm xen kẽ giữa quần sơn, tạo thành một khung cảnh tĩnh mịch nhuốm màu xanh ngắt."
+    },
+    {
+      "segment_id": "0013",
+      "source": "高脚吊楼至少有两层，是山民居住屋的特有结构。因为山上崎岖不平，因此一楼是巨大的木桩，二楼才是人的居所。",
+      "target": "Nhà sàn có ít nhất hai tầng, là kết cấu nhà ở đặc trưng của người dân miền núi. Bởi vì trên núi gập ghềnh không bằng phẳng, thế nên tầng một là những cọc gỗ khổng lồ, tầng hai mới là nơi người ở."
+    },
+    {
+      "segment_id": "0014",
+      "source": "方源和弟弟方正是住在二楼。",
+      "target": "Phương Nguyên và em trai Phương Chính đang sống ở tầng hai."
+    },
+    {
+      "segment_id": "0015",
+      "source": "“方源少爷，您醒了。奴家这就上楼来，伺候您洗漱。”就在此刻，楼下传来一个少女的声音。",
+      "target": "“Phương Nguyên thiếu gia, ngài tỉnh rồi. Nô tỳ lên lầu ngay đây, hầu hạ ngài rửa mặt chải đầu.” Đúng lúc này, dưới lầu truyền đến giọng nói của một thiếu nữ."
+    },
+    {
+      "segment_id": "0016",
+      "source": "方源低头一看，是自己的贴身丫鬟沈翠。",
+      "target": "Phương Nguyên cúi đầu nhìn, là tỳ nữ thiếp thân của mình, Thẩm Thúy."
+    },
+    {
+      "segment_id": "0017",
+      "source": "她姿容只能算上中等，但打扮得好，穿着一身绿衫，长袖长裤，脚下是绣花鞋，黑发上还有一个珍珠簪子，全身上下都散发出青春的活力。",
+      "target": "Dung mạo nàng ta chỉ được coi là bậc trung, nhưng lại biết cách trang điểm ăn mặc, mặc một bộ áo xanh lục, ống tay dài quần dài, dưới chân là đôi giày thêu, trên mái tóc đen còn giắt một chiếc trâm ngọc trai, toàn thân trên dưới đều tỏa ra sức sống thanh xuân."
+    },
+    {
+      "segment_id": "0018",
+      "source": "她欢喜地望了一眼方源，端着一盆水，蹬蹬蹬的就上了楼。",
+      "target": "Nàng ta vui mừng nhìn Phương Nguyên một cái, bưng một chậu nước, lộc cộc lộc cộc chạy lên lầu."
+    },
+    {
+      "segment_id": "0019",
+      "source": "水是调好的温水，用来洗脸。漱口则用柳条沾着雪盐，能净齿白牙。",
+      "target": "Nước là nước ấm đã pha sẵn, dùng để rửa mặt. Súc miệng thì dùng cành liễu chấm tuyết diêm (muối tuyết), có thể làm sạch răng cho hàm răng trắng sáng."
+    },
+    {
+      "segment_id": "0020",
+      "source": "沈翠温柔的伺候着，脸上带着笑颜，眉目含春。而后又为方源穿衣结扣，在这过程中时不时地用丰满的胸脯蹭方源的胳膊，或者后背。",
+      "target": "Thẩm Thúy dịu dàng hầu hạ, trên mặt mang theo nụ cười, ánh mắt chứa chan tình ý. Sau đó lại mặc áo cài khuy cho Phương Nguyên, trong quá trình này thỉnh thoảng lại dùng bộ ngực đầy đặn cọ xát vào cánh tay, hoặc là sau lưng của Phương Nguyên."
+    },
+    {
+      "segment_id": "0021",
+      "source": "方源面无表情，心如止水。",
+      "target": "Phương Nguyên mặt không cảm xúc, tâm tĩnh như nước."
+    },
+    {
+      "segment_id": "0022",
+      "source": "这个丫鬟不仅是舅父舅母的眼线，而且爱慕虚荣，性情薄凉。上一世曾被其蒙蔽，到了开窍大典之后，自己地位一落千丈，她顿时就翻了脸，没少给过自己白眼。",
+      "target": "Nha hoàn này chẳng những là tai mắt của cữu phụ cữu mẫu, mà còn tham hư vinh, tính tình bạc bẽo. Kiếp trước từng bị ả che mắt, đến sau đại điển Khai Khiếu, địa vị của bản thân rớt giá thê thảm, ả lập tức trở mặt, không ít lần ném cho hắn những cái nhìn khinh khỉnh."
+    },
+    {
+      "segment_id": "0023",
+      "source": "方正来的时候，正看到沈翠为方源抚平胸口衣衫上的褶皱，眼中不由地闪过一丝羡慕嫉妒的光。",
+      "target": "Lúc Phương Chính tới, đúng lúc nhìn thấy Thẩm Thúy đang vuốt phẳng những nếp nhăn trên áo trước ngực Phương Nguyên, trong mắt bất giác lóe lên một tia sáng hâm mộ xen lẫn ghen tị."
+    },
+    {
+      "segment_id": "0024",
+      "source": "这些年跟着哥哥一起生活，受方源的照顾，他也有个奴仆伺候着。不过却不是沈翠这样的年轻丫鬟，而是个体型肥肿的老妈子。",
+      "target": "Những năm nay sống cùng anh trai, nhận được sự chăm sóc của Phương Nguyên, hắn cũng có một nô bộc hầu hạ. Thế nhưng đó không phải là nha hoàn trẻ tuổi như Thẩm Thúy, mà là một mụ già béo ịch."
+    },
+    {
+      "segment_id": "0025",
+      "source": "“若是哪天，沈翠能伺候我这样，该是什么滋味？”方正心中有些想，又有些不敢想。",
+      "target": "“Nếu như ngày nào đó, Thẩm Thúy có thể hầu hạ ta như thế này, sẽ là mùi vị gì nhỉ?” Trong lòng Phương Chính có chút ao ước, lại có phần không dám nghĩ tới."
+    },
+    {
+      "segment_id": "0026",
+      "source": "舅母舅父偏爱方源，这是府上众所周知的事情。",
+      "target": "Cữu mẫu cữu phụ thiên vị Phương Nguyên, đây là chuyện mà cả phủ đều biết."
+    },
+    {
+      "segment_id": "0027",
+      "source": "本来他都没有奴仆伺候，还是方源主动为方正要求来的。",
+      "target": "Vốn dĩ hắn không có nô bộc hầu hạ, mà là Phương Nguyên chủ động yêu cầu cho Phương Chính."
+    },
+    {
+      "segment_id": "0028",
+      "source": "虽说有着主仆的身份区别，但是平日里方正也不敢小瞧这个沈翠。皆因沈翠的母亲，就是舅母身边的沈嬷嬷，也是整个府里的管家，深受舅母之信任，有着不小的权柄。",
+      "target": "Tuy nói có sự khác biệt thân phận chủ tớ, thế nhưng ngày thường Phương Chính cũng không dám coi thường Thẩm Thúy này. Đều bởi vì mẹ của Thẩm Thúy chính là Thẩm ma ma bên cạnh cữu mẫu, cũng là quản gia trong toàn phủ, rất được cữu mẫu tín nhiệm, nắm giữ quyền hành không nhỏ."
+    },
+    {
+      "segment_id": "0029",
+      "source": "“好了，不用收拾了。”方源不耐地拂开沈翠的柔软小手，衣衫早就平整，沈翠更多的是在引诱。",
+      "target": "“Được rồi, không cần sửa soạn nữa.” Phương Nguyên mất kiên nhẫn gạt nhẹ bàn tay nhỏ nhắn mềm mại của Thẩm Thúy ra, y phục đã sớm phẳng phiu, Thẩm Thúy phần nhiều chỉ là đang lơi lả dụ dỗ."
+    },
+    {
+      "segment_id": "0030",
+      "source": "对她来讲，自己前途光明，甲等资质的可能性极大，若是能成为方源的侧室，就能从奴转为主，可谓一步登天。",
+      "target": "Đối với ả mà nói, hắn có tiền đồ xán lạn, khả năng đạt tư chất giáp đẳng cực lớn, nếu như có thể trở thành trắc thất của Phương Nguyên, liền có thể từ nô tỳ chuyển thành chủ nhân, có thể coi là một bước lên mây."
+    },
+    {
+      "segment_id": "0031",
+      "source": "上一世方源被蒙蔽过，甚至喜欢上这个婢女。重生之后却是洞若观火，心冷似霜。",
+      "target": "Kiếp trước Phương Nguyên từng bị lừa gạt, thậm chí còn thích người tỳ nữ này. Sau khi trọng sinh lại sáng tỏ mọi việc, lòng lạnh như sương."
+    },
+    {
+      "segment_id": "0032",
+      "source": "“你退下罢。”方源看也不看沈翠，整理着自己的袖口。",
+      "target": "“Ngươi lui xuống đi.” Phương Nguyên nhìn cũng không thèm nhìn Thẩm Thúy, tự tay chỉnh lại cổ tay áo của mình."
+    },
+    {
+      "segment_id": "0033",
+      "source": "沈翠微微撅嘴，为方源今日的不解风情感到有些奇怪和委屈。想要说什么撒娇的话，但是被方源若有若无的莫名气质震慑着，张口几次，最终说了声“是”，乖乖地退下。",
+      "target": "Thẩm Thúy hơi bĩu môi, vì sự không hiểu phong tình hôm nay của Phương Nguyên mà cảm thấy có chút kỳ quái và tủi thân. Ả muốn nói mấy lời nũng nịu, nhưng lại bị thứ khí chất khó hiểu như có như không của Phương Nguyên làm cho kinh sợ, há miệng mấy lần, cuối cùng đành nói một tiếng “vâng”, ngoan ngoãn lui xuống."
+    },
+    {
+      "segment_id": "0034",
+      "source": "“你准备好了？”方源看向方正。",
+      "target": "“Đệ chuẩn bị xong chưa?” Phương Nguyên nhìn về phía Phương Chính."
+    },
+    {
+      "segment_id": "0035",
+      "source": "弟弟呆呆地站在门口，低下头看着自己的脚尖，轻轻地嗯了一声。",
+      "target": "Cậu em trai ngẩn ngơ đứng ở cửa, cúi đầu nhìn mũi chân mình, khẽ “ừm” một tiếng."
+    },
+    {
+      "segment_id": "0036",
+      "source": "他其实四更时就醒了，紧张的睡不着，偷偷起床早早就准备好了，两个眼圈都是黑的。",
+      "target": "Hắn thật ra đã tỉnh từ lúc canh bốn, căng thẳng tới mức không ngủ được, lén lút thức dậy chuẩn bị từ sớm, hai hốc mắt đều thâm quầng."
+    },
+    {
+      "segment_id": "0037",
+      "source": "方源点点头，弟弟心中的想法，在前世他并不清楚，不过今生他又怎么不明白？",
+      "target": "Phương Nguyên gật đầu, suy nghĩ trong lòng em trai, kiếp trước hắn không hề rõ ràng, nhưng kiếp này hắn sao có thể không hiểu?"
+    },
+    {
+      "segment_id": "0038",
+      "source": "但此时点破毫无意义，淡淡地吩咐着：“那就走吧。”",
+      "target": "Thế nhưng lúc này vạch trần cũng chẳng có ý nghĩa gì, hắn thản nhiên căn dặn: “Vậy thì đi thôi.”"
+    },
+    {
+      "segment_id": "0039",
+      "source": "于是兄弟俩就走出了居所，一路上，碰到不少的同龄人，三三两两的，显然有着相同的目的地。",
+      "target": "Thế là hai anh em bước ra khỏi nơi ở, trên đường đi, họ bắt gặp không ít người cùng trang lứa, tốp năm tốp ba, rõ ràng là có chung một điểm đến."
+    },
+    {
+      "segment_id": "0040",
+      "source": "“你们看，那是方家两兄弟。”小耳边传来小心翼翼的议论声。",
+      "target": "“Các ngươi nhìn kìa, đó là hai anh em nhà họ Phương.” Bên tai vọng đến tiếng bàn tán đầy dè dặt."
+    },
+    {
+      "segment_id": "0041",
+      "source": "“前面走着的就是那个方源，就是那个作诗的方源。”有人强调着。",
+      "target": "“Người đi đằng trước chính là Phương Nguyên kia đấy, chính là cái tên Phương Nguyên làm thơ đó.” Có người nhấn mạnh."
+    },
+    {
+      "segment_id": "0042",
+      "source": "“原来是他呀，面无表情、旁若无人的样子，果真和传闻中一样拽。”有人语气酸酸，带着嫉妒和羡慕。",
+      "target": "“Thì ra là hắn sao, bộ dạng mặt không cảm xúc, xem người khác như không tồn tại, quả nhiên là chảnh chọe y như trong lời đồn.” Có người giọng điệu chua ngoa, mang theo sự ghen tị và ngưỡng mộ."
+    },
+    {
+      "segment_id": "0043",
+      "source": "“哼，你要是能像他一样，你也可以这样拽！”有人冷哼着这样回答，隐藏着一种不满。",
+      "target": "“Hừ, nếu như ngươi có thể được như hắn, ngươi cũng có thể chảnh chọe như thế!” Có người hừ lạnh trả lời như vậy, che giấu một loại bất mãn ở bên trong."
+    },
+    {
+      "segment_id": "0044",
+      "source": "方正面无表情地听着，这样的议论声他早已习惯了。",
+      "target": "Phương Chính mặt không cảm xúc lắng nghe, âm thanh bàn tán như thế này hắn đã quen từ lâu."
+    },
+    {
+      "segment_id": "0045",
+      "source": "他低着头，跟在哥哥的身后，默默走着。",
+      "target": "Hắn cúi đầu, đi theo sau lưng anh trai, lẳng lặng bước đi."
+    },
+    {
+      "segment_id": "0046",
+      "source": "此时天边已经亮起晨光，方源的影子就投在他的脸上。",
+      "target": "Lúc này phía chân trời đã hửng sáng ánh ban mai, cái bóng của Phương Nguyên liền rọi thẳng lên mặt hắn."
+    },
+    {
+      "segment_id": "0047",
+      "source": "朝阳在渐渐升起，但是方正却忽然觉得，自己正走向黑暗。",
+      "target": "Ánh mặt trời đang dần dần nhô lên, thế nhưng Phương Chính lại đột nhiên cảm thấy, bản thân mình đang bước về phía hắc ám."
+    },
+    {
+      "segment_id": "0048",
+      "source": "这个黑暗来源于他的哥哥，也许这一辈子，自己都不能挣脱哥哥笼罩自己的巨大阴影。",
+      "target": "Sự hắc ám này bắt nguồn từ anh trai của hắn, có lẽ cả đời này, bản thân hắn cũng không thể thoát khỏi cái bóng khổng lồ của anh trai đang bao trùm lấy mình."
+    },
+    {
+      "segment_id": "0049",
+      "source": "他感到胸口传来一阵阵的压抑，甚至是呼吸不畅，这该死的感觉让他甚至联想到“窒息”这个词！",
+      "target": "Hắn cảm thấy trong lồng ngực truyền tới từng cơn kìm nén, thậm chí là hít thở không thông, cái cảm giác chết tiệt này khiến hắn thậm chí còn liên tưởng đến hai chữ “ngạt thở”!"
+    },
+    {
+      "segment_id": "0050",
+      "source": "“哼，这样的议论，果真是木秀于林风必催之。”听着耳边的议论声，方源心中冷笑着。",
+      "target": "“Hừ, những lời bàn tán thế này, quả nhiên là mộc tú vu lâm phong tất tồi chi (cây cao vượt rừng ắt bị gió quật).” Nghe những tiếng xì xào bên tai, Phương Nguyên cười lạnh trong lòng."
+    },
+    {
+      "segment_id": "0051",
+      "source": "难怪在测出自己的丙等资质后，会四面环敌，很长一段时间都受着苛刻、白眼、冷遇。",
+      "target": "Chẳng trách sau khi kiểm tra ra bản thân có tư chất bính đẳng, hắn lại bị kẻ địch bủa vây tứ phía, một khoảng thời gian rất dài đều phải chịu đựng sự hà khắc, khinh miệt và ghẻ lạnh."
+    },
+    {
+      "segment_id": "0052",
+      "source": "身后弟弟方正越来越沉闷的喘息声，他也尽收耳底。",
+      "target": "Tiếng thở dốc ngày càng nặng nề của cậu em trai Phương Chính ở đằng sau, hắn cũng thu hết vào tai."
+    },
+    {
+      "segment_id": "0053",
+      "source": "前世没有察觉到的，今生则是明察秋毫。",
+      "target": "Những điều kiếp trước không hề phát hiện ra, kiếp này hắn đều soi rõ từng li từng tí."
+    },
+    {
+      "segment_id": "0054",
+      "source": "这都是五百年人生经历带来的敏锐洞察力。",
+      "target": "Đây đều là năng lực quan sát nhạy bén do trải nghiệm nhân sinh năm trăm năm mang lại."
+    },
+    {
+      "segment_id": "0055",
+      "source": "他忽然想到舅父舅母，真是有些手段。给自己配了沈翠来贴身监控，给弟弟配的老嬷嬷。其实还有其他生活细节上的差别待遇。",
+      "target": "Hắn đột nhiên nghĩ đến cữu phụ cữu mẫu, đúng là có chút thủ đoạn. Sắp xếp Thẩm Thúy tới hầu cận để giám sát mình, sắp xếp mụ vú già cho em trai. Thực chất còn có sự đối xử khác biệt trong những chi tiết sinh hoạt khác."
+    },
+    {
+      "segment_id": "0056",
+      "source": "这都是有意为之，就是要挑起弟弟心中的不平之气，挑拨和自己的兄弟情谊。",
+      "target": "Đây đều là hành động cố ý, chính là muốn khơi dậy nỗi bất bình trong lòng em trai, châm ngòi ly gián tình nghĩa anh em với hắn."
+    },
+    {
+      "segment_id": "0057",
+      "source": "世人皆不患寡，而患不均。",
+      "target": "Thế nhân đều không sợ thiếu, mà chỉ sợ chia không đều."
+    },
+    {
+      "segment_id": "0058",
+      "source": "前世自己经历太少，弟弟又太傻太天真，被舅父舅母挑拨成功。",
+      "target": "Kiếp trước bản thân mình từng trải quá ít, em trai lại quá ngốc nghếch quá ngây thơ, nên bị cữu phụ cữu mẫu châm ngòi thành công."
+    },
+    {
+      "segment_id": "0059",
+      "source": "重生以来，眼看着就要开窍大典，局面看似积重难返，但是以方源魔道巨擘的手段和智慧，也不是不可以改变。",
+      "target": "Từ khi trọng sinh đến nay, chớp mắt cái là sắp tới đại điển Khai Khiếu, cục diện có vẻ như nếp cũ khó sửa, thế nhưng với thủ đoạn và trí tuệ của kẻ cự phách ma đạo như Phương Nguyên, cũng không phải là không thể thay đổi."
+    },
+    {
+      "segment_id": "0060",
+      "source": "这弟弟完全可以镇压收服，沈翠一个小小的丫头片子，更能提早收入后.宫。还有舅父舅母、族长家老，敲打他们至少有数百种方案。",
+      "target": "Đứa em trai này hoàn toàn có thể trấn áp thu phục, Thẩm Thúy một con ranh con nho nhỏ, càng có thể thu vào hậu cung từ sớm. Còn có cữu phụ cữu mẫu, tộc trưởng gia lão, việc gõ đầu răn đe bọn họ ít nhất có tới hàng trăm phương án."
+    },
+    {
+      "segment_id": "0061",
+      "source": "“但是，我却不想这么做呀……”方源在心中悠然一叹。",
+      "target": "“Thế nhưng, ta lại chẳng muốn làm như vậy a…” Phương Nguyên ung dung thở dài trong lòng."
+    },
+    {
+      "segment_id": "0062",
+      "source": "就算是亲弟弟又如何，没有亲情可言，只是个外人罢了，舍了也就舍了。",
+      "target": "Cho dù là em ruột thì đã sao, không có tình thân để nói tới, thì cũng chỉ là người dưng mà thôi, bỏ mặc thì cứ bỏ mặc."
+    },
+    {
+      "segment_id": "0063",
+      "source": "就算是沈翠长得再漂亮又如何，没有爱和忠心，不过是一具肉体。收入后.宫？她还不配。",
+      "target": "Cho dù Thẩm Thúy có vóc dáng xinh đẹp thế nào đi nữa thì đã sao, không có tình yêu và lòng trung thành, cũng chỉ là một cái xác thịt. Thu vào hậu cung ư? Ả còn chưa xứng."
+    },
+    {
+      "segment_id": "0064",
+      "source": "就算是舅父舅母，族长家老又如何，都是生命中的过客，何必费尽心机，耗散精力，来敲打这些路人？",
+      "target": "Cho dù là cữu phụ cữu mẫu, tộc trưởng gia lão thì đã sao, đều là những vị khách qua đường trong sinh mệnh, cớ gì phải tốn công hao sức, hao tâm tổn trí, đi răn đe những kẻ qua đường này?"
+    },
+    {
+      "segment_id": "0065",
+      "source": "呵呵。",
+      "target": "Ha ha."
+    },
+    {
+      "segment_id": "0066",
+      "source": "只要不阻碍我赶路，那就一边玩自己的蛋去，踩都不屑踩。;",
+      "target": "Chỉ cần không cản trở đường ta đi, vậy thì cứ lượn ra một góc tự chơi đi, dẫm lên ta còn chẳng thèm dẫm.;"
+    }
+  ]
+}
+```

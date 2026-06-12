@@ -1,12 +1,12 @@
 [
   {
-    "chapter_number": 1,
-    "title": "Chương 1: Bè tre chao đảo trên sông Hoàng Long",
-    "relative_path": "output/Chương 0001 - Chương 1 Bè tre chao đảo trên sông Hoàng Long.md"
-  },
-  {
     "chapter_number": 2,
     "title": "Chương 2: Giác ngộ năm trăm năm ngược dòng quang âm",
     "relative_path": "output/Chương 0002 - Chương 2 Giác ngộ năm trăm năm ngược dòng quang âm.md"
+  },
+  {
+    "chapter_number": 3,
+    "title": "Chương 3: Xin cứ ra một góc mà chơi đi",
+    "relative_path": "output/Chương 0003 - Chương 3 Xin cứ ra một góc mà chơi đi.md"
   }
 ]
