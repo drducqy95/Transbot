@@ -143,6 +143,11 @@ Chapter 7 completed via pipeline.
 ### Summary
 Chapter 8 completed via pipeline.
 
+## Chapter 0002 - 0002 光幕仪
+
+### Summary
+Chapter 2 completed via pipeline.
+
 
 ## Source Chapter 2 - 0002 光幕仪
 ```json

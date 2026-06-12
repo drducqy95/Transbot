@@ -1,25 +1,106 @@
+I will first inspect the files in the workspace directory to understand the project structure and context for this request.
+I'll list the contents of the `Script` and `Source` directories to find the relevant python scripts or logic.
+I'll check the `Script` directory to see the scripts that manage the translation process.
+I will perform a search in the `Script` directory to find any occurrence of names, terms, or glossary processing logic, which might guide the format or structure of the response.
+I'll search for "approved" or "rejected" in the Script directory to see how term classification is handled in this codebase.
+I will view `pipeline_tu-chan-bon-van-nam.py` to understand the translation setup for "修真四万年" (Forty Thousand Years of Cultivation).
+I'll check the list of files in the workspace's root directory or subdirectories like `$TRANS_DIR` to see what is stored there.
+I will check the `Global State` directory to see if it holds lists of terms, names, or glossary databases.
+I will list the contents of the `Output` directory to find files related to translation branches, glossaries, or terms.
+I will inspect the contents of the `Output/Tu Chan Bon Van Nam` directory, which is the translation output directory for "Forty Thousand Years of Cultivation".
+I will read `translation_config.json` in the `Tu Chan Bon Van Nam` output folder to see what glossary entries or configuration options are defined for this translation.
+I will search the `Script` directory for occurrences of the word "audit" to see if there is a script or module handling the audit process.
+I will search the `Script` directory for code referencing "Terms" or "Names" to see if there's a specific parser or pipeline step that expects this output.
+I will check the directory structure of the source text for "Tu Chan Bon Van Nam" to see if there are chapter files we can search.
+I will run a `grep_search` in the source chapter files for the Chinese string `修真` (cultivation) to see if we can find references to "修真4000", "初级飞剑炼制", "法宝维修概要", etc. This will help verify their context.
+I will view the first chapter of the source text to check the text language and format.
+I will run another grep search on `初级飞剑` to locate references in the source text files, using the correct path format without a trailing slash.
+I will run a targeted search in a single file to see if the search tool can locate the word "修真" in the Chinese text.
+I will run a grep command in the terminal to search for the terms in the source chapter files to verify their occurrences and context.
+I'll run a script via the terminal that searches for occurrences of all 8 terms across all chapters of the novel to see exactly how they appear in context.
+I will check the status of the background task containing the multi-term search to get the exact matching details.
+I will view the `test_api.py` script to see if there is any standard API interaction or validation pattern that is useful for formatting output.
+I have launched a background search task to check the exact occurrences of all eight terms in the source files. I am now waiting for the task to complete to analyze their contexts.
+Here is the JSON containing the classification of the names and terms, followed by their contextual analysis from the source chapters.
+
+### Term Review JSON
+
 ```json
 {
   "approved": [
-    "初级飞剑炼制",
-    "法宝维修概要"
+    {
+      "term": "法宝维修概要",
+      "suggested_correction": "《法宝维修概要》",
+      "vietnamese_translation": "Khái yếu duy tu pháp bảo",
+      "reason": "Matches the complete book title mentioned in Chapter 2."
+    }
   ],
   "rejected": [
-    "一个炼器师的",
-    "在短短半年之",
-    "轰爆一个星球",
-    "，不少都是几"
+    {
+      "term": "一个炼器师的",
+      "reason": "Fragment of the book title 《一个炼器师的自我修养》 (The Self-Cultivation of an Artificer). Also appears as a common grammatical fragment.",
+      "suggested_correction": "《一个炼器师的自我修养》",
+      "vietnamese_translation": "Một luyện khí sư tự tu dưỡng"
+    },
+    {
+      "term": "初级飞剑炼制",
+      "reason": "Fragment of the book title 《初级飞剑炼制简明教程》 (A Concise Tutorial on Primary Flying Sword Refining).",
+      "suggested_correction": "《初级飞剑炼制简明教程》",
+      "vietnamese_translation": "Giáo trình ngắn gọn luyện chế phi kiếm sơ cấp"
+    },
+    {
+      "term": "在短短半年之",
+      "reason": "Grammatical fragment of the common prepositional phrase '在短短半年之内' (within just half a year). Not a name or domain term.",
+      "suggested_correction": null,
+      "vietnamese_translation": "trong vòng nửa năm ngắn ngủi"
+    },
+    {
+      "term": "轰爆一个星球",
+      "reason": "Fragment of the book title 《轰爆一个星球的九十九种方法》 (Ninety-Nine Ways to Blow Up a Planet).",
+      "suggested_correction": "《轰爆一个星球的九十九种方法》",
+      "vietnamese_translation": "99 phương pháp oanh nổ một tinh cầu"
+    },
+    {
+      "term": "黑山老妖级晶",
+      "reason": "Truncated term. Fragment of the book title 《黑山老妖级晶石战舰维修手册》 (Black Mountain Old Demon-Class Crystal Battleship Maintenance Manual).",
+      "suggested_correction": "《黑山老妖级晶石战舰维修手册》",
+      "vietnamese_translation": "Sổ tay bảo dưỡng chiến hạm tinh thạch cấp Hắc Sơn Lão Yêu"
+    },
+    {
+      "term": "，不少都是几",
+      "reason": "Grammatical fragment starting with a comma and ending mid-word (part of ',不少都是几百年前的古籍').",
+      "suggested_correction": null,
+      "vietnamese_translation": null
+    }
   ],
   "uncertain": [
-    "修真4000",
-    "黑山老妖级晶"
+    {
+      "term": "修真4000",
+      "reason": "Truncated representation of '修真40000' (Forty Thousand Years of Cultivation) referring to the '修真40000年代' (40000s cultivation era) or the song/book 《修真40000年》. It is missing the trailing zero.",
+      "suggested_correction": "修真40000",
+      "vietnamese_translation": "Tu Chân 40000"
+    }
   ]
 }
 ```
 
-### Review Notes:
-*   **Approved**: Both **"初级飞剑炼制"** (Basic Flying Sword Crafting) and **"法宝维修概要"** (Magical Equipment Maintenance Outline) are complete, standalone nouns that appear to be book titles, course names, or specific skill manuals within a cultivation context.
-*   **Rejected**: These are sentence fragments, verb phrases, or contain punctuation that disqualify them from being standalone glossary terms: **"一个炼器师的"** (A refiner's...), **"在短短半年之"** (In just half a year...), **"轰爆一个星球"** (Blow up a planet), and **"，不少都是几"** (, many are several). You may want to extract the core term "炼器师" (Refiner/Artifact Crafter) separately.
-*   **Uncertain**: 
-    *   **"修真4000"** could be a term (like an era, item model, or book title), but it might also be a typo for the popular novel title "修真四万年" (Forty Millenniums of Cultivation).
-    *   **"黑山老妖级晶"** (Black Mountain Old Demon-class crystal) appears to be a specific item or classification, but it feels slightly truncated at the end (e.g., missing a character like "石" to make "晶石", or "核" to make "晶核").
+---
+
+### Contextual Analysis & Source References
+
+The terms originate from the novel **Tu Chan Bon Van Nam** (Forty Thousand Years of Cultivation / 修真四万年). In [Chapter 0002: L13](file:///mnt/sdcard/My Agent/Transbot/Source/Source Split/Tu Chan Bon Van Nam/Chapter 0002 光幕仪.md#L13), these book titles are stacked in Li Yao's living room:
+
+> "不大的客厅到处都堆满了这个时代很罕见的实体书，从《**法宝维修概要**》、《**初级飞剑炼制**简明教程》、《**一个炼器师的**自我修养》到《**黑山老妖级晶**石战舰维修手册》、《**轰爆一个星球**的九十九种方法》，**不少都是几**百年前的古籍..."
+
+- **Approved**:
+  - `法宝维修概要` is a complete book title.
+- **Rejected**:
+  - `一个炼器师的`, `初级飞剑炼制`, `轰爆一个星球`, and `黑山老妖级晶` are incomplete fragments of the respective book titles:
+    - 《一个炼器师的自我修养》
+    - 《初级飞剑炼制简明教程》
+    - 《轰爆一个星球的九十九种方法》
+    - 《黑山老妖级晶石战舰维修手册》
+  - `在短短半年之` is a fragment of the phrase "在短短半年之内" (found in [Chapter 0002: L64](file:///mnt/sdcard/My Agent/Transbot/Source/Source Split/Tu Chan Bon Van Nam/Chapter 0002 光幕仪.md#L64)).
+  - `，不少都是几` is a random textual fragment.
+- **Uncertain**:
+  - `修真4000` is truncated; it should be `修真40000` (referring to "修真40000年代" or the song 《修真40000年》, as seen in [Chapter 0002: L64](file:///mnt/sdcard/My Agent/Transbot/Source/Source Split/Tu Chan Bon Van Nam/Chapter 0002 光幕仪.md#L64) and [Chapter 0006: L31](file:///mnt/sdcard/My Agent/Transbot/Source/Source Split/Tu Chan Bon Van Nam/Chapter 0006 大黑暗时代.md#L31)).
