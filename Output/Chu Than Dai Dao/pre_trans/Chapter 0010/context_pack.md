@@ -143,6 +143,11 @@ Chapter 8 completed via pipeline.
 ### Summary
 Chapter 9 completed via pipeline.
 
+## Chapter 0010 - Chương 10: Kỵ sĩ! Võ tăng!
+
+### Summary
+Chapter 10 completed via pipeline.
+
 
 ## Source Chapter 10 - 0010 骑士！ 武僧！
 ```json
