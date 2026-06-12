@@ -423,3 +423,8 @@ Chapter 48 completed via pipeline.
 
 ### Summary
 Chapter 49 completed via pipeline.
+
+## Chapter 0050 - Chương 50: Chức nghiệp đắt khách nhất
+
+### Summary
+Chapter 50 completed via pipeline.

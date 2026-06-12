@@ -184,3 +184,4 @@ Audit: pass
 - 2026-06-12 09:04 | Chapter 47 | completed | Chương 0047 - Chương 47 Giáo Hội Huy Quang không đáng tin cậy.md
 - 2026-06-12 09:13 | Chapter 48 | completed | Chương 0048 - Chương 48 Mạnh tay hơn nữa.md
 - 2026-06-12 09:16 | Chapter 49 | completed | Chương 0049 - Chương 49 Cơ hội tuyệt hảo.md
+- 2026-06-12 09:24 | Chapter 50 | completed | Chương 0050 - Chương 50 Chức nghiệp đắt khách nhất.md

@@ -1,0 +1,425 @@
+Dưới đây là phần dịch của Chương 50 đã được sửa lỗi `cjk_leftover` (thay thế các dấu ngoặc vuông kiểu Trung Quốc `【` và `】` bằng ngoặc vuông tiêu chuẩn `[` và `]`):
+
+```json
+{
+  "chapter_number": 50,
+  "chapter_title_vi": "Chương 50: Chức nghiệp đắt khách nhất",
+  "segments": [
+    {
+      "segment_id": "seg_1",
+      "source": "形成人数优势后，虽然战斗的时候，还是难以避免地会因为血牙帮的人反抗而导致有人受伤，但最终肯定能有惊无险地拿下敌人。",
+      "target": "Sau khi hình thành ưu thế về quân số, tuy rằng khi chiến đấu vẫn khó tránh khỏi việc có người bị thương do sự chống trả của băng Bloodfang, nhưng cuối cùng chắc chắn có thể hạ gục kẻ địch một cách bình an vô sự."
+    },
+    {
+      "segment_id": "seg_2",
+      "source": "至于那些受伤的人。",
+      "target": "Còn về những người bị thương."
+    },
+    {
+      "segment_id": "seg_3",
+      "source": "大部分情况下只是皮外伤，稍微包扎休息一下就能恢复不少。",
+      "target": "Hầu hết các trường hợp chỉ là vết thương ngoài da, chỉ cần băng bó sơ qua và nghỉ ngơi một chút là hồi phục phần nào."
+    },
+    {
+      "segment_id": "seg_4",
+      "source": "实在运气不好，被打到了身体脆弱的部位，出现骨折之类的伤势，就只能将其送到酒馆去休养治疗。",
+      "target": "Nếu thực sự xui xẻo bị đánh trúng vào những bộ phận yếu hại trên cơ thể, dẫn đến chấn thương như gãy xương, thì chỉ đành đưa họ đến quán rượu để dưỡng thương và trị liệu."
+    },
+    {
+      "segment_id": "seg_5",
+      "source": "酒馆里有3个选择了牧师路线的诺文信徒，虽然他们也只是刚刚入门，勉强会个【次级治疗】之类的小神术，但也足够让伤者尽快恢复行动力。",
+      "target": "Trong quán rượu có ba tín đồ Norven đã lựa chọn lộ trình Mục Sư. Mặc dù họ cũng mới chỉ vừa nhập môn, miễn cưỡng biết được vài tiểu thần thuật như [Trị Liệu Thứ Cấp], nhưng thế là đã đủ để giúp người bị thương nhanh chóng khôi phục khả năng hoạt động."
+    },
+    {
+      "segment_id": "seg_6",
+      "source": "小神术的效果比不上辉光神教圣教军里专业牧师的【治愈真言】，但胜在数量够多！",
+      "target": "Hiệu quả của tiểu thần thuật tuy không sánh bằng [Chân Ngôn Trị Liệu] của các Mục Sư chuyên nghiệp thuộc Thánh Giáo Binh của Giáo Hội Huy Quang, nhưng thắng ở chỗ số lượng đủ nhiều!"
+    },
+    {
+      "segment_id": "seg_7",
+      "source": "虽然使用的是辉光之神的神术，但从诺文这里学会神术的牧师信徒们亦不会受到神术位限制，而同样是被精神力所限制。",
+      "target": "Tuy rằng sử dụng thần thuật của Thần Huy Quang, nhưng những tín đồ Mục Sư học được thần thuật từ chỗ Norven cũng không bị giới hạn bởi Thần thuật vị, mà thay vào đó bị giới hạn bởi tinh thần lực."
+    },
+    {
+      "segment_id": "seg_8",
+      "source": "只要精神力还没耗尽，他们就能连续释放神术！",
+      "target": "Chỉ cần tinh thần lực chưa cạn kiệt, họ có thể liên tục thi triển thần thuật!"
+    },
+    {
+      "segment_id": "seg_9",
+      "source": "主打一个以量取胜！",
+      "target": "Chủ yếu là lấy lượng bù chất!"
+    },
+    {
+      "segment_id": "seg_10",
+      "source": "1、2次的【次级治疗】治不好，那就堆上个10次、20次。",
+      "target": "Một, hai lần [Trị Liệu Thứ Cấp] không chữa khỏi thì cứ dồn lên mười lần, hai mươi lần."
+    },
+    {
+      "segment_id": "seg_11",
+      "source": "积少成多，一样能达到跟辉光神教专业牧师同样的治疗效果！",
+      "target": "Tích tiểu thành đại, vẫn có thể đạt được hiệu quả trị liệu tương đương với Mục Sư chuyên nghiệp của Giáo Hội Huy Quang!"
+    },
+    {
+      "segment_id": "seg_12",
+      "source": "很快便有人发现：",
+      "target": "Nhanh chóng có người phát hiện ra:"
+    },
+    {
+      "segment_id": "seg_13",
+      "source": "哎？",
+      "target": "Ủa?"
+    },
+    {
+      "segment_id": "seg_14",
+      "source": "好像能提供治疗的牧师才是最吃香的职业啊！",
+      "target": "Hình như Mục Sư có khả năng trị liệu mới là chức nghiệp đắt khách nhất nha!"
+    },
+    {
+      "segment_id": "seg_15",
+      "source": "其他职业路线都要正面跟血牙帮的混混对抗。",
+      "target": "Các lộ trình chức nghiệp khác đều phải trực diện đối đầu với đám lưu manh băng Bloodfang."
+    },
+    {
+      "segment_id": "seg_16",
+      "source": "血牙帮的混混在得到邪神的力量后，个体实力并不算弱。",
+      "target": "Đám lưu manh băng Bloodfang sau khi nhận được sức mạnh của tà thần, thực lực cá nhân không hề yếu."
+    },
+    {
+      "segment_id": "seg_17",
+      "source": "战斗过程中，如果想作出更多贡献，拿到更多的正义点数，那就不能怂在后面。",
+      "target": "Trong quá trình chiến đấu, nếu muốn đóng góp nhiều hơn để nhận được nhiều Điểm Chính Nghĩa hơn thì không thể rụt rè nép ở phía sau."
+    },
+    {
+      "segment_id": "seg_18",
+      "source": "可是第一批攻击的人又容易因为敌人的反击而受伤。",
+      "target": "Thế nhưng đợt người tấn công đầu tiên lại rất dễ bị thương bởi đòn phản công của kẻ địch."
+    },
+    {
+      "segment_id": "seg_19",
+      "source": "受伤失去行动能力就没法继续参与活动，不能继续获取正义点数。",
+      "target": "Bị thương mất đi khả năng hành động thì không thể tiếp tục tham gia hoạt động, đồng nghĩa với việc không thể tiếp tục kiếm Điểm Chính Nghĩa."
+    },
+    {
+      "segment_id": "seg_20",
+      "source": "反倒这3个选择牧师路线的诺文信徒，只要安逸地待在酒馆里，等着伤员被送上门，然后施展神术治疗就行。",
+      "target": "Trái lại, ba tín đồ Norven chọn lộ trình Mục Sư này chỉ cần nhàn nhã ở lại quán rượu, đợi người bị thương được đưa đến tận nơi rồi thi triển thần thuật trị liệu là xong."
+    },
+    {
+      "segment_id": "seg_21",
+      "source": "because 被他们治疗的人是“阻止血牙帮犯罪”而受伤，所以他们同样能被视为在活动中做出了贡献，一样能拿正义点数！",
+      "target": "Bởi vì những người được họ trị liệu là bị thương do 'ngăn chặn băng Bloodfang phạm tội', cho nên họ cũng được coi là đã có đóng góp trong hoạt động, vẫn nhận được Điểm Chính Nghĩa như thường!"
+    },
+    {
+      "segment_id": "seg_22",
+      "source": "没有危险。",
+      "target": "Không hề nguy hiểm."
+    },
+    {
+      "segment_id": "seg_23",
+      "source": "点数进账稳定。",
+      "target": "Điểm số thu về lại ổn định."
+    },
+    {
+      "segment_id": "seg_24",
+      "source": "后来培特和盖尔两人带领的队伍往酒馆送伤员的时候，一听这3个牧师路线的诺文信徒已经靠着治疗伤员得到了300多点正义点数。",
+      "target": "Sau này, khi nhóm do Pete và Gael dẫn đầu đưa người bị thương về quán rượu, vừa nghe nói ba tín đồ Norven chọn lộ trình Mục Sư kia đã nhận được hơn 300 Điểm Chính Nghĩa nhờ trị liệu cho người bị thương."
+    },
+    {
+      "segment_id": "seg_25",
+      "source": "盖尔当时，就当时，他改修牧师的心都有了！",
+      "target": "Gael lúc đó, ngay tại thời điểm đó, đến cả ý định đổi sang tu luyện Mục Sư anh cũng có luôn rồi!"
+    },
+    {
+      "segment_id": "seg_26",
+      "source": "他辛苦半天好不容易攒够正义点数！",
+      "target": "Anh vất vả cực nhọc nửa ngày trời mới gom góp đủ Điểm Chính Nghĩa!"
+    },
+    {
+      "segment_id": "seg_27",
+      "source": "刚把【奥术飞弹】兑换出来。",
+      "target": "Vừa mới đổi được [Đạn Huyền Thuật]."
+    },
+    {
+      "segment_id": "seg_28",
+      "source": "结果这帮牧师在酒馆里喝着饮料吹着风，挥挥手放几个【次级治疗】就又大把的正义点数进账！",
+      "target": "Kết quả là đám Mục Sư này chỉ việc ngồi trong quán rượu uống nước hóng mát, vẫy vẫy tay thi triển vài phát [Trị Liệu Thứ Cấp] là đã có hàng đống Điểm Chính Nghĩa chảy vào túi!"
+    },
+    {
+      "segment_id": "seg_29",
+      "source": "事实上，一开始的时候，这批选择职业修行的诺文信徒里面压根没有打算走牧师这条路线的人。",
+      "target": "Thực ra, lúc ban đầu, trong số các tín đồ Norven chọn tu hành chức nghiệp này, hoàn toàn không có ai định đi theo lộ trình Mục Sư cả."
+    },
+    {
+      "segment_id": "seg_30",
+      "source": "传教过程中，9成多的人不约而同地选择兑换了法师入门的知识。",
+      "target": "Trong quá trình truyền giáo, hơn chín phần mười mọi người đều không hẹn mà gặp, cùng lựa chọn đổi lấy kiến thức nhập môn Pháp Sư."
+    },
+    {
+      "segment_id": "seg_31",
+      "source": "毕竟在格林港这种地方，法师地位高、收入高几乎是所有人的共识。",
+      "target": "Dự đoán ở những nơi như Cảng Green, Pháp Sư có địa vị cao, thu nhập lớn gần như là nhận thức chung của mọi người."
+    },
+    {
+      "segment_id": "seg_32",
+      "source": "当然，虽然兑换了知识，也不是所有人都能顺利成为1阶法师。",
+      "target": "Dĩ nhiên, tuy đã đổi được kiến thức, nhưng cũng không phải ai cũng có thể thuận lợi trở thành Pháp Sư cấp 1."
+    },
+    {
+      "segment_id": "seg_33",
+      "source": "即使能看到练习进度，但每个人天赋不同，练习的速度也不同。",
+      "target": "Dù có thể nhìn thấy tiến độ luyện tập, nhưng thiên phú của mỗi người khác nhau, tốc độ luyện tập cũng khác nhau."
+    },
+    {
+      "segment_id": "seg_34",
+      "source": "有的人与魔法女神亲和度高，更容易感知到环境中游离 of 奥术能量，练习进度更快。",
+      "target": "Có người có độ tương thích cao với Nữ thần Ma pháp, dễ dàng cảm nhận được năng lượng huyền thuật trôi nổi trong môi trường hơn, nên tiến độ luyện tập cũng nhanh hơn."
+    },
+    {
+      "segment_id": "seg_35",
+      "source": "可能只需要几次的尝试就能达到100%目标，完成法师入门。",
+      "target": "Có thể họ chỉ cần thử vài lần là đã đạt được 100% mục tiêu, hoàn thành giai đoạn nhập môn Pháp Sư."
+    },
+    {
+      "segment_id": "seg_36",
+      "source": "与魔法女神亲和度不够的那些人，则可能每次尝试只能推进个1%或者2%的进度。",
+      "target": "Còn đối với những ai có độ tương thích với Nữ thần Ma pháp không đủ cao, mỗi lần thử nghiệm có lẽ chỉ có thể thúc đẩy được 1% hoặc 2% tiến độ."
+    },
+    {
+      "segment_id": "seg_37",
+      "source": "要花费别人数倍甚至十倍以上的时间精力，才能达到同样的效果。",
+      "target": "Họ phải tiêu tốn thời gian và công sức gấp vài lần, thậm chí là hơn mười lần người khác mới có thể đạt được cùng một kết quả."
+    },
+    {
+      "segment_id": "seg_38",
+      "source": "头铁的人终究还是少数。",
+      "target": "Những kẻ cứng đầu suy cho cùng cũng chỉ là số ít."
+    },
+    {
+      "segment_id": "seg_39",
+      "source": "意识到自己不是做法师那块儿料，自然会退而求次，选择其他的职业路线。",
+      "target": "Nhận ra bản thân không có khiếu làm Pháp Sư, họ tự nhiên sẽ lùi một bước để chọn lựa con đường khác, rẽ sang các lộ trình chức nghiệp khác."
+    },
+    {
+      "segment_id": "seg_40",
+      "source": "这才有了修行其他职业路线的信徒。",
+      "target": "Nhờ vậy mới có những tín đồ tu hành theo các lộ trình chức nghiệp khác."
+    },
+    {
+      "segment_id": "seg_41",
+      "source": "这些人本来还因为没法成为高贵的法师稍微有些失落。",
+      "target": "Những người này vốn dĩ còn vì không thể trở thành Pháp Sư cao quý mà cảm thấy có chút hụt hẫng."
+    },
+    {
+      "segment_id": "seg_42",
+      "source": "结果一看在活动中的表现。",
+      "target": "Kết quả vừa nhìn vào biểu hiện trong hoạt động."
+    },
+    {
+      "segment_id": "seg_43",
+      "source": "1阶法师？",
+      "target": "Pháp Sư cấp 1?"
+    },
+    {
+      "segment_id": "seg_44",
+      "source": "也没那么强势啊！",
+      "target": "Cũng chẳng mạnh mẽ gì cho cam!"
+    },
+    {
+      "segment_id": "seg_45",
+      "source": "法师没法顶在前面，拿不到正面对抗那部分的贡献奖励；      施法有精神力限制。",
+      "target": "Pháp Sư không thể đi tiên phong ở phía trước, không lấy được phần thưởng cống hiến đối đầu trực diện; thi triển pháp thuật lại có giới hạn về tinh thần lực."
+    },
+    {
+      "segment_id": "seg_46",
+      "source": "短时间内连放3、4次【奥术飞弹】就会头晕眼花，必须找地方休息半天才能恢复精力。",
+      "target": "Trong thời gian ngắn chỉ cần liên tục phóng ba, bốn phát [Đạn Huyền Thuật] là sẽ đầu váng mắt hoa, phải tìm nơi nghỉ ngơi nửa ngày mới có thể hồi phục lại tinh thần."
+    },
+    {
+      "segment_id": "seg_47",
+      "source": "别说跟轻松安逸的牧师比较了。",
+      "target": "Đừng nói là so sánh với Mục Sư thảnh thơi nhàn nhã."
+    },
+    {
+      "segment_id": "seg_48",
+      "source": "就连战士、潜行者、游侠这几种跟人肉搏的职业都比不上！",
+      "target": "Đến cả mấy chức nghiệp cận chiến giáp lá cà như Chiến Sĩ, Tiềm Hành Giả, Du Hiệp còn không bằng!"
+    },
+    {
+      "segment_id": "seg_49",
+      "source": "一时间，不少人都起了跟盖尔类似的心思。",
+      "target": "Trong nhất thời, không ít người cũng nảy sinh suy nghĩ tương tự như Gael."
+    },
+    {
+      "segment_id": "seg_50",
+      "source": "反正才刚刚起步，随时可以再向求知之神祈祷兑换其他职业路线的修行知识。",
+      "target": "Dù sao thì cũng mới chỉ vừa bắt đầu, bất cứ lúc nào họ cũng có thể cầu nguyện với Thần Tri Thức một lần nữa để đổi lấy kiến thức tu luyện của lộ trình chức nghiệp khác."
+    },
+    {
+      "segment_id": "seg_51",
+      "source": "要不……不当法师了，改修其他职业？",
+      "target": "Hay là... không làm Pháp Sư nữa, chuyển sang tu luyện chức nghiệp khác?"
+    },
+    {
+      "segment_id": "seg_52",
+      "source": "……",
+      "target": "......"
+    },
+    {
+      "segment_id": "seg_53",
+      "source": "关于信徒们职业选择趋势的变化，暂且不表。",
+      "target": "Về sự thay đổi trong xu hướng lựa chọn chức nghiệp của các tín đồ, tạm thời không bàn tới."
+    },
+    {
+      "segment_id": "seg_54",
+      "source": "一晚上的时间，在正义点数的激励下，趁着血牙帮还没反应过来，求知教派众多信徒四处出击。",
+      "target": "Chỉ trong một đêm, dưới sự khích lệ của Điểm Chính Nghĩa, tranh thủ lúc băng Bloodfang còn chưa kịp phản ứng, đông đảo tín đồ của Giáo Phái Tri Thức đã đồng loạt xuất kích khắp nơi."
+    },
+    {
+      "segment_id": "seg_55",
+      "source": "在众人共同的努力下，不但第1个特殊技能【状态显示】得到了足够的正义点数成功解锁，就连【罪恶感知】都完成了不少进度。",
+      "target": "Dưới sự nỗ lực chung của mọi người, không chỉ kỹ năng đặc biệt đầu tiên là [Hiển thị trạng thái] đã tích lũy đủ Điểm Chính Nghĩa để mở khóa thành công, mà ngay cả [Cảm nhận tội ác] cũng đã hoàn thành được không ít tiến độ."
+    },
+    {
+      "segment_id": "seg_56",
+      "source": "【状态显示】的效果非常简单直接：",
+      "target": "Hiệu quả của [Hiển thị trạng thái] vô cùng đơn giản và trực diện:"
+    },
+    {
+      "segment_id": "seg_57",
+      "source": "当诺文的信徒们视线里出现血牙帮成员时，他们会立刻收到提醒。",
+      "target": "Khi các thành viên băng Bloodfang lọt vào tầm mắt của tín đồ Norven, họ sẽ lập tức nhận được cảnh báo."
+    },
+    {
+      "segment_id": "seg_58",
+      "source": "无论血牙帮成员准备什么伪装，在【状态显示】面前都会被直接识破！",
+      "target": "Bất kể thành viên băng Bloodfang có chuẩn bị ngụy trang kiểu gì đi nữa, trước [Hiển thị trạng thái] đều sẽ bị nhìn thấu trực tiếp!"
+    },
+    {
+      "segment_id": "seg_59",
+      "source": "有了特殊技能的帮助，而且随着打击血牙帮次数的增多，为了尽可能减少战损、增加效率，众人也纷纷开动脑筋，各显神通，想出不同的办法！",
+      "target": "Có được sự trợ giúp của kỹ năng đặc biệt, lại thêm số lần đối phó băng Bloodfang ngày càng nhiều, để giảm thiểu tối đa thương vong và nâng cao hiệu suất, mọi người cũng thi nhau động não, thi triển hết các ngón nghề, nghĩ ra đủ loại phương pháp khác nhau!"
+    },
+    {
+      "segment_id": "seg_60",
+      "source": "……",
+      "target": "......"
+    },
+    {
+      "segment_id": "seg_61",
+      "source": "次日。",
+      "target": "Ngày hôm sau."
+    },
+    {
+      "segment_id": "seg_62",
+      "source": "两名混混刚从血牙帮控制的妓院出来没一会儿，就莫名地感觉背后有些发毛。",
+      "target": "Hai tên lưu manh vừa bước ra khỏi nhà chứa do băng Bloodfang khống chế chưa được bao lâu, liền cảm thấy sống lưng lành lạnh một cách không rõ nguyên nhân."
+    },
+    {
+      "segment_id": "seg_63",
+      "source": "“怎么感觉好像有什么东西在跟着我们？”",
+      "target": "“Sao cứ cảm giác như có thứ gì đó đang theo đuôi chúng ta thế?”"
+    },
+    {
+      "segment_id": "seg_64",
+      "source": "一名混混数次回头，可却只看到了街道上来来往往的行人。",
+      "target": "Một tên lưu manh quay đầu lại mấy lần, nhưng chỉ nhìn thấy dòng người qua lại tấp nập trên đường phố."
+    },
+    {
+      "segment_id": "seg_65",
+      "source": "似乎一切如常。",
+      "target": "Mọi thứ dường như vẫn bình thường."
+    },
+    {
+      "segment_id": "seg_66",
+      "source": "另一混混不屑道：“泄火泄出幻觉了吧你？下城区这地界谁敢招惹我们啊。”",
+      "target": "Tên lưu manh còn lại khinh bỉ nói: “Mày xả lửa xong sinh ra ảo giác rồi hả? Ở cái địa bàn Khu Hạ Thành này, làm gì có ai dám đụng vào chúng ta chứ.”"
+    },
+    {
+      "segment_id": "seg_67",
+      "source": "“赶紧的，今天要收3家的保护费，抓紧时间，早点完事，还能回去玩上两盘骰子！”",
+      "target": "“Nhanh lên đi, hôm nay còn phải thu tiền bảo kê của ba nhà nữa, tranh thủ thời gian làm xong sớm để còn về chơi vài ván xúc xắc!”"
+    },
+    {
+      "segment_id": "seg_68",
+      "source": "先前说话的混混还是有些疑神疑鬼，直到他俩大摇大摆地踢开商户大门，强行收走一大笔“保护费”后，依然跟往常没什么区别。",
+      "target": "Tên lưu manh lên tiếng trước vẫn có chút ngờ vực, cho đến khi hai đứa tụi nó nghênh ngang đạp bay cửa một hộ kinh doanh, cưỡng đoạt một khoản lớn 'tiền bảo kê', mọi chuyện vẫn không có gì khác biệt so với bình thường."
+    },
+    {
+      "segment_id": "seg_69",
+      "source": "“是我的错觉？”",
+      "target": "“Là ảo giác của tao à?”"
+    },
+    {
+      "segment_id": "seg_70",
+      "source": "第二家商户的“保护费”的也收的很顺利，店主根本不敢反抗，老老实实地交出了钱袋。",
+      "target": "Tiền bảo kê của hộ kinh doanh thứ hai cũng thu về rất thuận lợi, chủ tiệm hoàn toàn không dám phản kháng, ngoan ngoãn giao ra túi tiền."
+    },
+    {
+      "segment_id": "seg_71",
+      "source": "直到第三家商户，他们两个还没来得及踹门，眼前骤然一黑。",
+      "target": "Cho đến hộ kinh doanh thứ ba, hai tên còn chưa kịp đạp cửa thì trước mắt bỗng nhiên tối sầm."
+    },
+    {
+      "segment_id": "seg_72",
+      "source": "两条带着汗臭味的粗布麻袋兜头罩了下来！",
+      "target": "Hai chiếc bao tải vải thô nồng nặc mùi mồ hôi trùm thẳng xuống đầu hai tên!"
+    },
+    {
+      "segment_id": "seg_73",
+      "source": "甚至来不及反抗，俩人就在数次【奥术飞弹】的冲击下失去平衡，摔倒在地。",
+      "target": "Còn chưa kịp phản kháng, hai tên đã mất thăng bằng ngã nhào ra đất dưới những cú va đập liên tiếp của [Đạn Huyền Thuật]."
+    },
+    {
+      "segment_id": "seg_74",
+      "source": "各种各样的攻击立马招呼上来！",
+      "target": "Đủ loại đòn tấn công lập tức tới tấp dội xuống!"
+    },
+    {
+      "segment_id": "seg_75",
+      "source": "俩人被套着麻袋，根本没有抵抗能力，听着外面热闹的叫喊声，只能被动挨打！",
+      "target": "Hai tên bị trùm trong bao tải, hoàn toàn không có khả năng chống trả, chỉ biết nằm im chịu đòn trước những tiếng la hét nhốn nháo bên ngoài!"
+    },
+    {
+      "segment_id": "seg_76",
+      "source": "“犯罪行为成立，证据确凿！”",
+      "target": "“Hành vi phạm tội đã được xác lập, chứng cứ rành rành!”"
+    },
+    {
+      "segment_id": "seg_77",
+      "source": "“血牙帮的人，错不了，状态显示都提醒好几遍了，就是他俩！”",
+      "target": "“Người của băng Bloodfang, không sai đi đâu được, [Hiển thị trạng thái] đã cảnh báo mấy lần liền rồi, chính là hai tên này!”"
+    },
+    {
+      "segment_id": "seg_78",
+      "source": "“还是培特先生聪明！先给他们套上麻袋，这样就不用担心被反击了！”",
+      "target": "“Vẫn là anh Pete thông minh! Trùm bao tải lên đầu tụi nó trước, như vậy là khỏi phải lo bị phản công rồi!”"
+    },
+    {
+      "segment_id": "seg_79",
+      "source": "“跟了一路，这俩人已经连续强收了两家商户的保护费！”",
+      "target": "“Bám theo suốt dọc đường, hai tên này đã liên tục cưỡng đoạt tiền bảo kê của hai hộ kinh doanh rồi!”"
+    },
+    {
+      "segment_id": "seg_80",
+      "source": "“快点把他们干掉，肯定能拿不少正义点数！”",
+      "target": "“Bây giờ xử lý tụi nó, chắc chắn sẽ kiếm được không ít Điểm Chính Nghĩa!”"
+    },
+    {
+      "segment_id": "seg_81",
+      "source": "……",
+      "target": "......"
+    },
+    {
+      "segment_id": "seg_82",
+      "source": "感谢书友20230321120407896，书友20230326221043464，毕竟东流去W投出的1张月票，感谢各位投出推荐票的书友，蟹蟹你们",
+      "target": "Cảm ơn bạn đọc 20230321120407896, bạn đọc 20230326221043464, Tất Cánh Đông Lưu Khứ W đã bỏ 1 phiếu tháng, cảm ơn các bạn đọc đã bỏ phiếu đề cử, cảm ơn mọi người nha."
+    }
+  ]
+}
+```
+
+### Tóm tắt công việc
+1. Xác định lỗi `cjk_leftover` do sự tồn tại của các dấu ngoặc vuông kiểu Trung Quốc (`【` và `】`) trong các chuỗi bản dịch tiếng Việt (ví dụ: `【Trị Liệu Thứ Cấp】`, `【Đạn Huyền Thuật】`, v.v.).
+2. Viết tập lệnh tự động hóa việc thay thế tất cả các dấu ngoặc vuông Trung Quốc này thành dấu ngoặc vuông tiêu chuẩn phương Tây (`[` và `]`).
+3. Xuất kết quả JSON hoàn chỉnh đảm bảo không còn ký tự CJK dư thừa trong phần bản dịch tiếng Việt (`target`).
