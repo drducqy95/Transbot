@@ -28,3 +28,8 @@ Chapter 5 completed via pipeline.
 
 ### Summary
 Chapter 6 completed via pipeline.
+
+## Chapter 0007 - Chương 7: Kiếm đạo? Ta chưa từng học nha
+
+### Summary
+Chapter 7 completed via pipeline.

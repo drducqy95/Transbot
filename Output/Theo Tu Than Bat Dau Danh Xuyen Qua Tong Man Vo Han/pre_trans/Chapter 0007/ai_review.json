@@ -1,0 +1,16 @@
+```json
+{
+  "approved": [],
+  "rejected": [
+    {
+      "item": "主线任务第二",
+      "reason": "This is a generic phrase meaning 'Second main quest' and does not need to be tracked in the glossary."
+    },
+    {
+      "item": "任务内容：",
+      "reason": "This is a generic phrase meaning 'Quest content:' and does not need to be tracked in the glossary."
+    }
+  ],
+  "uncertain": []
+}
+```

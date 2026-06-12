@@ -1,0 +1,278 @@
+```json
+{
+  "chapter_number": 7,
+  "chapter_title_vi": "Chương 7: Kiếm đạo? Ta chưa từng học nha",
+  "segments": [
+    {
+      "segment_id": "0001",
+      "source": "# 第7章 剑道？我没学过啊",
+      "target": "# Chương 7: Kiếm đạo? Ta chưa từng học nha"
+    },
+    {
+      "segment_id": "0002",
+      "source": "轰——",
+      "target": "Ầm——"
+    },
+    {
+      "segment_id": "0003",
+      "source": "在剧烈的撞击声中，陆离倒飞了出去，他在空中调整身形，落地后连续撤步卸力，最后在地板上划出一段距离才停了下来。",
+      "target": "Trong tiếng va chạm kịch liệt, Lục Ly bay ngược ra sau. Hắn ở trên không trung điều chỉnh thân hình, sau khi tiếp đất liên tục lùi bước để giảm lực, cuối cùng trượt trên mặt sàn một đoạn dài mới dừng lại."
+    },
+    {
+      "segment_id": "0004",
+      "source": "他看了眼手中已经断成两截的竹剑，将其扔在地上，活动了下被震得生疼的手臂，咧嘴笑道：“老师，这可不是十七等灵威吧？”",
+      "target": "Hắn liếc nhìn thanh kiếm tre đã gãy làm đôi trong tay, ném nó xuống đất, cử động nhẹ cánh tay bị chấn động đến đau nhức, toét miệng cười nói: \"Lão sư, đây không phải là linh uy bậc mười bảy đâu nhỉ?\""
+    },
+    {
+      "segment_id": "0005",
+      "source": "藤本柱神情有些尴尬，是的，方才的那一瞬，他本能的防御要害，动用了自己的灵压力量防御，这才将陆离震飞了出去。",
+      "target": "Vẻ mặt Fujimoto Hashira có chút lúng túng. Đúng vậy, khoảnh khắc vừa rồi, theo bản năng phòng ngự chỗ hiểm, hắn đã dùng sức mạnh linh áp của mình để phòng ngự, thế nên mới chấn bay Lục Ly ra ngoài."
+    },
+    {
+      "segment_id": "0006",
+      "source": "而他此时惊觉，他的后背已经被汗浸湿了，刚才短暂的交锋，仿佛像是在生死线上走了一遭。",
+      "target": "Mà lúc này hắn mới giật mình nhận查, lưng mình đã ướt đẫm mồ hôi. Cuộc giao phong ngắn ngủi vừa rồi, cứ như thể hắn vừa đi dạo một vòng trên ranh giới sinh tử vậy."
+    },
+    {
+      "segment_id": "0007",
+      "source": "明明对方真正的实力很弱，却让他在那一瞬间感到有种压迫感，正是那种要压倒他的狂气，摧毁了他的神经，让他人体的自我防御机制启动了。",
+      "target": "Rõ ràng thực lực chân chính của đối phương rất yếu, lại khiến hắn trong khoảnh khắc đó cảm nhận được một loại áp bách, chính sự điên cuồng muốn áp đảo hắn kia đã phá vỡ thần kinh của hắn, khiến cơ chế tự phòng ngự của cơ thể khởi động."
+    },
+    {
+      "segment_id": "0008",
+      "source": "“陆君，你很出色，以前是接受过剑道相关的训练吗？”",
+      "target": "\"Lục quân, ngươi rất xuất sắc, trước đây từng được huấn luyện liên quan đến kiếm đạo sao?\""
+    },
+    {
+      "segment_id": "0009",
+      "source": "藤本柱调整心态后好奇的问道，他毕竟是真央灵术院的老师，也不至于因为这件事就恼羞成怒，反而对于有着出众剑道水平的陆离很欣赏。",
+      "target": "Sau khi điều chỉnh lại tâm thái, Fujimoto tò mò hỏi. Dù sao hắn cũng là lão sư của Chân Ương Linh Thuật Viện, không đến mức vì chuyện này mà thẹn quá hóa giận, ngược lại còn rất tán thưởng Lục Ly - người có trình độ kiếm đạo xuất chúng."
+    },
+    {
+      "segment_id": "0010",
+      "source": "“剑道？没学过。”",
+      "target": "\"Kiếm đạo? Chưa từng học.\""
+    },
+    {
+      "segment_id": "0011",
+      "source": "陆离摇头道，他说的是实话，他可从来没学过这个世界的‘剑道’，但刀术他确实略知一二。",
+      "target": "Lục Ly lắc đầu đáp. Hắn nói thật, hắn nào có từng học ‘kiếm đạo’ của thế giới này, nhưng đao thuật thì hắn đúng là biết chút đỉnh."
+    },
+    {
+      "segment_id": "0012",
+      "source": "哦，按照终焉空间菜单中关于专精的评价，他是大师级刀术专精，貌似还可以的样子。",
+      "target": "À, theo như đánh giá về độ tinh thông trong giao diện Không Gian Chung Yên, hắn tinh thông đao thuật cấp bậc Đại sư, có vẻ như cũng tàm tạm."
+    },
+    {
+      "segment_id": "0013",
+      "source": "在他原有的世界中，练武的人已经很少了。",
+      "target": "Ở thế giới ban đầu của hắn, người luyện võ đã rất ít."
+    },
+    {
+      "segment_id": "0014",
+      "source": "尽管他不愿意承认，但悲哀的事实是，那些被他杀死的人，已经在某种意义上代表了那个时代武学的巅峰了。",
+      "target": "Dù không muốn thừa nhận, nhưng có một sự thật đáng buồn là, những kẻ bị hắn giết kia, xét theo một ý nghĩa nào đó, đã đại diện cho đỉnh cao võ học của thời đại đó."
+    },
+    {
+      "segment_id": "0015",
+      "source": "可即便是带着外骨骼辅助提升了身体机能，被誉为刀王的王落，在自己手中也只走了十招罢了。",
+      "target": "Nhưng ngay cả kẻ được mệnh danh là Đao Vương - Vương Lạc, dù có mang khung xương ngoài trợ lực để nâng cao cơ năng thân thể, thì ở trong tay hắn cũng chỉ chịu đựng được mười chiêu mà thôi."
+    },
+    {
+      "segment_id": "0016",
+      "source": "王落拿着公司定制的亚利钢刀，而自己杀对方的时候，只用了一把普通的杀猪刀。",
+      "target": "Vương Lạc cầm thanh đao thép Yari do công ty đặc chế, còn hắn lúc giết đối phương, chỉ dùng một con dao mổ lợn bình thường."
+    },
+    {
+      "segment_id": "0017",
+      "source": "所以他在杀掉那群所谓的武学宗师后，对那个世界有些绝望。",
+      "target": "Thế nên sau khi giết chết đám người tự xưng là tông sư võ học đó, hắn đối với thế giới kia có chút tuyệt vọng."
+    },
+    {
+      "segment_id": "0018",
+      "source": "此时，道场内小声讨论声不绝，显然都被这场切磋的结果惊到了。",
+      "target": "Lúc này, trong đạo trường tiếng bàn tán thì thầm xôn xao không dứt, hiển nhiên mọi người đều bị kết quả của trận giao hữu này làm cho kinh sợ."
+    },
+    {
+      "segment_id": "0019",
+      "source": "而人群中的蓝染，黑框眼镜下的那双眸子也闪烁着某种光，他感觉自己的室友好像很有意思，看来在真央灵术院的这几年不会无聊了。",
+      "target": "Mà Aizen trong đám đông, đôi mắt dưới gọng kính đen cũng lóe lên một tia sáng kỳ lạ. Hắn cảm thấy người bạn cùng phòng của mình dường như rất thú vị, xem ra mấy năm ở Chân Ương Linh Thuật Viện này sẽ không nhàm chán rồi."
+    },
+    {
+      "segment_id": "0020",
+      "source": "“你是说……你从没学过剑道？”",
+      "target": "\"Ý ngươi là... ngươi chưa từng học qua kiếm đạo?\""
+    },
+    {
+      "segment_id": "0021",
+      "source": "藤本柱对陆离的答案很吃惊，不过细想，对方只是一个流民，也确实没什么正规渠道能学习剑道。",
+      "target": "Fujimoto rất kinh ngạc trước câu trả lời của Lục Ly, nhưng nghĩ kỹ lại, đối phương chỉ là một lưu dân, đúng là chẳng có con đường chính quy nào để có thể học kiếm đạo."
+    },
+    {
+      "segment_id": "0022",
+      "source": "可这么一来，岂不是更能说明陆离的天赋吗？",
+      "target": "Nhưng nếu như vậy, chẳng phải lại càng chứng tỏ thiên phú của Lục Ly hay sao?"
+    },
+    {
+      "segment_id": "0023",
+      "source": "从未接受过正规教育，却能在‘同灵威’等级下正面战胜自己这个剑道老师，卯之花队长这次带回来的孩子，可能是百年难见的超级天才！",
+      "target": "Chưa từng tiếp nhận nền giáo dục chính quy, lại có thể chiến thắng trực diện mình - một vị lão sư kiếm đạo ở đẳng cấp ‘cùng linh uy’. Đứa trẻ mà đội trưởng Unohana mang về lần này, rất có thể là một siêu cấp thiên tài trăm năm hiếm gặp!"
+    },
+    {
+      "segment_id": "0024",
+      "source": "见陆离面无表情的点了点头，藤本柱更兴奋了，可随后又有些失落。",
+      "target": "Thấy Lục Ly mặt không cảm xúc gật gật đầu, Fujimoto càng hưng phấn hơn, nhưng ngay sau đó lại có chút thất vọng."
+    },
+    {
+      "segment_id": "0025",
+      "source": "兴奋是因为他发现了一个超级天才，失落是因为他发现自己好像……教不了陆离。",
+      "target": "Hưng phấn là vì hắn phát hiện ra một siêu cấp thiên tài, thất vọng là vì hắn nhận ra mình hình như... không dạy nổi Lục Ly."
+    },
+    {
+      "segment_id": "0026",
+      "source": "是的，他得承认，恐怕他刚刚就算没有掉以轻心，和陆离同灵压切磋的话，最终输的人也还是他。",
+      "target": "Đúng vậy, hắn phải thừa nhận, e rằng vừa rồi cho dù hắn không lơ là, dùng linh áp ngang bằng để thi đấu với Lục Ly, thì người thua cuối cùng vẫn là hắn."
+    },
+    {
+      "segment_id": "0027",
+      "source": "真正令他惊艳的不是陆离的第一刀，而是陆离的第二刀，那第二刀借助反震力量收刀、卸力，又在卸力过程中如引导水流般引导力量回转，最终以一个刁钻的角度重新出刀。",
+      "target": "Điều thực sự khiến hắn kinh ngạc không phải là đao thứ nhất của Lục Ly, mà là đao thứ hai của Lục Ly. Đao thứ hai đó mượn lực phản chấn để thu đao, tháo lực, rồi lại trong quá trình tháo lực mà dẫn dắt sức mạnh xoay vòng như dẫn dắt dòng nước, cuối cùng lại tung đao ra ở một góc độ vô cùng hiểm hóc."
+    },
+    {
+      "segment_id": "0028",
+      "source": "这种对力量的把控，精湛的技艺根本不是他能做到的，不如说，任何剑道流派都不会有这种技艺传授，这种技巧的理论或许有，但能做到的，都是万中无一的天赋者。",
+      "target": "Khả năng kiểm soát sức mạnh, kỹ nghệ tinh vi này căn bản không phải là thứ hắn có thể làm được. Hay nói đúng hơn, không có bất kỳ lưu phái kiếm đạo nào truyền thụ loại kỹ nghệ này. Lý thuyết về kỹ xảo này có thể là có, nhưng người làm được lại đều là những người mang thiên phú vạn người mới có một."
+    },
+    {
+      "segment_id": "0029",
+      "source": "这就是卯之花队长看重他的原因吗……      “陆君，你先入座吧，今天要先讲一会儿理论课，然后才是对练。”",
+      "target": "Đây chính là lý do đội trưởng Unohana coi trọng hắn sao... \n\n\"Lục quân, ngươi về chỗ ngồi trước đi, hôm nay trước tiên giảng một lúc lý thuyết đã, sau đó mới là đối luyện.\""
+    },
+    {
+      "segment_id": "0030",
+      "source": "藤本树平复自己复杂的心情，课还是要上的。",
+      "target": "Fujimoto bình phục lại tâm tình phức tạp của mình, học thì vẫn phải học."
+    },
+    {
+      "segment_id": "0031",
+      "source": "陆离在诸多或吃惊或好奇或崇拜的目光中走入人群，来到蓝染身边坐下。",
+      "target": "Lục Ly bước vào trong đám người dưới vô số ánh mắt hoặc kinh ngạc, hoặc tò mò, hoặc sùng bái, rồi đi đến ngồi xuống bên cạnh Aizen."
+    },
+    {
+      "segment_id": "0032",
+      "source": "“陆君真的很强啊，我还从没见过能在剑道课上战胜藤本老师的人呢。”",
+      "target": "\"Lục quân thực sự rất mạnh a, ta còn chưa từng thấy người nào có thể chiến thắng lão sư Fujimoto trong tiết kiếm đạo đấy.\""
+    },
+    {
+      "segment_id": "0033",
+      "source": "蓝染感慨般的说道。",
+      "target": "Aizen mang vẻ cảm khái nói."
+    },
+    {
+      "segment_id": "0034",
+      "source": "陆离笑问蓝染：“惣右介也做不到吗？”",
+      "target": "Lục Ly cười hỏi Aizen: \"Sosuke cũng không làm được sao?\""
+    },
+    {
+      "segment_id": "0035",
+      "source": "蓝染的神情自然，“陆君在说什么呢，我的剑道成绩虽然不错，但也还远远不到能跟藤本老师过招的程度，以后还要请你多多指教了。”",
+      "target": "Vẻ mặt Aizen rất tự nhiên: \"Lục quân đang nói gì thế, thành tích kiếm đạo của ta tuy không tệ, nhưng vẫn còn xa mới đến mức có thể so chiêu với lão sư Fujimoto, sau này còn phải nhờ ngươi chỉ giáo nhiều hơn rồi.\""
+    },
+    {
+      "segment_id": "0036",
+      "source": "陆离心中有些腻歪，他是不太能理解蓝染扮猪吃老虎的愉悦感的，也不知道蓝染现在隐藏实力的目的是什么，难道从这个时候就已经在谋算着要登上王座了吗？",
+      "target": "Lục Ly thầm cảm thấy ngán ngẩm trong lòng. Hắn không quá hiểu được cái cảm giác vui thú khi giả heo ăn thịt hổ của Aizen, cũng không biết mục đích giấu giếm thực lực hiện tại của Aizen là gì. Lẽ nào từ lúc này hắn đã bắt đầu mưu tính để leo lên vương tọa rồi sao?"
+    },
+    {
+      "segment_id": "0037",
+      "source": "恐怕是为了照顾说从没学过剑道的陆离，接下来的时间，藤本柱老师讲的都是一些剑道的基本知识。",
+      "target": "E là để chiếu cố một người nói chưa từng học qua kiếm đạo như Lục Ly, thời gian tiếp theo, những gì mà lão sư Fujimoto giảng dạy đều là một số kiến thức cơ bản về kiếm đạo."
+    },
+    {
+      "segment_id": "0038",
+      "source": "陆离也没有心不在焉，而是仔细听了一遍，他发现这里所谓的剑道也不是完全没有可取之处的，弱的是藤本柱，并不是剑道。",
+      "target": "Lục Ly cũng không có mất tập trung, mà cẩn thận nghe một lượt. Hắn nhận ra cái gọi là kiếm đạo ở đây cũng không phải là hoàn toàn không có điểm đáng học hỏi, kẻ yếu là Fujimoto, chứ không phải kiếm đạo."
+    },
+    {
+      "segment_id": "0039",
+      "source": "他不禁去想，据说掌握了尸魂界所有流派的卯之花八千流的剑道会有多强，只是想想，就让他有些兴奋。",
+      "target": "Hắn không kìm được mà suy nghĩ, kiếm đạo của Unohana Yachiru - người được đồn là nắm giữ tất cả lưu phái của Thi Hồn Giới sẽ mạnh đến mức nào. Chỉ mới nghĩ thôi đã khiến hắn có chút hưng phấn."
+    },
+    {
+      "segment_id": "0040",
+      "source": "当然，他也不会作死到去挑战卯之花队长，对方和自己的灵压等级天差地别，用空间面板来说，恐怕属性差了几十乃至上百点都是有可能的。",
+      "target": "Tất nhiên, hắn cũng sẽ không tìm đường chết mà đi khiêu chiến đội trưởng Unohana, đẳng cấp linh áp giữa đối phương và mình khác biệt một trời một vực. Nếu dùng bảng giao diện của không gian để đánh giá, e rằng thuộc tính chênh lệch nhau vài chục thậm chí lên đến hàng trăm điểm cũng là có khả năng."
+    },
+    {
+      "segment_id": "0041",
+      "source": "他现在要做的是变强，然后才能挑战那些高手，享受战斗的愉悦。",
+      "target": "Việc hắn phải làm bây giờ là trở nên mạnh mẽ, sau đó mới có thể khiêu chiến những cao thủ kia, tận hưởng sự vui sướng của chiến đấu."
+    },
+    {
+      "segment_id": "0042",
+      "source": "如今他的主线任务第一环已经完成了，第二环任务已经派发。",
+      "target": "Hiện giờ nhiệm vụ chính tuyến vòng 1 của hắn đã hoàn thành, nhiệm vụ vòng 2 đã được phát xuống."
+    },
+    {
+      "segment_id": "0043",
+      "source": "【主线任务第二环：速通真央灵术院】",
+      "target": "【Nhiệm vụ chính tuyến vòng 2: Vượt ải thần tốc Chân Ương Linh Thuật Viện】"
+    },
+    {
+      "segment_id": "0044",
+      "source": "任务内容：探索者需在三个自然月内完成真央灵术院的所有课程，并进行跳级毕业，完成目前真央灵术院历史上未曾有人达成的最速成就。",
+      "target": "Nội dung nhiệm vụ: Người Khám Phá cần phải hoàn thành tất cả khóa học của Chân Ương Linh Thuật Viện trong vòng ba tháng tự nhiên, đồng thời tiến hành nhảy cóc tốt nghiệp, hoàn thành thành tựu nhanh nhất trong lịch sử Chân Ương Linh Thuật Viện mà trước nay chưa từng có ai đạt được."
+    },
+    {
+      "segment_id": "0045",
+      "source": "任务难度：困难～噩梦",
+      "target": "Độ khó nhiệm vụ: Khó khăn ~ Ác mộng"
+    },
+    {
+      "segment_id": "0046",
+      "source": "任务奖励：3000终焉币、浅打、回归资格",
+      "target": "Phần thưởng nhiệm vụ: 3000 xu Chung Yên, Thiển Đả, tư cách trở về"
+    },
+    {
+      "segment_id": "0047",
+      "source": "失败惩罚：抹杀",
+      "target": "Hình phạt thất bại: Mạt sát"
+    },
+    {
+      "segment_id": "0048",
+      "source": "这个任务的难度上限就有点高了，陆离也是接触过游戏的，‘噩梦’两个字看上去就像是很有挑战性的。",
+      "target": "Giới hạn độ khó của nhiệm vụ này hơi cao rồi. Lục Ly cũng từng tiếp xúc với game, hai chữ ‘Ác mộng’ nhìn qua đã thấy rất có tính khiêu chiến."
+    },
+    {
+      "segment_id": "0049",
+      "source": "直观分析的话，在真央灵术院他貌似不会遇到什么危险，但要是想提前毕业，多半是走不了寻常路的。",
+      "target": "Theo phân tích trực quan thì ở Chân Ương Linh Thuật Viện hắn có vẻ sẽ không gặp phải nguy hiểm gì, nhưng nếu muốn tốt nghiệp sớm, đa phần là không thể đi theo con đường bình thường được."
+    },
+    {
+      "segment_id": "0050",
+      "source": "尸魂界这么大的地方，真央灵术院成立这么多年来出现的天才还少吗？既然任务描述中说这是从未有人达成的成就，那恐怕想要“极速”提前毕业没这么容易。",
+      "target": "Nơi rộng lớn như Thi Hồn Giới, thiên tài xuất hiện kể từ khi Chân Ương Linh Thuật Viện thành lập đến nay nhiều năm như vậy còn ít sao? Đã như phần mô tả nhiệm vụ có nói, đây là thành tựu chưa một ai đạt được, e rằng muốn \"tốc độ cực hạn\" để tốt nghiệp sớm sẽ không dễ dàng như vậy."
+    },
+    {
+      "segment_id": "0051",
+      "source": "一般的护庭队士的确只有20等灵威那样，可这不意味着你有了20等灵威及以上的水平，就可以直接从真央灵术院毕业了。",
+      "target": "Đội sĩ Hộ Đình bình thường đúng là chỉ có linh uy khoảng bậc 20, nhưng điều này không có nghĩa là ngươi có được trình độ linh uy từ bậc 20 trở lên, thì có thể trực tiếp tốt nghiệp từ Chân Ương Linh Thuật Viện."
+    },
+    {
+      "segment_id": "0052",
+      "source": "如果一个人很天才，那么真央灵术院便会更想细心栽培，而不是拔苗助长，所以即便有哪个学员天赋很好，也会被压在学院内接受教育，让他的实力变得更强后再加入护庭十三队。",
+      "target": "Nếu một người rất thiên tài, vậy thì Chân Ương Linh Thuật Viện sẽ càng muốn tỉ mỉ vun trồng, chứ không phải là đốt cháy giai đoạn. Thế nên dù có học viên nào đó thiên phú rất tốt, cũng sẽ bị giữ lại học viện để tiếp nhận giáo dục, giúp cho thực lực của hắn trở nên mạnh mẽ hơn rồi mới cho gia nhập Hộ Đình Thập Tam Đội."
+    },
+    {
+      "segment_id": "0053",
+      "source": "陆离看着那些已经开始对练的同学们陷入了沉思，他在想，自己要想完成这个任务，最大的阻碍究竟会是什么？",
+      "target": "Lục Ly nhìn những học viên đang bắt đầu luyện tập đối kháng kia mà chìm vào trầm tư. Hắn đang nghĩ, nếu mình muốn hoàn thành nhiệm vụ này, trở ngại lớn nhất rốt cuộc sẽ là cái gì?"
+    },
+    {
+      "segment_id": "0054",
+      "source": "还有",
+      "target": "Còn nữa"
+    }
+  ]
+}
+```
