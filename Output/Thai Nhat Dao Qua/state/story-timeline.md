@@ -23,3 +23,8 @@ Chapter 4 completed via pipeline.
 
 ### Summary
 Chapter 5 completed via pipeline.
+
+## Chapter 0006 - Chương 6: Ta còn chưa dùng lực, ngươi đã ngã xuống rồi
+
+### Summary
+Chapter 6 completed via pipeline.

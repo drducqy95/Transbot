@@ -1,0 +1,29 @@
+I will check the directory structure of the workspace to see if there is any context, glossary, or code related to the translation project that might guide the classification.
+I will read the contents of `README.md` and check the files in the `Script` directory to better understand the project.
+I will list the `Script` directory to see what translation scripts or tools are defined there.
+I will search the codebase/directories for the term "姜离" to find which specific novel or pipeline this request is associated with.
+I will search the Output directory for "求返其真" and "天兵" to find more context about how they are translated or used in the novel "Thai Nhat Dao Qua".
+I will search the codebase for references to `天兵神威` and `天兵神躯` to verify if they are valid terms.
+Based on the translation context found in the workspace files, such as [Chapter 0006/source.md](file:///mnt/sdcard/My%20Agent/Transbot/Output/Thai%20Nhat%20Dao%20Qua/pre_trans/Chapter%200006/source.md), here is the review classification of the terms:
+
+- **Approved**: Proper noun capabilities of the Dao果 (Taoist Fruits) in the novel (e.g., `天兵神威` / Divine Might of Heavenly Soldier, `天兵神躯` / Divine Body of Heavenly Soldier, and `求返其真` / Seeking Return to Truth).
+- **Rejected**: Grammatical sentence fragments or punctuation-led text resulting from poor text segmentation.
+
+```json
+{
+  "approved": [
+    "天兵神威",
+    "天兵神躯",
+    "求返其真"
+  ],
+  "rejected": [
+    "。\n然而姜离",
+    "从弟子寮舍一",
+    "在身，心境清",
+    "姜离边走边",
+    "，可用来震慑",
+    "，大大增强肉"
+  ],
+  "uncertain": []
+}
+```
