@@ -1,0 +1,318 @@
+```json
+{
+  "chapter_number": 5,
+  "chapter_title_vi": "Chương 5: Đạo quả chi khí",
+  "segments": [
+    {
+      "segment_id": "0001",
+      "source": "# 第5章 道果之器",
+      "target": "# Chương 5: Đạo quả chi khí"
+    },
+    {
+      "segment_id": "0002",
+      "source": "虽然姜离帅气又全能，符法、武功、卜算无一不精，但由于他比较能藏，平日里就算接追缉任务也是专挑软柿子，这使得知晓他真正实力的人屈指可数。",
+      "target": "Mặc dù Khương Ly vừa đẹp trai vừa toàn năng, phù pháp, võ công, bói toán không gì không tinh thông, nhưng vì hắn khá biết ẩn mình, ngày thường dù có nhận nhiệm vụ truy nã cũng chỉ chuyên chọn quả hồng mềm để nắn, thế nên số người biết được thực lực thực sự của hắn chỉ đếm trên đầu ngón tay."
+    },
+    {
+      "segment_id": "0003",
+      "source": "就说卜算，除了姜离自己以外，无人知晓他的造诣如何，否则的话，周明云也不会想着埋伏姜离，甚至失败了六次还不罢休。",
+      "target": "Chỉ riêng thuật bói toán, ngoại trừ chính Khương Ly ra thì không ai biết trình độ của hắn đạt tới mức nào, nếu không Chu Minh Vân cũng chẳng nghĩ đến chuyện mai phục hắn, thậm chí thất bại đến sáu lần vẫn chưa chịu từ bỏ."
+    },
+    {
+      "segment_id": "0004",
+      "source": "那么问题来了，一个除了帅以外其余地方都不上不下的少年，有何资格让人对他产生杀意，并且如此殷切地下手？总不可能真就为了一千五善功吧。",
+      "target": "Vậy thì vấn đề đặt ra là, một thiếu niên ngoài đẹp trai ra thì mọi mặt khác đều lửng lơ ở mức trung bình, lấy tư cách gì mà khiến người ta nảy sinh sát tâm với hắn, lại còn sốt sắng ra tay đến vậy? Chẳng lẽ thật sự chỉ vì một ngàn năm trăm điểm thiện công?"
+    },
+    {
+      "segment_id": "0005",
+      "source": "排除那人脑袋有坑的可能，就只剩下出身了。",
+      "target": "Loại trừ khả năng đầu óc kẻ kia bị chập mạch, thì chỉ còn lại yếu tố xuất thân mà thôi."
+    },
+    {
+      "segment_id": "0006",
+      "source": "‘姜家的政敌？仇人？难道是未婚妻？’",
+      "target": "‘Chính địch của Khương gia? Kẻ thù? Chẳng lẽ là vị hôn thê?’"
+    },
+    {
+      "segment_id": "0007",
+      "source": "贵族子弟落魄之后惨遭嫌弃，未婚妻意图以谋杀手段来摆脱婚约？",
+      "target": "Con em quý tộc sa sút thế gia rồi bị ghét bỏ, vị hôn thê định dùng thủ đoạn mưu sát để hủy bỏ hôn ước?"
+    },
+    {
+      "segment_id": "0008",
+      "source": "如果是这样的话就好了，妥妥的主角待遇，可惜姜离并没有未婚妻。",
+      "target": "Nếu được như vậy thì tốt quá, đúng chuẩn đãi ngộ của nhân vật chính rồi, đáng tiếc Khương Ly lại chẳng có vị hôn thê nào."
+    },
+    {
+      "segment_id": "0009",
+      "source": "‘从当下情况来看，还是仇人的概率更大。’",
+      "target": "‘Từ tình hình hiện tại, có lẽ khả năng là kẻ thù vẫn lớn hơn.’"
+    },
+    {
+      "segment_id": "0010",
+      "source": "姜离心中思索，表面上则是毫无异色地走到了距离武曲坪不远的弟子寮舍，进入自己的房间。",
+      "target": "Trong lòng Khương Ly thầm tính toán, nhưng bên ngoài vẫn tỏ ra không có gì khác thường, rảo bước về phía liêu xá đệ tử cách Võ Khúc Bình không xa rồi vào phòng của mình."
+    },
+    {
+      "segment_id": "0011",
+      "source": "关上了的房门隔开了远方窥伺的视线，同时有淡淡的光泽在房梁、地面、门窗等地方出现，一道道符箓亮起又隐去。",
+      "target": "Cánh cửa phòng đóng lại chặn đứng những ánh mắt dòm ngó từ phía xa, cùng lúc đó, những vệt sáng nhạt hiện lên trên xà nhà, mặt đất, cửa sổ, từng đạo phù lục khẽ phát sáng rồi lại ẩn đi."
+    },
+    {
+      "segment_id": "0012",
+      "source": "‘没人进过我的房间，也就是说······单纯只想要我的命。’",
+      "target": "‘Không có ai từng vào phòng mình, nói cách khác... kẻ đó đơn thuần chỉ muốn lấy mạng mình.’"
+    },
+    {
+      "segment_id": "0013",
+      "source": "姜离见状，得出得出一个不太好的结论。",
+      "target": "Khương Ly thấy vậy liền rút ra một kết luận chẳng mấy tốt đẹp."
+    },
+    {
+      "segment_id": "0014",
+      "source": "不进他的房间，说明敌人对外物不感兴趣，否则绝对是要进姜离房间搜寻一番的。",
+      "target": "Kẻ địch không lẻn vào phòng chứng tỏ chúng không hứng thú với ngoại vật, bằng không chắc chắn sẽ phải lục lọi một phen."
+    },
+    {
+      "segment_id": "0015",
+      "source": "他，或者他们，只想要姜离的命。",
+      "target": "Kẻ đó, hoặc bọn họ, chỉ muốn lấy mạng Khương Ly."
+    },
+    {
+      "segment_id": "0016",
+      "source": "这就没得缓解了。",
+      "target": "Thế thì chẳng còn đường lui hay thương lượng gì nữa rồi."
+    },
+    {
+      "segment_id": "0017",
+      "source": "【一想到这里，姜离就目露寒光，杀机闪烁。",
+      "target": "【Vừa nghĩ tới đây, ánh mắt Khương Ly liền trở nên lạnh lẽo, sát cơ lập lòe."
+    },
+    {
+      "segment_id": "0018",
+      "source": "你们这是取死有道！】",
+      "target": "Các ngươi thật là tự tìm đường chết!】"
+    },
+    {
+      "segment_id": "0019",
+      "source": "因果集适时显现出一句话，姜离见到后杀心一顿，突然有种尬意袭上心头。",
+      "target": "Nhân Quả Tập hiện ra một dòng chữ rất đúng lúc, Khương Ly nhìn thấy liền khựng lại sát tâm, trong lòng bỗng dâng lên một cảm giác sượng sùng khó tả."
+    },
+    {
+      "segment_id": "0020",
+      "source": "这破书哪都好，就是这记录想法的功能有时候会尬住自己。",
+      "target": "Cái cuốn sách rách này cái gì cũng tốt, chỉ có chức năng ghi chép suy nghĩ là thỉnh thoảng lại tự làm mình ngượng chín mặt."
+    },
+    {
+      "segment_id": "0021",
+      "source": "自己怎么想是一回事，看到自己的想法，又是另一回事了。尤其是一些话语，想想还好，真要是写出来，简直就像是在看中二日记，妥妥的黑历史。",
+      "target": "Tự mình nghĩ thế nào là một chuyện, tự mắt nhìn thấy suy nghĩ của mình lại là chuyện khác. Đặc biệt là mấy câu từ kiểu đó, nghĩ trong đầu thì thôi đi, chứ viết hẳn ra thì chẳng khác nào đang đọc nhật ký trung nhị, đúng là hắc lịch sử chính hiệu."
+    },
+    {
+      "segment_id": "0022",
+      "source": "这么一打岔，姜离心中的杀意反倒是渐渐平息了下来，摇头失笑。",
+      "target": "Bị cắt ngang như thế, sát ý trong lòng Khương Ly lại dần nguôi ngoai, hắn lắc đầu tự cười giễu."
+    },
+    {
+      "segment_id": "0023",
+      "source": "他走到不远处的书桌后坐下，将能增长实力的物事一一拿出。",
+      "target": "Hắn đi tới ngồi sau chiếc bàn viết cách đó không xa, bày ra từng món đồ có thể giúp tăng tiến thực lực."
+    },
+    {
+      "segment_id": "0024",
+      "source": "六丁六甲护身符法、楼观剑法、容纳“长蛇”道果的蛇牙匕首，还有一枚玉符。",
+      "target": "Lục Đinh Lục Giáp Hộ Thân Phù Pháp, Lâu Quán kiếm pháp, thanh chủy thủ răng rắn chứa đạo quả “Trường Xà”, và một mảnh ngọc phù."
+    },
+    {
+      "segment_id": "0025",
+      "source": "玉符和蛇牙匕首一样，都是储纳道果的载体。",
+      "target": "Ngọc phù cũng giống như chủy thủ răng rắn, đều là vật mang để lưu trữ đạo quả."
+    },
+    {
+      "segment_id": "0026",
+      "source": "按照外门长老所说，道果乃是强者遗留在世间的痕迹，是其力量的投影，会自动依附到和道果契合的物体当中。",
+      "target": "Theo lời trưởng lão ngoại môn, đạo quả là dấu vết do các cường giả lưu lại trên thế gian, là hình chiếu sức mạnh của họ, sẽ tự động bám vào những vật thể có độ tương thích với đạo quả."
+    },
+    {
+      "segment_id": "0027",
+      "source": "这些被道果依附的物体，统称为道器。",
+      "target": "Những vật thể được đạo quả ký thác này được gọi chung là Đạo khí."
+    },
+    {
+      "segment_id": "0028",
+      "source": "前五品的道果之器甚至拥有一些特殊能力，哪怕不被容纳，也可给拥有者带来极强的臂助，而后四品的道果之器就有些拉胯了，一般只有让载体难以毁坏的作用。",
+      "target": "Khí cụ đạo quả thuộc năm phẩm đầu thậm chí còn sở hữu một số năng lực đặc biệt, dù không dung nạp cũng có thể hỗ trợ cực lớn cho người sở hữu; còn khí cụ đạo quả thuộc bốn phẩm sau thì có phần yếu kém, thông thường chỉ có tác dụng làm cho vật chứa khó bị phá hủy."
+    },
+    {
+      "segment_id": "0029",
+      "source": "之所以如此，乃是因为后四品的道果非是真正的强者痕迹，而是人为的产物。",
+      "target": "Sở dĩ như vậy là vì đạo quả của bốn phẩm sau không phải là dấu vết thực sự của các cường giả, mà là sản phẩm nhân tạo."
+    },
+    {
+      "segment_id": "0030",
+      "source": "就姜离所知，“道人”便是复制五品道果·天师的部分能力，然后加工炼制出来的。",
+      "target": "Theo Khương Ly biết, đạo quả “Đạo Nhân” chính là sao chép một phần năng lực từ đạo quả ngũ phẩm “Thiên Sư”, sau đó gia công chế luyện ra."
+    },
+    {
+      "segment_id": "0031",
+      "source": "其余的人属、仙属、佛属、神属道果也基本都是如此，都是人工量产的。",
+      "target": "Các đạo quả Nhân thuộc, Tiên thuộc, Phật thuộc, Thần thuộc khác về cơ bản cũng tương tự, đều được sản xuất hàng loạt bằng phương pháp nhân tạo."
+    },
+    {
+      "segment_id": "0032",
+      "source": "至于魔、妖、鬼、怪的低级道果，则是打杀妖魔鬼怪，取其精粹炼制而成。",
+      "target": "Còn các đạo quả cấp thấp thuộc hệ Ma, Yêu, Quỷ, Quái thì chế tạo bằng cách tiêu diệt yêu ma quỷ quái, trích xuất tinh túy của chúng rồi chế luyện thành."
+    },
+    {
+      "segment_id": "0033",
+      "source": "也正是因此，各门各派才会有大量的低级道果供弟子们容纳，没让修行者彻底成为少数群体。",
+      "target": "Cũng nhờ thế mà các môn phái mới có số lượng lớn đạo quả cấp thấp để cung cấp cho đệ tử dung nạp, ngăn không cho giới tu hành hoàn toàn trở thành một nhóm người thiểu số."
+    },
+    {
+      "segment_id": "0034",
+      "source": "而真正的妖魔鬼怪则是都快死光了，现在各地流传的各种妖怪奇闻，九成九是容纳妖属道果之人所造成的。      话归正题，姜离手上的两件道器，蛇牙匕首硬又锐，可以作防身之用。而玉符在没了道果之后，已经不算是道器了，但它却是极好的符箓载体。",
+      "target": "Còn yêu ma quỷ quái thật sự thì sắp tuyệt tích cả rồi, những lời đồn thổi kỳ dị về yêu quái lưu truyền ở các nơi hiện nay có đến chín miên chín phần trăm là do người dung nạp đạo quả Yêu thuộc gây ra. Quay lại chuyện chính, trong hai món đạo khí trên tay Khương Ly, thanh chủy thủ răng rắn vừa cứng vừa sắc, có thể dùng để phòng thân. Còn mảnh ngọc phù sau khi mất đi đạo quả thì không còn được tính là đạo khí nữa, nhưng nó lại là vật chứa vẽ bùa cực tốt."
+    },
+    {
+      "segment_id": "0035",
+      "source": "相较于匕首而言，玉符的作用反倒更大。",
+      "target": "So với thanh chủy thủ, tác dụng của mảnh ngọc phù này ngược lại còn lớn hơn."
+    },
+    {
+      "segment_id": "0036",
+      "source": "它可以用来制作六丁六甲护身符。",
+      "target": "Nó có thể dùng để chế tạo Lục Đinh Lục Giáp Hộ Thân Phù."
+    },
+    {
+      "segment_id": "0037",
+      "source": "姜离将玉符放到符法书册上面。",
+      "target": "Khương Ly đặt mảnh ngọc phù lên trên cuốn sách phù pháp."
+    },
+    {
+      "segment_id": "0038",
+      "source": "然后再看楼观剑法，同时，因果集上也显示出那部半步无敌神功。",
+      "target": "Sau đó hắn nhìn sang Lâu Quán kiếm pháp, đồng thời, Nhân Quả Tập cũng hiển thị bộ \"bán bộ vô địch thần công\" kia."
+    },
+    {
+      "segment_id": "0039",
+      "source": "楼观，为“结草为楼，观星望气”之意，乃是末法前一大派之名。楼观剑法正是楼观派之法，是一门料敌机先、后发先至的武功。",
+      "target": "Lâu Quán mang ý nghĩa “dựng cỏ làm lầu, xem sao đoán khí”, là tên của một đại phái trước thời Mạt Pháp. Lâu Quán kiếm pháp chính là kiếm pháp của Lâu Quán phái, một môn võ học giúp đoán trước ý đồ của kẻ địch, ra đòn sau nhưng đến trước."
+    },
+    {
+      "segment_id": "0040",
+      "source": "这门剑法需要修炼者具备一定的术算造诣，正好适合姜离，且威能也是不俗，在九品中堪称顶尖。",
+      "target": "Môn kiếm pháp này yêu cầu người tu luyện phải có trình độ nhất định về thuật số, rất phù hợp với Khương Ly, uy lực của nó cũng không hề tầm thường, được coi là đỉnh cấp trong các võ học cửu phẩm."
+    },
+    {
+      "segment_id": "0041",
+      "source": "至于折花手，它的厉害，懂的都懂。",
+      "target": "Còn về Chiết Hoa Thủ, sự lợi hại của nó thì ai hiểu sẽ tự hiểu."
+    },
+    {
+      "segment_id": "0042",
+      "source": "姜离稍作思索，便直接拿起了符法书册翻开。",
+      "target": "Khương Ly nghĩ ngợi một lát, rồi trực tiếp cầm cuốn sách phù pháp lên lật ra."
+    },
+    {
+      "segment_id": "0043",
+      "source": "保命第一，还是先学符箓。",
+      "target": "Giữ mạng là ưu tiên số một, tốt nhất vẫn nên học vẽ bùa trước."
+    },
+    {
+      "segment_id": "0044",
+      "source": "末法之前的符法，被视为沟通天地、使役鬼神的妙法，其类别也大致分为连接天地和沟通鬼神两种。",
+      "target": "Phù pháp trước thời Mạt Pháp được xem là diệu pháp kết nối đất trời, sai khiến quỷ thần, phân loại của nó đại khái cũng chia làm hai hướng: liên kết thiên địa và giao tiếp với quỷ thần."
+    },
+    {
+      "segment_id": "0045",
+      "source": "不过在末法之后，灵机都化为五浊恶气，神灵估计也都成道果了，旧有的符法体系全废了。",
+      "target": "Tuy nhiên sau thời Mạt Pháp, linh cơ đều biến thành ngũ trọc ác khí, thần linh có lẽ cũng đã hóa thành đạo quả cả rồi, hệ thống phù pháp cũ kỹ trước kia hoàn toàn bị phế bỏ."
+    },
+    {
+      "segment_id": "0046",
+      "source": "末法后的符法体系，就只有一种沟通对象——自己。",
+      "target": "Hệ thống phù pháp sau thời Mạt Pháp chỉ còn lại một đối tượng kết nối duy nhất: chính bản thân người vẽ."
+    },
+    {
+      "segment_id": "0047",
+      "source": "以符箓为媒介，以气为源，化出风火雷电等奇能，也可显化出各种神形，具现出各种请神符箓的作用。",
+      "target": "Dùng phù lục làm vật trung gian, lấy khí làm nguồn gốc, từ đó hóa ra các loại dị năng như gió, lửa, sấm, chớp, hoặc hiển hóa thành các dạng thần hình, tái hiện công hiệu của các loại bùa thỉnh thần."
+    },
+    {
+      "segment_id": "0048",
+      "source": "符箓就等同于使用者的外置经脉，其复杂程度不下于同品级的心法，无论是笔画和力度，皆有大讲究，还需一气呵成。",
+      "target": "Phù lục tương đương với kinh mạch gắn ngoài của người sử dụng, độ phức tạp không hề kém cạnh so với tâm pháp cùng phẩm cấp. Dù là nét vẽ hay lực tay đều có yêu cầu cực kỳ khắt khe, lại đòi hỏi phải viết một mạch không đứt đoạn."
+    },
+    {
+      "segment_id": "0049",
+      "source": "而六丁六甲护身符按品级算，是七品，也就是说，姜离绘制此符的难度相当于跨级运行七品心法，甚至更大。",
+      "target": "Mà Lục Đinh Lục Giáp Hộ Thân Phù tính ra là thuộc thất phẩm. Nói cách khác, độ khó khi Khương Ly vẽ lá bùa này tương đương với việc vận chuyển vượt cấp tâm pháp thất phẩm, thậm chí còn khó hơn."
+    },
+    {
+      "segment_id": "0050",
+      "source": "以普遍理性来讲，能在九品就制出此符的人，不是绝世天才，就是有深蓝可以加点。",
+      "target": "Xét theo lẽ thường, người có thể vẽ được lá bùa này ngay từ cửu phẩm, nếu không phải là tuyệt thế thiên tài thì cũng phải có hệ thống Deep Blue để cộng điểm."
+    },
+    {
+      "segment_id": "0051",
+      "source": "万长老认为姜离能够画出此符，实际上是高看他了。",
+      "target": "Vạn trưởng lão nghĩ Khương Ly có thể vẽ ra lá bùa này, thực chất là đã quá đề cao hắn."
+    },
+    {
+      "segment_id": "0052",
+      "source": "姜离不是绝世天才，哪怕他有道果加持悟性暂时也不太行，毕竟他的三教底蕴还不算太深，也没有修改器，但是······",
+      "target": "Khương Ly không phải thiên tài xuất chúng, dù có đạo quả gia tăng ngộ tính thì tạm thời vẫn chưa đủ trình độ, bởi lẽ tích lũy kiến thức Tam giáo của hắn chưa đủ dày, lại chẳng có công cụ hack game, thế nhưng..."
+    },
+    {
+      "segment_id": "0053",
+      "source": "“我可以肝。”",
+      "target": "“Nhưng ta có thể cày.”"
+    },
+    {
+      "segment_id": "0054",
+      "source": "姜离深吸一口气，从桌下拿出厚厚一叠黄纸。",
+      "target": "Khương Ly hít sâu một hơi, lấy từ dưới gầm bàn ra một xấp giấy vàng dày cộp."
+    },
+    {
+      "segment_id": "0055",
+      "source": "因果集固化因果的能力让姜离的努力不会白费，如今他刚容纳道果，潜力大增，正是大肝特肝之时。",
+      "target": "Khả năng khóa chặt nhân quả của Nhân Quả Tập giúp cho nỗ lực của Khương Ly không bị đổ sông đổ biển. Hiện giờ hắn vừa mới dung nạp đạo quả, tiềm lực tăng vọt, chính là thời cơ tốt nhất để điên cuồng cày cuốc."
+    },
+    {
+      "segment_id": "0056",
+      "source": "一次不行就十次，十次不行就百次，只要肝不死，就往死里肝。",
+      "target": "Một lần không được thì mười lần, mười lần không được thì một trăm lần, chỉ cần cày không chết thì cứ cày tới cùng."
+    },
+    {
+      "segment_id": "0057",
+      "source": "姜某人能有今日的成就，全凭自己的努力，全凭足够肝。",
+      "target": "Khương mỗ ta có thể có được thành tựu như hôm nay, hoàn toàn là nhờ vào nỗ lực của bản thân, nhờ vào việc chăm chỉ cày cuốc."
+    },
+    {
+      "segment_id": "0058",
+      "source": "“决定了，在肝出十张···不，五十张六丁六甲护身符之前，绝不出门！”",
+      "target": "“Quyết định thế đi, trước khi cày ra mười lá... không, năm mươi lá Lục Đinh Lục Giáp Hộ Thân Phù thì quyết không bước chân ra ngoài!”"
+    },
+    {
+      "segment_id": "0059",
+      "source": "“不对，我还要吃喝拉撒。可恶！为什么现在的修行者还要为吃喝拉撒烦恼。那就绝对不出门派！”",
+      "target": "“Không đúng, mình còn phải ăn uống đi vệ sinh. Đáng ghét thật! Tại sao người tu hành thời nay vẫn phải phiền não vì chuyện ăn uống sinh hoạt cơ chứ. Vậy thì đổi lại là tuyệt đối không bước chân ra khỏi môn phái!”"
+    },
+    {
+      "segment_id": "0060",
+      "source": "宗门里倒是有可以用善功兑换的辟谷丹，可惜太贵了。现在这时代，第一珍贵的是道果，第二就是丹药了。",
+      "target": "Trong tông môn tuy có Tích Cốc Đan đổi được bằng thiện công, nhưng tiếc là đắt quá. Ở thời đại này, thứ trân quý nhất là đạo quả, xếp thứ hai chính là đan dược."
+    },
+    {
+      "segment_id": "0061",
+      "source": "以姜离如今的资产，辟谷丹就是一遥远的梦，还是老老实实吃喝拉撒吧。",
+      "target": "Với số tài sản hiện tại của Khương Ly, Tích Cốc Đan chỉ là một giấc mơ xa vời, thôi thì cứ thành thành thật thật tự lo chuyện ăn uống đi vệ sinh vậy."
+    },
+    {
+      "segment_id": "0062",
+      "source": "总而言之，就是先稳健发育一波，护身符肝好，武功学好，要是能一路肝到八品，那自然是更好了。",
+      "target": "Nói tóm lại, trước tiên cứ vững vàng phát triển một đợt đã, cày xong hộ thân phù, luyện thành võ công, nếu có thể một mạch cày thẳng lên bát phẩm thì lại càng tốt."
+    }
+  ]
+}
+```
