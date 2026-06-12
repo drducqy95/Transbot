@@ -1,0 +1,203 @@
+```json
+{
+  "chapter_number": 7,
+  "chapter_title_vi": "Chương 7: Nữ thần Nhị Trung",
+  "segments": [
+    {
+      "segment_id": "0001",
+      "source": "# 第7章 二中女神",
+      "target": "# Chương 7: Nữ thần Nhị Trung"
+    },
+    {
+      "segment_id": "0002",
+      "source": "“嗡……”",
+      "target": "\"U u u...\""
+    },
+    {
+      "segment_id": "0003",
+      "source": "老旧的考试舱缓缓打开，李耀迈步而出，甩了甩脑袋，隐隐有些头痛，这是在太虚幻境中过度透支心神的副作用。",
+      "target": "Khoang thi cũ kỹ chầm chậm mở ra, Lý Diệu sải bước đi ra ngoài, lắc lắc đầu, cảm thấy đầu óc ẩn ẩn đau nhức, đây là tác dụng phụ của việc tiêu hao tâm thần quá độ trong Thái Hư Huyễn Cảnh."
+    },
+    {
+      "segment_id": "0004",
+      "source": "“脑袋好痛，真该死，就我们这些‘杂鱼班’的学生还在用这种垃圾货色，重点班和平行班的学生，都换上了最新一代的灵能考试舱，再怎么透支都不会有副作用的！”孟江在他身边大声抱怨，随后捅了捅他的腰眼，“小妖，这次模拟考难度好高，我大概又考砸了，回去肯定要吃一顿‘竹笋炒肉’，你怎么样？”",
+      "target": "\"Đau đầu quá, thật đáng chết! Chỉ có đám học sinh 'lớp tép riu' như chúng ta mới phải dùng loại hàng rác rưởi này, chứ học sinh lớp chọn với lớp thường đều đã đổi sang khoang thi linh năng thế hệ mới nhất rồi, có tiêu hao thế nào cũng chẳng bị tác dụng phụ!\" Mạnh Giang oán thán lớn tiếng bên cạnh hắn, rồi thúc thúc vào eo hắn, \"Tiểu Yêu, kỳ thi thử lần này khó quá, tao chắc lại thi hỏng rồi, về nhà thế nào cũng phải ăn một bữa 'thịt xào măng', còn mày thì sao?\""
+    },
+    {
+      "segment_id": "0005",
+      "source": "“一般般吧。”李耀摸了摸鼻子，这次考试的难度确实有点高，不过他的基础比较扎实，心态也够冷静，自我感觉已经发挥到极限了。",
+      "target": "\"Cũng tàm tạm.\" Lý Diệu sờ sờ mũi, độ khó của kỳ thi lần này quả thực hơi cao, nhưng nền tảng của hắn khá vững chắc, tâm lý cũng đủ bình tĩnh, tự cảm thấy bản thân đã phát huy đến cực hạn."
+    },
+    {
+      "segment_id": "0006",
+      "source": "“赶紧看看！”孟江凑到他的考试舱旁边操作起来，考试舱中都安装有超高速晶脑，可以实时计算成绩，考试一结束，成绩就出来了。",
+      "target": "\"Mau xem thử xem!\" Mạnh Giang ghé sát vào bên cạnh khoang thi của hắn rồi bắt đầu thao tác. Bên trong khoang thi đều được lắp đặt tinh não siêu cao tốc, có thể tính toán thành tích theo thời gian thực, kỳ thi vừa kết thúc là điểm số đã có ngay."
+    },
+    {
+      "segment_id": "0007",
+      "source": "“哇，525分，好高的分数，足够上重点大学了，还说一般般？过分的谦虚就是骄傲，你个死小妖！”孟江惊呼。",
+      "target": "\"Oa, 525 điểm, điểm số cao thật đấy, đủ để đỗ vào trường đại học trọng điểm rồi, thế mà còn bảo tàm tạm? Khiêm tốn quá mức chính là kiêu ngạo đấy, cái thằng Tiểu Yêu chết tiệt này!\" Mạnh Giang kinh hô."
+    },
+    {
+      "segment_id": "0008",
+      "source": "李耀扫了一眼光幕，心中却是暗叹一声，525分这个分数确实不算低，勉强够得上联邦几所知名的重点大学分数线了，不过紧随其后的一个数值，却红得有些扎眼。",
+      "target": "Lý Diệu quét mắt nhìn qua màn sáng, trong lòng lại khẽ thở dài một tiếng. Con số 525 điểm này quả thực không hề thấp, miễn cưỡng chạm tới điểm chuẩn của vài trường đại học trọng điểm nổi tiếng trong Liên bang, thế nhưng một chỉ số ngay phía sau đó lại đỏ đến mức hơi chướng mắt."
+    },
+    {
+      "segment_id": "0009",
+      "source": "“灵根开发度，35%。”",
+      "target": "\"Độ khai phá linh căn: 35%.\""
+    },
+    {
+      "segment_id": "0010",
+      "source": "灵根，是位于人类大脑前额“松果体”部位的一个神秘器官，说神秘，是因为从解剖学的角度来说，这个器官根本就不存在，千百年来都没有人能找到一个货真价实的“灵根标本”。",
+      "target": "Linh căn là một cơ quan thần bí nằm ở vị trí \"tuyến tùng\" trước trán của bộ não con người. Bảo nó thần bí là bởi vì xét dưới góc độ giải phẫu học, cơ quan này căn bản không hề tồn tại, suốt hàng nghìn năm qua chưa một ai tìm thấy một \"mẫu vật linh căn\" thực sự nào."
+    },
+    {
+      "segment_id": "0011",
+      "source": "但是在修真世界中，这又是一个真实存在的器官，而且是修真者最重要的器官，是沟通人类和天地灵气、宇宙灵能的关键所在！",
+      "target": "Nhưng trong thế giới tu chân, đây lại là một cơ quan tồn tại chân thực, hơn nữa còn là cơ quan quan trọng nhất của người tu chân, là chìa khóa kết nối giữa con người với linh khí đất trời và linh năng vũ trụ!"
+    },
+    {
+      "segment_id": "0012",
+      "source": "只有灵根开发度达到100%，“灵根觉醒”，才能踏上修真之路！",
+      "target": "Chỉ khi độ khai phá linh căn đạt tới 100%, \"linh căn thức tỉnh\", mới có thể bước lên con đường tu chân!"
+    },
+    {
+      "segment_id": "0013",
+      "source": "一般大学在招生时，是不看灵根开发度这一项数值的，哪怕是1%也没有关系，反正一般大学培养的都是普通人。",
+      "target": "Các trường đại học bình thường khi tuyển sinh sẽ không xem xét chỉ số độ khai phá linh căn này, cho dù chỉ có 1% cũng chẳng sao, dù sao thì đại học bình thường đào tạo đều là người thường."
+    },
+    {
+      "segment_id": "0014",
+      "source": "可是专门培养修真者的“九大精英联校”在招生时，却会把考生成绩和灵根开发度相乘，当成最终分数——自然，灵根开发度越高越占便宜。",
+      "target": "Thế nhưng \"Cửu Đại Tinh Anh Liên Hiệu\" chuyên đào tạo người tu chân khi tuyển sinh lại lấy thành tích thi của thí sinh nhân với độ khai phá linh căn để làm điểm số cuối cùng——dĩ nhiên, độ khai phá linh căn càng cao thì càng có lợi."
+    },
+    {
+      "segment_id": "0015",
+      "source": "李耀的灵根开发度低得可怜，五百多分乘以35%之后，只剩下不到两百分。",
+      "target": "Độ khai phá linh căn của Lý Diệu thấp đến mức đáng thương, hơn năm trăm điểm nhân với 35% xong chỉ còn lại chưa đầy hai trăm điểm."
+    },
+    {
+      "segment_id": "0016",
+      "source": "而重点班的天之骄子，普遍拥有超过60%的灵根开发度，也就是说人家只要考三百多分，就能轻松碾压李耀。",
+      "target": "Trong khi đó, những thiên chi kiêu tử của lớp chọn phổ biến đều sở hữu độ khai phá linh căn vượt quá 60%, nghĩa là người ta chỉ cần thi được hơn ba trăm điểm là đã có thể dễ dàng nghiền ép Lý Diệu."
+    },
+    {
+      "segment_id": "0017",
+      "source": "更何况，灵根开发度越高，人的思维就越敏捷，五感越敏锐，对身体掌控度越高，成绩怎么也不会比他们这些普通班的“杂鱼”差了。",
+      "target": "Huống chi, độ khai phá linh căn càng cao thì tư duy con người càng nhạy bén, năm giác quan càng tinh tường, khả năng kiểm soát cơ thể càng cao, thành tích thế nào cũng không thể kém hơn lũ \"tép riu\" ở lớp thường được."
+    },
+    {
+      "segment_id": "0018",
+      "source": "李耀不是没想过下苦功提升灵根开发度，可这玩意儿和学习不同，书本知识可以死记硬背，体能和武技可以疯狂修炼，灵根开发度却是实打实要靠资源堆出来的。",
+      "target": "Lý Diệu không phải chưa từng nghĩ đến việc khổ luyện để nâng cao độ khai phá linh căn, thế nhưng cái thứ này không giống như học tập, kiến thức sách vở có thể học thuộc lòng, thể lực và võ kỹ có thể điên cuồng tu luyện, còn độ khai phá linh căn lại hoàn toàn phải dùng tài nguyên để đắp lên."
+    },
+    {
+      "segment_id": "0019",
+      "source": "比如重点班的天之骄子们，每天服用各种天材地宝和强化药剂，还在家里添置“灵根开发仪”或者去专门的“冥修馆”特训，每个月花在灵根开发上的钱，少则数万、多则几十上百万都有，金山银山砸下去，才能将灵根开发度艰难地提升“1%”。",
+      "target": "Ví dụ như những thiên chi kiêu tử của lớp chọn, mỗi ngày đều dùng đủ thứ thiên tài địa bảo và dược tễ tăng cường, lại mua sắm thêm \"máy khai phá linh căn\" ở nhà hoặc đến \"Minh Tu Quán\" chuyên dụng để huấn luyện đặc biệt. Số tiền tiêu tốn vào việc khai phá linh căn mỗi tháng ít thì vài vạn, nhiều thì vài chục cho tới hàng triệu đồng, núi vàng núi bạc đổ xuống mới có thể nhọc nhằn nâng cao độ khai phá linh căn lên \"1%\"."
+    },
+    {
+      "segment_id": "0020",
+      "source": "而李耀在法宝坟墓拾荒，一个月最多也就赚万把块，支付房租、生活费和学费之后，就剩不下三瓜两枣了，肚皮都填不饱，哪里有闲钱去开发灵根？",
+      "target": "Còn Lý Diệu nhặt phế liệu ở nghĩa địa pháp bảo, mỗi tháng nhiều nhất cũng chỉ kiếm được chừng một vạn đồng, sau khi chi trả tiền thuê nhà, phí sinh hoạt và học phí xong thì chẳng còn lại mấy đồng bạc lẻ, đến bụng còn lo không nổi, lấy đâu ra tiền dư dả để đi khai phá linh căn?"
+    },
+    {
+      "segment_id": "0021",
+      "source": "总而言之一个字——他娘的穷啊！",
+      "target": "Tóm lại một chữ——Mẹ kiếp, nghèo!"
+    },
+    {
+      "segment_id": "0022",
+      "source": "心里正犯愁呢，就听到孟江又用杀猪般的声音嚎叫起来：“哇，两个691分！司佳雪和赫连烈这两个家伙，又是这次模拟考的并列第一！”",
+      "target": "Trong lòng đang sầu não, hắn liền nghe thấy Mạnh Giang lại gào lên bằng cái giọng như heo bị chọc tiết: \"Oa, hai con số 691 điểm! Hai đứa Tư Giai Tuyết và Hách Liên Liệt này lại đồng hạng nhất trong kỳ thi thử lần này rồi!\""
+    },
+    {
+      "segment_id": "0023",
+      "source": "这一次模拟考，是整个高三年级组同时举行，教室前方的光幕上，飞快浮现出了全校前十名的学生信息。",
+      "target": "Kỳ thi thử lần này được tổ chức đồng thời cho toàn bộ khối mười hai, trên màn sáng phía trước lớp học nhanh chóng hiện lên thông tin của mười học sinh đứng đầu toàn trường."
+    },
+    {
+      "segment_id": "0024",
+      "source": "其中并列第一的，是一名清冷如雪的美少女，和一名英姿勃发、目光慑人的高大少年。",
+      "target": "Trong số đồng hạng nhất có một mỹ thiếu nữ lạnh lùng như tuyết, và một thiếu niên cao lớn anh khí bừng bừng, ánh mắt đầy uy lực nhiếp người."
+    },
+    {
+      "segment_id": "0025",
+      "source": "他们的分数，并没有让李耀动容，可是跟在分数后面的灵根开发度，令他嫉妒得眼里喷火。",
+      "target": "Điểm số của họ không làm cho Lý Diệu động dung, thế nhưng độ khai phá linh căn đi kèm phía sau điểm số kia lại khiến hắn ghen tị đến mức mắt muốn phun lửa."
+    },
+    {
+      "segment_id": "0026",
+      "source": "司佳雪，灵根开发度71%；赫连烈，灵根开发度72%！",
+      "target": "Tư Giai Tuyết, độ khai phá linh căn 71%; Hách Liên Liệt, độ khai phá linh căn 72%!"
+    },
+    {
+      "segment_id": "0027",
+      "source": "孟江兀自聒噪：“啧啧啧c，真不愧是咱们赤霄二中的风云人物，校花校草，重点班几十个精英中的精英！你看看，这两个家伙不但男的帅，女的靓，而且出身富豪家庭，据说家族里都出现过好几名修真者，成绩又好，灵根开发度又高，是这一次咱们学校冲击高考的秘密武器！据说他们考上九大精英联校是十拿九稳的事，学校专程请妖刀彭海来给他们特训，也有一层意思，是希望他们能冲击浮戈城的高考状元，至少是全市前十名！”",
+      "target": "Mạnh Giang vẫn lải nhải không ngừng: \"Chậc chậc chậc chậc, quả không hổ là nhân vật phong vân của Nhị Trung Xích Tiêu chúng ta, nam thần hoa khôi, tinh anh trong số vài chục tinh anh của lớp chọn! Mày xem kìa, hai đứa này không chỉ nam thanh nữ tú, mà còn sinh ra trong gia đình phú hào, nghe nói trong gia tộc từng xuất hiện mấy người tu chân, thành tích vừa tốt, độ khai phá linh căn lại vừa cao, là vũ khí bí mật để trường chúng ta bứt phá trong kỳ thi đại học lần này! Nghe nói việc họ thi đỗ vào Cửu Đại Tinh Anh Liên Hiệu là chuyện chắc như đinh đóng cột rồi, nhà trường đặc biệt mời Yêu Đao Bành Hải đến đặc huấn cho họ cũng có một tầng ý tức là hy vọng họ có thể tranh ngôi vị Thủ khoa thi đại học của thành Phù Qua, ít nhất cũng lọt vào top mười toàn thành phố!\""
+    },
+    {
+      "segment_id": "0028",
+      "source": "说着说着，孟江很夸张地叹了口气：“唉，货比货得扔，人比人要死啊，大家平平都是高中生，现在都在一个学校里厮混，可是经过高考，恐怕他们就要一飞冲天，踏入修真者圈子，过上纸醉金迷，腐朽没落的生活了，而咱们这样的穷小子，就只有当一辈子的打工者，工薪族，想想真是心凉！”",
+      "target": "Nói đoạn, Mạnh Giang cường điệu thở dài một tiếng: \"Haiz, đúng là so hàng thì phải vứt, so người thì tức chết, mọi người đều là học sinh cấp ba như nhau, hiện tại đều đang cùng lết xác ở một trường, thế nhưng qua kỳ thi đại học này, e rằng bọn họ sẽ một bước lên trời, bước chân vào giới tu chân, hưởng thụ cuộc sống vàng son sa đọa, còn những thằng nghèo như chúng ta thì chỉ có nước làm kẻ đi làm thuê, dân làm công ăn lương cả đời, nghĩ đến mà thấy buốt lòng!\""
+    },
+    {
+      "segment_id": "0029",
+      "source": "说了半天，没见反应，孟江扭头一看，却见李耀双眼发直，盯着司佳雪的照片，目光幽深，不知在琢磨什么，连忙在死党脑袋上敲了一下：“喂，你小子不会是看上司佳雪了吧？我好心好意提醒你，这女人可是咱们碰不得的，她和赫连烈是世交，据说两大家族颇有联姻的意思，赫连烈对她也是志在必得——你别看这小子长得高大威猛，心眼却是最小，从来见不得别人亲近司佳雪，上次有个转校生初来乍到，不知深浅，放出话来要追求司佳雪，结果在‘武技课’上被赫连烈打断了三根骨头，至于我们这种杂鱼，赫连烈一个喷嚏，我们就内伤吐血了！”",
+      "target": "Nói một hồi lâu không thấy phản ứng gì, Mạnh Giang quay đầu lại nhìn thì thấy Lý Diệu đang đờ người ra, nhìn chằm chằm vào bức ảnh của Tư Giai Tuyết, ánh mắt sâu thẳm không rõ đang tính toán điều gì. Hắn liền gõ một cái lên đầu thằng bạn thân: \"Này, thằng ranh kia, không phải mày nhìn trúng Tư Giai Tuyết rồi đấy chứ? Tao có lòng tốt nhắc nhở mày nhé, loại con gái đó chúng ta không dây vào được đâu. Cô ta và Hách Liên Liệt là thế giao, nghe nói hai gia tộc lớn rất có ý định liên hôn, Hách Liên Liệt cũng quyết tâm phải có được cô ta——mày đừng thấy thằng đó cao to lực lưỡng, bụng dạ của nó lại hẹp hòi nhất, chưa từng dung thứ cho ai dám đến gần Tư Giai Tuyết. Lần trước có học sinh chuyển trường mới chân ướt chân ráo tới không biết trời cao đất dày là gì, dám lớn tiếng nói muốn theo đuổi Tư Giai Tuyết, kết quả trong 'tiết học võ kỹ' đã bị Hách Liên Liệt đánh gãy ba cái xương sườn. Còn đối với hạng tép riu như chúng ta, Hách Liên Liệt chỉ cần hắt xì một phát là đủ để chúng ta chấn thương nội tạng mà ói ra máu rồi!\""
+    },
+    {
+      "segment_id": "0030",
+      "source": "“废话。”",
+      "target": "\"Nói nhảm.\""
+    },
+    {
+      "segment_id": "0031",
+      "source": "李耀收回目光，似乎下了什么决心，“赫连烈先不提，就说这个司佳雪，整天摆出一张冷冰冰的死人脸，十有八九是性冷淡，我怎么会喜欢这一型？”",
+      "target": "Lý Diệu thu hồi ánh mắt, dường như đã hạ quyết tâm gì đó: \"Hách Liên Liệt thì không nói làm gì, chỉ riêng Tư Giai Tuyết kia thôi, suốt ngày trưng ra vẻ mặt lạnh như tiền, mười phần thì hết tám chín phần là lãnh cảm rồi, sao tao lại thích kiểu đó cho được?\""
+    },
+    {
+      "segment_id": "0032",
+      "source": "……",
+      "target": "……"
+    },
+    {
+      "segment_id": "0033",
+      "source": "学校的大部分资源都向重点班和平行班倾斜，对普通班的管理十分宽松，模拟考结束之后，普通班的学生就针对各自缺陷，进行专项训练，一天很快过去，下午四点，就要放学了。",
+      "target": "Hầu hết tài nguyên của nhà trường đều nghiêng về phía lớp chọn và lớp thường, nên việc quản lý lớp phổ thông vô cùng lỏng lẻo. Sau khi kỳ thi thử kết thúc, học sinh lớp phổ thông liền tự nhắm vào những điểm yếu của bản thân để tiến hành huấn luyện chuyên biệt. Một ngày trôi qua thật nhanh, mới đó đã bốn giờ chiều, đến giờ tan học."
+    },
+    {
+      "segment_id": "0034",
+      "source": "“等会儿一起走，我刚找到一家煎饼摊，老板的三大爷是‘火神派’的烧火杂役，老板也间接学到一手‘火云掌’，炮制出来的‘赤焰大手印鸡蛋饼’绝对一流，今天我请客，怎么样？”孟江豪气万千地拍着胸脯。",
+      "target": "\"Lát nữa đi chung đi, tao mới tìm được một hàng bánh trứng, ông bác của ông chủ là tạp dịch nhóm lửa của 'Hỏa Thần Phái', ông chủ cũng học lỏm được một chiêu 'Hỏa Vân Chưởng', làm ra món bánh trứng 'Xích Diễm Đại Thủ Ấn' tuyệt đối là số dách, hôm nay tao bao, thấy sao?\" Mạnh Giang vỗ ngực bồm bộp đầy hào khí."
+    },
+    {
+      "segment_id": "0035",
+      "source": "“不了，今天有事，还是明天我请你吧！”不等死党回答，李耀飞快窜出了教室。",
+      "target": "\"Không được rồi, hôm nay tao có việc bận, để mai tao mời mày nhé!\" Không đợi thằng bạn chí cốt kịp trả lời, Lý Diệu đã nhanh như chớp vọt ra khỏi lớp học."
+    },
+    {
+      "segment_id": "0036",
+      "source": "他贼头贼脑地左右打量一阵，绕着校园兜了大半圈，穿过两处食堂，在校园后面一片小树林里停了十几分钟，又折返回来，蹑手蹑脚地摸进了老教学楼底层的一间杂物室。",
+      "target": "Hắn dáo dác nhìn quanh quất một hồi đầy lấm lét, đi vòng quanh khuôn viên trường hơn nửa vòng, băng qua hai nhà ăn lớn, nán lại hơn mười phút trong một rặng cây nhỏ phía sau trường, rồi mới vòng trở lại, rón rén lẻn vào một phòng kho chứa đồ ở tầng trệt của dãy nhà học cũ."
+    },
+    {
+      "segment_id": "0037",
+      "source": "轻轻关上门，就嗅到了一股若有若无，空谷幽兰般的香气。",
+      "target": "Khẽ khép cửa lại, hắn liền ngửi thấy một mùi hương thanh khiết thoang thoảng tựa hoa lan trong cốc vắng."
+    },
+    {
+      "segment_id": "0038",
+      "source": "一双清泉般的冷冽美眸，正在黑暗中有些不耐地瞪着他，眸子下方，是挺翘的鼻尖和抿紧的薄唇。",
+      "target": "Một đôi mắt đẹp lạnh lùng trong trẻo tựa suối nguồn đang có phần thiếu kiên nhẫn nhìn hắn trừng trừng trong bóng tối, bên dưới đôi mắt là chiếc sống mũi cao thẳng cùng làn môi mỏng đang mím chặt."
+    },
+    {
+      "segment_id": "0039",
+      "source": "如果孟江在这里，一定会发出标志性的杀猪嚎叫：“好你个死小妖，居然真的和‘二中女神’司佳雪勾搭上了！你，你真是色胆包天！”",
+      "target": "Nếu Mạnh Giang có mặt ở đây, chắc chắn sẽ rú lên cái giọng như heo bị chọc tiết thương hiệu của mình: \"Được lắm cái thằng Tiểu Yêu chết tiệt nhà mày, thế mà lại thực sự cặp kè được với 'Nữ thần Nhị Trung' Tư Giai Tuyết rồi! Mày, mày quả là lá gan lớn bằng trời mà!\""
+    }
+  ]
+}
+```
