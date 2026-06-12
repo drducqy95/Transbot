@@ -1,0 +1,23 @@
+```json
+{
+  "approved": {
+    "names": [],
+    "terms": []
+  },
+  "rejected": {
+    "names": [],
+    "terms": [
+      "‘寒光··", 
+      "双方达成了愉"
+    ]
+  },
+  "uncertain": {
+    "names": [],
+    "terms": []
+  }
+}
+```
+
+### Review Notes:
+* **`‘寒光··`**: This was rejected because it appears to be a badly extracted fragment containing invalid leading/trailing punctuation (`‘` and `··`). While "寒光" (Cold Light/Glint) could be a valid term on its own depending on the context, this specific string is malformed.
+* **`双方达成了愉`**: This was rejected because it is clearly an incomplete sentence fragment ("Both parties reached a plea[sant]..."), rather than a standalone glossary term.
