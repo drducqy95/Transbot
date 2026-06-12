@@ -1,15 +1,5 @@
 [
   {
-    "chapter_number": 1,
-    "title": "Chương 1: Đạo Quả",
-    "relative_path": "output/Chương 0001 - Chương 1 Đạo Quả.md"
-  },
-  {
-    "chapter_number": 2,
-    "title": "Chương 2: Nhân Quả Tập",
-    "relative_path": "output/Chương 0002 - Chương 2 Nhân Quả Tập.md"
-  },
-  {
     "chapter_number": 3,
     "title": "Chương 3: Đỉnh Hồ phái",
     "relative_path": "output/Chương 0003 - Chương 3 Đỉnh Hồ phái.md"
@@ -28,5 +18,10 @@
     "chapter_number": 6,
     "title": "Chương 6: Ta còn chưa dùng lực, ngươi đã ngã xuống rồi",
     "relative_path": "output/Chương 0006 - Chương 6 Ta còn chưa dùng lực, ngươi đã ngã xuống rồi.md"
+  },
+  {
+    "chapter_number": 1,
+    "title": "Chương 1: Đạo Quả",
+    "relative_path": "output/Chương 0001 - Chương 1 Đạo Quả.md"
   }
 ]

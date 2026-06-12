@@ -1,16 +1,3 @@
-I will start by listing the contents of the workspace directory to understand the context of the translation project.
-I will list the contents of the `Script` and `Source` directories to see if there are any tools, glossaries, or translation scripts that might define the criteria for approving, rejecting, or flagging terms as uncertain.
-I will list the contents of the `Source` directory to see what sources are being translated.
-I will search for any reference to terms, glossary, names, approved, or rejected in the script files to understand how terms are processed and if there's an automated script or a template/schema we need to follow.
-I will search for `approved` in the `Script` directory to find any logic related to term approval/rejection.
-I will search for `rejected` in the `Script` directory.
-I will view `pipeline_thai-nhat-dao-qua.py` to see the structure of these pipeline scripts and how they extract or process terms/names.
-I will search for `audit` in `Script/pipeline_thai-nhat-dao-qua.py` or other files in `Script` to see how translation terms are reviewed or audited.
-I will search the entire workspace directory `/mnt/sdcard/My Agent/Transbot` for the keyword `rejected` or `approved` or `uncertain` to see if there is any reference, past reviews, templates, or instructions on how to handle terms and names.
-I will view the `ai_review.json` file in `Output/Thai Nhat Dao Qua/pre_trans/Chapter 0001/` to understand the expected format and the reasoning behind previous term approvals/rejections.
-I will view the `ai_review.json` file in `Output/Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han/pre_trans/Chapter 0002/ai_review.json` to make sure we understand the format across different chapters.
-Here is the classification of the names and terms based on the context of the translation project:
-
 ```json
 {
   "approved": [],

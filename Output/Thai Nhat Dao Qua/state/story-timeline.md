@@ -28,3 +28,8 @@ Chapter 5 completed via pipeline.
 
 ### Summary
 Chapter 6 completed via pipeline.
+
+## Chapter 0001 - Chương 1: Đạo Quả
+
+### Summary
+Chapter 1 completed via pipeline.

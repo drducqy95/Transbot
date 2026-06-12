@@ -4,3 +4,4 @@
 - 2026-06-12 14:36 | Chapter 4 | completed | Chương 0004 - Chương 4 Bán bộ vô địch thần công.md
 - 2026-06-12 14:53 | Chapter 5 | completed | Chương 0005 - Chương 5 Đạo quả chi khí.md
 - 2026-06-12 15:03 | Chapter 6 | completed | Chương 0006 - Chương 6 Ta còn chưa dùng lực, ngươi đã ngã xuống rồi.md
+- 2026-06-12 15:48 | Chapter 1 | completed | Chương 0001 - Chương 1 Đạo Quả.md

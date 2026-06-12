@@ -1,7 +1,7 @@
 {
-  "chapter_number": 1,
-  "chapter_title_vi": "Chương 1: Đạo Quả",
-  "segments": [
+  "schema_version": "2.0",
+  "chapter_id": "chapter_0001",
+  "segment_translations": [
     {
       "segment_id": "0001",
       "source": "# 第1章 道果",
@@ -10,7 +10,7 @@
     {
       "segment_id": "0002",
       "source": "【八月二十。",
-      "target": "[Ngày hai mươi tháng tám."
+      "target": "【Ngày hai mươi tháng tám."
     },
     {
       "segment_id": "0003",
@@ -25,12 +25,12 @@
     {
       "segment_id": "0005",
       "source": "我不知道自己为什么会变成这样，也许是轮回，也可能是魂穿，谁知道呢。】",
-      "target": "Ta không biết tại sao mình lại biến thành thế này, có lẽ là luân hồi, cũng có thể là hồn xuyên, ai mà biết được cơ chứ.]"
+      "target": "Ta không biết tại sao mình lại biến thành thế này, có lẽ là luân hồi, cũng có thể là hồn xuyên, ai mà biết được cơ chứ.】"
     },
     {
       "segment_id": "0006",
       "source": "【八月二十一。",
-      "target": "[Ngày hai mươi mốt tháng tám."
+      "target": "【Ngày hai mươi mốt tháng tám."
     },
     {
       "segment_id": "0007",
@@ -80,12 +80,12 @@
     {
       "segment_id": "0016",
       "source": "传说一品道果甚至有改天换地之能，比如玄门的一品道果，便是神话中的三清天尊，如果我成了天尊，能回家吗？】",
-      "target": "Tương truyền đạo quả nhất phẩm thậm chí có năng lực cải thiên hoán địa, ví như đạo quả nhất phẩm của Huyền Môn, chính là Tam Thanh Thiên Tôn trong thần thoại, nếu ta trở thành Thiên Tôn, liệu có thể về nhà không?]"
+      "target": "Tương truyền đạo quả nhất phẩm thậm chí có năng lực cải thiên hoán địa, ví như đạo quả nhất phẩm của Huyền Môn, chính là Tam Thanh Thiên Tôn trong thần thoại, nếu ta trở thành Thiên Tôn, liệu có thể về nhà không?】"
     },
     {
       "segment_id": "0017",
       "source": "【八月二十二。",
-      "target": "[Ngày hai mươi hai tháng tám."
+      "target": "【Ngày hai mươi hai tháng tám."
     },
     {
       "segment_id": "0018",
@@ -110,17 +110,17 @@
     {
       "segment_id": "0022",
       "source": "正经人谁写日记啊。】",
-      "target": "Người đàng hoàng ai lại đi viết nhật ký chứ.]"
+      "target": "Người đàng hoàng ai lại đi viết nhật ký chứ.】"
     },
     {
       "segment_id": "0023",
       "source": "【八月二十三。",
-      "target": "[Ngày hai mươi ba tháng tám."
+      "target": "【Ngày hai mươi ba tháng tám."
     },
     {
       "segment_id": "0024",
       "source": "今天在讲法堂内，长老询问了弟子们未来的修行选择，说到鼎湖派有两种九品道果可供选择——人属的道人和神属的天兵。",
-      "target": "Hôm nay ở trong Giảng Pháp Đường, trưởng lão có hỏi đệ tử về lựa chọn tu hành trong tương lai, nói Đỉnh Hồ phái có hai loại đạo quả cửu phẩm để lựa chọn — Đạo Nhân thuộc Nhân và Thiên Binh thuộc Thần."
+      "target": "Hôm nay ở trong Giảng Pháp Đường, trưởng lão có hỏi đệ tử về lựa chọn tu hành trong tương lai, nói Đỉnh Hồ phái có hai loại đạo quả cửu phẩm để lựa chọn —— Đạo Nhân thuộc Nhân và Thiên Binh thuộc Thần."
     },
     {
       "segment_id": "0025",
@@ -130,12 +130,12 @@
     {
       "segment_id": "0026",
       "source": "众所周知，占卜师贼能苟，所以答案只有一个了。】",
-      "target": "Ai cũng biết, thầy bói cực kỳ giỏi cẩu (giữ mạng), thế nên đáp án chỉ có một.]"
+      "target": "Ai cũng biết, thầy bói cực kỳ giỏi cẩu (giữ mạng), thế nên đáp án chỉ có một.】"
     },
     {
       "segment_id": "0027",
       "source": "【八月二十四。",
-      "target": "[Ngày hai mươi tư tháng tám."
+      "target": "【Ngày hai mươi tư tháng tám."
     },
     {
       "segment_id": "0028",
@@ -150,12 +150,12 @@
     {
       "segment_id": "0030",
       "source": "从明天开始，推历法，学卜算。】",
-      "target": "Bắt đầu từ ngày mai, suy lịch pháp, học bói toán.]"
+      "target": "Bắt đầu từ ngày mai, suy lịch pháp, học bói toán.】"
     },
     {
       "segment_id": "0031",
       "source": "【八月二十五。",
-      "target": "[Ngày hai mươi lăm tháng tám."
+      "target": "【Ngày hai mươi lăm tháng tám."
     },
     {
       "segment_id": "0032",
@@ -165,12 +165,12 @@
     {
       "segment_id": "0033",
       "source": "今日于鼎湖边上散心，捡到三枚文帝钱，可以用来做六爻占卜，难道上天都让我学习卜算？】",
-      "target": "Hôm nay đi dạo hóng gió bên bờ Đỉnh Hồ, nhặt được ba đồng Văn Đế tiền, có thể dùng để gieo quẻ lục hào, lẽ nào ông trời cũng muốn ta học bói toán sao?]"
+      "target": "Hôm nay đi dạo hóng gió bên bờ Đỉnh Hồ, nhặt được ba đồng Văn Đế tiền, có thể dùng để gieo quẻ lục hào, lẽ nào ông trời cũng muốn ta học bói toán sao?】"
     },
     {
       "segment_id": "0034",
       "source": "【八月二十六。",
-      "target": "[Ngày hai mươi sáu tháng tám."
+      "target": "【Ngày hai mươi sáu tháng tám."
     },
     {
       "segment_id": "0035",
@@ -180,12 +180,12 @@
     {
       "segment_id": "0036",
       "source": "卜算好难！】",
-      "target": "Bói toán khó quá đi!]"
+      "target": "Bói toán khó quá đi!】"
     },
     {
       "segment_id": "0037",
       "source": "【八月二十七。",
-      "target": "[Ngày hai mươi bảy tháng tám."
+      "target": "【Ngày hai mươi bảy tháng tám."
     },
     {
       "segment_id": "0038",
@@ -195,22 +195,22 @@
     {
       "segment_id": "0039",
       "source": "毫无进境，我像是个蠢货。】",
-      "target": "Hoàn toàn không có tiến triển gì, ta giống như một kẻ ngu ngốc vậy.]"
+      "target": "Hoàn toàn không có tiến triển gì, ta giống như một kẻ ngu ngốc vậy.】"
     },
     {
       "segment_id": "0040",
       "source": "【八月二十八。",
-      "target": "[Ngày hai mươi tám tháng tám."
+      "target": "【Ngày hai mươi tám tháng tám."
     },
     {
       "segment_id": "0041",
       "source": "我就是个蠢货。】",
-      "target": "Ta đúng là một kẻ ngu ngốc.]"
+      "target": "Ta đúng là một kẻ ngu ngốc.】"
     },
     {
       "segment_id": "0042",
       "source": "【八月二十九",
-      "target": "[Ngày hai mươi chín tháng tám"
+      "target": "【Ngày hai mươi chín tháng tám"
     },
     {
       "segment_id": "0043",
@@ -225,12 +225,12 @@
     {
       "segment_id": "0045",
       "source": "有因即有果，有舍即有得。凡是被记录在本书上的经历，因果固化，不得退转。嗯······意思是努力就有收获？还有不会退步？】",
-      "target": "Có nhân ắt có quả, có xả ắt có đắc. Phàm là những trải nghiệm được ghi chép trên cuốn sách này, nhân quả cố hóa, không thể thoái chuyển. Ừm... Có nghĩa là chỉ cần nỗ lực thì sẽ có thu hoạch sao? Hơn nữa còn không bị thụt lùi?]"
+      "target": "Có nhân ắt có quả, có xả ắt có đắc. Phàm là những trải nghiệm được ghi chép trên cuốn sách này, nhân quả cố hóa, không thể thoái chuyển. Ừm... Có nghĩa là chỉ cần nỗ lực thì sẽ có thu hoạch sao? Hơn nữa còn không bị thụt lùi?】"
     },
     {
       "segment_id": "0046",
       "source": "【八月三十",
-      "target": "[Ngày ba mươi tháng tám"
+      "target": "【Ngày ba mươi tháng tám"
     },
     {
       "segment_id": "0047",
@@ -250,7 +250,7 @@
     {
       "segment_id": "0050",
       "source": "从今天开始，我就是十里坡剑神，武功、术法，我全都要！】",
-      "target": "Từ hôm nay trở đi, ta chính là Thập Lý Pha kiếm thần, võ công, thuật pháp, ta muốn tất!]"
+      "target": "Từ hôm nay trở đi, ta chính là Thập Lý Pha kiếm thần, võ công, thuật pháp, ta muốn tất!】"
     },
     {
       "segment_id": "0051",
@@ -260,7 +260,7 @@
     {
       "segment_id": "0052",
       "source": "【二月廿二。",
-      "target": "[Ngày hai mươi hai tháng hai."
+      "target": "【Ngày hai mươi hai tháng hai."
     },
     {
       "segment_id": "0053",
@@ -270,12 +270,12 @@
     {
       "segment_id": "0054",
       "source": "暮色苍茫——",
-      "target": "Sắc trời chạng vạng—"
+      "target": "Sắc trời chạng vạng——"
     },
     {
       "segment_id": "0055",
       "source": "落日的余辉，将天畔映影得多彩而绚丽，无人的山道上，潇洒而挺秀的骑士，也被这秋日的晚霞，映影得更潇洒而挺秀了······】",
-      "target": "Ánh tà dương còn sót lại, nhuộm chân trời rực rỡ và lộng lẫy, trên con đường núi không người, chàng kỵ sĩ tiêu sái mà tuấn tú, cũng được ráng chiều rực rỡ của ngày thu này, tôn lên càng thêm tiêu sái và tuấn tú...]"
+      "target": "Ánh tà dương còn sót lại, nhuộm chân trời rực rỡ và lộng lẫy, trên con đường núi không người, chàng kỵ sĩ tiêu sái mà tuấn tú, cũng được ráng chiều rực rỡ của ngày thu này, tôn lên càng thêm tiêu sái và tuấn tú...】"
     },
     {
       "segment_id": "0056",
@@ -295,7 +295,7 @@
     {
       "segment_id": "0059",
       "source": "“吁——”",
-      "target": "\"Hư—\""
+      "target": "\"Hư——\""
     },
     {
       "segment_id": "0060",
@@ -375,7 +375,7 @@
     {
       "segment_id": "0075",
       "source": "【就在这时，一道黑影顺着山壁游行而下，逼命的冷光直钉姜离天灵——】",
-      "target": "[Đúng vào lúc này, một bóng đen men theo vách núi trườn xuống, luồng sáng lạnh lẽo đoạt mạng nhắm thẳng tới thiên linh cái của Khương Ly—]"
+      "target": "【Đúng vào lúc này, một bóng đen men theo vách núi trườn xuống, luồng sáng lạnh lẽo đoạt mạng nhắm thẳng tới thiên linh cái của Khương Ly——】"
     },
     {
       "segment_id": "0076",
@@ -450,7 +450,7 @@
     {
       "segment_id": "0090",
       "source": "此人，正是姜离所追捕的犯事弟子——周明云。",
-      "target": "Người này, chính là đệ tử phạm tội mà Khương Ly đang truy bắt — Chu Minh Vân."
+      "target": "Người này, chính là đệ tử phạm tội mà Khương Ly đang truy bắt —— Chu Minh Vân."
     },
     {
       "segment_id": "0091",
@@ -484,7 +484,7 @@
     },
     {
       "segment_id": "0097",
-      "source": "周明云双眼紧闭，忍着那强烈的灼痛恨声道：“卑鄙小人，你先后六次识破我的伏击意图，此时更暗算于我，如斯狡猾，你觉得我会信调吗？”",
+      "source": "周明云双眼紧闭，忍着那强烈的灼痛恨声道：“卑鄙小人，你先后六次识破我的伏击意图，此时更暗算于我，如斯狡猾，你觉得我会信你吗？”",
       "target": "Chu Minh Vân nhắm chặt hai mắt, cắn răng chịu đựng cơn đau rát mãnh liệt đó mà hận thù nói: \"Tên tiểu nhân bỉ ổi nhà ngươi, sáu lần liên tiếp ngươi nhìn thấu ý đồ phục kích của ta, bây giờ lại còn ám toán ta, xảo trá như vậy, ngươi nghĩ ta sẽ tin ngươi sao?\""
     },
     {
@@ -505,7 +505,7 @@
     {
       "segment_id": "0101",
       "source": "“嘶——”",
-      "target": "\"Xuy—\""
+      "target": "\"Xuy——\""
     },
     {
       "segment_id": "0102",
@@ -615,7 +615,7 @@
     {
       "segment_id": "0123",
       "source": "【九品道果：道人",
-      "target": "[Đạo quả cửu phẩm: Đạo Nhân"
+      "target": "【Đạo quả cửu phẩm: Đạo Nhân"
     },
     {
       "segment_id": "0124",
@@ -630,7 +630,7 @@
     {
       "segment_id": "0126",
       "source": "能力：道心通明、道法精通】",
-      "target": "Năng lực: Đạo Tâm Thông Minh, Đạo Pháp Tinh Thông]"
+      "target": "Năng lực: Đạo Tâm Thông Minh, Đạo Pháp Tinh Thông】"
     },
     {
       "segment_id": "0127",
@@ -645,7 +645,7 @@
     {
       "segment_id": "0129",
       "source": "【九品道果：道人·王重阳",
-      "target": "[Đạo quả cửu phẩm: Đạo Nhân - Vương Trùng Dương"
+      "target": "【Đạo quả cửu phẩm: Đạo Nhân - Vương Trùng Dương"
     },
     {
       "segment_id": "0130",
@@ -660,7 +660,7 @@
     {
       "segment_id": "0132",
       "source": "能力：求返其真、性命双修、三教合一】",
-      "target": "Năng lực: Cầu Phản Kỳ Chân, Tính Mệnh Song Tu, Tam Giáo Hợp Nhất]"
+      "target": "Năng lực: Cầu Phản Kỳ Chân, Tính Mệnh Song Tu, Tam Giáo Hợp Nhất】"
     },
     {
       "segment_id": "0133",
