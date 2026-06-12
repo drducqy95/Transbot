@@ -1,0 +1,421 @@
+{
+  "chapter_number": 42,
+  "chapter_title_vi": "Chương 42: Đụng trúng họng súng rồi",
+  "segments": [
+    {
+      "segment_id": "0001",
+      "source": "培特本来不想搭理盖尔，因为他的【吾主的真理普照大地】任务冷却还没有结束。",
+      "target": "Pete vốn không muốn bận tâm đến Gale, bởi vì thời gian hồi chiêu của nhiệm vụ 【Chân lý của Chúa ta lan tỏa khắp đất】 của cậu vẫn chưa kết thúc."
+    },
+    {
+      "segment_id": "0002",
+      "source": "跟蕾娜合作已经触发了任务的奖励，下次想拿到奖励要等到一个星期后。",
+      "target": "Việc hợp tác với Lena đã kích hoạt phần thưởng nhiệm vụ, lần sau muốn nhận được phần thưởng phải đợi đến một tuần sau."
+    },
+    {
+      "segment_id": "0003",
+      "source": "这个时候就算向盖尔传教成功，他也拿不到任何知识点数。",
+      "target": "Vào lúc này, cho dù có truyền giáo thành công cho Gale, cậu cũng không nhận được bất kỳ Điểm Tri Thức nào."
+    },
+    {
+      "segment_id": "0004",
+      "source": "可是听到盖尔说什么都愿意做的时候，培特改主意了。",
+      "target": "Thế nhưng khi nghe Gale nói sẵn sàng làm bất cứ điều gì, Pete đã thay đổi ý định."
+    },
+    {
+      "segment_id": "0005",
+      "source": "“我可以告诉你办法，但是接下来15天你得听我的，帮我做些事情！”",
+      "target": "“Tôi có thể chỉ cách cho cậu, nhưng trong vòng 15 ngày tới cậu phải nghe lời tôi, giúp tôi làm một số việc!”"
+    },
+    {
+      "segment_id": "0006",
+      "source": "他想靠着清扫血牙帮的限定活动，快速刷到正义点数，攒够需要的资源去兑换3阶魔法。",
+      "target": "Cậu muốn dựa vào sự kiện giới hạn quét sạch băng Bloodfang để nhanh chóng cày Điểm Chính Nghĩa, tích lũy đủ tài nguyên cần thiết nhằm đổi lấy ma pháp cấp 3."
+    },
+    {
+      "segment_id": "0007",
+      "source": "打击犯罪活动这种事，多个人如果合作好的话，效率肯定会比一个人更高！",
+      "target": "Đối với việc trấn áp hoạt động tội phạm này, thêm một người nếu hợp tác tốt thì hiệu suất chắc chắn sẽ cao hơn một mình!"
+    },
+    {
+      "segment_id": "0008",
+      "source": "盖尔大喜过望：“没问题！”",
+      "target": "Gale mừng rỡ khôn xiết: “Không vấn đề gì!”"
+    },
+    {
+      "segment_id": "0009",
+      "source": "培特清了清嗓子，开口道：“那么，我现在要向你介绍一位伟大的存在，祂……”",
+      "target": "Pete hắng giọng, lên tiếng: “Vậy thì, bây giờ tôi sẽ giới thiệu cho cậu một sự tồn tại vĩ đại, Ngài...”"
+    },
+    {
+      "segment_id": "0010",
+      "source": "半小时后，同样成为诺文信徒的盖尔正难以置信地查看着涌入他脑海的各种“神谕”信息。",
+      "target": "Nửa giờ sau, Gale, người cũng đã trở thành tín đồ của Norven, đang không thể tin nổi mà kiểm tra các loại thông tin \"thần dụ\" tràn vào trong tâm trí."
+    },
+    {
+      "segment_id": "0011",
+      "source": "“只要我攒到对应的知识点数，就能兑换我想要的魔法？”",
+      "target": "“Chỉ cần tôi tích lũy đủ Điểm Tri Thức tương ứng là có thể đổi lấy ma pháp mình muốn?”"
+    },
+    {
+      "segment_id": "0012",
+      "source": "“任何魔法都行？”",
+      "target": "“Ma pháp nào cũng được sao?”"
+    },
+    {
+      "segment_id": "0013",
+      "source": "“这是真的？真的能靠这种办法学会3阶魔法？”",
+      "target": "“Đây là thật sao? Thực sự có thể dựa vào cách này để học được ma pháp cấp 3?”"
+    },
+    {
+      "segment_id": "0014",
+      "source": "培特看到盖尔那一副没见过世面的样子，莫名地有些暗爽。",
+      "target": "Pete nhìn bộ dạng chưa từng trải sự đời của Gale, trong lòng mơ hồ có chút sướng thầm."
+    },
+    {
+      "segment_id": "0015",
+      "source": "每一位成为求知之神诺文信徒的新人，似乎都会有类似的反应。",
+      "target": "Mỗi một người mới trở thành tín đồ của Thần Tri Thức Norven dường như đều có phản ứng tương tự."
+    },
+    {
+      "segment_id": "0016",
+      "source": "不敢相信这是每位信徒都能享受到的待遇。",
+      "target": "Họ không dám tin đây là đãi ngộ mà mỗi một tín đồ đều có thể tận hưởng."
+    },
+    {
+      "segment_id": "0017",
+      "source": "“告诉过你了，这就是求知之神的力量！”",
+      "target": "“Đã bảo với cậu rồi, đây chính là sức mạnh của Thần Tri Thức!”"
+    },
+    {
+      "segment_id": "0018",
+      "source": "“平时向诺文祈祷，或者冥想都能获得知识点数，不过那些效率都太慢了，想换到3阶魔法需要150知识点数。”",
+      "target": "“Bình thường cầu nguyện với Norven hoặc thiền định đều có thể nhận được Điểm Tri Thức, thế nhưng những cách đó hiệu suất quá chậm, muốn đổi được ma pháp cấp 3 cần tới 150 Điểm Tri Thức.”"
+    },
+    {
+      "segment_id": "0019",
+      "source": "“看到那个限定活动了吗，只要去下城区打击与血牙帮有关的犯罪，就能快速拿到大量奖励！”",
+      "target": "“Cậu có thấy sự kiện giới hạn kia không? Chỉ cần đến Khu Hạ Thành trấn áp các hành vi tội phạm liên quan đến băng Bloodfang là có thể nhanh chóng nhận được lượng lớn phần thưởng!”"
+    },
+    {
+      "segment_id": "0020",
+      "source": "“根据知识练习魔法也需要一些时间，所以我们得尽可能快得刷到足够的点数！”",
+      "target": "“Luyện tập ma pháp dựa theo kiến thức cũng cần một khoảng thời gian, cho nên chúng ta phải cày đủ số điểm cần thiết càng nhanh càng tốt!”"
+    },
+    {
+      "segment_id": "0021",
+      "source": "盖尔比培特表现得更加激动，清澈而愚蠢的眼神闪亮不已：",
+      "target": "Gale còn tỏ ra phấn khích hơn cả Pete, ánh mắt trong trẻo mà ngốc nghếch sáng rực lên:"
+    },
+    {
+      "segment_id": "0022",
+      "source": "“那还等什么，赶紧出发啊！”",
+      "target": "“Vậy còn chờ gì nữa, mau xuất phát thôi!”"
+    },
+    {
+      "segment_id": "0023",
+      "source": "……",
+      "target": "……"
+    },
+    {
+      "segment_id": "0024",
+      "source": "下城区。",
+      "target": "Khu Hạ Thành."
+    },
+    {
+      "segment_id": "0025",
+      "source": "莫尼兄弟酒馆。",
+      "target": "Quán rượu Moni Brotherhood."
+    },
+    {
+      "segment_id": "0026",
+      "source": "屋内冷冷清清，因为血牙帮的骚扰，这段时间没有客人敢来酒馆。",
+      "target": "Bên trong quán lạnh lẽo vắng vẻ. Vì sự quấy rối của băng Bloodfang, thời gian qua không có người khách nào dám tới quán rượu."
+    },
+    {
+      "segment_id": "0027",
+      "source": "蕾娜的父亲老莫尼正坐在吧台后面，担忧地看着外面的街道。",
+      "target": "Cha của Lena là lão Moni đang ngồi sau quầy bar, lo lắng nhìn ra con phố bên ngoài."
+    },
+    {
+      "segment_id": "0028",
+      "source": "虽然这两天血牙帮像是偃旗息鼓的样子，没有再来骚扰闹事，但老莫尼心里清楚，这只是因为他们在害怕那位“法师阁下”。",
+      "target": "Tuy hai ngày nay băng Bloodfang có vẻ như đã im hơi lặng tiếng, không còn đến gây rối gây chuyện nữa, nhưng lão Moni hiểu rõ trong lòng rằng đây chỉ là vì bọn chúng đang kiêng sợ vị “Pháp sư các hạ” kia."
+    },
+    {
+      "segment_id": "0029",
+      "source": "血牙帮的混混以为是他花钱发布委托雇佣了一位法师阁下来保护酒馆；",
+      "target": "Đám du côn của băng Bloodfang nghĩ rằng lão đã bỏ tiền ra đăng ủy thác thuê một vị Pháp sư các hạ đến để bảo vệ quán rượu;"
+    },
+    {
+      "segment_id": "0030",
+      "source": "实际情况是，那位名叫培特的法师阁下，只是他女儿蕾娜认识的朋友！",
+      "target": "nhưng thực tế là, vị Pháp sư các hạ tên Pete kia chỉ là một người bạn quen biết của con gái lão, Lena!"
+    },
+    {
+      "segment_id": "0031",
+      "source": "根本就没有什么雇佣来的法师阁下。",
+      "target": "Căn bản chẳng hề có vị Pháp sư các hạ được thuê mướn nào cả."
+    },
+    {
+      "segment_id": "0032",
+      "source": "等到血牙帮的人反应过来，意识到那次冲突只是个巧合之后，酒馆肯定又要陷入到天天被骚扰闹事的窘境。",
+      "target": "Đợi đến khi người của băng Bloodfang tỉnh ngộ lại, nhận ra vụ xung đột lần trước chỉ là một sự trùng hợp ngẫu nhiên, quán rượu chắc chắn sẽ lại rơi vào cảnh ngộ khốn quẫn bị quấy rối gây sự suốt ngày."
+    },
+    {
+      "segment_id": "0033",
+      "source": "最近几天便有隐约的迹象，老莫尼已经注意到有鬼鬼祟祟的家伙在酒馆附近探头探脑。",
+      "target": "Những ngày gần đây đã xuất hiện những dấu hiệu mập mờ, lão Moni đã chú ý thấy có vài kẻ lén lút dòm ngó xung quanh quán rượu."
+    },
+    {
+      "segment_id": "0034",
+      "source": "他们大概是在确认那位法师阁下还在不在。",
+      "target": "Bọn chúng có lẽ đang dò xét xem vị Pháp sư các hạ kia có còn ở đây hay không."
+    },
+    {
+      "segment_id": "0035",
+      "source": "虽然他知道自己的女儿蕾娜这几天与那位法师阁下走得很近，晚上似乎会一起做些什么。",
+      "target": "Mặc dù lão biết con gái Lena của mình mấy ngày nay qua lại rất gần gũi với vị Pháp sư các hạ kia, buổi tối dường như còn cùng nhau làm gì đó."
+    },
+    {
+      "segment_id": "0036",
+      "source": "但曾经是个资深石匠的老莫尼也算半个体面人，他实在拉不下脸来，借此去请求对方帮忙解决麻烦。",
+      "target": "Nhưng lão Moni, người từng là một thợ đá kỳ cựu, cũng được coi là người có chút thể diện, lão thực sự không thể gạt bỏ sĩ diện để nhân cơ hội này cầu xin đối phương giúp giải quyết rắc rối."
+    },
+    {
+      "segment_id": "0037",
+      "source": "那岂不是相当于用自己的女儿去换取法师阁下的帮助吗？",
+      "target": "Như thế chẳng phải là tương đương với việc dùng chính con gái mình để đổi lấy sự giúp đỡ của vị Pháp sư các hạ sao?"
+    },
+    {
+      "segment_id": "0038",
+      "source": "事实上，除了担心酒馆的麻烦，老莫尼这两天同样在为自己的女儿担忧。",
+      "target": "Trên thực tế, ngoài việc lo lắng cho rắc rối của quán rượu, hai ngày nay lão Moni cũng lo âu cho con gái mình không kém."
+    },
+    {
+      "segment_id": "0039",
+      "source": "培特阁下是位强大的法师职业者，而他的女儿蕾娜只是个普通人。",
+      "target": "Pete các hạ là một Pháp sư Chức nghiệp giả mạnh mẽ, còn con gái Lena của lão chỉ là một người bình thường."
+    },
+    {
+      "segment_id": "0040",
+      "source": "两人之间的差距实在太大。",
+      "target": "Khoảng cách giữa hai người thực sự quá lớn."
+    },
+    {
+      "segment_id": "0041",
+      "source": "女儿跟对方走得近，最后没有结果的话，蕾娜恐怕会很伤心。",
+      "target": "Con gái đi quá gần với đối phương, nếu cuối cùng không đi đến đâu, Lena e rằng sẽ rất đau lòng."
+    },
+    {
+      "segment_id": "0042",
+      "source": "老莫尼正发着愁，酒馆大门被轻轻推开。",
+      "target": "Lão Moni đang rầu rĩ thì cửa lớn của quán rượu bị đẩy nhẹ ra."
+    },
+    {
+      "segment_id": "0043",
+      "source": "“父亲，我回来啦！”",
+      "target": "“Cha ơi, con về rồi đây!”"
+    },
+    {
+      "segment_id": "0044",
+      "source": "欢快得像一只百灵鸟似的蕾娜提着一兜刚买来的蔬菜，蹦蹦跳跳地走进酒馆，开心地打了个招呼。",
+      "target": "Lena vui tươi như một chú chim sơn ca, xách một túi rau củ vừa mua về, tung tăng chạy vào quán rượu, vui vẻ chào hỏi."
+    },
+    {
+      "segment_id": "0045",
+      "source": "“蕾娜，你过来，我要和你说点事情。”老莫尼犹豫了半晌，叹了口气，决定还是把事情跟蕾娜讲明白。",
+      "target": "“Lena, con qua đây, cha muốn nói chuyện với con một chút.” Lão Moni do dự hồi lâu rồi thở dài, quyết định vẫn nên nói rõ mọi chuyện với Lena."
+    },
+    {
+      "segment_id": "0046",
+      "source": "趁现在女儿陷的还不深，让她最好放弃一些不切实际的想法。",
+      "target": "Nhân lúc con gái chưa lún quá sâu, tốt nhất là khuyên con từ bỏ những ảo tưởng phi thực tế."
+    },
+    {
+      "segment_id": "0047",
+      "source": "“怎么啦？父亲？”蕾娜顺手将蔬菜放到一边。",
+      "target": "“Có chuyện gì thế cha?” Lena tiện tay đặt túi rau sang một bên."
+    },
+    {
+      "segment_id": "0048",
+      "source": "“嗯……”",
+      "target": "“Ừm...”"
+    },
+    {
+      "segment_id": "0049",
+      "source": "老莫尼还没想好怎么开口，酝酿的语言就被外面一阵无比猛烈的砸门声打断！",
+      "target": "Lão Moni còn chưa biết phải mở lời thế nào, những lời đang ấp ủ đã bị cắt đứt bởi một tiếng đập cửa dữ dội bên ngoài!"
+    },
+    {
+      "segment_id": "0050",
+      "source": "“咚！咚咚！”",
+      "target": "“Rầm! Rầm rầm!”"
+    },
+    {
+      "segment_id": "0051",
+      "source": "酒馆有些破旧的木门本就已经布了不少裂痕，此刻又一次遭到猛烈击打，终于彻底撑不住了。",
+      "target": "Cánh cửa gỗ vốn đã cũ nát và đầy vết nứt của quán rượu nay lại bị đập mạnh một lần nữa, cuối cùng đã hoàn toàn không chịu nổi."
+    },
+    {
+      "segment_id": "0052",
+      "source": "“咔嚓……咔嚓……轰！”",
+      "target": "“Rắc... rắc... Ầm!”"
+    },
+    {
+      "segment_id": "0053",
+      "source": "碎裂的木板四处飞溅，倒塌的木门被砸进来，还连带着打翻了几套桌椅。",
+      "target": "Những mảnh gỗ vỡ bắn tung tóe khắp nơi, cánh cửa đổ sập văng vào bên trong, kéo theo đó là làm đổ vài bộ bàn ghế."
+    },
+    {
+      "segment_id": "0054",
+      "source": "曾经被培特打倒的那5个混混再度出现，浑身散发着凶悍的气息，趾高气扬地大步踏入屋内。",
+      "target": "Năm tên du côn từng bị Pete đánh bại lại xuất hiện lần nữa, toàn thân toát ra khí thế hung hãn, nghênh ngang sải bước vào trong quán."
+    },
+    {
+      "segment_id": "0055",
+      "source": "“砰！”",
+      "target": "“Rầm!”"
+    },
+    {
+      "segment_id": "0056",
+      "source": "“哗啦！”",
+      "target": "Xoảng!"
+    },
+    {
+      "segment_id": "0057",
+      "source": "领头的混混随意一脚将旁边的长凳踹飞，砸碎了盏墙上挂着的油灯，碎片洒落一地。",
+      "target": "Tên du côn dẫn đầu tùy ý đá bay chiếc ghế dài bên cạnh, đập vỡ một chiếc đèn dầu treo trên tường, các mảnh vỡ rơi vãi đầy đất."
+    },
+    {
+      "segment_id": "0058",
+      "source": "“老莫尼！藏哪去了？滚出来！”",
+      "target": "“Lão Moni! Trốn ở đâu rồi? Cút ra đây!”"
+    },
+    {
+      "segment_id": "0059",
+      "source": "“还有你那个女儿，长得特漂亮、身材特好那个！也给老子出来！”",
+      "target": "“Còn cả đứa con gái của lão nữa, đứa vừa xinh đẹp lại có dáng người cực chuẩn ấy! Cũng ra đây cho tao!”"
+    },
+    {
+      "segment_id": "0060",
+      "source": "一名混混的声音响起：",
+      "target": "Giọng của một tên du côn vang lên:"
+    },
+    {
+      "segment_id": "0061",
+      "source": "“他们肯定在！我刚刚亲眼看到那个小妞回来，她买的菜还在这里放着，错不了！”",
+      "target": "“Bọn chúng chắc chắn đang ở đây! Tao vừa tận mắt thấy con nhỏ đó về, chỗ rau củ nó mua vẫn còn để ở đây, không sai được đâu!”"
+    },
+    {
+      "segment_id": "0062",
+      "source": "……",
+      "target": "……"
+    },
+    {
+      "segment_id": "0063",
+      "source": "老莫尼那不详的预感应验了。",
+      "target": "Dự cảm chẳng lành của lão Moni đã ứng nghiệm."
+    },
+    {
+      "segment_id": "0064",
+      "source": "血牙帮真的又来了。",
+      "target": "Băng Bloodfang thực sự lại kéo đến."
+    },
+    {
+      "segment_id": "0065",
+      "source": "砸门声响起的第一时间，老莫尼便急忙拉着蕾娜一起蹲在了吧台下面。",
+      "target": "Ngay khi tiếng đập cửa vang lên, lão Moni vội vàng kéo Lena ngồi thụp xuống dưới quầy bar."
+    },
+    {
+      "segment_id": "0066",
+      "source": "两人借着长长的吧台遮挡视线才没被几名混混发现。",
+      "target": "Hai người nhờ vào quầy bar dài che chắn tầm mắt mới không bị mấy tên du côn phát hiện."
+    },
+    {
+      "segment_id": "0067",
+      "source": "但躲在这里绝非什么长久之计，只要血牙帮的人开始搜索酒馆，绕到吧台后面看一眼就能发现他们。",
+      "target": "Thế nhưng trốn ở đây tuyệt đối không phải là kế sách lâu dài. Chỉ cần người của băng Bloodfang bắt đầu lục soát quán rượu, đi vòng ra phía sau quầy bar nhìn một cái là có thể phát hiện ra họ."
+    },
+    {
+      "segment_id": "0068",
+      "source": "情况紧急，老莫尼压低声音，急切地对女儿道：",
+      "target": "Tình thế khẩn cấp, lão Moni hạ thấp giọng, vội vã nói với con gái:"
+    },
+    {
+      "segment_id": "0069",
+      "source": "“蕾娜，等下我站起来吸引他们的注意力，你悄悄把后面通往酒窖的门开个缝，偷偷溜进去，从酒窖的天窗离开！”",
+      "target": "“Lena, lát nữa cha sẽ đứng lên thu hút sự chú ý của chúng, con hãy âm thầm hé cửa thông ra hầm rượu phía sau, lẻn vào đó rồi thoát ra bằng giếng trời của hầm rượu!”"
+    },
+    {
+      "segment_id": "0070",
+      "source": "血牙帮的混混先前还只是在外面砸门、叫骂或者恐吓来酒馆的客人，这回却直接变成了硬闯。",
+      "target": "Đám du côn của băng Bloodfang trước đây cùng lắm chỉ đập cửa bên ngoài, chửi bới hoặc đe dọa khách đến quán, lần này lại trực tiếp xông thẳng vào."
+    },
+    {
+      "segment_id": "0071",
+      "source": "情况明显不太对劲，对方怕是要动真格的了。",
+      "target": "Tình hình rõ ràng có gì đó không ổn, đối phương e rằng định làm thật rồi."
+    },
+    {
+      "segment_id": "0072",
+      "source": "怕女儿受到伤害，老莫尼脑中的第一个想法就是让蕾娜赶紧离开。",
+      "target": "Sợ con gái bị tổn hại, ý nghĩ đầu tiên nảy ra trong đầu lão Moni là bảo Lena lập tức rời đi."
+    },
+    {
+      "segment_id": "0073",
+      "source": "然而，蕾娜却认真地摇了摇头。",
+      "target": "Tuy nhiên, Lena lại nghiêm túc lắc đầu."
+    },
+    {
+      "segment_id": "0074",
+      "source": "老莫尼着急：“听话，现在不是逞能的时候，爸爸不会有事的，别担心我，你保护好自己，赶紧离开这里最重要。”",
+      "target": "Lão Moni sốt ruột: “Nghe lời cha, bây giờ không phải lúc cậy mạnh đâu. Cha sẽ không sao đâu, đừng lo cho cha. Con tự bảo vệ mình và mau chóng rời khỏi đây mới là quan trọng nhất.”"
+    },
+    {
+      "segment_id": "0075",
+      "source": "蕾娜伸出手指轻轻按住老莫尼的嘴唇，悄声道：“父亲，您放心吧！”",
+      "target": "Lena đặt ngón tay nhẹ nhàng chặn lên môi lão Moni, khẽ nói: “Cha, cha cứ yên tâm đi!”"
+    },
+    {
+      "segment_id": "0076",
+      "source": "“还没来得及告诉您……其实，我已经跟以前不一样了。”",
+      "target": "“Con còn chưa kịp nói với cha... Thực ra, bây giờ con đã khác xưa rồi.”"
+    },
+    {
+      "segment_id": "0077",
+      "source": "“这些血牙帮的坏家伙，这回算是撞枪口了！”",
+      "target": "“Những kẻ xấu xa của băng Bloodfang này, lần này đúng là đụng trúng họng súng rồi!”"
+    },
+    {
+      "segment_id": "0078",
+      "source": "“您就等着吧，看我怎么好好教训他们一顿。”",
+      "target": "“Cha cứ chờ xem con dạy dỗ bọn chúng một trận ra trò thế nào nhé.”"
+    },
+    {
+      "segment_id": "0079",
+      "source": "说完，蕾娜缓缓吐了口气，在老莫尼紧张的注视中，身形渐渐变得透明！",
+      "target": "Nói xong, Lena chậm rãi thở ra một hơi. Dưới ánh mắt căng thẳng của lão Moni, thân hình cô dần dần trở nên trong suốt!"
+    },
+    {
+      "segment_id": "0080",
+      "source": "【潜行】，启动！",
+      "target": "【Tiềm Hành】, kích hoạt!"
+    },
+    {
+      "segment_id": "0081",
+      "source": "……",
+      "target": "……"
+    },
+    {
+      "segment_id": "0082",
+      "source": "感谢揉揉E透出的1张月票。感谢投出推荐票的书友。每天18:00准时投放更新，适合晚饭当电子榨菜使用，求追读！蟹蟹！",
+      "target": "Cảm ơn Rou Rou E đã bỏ phiếu tháng. Cảm ơn các bạn đọc đã bỏ phiếu đề cử. Mỗi ngày đúng 18:00 sẽ cập nhật chương mới, rất thích hợp dùng làm dưa muối điện tử khi ăn tối, mong các bạn theo dõi chương mới! Cảm ơn nhiều!"
+    },
+    {
+      "segment_id": "0083",
+      "source": "PS：建了个企鹅群，723715046",
+      "target": "PS: Đã lập một nhóm QQ, 723715046"
+    }
+  ]
+}

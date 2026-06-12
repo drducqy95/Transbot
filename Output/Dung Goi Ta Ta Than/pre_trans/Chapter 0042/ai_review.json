@@ -1,0 +1,38 @@
+Based on the context found in the Chapter 42 source file [source.md](file:///mnt/sdcard/My%20Agent/Transbot/Output/Dung%20Goi%20Ta%20Ta%20Than/pre_trans/Chapter%200042/source.md#L3), here is the review of the scanned terms from [glossary_scan.json](file:///mnt/sdcard/My%20Agent/Transbot/Output/Dung%20Goi%20Ta%20Ta%20Than/pre_trans/Chapter%200042/glossary_scan.json):
+
+```json
+{
+  "approved": [
+    {
+      "source": "潜行",
+      "translation": "Tiềm hành",
+      "type": "term",
+      "notes": "Kỹ năng ẩn nấp/lẻn đi (Stealth), thuật ngữ phổ biến cho các chức nghiệp hệ sát thủ/đạo tặc."
+    }
+  ],
+  "rejected": [
+    {
+      "source": "任务冷却还没",
+      "reason": "Mảnh vụn từ câu '任务冷却还没有结束' (thời gian hồi chiêu/giãn cách nhiệm vụ vẫn chưa kết thúc)."
+    },
+    {
+      "source": "，启动！\n…",
+      "reason": "Mảnh dấu câu kèm thán từ/động từ khởi động, không phải danh từ/thuật ngữ độc lập."
+    }
+  ],
+  "uncertain": [
+    {
+      "source": "吾主的真理普",
+      "suggestion": "吾主的真理普照大地",
+      "translation": "Chân lý của Chúa ta lan tỏa khắp đất",
+      "reason": "Bị cắt cụt từ tên nhiệm vụ tuần hoàn '吾主的真理普照大地'. Cần sửa lại đầy đủ trước khi duyệt."
+    }
+  ]
+}
+```
+
+### Summary of Work Done
+1. Analyzed the scanned terms for Chapter 42 against the source context and project glossary.
+2. Filtered out grammatical/punctuation fragments (`任务冷却还没` and `，启动！\n…`).
+3. Identified the truncated quest name `吾主的真理普` and linked it to the previously translated quest `吾主的真理普照大地` ("Chân lý của Chúa ta lan tỏa khắp đất").
+4. Saved the results to [ai_review.json](file:///mnt/sdcard/My%20Agent/Transbot/Output/Dung%20Goi%20Ta%20Ta%20Than/pre_trans/Chapter%200042/ai_review.json) to update the pipeline.

@@ -383,3 +383,8 @@ Chapter 40 completed via pipeline.
 
 ### Summary
 Chapter 41 completed via pipeline.
+
+## Chapter 0042 - Chương 42: Đụng trúng họng súng rồi
+
+### Summary
+Chapter 42 completed via pipeline.
