@@ -5,3 +5,4 @@
 - 2026-06-12 14:53 | Chapter 5 | completed | Chương 0005 - Chương 5 Đạo quả chi khí.md
 - 2026-06-12 15:03 | Chapter 6 | completed | Chương 0006 - Chương 6 Ta còn chưa dùng lực, ngươi đã ngã xuống rồi.md
 - 2026-06-12 15:48 | Chapter 1 | completed | Chương 0001 - Chương 1 Đạo Quả.md
+- 2026-06-12 16:04 | Chapter 2 | completed | Chương 0002 - Chương 2 Nhân Quả Tập.md

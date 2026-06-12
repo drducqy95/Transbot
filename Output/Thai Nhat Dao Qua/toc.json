@@ -23,5 +23,10 @@
     "chapter_number": 1,
     "title": "Chương 1: Đạo Quả",
     "relative_path": "output/Chương 0001 - Chương 1 Đạo Quả.md"
+  },
+  {
+    "chapter_number": 2,
+    "title": "Chương 2: Nhân Quả Tập",
+    "relative_path": "output/Chương 0002 - Chương 2 Nhân Quả Tập.md"
   }
 ]
