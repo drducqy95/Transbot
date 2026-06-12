@@ -1,0 +1,37 @@
+Here are the corrected segments to fix the `cjk_leftover` issues (such as literal translation of slang like "não bổ", "ma le" or raw sino-vietnamese phrases like "câu thông", "từ mặt bên"):
+
+```json
+[
+  {
+    "segment_id": "3",
+    "source": "其中，隐蔽系数最高、最不容易发现的那个选项，培特一看地点的相关描述，人直接麻了。",
+    "target": "Trong đó, lựa chọn có hệ số che giấu cao nhất, khó bị phát hiện nhất, Pete vừa nhìn thấy mô tả liên quan của địa điểm thì trực tiếp cạn lời."
+  },
+  {
+    "segment_id": "27",
+    "source": "培特脑补了下藏在那里的场面。",
+    "target": "Pete thử tưởng tượng cảnh tượng trốn ở đó."
+  },
+  {
+    "segment_id": "38",
+    "source": "“能在圣教军的眼皮底下搞出祭祀仪式来，也算侧面证明了这点。”",
+    "target": "“Có thể làm ra nghi thức tế tự ngay dưới mí mắt thánh giáo quân, cũng coi như gián tiếp chứng minh điều này.”"
+  },
+  {
+    "segment_id": "69",
+    "source": "“我也不懂，估计是沟通邪神用的吧？”",
+    "target": "“Tôi cũng không hiểu, chắc là dùng để giao tiếp với tà thần nhỉ?”"
+  },
+  {
+    "segment_id": "70",
+    "source": "“为什么他们想跟自己信仰的神明沟通还那么费劲，还得借助祭坛？”",
+    "target": "“Tại sao bọn họ muốn giao tiếp với thần minh mình tín ngưỡng mà lại tốn sức như vậy, còn phải nhờ đến tế đàn?”"
+  }
+]
+```
+
+**Changes made:**
+- **Segment 3:** `麻了` was literally translated as `tê dại`, which is a CJK slang leftover (meaning dumbfounded/numbed). It is better translated into `cạn lời` or `chết lặng` in this context.
+- **Segment 27:** `脑补` was translated as `tự bổ não`, which is a Chinese web slang leftover. It has been corrected to `thử tưởng tượng` (to imagine).
+- **Segment 38:** `侧面证明` was literally translated as `chứng minh điều này từ mặt bên`. Changed to the more natural Vietnamese phrasing `gián tiếp chứng minh`.
+- **Segments 69 & 70:** `沟通` was translated using the Sino-Vietnamese word `câu thông`, which is somewhat archaic/unnatural in modern Vietnamese conversations. Replaced with `giao tiếp`.

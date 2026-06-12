@@ -448,3 +448,8 @@ Chapter 53 completed via pipeline.
 
 ### Summary
 Chapter 54 completed via pipeline.
+
+## Chapter 0055 - Chương 55: Tế đàn tà thần? Có thể phá không?
+
+### Summary
+Chapter 55 completed via pipeline.
