@@ -3,3 +3,4 @@
 - 2026-06-11 21:54 | Chapter 3 | completed | Chương 0003 - Chương 3 Dị mộng.md
 - 2026-06-11 21:57 | Chapter 4 | completed | Chương 0004 - Chương 4 Yêu Đao Bành Hải.md
 - 2026-06-12 11:12 | Chapter 1 | completed | Chương 0001 - Chương 1 Nghĩa địa pháp bảo.md
+- 2026-06-12 11:44 | Chapter 2 | completed | Chương 0002 - 0002 光幕仪.md
