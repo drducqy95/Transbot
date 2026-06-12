@@ -6,3 +6,4 @@
 - 2026-06-12 13:58 | Chapter 6 | completed | Chương 0006 - Chương 6 Bất ngờ.md
 - 2026-06-12 14:25 | Chapter 7 | completed | Chương 0007 - Chương 7 Tát Mãn Vu.md
 - 2026-06-12 14:44 | Chapter 8 | completed | Chương 0008 - Chương 8 Kiến bám.md
+- 2026-06-12 14:57 | Chapter 9 | completed | Chương 0009 - Chương 9 Hỏa công.md

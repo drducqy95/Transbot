@@ -109,11 +109,11 @@
           "title": "Huyền ảo"
         }
       ],
-      "completed_chapters": 9,
+      "completed_chapters": 10,
       "total_chapters": 852,
-      "latest_chapter": "Chương 8: Kiến bám",
+      "latest_chapter": "Chương 9: Hỏa công",
       "detail": "Tiến độ: 6/852 chương | Mới nhất: Chương 6: Bất ngờ",
-      "updated_at": "2026-06-12T14:44:19+07:00",
+      "updated_at": "2026-06-12T14:57:43+07:00",
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Chu Than Quat Khoi/README.md",
       "toc_path": "Output/Chu Than Quat Khoi/toc.json"
@@ -971,7 +971,7 @@
     }
   ],
   "metadata": {
-    "generated_at": "2026-06-12T14:57:10+07:00",
+    "generated_at": "2026-06-12T14:57:43+07:00",
     "total_books": 17,
     "source": "Dichtrung/Output"
   },
