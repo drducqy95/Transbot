@@ -1,0 +1,415 @@
+Dưới đây là phần dịch đã được sửa lỗi `cjk_leftover` (thay thế các dấu ngoặc vuông kiểu Trung Quốc `【` và `】` bằng ngoặc vuông tiêu chuẩn `[` và `]` ở segment `0002`):
+
+```json
+{
+  "chapter_number": 37,
+  "chapter_title_vi": "Chương 37: Cách dùng mới của Điểm Tri Thức",
+  "segments": [
+    {
+      "segment_id": "0001",
+      "source": "第二天，当另一位工友带着一副“这个秘密我只告诉你”的表情凑过来询问布兰登是否有时间，他想介绍一位伟大的神明的时候，布兰登差点没绷住。",
+      "target": "Ngày hôm sau, khi một người bạn làm cùng khác ghé sát lại với vẻ mặt “bí mật này tôi chỉ nói cho mình cậu biết thôi” hỏi xem Brandon có rảnh không để giới thiệu một vị thần minh vĩ đại, Brandon suýt chút nữa đã không nhịn nổi cười."
+    },
+    {
+      "segment_id": "0002",
+      "source": "【吾主的真理普照大地】可以重复完成，但一定时间内存在次数上限。",
+      "target": "[Chân lý của Chúa ta soi sáng đại địa] có thể hoàn thành lặp lại, nhưng trong một khoảng thời gian nhất định sẽ có giới hạn số lần."
+    },
+    {
+      "segment_id": "0003",
+      "source": "每人每周只能获得1次这个任务的奖励。",
+      "target": "Mỗi người mỗi tuần chỉ có thể nhận được phần thưởng của nhiệm vụ này một lần."
+    },
+    {
+      "segment_id": "0004",
+      "source": "布兰登原本计划的好好的，滚滚螺栓工坊跟他关系不错的工友，都是他的潜在刷奖励对象，按照1周一个的频率，少说他也能刷到几十知识点数。",
+      "target": "Brandon vốn đã lên kế hoạch rất tốt, những người bạn làm cùng có quan hệ tốt với hắn ở Xưởng Bu-lông Lăn Tròn đều là những đối tượng tiềm năng để cày phần thưởng, tính theo tần suất mỗi tuần một người, ít nhất hắn cũng có thể cày được vài chục Điểm Tri Thức."
+    },
+    {
+      "segment_id": "0005",
+      "source": "这下好了！",
+      "target": "Giờ thì hay rồi!"
+    },
+    {
+      "segment_id": "0006",
+      "source": "传教传了一圈传回到自己身上！",
+      "target": "Truyền giáo đi một vòng lại truyền ngược về chính mình!"
+    },
+    {
+      "segment_id": "0007",
+      "source": "布兰登无奈地摇了摇头：“你想向我介绍求知之神诺文是吧，我已经是祂的信徒了。”",
+      "target": "Brandon bất đắc dĩ lắc đầu: “Cậu muốn giới thiệu Thần Tri Thức Norven cho tôi đúng không, tôi đã là tín đồ của Ngài rồi.”"
+    },
+    {
+      "segment_id": "0008",
+      "source": "不出意外的话，整个工坊都已经被传播信仰了。",
+      "target": "Nếu không có gì bất ngờ xảy ra thì cả xưởng đều đã được truyền bá tín ngưỡng rồi."
+    },
+    {
+      "segment_id": "0009",
+      "source": "布兰登的传教刷奖励计划刚刚开始就宣告结束。",
+      "target": "Kế hoạch truyền giáo cày phần thưởng của Brandon vừa mới bắt đầu đã tuyên bố kết thúc."
+    },
+    {
+      "segment_id": "0010",
+      "source": "他能想到靠着任务奖励去快速刷到知识点数，很显然，其他被传教的人在得到好处后也能想到这一点。",
+      "target": "Hắn có thể nghĩ đến việc dựa vào phần thưởng nhiệm vụ để nhanh chóng cày Điểm Tri Thức, thì hiển nhiên, những người khác sau khi được truyền giáo và nhận được lợi ích cũng có thể nghĩ tới điều này."
+    },
+    {
+      "segment_id": "0011",
+      "source": "而且诺文跟那些教会的布道传教还不一样。",
+      "target": "Hơn nữa cách truyền giáo của Norven không giống với việc thuyết giảng truyền giáo của các giáo hội khác."
+    },
+    {
+      "segment_id": "0012",
+      "source": "想成为其他神明的信徒，还得专门去对应教会ের仪式场所，跟着教士的指引一步步完成。",
+      "target": "Muốn trở thành tín đồ của những vị thần khác, còn phải đặc biệt tới địa điểm làm lễ của giáo hội tương ứng, từng bước hoàn thành dưới sự hướng dẫn của giáo sĩ."
+    },
+    {
+      "segment_id": "0013",
+      "source": "诺文这边，哪怕是在家里，在工坊，在酒馆都能完成传教！",
+      "target": "Còn ở chỗ Norven, ngay cả ở nhà, ở xưởng làm việc hay ở quán rượu đều có thể hoàn thành việc truyền giáo!"
+    },
+    {
+      "segment_id": "0014",
+      "source": "何况这些传教的对象，往往会有好友、家人之类的关系作为加成。",
+      "target": "Chưa kể những đối tượng truyền giáo này thường có thêm sự cộng hưởng từ các mối quan hệ như bạn bè, người thân."
+    },
+    {
+      "segment_id": "0015",
+      "source": "成功率比教会的布道要高得多。",
+      "target": "Tỷ lệ thành công cao hơn nhiều so với việc thuyết giảng của giáo hội."
+    },
+    {
+      "segment_id": "0016",
+      "source": "人传人现象是必然的。",
+      "target": "Hiện tượng người truyền người là điều tất yếu."
+    },
+    {
+      "segment_id": "0017",
+      "source": "布兰登打量了一番对方，奇怪地问道：",
+      "target": "Brandon quan sát đối phương một lượt rồi kỳ lạ hỏi:"
+    },
+    {
+      "segment_id": "0018",
+      "source": "“哎？对啊，我记得你以前说过不考虑做职业者，怎么，改主意了？”",
+      "target": "“Ơ? Đúng rồi, tôi nhớ trước đây cậu từng nói không cân nhắc làm Chức nghiệp giả mà, sao thế, đổi ý rồi à?”"
+    },
+    {
+      "segment_id": "0019",
+      "source": "这位试图向布兰登传教的工友，情况跟布兰登有所区别。",
+      "target": "Người bạn làm cùng đang cố gắng truyền giáo cho Brandon này có tình cảnh hơi khác biệt so với hắn."
+    },
+    {
+      "segment_id": "0020",
+      "source": "按照对方的说法，他并不打算成为职业者。",
+      "target": "Theo như lời của đối phương, anh ta vốn không định trở thành Chức nghiệp giả."
+    },
+    {
+      "segment_id": "0021",
+      "source": "原因就俩字：",
+      "target": "Nguyên nhân chỉ có hai chữ:"
+    },
+    {
+      "segment_id": "0022",
+      "source": "怕死。",
+      "target": "Sợ chết."
+    },
+    {
+      "segment_id": "0023",
+      "source": "虽然成为职业者会比普通人有更高的地位、更强的实力。",
+      "target": "Mặc dù trở thành Chức nghiệp giả sẽ có địa vị cao hơn, thực lực mạnh mẽ hơn so với người bình thường."
+    },
+    {
+      "segment_id": "0024",
+      "source": "但与之相对应的是：",
+      "target": "Nhưng tương ứng với nó chính là:"
+    },
+    {
+      "segment_id": "0025",
+      "source": "能力越大，责任越大。",
+      "target": "Năng lực càng lớn, trách nhiệm càng cao."
+    },
+    {
+      "segment_id": "0026",
+      "source": "普通人可以在安全的城市里日出而作、日落而息，打工、娶妻、生子，平淡而安全的度过一生。",
+      "target": "Người bình thường có thể sống ở những thành phố an toàn, ngày làm đêm nghỉ, đi làm, lấy vợ, sinh con, trải qua một đời bình lặng và an toàn."
+    },
+    {
+      "segment_id": "0027",
+      "source": "职业者则不同。",
+      "target": "Chức nghiệp giả thì khác."
+    },
+    {
+      "segment_id": "0028",
+      "source": "普兰蒂斯大陆并不安全。",
+      "target": "Lục địa Prantis không hề an toàn."
+    },
+    {
+      "segment_id": "0029",
+      "source": "或者说，其实只在有各个神明教派保护的城市范围内，才能算得上安全。",
+      "target": "Hay nói đúng hơn, thực ra chỉ trong phạm vi các thành phố được giáo phái của các vị thần bảo hộ mới có thể coi là an toàn."
+    },
+    {
+      "segment_id": "0030",
+      "source": "城市之外的荒野、森林、沼泽、地穴、沙漠、雪原，无不是危机四伏。",
+      "target": "Bên ngoài thành phố, từ hoang dã, rừng rậm, đầm lầy, hang động cho đến sa mạc, đồng tuyết, đâu đâu cũng rình rập hiểm họa khôn lường."
+    },
+    {
+      "segment_id": "0031",
+      "source": "各种各样的可怕魔物盘踞其中。",
+      "target": "Đủ loại ma vật đáng sợ cư ngụ trong đó."
+    },
+    {
+      "segment_id": "0032",
+      "source": "那里是它们的主场。",
+      "target": "Nơi đó là sân nhà của chúng."
+    },
+    {
+      "segment_id": "0033",
+      "source": "按照各大教会的说法，魔物是受到邪神气息影响而扭曲转化成的怪诞罪孽。",
+      "target": "Theo cách nói của các giáo hội lớn, ma vật là những tội nghiệt quái đản bị biến dạng và chuyển hóa dưới ảnh hưởng từ hơi thở của tà thần."
+    },
+    {
+      "segment_id": "0034",
+      "source": "它们混乱，它们疯狂。",
+      "target": "Chúng hỗn loạn, chúng điên cuồng."
+    },
+    {
+      "segment_id": "0035",
+      "source": "魔物们以毁灭秩序、摧毁文明为目标。",
+      "target": "Các ma vật lấy việc hủy diệt trật tự và tàn phá văn minh làm mục tiêu."
+    },
+    {
+      "segment_id": "0036",
+      "source": "每隔一段时间，就会有成批成批的魔物试图冲击各个文明种族聚集的城镇。",
+      "target": "Cứ cách một khoảng thời gian, sẽ có từng đàn ma vật cố gắng tấn công vào các thị trấn nơi các chủng tộc văn minh tụ hội."
+    },
+    {
+      "segment_id": "0037",
+      "source": "职业者想享受到高地位、高待遇，那就得离开城市的庇护，前去讨伐消灭魔物。",
+      "target": "Chức nghiệp giả muốn hưởng thụ địa vị cao cùng đãi ngộ tốt, thì phải rời khỏi sự che chở của thành phố, đi chinh phạt và tiêu diệt ma vật."
+    },
+    {
+      "segment_id": "0038",
+      "source": "战斗就可能会受伤，可能会死。",
+      "target": "Chiến đấu thì có thể bị thương, thậm chí có thể mất mạng."
+    },
+    {
+      "segment_id": "0039",
+      "source": "不是每个人都能接受这种风险与收益双高的道路，至少对于格林港下城区的大部分人来说是这样的。",
+      "target": "Không phải ai cũng chấp nhận được con đường có rủi ro cao và lợi ích cũng cao như thế này, ít nhất là đối với đa số người dân ở Khu Hạ Thành Green Port."
+    },
+    {
+      "segment_id": "0040",
+      "source": "虽然 they 经常嘴上说着将来成为职业者要如何如何，做出一番大事；",
+      "target": "Mặc dù họ thường hay nói miệng sau này trở thành Chức nghiệp giả sẽ ra sao, làm nên đại sự;"
+    },
+    {
+      "segment_id": "0041",
+      "source": "但是真要让他们将生死置之度外，拿命去换钱；",
+      "target": "nhưng nếu thực sự bắt họ phải đặt sinh tử sang một bên, dùng mạng sống để đổi lấy tiền tài;"
+    },
+    {
+      "segment_id": "0042",
+      "source": "九成九都不敢真的去做。",
+      "target": "chín mươi chín phần trăm đều không dám thực sự làm."
+    },
+    {
+      "segment_id": "0043",
+      "source": "布兰登的这位工友便是类似的情况。      对方根本不考虑什么成为职业者，就打算趁着年轻在格林港赚些钱，然后回雷亚克王国老家生活。",
+      "target": "Người bạn làm cùng này của Brandon cũng ở trong tình cảnh tương tự.      Đối phương hoàn toàn không cân nhắc gì đến việc trở thành Chức nghiệp giả, chỉ định nhân lúc còn trẻ kiếm chút tiền ở Green Port, sau đó trở về quê nhà ở Vương quốc Rayak sinh sống."
+    },
+    {
+      "segment_id": "0044",
+      "source": "工友得意地笑了。",
+      "target": "Người bạn làm cùng cười đắc ý."
+    },
+    {
+      "segment_id": "0045",
+      "source": "“嘿嘿，布兰登，你对求知之神的信仰还是不够坚定啊！”",
+      "target": "“Hì hì, Brandon, đức tin của cậu dành cho Thần Tri Thức vẫn chưa đủ kiên định đâu!”"
+    },
+    {
+      "segment_id": "0046",
+      "source": "“一看就知道，你对祂的了解太少了！”",
+      "target": "“Nhìn một cái là biết cậu hiểu quá ít về Ngài rồi!”"
+    },
+    {
+      "segment_id": "0047",
+      "source": "“谁说我不打算成为职业者，就不能信仰伟大的求知之神诺文了？”",
+      "target": "“Ai bảo tôi không định trở thành Chức nghiệp giả thì không thể tin tưởng Thần Tri Thức Norven vĩ đại cơ chứ?”"
+    },
+    {
+      "segment_id": "0048",
+      "source": "布兰登不明白：“求知之神赐予我的知识都是如何修行成为1阶战士，你又不打算离开城市去讨伐魔物，得到这些知识有什么用？”",
+      "target": "Brandon không hiểu: “Tri thức Thần Tri Thức ban cho tôi đều là về cách tu luyện để trở thành Chiến Sĩ cấp 1, cậu lại không định rời khỏi thành phố đi chinh phạt ma vật, có được những tri thức này thì có tác dụng gì?”"
+    },
+    {
+      "segment_id": "0049",
+      "source": "工友甩头晃脑道：",
+      "target": "Người bạn làm cùng lắc đầu đắc ý nói:"
+    },
+    {
+      "segment_id": "0050",
+      "source": "“错啦！错啦！”",
+      "target": "“Sai rồi! Sai rồi!”"
+    },
+    {
+      "segment_id": "0051",
+      "source": "“思维开阔一点，布兰登！”",
+      "target": "“Tư duy mở rộng ra chút đi, Brandon!”"
+    },
+    {
+      "segment_id": "0052",
+      "source": "“求知之神的力量是什么？”",
+      "target": "“Sức mạnh của Thần Tri Thức là gì?”"
+    },
+    {
+      "segment_id": "0053",
+      "source": "“祂会赐予信徒他们需要的信息和知识！”",
+      "target": "“Ngài sẽ ban cho tín đồ thông tin và tri thức mà họ cần!”"
+    },
+    {
+      "segment_id": "0054",
+      "source": "“谁告诉你过，这个知识就只能局限于职业者的修行了？”",
+      "target": "“Ai bảo với cậu là những tri thức này chỉ giới hạn trong việc tu luyện của Chức nghiệp giả?”"
+    },
+    {
+      "segment_id": "0055",
+      "source": "“昨天晚上我突发奇想，想试试看自己做顿晚餐，但是，你知道的，我这人完全不会烹饪。”",
+      "target": "“Tối qua tôi đột nhiên nảy ra ý nghĩ kỳ lạ, muốn thử tự mình nấu một bữa tối. Thế nhưng, cậu biết mà, tôi hoàn toàn không biết nấu nướng gì cả.”"
+    },
+    {
+      "segment_id": "0056",
+      "source": "这点布兰登是知道的。",
+      "target": "Điều này Brandon biết rất rõ."
+    },
+    {
+      "segment_id": "0057",
+      "source": "他曾经跟工友朋友们在格林港的海边搞过烧烤聚会，眼前这位烤出来的东西都不能算食物了，只能说是一坨坨的焦碳。",
+      "target": "Hắn từng cùng bạn bè đồng nghiệp tổ chức tiệc nướng ở bờ biển Green Port, thứ mà người trước mắt này nướng ra thậm chí không thể coi là thức ăn, chỉ có thể mô tả là những cục than cháy đen thui."
+    },
+    {
+      "segment_id": "0058",
+      "source": "在烹饪方面，对方似乎完全搞不明白“火候”到底是什么意思，水平上限大概也就是能把熏好的火腿切开的程度，再复杂的就是 his 能力范围之外了。",
+      "target": "Về mặt nấu nướng, đối phương dường như hoàn toàn không hiểu nổi khái niệm “canh lửa” rốt cuộc nghĩa là gì, giới hạn trình độ cao nhất của anh ta cùng lắm chỉ là thái lát thịt đùi xông khói đã làm sẵn, cái gì phức tạp hơn nữa đều nằm ngoài tầm khả năng."
+    },
+    {
+      "segment_id": "0059",
+      "source": "他平日里全靠下城区的各种食品摊贩解决吃饭问题。",
+      "target": "Ngày thường anh ta hoàn toàn dựa vào các quầy đồ ăn ở Khu Hạ Thành để giải quyết vấn đề ăn uống."
+    },
+    {
+      "segment_id": "0060",
+      "source": "“那个时候我就在想，既然向求知之神祈祷就能得到回应，那我为何不请教下神明，该怎么做才能弄出正常的食物？”",
+      "target": "“Lúc đó tôi liền nghĩ, đã cầu nguyện với Thần Tri Thức là sẽ nhận được phản hồi, vậy tại sao tôi không thỉnh giáo Thần minh xem làm thế nào mới nấu ra được đồ ăn bình thường chứ?”"
+    },
+    {
+      "segment_id": "0061",
+      "source": "“啊？”",
+      "target": "“Hả?”"
+    },
+    {
+      "segment_id": "0062",
+      "source": "布兰登蒙了。",
+      "target": "Brandon ngớ người."
+    },
+    {
+      "segment_id": "0063",
+      "source": "“结果求知之神真的回应了我！”",
+      "target": "“Kết quả là Thần Tri Thức thực sự đã phản hồi tôi!”"
+    },
+    {
+      "segment_id": "0064",
+      "source": "“我只用了1点知识点数，得到了一份完整的烹饪指南！”",
+      "target": "“Tôi chỉ tốn có 1 Điểm Tri Thức là đã có được một bản hướng dẫn nấu ăn hoàn chỉnh!”"
+    },
+    {
+      "segment_id": "0065",
+      "source": "“最重要的是，这份烹饪指南不像我在市面上买的那种，在我照着指南一步步进行的时候，我还能随时收到提醒，告诉我这个步骤完成了多少！”",
+      "target": "“Quan trọng nhất là, bản hướng dẫn nấu ăn này không giống như mấy thứ bán ngoài thị trường. Khi tôi làm theo từng bước trong hướng dẫn, tôi còn có thể nhận được thông báo bất cứ lúc nào cho biết bước này đã hoàn thành được bao nhiêu phần trăm!”"
+    },
+    {
+      "segment_id": "0066",
+      "source": "“我只要在刚好达到100%进度的时候，转而进行下个步骤就好！”",
+      "target": "“Tôi chỉ cần đợi tiến độ vừa vặn đạt 100% là chuyển sang bước tiếp theo là được!”"
+    },
+    {
+      "segment_id": "0067",
+      "source": "“只用了一次尝试，我就亲手做出了自己人生中第一顿正常而且美味的晚餐！”",
+      "target": "“Chỉ qua một lần thử sức, tôi đã tự tay nấu được bữa tối bình thường và ngon lành đầu tiên trong cuộc đời mình!”"
+    },
+    {
+      "segment_id": "0068",
+      "source": "“其他神明能做到这些吗？”",
+      "target": "“Các vị thần khác có làm được như vậy không?”"
+    },
+    {
+      "segment_id": "0069",
+      "source": "听了工友的介绍，布兰登感觉新世界大门被打开了！",
+      "target": "Nghe người bạn làm cùng giới thiệu xong, Brandon cảm thấy như một cánh cửa thế giới mới vừa được mở ra trước mắt!"
+    },
+    {
+      "segment_id": "0070",
+      "source": "他明白为什么求知之神的信仰传播的如此之快，不到一天时间便能扩散开来。",
+      "target": "Hắn đã hiểu tại sao tín ngưỡng Thần Tri Thức lại truyền bá nhanh chóng như vậy, chưa đầy một ngày đã có thể lan rộng ra."
+    },
+    {
+      "segment_id": "0071",
+      "source": "他只想到了可以向诺文祈祷，换取到有关成为职业者的知识。",
+      "target": "Hắn trước đây chỉ nghĩ đến việc có thể cầu nguyện với Norven để đổi lấy tri thức liên quan đến việc trở thành Chức nghiệp giả."
+    },
+    {
+      "segment_id": "0072",
+      "source": "那个时候的布兰登只是觉得，求知之神的存在对于想要成为职业者的人是一位非常伟大的神明，祂让成为职业者的门槛巨幅降低。",
+      "target": "Khi đó, Brandon chỉ cảm thấy sự tồn tại của Thần Tri Thức đối với những ai muốn trở thành Chức nghiệp giả là một vị Thần minh vô cùng vĩ đại, Ngài giúp ngưỡng cửa trở thành Chức nghiệp giả hạ thấp đi rất nhiều."
+    },
+    {
+      "segment_id": "0073",
+      "source": "可是工友的操作却开发出了知识点数的另一个用法。",
+      "target": "Nhưng thao tác của người bạn làm cùng này lại khai phá ra một cách dùng khác của Điểm Tri Thức."
+    },
+    {
+      "segment_id": "0074",
+      "source": "生活用途！",
+      "target": "Ứng dụng vào đời sống!"
+    },
+    {
+      "segment_id": "0075",
+      "source": "这才是求知之神信仰快速传播的核心原因！",
+      "target": "Đây mới chính là nguyên nhân cốt lõi giúp tín ngưỡng Thần Tri Thức truyền bá nhanh chóng!"
+    },
+    {
+      "segment_id": "0076",
+      "source": "格林港下城区的很多人并不打算成为职业者。",
+      "target": "Rất nhiều người ở Khu Hạ Thành Green Port không hề có ý định trở thành Chức nghiệp giả."
+    },
+    {
+      "segment_id": "0077",
+      "source": "如果诺文只能提供职业修行相关的知识和指引的话，那么他的吸引力绝对比不上纳瓦尔（辉光之神）。",
+      "target": "Nếu Norven chỉ có thể cung cấp tri thức và sự chỉ dẫn liên quan đến tu luyện chức nghiệp, thì sức hút của Ngài tuyệt đối không thể sánh bằng Navarre (Thần Huy Quang)."
+    },
+    {
+      "segment_id": "0078",
+      "source": "纳瓦尔不会单独回应信徒的祈祷，但人家给的赐福：让人身体强健，抵御魔物气息的效果是实打实对普通人有用的。",
+      "target": "Navarre tuy không phản hồi riêng lẻ lời cầu nguyện của từng tín đồ, nhưng sự ban phước của Ngài giúp cơ thể tráng kiện, chống lại luồng khí tức của ma vật lại là thứ thực sự có ích cho người bình thường."
+    },
+    {
+      "segment_id": "0079",
+      "source": "如果信仰求知之神也能在普通人的生活中起到作用。",
+      "target": "Nếu như tín ngưỡng Thần Tri Thức cũng có thể phát huy tác dụng trong cuộc sống của người bình thường,"
+    },
+    {
+      "segment_id": "0080",
+      "source": "这吸引力可就不一样了！",
+      "target": "thì sức hấp dẫn này đã hoàn toàn khác biệt rồi!"
+    },
+    {
+      "segment_id": "0081",
+      "source": "……",
+      "target": "……"
+    }
+  ]
+}
+```

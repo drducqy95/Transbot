@@ -1,0 +1,27 @@
+Here is the review of the requested translation terms based on the context of the novel and the translation history of the previous chapters:
+
+```json
+{
+  "approved": [
+    {
+      "term": "可以重复完成",
+      "vietnamese": "có thể lặp lại / có thể hoàn thành lặp lại",
+      "note": "Refers to a repeatable task/quest in the game system, e.g., 'nhiệm vụ có thể lặp lại'."
+    }
+  ],
+  "rejected": [],
+  "uncertain": [
+    {
+      "term": "吾主的真理普",
+      "note": "This is a truncated/incomplete term from the recurring quest '吾主的真理普照大地'. It should be corrected to the full term '吾主的真理普照大地' and translated as 'Chân lý của Chúa ta lan tỏa khắp đất'."
+    }
+  ]
+}
+```
+
+### Summary of Work
+1. **Term Investigation**: Checked the source files and previous translations.
+2. **Context Verification**:
+   - `可以重复完成` is a valid system attribute for repeatable quests.
+   - `吾主的真理普` is confirmed as a truncated part of the quest name `吾主的真理普照大地`, which was translated as *Chân lý của Chúa ta lan tỏa khắp đất* in [Chapter 0018 translated_segments.json](file:///mnt/sdcard/My%20Agent/Transbot/Output/Dung%20Goi%20Ta%20Ta%20Than/translate_result/Chapter%200018/translated_segments.json#L81-L84).
+3. **Glossary Alignment**: Referenced [Chapter 0037 glossary_scan.json](file:///mnt/sdcard/My%20Agent/Transbot/Output/Dung%20Goi%20Ta%20Ta%20Than/pre_trans/Chapter%200037/glossary_scan.json) to ensure the terms map back to the correct source file segments.

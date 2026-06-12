@@ -171,3 +171,4 @@ Audit: pass
 - 2026-06-12 00:36 | Chapter 34 | completed | Chương 0034 - Chương 34 Những hạt giống đầu tiên.md
 - 2026-06-12 02:16 | Chapter 35 | completed | Chương 0035 - Chương 35 Xưởng Bu-lông Lăn Tròn.md
 - 2026-06-12 07:41 | Chapter 36 | completed | Chương 0036 - Chương 36 Cậu biết mà, tôi kín miệng lắm.md
+- 2026-06-12 07:48 | Chapter 37 | completed | Chương 0037 - Chương 37 Cách dùng mới của Điểm Tri Thức.md

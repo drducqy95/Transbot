@@ -160,11 +160,6 @@
     "relative_path": "output/Chương 0032 - Người Rayak không lừa người Rayak.md"
   },
   {
-    "chapter_number": 37,
-    "title": "Chương 37: Cách dùng mới của Điểm Tri Thức",
-    "relative_path": "output/Chương 0037 - Chương 37 Cách dùng mới của Điểm Tri Thức.md"
-  },
-  {
     "chapter_number": 33,
     "title": "Chương 33: Lộ trình Chiến Sĩ",
     "relative_path": "output/Chương 0033 - Chương 33 Lộ trình Chiến Sĩ.md"
@@ -183,5 +178,10 @@
     "chapter_number": 36,
     "title": "Chương 36: Cậu biết mà, tôi kín miệng lắm",
     "relative_path": "output/Chương 0036 - Chương 36 Cậu biết mà, tôi kín miệng lắm.md"
+  },
+  {
+    "chapter_number": 37,
+    "title": "Chương 37: Cách dùng mới của Điểm Tri Thức",
+    "relative_path": "output/Chương 0037 - Chương 37 Cách dùng mới của Điểm Tri Thức.md"
   }
 ]
