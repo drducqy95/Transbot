@@ -12,7 +12,7 @@
       "status": "in_progress",
       "status_label": "Đang ra",
       "ongoing": true,
-      "completed_chapters": 10,
+      "completed_chapters": 11,
       "total_chapters": 1602,
       "latest_chapter": "Chương 10: Kỵ sĩ! Võ tăng!",
       "genre": "eastern_fiction",
@@ -63,7 +63,7 @@
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Chu Than Dai Dao/README.md",
       "toc_path": "Output/Chu Than Dai Dao/toc.json",
-      "updated_at": "2026-06-12T17:00:03.916771+07:00"
+      "updated_at": "2026-06-12T17:55:53+07:00"
     },
     {
       "branch": "Chu Than Quat Khoi",
@@ -971,7 +971,7 @@
     }
   ],
   "metadata": {
-    "generated_at": "2026-06-12T17:54:33+07:00",
+    "generated_at": "2026-06-12T17:55:53+07:00",
     "total_books": 17,
     "source": "Dichtrung/Output"
   },

@@ -63,3 +63,8 @@ Chapter 10 completed via pipeline.
 
 ### Summary
 Chapter 10 completed via pipeline.
+
+## Chapter 0010 - Chương 10: Kỵ sĩ! Võ tăng!
+
+### Summary
+Chapter 10 completed via pipeline.

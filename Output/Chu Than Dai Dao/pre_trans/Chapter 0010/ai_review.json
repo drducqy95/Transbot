@@ -1,7 +1,8 @@
-I will list the files in the workspace directory to understand the project structure and context for the translations.
-I will search the repository for mentions of glossary, names, terms, or approval mechanisms to understand how translation validation works in this codebase.
-I will view the contents of the `README.md` to see if there is any general description of the project or instructions.
-I will list the files in the `Script` directory to find execution scripts.
-I will list the files in the `Global State` directory.
-I will list the files in the `Source` directory.
-I will list the files in the `$TRANS_DIR` directory to see if there is any translation project configuration.
+{
+  "names": {},
+  "terms": {
+    "世界的开端可": "rejected",
+    "世界，他不想": "rejected",
+    "阳神": "approved"
+  }
+}

@@ -11,3 +11,4 @@
 - 2026-06-12 15:52 | Chapter 9 | completed | Chương 0009 - Chương 9 Khảo nghiệm.md
 - 2026-06-12 16:07 | Chapter 10 | completed | Chương 0010 - Chương 10 Kỵ sĩ! Võ tăng!.md
 - 2026-06-12 16:49 | Chapter 10 | completed | Chương 0010 - Chương 10 Kỵ sĩ! Võ tăng!.md
+- 2026-06-12 17:55 | Chapter 10 | completed | Chương 0010 - Chương 10 Kỵ sĩ! Võ tăng!.md
