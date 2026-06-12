@@ -196,11 +196,11 @@
           "title": "Đông phương"
         }
       ],
-      "completed_chapters": 52,
+      "completed_chapters": 54,
       "total_chapters": 968,
-      "latest_chapter": "Chương 52: Evan: Tay sai của ta đâu?",
+      "latest_chapter": "Chương 53: Ý nghĩa đích thực trong giáo lý của Thần Cầu Tri",
       "detail": "Tiến độ: 52/968 chương | Mới nhất: Chương 52: Evan: Tay sai của ta đâu?",
-      "updated_at": "2026-06-12T11:00:13.235770+07:00",
+      "updated_at": "2026-06-12T11:48:28+07:00",
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Dung Goi Ta Ta Than/README.md",
       "toc_path": "Output/Dung Goi Ta Ta Than/toc.json"
@@ -971,7 +971,7 @@
     }
   ],
   "metadata": {
-    "generated_at": "2026-06-12T11:44:05+07:00",
+    "generated_at": "2026-06-12T11:48:28+07:00",
     "total_books": 17,
     "source": "Dichtrung/Output"
   },
