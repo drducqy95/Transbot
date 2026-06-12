@@ -5,3 +5,4 @@
 - 2026-06-12 07:18 | Chapter 3 | completed | Chương 0003 - Chương 3 Khai thiên lập địa, tiểu thiên thế giới.md
 - 2026-06-12 10:57 | Chapter 4 | completed | Chương 0004 - Chương 4 Nghề nghiệp truyền kỳ cũng phải xem hoàn cảnh chứ.md
 - 2026-06-12 14:24 | Chapter 5 | completed | Chương 0005 - Chương 5 Mọi thứ đã sẵn sàng, chỉ chờ phong thần.md
+- 2026-06-12 14:42 | Chapter 6 | completed | Chương 0006 - Chương 6 Thần Văn học Deneir.md

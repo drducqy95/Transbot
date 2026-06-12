@@ -1,0 +1,148 @@
+```json
+{
+  "chapter_number": 6,
+  "chapter_title_vi": "Chương 6: Thần Văn học Deneir",
+  "segments": [
+    {
+      "segment_id": "0001",
+      "source": "# 第6章 文学之神迪奈尔（De",
+      "target": "# Chương 6: Thần Văn học Deneir"
+    },
+    {
+      "segment_id": "0002",
+      "source": "“封神？”赵奇轻哼的一声，说道封神，世人首先想到的就是那位姓姜名尚字子牙的家伙。九十多岁才出山，只得一生富贵，而不得仙缘的悲催家伙。",
+      "target": "\"Phong thần sao?\" Triệu Kỳ hừ nhẹ một tiếng. Nhắc đến phong thần, người đời nghĩ đến đầu tiên chính là cái gã họ Khương tên Thượng tự Tử Nha kia. Chín mươi mấy tuổi mới rời núi, chỉ được vinh hoa phú quý một đời chứ không có được tiên duyên, đúng là một tên xui xẻo."
+    },
+    {
+      "segment_id": "0003",
+      "source": "“是啊，要不本尊你最近半个月又开辟了四个世界的话，我也不会想这事啊。”那位名为主神实际是赵奇分魂的家伙不由的诉苦起来。",
+      "target": "\"Đúng vậy, nếu không phải bản tôn ngươi trong nửa tháng qua lại khai mở thêm bốn thế giới nữa, ta cũng sẽ chẳng nghĩ đến chuyện này đâu.\" Kẻ mang danh là Chủ Thần nhưng thực chất lại là phân hồn của Triệu Kỳ không kìm được mà lên tiếng than vãn."
+    },
+    {
+      "segment_id": "0004",
+      "source": "说了也是赵奇理亏，毕竟当时给主神的任务只是运转一个虚拟世界的规则罢了，结果赵奇因为神力匮乏，又连开两个虚拟世界，直接让祂的工作量加大了三倍，差点没让主神当场爆魂！",
+      "target": "Nói ra thì cũng là Triệu Kỳ đuối lý. Dù sao lúc đầu nhiệm vụ giao cho Chủ Thần chỉ là vận hành quy tắc của một thế giới ảo mà thôi, kết quả Triệu Kỳ bởi vì thiếu hụt thần lực nên lại liên tiếp khai mở thêm hai thế giới ảo nữa, trực tiếp khiến khối lượng công việc của Chủ Thần tăng lên gấp ba lần, suýt chút nữa đã làm Chủ Thần bạo hồn ngay tại chỗ!"
+    },
+    {
+      "segment_id": "0005",
+      "source": "之后赵奇因为练武的需要，又想开辟一个阳神类的世界，如果不是主神拼死拉着的话，估计主神早就不知死哪去了！就算是这样赵奇也开辟了一个大禅寺副本世界，为了让减轻主神的压力，也为了副本更加真实，赵奇足足投进了16点神力！要知道开辟一个虚拟世界赵奇也不过花费3到4点神力罢了。",
+      "target": "Sau đó Triệu Kỳ vì nhu cầu luyện võ, lại muốn khai mở một thế giới thuộc thể loại Dương Thần. Nếu không phải Chủ Thần liều mạng ngăn cản, phỏng chừng Chủ Thần đã chết ở xó xỉnh nào từ lâu rồi! Cho dù là vậy, Triệu Kỳ cũng đã khai mở một phó bản thế giới Đại Thiền Tự. Để giảm bớt áp lực cho Chủ Thần, cũng để phó bản trở nên chân thực hơn, Triệu Kỳ đã đổ vào trọn vẹn 16 điểm thần lực! Phải biết rằng, khai mở một thế giới ảo Triệu Kỳ cũng chỉ tiêu tốn 3 đến 4 điểm thần lực mà thôi."
+    },
+    {
+      "segment_id": "0006",
+      "source": "不过付出和收获都是成正比的，就那一个小副本，每天运转下来，反馈给赵奇的神力就跟那三个虚拟世界持平了！正是发现了这一点，兴奋的赵奇又开辟另一个副本世界，这一次他干了一票大的，直接用了30的神力！结果连屁都没有，因为赵奇发现他的创造神格只能接受四个世界反馈的神力，再多的话那只能浪费！想提高接受的上限，那只有等创造神格等级提高之后再说了。这真是一个悲伤的故事……",
+      "target": "Có điều sự bỏ ra và thu hoạch luôn tỷ lệ thuận với nhau. Chỉ riêng cái phó bản nhỏ kia, mỗi ngày vận hành xong, lượng thần lực phản hồi lại cho Triệu Kỳ đã ngang bằng với ba thế giới ảo kia! Chính vì phát hiện ra điểm này, Triệu Kỳ trong cơn hưng phấn lại khai mở một phó bản thế giới khác. Lần này hắn chơi lớn, trực tiếp dùng luôn 30 điểm thần lực! Kết quả đến cái rắm cũng không có, bởi vì Triệu Kỳ phát hiện ra Thần cách Sáng tạo của hắn chỉ có thể tiếp nhận thần lực phản hồi từ bốn thế giới, nhiều hơn nữa thì chỉ có lãng phí! Muốn nâng cao giới hạn tiếp nhận, vậy chỉ có thể đợi sau khi cấp bậc của Thần cách Sáng tạo tăng lên rồi mới nói tiếp được. Đây đúng là một câu chuyện buồn..."
+    },
+    {
+      "segment_id": "0007",
+      "source": "“主尊，你听我在说吗？”“知道了，知道了。”赵奇摆了摆手，“那你要封多少神啊，可千万不要有什么三百六十五位周天正神，八万四千位星煞副神之类的。真要那样的话，就我这点神力可经不起消耗。”",
+      "target": "\"Chủ tôn, ngươi có đang nghe ta nói không vậy?\" \"Biết rồi, biết rồi.\" Triệu Kỳ phẩy tay, \"Vậy ngươi muốn phong bao nhiêu vị thần đây? Ngàn vạn lần đừng có kiểu ba trăm sáu mươi lăm vị Chu Thiên Chính Thần, tám vạn bốn ngàn vị Tinh Sát Phó Thần gì gì đó. Nếu thật sự làm vậy, chút thần lực này của ta làm sao chịu nổi mức tiêu hao đó.\""
+    },
+    {
+      "segment_id": "0008",
+      "source": "“我去，你还真敢开口。就算你敢发疯，可我到哪里找那么多人让你封啊。”听了赵奇的满嘴口胡，主神差点没从神座上蹦下来“我告诉你，我的想法是三位一体，创造，命运，毁灭三大至高主宰整个多元宇宙。只要这三神归位，我起码能减轻一半的压力。如果再能把地火风水，光明，黑暗，这六大基本要素都分封出去的话那就更好不过了。至于像什么战争，欲望这一类的人道神位，可封可不封，它们并不能影响我对世界的运转。“这样的话。我有打算了。”赵奇想了想，心中有的底稿。",
+      "target": "\"Vãi, ngươi cũng dám mở miệng thật đấy. Cho dù ngươi có dám phát điên, nhưng ta biết tìm đâu ra ngần ấy người cho ngươi phong thần đây.\" Nghe Triệu Kỳ nói năng bậy bạ, Chủ Thần suýt chút nữa nhảy dựng lên khỏi thần tọa: \"Ta nói cho ngươi biết, ý tưởng của ta là ba ngôi một thể, ba đấng tối cao Sáng Tạo, Vận Mệnh, Hủy Diệt sẽ chúa tể toàn bộ đa vũ trụ. Chỉ cần ba vị thần này quy vị, ta ít nhất có thể giảm bớt một nửa áp lực. Nếu có thể phân phong thêm Địa, Thủy, Hỏa, Phong cùng Quang Minh, Hắc Ám, sáu yếu tố cơ bản này ra ngoài thì không còn gì bằng. Còn về những nhân đạo thần vị như Chiến Tranh, Dục Vọng, phong hay không cũng được, chúng không hề ảnh hưởng đến việc vận hành thế giới của ta.\" \"Nếu vậy thì ta có dự tính rồi.\" Triệu Kỳ suy nghĩ một chút, trong lòng đã có sẵn bản nháp."
+    },
+    {
+      "segment_id": "0009",
+      "source": "“我开辟虚拟的多元宇宙，当之无愧的创造神。主神运转宇宙，编织众生命运因果，堪为命运主神。就是毁灭神有些难度，总不能我再分出一个分魂吧，那不得要我老命了。毁灭神毁灭世界，清洗多元罪孽，乃是不能缺少的存在，可他必须自身清醒无比，最好是有完备三观价值，否则万一他发起疯来，那我的损失不就大了去了。不行不行，得找个稳妥点的。”",
+      "target": "\"Ta khai mở đa vũ trụ ảo, xứng đáng là Sáng Tạo Thần. Chủ Thần vận hành vũ trụ, dệt nên nhân quả vận mệnh của chúng sinh, đủ tư cách làm Vận Mệnh Chủ Thần. Chỉ là Hủy Diệt Thần thì có hơi khó, không thể nào ta lại phân ra một phân hồn nữa, như thế chẳng phải muốn lấy cái mạng già của ta sao. Hủy Diệt Thần hủy diệt thế giới, thanh tẩy tội nghiệt của đa vũ trụ, chính là một tồn tại không thể thiếu, nhưng hắn bắt buộc phải giữ cho bản thân cực kỳ tỉnh táo, tốt nhất là có hệ thống giá trị tam quan hoàn chỉnh, nếu không nhỡ đâu hắn phát điên lên, tổn thất của ta chẳng phải sẽ rất lớn sao. Không được không được, phải tìm người nào đó ổn thỏa một chút mới được.\""
+    },
+    {
+      "segment_id": "0010",
+      "source": "赵奇心思百转，突然想到什么“不过如果是那位的话，应该可以吧。”赵奇想了想，一伸手便撕开神殿里的空间，一个纵身越进了空间之中，“我去去就来，主神你先等会儿…………”",
+      "target": "Đầu óc Triệu Kỳ xoay chuyển cực nhanh, đột nhiên nghĩ đến điều gì đó: \"Nhưng mà nếu là vị đó, chắc là được nhỉ.\" Triệu Kỳ nghĩ một lát, vừa đưa tay ra liền xé rách không gian trong thần điện, thả người nhảy tót vào trong đó: \"Ta đi một lát rồi về, Chủ Thần ngươi đợi chút...\""
+    },
+    {
+      "segment_id": "0011",
+      "source": "赵奇刚跨进这个世界，放眼望去全是一排又一排书架，书架上密密麻麻摆满了书籍，而就赵奇看到的起码都有上千排，看不见的那就更多了！这些书架的最深处有一个不大的书桌摆在哪里，书桌上书桌上一个穿着学者长袍的老人正扶在上面看书。",
+      "target": "Triệu Kỳ vừa bước vào thế giới này, phóng mắt nhìn tới đều là hết dãy kệ sách này đến dãy kệ sách khác, trên kệ xếp đầy ắp những cuốn sách, mà chỉ những gì Triệu Kỳ nhìn thấy ít nhất cũng phải lên tới hàng ngàn dãy, những chỗ không nhìn thấy thì lại càng nhiều hơn! Tận sâu nhất của những dãy kệ sách này có đặt một chiếc bàn đọc sách không lớn lắm, trên bàn, một ông lão mặc trường bào học giả đang cúi người đọc sách."
+    },
+    {
+      "segment_id": "0012",
+      "source": "“迪奈尔，你又在当文学老人啦？”赵奇看着那老人，不由出口笑道。自从赵奇花费30点的神力创造出迪奈尔（Deneir）神国副本后，只要赵奇来，迪奈尔肯定是坐在书桌上看书，从来没有第二种形象！",
+      "target": "\"Deneir, ông lại làm ông già văn học rồi à?\" Triệu Kỳ nhìn ông lão, không nhịn được lên tiếng cười trêu chọc. Kể từ khi Triệu Kỳ tiêu tốn 30 điểm thần lực để tạo ra phó bản thần quốc Deneir, chỉ cần Triệu Kỳ đến, Deneir chắc chắn đang ngồi bên bàn đọc sách, trước giờ chưa từng có hình tượng nào khác!"
+    },
+    {
+      "segment_id": "0013",
+      "source": "“哦？是创造主神来了。”老人看到赵奇的到来，连忙起身，恭恭敬敬向赵奇行了礼。",
+      "target": "\"Ồ? Là Sáng Tạo Chủ Thần đến sao.\" Ông lão thấy Triệu Kỳ đến bèn vội vã đứng dậy, cung cung kính kính hành lễ với Triệu Kỳ."
+    },
+    {
+      "segment_id": "0014",
+      "source": "“别，别，我就是过来看看。”赵奇看着老人行礼，分外的不自在。毕竟自己是借着迪奈尔的遗泽才走到这一步的，可以毫不夸张的说如果没有迪奈尔，赵奇真是连屁都不是！",
+      "target": "\"Đừng, đừng, ta chỉ ghé qua xem thử thôi.\" Triệu Kỳ thấy ông lão hành lễ, cảm thấy đặc biệt không được tự nhiên. Dù sao bản thân hắn cũng là mượn di trạch của Deneir mới đi được đến bước này, có thể không ngoa khi nói rằng nếu không có Deneir, Triệu Kỳ thật sự đến cái rắm cũng không bằng!"
+    },
+    {
+      "segment_id": "0015",
+      "source": "“创造主神，您说笑了。我毕竟只是您创造出的关于文学之神迪奈尔（Deneir）的一个虚影，当不得迪奈尔。”老人对于自己是被创造出来的事情并不在意，平平静静地便说的出来。",
+      "target": "\"Sáng Tạo Chủ Thần, ngài nói đùa rồi. Dù sao ta cũng chỉ là một hư ảnh của Thần Văn học Deneir do ngài sáng tạo ra, không gánh nổi cái tên Deneir.\" Ông lão không hề để tâm đến chuyện mình được tạo ra, vô cùng bình tĩnh nói ra điều đó."
+    },
+    {
+      "segment_id": "0016",
+      "source": "“话不能这么说，你是我创造的没错。但你所以的脑中可是有迪奈尔所有的记忆，你的生平性格也是我按照迪奈尔创造出来的，可以说你就是文学之神迪奈尔（Deneir）！谁能反对？”",
+      "target": "\"Không thể nói như vậy, ông do ta tạo ra thì không sai. Nhưng trong đầu ông có toàn bộ ký ức của Deneir, tính cách cả đời của ông cũng là ta dựa theo Deneir mà tạo ra, có thể nói ông chính là Thần Văn học Deneir! Ai dám phản đối?\""
+    },
+    {
+      "segment_id": "0017",
+      "source": "“创造主神，您的话真是霸道的没边了，在这个世界谁能反对您的决定？您说什么就是什么。”老人对赵奇的话并没有太多认同，显得兴致缺缺。他被创造出来后，一直在想一个问题，那就是自己究竟是谁，自己究竟是文学之神迪奈尔（Deneir），还只是他的一个虚影。他坐在神国中不停思考，却一直无法想明白。",
+      "target": "\"Sáng Tạo Chủ Thần, lời ngài nói đúng là bá đạo vô biên, ở thế giới này ai có thể phản đối quyết định của ngài? Ngài nói sao thì là vậy.\" Ông lão không tỏ ra đồng tình cho lắm với lời của Triệu Kỳ, trông có vẻ thiếu hứng thú. Sau khi được tạo ra, ông luôn suy nghĩ về một vấn đề, đó là bản thân mình rốt cuộc là ai, mình thực sự là Thần Văn học Deneir, hay chỉ là một hư ảnh của ông ta. Ông cứ ngồi trong thần quốc suy tư không ngừng, nhưng vẫn mãi không nghĩ ra."
+    },
+    {
+      "segment_id": "0018",
+      "source": "赵奇对老人的想法有所了解，可他也没有太好办法，总不能将他的人格重塑吧。“迪奈尔，我今天来，是有事找你的。”“创造主神，您尽管说，我一定完成您给的任务。”",
+      "target": "Triệu Kỳ cũng hiểu đôi phần về suy nghĩ của ông lão, nhưng hắn cũng chẳng có cách nào tốt hơn, đâu thể nào đắp nặn lại nhân cách của ông chứ. \"Deneir, ta đến hôm nay là có chuyện tìm ông.\" \"Sáng Tạo Chủ Thần, ngài cứ việc nói, ta nhất định sẽ hoàn thành nhiệm vụ ngài giao.\""
+    },
+    {
+      "segment_id": "0019",
+      "source": "“我希望你能当这个虚拟世界的毁灭神！”迪奈尔“…………”",
+      "target": "\"Ta hy vọng ông có thể làm Hủy Diệt Thần của thế giới ảo này!\" Deneir: \"...\""
+    },
+    {
+      "segment_id": "0020",
+      "source": "赵奇不等迪奈尔回答，就问道“迪奈尔，你看我这个世界怎么样。”",
+      "target": "Triệu Kỳ không đợi Deneir trả lời đã hỏi: \"Deneir, ông thấy thế giới này của ta thế nào?\""
+    },
+    {
+      "segment_id": "0021",
+      "source": "“不可思议，能与虚无中创造世界的神器，这简直神乎其技。就算在诸神世界，能有如此威能的不超过两指之数。”",
+      "target": "\"Thật khó tin, thần khí có thể sáng tạo ra thế giới từ trong hư vô, đây quả thực là một kỹ năng thần thánh. Cho dù ở thế giới Chư Thần, những thần khí có được uy năng cỡ này cũng đếm không qua hai ngón tay.\""
+    },
+    {
+      "segment_id": "0022",
+      "source": "“那你在这世界里当毁灭神，应该不算委屈你吧。”",
+      "target": "\"Vậy ông làm Hủy Diệt Thần trong thế giới này, chắc hẳn không tính là ủy khuất ông chứ.\""
+    },
+    {
+      "segment_id": "0023",
+      "source": "“不委屈，不委屈，”迪奈尔的眼神渐渐明亮起来，在这个世界成就毁灭的至高神位，虽然只是虚幻，但只有炼假成真，成就真正的世界的话，那他就是真正的至高神！有这样的机会，迪奈尔肯定愿意！",
+      "target": "\"Không ủy khuất, không ủy khuất,\" Ánh mắt Deneir dần sáng lên. Thành tựu thần vị tối cao Hủy Diệt trong thế giới này, dù chỉ là hư ảo, nhưng một khi luyện giả thành thật, tạo nên thế giới thực sự, vậy ông chính là Chí Cao Thần chân chính! Có cơ hội như vậy, Deneir chắc chắn bằng lòng!"
+    },
+    {
+      "segment_id": "0024",
+      "source": "“这样就好，你不仅可以当文字与图像之王，也可以当毁灭与罪孽之主吗。”赵奇拍了拍迪奈尔肩膀，一副一切都交给你的样子。迪奈尔…………",
+      "target": "\"Vậy thì tốt, ông không chỉ có thể làm Vua của Văn Tự và Hình Ảnh, mà cũng có thể làm Chúa Tể của Hủy Diệt và Tội Nghiệt mà.\" Triệu Kỳ vỗ vỗ vai Deneir, ra chiều mọi chuyện đều giao cả cho ông. Deneir: \"...\""
+    },
+    {
+      "segment_id": "0025",
+      "source": "“对了，我让你整理的异界知识，你整理的的怎么样？那些超凡力量能在主世界施展吗？”赵奇问道“嗯，这件事，我已经和主神与智脑相互讨论过，我们认为超凡力量由于没有必要的因素，所以很难施展。”",
+      "target": "\"Phải rồi, những kiến thức dị giới ta nhờ ông chỉnh lý lại, ông đã làm đến đâu rồi? Những sức mạnh siêu phàm đó có thể thi triển ở chủ thế giới không?\" Triệu Kỳ hỏi. \"Ừm, chuyện này, ta đã cùng Chủ Thần và Trí Não bàn bạc với nhau, chúng ta cho rằng sức mạnh siêu phàm bởi vì thiếu đi những yếu tố cần thiết nên rất khó để thi triển.\""
+    },
+    {
+      "segment_id": "0026",
+      "source": "“什么因素，我可以直接创造出来吗？”“很难。”迪奈尔摇了摇头，“如果您想直接创造出这种因素，那您就得与整个宇宙的基本法则对抗，那你可能会在一瞬间被这基本法则给碾压碎的！！”",
+      "target": "\"Yếu tố gì, ta có thể trực tiếp tạo ra nó được không?\" \"Rất khó.\" Deneir lắc đầu, \"Nếu ngài muốn trực tiếp tạo ra loại yếu tố này, vậy ngài sẽ phải đối đầu với định luật cơ bản của toàn bộ vũ trụ, khi đó ngài rất có thể sẽ bị định luật cơ bản này nghiền nát chỉ trong nháy mắt!!\""
+    },
+    {
+      "segment_id": "0027",
+      "source": "“那怎么办，你们想到办法了？”",
+      "target": "\"Vậy phải làm sao đây, mọi người đã nghĩ ra cách chưa?\""
+    },
+    {
+      "segment_id": "0028",
+      "source": "“嗯，想道了。”迪奈尔点点头，“这还是主神想到的。他说我们既然不能直接干，那就迂回一下。我们可以把神秘都放到您的那件神器之中，当您接引众生精神来到您开辟的世界后，那随着众生精神的侵染，您的神器就也可以算作是这个宇宙的一部分。这样的话，我们就有很多文章可以做了，神秘，超凡都将不是梦想！！”",
+      "target": "\"Ừm, nghĩ ra rồi.\" Deneir gật đầu, \"Đây là do Chủ Thần nghĩ ra. Hắn nói nếu chúng ta đã không thể làm trực tiếp thì hãy đi đường vòng một chút. Chúng ta có thể đưa toàn bộ sự thần bí vào trong món thần khí kia của ngài. Chờ khi ngài tiếp dẫn tinh thần chúng sinh tới thế giới do ngài khai mở, thần khí của ngài thuận theo sự xâm nhiễm của tinh thần chúng sinh, cũng có thể được coi là một phần của vũ trụ này. Nếu được như vậy, chúng ta sẽ có rất nhiều trò có thể làm, thần bí hay siêu phàm đều sẽ không còn là giấc mộng!!\""
+    }
+  ]
+}
+```
