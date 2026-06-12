@@ -1,0 +1,17 @@
+```json
+{
+  "approved": [
+    "一级",
+    "三级"
+  ],
+  "rejected": [
+    "”\n“普通人",
+    "、种植术"
+  ],
+  "uncertain": []
+}
+```
+
+**Reasoning:**
+*   **Rejected:** `”\n“普通人` and `、种植术` both contain unnecessary punctuation marks (quotes, newlines, and enumeration commas). Glossary terms should ideally be clean, standalone words or phrases without leading/trailing punctuation. (e.g., `普通人` and `种植术` would be good terms on their own).
+*   **Approved:** `一级` (Level/Rank 1) and `三级` (Level/Rank 3) are clean strings and very common progression/tier terms in translated web novels or games, making them good candidates for a glossary to ensure consistency.

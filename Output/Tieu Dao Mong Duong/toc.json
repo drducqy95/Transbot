@@ -28,5 +28,15 @@
     "chapter_number": 6,
     "title": "Chương 6: Bị trộm",
     "relative_path": "output/Chương 0006 - Chương 6 Bị trộm.md"
+  },
+  {
+    "chapter_number": 7,
+    "title": "Chương 7: Linh thú (Cầu ủng hộ!)",
+    "relative_path": "output/Chương 0007 - Chương 7 Linh thú (Cầu ủng hộ!).md"
+  },
+  {
+    "chapter_number": 8,
+    "title": "Chương 8: Trao đổi",
+    "relative_path": "output/Chương 0008 - Chương 8 Trao đổi.md"
   }
 ]

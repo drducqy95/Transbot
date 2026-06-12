@@ -6,3 +6,5 @@
 - 2026-06-12 14:12 | Chapter 4 | completed | Chương 0004 - Chương 4 Vấn Tâm (Cầu sưu tầm).md
 - 2026-06-12 14:42 | Chapter 5 | completed | Chương 0005 - Chương 5 Xuất sơn (Cầu đề cử).md
 - 2026-06-12 14:51 | Chapter 6 | completed | Chương 0006 - Chương 6 Bị trộm.md
+- 2026-06-12 15:13 | Chapter 7 | completed | Chương 0007 - Chương 7 Linh thú (Cầu ủng hộ!).md
+- 2026-06-12 15:40 | Chapter 8 | completed | Chương 0008 - Chương 8 Trao đổi.md

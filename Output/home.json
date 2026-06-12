@@ -439,11 +439,11 @@
           "title": "Đông phương"
         }
       ],
-      "completed_chapters": 8,
+      "completed_chapters": 9,
       "total_chapters": 1184,
-      "latest_chapter": "Chương 7: Linh thú (Cầu ủng hộ!)",
+      "latest_chapter": "Chương 8: Trao đổi",
       "detail": "Tiến độ: 6/1184 chương | Mới nhất: Chương 6: Bị trộm",
-      "updated_at": "2026-06-12T15:13:23+07:00",
+      "updated_at": "2026-06-12T15:40:12+07:00",
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Tieu Dao Mong Duong/README.md",
       "toc_path": "Output/Tieu Dao Mong Duong/toc.json"
@@ -971,7 +971,7 @@
     }
   ],
   "metadata": {
-    "generated_at": "2026-06-12T15:29:08+07:00",
+    "generated_at": "2026-06-12T15:40:12+07:00",
     "total_books": 17,
     "source": "Dichtrung/Output"
   },

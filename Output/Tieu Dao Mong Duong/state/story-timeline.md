@@ -38,3 +38,13 @@ Chapter 5 completed via pipeline.
 
 ### Summary
 Chapter 6 completed via pipeline.
+
+## Chapter 0007 - Chương 7: Linh thú (Cầu ủng hộ!)
+
+### Summary
+Chapter 7 completed via pipeline.
+
+## Chapter 0008 - Chương 8: Trao đổi
+
+### Summary
+Chapter 8 completed via pipeline.
