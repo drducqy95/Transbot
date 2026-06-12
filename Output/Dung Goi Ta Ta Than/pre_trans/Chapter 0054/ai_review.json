@@ -1,0 +1,34 @@
+```json
+{
+  "approved": [],
+  "rejected": [
+    "。\n实际上，",
+    "。\n换句话说",
+    "击败特定目标",
+    "则不同，目前",
+    "后，也能兑换",
+    "增加了严格的",
+    "掌握的都磕磕",
+    "既然已经过",
+    "有了获取“",
+    "有所不同。",
+    "机制方面设计",
+    "活动：清理血",
+    "通过消耗传奇",
+    "，就能大把大",
+    "传奇之路已开"
+  ],
+  "uncertain": [
+    "传奇经验",
+    "奥术飞弹",
+    "当前正义点数",
+    "次级治疗",
+    "知识点数"
+  ]
+}
+```
+
+**Reasoning:**
+- **Rejected:** Most of the items in the "Terms" list are sentence fragments (e.g., "。\n实际上，", "有了获取“", "掌握的都磕磕"), conjunctions, or general descriptive phrases that do not qualify as proper terminology or glossary items.
+- **Uncertain:** Words like `传奇经验` (Legendary Experience), `奥术飞弹` (Arcane Missiles), `当前正义点数` (Current Justice Points), `次级治疗` (Lesser Heal), and `知识点数` (Knowledge Points) are recognizable RPG/fantasy mechanics or spell names. Since they do not appear in your provided Glossary yet, they are marked as uncertain. You may want to add them to your glossary if they frequently occur as system terms or specific spells in the text.
+- **Approved:** None of the terms perfectly aligned with the existing glossary or stood out as strictly necessary new proper nouns without additional context.

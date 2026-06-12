@@ -196,11 +196,11 @@
           "title": "Đông phương"
         }
       ],
-      "completed_chapters": 53,
+      "completed_chapters": 55,
       "total_chapters": 968,
-      "latest_chapter": "Chương 53: Ý nghĩa đích thực trong giáo lý của Thần Cầu Tri",
+      "latest_chapter": "Chương 54: Cứ điểm tạm thời",
       "detail": "Tiến độ: 53/968 chương | Mới nhất: Chương 53: Ý nghĩa đích thực trong giáo lý của Thần Cầu Tri",
-      "updated_at": "2026-06-12T13:00:09.457776+07:00",
+      "updated_at": "2026-06-12T13:49:39+07:00",
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Dung Goi Ta Ta Than/README.md",
       "toc_path": "Output/Dung Goi Ta Ta Than/toc.json"
@@ -971,7 +971,7 @@
     }
   ],
   "metadata": {
-    "generated_at": "2026-06-12T13:40:24+07:00",
+    "generated_at": "2026-06-12T13:49:39+07:00",
     "total_books": 17,
     "source": "Dichtrung/Output"
   },
