@@ -398,3 +398,8 @@ Chapter 43 completed via pipeline.
 
 ### Summary
 Chapter 44 completed via pipeline.
+
+## Chapter 0045 - Chương 45: Ỷ đông hiếp yếu
+
+### Summary
+Chapter 45 completed via pipeline.

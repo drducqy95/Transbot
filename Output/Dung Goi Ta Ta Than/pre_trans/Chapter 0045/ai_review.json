@@ -1,0 +1,51 @@
+I will start by exploring the workspace to see if there are any existing translation files, glossary rules, or translation tools in this project. This will help me review the terms and formatting in a way that matches the existing project structure.
+I will check the contents of the `$TRANS_DIR` and `Script` directories to see how translation terms and glossaries are managed or if there's an automated process/script I should align with.
+I will check the `Script` and `Source` directories to understand how the translation project functions.
+I will search for glossary terms or translation validation scripts to see if there is a predefined structure or rules for approved/rejected/uncertain terms.
+I will list the `Output` directory to find the books/translation projects currently active.
+I will search the repository to find which book/project this glossary and terms belong to. This will allow me to check the relevant chapter context or files.
+I will search the codebase for occurrences of "英勇打击" (Heroic Strike) and "当前胜率" (Current Win Rate) to locate where these terms are used and understand their context in the translation.
+I will list the contents of the pre-translation directory for the book "Dung Goi Ta Ta Than" to see the recent chapters.
+I will check the `glossary_scan.json` of the latest chapter (Chapter 0045) to see the terms list and how it's formatted.
+I will view the source file for Chapter 0045 to understand the context of the terms in the original Chinese text.
+I will search for "英勇打击" in the translation state files of the project to see what the approved Vietnamese translation for it was in earlier chapters (like Chapter 36).
+I will search for the path of the glossary markdown file in the "Dung Goi Ta Ta Than" directory.
+I will list the contents of `/mnt/sdcard/My Agent/Transbot/Output/Dung Goi Ta Ta Than` directory to check its state and configurations.
+I will list the files in `/mnt/sdcard/My Agent/Transbot/Output/Dung Goi Ta Ta Than/state` to see the global glossary files.
+I will view the global `Glossary.md` file to see the current list of terms and how skills/techniques are formatted in this project.
+I will check if there is an `ai_review.json` or other files in the `Chapter 0045` directory to verify if they need to be updated.
+I will view the `glossary_scan.json` from a previous chapter (such as Chapter 0036) to check the expected status format and how approved/rejected terms are saved there.
+I will update the `glossary_scan.json` file for Chapter 0045 with the correct approved/rejected statuses to assist the automated translation pipeline.
+Here is the JSON containing the approved, rejected, and uncertain terms, followed by a brief summary of the audit decisions.
+
+```json
+{
+  "approved": [
+    "英勇打击"
+  ],
+  "rejected": [
+    "“再坚持坚",
+    "“前面那个",
+    "“友情提醒",
+    "当前胜率：1",
+    "当前胜率：3",
+    "当前胜率：7",
+    "招呼上去！"
+  ],
+  "uncertain": []
+}
+```
+
+### Review Summary
+
+For Chapter 45 context (from [source.md](file:///mnt/sdcard/My%20Agent/Transbot/Output/Dung%20Goi%20Ta%20Ta%20Than/pre_trans/Chapter%200045/source.md)):
+
+* **Approved**:
+  * **`英勇打击`**: Warrior skill name (Combat Technique - 战技), standard translation is **"Anh Dũng Đả Kích"** (Heroic Strike).
+
+* **Rejected**:
+  * **`“再坚持坚`**, **`“前面那个`**, **`“友情提醒`**: These are truncated dialogue snippets rather than nouns or terminology terms.
+  * **`当前胜率：1`**, **`当前胜率：3`**, **`当前胜率：7`**: Truncated outputs of system win rates (e.g., `【当前胜率：100%】`, `【当前胜率：31%】`, etc.). These are dynamic statuses and do not belong in a static glossary.
+  * **`招呼上去！`**: A verb/action phrase ("greeted them with / launched at them") and not a proper noun or terminology.
+
+I have updated [glossary_scan.json](file:///mnt/sdcard/My%20Agent/Transbot/Output/Dung%20Goi%20Ta%20Ta%20Than/pre_trans/Chapter%200045/glossary_scan.json) in the workspace with these statuses.

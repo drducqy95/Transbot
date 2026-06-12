@@ -179,3 +179,4 @@ Audit: pass
 - 2026-06-12 08:25 | Chapter 42 | completed | Chương 0042 - Chương 42 Đụng trúng họng súng rồi.md
 - 2026-06-12 08:32 | Chapter 43 | completed | Chương 0043 - Chương 43 Tình hình hoàn toàn khác so với dự đoán.md
 - 2026-06-12 08:39 | Chapter 44 | completed | Chương 0044 - Chương 44 Dụ địch vào sâu!.md
+- 2026-06-12 08:45 | Chapter 45 | completed | Chương 0045 - Chương 45 Ỷ đông hiếp yếu.md
