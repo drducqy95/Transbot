@@ -1,0 +1,49 @@
+I will list the files in the workspace directory to understand the project structure and see if there are any existing translation tables, glossaries, or tools that can help with reviewing these terms.
+I will list the contents of the `Script`, `$TRANS_DIR`, and `Global State` directories to find glossary files or dictionary files used in this translation project.
+I will list the contents of the `Script` directory to see if there are any automation or validation scripts.
+I will list the contents of the `Global State` directory to see if we can find current state or active project settings.
+I will list the contents of the `Source` directory to identify the current source novel chapters or text.
+I will list the contents of `Source/Source Split` and `Source/Source full` to see which translation files are currently being worked on.
+I will list the contents of the `Source/Source Split/Dung Goi Ta Ta Than` directory to see if there are any specific text files or glossary files related to this novel.
+I will search the workspace for any reference to "Dung Goi Ta Ta Than" to see if there is a configuration or pipeline file that handles this novel, which might also contain translation rules, glossary settings, or translation mappings.
+I will view the contents of the file `Output/Dung Goi Ta Ta Than/home.json` to see if there is configuration data, glossary definitions, or metadata about this novel's translation.
+I will search the source files of the novel for the Chinese term `进度条` to understand how it's used in context.
+I will view the contents of `Chapter 0026 能看到进度条的修行方式.md` to check its formatting and how the term `进度条` is used in context.
+I will list the contents of the `Output/Dung Goi Ta Ta Than` directory to check if there are translated chapters or logs that show how terms like `进度条` were previously translated.
+I will view the translation configuration file `translation_config.json` to see the existing glossary and translation rules for this project.
+I will view the rest of the `translation_config.json` file to find the actual glossary list and terms already configured for this novel.
+I will list the contents of the `Output/Dung Goi Ta Ta Than/state` directory to locate files like `Name-Lock.md`, `Term-Lock.md`, and `Glossary.md`.
+I will view the `Glossary.md` file in the `state` directory to see the currently recorded terms and how they have been translated.
+I will list the contents of the `translate_result` directory to see if there are any completed translations of chapters where these terms might have appeared.
+I will list the files in the `translate_result/Chapter 0013` directory to find the translated text.
+I will search the translation result of Chapter 13 for how `下城区` (Lower District) or related terms were translated.
+I will search Chapter 26's translation result to see how the term `进度条` was translated.
+I will search the source files of the novel for the Chinese phrase `通过击败` to understand its context.
+I will search for the term `击败` (defeat) in the source files to see where it might occur with notes.
+I will search for the term `击败` across the entire `Source` directory to find its context in the full text.
+I will view `State/pending-issues.md` to see if there are any documented instructions, formats, or pending issues related to term approvals.
+Here is the review of the translation terms based on the context of the novel "Đừng Gọi Ta Tà Thần" (别叫我邪神), the glossary rules, and the translated text of chapters 13 and 26.
+
+```json
+{
+  "approved": [
+    {
+      "source": "新的进度条",
+      "translation": "thanh tiến độ mới",
+      "reason": "Nhất quán với Chương 26 (tiêu đề và nội dung gốc dùng '进度条' và đã được dịch là 'thanh tiến độ')."
+    },
+    {
+      "source": "格林港下城区",
+      "translation": "Khu Hạ Thành Cảng Green (hoặc Khu Hạ Thành Green Port)",
+      "reason": "Từ '下城区' đã được dịch là 'Khu Hạ Thành' ở Chương 13. Về phần '格林港', glossary định nghĩa là 'Cảng Green', còn bản dịch Chương 13 thực tế lại dùng 'Green Port'. Cả hai cách dịch đều chuẩn xác, ưu tiên dùng 'Cảng Green' nếu muốn đồng bộ hoàn toàn với Glossary."
+    },
+    {
+      "source": "注：通过击败",
+      "translation": "Lưu ý: Bằng cách đánh bại (hoặc Lưu ý: Thông qua việc đánh bại)",
+      "reason": "Đây là dòng thông báo hệ thống / lưu ý. '注' (chú thích/lưu ý) dịch là 'Lưu ý', '通过击败' dịch thoát ý là 'Bằng cách đánh bại' sẽ tự nhiên và trôi chảy nhất trong văn phong game/hệ thống."
+    }
+  ],
+  "rejected": [],
+  "uncertain": []
+}
+```
