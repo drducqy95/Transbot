@@ -68,3 +68,8 @@ Chapter 12 completed via pipeline.
 
 ### Summary
 Chapter 13 completed via pipeline.
+
+## Chapter 0014 - Chương 14: Thuấn Bộ (Canh ba cầu đọc tiếp, cất chứa, phiếu tháng)
+
+### Summary
+Chapter 14 completed via pipeline.

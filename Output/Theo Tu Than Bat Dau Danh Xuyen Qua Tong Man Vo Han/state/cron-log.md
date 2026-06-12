@@ -12,3 +12,4 @@
 - 2026-06-12 16:01 | Chapter 11 | completed | Chương 0011 - Chương 11 Quỷ đạo cũng không khó mà (Canh ba cầu đọc tiếp, cất chứa, phiếu tháng).md
 - 2026-06-12 16:32 | Chapter 12 | completed | Chương 0012 - Chương 12 Sousuke, trói tôi.md
 - 2026-06-12 17:38 | Chapter 13 | completed | Chương 0013 - Chương 13 Aizen Muốn xem Thế giới đầu của tôi không.md
+- 2026-06-12 18:16 | Chapter 14 | completed | Chương 0014 - Chương 14 Thuấn Bộ (Canh ba cầu đọc tiếp, cất chứa, phiếu tháng).md
