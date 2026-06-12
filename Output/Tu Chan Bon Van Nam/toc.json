@@ -1,10 +1,5 @@
 [
   {
-    "chapter_number": 1,
-    "title": "Chương 1: Nghĩa địa pháp bảo",
-    "relative_path": "output/Chương 0001 - Chương 1 Nghĩa địa pháp bảo.md"
-  },
-  {
     "chapter_number": 2,
     "title": "Chương 2: Quang mạc nghi",
     "relative_path": "output/Chương 0002 - Chương 2 Quang mạc nghi.md"
@@ -18,5 +13,10 @@
     "chapter_number": 4,
     "title": "Chương 4: Yêu Đao Bành Hải",
     "relative_path": "output/Chương 0004 - Chương 4 Yêu Đao Bành Hải.md"
+  },
+  {
+    "chapter_number": 1,
+    "title": "Chương 1: Nghĩa địa pháp bảo",
+    "relative_path": "output/Chương 0001 - Chương 1 Nghĩa địa pháp bảo.md"
   }
 ]

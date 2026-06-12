@@ -18,3 +18,8 @@ Chapter 3 completed via pipeline.
 
 ### Summary
 Chapter 4 completed via pipeline.
+
+## Chapter 0001 - Chương 1: Nghĩa địa pháp bảo
+
+### Summary
+Chapter 1 completed via pipeline.
