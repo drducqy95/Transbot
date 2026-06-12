@@ -1,0 +1,22 @@
+```json
+{
+  "names": {
+    "approved": [],
+    "rejected": [],
+    "uncertain": []
+  },
+  "terms": {
+    "approved": [
+      "灵蛇身法"
+    ],
+    "rejected": [
+      "，朝主城区电"
+    ],
+    "uncertain": []
+  }
+}
+```
+
+**Reasoning:**
+*   **`灵蛇身法` (Spirit Snake Movement Technique)**: Approved. This is a standard martial arts/movement skill name often found in Wuxia/Xianxia literature.
+*   **`，朝主城区电` (..., towards the main city district...)**: Rejected. This is a sentence fragment that includes punctuation and is not a standalone term or proper noun.

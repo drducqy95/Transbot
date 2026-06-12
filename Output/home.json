@@ -461,7 +461,7 @@
       "ongoing": true,
       "completed_chapters": 4,
       "total_chapters": 3339,
-      "latest_chapter": "0002 光幕仪",
+      "latest_chapter": "Chương 3: Dị mộng",
       "genre": "eastern_fiction",
       "sub_genre": "sci_fi",
       "style_tags": [
@@ -516,7 +516,7 @@
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Tu Chan Bon Van Nam/README.md",
       "toc_path": "Output/Tu Chan Bon Van Nam/toc.json",
-      "updated_at": "2026-06-12T13:00:18.978311+07:00"
+      "updated_at": "2026-06-12T13:40:24+07:00"
     },
     {
       "branch": "Hong Hoang Lich_Zhttty",
@@ -971,7 +971,7 @@
     }
   ],
   "metadata": {
-    "generated_at": "2026-06-12T13:31:42+07:00",
+    "generated_at": "2026-06-12T13:40:24+07:00",
     "total_books": 17,
     "source": "Dichtrung/Output"
   },

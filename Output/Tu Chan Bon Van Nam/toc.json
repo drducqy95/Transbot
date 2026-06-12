@@ -1,10 +1,5 @@
 [
   {
-    "chapter_number": 3,
-    "title": "Chương 3: Dị mộng",
-    "relative_path": "output/Chương 0003 - Chương 3 Dị mộng.md"
-  },
-  {
     "chapter_number": 4,
     "title": "Chương 4: Yêu Đao Bành Hải",
     "relative_path": "output/Chương 0004 - Chương 4 Yêu Đao Bành Hải.md"
@@ -18,5 +13,10 @@
     "chapter_number": 2,
     "title": "0002 光幕仪",
     "relative_path": "output/Chương 0002 - 0002 光幕仪.md"
+  },
+  {
+    "chapter_number": 3,
+    "title": "Chương 3: Dị mộng",
+    "relative_path": "output/Chương 0003 - Chương 3 Dị mộng.md"
   }
 ]
