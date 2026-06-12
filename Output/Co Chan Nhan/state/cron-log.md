@@ -2,3 +2,4 @@
 - 2026-06-12 11:17 | Chapter 1 | completed | Chương 0001 - Chương 1 Bè tre chao đảo trên sông Hoàng Long.md
 - 2026-06-12 14:03 | Chapter 2 | completed | Chương 0002 - Chương 2 Giác ngộ năm trăm năm ngược dòng quang âm.md
 - 2026-06-12 14:23 | Chapter 3 | completed | Chương 0003 - Chương 3 Xin cứ ra một góc mà chơi đi.md
+- 2026-06-12 14:47 | Chapter 4 | completed | Chương 0004 - Chương 4 Cổ Nguyệt Phương Nguyên!.md
