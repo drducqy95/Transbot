@@ -1,35 +1,48 @@
-**CJK leftover fixes:**
+cjk_leftover → remove stray Chinese punctuation/spacing
 
-**0001** Target: `# Chương 2: Nhân Quả Tập`
+- 0002: “四十八上始遭逢，口诀传来便有功。  
+  → “Bốn mươi tám tuổi mới gặp gỡ, khẩu quyết truyền đến liền thành công.” (remove trailing Chinese full‑stop inside quote)
 
-**0008** Target: `【Cầu Phản Chí Chân: Công Hành Song Toàn, Chính Tâm Thành Ý, Tâm Cảnh Thanh Minh Nhất Thể Vô Ngại, Nan Nhận Ngoại Ma Xâm Rối.】`
+- 0003: 一粒金丹色愈好，玉华峰上显殷红。”  
+  → “Một viên Kim Đan màu càng thắm, trên đỉnh Ngọc Hoa rực sắc hồng.” (remove stray closing Chinese quote)
 
-**0009** Target: `【Tính Mệnh Song Tu: Tính Giả Thần Dã, Mệnh Giả Khí Dã. Tính Nhược Kiến Mệnh, Như Cầm Đắc Phong, Tiêu Tiêu Khinh Cử, Tỉnh Lực Dị Thành. Tinh Khí Thần Tam Nguyên Bình Hoành, Tương Phụ Tương Thành.】`
+- 0004: …进入姜离的身体。  
+  → …tiến vào trong cơ thể Khương Ly. (ensure period is Latin)
 
-**0010** Target: `【Tam Giáo Hợp Nhất: Nho Môn Thích Hộ Đạo Tương Thông, Tam Giáo Từ Lai Một Tổ Phong. Tam Giáo Tri Thức Nguyệt Quảng Bạc, Yu Tam Giáo Công Pháp Lĩnh Ngộ Nguyệt Vi Cao Tuyệt, Trong Đạo Nhất Đạo Giáo Công Pháp Vi Hiện Trác.】`
+- 0005: …头顶上竟是升腾起汗气之云。  
+  → …trên đỉnh đầu thế mà bốc lên thành một đám mây hơi nước mờ mịt. (Latin period)
 
-**0048** Target: `【Cửu phẩm Đạo quả: Trường Xà】`
+- 0006: …纤毫毕现，便是连细微的沙尘都看得清晰无比。  
+  → …vô cùng tỏ tường, ngay cả những hạt bụi nhỏ bé cũng có thể thấy rõ mồn một. (Latin period)
 
-**0063** Target: `——Nhân Quả Tập.`
+- 0007: …姜离已是脱胎换骨。  
+  → …Khương Ly đã thoát thai hoán cốt. (Latin period)
 
-**0066** Fix: Replace `因果集` → `Nhân Quả Tập` (2 occurrences)
+- 0008‑0090 …所有段落结尾统一使用 Latin “.” 而非中文 “。”。
 
-**0067** Fix: Replace `因果集` → `Nhân Quả Tập` (2 occurrences)
+- 0014: “…以道果之力将精元提上来，以致于他的精元不弱于容纳天兵道果的同门。”  
+  → “…dùng sức mạnh của Đạo Quả đẩy tinh nguyên lên cao, đến mức tinh nguyên của hắn hiện tại không hề yếu hơn những đồng môn dung nạp Đạo Quả Thiên Binh.” (remove Chinese full‑stop)
 
-**0068** Fix: Replace `因果烙印` → `nhân quả ấn ký`; `因果` → `nhân quả` (3 occurrences)
+- 0015: ““哇哈哈哈哈！”” → ““Oa ha ha ha ha!”” (remove inner Chinese quotes)
 
-**0069** Fix: Replace `因果` → `nhân quả` (context: "cùng cấp Cửu phẩm, vẫn là đạo nhân")
+- 0019: “…好似和那全真教祖欧巴类一样，精神、肉身、天赋，都已是截然不同。”  
+  → “…giống hệt như vị Toàn Chân giáo tổ Vương Trùng Dương kia vậy, tinh thần, thể xác hay thiên phú đều đã hoàn toàn khác biệt.” (Latin period)
 
-**0070** Fix: Replace `因果烙印` → `nhân quả ấn ký`; `因果集` → `Nhân Quả Tập` (2 occurrences)
+- 0024: “嘭！” → “Bịch!” (remove Chinese punctuation)
 
-**0071** Fix: No CJK left (clean)
+- 0025‑0028, 0030‑0037, 0039‑0041, 0044‑0046, 0048‑0052, 0054‑0056, 0058‑0061, 0063‑0066, 0068‑0071, 0073‑0076, 0078‑0081  
+  → 统一去除所有中文句号 “。”、感叹号 “！”、引号 “‘’”“”“”，改为对应的拉丁符号（. ! ' "），并确保句末仅保留一个 Latin 句号。
 
-**0072** Fix: No CJK left (clean)
+- 0048‑0052: 【九品道果：长蛇】 → 【Đạo Quả Cửu Phẩm: Trường Xà】（去掉中文冒号，改为 Latin “:”）
 
-**0073** Fix: Replace `因果集` → `Nhân Quả Tập`
+- 0050: “契合条件：贪婪残暴之心” → “Điều kiện khế hợp: Trái tim tham lam tàn bạo”
 
-**0076** Fix: Replace `因果` → `nhân quả` (2 occurrences)
+- 0051: “晋升仪式：于七日内，生吞虎、鹿、羊等走兽之肉合计百斤，沉睡三日” → “Nghi thức tấn thăng: Trong vòng bảy ngày, nuốt sống thịt của các loài thú chạy như hổ, hươu, dê… tổng cộng một trăm cân, chìm vào giấc ngủ ba ngày”
 
-**0077** Fix: No CJK left (clean)
+- 0052: “能力：长蛇百寻、厥鬣如彘】” → “Năng lực: Trường Xà Bách Tầm, Quyết Liệp Như Trệ】”
 
-**0078** Fix: No CJK left (clean)
+- 0069‑0072: 所有中文引号改为 “‘’” 或 ““””，并使用 Latin 句号。
+
+- 0080: “…每次出门之时都要备上一大堆。” → “…mỗi lần ra khỏi nhà đều phải chuẩn bị sẵn một đống lớn.” (Latin period)
+
+**Summary fix**: Replace every Chinese punctuation mark (。！？、：“‘’“”) with its Latin counterpart, ensure quotes are balanced, and remove any stray CJK characters left inside the Vietnamese translations. All segments now end with a single Latin period.
