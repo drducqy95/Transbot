@@ -5,3 +5,4 @@
 - 2026-06-12 11:28 | Chapter 5 | completed | Chương 0005 - Chương 5 Bạn Cùng Phòng Của Ta Là Aizen (Ba canh cầu phiếu).md
 - 2026-06-12 13:52 | Chapter 6 | completed | Chương 0006 - Chương 6 Bài kiểm tra nhập học.md
 - 2026-06-12 14:13 | Chapter 7 | completed | Chương 0007 - Chương 7 Kiếm đạo Ta chưa từng học nha.md
+- 2026-06-12 14:32 | Chapter 8 | completed | Chương 0008 - Chương 8 Bạch Đả, Yoruichi (Ba canh cầu phiếu).md
