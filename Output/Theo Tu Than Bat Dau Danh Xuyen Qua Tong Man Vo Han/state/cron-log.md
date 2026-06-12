@@ -14,3 +14,4 @@
 - 2026-06-12 17:38 | Chapter 13 | completed | Chương 0013 - Chương 13 Aizen Muốn xem Thế giới đầu của tôi không.md
 - 2026-06-12 18:16 | Chapter 14 | completed | Chương 0014 - Chương 14 Thuấn Bộ (Canh ba cầu đọc tiếp, cất chứa, phiếu tháng).md
 - 2026-06-12 18:37 | Chapter 15 | completed | Chương 0015 - Chương 15 Vụ cá cược.md
+- 2026-06-12 19:08 | Chapter 16 | completed | Chương 0016 - Chương 16 Cứ mãng là xong việc.md
