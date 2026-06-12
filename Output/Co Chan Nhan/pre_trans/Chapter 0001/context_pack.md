@@ -93,6 +93,11 @@ N/A
 ### Summary
 Chapter 1 completed via pipeline.
 
+## Chapter 0001 - Chương 1: Bè tre chao đảo trên sông Hoàng Long
+
+### Summary
+Chapter 1 completed via pipeline.
+
 
 ## Source Chapter 1 - 0001 纵身亡魔心仍不悔
 # 第一节：纵身亡魔心仍不悔

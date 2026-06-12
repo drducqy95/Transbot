@@ -1,0 +1,19 @@
+```json
+{
+  "approved_names": [],
+  "rejected_names": [],
+  "uncertain_names": [],
+  "approved_terms": [
+    "御妖至尊",
+    "蛊真人"
+  ],
+  "rejected_terms": [
+    "vip群改变",
+    "vip群，此",
+    "一群、二群，",
+    "三群。在今后",
+    "的书友群也会"
+  ],
+  "uncertain_terms": []
+}
+```

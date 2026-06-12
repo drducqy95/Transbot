@@ -1,0 +1,423 @@
+```json
+{
+  "chapter_number": 2,
+  "chapter_title_vi": "Chương 2: Giác ngộ năm trăm năm ngược dòng quang âm",
+  "segments": [
+    {
+      "segment_id": "0002_0001",
+      "source": "第二节：逆光阴五百年觉悟",
+      "target": "Chương 2: Giác ngộ năm trăm năm ngược dòng quang âm"
+    },
+    {
+      "segment_id": "0002_0002",
+      "source": "传说中，这个世界存在着一条光阴之河，支撑着这个世界的流转。而利用春秋蝉的力量，就能逆流而上，回到从前。",
+      "target": "Trong truyền thuyết, thế giới này tồn tại một dòng sông Quang Âm, duy trì sự luân chuyển của thế giới. Lợi dụng sức mạnh của Xuân Thu Thiền, là có thể ngược dòng nước mà lên, trở về quá khứ."
+    },
+    {
+      "segment_id": "0002_0003",
+      "source": "对这个传闻，世人众说纷纭。很多人并不相信，有些人则将信将疑。",
+      "target": "Đối với tin đồn này, thế nhân bàn tán xôn xao. Rất nhiều người không tin, một số người lại bán tín bán nghi."
+    },
+    {
+      "segment_id": "0002_0004",
+      "source": "几乎没有人真的确信。",
+      "target": "Gần như không có ai thực sự tin chắc."
+    },
+    {
+      "segment_id": "0002_0005",
+      "source": "因为每一次使用春秋蝉，都必须付出生命，将整个身躯和所有的修为统统献祭，作为驱动的力量。",
+      "target": "Bởi vì mỗi lần sử dụng Xuân Thu Thiền, đều phải trả giá bằng tính mạng, hiến tế toàn bộ thân thể và tất cả tu vi, làm sức mạnh thúc đẩy."
+    },
+    {
+      "segment_id": "0002_0006",
+      "source": "这个代价实在太昂贵了，更让人无法接受的是——往往付出了生命，也不知道结果怎样。",
+      "target": "Cái giá này thực sự quá đắt đỏ, càng khiến người ta khó chấp nhận là... thường thì dù có trả giá bằng sinh mạng, cũng không biết kết quả sẽ ra sao."
+    },
+    {
+      "segment_id": "0002_0007",
+      "source": "就算是有人得到了春秋蝉，也不敢闲来无事胡乱使用。",
+      "target": "Cho dù có người có được Xuân Thu Thiền, cũng không dám rảnh rỗi sinh nông nổi mà sử dụng lung tung."
+    },
+    {
+      "segment_id": "0002_0008",
+      "source": "万一传闻有假，只是个骗局呢？",
+      "target": "Lỡ như tin đồn là giả, chỉ là một trò lừa bịp thì sao?"
+    },
+    {
+      "segment_id": "0002_0009",
+      "source": "若不是方源走投无路，也不会这么快就使用它。",
+      "target": "Nếu không phải Phương Nguyên đã đến bước đường cùng, thì hắn cũng sẽ không sử dụng nó nhanh như vậy."
+    },
+    {
+      "segment_id": "0002_0010",
+      "source": "不过现在，方源是彻彻底底的相信。",
+      "target": "Nhưng hiện tại, Phương Nguyên đã hoàn toàn tin tưởng."
+    },
+    {
+      "segment_id": "0002_0011",
+      "source": "因为铁的事实摆在眼前，不容反驳。他的确是重生了！",
+      "target": "Bởi vì sự thật rành rành bày ra trước mắt, không thể chối cãi. Hắn thực sự đã trùng sinh!"
+    },
+    {
+      "segment_id": "0002_0012",
+      "source": "“只是可惜了这个好蛊，当初可是费了九牛二虎之力，屠杀了数十万人，弄得天怒人怨，千辛万苦才炼制而得……”方源心中暗叹，虽然是重生了，但是春秋蝉并没有带来。",
+      "target": "\"Chỉ tiếc cho con Cổ tốt này, ban đầu phải phí sức chín trâu hai hổ, tàn sát mấy chục vạn người, khiến cho thiên nộ nhân oán, muôn vàn khó khăn mới luyện chế ra được...\" Phương Nguyên thầm than trong lòng, mặc dù đã trùng sinh, nhưng Xuân Thu Thiền lại không mang theo cùng."
+    },
+    {
+      "segment_id": "0002_0013",
+      "source": "人是万物之灵长，蛊是天地之精华。",
+      "target": "Con người là anh linh của vạn vật, Cổ là tinh hoa của đất trời."
+    },
+    {
+      "segment_id": "0002_0014",
+      "source": "蛊千奇百怪，数不胜数。有的蛊用一次或者两三次，就会彻底消散。而有的蛊，只要不太过度使用，就能重复利用着。",
+      "target": "Cổ có muôn hình vạn trạng, nhiều không đếm xuể. Có loại Cổ dùng một lần hoặc hai ba lần sẽ tan biến hoàn toàn. Còn có loại Cổ, chỉ cần không sử dụng quá độ, là có thể dùng đi dùng lại nhiều lần."
+    },
+    {
+      "segment_id": "0002_0015",
+      "source": "也许春秋蝉就是那种只能使用一次的消耗类蛊虫。",
+      "target": "Có lẽ Xuân Thu Thiền chính là loại Cổ trùng tiêu hao chỉ có thể sử dụng một lần."
+    },
+    {
+      "segment_id": "0002_0016",
+      "source": "“不过就算是没了，也可以再炼制一只。前世我能炼制，今生难道就不能吗？”可惜之后，方源的心中又不禁涌起一阵壮志豪情。",
+      "target": "\"Nhưng cho dù mất rồi, cũng có thể luyện chế lại con khác. Kiếp trước ta có thể luyện chế, lẽ nào kiếp này lại không thể?\" Sau sự tiếc nuối, trong lòng Phương Nguyên lại không kìm được mà dâng trào một trận hào tình tráng chí."
+    },
+    {
+      "segment_id": "0002_0017",
+      "source": "自己能够重生，春秋蝉的损失完全可以接受。",
+      "target": "Bản thân có thể trùng sinh, mất đi Xuân Thu Thiền là tổn thất hoàn toàn có thể chấp nhận được."
+    },
+    {
+      "segment_id": "0002_0018",
+      "source": "而且他还身怀珍宝，并非一无所有。",
+      "target": "Hơn nữa trên người hắn còn mang theo trân bảo, chứ không phải hai bàn tay trắng."
+    },
+    {
+      "segment_id": "0002_0019",
+      "source": "这个珍宝，就是他五百年的记忆和经验。",
+      "target": "Trân bảo này, chính là ký ức và kinh nghiệm năm trăm năm của hắn."
+    },
+    {
+      "segment_id": "0002_0020",
+      "source": "他的记忆中存在着许许多多的宝藏，如今还没有人开启。存在着一个个的大事件，让他能轻松掌握历史的脉络。存在着无数的人影，有些是前辈隐修，有些是天俊奇才，有些人甚至没有出生呢。还存在着这五百年来，苦修的沉重经历，丰富的战斗经验。",
+      "target": "Trong ký ức của hắn tồn tại rất nhiều bảo tàng, hiện tại vẫn chưa có ai mở ra. Tồn tại từng sự kiện lớn, giúp hắn dễ dàng nắm bắt được mạch lạc của lịch sử. Tồn tại vô số bóng người, có kẻ là tiền bối ẩn tu, có kẻ là kỳ tài ngút trời, có người thậm chí còn chưa ra đời. Lại còn tồn tại những trải nghiệm khổ tu nặng nề, cùng kinh nghiệm chiến đấu phong phú trong năm trăm năm qua."
+    },
+    {
+      "segment_id": "0002_0021",
+      "source": "有了这些，无疑就掌握了大局和先机。只要操作的好，纵横人间，重现巨魔枭雄之风采，完全不是问题，甚至能更进一步，冲击更高之境界！",
+      "target": "Có được những thứ này, không nghi ngờ gì nữa là đã nắm giữ được đại cục và tiên cơ. Chỉ cần thao tác tốt, tung hoành nhân gian, tái hiện lại phong thái của ma đầu kiêu hùng hoàn toàn không thành vấn đề, thậm chí còn có thể tiến thêm một bước, xung kích cảnh giới cao hơn!"
+    },
+    {
+      "segment_id": "0002_0022",
+      "source": "“那么该如何操作呢……”方源十分理智，迅速收拾情怀，面对窗外的夜雨沉思起来。",
+      "target": "\"Vậy thì nên thao tác như thế nào đây...\" Phương Nguyên vô cùng lý trí, nhanh chóng thu dọn cảm xúc, đối mặt với cơn mưa đêm ngoài cửa sổ mà chìm vào trầm tư."
+    },
+    {
+      "segment_id": "0002_0023",
+      "source": "这么一想，就觉得千头万绪。",
+      "target": "Vừa nghĩ đến điều đó, hắn liền cảm thấy rối rắm trăm bề."
+    },
+    {
+      "segment_id": "0002_0024",
+      "source": "思考了片刻，他的眉头越皱越深。",
+      "target": "Suy nghĩ một lát, chân mày của hắn càng nhíu chặt hơn."
+    },
+    {
+      "segment_id": "0002_0025",
+      "source": "五百年的时间，实在有些漫长。不说那些已经模糊的，想不起来的记忆。就是那些记着的宝藏密地、仙师机缘，虽然很多，但大多不是间隔十万八千里，就是需要在特定的时间才能开启。",
+      "target": "Thời gian năm trăm năm, quả thực có chút dài đằng đẵng. Không nói đến những ký ức đã mờ nhạt, nhớ không ra nổi. Chỉ tính riêng những bảo tàng mật địa, cơ duyên tiên sư còn nhớ được, tuy rằng có rất nhiều, nhưng đa phần nếu không phải cách xa mười vạn tám ngàn dặm, thì cũng cần phải đến những thời điểm đặc định mới có thể mở ra."
+    },
+    {
+      "segment_id": "0002_0026",
+      "source": "“最关键的还是修为啊。自己如今元海未开，还没有踏上蛊师的修行之路，根本就是个凡人！必须得尽快修行，增长修为，赶在历史之前，尽可能的抢占先机，捞够好处。”",
+      "target": "\"Quan trọng nhất vẫn là tu vi. Bây giờ nguyên hải của bản thân chưa mở, vẫn chưa bước lên con đường tu hành Cổ sư, căn bản chỉ là một kẻ phàm nhân! Phải nhanh chóng tu hành, tăng cường tu vi, chạy đua trước lịch sử, tranh thủ mọi khả năng để giành lấy tiên cơ, vơ vét đủ lợi ích.\""
+    },
+    {
+      "segment_id": "0002_0027",
+      "source": "而且很多的密藏，修为不够，即便得到了也消化不了。反而是烫手山芋，怀璧之罪。",
+      "target": "Hơn nữa có rất nhiều mật tàng, nếu tu vi không đủ, cho dù lấy được cũng không tiêu hóa nổi. Ngược lại còn biến thành củ khoai lang bỏng tay, tự rước họa vào thân."
+    },
+    {
+      "segment_id": "0002_0028",
+      "source": "摆在方源面前的第一个难题，就是修为。",
+      "target": "Bài toán khó khăn đầu tiên bày ra trước mắt Phương Nguyên, chính là tu vi."
+    },
+    {
+      "segment_id": "0002_0029",
+      "source": "必须要尽快提升修为，若是像上一世慢腾腾的话，黄花菜都凉了。",
+      "target": "Bắt buộc phải nhanh chóng nâng cao tu vi, nếu như chậm rề rề như kiếp trước, thì mọi thứ đã nguội lạnh mất rồi."
+    },
+    {
+      "segment_id": "0002_0030",
+      "source": "“要尽快提升修为，就必须借助家族的资源。以我现在的情况，根本就没有能力在危机重重的群山中穿梭，一头普通的山猪都能够要了我的性命。若能达到三转蛊师的修为，就有基本能力自保，在这方世界中跋山涉水了。”",
+      "target": "\"Muốn nâng cao tu vi càng nhanh càng tốt, thì phải mượn nhờ tài nguyên của gia tộc. Với tình hình hiện tại của ta, căn bản không có khả năng đi lại trong những dãy núi trùng điệp nguy cơ, một con lợn rừng bình thường cũng có thể lấy mạng của ta. Nếu có thể đạt tới tu vi Cổ sư tam chuyển, sẽ có được khả năng tự vệ cơ bản, đủ để lặn lội non nước trong phương thế giới này.\""
+    },
+    {
+      "segment_id": "0002_0031",
+      "source": "以五百年锻炼出来的魔道巨擘的目光来看，这个青茅山真的是太小了，古月山寨更像是个牢笼。",
+      "target": "Dưới ánh mắt của một cự phách ma đạo được rèn luyện ra qua năm trăm năm mà nói, ngọn núi Thanh Mao này thực sự quá nhỏ bé, sơn trại Cổ Nguyệt thì lại càng giống như một cái lồng giam."
+    },
+    {
+      "segment_id": "0002_0032",
+      "source": "不过牢笼囚禁自由的同时，坚固的牢房也往往代表着某种安全。",
+      "target": "Có điều, trong lúc lồng giam giam cầm tự do, thì những phòng giam kiên cố cũng thường tượng trưng cho một loại an toàn nào đó."
+    },
+    {
+      "segment_id": "0002_0033",
+      "source": "“哼，短时间之内，就姑且在这牢笼里折腾拳脚吧。只要晋升蛊师三转，就离开这穷山僻壤。不过幸好，明天就是开窍大典，此后不久就能正式开启蛊师的修行。”",
+      "target": "\"Hừ, trong thời gian ngắn, cứ tạm thời múa may quyền cước trong cái lồng này vậy. Chỉ cần thăng cấp lên Cổ sư tam chuyển, ta sẽ rời khỏi nơi thâm sơn cùng cốc này. Nhưng may thay, ngày mai chính là đại điển Khai Khiếu, không lâu sau đó là có thể chính thức mở ra con đường tu hành Cổ sư.\""
+    },
+    {
+      "segment_id": "0002_0034",
+      "source": "一想到开窍大典，方源心中那尘封已久的记忆就在心底浮现上来。",
+      "target": "Vừa nghĩ tới đại điển Khai Khiếu, những ký ức phủ bụi bấy lâu trong đầu Phương Nguyên lại từ dưới đáy lòng hiện lên."
+    },
+    {
+      "segment_id": "0002_0035",
+      "source": "“资质么……”望着窗外，他不由冷笑三声。",
+      "target": "\"Tư chất sao...\" Nhìn ra ngoài cửa sổ, hắn không khỏi cười lạnh ba tiếng."
+    },
+    {
+      "segment_id": "0002_0036",
+      "source": "就在这时，房门被轻轻的推开，走进一位少年。",
+      "target": "Đúng lúc này, cửa phòng nhẹ nhàng bị đẩy ra, một thiếu niên bước vào."
+    },
+    {
+      "segment_id": "0002_0037",
+      "source": "“哥哥，你怎么站在窗边淋雨？”",
+      "target": "\"Ca ca, sao huynh lại đứng bên cửa sổ dầm mưa thế?\""
+    },
+    {
+      "segment_id": "0002_0038",
+      "source": "这少年体型消瘦，比方源要稍矮一些，面容极似方源。",
+      "target": "Thiếu niên này có dáng người gầy gò, thấp hơn Phương Nguyên một chút, khuôn mặt cực kỳ giống Phương Nguyên."
+    },
+    {
+      "segment_id": "0002_0039",
+      "source": "方源回头看着这个少年，脸上闪过一丝复杂之色。",
+      "target": "Phương Nguyên quay đầu nhìn thiếu niên này, trên mặt lóe lên một tia vẻ phức tạp."
+    },
+    {
+      "segment_id": "0002_0040",
+      "source": "“是你啊，我的孪生弟弟。”他微微扬起眉头，表情恢复了一贯的冷漠。",
+      "target": "\"Là đệ sao, đệ đệ sinh đôi của ta.\" Hắn khẽ nhướng mày, biểu cảm khôi phục lại vẻ lạnh lùng quen thuộc."
+    },
+    {
+      "segment_id": "0002_0041",
+      "source": "方正低下头，看着自己的脚尖，这是他的招牌动作：“看到哥哥的窗户没有关，就想悄悄的进来关了。明天就是开窍大典，哥哥你这么晚还不休息，舅父舅母知道了，恐怕会担心的。”",
+      "target": "Phương Chính cúi đầu, nhìn vào mũi chân của mình, đây là động tác đặc trưng của hắn: \"Thấy cửa sổ phòng của huynh chưa đóng, nên đệ muốn lặng lẽ vào đóng lại. Ngày mai là đại điển Khai Khiếu rồi, khuya thế này mà huynh còn chưa nghỉ ngơi, nếu cữu phụ cữu mẫu biết được, e rằng sẽ lo lắng đó.\""
+    },
+    {
+      "segment_id": "0002_0042",
+      "source": "他对方源的冷漠并不奇怪，皆因从小到大，他的哥哥一向如此。",
+      "target": "Hắn không hề lấy làm lạ trước sự lạnh nhạt của Phương Nguyên, vì từ nhỏ đến lớn, ca ca của hắn lúc nào cũng như vậy."
+    },
+    {
+      "segment_id": "0002_0043",
+      "source": "有时候他会想，也许天才就是这样的非同常人吧。虽然和哥哥有着极为相似的相貌，但是自己却平凡的像个蝼蚁一样。",
+      "target": "Có đôi khi hắn thường hay nghĩ, có lẽ những bậc thiên tài đều khác người như vậy chăng. Mặc dù có diện mạo cực kỳ giống với ca ca, nhưng bản thân mình lại bình phàm tựa như một con kiến hôi."
+    },
+    {
+      "segment_id": "0002_0044",
+      "source": "同时从一个娘胎里生出来，为什么上天就如此不公。赋予了哥哥钻石般的才情，而自己普通的就像个石子。",
+      "target": "Rõ ràng là chui ra từ cùng một bụng mẹ, tại sao ông trời lại bất công như thế chứ. Ban cho ca ca tài hoa tựa như kim cương, còn bản thân mình lại bình thường như một viên đá cuội."
+    },
+    {
+      "segment_id": "0002_0045",
+      "source": "身边的每个人，提到自己，都会说“这是方源的弟弟。”",
+      "target": "Bất cứ ai xung quanh, hễ nhắc đến hắn, đều sẽ nói rằng \"Đây là đệ đệ của Phương Nguyên.\""
+    },
+    {
+      "segment_id": "0002_0046",
+      "source": "舅父舅母也常教育自己，要向你哥哥学习呀。",
+      "target": "Cữu phụ cữu mẫu cũng thường xuyên giáo dục hắn: Phải học hỏi ca ca của cháu đi."
+    },
+    {
+      "segment_id": "0002_0047",
+      "source": "甚至就连自己有时候照镜子，看着自己的这张脸，都觉得有些厌恶！",
+      "target": "Thậm chí đến mức có lúc tự soi gương, nhìn khuôn mặt này của chính mình, hắn đều cảm thấy có chút chán ghét!"
+    },
+    {
+      "segment_id": "0002_0048",
+      "source": "这些念头已经有许多年了，日积月累地积压在内心深处。像是一块巨石压着心胸，这些年方正的头垂得越来越低，也越加沉默寡言。",
+      "target": "Những suy nghĩ này đã tồn tại nhiều năm rồi, qua năm tháng lại càng tích tụ sâu dưới đáy lòng. Tựa như có một tảng đá lớn đè nặng trong lồng ngực, những năm nay đầu của Phương Chính cứ cúi càng lúc càng thấp, người cũng càng thêm ít nói."
+    },
+    {
+      "segment_id": "0002_0049",
+      "source": "“担心……”想到舅父舅母，方源在心中发出一记无声的嗤笑。",
+      "target": "\"Lo lắng...\" Nghĩ đến cữu phụ cữu mẫu, trong lòng Phương Nguyên bật ra một tiếng cười nhạo không thành lời."
+    },
+    {
+      "segment_id": "0002_0050",
+      "source": "他记得很清楚，自己这个身体的双亲因为一次家族任务，而双双陨落。在三岁的时候，就和弟弟一起成了孤儿。",
+      "target": "Hắn nhớ rất rõ, song thân của thân thể này vì một lần chấp hành nhiệm vụ gia tộc mà đã cả hai cùng ngã xuống. Năm hắn ba tuổi, hắn cùng với đệ đệ đã trở thành trẻ mồ côi."
+    },
+    {
+      "segment_id": "0002_0051",
+      "source": "舅父舅母就依着抚养的名义，堂而皇之地侵占了双亲的遗产，并且苛刻地对待自己和弟弟。",
+      "target": "Cữu phụ cữu mẫu mượn danh nghĩa nuôi dưỡng, ngang nhiên chiếm đoạt di sản của phụ mẫu, đồng thời còn đối xử cay nghiệt với mình và đệ đệ."
+    },
+    {
+      "segment_id": "0002_0052",
+      "source": "本来作为穿越众，还计划着韬光养晦。但是生活的艰辛，让方源不得不选择展露异于常人的“才华”。",
+      "target": "Vốn dĩ là một kẻ xuyên không, hắn còn đang lên kế hoạch để giấu tài. Thế nhưng sự gian khổ của cuộc sống, khiến cho Phương Nguyên không thể không chọn cách bộc lộ \"tài hoa\" hơn người bình thường."
+    },
+    {
+      "segment_id": "0002_0053",
+      "source": "所谓的天才，其实不过是一个成熟灵魂的理智，以及地球上几篇流芳百世的唐诗宋词罢了。",
+      "target": "Cái gọi là thiên tài, thực chất chẳng qua chỉ là sự lý trí của một linh hồn trưởng thành, cùng với mấy bài Đường thi Tống từ lưu danh muôn thuở ở trên Trái Đất mà thôi."
+    },
+    {
+      "segment_id": "0002_0054",
+      "source": "就是这样小试身手，也被惊为天人，受到广泛关注。外在的压力下，也让年幼的方源不得不选择冷漠的表情，来伪装保护自己，减少露馅的可能。",
+      "target": "Chỉ hơi thử nghiệm một chút chút như vậy, cũng đã khiến mọi người kinh vi thiên nhân, nhận được sự chú ý rộng rãi. Dưới áp lực từ bên ngoài, Phương Nguyên khi còn nhỏ tuổi đành phải dùng biểu cảm lạnh nhạt, ngụy trang để bảo vệ bản thân, giảm bớt khả năng bị lộ tẩy."
+    },
+    {
+      "segment_id": "0002_0055",
+      "source": "久而久之，冷漠反而成了自己的习惯表情了。",
+      "target": "Dần dà, sự lạnh nhạt ngược lại đã trở thành vẻ mặt quen thuộc của hắn."
+    },
+    {
+      "segment_id": "0002_0056",
+      "source": "就这样，舅父舅母再也不好苛刻自己和弟弟，随着年龄越大，前途越被看好，待遇也跟着增加。",
+      "target": "Cứ như thế, cữu phụ cữu mẫu chẳng thể nào đối xử khắt khe với mình và đệ đệ được nữa, theo tuổi tác ngày càng lớn, tiền đồ ngày càng xán lạn, thì đãi ngộ cũng tăng lên theo."
+    },
+    {
+      "segment_id": "0002_0057",
+      "source": "不过这并非是爱，而是一种投资。",
+      "target": "Nhưng đó không phải là sự yêu thương, mà là một dạng đầu tư."
+    },
+    {
+      "segment_id": "0002_0058",
+      "source": "可笑这个弟弟，却没看清这个真相，不仅被舅父舅母蒙蔽，还对自己埋藏着怨恨。别看他现在这样乖巧老实，记忆中被测出甲等资质后，被家族大力培育，隐藏的仇恨嫉妒都释放出来，可没少针对、刁难、打压过自己这个亲哥哥。",
+      "target": "Nực cười là cái đứa đệ đệ này, lại chẳng thể nhìn rõ được chân tướng sự thật, không những bị cữu phụ cữu mẫu che mắt, mà còn chôn giấu sự oán hận đối với mình. Đừng thấy bộ dạng hiện tại của hắn ngoan ngoãn hiền lành như vậy, trong ký ức, sau khi được kiểm tra ra tư chất Giáp đẳng, được gia tộc dốc sức bồi dưỡng, những hận thù và ghen ghét bị giấu kín sẽ được giải phóng hết ra, hắn đã không ít lần nhắm vào, gây khó dễ, chèn ép người ca ca ruột thịt là mình đây."
+    },
+    {
+      "segment_id": "0002_0059",
+      "source": "而至于自己的资质嘛……",
+      "target": "Còn về phần tư chất của mình sao..."
+    },
+    {
+      "segment_id": "0002_0060",
+      "source": "呵呵，最高的只是个丙等罢了。",
+      "target": "Ha ha, cao nhất cũng chỉ là Bính đẳng mà thôi."
+    },
+    {
+      "segment_id": "0002_0061",
+      "source": "命运总是爱开玩笑。",
+      "target": "Số phận luôn thích trêu đùa với con người."
+    },
+    {
+      "segment_id": "0002_0062",
+      "source": "一胎双胞，哥哥资质只是丙等，却独享天才之名十几年。弟弟默默无闻，反而有着甲等天资。",
+      "target": "Sinh đôi cùng một lứa, tư chất ca ca chỉ là Bính đẳng, vậy mà lại một mình độc hưởng cái danh thiên tài hơn mười mấy năm. Đệ đệ mờ nhạt vô danh, ngược lại lại sở hữu thiên phú Giáp đẳng."
+    },
+    {
+      "segment_id": "0002_0063",
+      "source": "开窍的结果，让族人大跌眼镜。也让兄弟俩的处境待遇，彻底颠倒。",
+      "target": "Kết quả Khai Khiếu, khiến cho đám người trong tộc phải trợn tròn mắt. Nó cũng làm cho hoàn cảnh và sự đãi ngộ của hai huynh đệ, bị đảo ngược hoàn toàn."
+    },
+    {
+      "segment_id": "0002_0064",
+      "source": "弟弟如卧龙升天，哥哥似凤雏落地。",
+      "target": "Đệ đệ tựa như Ngọa Long thăng thiên, ca ca lại hệt như Phượng Sồ rớt xuống đất."
+    },
+    {
+      "segment_id": "0002_0065",
+      "source": "其后，是来自弟弟的多番刁难，舅父舅母的冷眼，族人的轻视。",
+      "target": "Sau đó, là muôn vàn những sự làm khó dễ đến từ đệ đệ, ánh mắt thờ ơ lạnh nhạt của cữu phụ cữu mẫu, cùng với thái độ khinh thường của tộc nhân."
+    },
+    {
+      "segment_id": "0002_0066",
+      "source": "恨吗？",
+      "target": "Có hận không?"
+    },
+    {
+      "segment_id": "0002_0067",
+      "source": "方源前世恨过，恨自己资质不足，恨家族无情，恨命运不公。",
+      "target": "Kiếp trước Phương Nguyên từng hận, hận bản thân mình có tư chất không đủ, hận gia tộc quá đỗi vô tình, hận sự bất công của số mệnh."
+    },
+    {
+      "segment_id": "0002_0068",
+      "source": "但是现在，他以五百年的人生经历，重新审视这段历程，心中却波澜不惊，没有一点恨意。",
+      "target": "Nhưng hiện tại, bằng kinh nghiệm sống trải dài năm trăm năm, nhìn nhận lại chặng đường này một lần nữa, cõi lòng hắn chỉ như mặt nước phẳng lặng chẳng gợn sóng, không có lấy một chút sự hờn hận."
+    },
+    {
+      "segment_id": "0002_0069",
+      "source": "有什么好愤恨的呢？",
+      "target": "Có gì đáng để căm phẫn chứ?"
+    },
+    {
+      "segment_id": "0002_0070",
+      "source": "换位思考一下，他也能理解弟弟，舅父舅母，以及五百年后那些围攻他的正派强敌。",
+      "target": "Đặt mình vào vị trí của người khác để suy nghĩ, hắn cũng có thể thấu hiểu cho đệ đệ, thấu hiểu cho cữu phụ cữu mẫu, cũng như thấu hiểu cho đám cường địch phe chính phái đã bao vây tấn công hắn ở thời điểm năm trăm năm sau."
+    },
+    {
+      "segment_id": "0002_0071",
+      "source": "弱肉强食，适者生存，本来就是这世间的本质。",
+      "target": "Cá lớn nuốt cá bé, kẻ thích nghi được thì sinh tồn, đó vốn dĩ đã là bản chất của thế gian này."
+    },
+    {
+      "segment_id": "0002_0072",
+      "source": "况且人各有志，都争那天机一线，彼此间打压杀伐有什么不理解的呢？",
+      "target": "Huống hồ mỗi người lại có một chí hướng riêng, đều phải tranh lấy một tia thiên cơ kia, chuyện chèn ép giết chóc lẫn nhau có gì là không thể hiểu được chứ?"
+    },
+    {
+      "segment_id": "0002_0073",
+      "source": "五百年的经历，早就让他看透了这一切，心中唯有长生大道。",
+      "target": "Kinh nghiệm suốt năm trăm năm qua, đã sớm làm hắn nhìn thấu mọi chuyện trên đời, trong lòng chỉ còn lại đại đạo trường sinh."
+    },
+    {
+      "segment_id": "0002_0074",
+      "source": "若是有人阻挡在他的这个追求，不管是谁，无非是你死我活罢了。",
+      "target": "Nếu như có người cản trở sự truy cầu này của hắn, thì bất kể đó là ai, rốt cuộc cũng chỉ là cục diện một mất một còn mà thôi."
+    },
+    {
+      "segment_id": "0002_0075",
+      "source": "心中的野望太大，踏上这条路，就注定举世皆敌，就注定独来独往，就注定杀劫重重。",
+      "target": "Dã vọng trong tim quá lớn, một khi bước lên con đường này, thì đã định trước là sẽ đối nghịch với cả thế giới, đã định trước là sẽ một thân một mình độc lai độc vãng, và đã định trước là sát kiếp sẽ giăng đầy."
+    },
+    {
+      "segment_id": "0002_0076",
+      "source": "这就是五百年人生凝练的觉悟。",
+      "target": "Đó chính là sự giác ngộ được cô đọng lại từ cuộc đời kéo dài năm trăm năm."
+    },
+    {
+      "segment_id": "0002_0077",
+      "source": "“复仇不是我打算，邪魔的道路亦从没有妥协二字。”想到这里，方源不禁失笑。回过头对着这个弟弟，淡淡地看了一眼，道：“你退下罢。”",
+      "target": "\"Báo thù không phải là dự định của ta, trên con đường của tà ma cũng chưa bao giờ có sự tồn tại của hai chữ thỏa hiệp.\" Nghĩ đến đây, Phương Nguyên không khỏi bật cười. Quay đầu lại liếc nhìn đứa đệ đệ kia bằng một ánh mắt thờ ơ, nhạt nhẽo bảo: \"Đệ lui ra đi.\""
+    },
+    {
+      "segment_id": "0002_0078",
+      "source": "方正不禁心中一悸，感觉哥哥的目光如冰刃般犀利，似乎洞穿到了他内心的最深处。",
+      "target": "Trái tim Phương Chính không khỏi run lên một cái, hắn có cảm giác ánh mắt của ca ca sắc bén hệt như lưỡi đao băng giá, dường như đã nhìn xuyên qua và thấu suốt những gì ở sâu thẳm nhất trong tâm can hắn vậy."
+    },
+    {
+      "segment_id": "0002_0079",
+      "source": "在这样的目光下，他如赤身裸体在雪地里，没有丝毫的秘密可言。",
+      "target": "Dưới một ánh mắt như thế, hắn giống như đang đứng trần truồng giữa mặt đất đầy tuyết, chẳng còn chút bí mật nào để nói cả."
+    },
+    {
+      "segment_id": "0002_0080",
+      "source": "“那明天见，哥哥。”当下再不敢多话，方正缓缓关上房门，诺诺而退。",
+      "target": "\"Vậy thì ngày mai gặp lại, ca ca.\" Lúc này Phương Chính không dám nhiều lời nữa, hắn chầm chậm đóng cửa phòng lại rồi khúm núm lui đi."
+    },
+    {
+      "segment_id": "0002_0081",
+      "source": "（感谢爱gml、报炉吃瓜、明晓言语0525朋友们的打赏，感谢网上飞的豬、梦里惊鸿照影来两位同学的满分评价票。大家一直以来的支持，是我最大的感动和动力。谢谢大家如此相信我，支持我，投推荐票给我。）",
+      "target": "(Cảm ơn bạn Ái gml, Báo Lô Cật Qua, Minh Hiểu Ngôn Ngữ 0525 đã khen thưởng, cảm ơn bạn Trư Bay Trên Mạng, Mộng Lý Kinh Hồng Chiếu Ảnh Lai đã gửi tặng phiếu đánh giá điểm tối đa. Sự ủng hộ từ trước tới nay của mọi người, là niềm cảm động và cũng là động lực lớn nhất của tôi. Cảm ơn mọi người đã tin tưởng, ủng hộ và bỏ phiếu đề cử cho tôi như vậy.)"
+    },
+    {
+      "segment_id": "0002_0082",
+      "source": "（新书期间，稳定更新。目前一天两更，上午八点一更，下午两点一更。）",
+      "target": "(Trong thời kỳ sách mới, sẽ duy trì cập nhật ổn định. Hiện tại một ngày sẽ đăng hai chương, 8 giờ sáng một chương, 2 giờ chiều một chương.)"
+    },
+    {
+      "segment_id": "0002_0083",
+      "source": "（还有一个通知，以前老书《御妖至尊》的书友群也会做改变。原《御妖至尊》一群、二群，转为《蛊真人》一群、二群，原《御妖至尊》vip群改变为《蛊真人》三群。在今后大约40天的时间内，我会亲自主持管理工作。所以在节假日期间，请老朋友们冒个泡泡，这不是件难事。在本书上架当天，进行总的剔除工作，踢去一直没有发言的人。同时会设立《蛊真人》vip群，此群会要订阅验证。）",
+      "target": "(Còn một thông báo nữa, đó là group độc giả của quyển sách cũ \"Ngự Yêu Chí Tôn\" cũng sẽ có sự thay đổi. Group 1, group 2 của \"Ngự Yêu Chí Tôn\" ban đầu sẽ chuyển thành group 1, group 2 của \"Cổ Chân Nhân\", còn group vip của \"Ngự Yêu Chí Tôn\" ban đầu thì sẽ đổi thành group 3 của \"Cổ Chân Nhân\". Trong khoảng 40 ngày sắp tới, tôi sẽ là người đích thân chủ trì công việc quản lý. Vì vậy trong những ngày nghỉ lễ, xin mời các vị bằng hữu cũ hãy nổi lên ngoi bọt một chút, đây vốn cũng chẳng phải là chuyện khó khăn gì. Vào ngày mà quyển sách này được đưa lên kệ, tôi sẽ tiến hành công tác thanh lọc tổng thể, kích bay những người không bao giờ phát biểu. Đồng thời sẽ thành lập group vip \"Cổ Chân Nhân\", group này sẽ yêu cầu xác nhận đăng ký theo dõi.)"
+    }
+  ]
+}
+```

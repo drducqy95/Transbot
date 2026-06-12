@@ -1,60 +1,40 @@
-I will start by listing the contents of the workspace directory to check if there are any specific guidelines or translation templates/glossaries we should follow.
-I will read the `README.md` file to see if there is any project documentation or guidelines.
-I will list the contents of the `Script` directory to see if there are translation-related scripts or rules we need to check.
-I will use the `grep_search` tool to look for terminology-related keywords in the Python scripts, which might give us context on how names/terms are validated or structured in the bot.
-I will search for `term` in the Script directory to see if there is any term filtering logic.
-I will list the contents of the `Source` directory to see if there are translation resource files.
-I will search for `approved` or `rejected` in the scripts to see if there is any predefined logic or schemas for this validation.
-I will search for `uncertain` in the Script directory as well.
-I will list the contents of `Global State` directory to see if there are global configurations or active translation lists there.
-I will list the `Temp` directory.
-I will list the contents of the `Temp/global_rules` directory.
-I will read the `trinity-system.md` file from `Temp/global_rules` to see if it contains rules or standards that apply to our translations or term filtering.
-I will view the `Temp/home.json` file to check if it contains any metadata or translation projects context.
-I will list the contents of the `Temp/global_workflows` directory to see if there are workflows related to glossary validation.
-I will read the `translate-wiki.md` workflow file to check for glossary and term extraction validation guidelines.
-I will list the `Temp/global_skills` directory to see what translation skills are defined.
-I will list the `Temp/global_skills/skills` directory to find translation skills.
-I will list the `Temp/global_skills/skills/translation` directory.
-I will read `glossary-manager.md` to see the guidelines on terms, names, and glossary validation rules.
-Based on the translation guidelines in [glossary-manager.md](file:///mnt/sdcard/My%20Agent/Transbot/Temp/global_skills/skills/translation/glossary-manager.md), proper terminology (names, locations, techniques, titles, entities, etc.) should be approved, while sentence fragments, grammatical connectives, dialogue pieces, and punctuation should be rejected. Ambiguous terms or suspected typos are classified as uncertain.
-
-Here is the JSON review of the requested terms:
-
 ```json
 {
-  "approved": [
+  "terms": [
     {
       "term": "咏梅",
-      "reason": "Poetry title (Ode to the Plum Blossom) or a proper noun/technique name."
+      "status": "uncertain",
+      "note": "Could be the poem title 'Ode to Plum Blossom' (咏梅诗) or a character name. Need context: if standalone → likely a poem title (translate); if part of dialogue → could be a name (transliterate)."
+    },
+    {
+      "term": "将敬酒",
+      "status": "uncertain",
+      "note": "Likely a typo for 将进酒 (Qiang Jin Jiu / 'Invitation to Wine'), Li Bai's famous poem. If intentional as written, it means 'will offer a toast.' Verify which is intended."
     },
     {
       "term": "御妖至尊",
-      "reason": "Proper title/name (Supreme Demon Tamer / Supreme Exorcist), likely a novel title, character rank, or epithet."
+      "status": "uncertain",
+      "note": "Sounds like a novel/cultivation title ('Supreme Demon Controller' / 'Peerless Demon Tamer'). If a work title → keep in Pinyin with parenthetical translation; if a title/alias → translate."
+    },
+    {
+      "term": "我也听说过，",
+      "status": "rejected",
+      "note": "Regular dialogue: 'I've also heard that,' — translate inline, not a named entity or term."
     },
     {
       "term": "江城子",
-      "reason": "Classical poetry tune pattern (Ci牌名) or a specific poetry title."
-    }
-  ],
-  "rejected": [
-    {
-      "term": "我也听说过，",
-      "reason": "Common dialogue/sentence fragment ('I have also heard of it,') containing punctuation; not a terminology."
+      "status": "uncertain",
+      "note": "Classical ci poem title by Su Shi ('Riverside Town' / 'Jiang Cheng Zi'). Usually kept as Pinyin with translation note, or translated if the poem is quoted in text."
     },
     {
       "term": "结尾和大家打",
-      "reason": "Incomplete sentence/action fragment ('At the end, with everyone...'), not a glossary term."
+      "status": "rejected",
+      "note": "Fragment meaning 'ending and fight everyone' — regular text, not a term."
     },
     {
       "term": "，还有",
-      "reason": "Grammatical conjunction fragment (', and also') containing punctuation; not a terminology."
-    }
-  ],
-  "uncertain": [
-    {
-      "term": "将敬酒",
-      "reason": "Likely a typo for the famous classical poem 《将进酒》 (Qiang Jin Jiu - 'Bring in the Wine') by Li Bai, or a common verb phrase ('about to offer a toast')."
+      "status": "rejected",
+      "note": "Punctuation + conjunction (', and also') — regular grammar, translate inline."
     }
   ]
 }
