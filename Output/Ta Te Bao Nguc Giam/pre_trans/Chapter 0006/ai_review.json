@@ -12,3 +12,10 @@
   "uncertain": []
 }
 ```
+
+### Explanation
+*   **Approved**: 
+    *   `祭典广场` (Festival Square): A valid location name/term.
+    *   `黑蔷薇胸章` (Black Rose Badge/Brooch): A valid item name/term.
+*   **Rejected**: 
+    *   `吧……尽可能`, `是他们的身份`, `终于到了。`: These are all sentence fragments or general phrases rather than specific terms or proper nouns that would belong in a glossary.

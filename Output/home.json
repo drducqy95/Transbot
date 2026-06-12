@@ -290,9 +290,9 @@
       ],
       "completed_chapters": 8,
       "total_chapters": 2169,
-      "latest_chapter": "0006 祭典广场",
+      "latest_chapter": "Chương 6: Quảng trường Tế Điển",
       "detail": "Tiến độ: 6/2169 chương | Mới nhất: Chương 7: Không gian Vận Mệnh",
-      "updated_at": "2026-06-12T18:08:04+07:00",
+      "updated_at": "2026-06-12T18:38:46+07:00",
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Ta Te Bao Nguc Giam/README.md",
       "toc_path": "Output/Ta Te Bao Nguc Giam/toc.json"
@@ -971,7 +971,7 @@
     }
   ],
   "metadata": {
-    "generated_at": "2026-06-12T18:37:25+07:00",
+    "generated_at": "2026-06-12T18:38:46+07:00",
     "total_books": 17,
     "source": "Dichtrung/Output"
   },

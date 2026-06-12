@@ -1,5 +1,413 @@
-Authentication required. Please visit the URL to log in:
-  https://accounts.google.com/o/oauth2/auth?access_type=offline&client_id=1071006060591-tmhssin2h21lcre235vtolojh4g403ep.apps.googleusercontent.com&code_challenge=SZuUPueqnUcbi6nbNEkOYjodSeBU6p4Oc7hXE4Ka3pg&code_challenge_method=S256&prompt=consent&redirect_uri=https%3A%2F%2Fantigravity.google%2Foauth-callback&response_type=code&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcclog+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fexperimentsandconfigs+openid&state=qtXwDaJT10L75VnJ1SgHoA
-
-Waiting for authentication (timeout 30s)...
-Error: authentication timed out.
+```json
+{
+  "chapter_number": 6,
+  "chapter_title_vi": "Chương 6: Quảng trường Tế Điển",
+  "segments": [
+    {
+      "segment_id": "0001",
+      "source": "# 第6章 祭典广场",
+      "target": "# Chương 6: Quảng trường Tế Điển"
+    },
+    {
+      "segment_id": "0002",
+      "source": "“哥哥，你去哪了？怎么不回家？”",
+      "target": "“Anh, anh đi đâu vậy? Sao không về nhà?”"
+    },
+    {
+      "segment_id": "0003",
+      "source": "就在韩东快速由暗巷走出，刚准备向路人打听一切情况时……一阵悦耳的软妹子声音从身旁传来。",
+      "target": "Ngay khi Hàn Đông vừa nhanh chóng bước ra khỏi con hẻm tối, đang định tìm người đi đường để dò hỏi tình hình... thì một giọng nữ êm tai vang lên từ bên cạnh."
+    },
+    {
+      "segment_id": "0004",
+      "source": "韩东的大脑反应极快。",
+      "target": "Đại não Hàn Đông phản ứng cực nhanh."
+    },
+    {
+      "segment_id": "0005",
+      "source": "已在脑海中构想出了一位穿着蕾丝蓬蓬裙、金发碧眼的可爱萌妹子站在旁边……从言语上分析，自然是这位尼古拉斯的妹妹。",
+      "target": "Trong đầu hắn đã mường tượng ra hình ảnh một cô bé dễ thương mặc váy bồng phối ren, tóc vàng mắt xanh đang đứng bên cạnh... Phân tích từ lời nói, hiển nhiên đây chính là em gái của tên Nicholas kia."
+    },
+    {
+      "segment_id": "0006",
+      "source": "就在韩东偏过头时，情况与他想象的截然不同。",
+      "target": "Nhưng khi Hàn Đông quay đầu lại, tình hình lại hoàn toàn trái ngược với những gì hắn tưởng tượng."
+    },
+    {
+      "segment_id": "0007",
+      "source": "少女相比于自己瘦弱身板，要显得健康不少……不过，同样因缺少部分维生素，皮肤偏黄。",
+      "target": "So với thân hình gầy gò yếu ớt của hắn, thiếu nữ trông khỏe mạnh hơn nhiều... Tuy nhiên, cũng do thiếu vitamin nên da có phần hơi vàng."
+    },
+    {
+      "segment_id": "0008",
+      "source": "年龄应该在十五岁上下。",
+      "target": "Tuổi trạc mười lăm."
+    },
+    {
+      "segment_id": "0009",
+      "source": "没有想象中的波浪金发。",
+      "target": "Không có mái tóc vàng gợn sóng như tưởng tượng."
+    },
+    {
+      "segment_id": "0010",
+      "source": "而是与韩东相同的褐色短发以及一对海蓝色的眼瞳。",
+      "target": "Mà là mái tóc ngắn màu nâu giống hệt Hàn Đông, cùng với một đôi mắt màu xanh lam."
+    },
+    {
+      "segment_id": "0011",
+      "source": "少女戴着相当粗糙的铜制护目镜、身着牛仔背带裤、侧面还佩戴着一个工具袋，着实像一位年轻工匠。",
+      "target": "Thiếu nữ đeo một chiếc kính bảo hộ bằng đồng khá thô kệch, mặc quần yếm bò, bên hông còn đeo một túi đồ nghề, trông y hệt một thợ thủ công trẻ tuổi."
+    },
+    {
+      "segment_id": "0012",
+      "source": "另外，在少女手里还紧紧抱着一袋香喷喷的食物……相似宝贝一样抱在怀里，害怕被他人给抢去。",
+      "target": "Ngoài ra, cô bé còn ôm khư khư một túi thức ăn thơm phức... ôm chặt trong lòng như bảo bối, chỉ sợ bị người khác cướp mất."
+    },
+    {
+      "segment_id": "0013",
+      "source": "“出来透透气……因为时间不多了。”",
+      "target": "“Anh ra ngoài hóng gió chút... vì thời gian không còn nhiều nữa.”"
+    },
+    {
+      "segment_id": "0014",
+      "source": "韩东生前是意大利本土高校的副教授，一口流利的英语可是日常基础。",
+      "target": "Hàn Đông khi còn sống vốn là phó giáo sư của một trường đại học ở Ý, nói tiếng Anh lưu loát chỉ là kỹ năng cơ bản hàng ngày."
+    },
+    {
+      "segment_id": "0015",
+      "source": "另外，韩东的说法很有意思，故意提到‘时间问题’，并在少女面前晃动着手环。",
+      "target": "Hơn nữa, cách nói của Hàn Đông rất thú vị, hắn cố tình nhắc đến 'vấn đề thời gian', đồng thời vung vẩy chiếc vòng tay trước mặt thiếu nữ."
+    },
+    {
+      "segment_id": "0016",
+      "source": "谁知，这一动作直接惹得少女眼眶湿润，从侧面抱住韩东。",
+      "target": "Nào ngờ, hành động này lại khiến hốc mắt thiếu nữ ươn ướt, cô bé ôm chầm lấy Hàn Đông từ bên hông."
+    },
+    {
+      "segment_id": "0017",
+      "source": "“哥哥绝不会死的……妮娜相信哥哥一定能成为‘返回者’，活着回家。”",
+      "target": "“Anh nhất định sẽ không chết đâu... Nina tin anh chắc chắn sẽ trở thành ‘người trở về’, sống sót về nhà.”"
+    },
+    {
+      "segment_id": "0018",
+      "source": "妮娜。",
+      "target": "Nina."
+    },
+    {
+      "segment_id": "0019",
+      "source": "妹妹的名字知道了。",
+      "target": "Đã biết tên của cô em gái."
+    },
+    {
+      "segment_id": "0020",
+      "source": "不过，相比于妹妹的名字，韩东还是更在意倒计时的问题，以及其提到的‘返回者’名词。",
+      "target": "Thế nhưng, so với tên của em gái, Hàn Đông vẫn để tâm hơn đến vấn đề đếm ngược, cùng với danh từ ‘người trở về’ mà cô bé vừa nhắc tới."
+    },
+    {
+      "segment_id": "0021",
+      "source": "这位懦弱的青年选择自杀的原因，十有八九与倒计时相关了。",
+      "target": "Nguyên nhân khiến thanh niên hèn nhát này chọn cách tự sát, tám chín phần mười là có liên quan đến việc đếm ngược."
+    },
+    {
+      "segment_id": "0022",
+      "source": "到底是什么事情能逼得一个人绝望而放弃生命？韩东很好奇。",
+      "target": "Rốt cuộc là chuyện gì có thể ép một người tuyệt vọng đến mức từ bỏ sinh mệnh? Hàn Đông rất tò mò."
+    },
+    {
+      "segment_id": "0023",
+      "source": "“嗯，我会活着回来的……当然，还是有些紧张，所以才出来散散心。妮娜你放心好了，不会有事的。”",
+      "target": "“Ừm, anh sẽ sống sót trở về mà... Tất nhiên, anh vẫn hơi căng thẳng nên mới ra ngoài đi dạo cho khuây khỏa. Nina yên tâm đi, sẽ không sao đâu.”"
+    },
+    {
+      "segment_id": "0024",
+      "source": "韩东尽可能装作很阳光与自信的模样，毕竟女孩子哭是一件很麻烦的事情。",
+      "target": "Hàn Đông cố gắng tỏ ra thật rạng rỡ và tự tin, suy cho cùng con gái khóc lóc là một chuyện rất phiền phức."
+    },
+    {
+      "segment_id": "0025",
+      "source": "妮娜将护目镜上移，擦拭着湿润的眼眶，将准备已久的食物拿了出来",
+      "target": "Nina đẩy kính bảo hộ lên, lau đi hốc mắt ươn ướt, lấy phần thức ăn đã chuẩn bị từ lâu ra."
+    },
+    {
+      "segment_id": "0026",
+      "source": "“嗯！这是妈妈给你做的炸鱼薯条和卷心菜三明治，哥哥一边吃一边去【祭典广场】吧……尽可能提前十五分钟到场。”",
+      "target": "“Vâng! Đây là cá tẩm bột chiên kèm khoai tây và sandwich bắp cải mẹ làm cho anh, anh vừa ăn vừa đến 【Quảng trường Tế Điển】 nhé... cố gắng tới trước mười lăm phút.”"
+    },
+    {
+      "segment_id": "0027",
+      "source": "“好……”",
+      "target": "“Được...”"
+    },
+    {
+      "segment_id": "0028",
+      "source": "韩东暗自记下‘祭典广场’这一地点。",
+      "target": "Hàn Đông thầm ghi nhớ địa điểm ‘Quảng trường Tế Điển’."
+    },
+    {
+      "segment_id": "0029",
+      "source": "似乎必须在发条装置倒计时结束前赶到，否则就会发生很恐怖的事情。",
+      "target": "Có vẻ như bắt buộc phải tới nơi trước khi đồng hồ đếm ngược kết thúc, nếu không sẽ có chuyện cực kỳ kinh khủng xảy ra."
+    },
+    {
+      "segment_id": "0030",
+      "source": "前往广场的路上，韩东由于太过饥饿，没有太顾及形象，每一口都相当‘奢侈’，至少包含一整根炸鱼并搭配薯条。",
+      "target": "Trên đường đến quảng trường, vì quá đói nên Hàn Đông không mấy bận tâm đến hình tượng, mỗi miếng cắn đều khá 'xa xỉ', ít nhất cũng phải nhai trọn một miếng cá chiên kèm theo khoai tây."
+    },
+    {
+      "segment_id": "0031",
+      "source": "若感觉油分过重，就咬下一口蔬菜三明治来中合一下。",
+      "target": "Nếu thấy quá ngấy mỡ thì sẽ cắn một miếng sandwich rau để trung hòa lại."
+    },
+    {
+      "segment_id": "0032",
+      "source": "由于国家与家境的问题，这样的食物对于瓦伦这一家来说，一年有时候都吃不到一次……因此，妮娜才会如同对待宝物一般，全程紧紧抱着食物。",
+      "target": "Do vấn đề về quốc gia và hoàn cảnh gia đình, đồ ăn thế này đối với nhà Warren mà nói, có khi cả năm cũng chẳng được ăn một lần... Thế nên, Nina mới nâng niu nó như bảo bối, ôm khư khư thức ăn suốt chặng đường."
+    },
+    {
+      "segment_id": "0033",
+      "source": "然而……",
+      "target": "Tuy nhiên..."
+    },
+    {
+      "segment_id": "0034",
+      "source": "跟在一旁的妮娜，几乎快被韩东的鲁莽吃相，配合炸鱼薯条散发出来的香味给馋哭了。",
+      "target": "Nina đi theo bên cạnh gần như sắp khóc thét lên vì thèm, trước tướng ăn thô lỗ của Hàn Đông cùng với hương thơm tỏa ra từ món cá tẩm bột chiên và khoai tây."
+    },
+    {
+      "segment_id": "0035",
+      "source": "韩东一脸无奈。",
+      "target": "Vẻ mặt Hàn Đông lộ vẻ bất đắc dĩ."
+    },
+    {
+      "segment_id": "0036",
+      "source": "他可是七年都没吃过一丁点人类食物，说实话，他并不愿意分享。",
+      "target": "Hắn đã bảy năm ròng không được nếm mùi thức ăn của con người rồi, thành thật mà nói, hắn không hề muốn chia sẻ chút nào."
+    },
+    {
+      "segment_id": "0037",
+      "source": "考虑到这层兄妹关系在今后可能会用上，同时也需要从妮娜口中获取关于圣城的一些信息。",
+      "target": "Nhưng suy xét đến việc mối quan hệ anh em này sau này có thể sẽ hữu dụng, đồng thời cũng cần khai thác thêm thông tin về Thánh Thành từ miệng Nina."
+    },
+    {
+      "segment_id": "0038",
+      "source": "韩东才将一块体积偏小的炸鱼分了出去。",
+      "target": "Hàn Đông mới bẻ một miếng cá chiên hơi nhỏ chia cho cô bé."
+    },
+    {
+      "segment_id": "0039",
+      "source": "“我不饿。”",
+      "target": "“Em không đói.”"
+    },
+    {
+      "segment_id": "0040",
+      "source": "见韩东递过来的炸鱼块，妮娜一边舔掉嘴角的唾液、一边毫无说服力地说着。",
+      "target": "Nhìn miếng cá chiên Hàn Đông đưa tới, Nina vừa liếm đi nước bọt đọng trên khóe miệng, vừa cất tiếng đáp không chút thuyết phục."
+    },
+    {
+      "segment_id": "0041",
+      "source": "毕竟，这可能是韩东的最后一餐……妮娜很清楚哥哥即将经历多么危险的事件。",
+      "target": "Suy cho cùng, đây có thể là bữa ăn cuối cùng của Hàn Đông... Nina rất rõ anh trai mình sắp phải trải qua chuyện nguy hiểm nhường nào."
+    },
+    {
+      "segment_id": "0042",
+      "source": "“拿去吧，我吃饱了。”",
+      "target": "“Cầm lấy đi, anh ăn no rồi.”"
+    },
+    {
+      "segment_id": "0043",
+      "source": "“……好吧，谢谢哥哥。”      妮娜一接过鱼块，似乎想学着韩东将整块炸鱼全部放入口中……但有感觉太过奢侈，于是一口一口慢慢咬食。",
+      "target": "“...Vâng, cảm ơn anh.” Nina vừa nhận lấy miếng cá, dường như cũng muốn học theo Hàn Đông bỏ tọt cả vào miệng... nhưng lại cảm thấy làm vậy thì xa xỉ quá, nên đành cắn từng miếng chầm chậm nhấm nháp."
+    },
+    {
+      "segment_id": "0044",
+      "source": "每吃上一口，都会不好意思地偷瞄一眼韩东。",
+      "target": "Cứ mỗi lần ăn một miếng, cô bé lại ngượng ngùng lén nhìn Hàn Đông."
+    },
+    {
+      "segment_id": "0045",
+      "source": "…………",
+      "target": "......"
+    },
+    {
+      "segment_id": "0046",
+      "source": "花费了近半小时的快速步行，【祭典广场】终于到了。",
+      "target": "Mất khoảng nửa giờ đi bộ thật nhanh, cuối cùng cũng đến 【Quảng trường Tế Điển】."
+    },
+    {
+      "segment_id": "0047",
+      "source": "巨型。",
+      "target": "Khổng lồ."
+    },
+    {
+      "segment_id": "0048",
+      "source": "韩东从未见过这般巨型的广场。",
+      "target": "Hàn Đông chưa từng nhìn thấy quảng trường nào khổng lồ đến vậy."
+    },
+    {
+      "segment_id": "0049",
+      "source": "而且在内部聚集着超过万人。",
+      "target": "Hơn nữa bên trong còn tụ tập hơn vạn người."
+    },
+    {
+      "segment_id": "0050",
+      "source": "一眼望去，至少有半数人的手腕都戴着与韩东相似的发条手环……而且，大多数人均属于青少年。",
+      "target": "Liếc mắt nhìn lại, ít nhất phân nửa số người ở đây đều đeo vòng tay dây cót tương tự như Hàn Đông... Thêm vào đó, phần lớn đều là thanh thiếu niên."
+    },
+    {
+      "segment_id": "0051",
+      "source": "这也就解释了，为何韩东在平民建筑中见不着青少年的问题。",
+      "target": "Điều này cũng giải thích cho việc tại sao Hàn Đông lại không nhìn thấy bóng dáng thanh thiếu niên nào trong khu dân cư."
+    },
+    {
+      "segment_id": "0052",
+      "source": "“还剩20分钟……怎么有一种不祥的预感。大型献祭现场？！”",
+      "target": "“Còn lại 20 phút... Sao lại có dự cảm chẳng lành thế này. Hiện trường hiến tế quy mô lớn sao?!”"
+    },
+    {
+      "segment_id": "0053",
+      "source": "韩东第一个想到的就是献祭仪式。",
+      "target": "Ý nghĩ đầu tiên lóe lên trong đầu Hàn Đông chính là nghi thức hiến tế."
+    },
+    {
+      "segment_id": "0054",
+      "source": "不过，仔细想来并不太可能……一次性献祭数千名象征着未来国力的青少年，除非这个国家是不想延续下去了。",
+      "target": "Tuy nhiên, nghĩ kỹ lại thì thấy không có khả năng cho lắm... Hiến tế cùng lúc hàng ngàn thanh thiếu niên đại diện cho sức mạnh tương lai của đất nước, trừ phi quốc gia này không muốn kéo dài sự tồn vong nữa."
+    },
+    {
+      "segment_id": "0055",
+      "source": "而且，在妹妹妮娜的说法中，他并不一定会死，只是死亡的概率很高而已。",
+      "target": "Hơn nữa, theo lời em gái Nina, hắn chưa chắc đã phải chết, chỉ là xác suất tử vong rất cao mà thôi."
+    },
+    {
+      "segment_id": "0056",
+      "source": "“妮娜，就送到这里吧！放心，我会还活着回来的。”",
+      "target": "“Nina, đưa đến đây thôi! Yên tâm đi, anh sẽ sống sót trở về.”"
+    },
+    {
+      "segment_id": "0057",
+      "source": "“嗯，无论你是不是‘哥哥’，我都会等着你。”",
+      "target": "“Vâng, cho dù anh có phải là ‘anh trai’ hay không, em vẫn sẽ luôn chờ anh.”"
+    },
+    {
+      "segment_id": "0058",
+      "source": "这句话让韩东有些诧异。",
+      "target": "Câu nói này khiến Hàn Đông có phần kinh ngạc."
+    },
+    {
+      "segment_id": "0059",
+      "source": "已经跑开的妮娜站在场外吐了吐舌头，向其挥手道别。",
+      "target": "Nina đã chạy ra xa, đứng ngoài rìa quảng trường thè lưỡi rồi vẫy tay chào tạm biệt hắn."
+    },
+    {
+      "segment_id": "0060",
+      "source": "与此同时。",
+      "target": "Cùng lúc đó."
+    },
+    {
+      "segment_id": "0061",
+      "source": "一阵阵熟悉的金属马蹄声传来。",
+      "target": "Những tiếng móng ngựa kim loại quen thuộc dồn dập vang lên."
+    },
+    {
+      "segment_id": "0062",
+      "source": "不过，这一次并非马车，而是一群骑着机械战马的黑衣骑士。",
+      "target": "Nhưng lần này không phải xe ngựa, mà là một nhóm kỵ sĩ áo đen cưỡi chiến mã cơ khí."
+    },
+    {
+      "segment_id": "0063",
+      "source": "共计三十人。",
+      "target": "Tổng cộng có ba mươi người."
+    },
+    {
+      "segment_id": "0064",
+      "source": "韩东隐隐感觉，这三十人所散发出来的气，能压过广场内聚集的上万平民。",
+      "target": "Hàn Đông loáng thoáng cảm nhận được khí tức tỏa ra từ ba mươi người này có thể áp đảo cả vạn thường dân đang tập trung trong quảng trường."
+    },
+    {
+      "segment_id": "0065",
+      "source": "“黑蔷薇骑士团！！”",
+      "target": "“Kỵ sĩ đoàn Hắc Tường Vi!!”"
+    },
+    {
+      "segment_id": "0066",
+      "source": "广场内的民众们不由得高呼出这一崇高而让人敬畏的名字。",
+      "target": "Đám đông trong quảng trường bất giác hô vang cái tên cao cả và đầy uy úy này."
+    },
+    {
+      "segment_id": "0067",
+      "source": "他们是这个国家的中坚力量，他们是人类得以幸存的真正希望。",
+      "target": "Họ là lực lượng nòng cốt của quốc gia này, là niềm hy vọng sống sót thực sự của nhân loại."
+    },
+    {
+      "segment_id": "0068",
+      "source": "「黑蔷薇胸章」是他们的身份象征。",
+      "target": "「Huy hiệu Hắc Tường Vi」 là biểu tượng thân phận của họ."
+    },
+    {
+      "segment_id": "0069",
+      "source": "穿在他们身上的黑铁盔甲，看似沉重，实则轻便而合身。",
+      "target": "Bộ giáp sắt đen họ khoác trên người, nhìn thì nặng nề nhưng thực chất lại mỏng nhẹ và vừa vặn."
+    },
+    {
+      "segment_id": "0070",
+      "source": "骑士们并未佩戴头盔，而是戴着一张融合着‘护目镜’元素的黑钢面具。",
+      "target": "Các kỵ sĩ không đội mũ giáp, mà lại đeo một chiếc mặt nạ thép đen tích hợp với các chi tiết của ‘kính bảo hộ’."
+    },
+    {
+      "segment_id": "0071",
+      "source": "这也让韩东很好奇，之前马车上的一行人也都戴着相似的护目镜。",
+      "target": "Điều này cũng khiến Hàn Đông cực kỳ hiếu kỳ, nhóm người trên xe ngựa ban nãy cũng đeo những chiếc kính bảo hộ tương tự."
+    },
+    {
+      "segment_id": "0072",
+      "source": "似乎，‘护目镜’这一道具，在这个世界里有着其特殊的意义……不只是简单应用于工业，在对待‘异物’时也需要用上。",
+      "target": "Dường như, món đồ ‘kính bảo hộ’ này mang một ý nghĩa đặc biệt nào đó trong thế giới này... không chỉ đơn thuần là dùng trong công nghiệp, mà lúc đối phó với ‘Dị Vật’ cũng cần phải sử dụng."
+    },
+    {
+      "segment_id": "0073",
+      "source": "至于他们的坐骑均选用最上等的纯血黑马。",
+      "target": "Còn tọa kỵ của họ đều là những con ngựa đen thuần chủng thượng đẳng nhất."
+    },
+    {
+      "segment_id": "0074",
+      "source": "与陆然之前所见的马车不同，这些黑马在一定程度上保留着强健的马腿肌肉，采用内嵌式的高级改造，强化马匹的行动力。",
+      "target": "Khác với những chiếc xe ngựa mà Hàn Đông từng thấy trước đó, những con ngựa đen này vẫn giữ lại phần cơ bắp đùi khỏe mạnh ở một mức độ nhất định, chúng được áp dụng công nghệ cải tạo cao cấp dạng cấy ghép để tăng cường khả năng hoạt động."
+    },
+    {
+      "segment_id": "0075",
+      "source": "“这些骑士应该不属于普通人，低调点为好。”",
+      "target": "“Những kỵ sĩ này chắc chắn không phải người bình thường, tốt nhất cứ khiêm tốn một chút.”"
+    },
+    {
+      "segment_id": "0076",
+      "source": "韩东尽可能混迹在人员密度较高的地方，将存在感降到最低。",
+      "target": "Hàn Đông cố gắng len vào khu vực đông người nhất, giảm bớt sự tồn tại của mình xuống mức thấp nhất."
+    },
+    {
+      "segment_id": "0077",
+      "source": "三十名黑骑士围绕在广场周边，等间距站立，将广场完全封锁。",
+      "target": "Ba mươi hắc kỵ sĩ bao quanh quảng trường, đứng cách đều nhau, phong tỏa toàn bộ quảng trường."
+    },
+    {
+      "segment_id": "0078",
+      "source": "为首的一位黑骑士抽出其腰间的华丽佩剑，可见其剑身表面缠绕着一种白色寒气。",
+      "target": "Tên hắc kỵ sĩ dẫn đầu rút thanh trường kiếm lộng lẫy bên hông ra, có thể thấy rõ trên bề mặt lưỡi kiếm đang quấn quanh một luồng hàn khí màu trắng."
+    },
+    {
+      "segment_id": "0079",
+      "source": "剑刃直指夜空。",
+      "target": "Mũi kiếm chĩa thẳng lên bầu trời đêm."
+    },
+    {
+      "segment_id": "0080",
+      "source": "从面具下端发出的雄浑之声，覆盖整座广场。",
+      "target": "Một giọng nói trầm hùng phát ra từ bên dưới lớp mặt nạ, bao trùm toàn bộ quảng trường."
+    },
+    {
+      "segment_id": "0081",
+      "source": "“仪式即将开启……所有非‘入选’人员迅速离场！”",
+      "target": "“Nghi thức sắp bắt đầu... Toàn bộ những người không ‘trúng tuyển’ hãy mau chóng rời khỏi hiện trường!”"
+    }
+  ]
+}
+```

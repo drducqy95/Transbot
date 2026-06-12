@@ -1,1 +1,28 @@
-Error: timed out waiting for response
+Here are the fixed segments. The translation contained CJK punctuation characters (the brackets `【 】` and corner brackets `「 」`), which triggered the `cjk_leftover` error. I have replaced them with standard double quotes (`""`). 
+
+I also noticed a minor typo in segment `0066` ("uy úy" instead of "uy nghiêm") and have included the fix for it as well.
+
+```json
+[
+  {
+    "segment_id": "0026",
+    "source": "“嗯！这是妈妈给你做的炸鱼薯条和卷心菜三明治，哥哥一边吃一边去【祭典广场】吧……尽可能提前十五分钟到场。”",
+    "target": "“Vâng! Đây là cá tẩm bột chiên kèm khoai tây và sandwich bắp cải mẹ làm cho anh, anh vừa ăn vừa đến \"Quảng trường Tế Điển\" nhé... cố gắng tới trước mười lăm phút.”"
+  },
+  {
+    "segment_id": "0046",
+    "source": "花费了近半小时的快速步行，【祭典广场】终于到了。",
+    "target": "Mất khoảng nửa giờ đi bộ thật nhanh, cuối cùng cũng đến \"Quảng trường Tế Điển\"."
+  },
+  {
+    "segment_id": "0066",
+    "source": "广场内的民众们不由得高呼出这一崇高而让人敬畏的名字。",
+    "target": "Đám đông trong quảng trường bất giác hô vang cái tên cao cả và đầy uy nghiêm này."
+  },
+  {
+    "segment_id": "0068",
+    "source": "「黑蔷薇胸章」是他们的身份象征。",
+    "target": "\"Huy hiệu Hắc Tường Vi\" là biểu tượng thân phận của họ."
+  }
+]
+```

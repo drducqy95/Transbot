@@ -1,6 +1,6 @@
 # Ta Te Bao Nguc Giam
 
 - Đã hoàn thành: 8
-- Chương cuối: 0006 祭典广场
+- Chương cuối: Chương 6: Quảng trường Tế Điển
 
 - **Tiến độ hiện tại**: 6/2169 chương
