@@ -68,3 +68,8 @@ Chapter 2 completed via pipeline.
 
 ### Summary
 Chapter 2 completed via pipeline.
+
+## Chapter 0009 - Chương 9: Cá muối và giày
+
+### Summary
+Chapter 9 completed via pipeline.

@@ -12,3 +12,4 @@
 - 2026-06-12 15:43 | Chapter 2 | completed | Chương 0002 - 0002 光幕仪.md
 - 2026-06-12 16:17 | Chapter 2 | completed | Chương 0002 - Chương 2 Quang mạc nghi.md
 - 2026-06-12 16:34 | Chapter 2 | completed | Chương 0002 - Chương 2 Quang mạc nghi.md
+- 2026-06-12 17:53 | Chapter 9 | completed | Chương 0009 - Chương 9 Cá muối và giày.md
