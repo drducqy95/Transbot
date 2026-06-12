@@ -73,3 +73,8 @@ Chapter 2 completed via pipeline.
 
 ### Summary
 Chapter 9 completed via pipeline.
+
+## Chapter 0010 - Chương 10: Âm hồn nhập thể
+
+### Summary
+Chapter 10 completed via pipeline.

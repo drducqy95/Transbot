@@ -1,0 +1,16 @@
+**Fixes – remove CJK leftovers / stray punctuation**  
+
+```json
+{
+  "segments": [
+    {
+      "segment_id": "0019",
+      "target": "Phảng phất như bị lún sâu vào một vũng bùn lầy, ngũ quan của hắn bị tước đoạt toàn bộ, hắn ở trong bóng tối tuyệt đối không ngừng rơi xuống, rơi xuống, rơi xuống vĩnh viễn không có điểm dừng."
+    },
+    {
+      "segment_id": "0029",
+      "target": "Trong tay hắn đồng thời cũng nắm một thanh thiết chùy to bằng cái thúng, sợi dây thừng quấn quanh tay cầm đều bị máu tươi rịn ra từ lòng bàn tay rách nát của hắn thấm đẫm. Phía trước đại giáo trường, một gã \"Cự Linh Thần\" to lớn hơn tất cả những cự hán ở đây một vòng, hoàn toàn không giống con người, đang trừng cặp mắt to như chuông đồng, quát lớn như sấm: \"Ba ngàn năm trăm hai mươi bảy đứa phế vật các ngươi đã chính thức bái nhập vào môn hạ của 'Bách Luyện Tông', trở thành tạp dịch cấp thấp của Bách Luyện Tông, đây là phúc khí mà tổ tiên các ngươi tích đức ba đời mới có được! Bách Luyện Tông chúng ta là tông phái luyện khí mạnh nhất 'Hồng Hoang Đại Thế Giới', môn quy sâm nghiêm, cho dù là một gã tạp dịch cấp thấp nhỏ bé dưới môn cũng phải liều mạng tu luyện cho ta!\""
+    }
+  ]
+}
+```
