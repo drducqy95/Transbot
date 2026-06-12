@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-12T12:00:12.531471+07:00",
+  "updated_at": "2026-06-12T13:00:18.979496+07:00",
   "books": [
     {
       "branch": "Chu Than Dai Dao",
@@ -63,7 +63,7 @@
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Chu Than Dai Dao/README.md",
       "toc_path": "Output/Chu Than Dai Dao/toc.json",
-      "updated_at": "2026-06-12T12:00:03.484783+07:00"
+      "updated_at": "2026-06-12T13:00:06.146148+07:00"
     },
     {
       "branch": "Chu Than Quat Khoi",
@@ -109,11 +109,11 @@
           "title": "Huyền ảo"
         }
       ],
-      "completed_chapters": 5,
+      "completed_chapters": 6,
       "total_chapters": 852,
-      "latest_chapter": "0004 队友（求收藏！！！）",
-      "detail": "Tiến độ: 3/852 chương | Mới nhất: Chương 3: Xuyên không? Vô hạn?",
-      "updated_at": "2026-06-12T12:54:08+07:00",
+      "latest_chapter": "0005 任务（求推荐！）",
+      "detail": "Tiến độ: 4/852 chương | Mới nhất: 0004 队友（求收藏！！！）",
+      "updated_at": "2026-06-12T13:21:07+07:00",
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Chu Than Quat Khoi/README.md",
       "toc_path": "Output/Chu Than Quat Khoi/toc.json"
@@ -172,7 +172,7 @@
       "total_chapters": 1915,
       "latest_chapter": "Chương 1: Bè tre chao đảo trên sông Hoàng Long",
       "detail": "Tiến độ: 1/1915 chương | Mới nhất: Chương 1: Bè tre chao đảo trên sông Hoàng Long",
-      "updated_at": "2026-06-12T12:00:04.936211+07:00",
+      "updated_at": "2026-06-12T13:00:08.789936+07:00",
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Co Chan Nhan/README.md",
       "toc_path": "Output/Co Chan Nhan/toc.json"
@@ -200,7 +200,7 @@
       "total_chapters": 968,
       "latest_chapter": "Chương 53: Ý nghĩa đích thực trong giáo lý của Thần Cầu Tri",
       "detail": "Tiến độ: 53/968 chương | Mới nhất: Chương 53: Ý nghĩa đích thực trong giáo lý của Thần Cầu Tri",
-      "updated_at": "2026-06-12T12:00:05.467266+07:00",
+      "updated_at": "2026-06-12T13:00:09.457776+07:00",
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Dung Goi Ta Ta Than/README.md",
       "toc_path": "Output/Dung Goi Ta Ta Than/toc.json"
@@ -267,7 +267,7 @@
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Phi Pham Hong Hoang/README.md",
       "toc_path": "Output/Phi Pham Hong Hoang/toc.json",
-      "updated_at": "2026-06-12T12:00:07.875205+07:00"
+      "updated_at": "2026-06-12T13:00:12.079463+07:00"
     },
     {
       "branch": "Ta Te Bao Nguc Giam",
@@ -292,7 +292,7 @@
       "total_chapters": 2169,
       "latest_chapter": "Chương 2: Sự phát hiện của Hàn Đông",
       "detail": "Tiến độ: 2/2169 chương | Mới nhất: Chương 2: Sự phát hiện của Hàn Đông",
-      "updated_at": "2026-06-12T12:00:08.882187+07:00",
+      "updated_at": "2026-06-12T13:00:13.711488+07:00",
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Ta Te Bao Nguc Giam/README.md",
       "toc_path": "Output/Ta Te Bao Nguc Giam/toc.json"
@@ -351,7 +351,7 @@
       "total_chapters": 1135,
       "latest_chapter": "Chương 2: Nhân Quả Tập",
       "detail": "Tiến độ: 2/1135 chương | Mới nhất: Chương 2: Nhân Quả Tập",
-      "updated_at": "2026-06-12T12:00:09.406346+07:00",
+      "updated_at": "2026-06-12T13:00:14.566595+07:00",
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Thai Nhat Dao Qua/README.md",
       "toc_path": "Output/Thai Nhat Dao Qua/toc.json"
@@ -418,7 +418,7 @@
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han/README.md",
       "toc_path": "Output/Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han/toc.json",
-      "updated_at": "2026-06-12T12:00:10.023883+07:00"
+      "updated_at": "2026-06-12T13:00:15.866203+07:00"
     },
     {
       "branch": "Tieu Dao Mong Duong",
@@ -443,7 +443,7 @@
       "total_chapters": 1184,
       "latest_chapter": "Chương 3: Linh Trà",
       "detail": "Tiến độ: 3/1184 chương | Mới nhất: Chương 3: Linh Trà",
-      "updated_at": "2026-06-12T12:00:10.698919+07:00",
+      "updated_at": "2026-06-12T13:00:16.872835+07:00",
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Tieu Dao Mong Duong/README.md",
       "toc_path": "Output/Tieu Dao Mong Duong/toc.json"
@@ -516,7 +516,7 @@
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Tu Chan Bon Van Nam/README.md",
       "toc_path": "Output/Tu Chan Bon Van Nam/toc.json",
-      "updated_at": "2026-06-12T12:00:12.531250+07:00"
+      "updated_at": "2026-06-12T13:00:18.978311+07:00"
     },
     {
       "branch": "Hong Hoang Lich_Zhttty",
@@ -971,7 +971,7 @@
     }
   ],
   "metadata": {
-    "generated_at": "2026-06-12T12:54:08+07:00",
+    "generated_at": "2026-06-12T13:21:07+07:00",
     "total_books": 17,
     "source": "Dichtrung/Output"
   },
@@ -1237,9 +1237,9 @@
     },
     "Chu Than Quat Khoi": {
       "display_title": "Chủ Thần Trỗi Dậy",
-      "current_chapter": 3,
+      "current_chapter": 4,
       "total_chapters": 852,
-      "completed_chapters": 3,
+      "completed_chapters": 4,
       "last_updated": "2026-06-12"
     },
     "Co Chan Nhan": {

@@ -2,3 +2,4 @@
 - 2026-06-12 10:57 | Chapter 2 | completed | Chương 0002 - Chương 2 Bàn tay vàng của ta ở đâu.md
 - 2026-06-12 11:33 | Chapter 3 | completed | Chương 0003 - Chương 3 Xuyên không Vô hạn.md
 - 2026-06-12 12:54 | Chapter 4 | completed | Chương 0004 - 0004 队友（求收藏！！！）.md
+- 2026-06-12 13:21 | Chapter 5 | completed | Chương 0005 - 0005 任务（求推荐！）.md
