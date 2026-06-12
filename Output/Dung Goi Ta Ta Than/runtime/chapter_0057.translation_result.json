@@ -1,0 +1,466 @@
+{
+  "schema_version": "2.0",
+  "chapter_id": "chapter_0057",
+  "segment_translations": [
+    {
+      "segment_id": "0001",
+      "source": "# 第57章 修行模拟器已上线！",
+      "target": "# Chương 57: Trình mô phỏng tu hành đã ra mắt!"
+    },
+    {
+      "segment_id": "0002",
+      "source": "争论不出结果，战士信徒们最后一致决定，将分歧告知求知之神，由诺文来指引他们选择合适的发展道路。",
+      "target": "Tranh luận mãi không có kết quả, các tín đồ chiến sĩ cuối cùng nhất trí quyết định báo cáo sự bất đồng này lên Thần Cầu Tri, để Norven chỉ dẫn cho họ con đường phát triển phù hợp."
+    },
+    {
+      "segment_id": "0003",
+      "source": "不过这一次，诺文没有立刻降下对应的神谕给出答案。",
+      "target": "Nhưng lần này, Norven không lập tức ban thần dụ tương ứng để đưa ra đáp án."
+    },
+    {
+      "segment_id": "0004",
+      "source": "早在信徒们尝试用知识点数向诺文兑换更多一阶能够修习的战技时，诺文就已然知晓了凡人战士职业道路的各类战技。",
+      "target": "Từ lúc các tín đồ dùng Điểm Tri Thức đổi lấy các chiến kỹ cấp một từ Norven, hắn đã biết hết các loại chiến kỹ trên con đường chức nghiệp của chiến sĩ phàm nhân."
+    },
+    {
+      "segment_id": "0005",
+      "source": "有一点令诺文很是在意。",
+      "target": "Có một điều khiến Norven khá để tâm."
+    },
+    {
+      "segment_id": "0006",
+      "source": "在收到信徒的诉求后，发动权能，他确实得到了一份关于战士修行道路的“计划”。",
+      "target": "Sau khi nhận được thỉnh cầu của tín đồ, phát động quyền năng, hắn quả thực đã nhận được một bản \"kế hoạch\" về lộ trình tu hành của chiến sĩ."
+    },
+    {
+      "segment_id": "0007",
+      "source": "从掌控怒气，到各类武器、盾牌、防具的使用，再到各种战技的研习。",
+      "target": "Từ việc khống chế nộ khí, đến cách sử dụng các loại vũ khí, khiên chắn, phòng cụ, rồi đến việc nghiên cứu các loại chiến kỹ."
+    },
+    {
+      "segment_id": "0008",
+      "source": "这些信息非常的系统而全面。",
+      "target": "Những thông tin này vô cùng hệ thống và toàn diện."
+    },
+    {
+      "segment_id": "0009",
+      "source": "可以说，只要照着上面的步骤去做，最后都能达到差不多的效果。",
+      "target": "Có thể nói, chỉ cần làm theo các bước trên đó, cuối cùng đều có thể đạt được hiệu quả tương đương."
+    },
+    {
+      "segment_id": "0010",
+      "source": "问题便在于此：",
+      "target": "Vấn đề chính là nằm ở đây:"
+    },
+    {
+      "segment_id": "0011",
+      "source": "诺文感觉有些怪异，因为这份计划实在太过完美。",
+      "target": "Norven cảm thấy có chút kỳ lạ, bởi vì bản kế hoạch này thật sự quá mức hoàn hảo."
+    },
+    {
+      "segment_id": "0012",
+      "source": "完美到甚至不需要凡人去思考。",
+      "target": "Hoàn hảo đến mức thậm chí không cần phàm nhân phải suy nghĩ."
+    },
+    {
+      "segment_id": "0013",
+      "source": "就仿佛所有的一切都被提前安排好了。",
+      "target": "Cứ như thể tất cả mọi thứ đều đã được sắp xếp sẵn từ trước."
+    },
+    {
+      "segment_id": "0014",
+      "source": "凡人需要做的只有执行的部分。",
+      "target": "Việc mà phàm nhân cần làm chỉ là bước thực thi."
+    },
+    {
+      "segment_id": "0015",
+      "source": "这是诺文先前发动权柄时没有遇到过的情况。",
+      "target": "Đây là tình huống mà Norven chưa từng gặp phải khi phát động quyền bính trước đây."
+    },
+    {
+      "segment_id": "0016",
+      "source": "知识代表真理，真理具有唯一性。",
+      "target": "Tri thức đại diện cho chân lý, chân lý mang tính duy nhất."
+    },
+    {
+      "segment_id": "0017",
+      "source": "信息代表因果，因果具有逻辑性。",
+      "target": "Thông tin đại diện cho nhân quả, nhân quả mang tính logic."
+    },
+    {
+      "segment_id": "0018",
+      "source": "当信徒向诺文祈祷请求获取知识，或者有关某件事物的信息时，诺文可以放心大胆地直接降下神谕。",
+      "target": "Khi tín đồ cầu nguyện với Norven xin được ban tri thức, hoặc thông tin về một sự vật nào đó, Norven có thể yên tâm và mạnh dạn giáng thần dụ xuống."
+    },
+    {
+      "segment_id": "0019",
+      "source": "这些东西的结果都是明确的，不存在其他的可能性。",
+      "target": "Kết quả của những thứ này đều rất rõ ràng, không tồn tại những khả năng khác."
+    },
+    {
+      "segment_id": "0020",
+      "source": "可是有关职业道路的发展计划不一样。",
+      "target": "Thế nhưng kế hoạch phát triển lộ trình chức nghiệp thì lại khác."
+    },
+    {
+      "segment_id": "0021",
+      "source": "凡人的选择不同，明明可以引向不同的、全新的发展方向！",
+      "target": "Phàm nhân lựa chọn khác nhau, rõ ràng có thể dẫn tới những hướng phát triển khác biệt và hoàn toàn mới!"
+    },
+    {
+      "segment_id": "0022",
+      "source": "但这份计划却将那些未知的可能性完全扼杀。",
+      "target": "Nhưng bản kế hoạch này lại bóp nghẹt hoàn toàn những khả năng chưa biết đó."
+    },
+    {
+      "segment_id": "0023",
+      "source": "诺文可以预想到。",
+      "target": "Norven có thể dự đoán được."
+    },
+    {
+      "segment_id": "0024",
+      "source": "如果他将这些信息传达给战士职业的信徒们，他们肯定都会严格按照这份计划去操作。",
+      "target": "Nếu hắn truyền đạt những thông tin này cho các tín đồ chức nghiệp chiến sĩ, bọn họ chắc chắn đều sẽ làm đúng theo bản kế hoạch."
+    },
+    {
+      "segment_id": "0025",
+      "source": "最后的结果就是会培养出一堆同一个模子里刻出来的战士信徒。",
+      "target": "Kết quả cuối cùng sẽ đào tạo ra một đám tín đồ chiến sĩ đúc ra từ cùng một khuôn."
+    },
+    {
+      "segment_id": "0026",
+      "source": "这让诺文感觉有些不对劲。",
+      "target": "Điều này khiến Norven cảm thấy không đúng lắm."
+    },
+    {
+      "segment_id": "0027",
+      "source": "他获知的战士职业的战技可谓五花八门，光是1阶的主动战技就有十几种，更不用说那些被动生效的战技。",
+      "target": "Các chiến kỹ chức nghiệp chiến sĩ mà hắn biết được có thể nói là đủ loại đa dạng, chỉ riêng chiến kỹ chủ động cấp 1 đã có hơn mười loại, chứ đừng nói đến các chiến kỹ bị động."
+    },
+    {
+      "segment_id": "0028",
+      "source": "如果真要琢磨搭配的话，光是诺文能想到的组合方式就有6、7种，都有不同的侧重，各有各的优点和缺点。",
+      "target": "Nếu thật sự muốn cân nhắc cách phối hợp, chỉ riêng những cách kết hợp mà Norven có thể nghĩ ra đã có tới sáu, bảy loại, đều có những điểm tập trung khác nhau, mỗi loại đều có ưu nhược điểm riêng."
+    },
+    {
+      "segment_id": "0029",
+      "source": "可是诺文得到的这份计划里，却只用到了其中的几种以形成一种特定流派。",
+      "target": "Nhưng trong bản kế hoạch mà Norven nhận được, lại chỉ dùng đến vài loại trong số đó để hình thành một lưu phái nhất định."
+    },
+    {
+      "segment_id": "0030",
+      "source": "至于其他的？",
+      "target": "Còn những thứ khác?"
+    },
+    {
+      "segment_id": "0031",
+      "source": "都被这份计划无情地放弃掉了。",
+      "target": "Đều bị bản kế hoạch này vứt bỏ một cách tàn nhẫn."
+    },
+    {
+      "segment_id": "0032",
+      "source": "被认为乃是“价值不足、并非最优解”的部分，不值得花费时间精力。",
+      "target": "Chúng bị coi là phần \"giá trị không đủ, không phải là giải pháp tối ưu\", không đáng để tiêu tốn thời gian và công sức."
+    },
+    {
+      "segment_id": "0033",
+      "source": "但诺文并不这样认为。",
+      "target": "Nhưng Norven lại không nghĩ như vậy."
+    },
+    {
+      "segment_id": "0034",
+      "source": "就如同那些战士信徒产生的争执。",
+      "target": "Giống như những tranh cãi nảy sinh giữa các tín đồ chiến sĩ kia vậy."
+    },
+    {
+      "segment_id": "0035",
+      "source": "布兰登认为战士应该走刚猛输出的路线，学习能够增加双手剑威力的被动战技，以及可以获得更多怒气的【怒气勃发】，如此最大化双手剑【英勇打击】的攻击能力。",
+      "target": "Brandon cho rằng chiến sĩ nên đi theo con đường sát thương dũng mãnh, học các chiến kỹ bị động có thể tăng cường uy lực của kiếm hai tay, cùng với [Nộ Khí Bột Phát] giúp thu được nhiều nộ khí hơn, như vậy mới có thể tối đa hóa khả năng tấn công của [Anh Dũng Đả Kích] bằng kiếm hai tay."
+    },
+    {
+      "segment_id": "0036",
+      "source": "但在这份战士修行计划中，却压根没考虑双手剑体系发展的可能性。",
+      "target": "Nhưng trong bản kế hoạch tu hành chiến sĩ này, lại hoàn toàn không hề xem xét đến khả năng phát triển của hệ thống kiếm hai tay."
+    },
+    {
+      "segment_id": "0037",
+      "source": "给出的方案是剑盾搭配，整体思路偏向于承受攻击的防御向定位。",
+      "target": "Phương án được đưa ra là kết hợp kiếm và khiên chắn, tư duy tổng thể thiên về định vị phòng thủ, gánh vác sát thương."
+    },
+    {
+      "segment_id": "0038",
+      "source": "诺文皱起了眉头。",
+      "target": "Norven cau mày."
+    },
+    {
+      "segment_id": "0039",
+      "source": "“最优解的标准是怎么划分的？”",
+      "target": "\"Tiêu chuẩn của giải pháp tối ưu được phân định như thế nào?\""
+    },
+    {
+      "segment_id": "0040",
+      "source": "“这份计划……又是怎么制订的呢？”",
+      "target": "\"Bản kế hoạch này... lại do ai lập ra vậy?\""
+    },
+    {
+      "segment_id": "0041",
+      "source": "“布兰登的想法也没什么问题，他也有自己向往的发展方向，为什么却将其判定为价值不足？”",
+      "target": "\"Suy nghĩ của Brandon cũng đâu có vấn đề gì, anh ta cũng có hướng phát triển mà mình hướng tới, tại sao lại phán định nó là giá trị không đủ?\""
+    },
+    {
+      "segment_id": "0042",
+      "source": "这份“完美的计划”给诺文一种感觉：",
+      "target": "Bản \"kế hoạch hoàn hảo\" này mang đến cho Norven một loại cảm giác:"
+    },
+    {
+      "segment_id": "0043",
+      "source": "修行像一份早就被安排好的方案。",
+      "target": "Tu hành giống như một phương án đã được sắp xếp sẵn từ lâu."
+    },
+    {
+      "segment_id": "0044",
+      "source": "凡人不需要思考原因，只要依据神谕执行就好。",
+      "target": "Phàm nhân không cần suy nghĩ nguyên nhân, chỉ cần dựa theo thần dụ mà thi hành là được."
+    },
+    {
+      "segment_id": "0045",
+      "source": "对此，连一秒钟都没犹豫，诺文做出的选择很简单：",
+      "target": "Về điều này, không mảy may do dự lấy một giây, sự lựa chọn của Norven rất đơn giản:"
+    },
+    {
+      "segment_id": "0046",
+      "source": "去TM的！",
+      "target": "Mẹ kiếp!"
+    },
+    {
+      "segment_id": "0047",
+      "source": "什么狗屁“完美计划”，哪凉快哪待着去！",
+      "target": "\"Kế hoạch hoàn hảo\" chó má gì chứ, cút ra chỗ khác chơi đi!"
+    },
+    {
+      "segment_id": "0048",
+      "source": "他有自己的思路，有自己的想法！",
+      "target": "Hắn có lối đi riêng, có suy nghĩ riêng!"
+    },
+    {
+      "segment_id": "0049",
+      "source": "诺文决定这次不再依照权柄得到的信息去传达神谕！ \t\t \t\t他不是自己神职权柄的传声筒，他的信徒也不是只会听从指挥的傀儡。",
+      "target": "Norven quyết định lần này sẽ không truyền đạt thần dụ dựa theo thông tin thu được từ quyền bính nữa! Hắn không phải là ống loa truyền tiếng cho quyền bính thần chức của mình, tín đồ của hắn cũng không phải là những con rối chỉ biết nghe theo mệnh lệnh."
+    },
+    {
+      "segment_id": "0050",
+      "source": "他现在的身份是一位拥有着无尽伟力的神明，不管正神还是邪神，是诺文在驾驭着他的职能权柄，而不是反过来被自己的权柄所束缚！",
+      "target": "Thân phận hiện tại của hắn là một vị thần minh sở hữu vĩ lực vô tận, mặc kệ là chính thần hay tà thần, Norven mới là người điều khiển quyền bính chức năng của hắn, chứ không phải ngược lại bị chính quyền bính trói buộc!"
+    },
+    {
+      "segment_id": "0051",
+      "source": "诺文要走出自己的道路！",
+      "target": "Norven muốn tự tạo ra con đường của riêng mình!"
+    },
+    {
+      "segment_id": "0052",
+      "source": "随着信徒的数量增多，通过信徒们的各类诉求，诺文能够得到的信息也越来越多。",
+      "target": "Cùng với số lượng tín đồ tăng lên, thông qua đủ loại thỉnh cầu của tín đồ, thông tin mà Norven nhận được cũng ngày một nhiều."
+    },
+    {
+      "segment_id": "0053",
+      "source": "这让诺文已经有了一定能力，可以不借助权柄来实现自己目的！",
+      "target": "Điều này giúp Norven đã có đủ khả năng nhất định để đạt được mục đích của mình mà không cần nhờ đến quyền bính!"
+    },
+    {
+      "segment_id": "0054",
+      "source": "……",
+      "target": "..."
+    },
+    {
+      "segment_id": "0055",
+      "source": "地窟中，布兰登收到新的神谕信息。",
+      "target": "Trong hang động, Brandon nhận được thông tin thần dụ mới."
+    },
+    {
+      "segment_id": "0056",
+      "source": "【目标：1阶战士职业修行】",
+      "target": "[Mục tiêu: Tu hành chức nghiệp Chiến Sĩ cấp 1]"
+    },
+    {
+      "segment_id": "0057",
+      "source": "【建议策略：使用“修行模拟器”（1阶），自行对比各战技搭配加成模拟后效果】",
+      "target": "[Chiến lược đề xuất: Sử dụng \"Trình mô phỏng tu hành\" (Cấp 1), tự mình so sánh hiệu quả mô phỏng các buff cộng thêm sau khi kết hợp chiến kỹ]"
+    },
+    {
+      "segment_id": "0058",
+      "source": "【需求：5知识点数/次】",
+      "target": "[Yêu cầu: 5 Điểm Tri Thức/Lần]"
+    },
+    {
+      "segment_id": "0059",
+      "source": "“哎？这是什么意思？”",
+      "target": "\"Ể? Đây là có ý gì?\""
+    },
+    {
+      "segment_id": "0060",
+      "source": "在将正义点数差不多兑换成相应的知识点数后，布兰登拥有的点数倒是挺富裕，100多知识点数，够他兑换7、8个一阶战技还能有剩。",
+      "target": "Sau khi quy đổi gần hết Điểm Chính Nghĩa thành Điểm Tri Thức tương ứng, số điểm mà Brandon sở hữu cũng khá dư dả, hơn 100 Điểm Tri Thức, đủ để anh ta đổi lấy bảy, tám chiến kỹ cấp một mà vẫn còn thừa."
+    },
+    {
+      "segment_id": "0061",
+      "source": "试探性地消耗了5知识点数，布兰登旋即得到一个新的提醒；",
+      "target": "Mang tính chất thăm dò, Brandon tiêu hao 5 Điểm Tri Thức, sau đó lập tức nhận được một lời nhắc nhở mới:"
+    },
+    {
+      "segment_id": "0062",
+      "source": "【请选择希望模拟搭配效果的战技】",
+      "target": "[Vui lòng chọn chiến kỹ bạn muốn mô phỏng hiệu quả kết hợp]"
+    },
+    {
+      "segment_id": "0063",
+      "source": "【当前可选战技：……】",
+      "target": "[Các chiến kỹ có thể chọn hiện tại: ...]"
+    },
+    {
+      "segment_id": "0064",
+      "source": "“我想想，那就【双手剑掌握-基础】，【怒气勃发】，还有【破甲打击】吧？”",
+      "target": "\"Để mình nghĩ xem, vậy thì [Nắm Vững Kiếm Hai Tay - Cơ Bản], [Nộ Khí Bột Phát], với cả [Phá Giáp Đả Kích] đi?\""
+    },
+    {
+      "segment_id": "0065",
+      "source": "布兰登在琳琅满目的一阶战技里选了3个他觉得自己喜欢的。",
+      "target": "Brandon chọn 3 cái mà anh ta cảm thấy thích trong số muôn vàn chiến kỹ cấp một."
+    },
+    {
+      "segment_id": "0066",
+      "source": "数秒后，随着“叮”的一声，回应传来。",
+      "target": "Vài giây sau, theo sau một tiếng \"Ting\", phản hồi truyền đến."
+    },
+    {
+      "segment_id": "0067",
+      "source": "【自定义模拟方案，已完成】",
+      "target": "[Phương án mô phỏng tùy chỉnh, đã hoàn thành]"
+    },
+    {
+      "segment_id": "0068",
+      "source": "【预计物理攻击能力提升：24%】",
+      "target": "[Dự kiến khả năng tấn công vật lý tăng: 24%]"
+    },
+    {
+      "segment_id": "0069",
+      "source": "【预计修行时间：41小时】",
+      "target": "[Dự kiến thời gian tu hành: 41 giờ]"
+    },
+    {
+      "segment_id": "0070",
+      "source": "【推荐传奇等级：15】",
+      "target": "[Cấp độ truyền kỳ đề xuất: 15]"
+    },
+    {
+      "segment_id": "0071",
+      "source": "布兰登一下子愣住了。",
+      "target": "Brandon lập tức sững sờ."
+    },
+    {
+      "segment_id": "0072",
+      "source": "“这……等等，我好像知道是怎么回事了？”",
+      "target": "\"Cái này... khoan đã, hình như mình hiểu chuyện gì đang xảy ra rồi?\""
+    },
+    {
+      "segment_id": "0073",
+      "source": "又消耗了5个知识点数，再次启动“修行模拟器”，这回，布兰登选择了【双手剑掌握-基础】，【怒气勃发】和【横扫剑术】三个战技。",
+      "target": "Lại tiêu hao 5 Điểm Tri Thức, khởi động lại \"Trình mô phỏng tu hành\", lần này, Brandon đã chọn ba chiến kỹ [Nắm Vững Kiếm Hai Tay - Cơ Bản], [Nộ Khí Bột Phát] và [Kiếm Thuật Quét Ngang]."
+    },
+    {
+      "segment_id": "0074",
+      "source": "“叮！”",
+      "target": "\"Ting!\""
+    },
+    {
+      "segment_id": "0075",
+      "source": "【自定义模拟方案，已完成】",
+      "target": "[Phương án mô phỏng tùy chỉnh, đã hoàn thành]"
+    },
+    {
+      "segment_id": "0076",
+      "source": "【预计物理攻击能力提升：29%】",
+      "target": "[Dự kiến khả năng tấn công vật lý tăng: 29%]"
+    },
+    {
+      "segment_id": "0077",
+      "source": "【预计修行时间：37小时】",
+      "target": "[Dự kiến thời gian tu hành: 37 giờ]"
+    },
+    {
+      "segment_id": "0078",
+      "source": "【推荐传奇等级：13】",
+      "target": "[Cấp độ truyền kỳ đề xuất: 13]"
+    },
+    {
+      "segment_id": "0079",
+      "source": "布兰登嘶的一声吸了口气！",
+      "target": "Brandon hít một hơi lạnh!"
+    },
+    {
+      "segment_id": "0080",
+      "source": "“求知之神在上啊！”",
+      "target": "\"Thần Cầu Tri ở trên cao!\""
+    },
+    {
+      "segment_id": "0081",
+      "source": "“我明白了！”",
+      "target": "\"Mình hiểu rồi!\""
+    },
+    {
+      "segment_id": "0082",
+      "source": "这个“修行模拟器”的功能并不复杂，简单的两次尝试，布兰登已经搞清楚了它的具体效果。",
+      "target": "Chức năng của \"Trình mô phỏng tu hành\" này cũng không phức tạp, qua hai lần thử nghiệm đơn giản, Brandon đã làm rõ được hiệu quả cụ thể của nó."
+    },
+    {
+      "segment_id": "0083",
+      "source": "可以让他提前测试出各种战技搭配后效果！",
+      "target": "Nó có thể giúp anh ta kiểm tra trước hiệu quả sau khi kết hợp các loại chiến kỹ!"
+    },
+    {
+      "segment_id": "0084",
+      "source": "两次模拟过后，布兰登甚至有点上头，还想再多试几次！",
+      "target": "Sau hai lần mô phỏng, Brandon thậm chí còn có chút hăng máu, muốn thử thêm vài lần nữa!"
+    },
+    {
+      "segment_id": "0085",
+      "source": "毕竟光是他现在可选的1阶战技就有那么多种组合。",
+      "target": "Dù sao thì chỉ với những chiến kỹ cấp 1 mà anh ta có thể chọn hiện tại cũng đã có rất nhiều cách kết hợp."
+    },
+    {
+      "segment_id": "0086",
+      "source": "如果直接兑换出战技，他需要花费大量的时间精力去练习。",
+      "target": "Nếu trực tiếp đổi lấy chiến kỹ, anh ta cần phải tiêu tốn rất nhiều thời gian và công sức để luyện tập."
+    },
+    {
+      "segment_id": "0087",
+      "source": "完全掌握之后，还得去实战测试，才能得知具体效果。",
+      "target": "Sau khi hoàn toàn nắm vững, còn phải đi thực chiến thử nghiệm, mới có thể biết được hiệu quả cụ thể."
+    },
+    {
+      "segment_id": "0088",
+      "source": "即使最终结果没有那么理想，他消耗掉的时间精力也没法返还。",
+      "target": "Cho dù kết quả cuối cùng không được như ý, thời gian và công sức anh ta đã bỏ ra cũng không thể lấy lại được."
+    },
+    {
+      "segment_id": "0089",
+      "source": "但有了这个修行模拟器后就不一样了！",
+      "target": "Nhưng có \"Trình mô phỏng tu hành\" này thì lại khác!"
+    },
+    {
+      "segment_id": "0090",
+      "source": "比如刚刚的两次模拟，布兰登就能得知，【横扫剑术】搭配的效果比【破甲打击】要好，而且掌握起来也更加容易！",
+      "target": "Ví dụ như hai lần mô phỏng vừa rồi, Brandon đã có thể biết được, hiệu quả kết hợp của [Kiếm Thuật Quét Ngang] tốt hơn so với [Phá Giáp Đả Kích], hơn nữa việc nắm vững cũng dễ dàng hơn!"
+    },
+    {
+      "segment_id": "0091",
+      "source": "布兰登完全可以提前将他想研习的战技放进去模拟一番，找到最合他心意，效果最好的那个，再花费知识点数兑换出来！",
+      "target": "Brandon hoàn toàn có thể đưa chiến kỹ mà mình muốn nghiên cứu vào để mô phỏng một vòng từ trước, tìm ra loại vừa ý mình nhất, hiệu quả tốt nhất, sau đó mới tiêu tốn Điểm Tri Thức để đổi lấy!"
+    },
+    {
+      "segment_id": "0092",
+      "source": "……",
+      "target": "..."
+    }
+  ]
+}
