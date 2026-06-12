@@ -216,9 +216,9 @@
       "status": "in_progress",
       "status_label": "Đang ra",
       "ongoing": true,
-      "completed_chapters": 7,
+      "completed_chapters": 9,
       "total_chapters": 3381,
-      "latest_chapter": "Chương 7: Lên đường ba năm",
+      "latest_chapter": "Chương 8: Căng phong lôi hỏa rèn xác thể (3)",
       "genre": "eastern_fiction",
       "sub_genre": "xianxia",
       "style_tags": [
@@ -267,7 +267,7 @@
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Phi Pham Hong Hoang/README.md",
       "toc_path": "Output/Phi Pham Hong Hoang/toc.json",
-      "updated_at": "2026-06-12T17:00:07.147974+07:00"
+      "updated_at": "2026-06-12T17:17:44+07:00"
     },
     {
       "branch": "Ta Te Bao Nguc Giam",
@@ -971,7 +971,7 @@
     }
   ],
   "metadata": {
-    "generated_at": "2026-06-12T17:03:32+07:00",
+    "generated_at": "2026-06-12T17:17:44+07:00",
     "total_books": 17,
     "source": "Dichtrung/Output"
   },

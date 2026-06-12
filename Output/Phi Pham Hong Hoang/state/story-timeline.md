@@ -43,3 +43,8 @@ Chapter 6 completed via pipeline.
 
 ### Summary
 Chapter 7 completed via pipeline.
+
+## Chapter 0008 - Chương 8: Căng phong lôi hỏa rèn xác thể (3)
+
+### Summary
+Chapter 8 completed via pipeline.

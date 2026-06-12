@@ -7,3 +7,4 @@
 - 2026-06-12 15:21 | Chapter 5 | completed | Chương 0005 - Chương 5 Vô danh công pháp thành.md
 - 2026-06-12 16:01 | Chapter 6 | completed | Chương 0006 - Chương 6 Vô danh công pháp thành.md
 - 2026-06-12 16:27 | Chapter 7 | completed | Chương 0007 - Chương 7 Lên đường ba năm.md
+- 2026-06-12 17:17 | Chapter 8 | completed | Chương 0008 - Chương 8 Căng phong lôi hỏa rèn xác thể (3).md
