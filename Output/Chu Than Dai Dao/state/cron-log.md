@@ -12,3 +12,4 @@
 - 2026-06-12 16:07 | Chapter 10 | completed | Chương 0010 - Chương 10 Kỵ sĩ! Võ tăng!.md
 - 2026-06-12 16:49 | Chapter 10 | completed | Chương 0010 - Chương 10 Kỵ sĩ! Võ tăng!.md
 - 2026-06-12 17:55 | Chapter 10 | completed | Chương 0010 - Chương 10 Kỵ sĩ! Võ tăng!.md
+- 2026-06-12 18:24 | Chapter 11 | completed | Chương 0011 - Chương 11 Kế hoạch của thủ lĩnh ẩn sau.md

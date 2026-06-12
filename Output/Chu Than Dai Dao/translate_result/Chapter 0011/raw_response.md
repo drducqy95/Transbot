@@ -1,0 +1,93 @@
+```json
+{
+  "chapter_number": 11,
+  "chapter_title_vi": "Chương 11: Kế hoạch của thủ lĩnh ẩn sau",
+  "segments": [
+    {
+      "segment_id": "0001",
+      "source": "# 第11章 幕后黑手的计划",
+      "target": "# Chương 11: Kế hoạch của thủ lĩnh ẩn sau"
+    },
+    {
+      "segment_id": "0002",
+      "source": "就在无数玩家在游戏里努力奋斗挥洒热血时，在这世界的最上层，哪怕是那六位伟大神祗都无法触摸的地方，三位至高神正围坐在一起，命运主神的命运图卷其大无边，将整个世界所有玩家的情景显示在了其中，无论是姬诚带着玩家在平原抵抗进攻，还是恒鲁小和尚他们在一脸不情愿的接受着肥佬的训练。在战神学院，在精灵木屋，在术士之家，甚至是在海洋深处，天空浮城，光明秘境，幽暗国度这些神祗所在的神国里的玩家，都被命运图卷所显示！",
+      "target": "Khi vô số người chơi đang nỗ lực phấn đấu và cháy hết mình trong game, tại tầng cao nhất của thế giới này, nơi mà ngay cả sáu vị thần vĩ đại cũng không thể chạm tới, ba vị thần tối cao đang ngồi quây quần bên nhau. Cuộn tranh Số Mệnh của Chúa Tể Số Mệnh khổng lồ vô biên, hiển thị cảnh tượng của mọi người chơi trên toàn thế giới trong đó, cho dù là Cơ Thành dẫn người chơi phòng ngự trên đồng bằng, hay tiểu hòa thượng Hằng Lũ và những người khác đang vẻ mặt bất đắc dĩ chấp nhận sự huấn luyện của lão béo. Ở Học Viện Chiến Thần, ở Ngôi Nhà Tiên Linh, ở Nhà Kỹ Sư, thậm chí ở sâu trong đại dương, Thành Phố Bay Trên Trời, Tịch Mịch Bí Cảnh, Quốc Độ Hắc Ám... những người chơi trong thần quốc của các vị thần này đều được Cuộn Tranh Số Mệnh hiển thị!"
+    },
+    {
+      "segment_id": "0003",
+      "source": "“你们看看，你们看看”赵奇看着图卷对着那两位说到，“他们一个个心思真多。都想把触角延伸到现实，也不怕弄巧成拙。”迪奈尔摸了摸他胸前的白胡子，笑着说到“吾主，他们这么做，不都是您引导的吗。如果没有您的允许，谁敢动一步？”“不仅如此，我想你也想乘机试探一下现实中的反应吧。”命运主神看着赵奇一脸坏笑地问道。",
+      "target": "\"Các người nhìn xem, nhìn xem này.\" Triệu Kỳ nhìn cuộn tranh, nói với hai vị kia, \"Họ đứa nào cũng lắm mưu nhiều kế. Đều muốn vươn xúc tu ra hiện thực, cũng không sợ làm hỏng việc.\" Di Nhĩ Nại xoa xoa bộ râu trắng trước ngực, cười nói, \"Chủ nhân, họ làm vậy chẳng phải đều do ngài dẫn dắt sao. Nếu không có sự cho phép của ngài, ai dám cử động nửa bước?\" \"Không chỉ vậy, ta nghĩ ngài cũng muốn nhân cơ hội dò xét phản ứng ở hiện thực chứ?\" Chúa Tể Số Mệnh nhìn Triệu Kỳ, vẻ mặt đầy nham hiểm mà hỏi."
+    },
+    {
+      "segment_id": "0004",
+      "source": "赵奇也没跟着接话，的确如果没有他的默认，谁敢动一步，赵奇就能让他知道什么叫雷霆雨露皆是君恩！而且现实中的反应也是一个大问题，六神他们不清楚，可赵奇几个都知道现实才是这个世界的根基！这些事都被赵奇看的清清楚楚，他也作好了一旦六神玩脱了，他立刻接手的准备，毕竟他是这个世界的创造神，他的位格才是这个世界最大的！出了问题，只有他能负责，命运不行，毁灭也不行！",
+      "target": "Triệu Kỳ cũng không tiếp lời. Đúng vậy, nếu không có sự ngầm đồng ý của ông, ai dám cử động nửa bước, Triệu Kỳ sẽ cho họ biết thế nào là \"sấm sét và mưa móc đều là ân điển của đế vương\"! Và phản ứng ở hiện thực cũng là một vấn đề lớn. Sáu vị thần kia không hiểu rõ, nhưng Triệu Kỳ và vài người khác đều biết hiện thực mới là nền tảng của thế giới này! Những việc này Triệu Kỳ đều nhìn thấy rõ ràng, ông cũng đã chuẩn bị sẵn sàng để tiếp quản ngay nếu sáu vị thần kia làm hỏng việc. Dù sao ông mới là thần sáng tạo của thế giới này, ngôi vị của ông mới là lớn nhất thế giới! Xảy ra vấn đề, chỉ có ông mới có thể chịu trách nhiệm, Số Mệnh thì không được, Hủy Diệt cũng không được!"
+    },
+    {
+      "segment_id": "0005",
+      "source": "他转而问起毁灭主神道“你看这些神祗心中都有计划，就连那武僧之王都和大禅寺副本里的人勾勾搭搭，一心想把他的武僧职业在往上推一步，甚至是几步！你有什么计划没有，要知道这时可是俩个世界规则碰撞最猛烈的时候，一切都在变化，你可得抓紧了”",
+      "target": "Ông quay sang hỏi Chúa Tể Hủy Diệt: \"Ngươi xem các vị thần này ai cũng có kế hoạch trong lòng, đến cả Vua Hỏa Sư cũng qua lại với người trong phó bản Đại Thiền Tự, một lòng muốn đẩy nghề Hỏa Sư của hắn lên cao thêm một bước, thậm chí là vài bước! Ngươi có kế hoạch gì không? Phải biết đây là lúc quy tắc hai thế giới va chạm mãnh liệt nhất, mọi thứ đều đang thay đổi, ngươi phải nhanh tay lên.\""
+    },
+    {
+      "segment_id": "0006",
+      "source": "说着赵奇就把命运主神拉出来做典范“你看他，不过是借住当初我们创造六神时剩下的一堆时空碎片，现在都快凝练出诸天万界之主这个神职了，你看看，这就是榜样！”“我不过是废物利用罢了，不要这么针对我吧？”自己的小秘密被赵奇发现，命运主神一脸的尴尬，一副小偷被失主当场抓到的模样。",
+      "target": "Nói rồi Triệu Kỳ liền kéo Chúa Tể Số Mệnh ra làm gương: \"Ngươi xem hắn, chẳng qua chỉ lợi dụng một堆 mảnh vỡ thời không còn sót lại từ lúc chúng ta tạo ra sáu vị thần, giờ gần như đã cô đọng ra được thần chức Chủ Nhân Vạn Giới Chi Chủ rồi. Nhìn đi, đây mới là tấm gương!\" \"Ta chỉ tận dụng phế phẩm thôi, đừng nhắm vào ta vậy chứ?\" Bí mật nhỏ của mình bị Triệu Kỳ phát hiện, Chúa Tể Số Mệnh vẻ mặt đầy尴尬, bộ dạng giống hệt tên trộm bị chủ nhà bắt quả tang tại trận."
+    },
+    {
+      "segment_id": "0007",
+      "source": "“吾主，你怎么知道我没有计划？”毁灭主神迪奈尔满脸神秘的笑容。“哦？看不出来啊，你一副老实人的样子，竟然也有想当幕后黑手的心思？。”命运主神闻言，立刻来了精神。“要我说啊，吾等身为至高神，那就要有大胸襟，大气魄，大伟力。别的不说，我们要干的事那就要有席卷整个宇宙的后果，就像主尊的炼假成真，重塑混沌。我的诸天万界，无尽副本这样。要不然还不得让身后的那群小弟们给笑死？”“命运，你丫的给我闭嘴！”赵奇听着命运主神越说越离谱，最后实在是听不下去了，张口打断了他的话。赵奇感到自己好累“当初那个冷面主神多好，怎么长的这么残，变成了一个话唠？难道后天的发展真有这么重要？”赵奇在心里连槽都懒的吐了。",
+      "target": "\"Chủ nhân, sao ngài biết ta không có kế hoạch?\" Chúa Tể Hủy Diệt Di Nhĩ Nại đầy vẻ mặt thần bí mỉm cười. \"Ồ? Không nhận ra đấy, ngươi vẻ mặt người lương thiện, vậy mà cũng có tâm tư muốn làm thủ lĩnh ẩn sau sao?\" Chúa Tể Số Mệnh nghe vậy, lập tức lấy lại tinh thần. \"Nếu hỏi ta, ta thấy chúng ta đã là thần tối cao thì phải có đại lượng, đại khí phách, đại thần lực. Không nói gì khác, việc chúng ta làm phải có hậu quả quét sạch cả vũ trụ, giống như \"Chuẩn Tôn\" luyện giả thành thật, cải tạo hỗn độn. Giống \"Vạn Giới Chi Chủ\", \"Phó Bản Vô Hạn\" của ta vậy. Nếu không chẳng phải sẽ bị đám đàn em phía sau cười chết à?\" \"Số Mệnh, mày im đi cho tao!\" Triệu Kỳ nghe Chúa Tể Số Mệnh nói càng lúc càng lan man, cuối cùng thực sự không nghe nổi nữa, mở miệng cắt ngang lời hắn. Triệu Kỳ cảm thấy mình thật mệt mỏi: \"Chúa Tể mặt lạnh ngày xưa tốt biết bao, sao lại phát triển lệch lạc thế này, biến thành kẻ lắm lời thế?难道 hậu thiên phát triển thật sự quan trọng đến vậy?\" Triệu Kỳ trong lòng ngay cả tiếng chửi cũng lười thốt ra."
+    },
+    {
+      "segment_id": "0008",
+      "source": "“呵呵呵，吾主，我敢肯定，如果这件事办成了，造成的影响，绝对不比命运主神稍差！”迪奈尔也没有打算卖关子，“我打算创造一个永恒的归宿，和一个专门清理世界罪孽的种族，名字我都想好了，永恒归宿就叫它归墟，那个种族就叫它域外天魔，怎么样还行吧。”",
+      "target": "\"Hahaha, chủ nhân, ta dám chắc, nếu việc này thành công, ảnh hưởng tạo ra sẽ không thua kém Chúa Tể Số Mệnh chút nào!\" Di Nhĩ Nại cũng không định bí mật lâu hơn nữa, \"Ta dự định sáng tạo một nơi quy về vĩnh hằng, và một chủng tộc chuyên dọn sạch tội lỗi của thế giới. Tên ta cũng nghĩ sẵn rồi, nơi quy về vĩnh hằng gọi là Quy Hư, chủng tộc kia gọi là Thiên Ma Ngoại Vực. Thế nào, cũng được chứ?\""
+    },
+    {
+      "segment_id": "0009",
+      "source": "“这？？？”赵奇与命运相互对视了一眼，赵奇忽然感觉自己比刚才还累。“我说迪奈尔你是不是仙侠小说看多了，还归墟？域外天魔？是不是域外天魔还能相互组合成各种大道至宝，以此来轰杀敌人？”命运主神撇嘴到道。“呵呵。”迪奈尔眼睛看着虚空，压根就没搭话。",
+      "target": "\"Cái này???\" Triệu Kỳ và Số Mệnh liếc mắt nhìn nhau, Triệu Kỳ đột nhiên cảm thấy mình còn mệt hơn lúc nãy. \"Này Di Nhĩ Nại, ngươi có phải đọc tiểu thuyết tiên hiệp nhiều quá rồi không? Còn Quy Hư? Thiên Ma Ngoại Vực? Hay là Thiên Ma Ngoại Vực còn có thể kết hợp với nhau tạo ra các loại chí bảo的大 đạo, dùng để oanh sát kẻ thù?\" Chúa Tể Số Mệnh bĩu môi nói. \"Hahaha.\" Di Nhĩ Nại mắt nhìn hư không,压根就没 đáp lời."
+    },
+    {
+      "segment_id": "0010",
+      "source": "赵奇懒得再跟这个中二病刚爆发的老人说些什么。而且迪奈尔确实做的不错，现在这个宇宙确实需要一个永恒归宿，和一个宇宙清道夫。尤其是命运的诸天万界，无尽副本即将开始运行！毕竟整个虚空所承载的力量是有上限的。",
+      "target": "Triệu Kỳ lười không muốn nói thêm gì với ông già vừa phát bệnh trung nhị này. Và Di Nhĩ Nại thực sự làm đúng, vũ trụ hiện tại thực sự cần một Quy Hư vĩnh hằng, và một người quét dọn vũ trụ. Đặc biệt \"Vạn Giới Chi Chủ\", \"Phó Bản Vô Hạn\" của Số Mệnh sắp được vận hành! Dù sao sức mạnh mà toàn bộ hư không có thể chịu đựng cũng có giới hạn."
+    },
+    {
+      "segment_id": "0011",
+      "source": "“智脑，把现在世界的情况，还有玩家的情况，报给我。”“是！开始一共有五万一千二百人进入游戏，然后就有将近一万人直接退出。随后各地学院，诸神秘境有消化了将近五千人，所以现在有三万七千六十七人在大陆中游荡。截止刚才已经有三千四百九十一人因为死亡被传送出游戏，预计在两天之内，他们无法在登录游戏。”",
+      "target": "\"Trí Não, báo cáo tình hình thế giới hiện tại, và tình hình người chơi cho ta.\" \"Vâng! Ban đầu tổng cộng có 51.200 người进入游戏, sau đó có gần 10.000 người trực tiếp退出. Sau đó các học viện, các bí cảnh thần bí ở các nơi đã hấp thu gần 5.000 người, nên hiện tại có 37.067 người lang thang trong đại lục. Tính đến lúc nãy đã có 3.491 người vì tử vong bị truyền送出游戏, dự kiến trong vòng hai ngày tới, họ sẽ không thể登录游戏.\""
+    },
+    {
+      "segment_id": "0012",
+      "source": "赵奇的虚拟世界毕竟是继承的《全民大穿越》里的，在那里，众生进入游戏靠的是精神力的投影，如果投影被斩杀，那么作为本体起码会有一段时间的精神虚弱，这个时间两到三天不等，随着本体的实力提高精神虚弱的时间会进一步的缩短。",
+      "target": "Thực ra thế giới ảo của Triệu Kỳ là kế thừa từ \"Đại Toàn Dân Xuyên越\". Ở đó, chúng sinh进入游戏 dựa vào lực lượng tinh thần投影. Nếu projection bị giết, thì bản thể tối thiểu sẽ có một khoảng thời gian tinh thần yếu đuối, thời gian này từ hai đến ba ngày不等. Khi thực lực bản thể tăng lên, thời gian yếu đuối tinh thần sẽ进一步缩短."
+    },
+    {
+      "segment_id": "0013",
+      "source": "“在这些玩家里，一共有四千六百三十二人使用了激活码，获得了小礼包。其中获得一级奇物的一百人，获得二级奇物的三十一人，获得三级奇物的八人，获得四级奇物的两人，其余人都获得了神币安慰奖。所有奖励一共消耗神力七十八点。现有神力十一点。“听到这儿，赵奇脸都快苦的皱成一团了，另外两位的脸色也好不到哪里去。实在是太心疼了，这七十八点神力就跟打了水漂似的再也回不来了，可这笔花费就得用出去，所谓舍不得孩子套不着狼，舍不得媳妇你就抓不到流氓。你不给现实中的人实惠，那谁赶巴巴进来？",
+      "target": "\"Trong số những người chơi này, tổng cộng có 4.632 người sử dụng mã kích hoạt, nhận được gói quà nhỏ. Trong đó 100 người nhận được kỳ vật cấp 1, 31 người nhận được kỳ vật cấp 2, 8 người nhận được kỳ vật cấp 3, 2 người nhận được kỳ vật cấp 4, phần còn lại nhận được giải an ủi Thần币. Tổng cộng các phần thưởng tiêu hao 78 điểm thần lực. Hiện còn 11 điểm thần lực.\" Nghe đến đây, mặt Triệu Kỳ gần như苦到皱成一团, vẻ mặt hai vị kia cũng chẳng khá hơn. Thực sự quá đau lòng, 78 điểm thần lực này giống như ném xuống nước rồi, không thể lấy lại được. Nhưng khoản tiêu dùng này phải bỏ ra, \"không舍得孩子 thì không trói được sói, không舍得 vợ thì không bắt được du côn\". Nếu không cho người ở hiện thực lợi ích thực tế, ai tình nguyện đi vào?"
+    },
+    {
+      "segment_id": "0014",
+      "source": "“智脑，这些都略过，说些开心的事。”赵奇心痛这些神力，害怕智脑再勾起他的回忆，所以赶紧让它往后讲。“是，在这些玩家进入游戏后，虚拟世界明显进入活跃期，平均每天能收入三到四点神力。经过计算如果人数增加，收入的神力还会更多，预计最高将有九到十点神力！。”“这还真是好消息。”赵奇不由的点点头，神力才能代表一切，如果赵奇现在拥有几万点以上的神力，那何必像现在一样做什么幕后黑手，直接就掀桌子了！",
+      "target": "\"Trí Não, những thứ này bỏ qua đi, nói vài điều vui vẻ lên.\" Triệu Kỳ đau lòng mấy điểm thần lực này, sợ Trí Não gợi lại ký ức của ông nữa nên vội bảo nó nói tiếp. \"Vâng, sau khi những người chơi này进入游戏, thế giới ảo rõ ràng进入活跃期, trung bình mỗi ngày thu được 3 đến 4 điểm thần lực. Theo tính toán, nếu số người tăng lên, thần lực thu được sẽ còn nhiều hơn, dự kiến cao nhất sẽ có 9 đến 10 điểm thần lực!\" \"Đây thực sự là tin tốt.\" Triệu Kỳ bất giác gật đầu. Thần lực mới là đại diện cho tất cả, nếu hiện tại Triệu Kỳ sở hữu vài vạn điểm thần lực trở lên, cần gì phải làm thủ lĩnh ẩn sau như lúc này, trực tiếp lật bàn luôn là xong!"
+    },
+    {
+      "segment_id": "0015",
+      "source": "“照这样看来，这游戏的规模还得扩大啊。”就算不为了创造神力，单是这么多人每天所释放出的游离精神力就是很大的一笔收入，甚至可以说这才是赵奇有信心让这虚拟世界炼假成真的关键所在。",
+      "target": "\"Nhìn theo tình hình này, quy mô game này còn phải mở rộng thêm.\" Dù không phải vì tạo thần lực, chỉ riêng lực lượng tinh thần phân tán mà rất nhiều người释放 ra mỗi ngày đã là một khoản thu nhập lớn, thậm chí có thể nói đây mới là chìa khóa khiến Triệu Kỳ có niềm tin biến thế giới ảo này thành hiện thực."
+    },
+    {
+      "segment_id": "0016",
+      "source": "在三位神祗的更上方，那虚空与世界胎膜的交汇处，两柄创造与毁灭的至高神器，其大无边无际，其神威笼罩整个世界！大片大片沾染着众生情绪的精神力被神器吸引上了，随即就被两大神器的威能磨灭了其中的情绪烙印，只剩下最纯净的力量，分别被世界，与两大神器分食。而无法磨灭的残渣则落入命运图卷之中，正好借助这些强烈到无法磨灭的情绪来孕育里面副本生命！",
+      "target": "Phía trên ba vị thần, tại nơi giao nhau của hư không và màng thai thế giới, hai thanh thần khí tối cao của sáng tạo và hủy diệt, lớn vô cùng vô tận, thần uy bao trùm cả thế giới! Những mảng lớn lực lượng tinh thần bị ô nhiễm bởi cảm xúc của chúng sinh bị thần khí hấp dẫn lên, sau đó bị uy năng của hai đại thần khí ma diệt đi ấn ký cảm xúc, chỉ còn lại lực lượng thuần khiết nhất,分别被 thế giới và hai đại thần khí chia nhau tiêu thụ. Những tàn dư không thể ma diệt thì rơi vào Cuộn Tranh Số Mệnh, vừa hay lợi dụng những cảm xúc mãnh liệt đến mức không thể ma diệt này để nuôi dưỡng sinh mạng bên trong phó bản!"
+    },
+    {
+      "segment_id": "0017",
+      "source": "“也不知道需要多久，我们才能获得真正的生命。”望着这超乎凡人想象的神话场景，迪奈尔有感而发。“根据计算，需要一千三百年不间断的精神祭炼，才有变成真实的可能！”智脑的电子声在空荡的空间内回响。。。。",
+      "target": "\"Không biết cần bao lâu, chúng ta mới có thể đạt được sự sống thực sự.\" Nhìn cảnh tượng thần thoại siêu việt trí tưởng tượng của người thường này, Di Nhĩ Nại cảm thán. \"Theo tính toán, cần 1.300 năm tế luyện tinh thần không gián đoạn, mới có khả năng trở thành hiện thực!\" Âm thanh điện tử của Trí Não vang vọng trong không gian trống trải...."
+    }
+  ]
+}
+```
