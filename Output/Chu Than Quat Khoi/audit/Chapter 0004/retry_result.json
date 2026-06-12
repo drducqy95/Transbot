@@ -116,7 +116,7 @@
     {
       "segment_id": "0023",
       "source": "【欢迎轮回者来到主神殿！】",
-      "target": "【Chào mừng luân hồi giả đi tới Chủ Thần Điện!】"
+      "target": "[Chào mừng luân hồi giả đi tới Chủ Thần Điện!]"
     },
     {
       "segment_id": "0024",
@@ -126,12 +126,12 @@
     {
       "segment_id": "0025",
       "source": "【这里是天、是地、是六道轮回、乃至一切！任何你想要的东西，都可以在这里找到！任何难以企及的愿望，都可以在这里达成！只要你能完成主神殿之任务，你就可获得整个世界！】",
-      "target": "【Nơi này là trời, là đất, là lục đạo luân hồi, cho đến hết thảy! Bất cứ thứ gì ngươi muốn, đều có thể tìm thấy ở nơi đây! Bất kỳ nguyện vọng khó thể với tới nào, cũng đều có thể đạt được ở chỗ này! Chỉ cần ngươi có thể hoàn thành nhiệm vụ của Chủ Thần Điện, ngươi có thể thu được toàn bộ thế giới!】"
+      "target": "[Nơi này là trời, là đất, là lục đạo luân hồi, cho đến hết thảy! Bất cứ thứ gì ngươi muốn, đều có thể tìm thấy ở nơi đây! Bất kỳ nguyện vọng khó thể với tới nào, cũng đều có thể đạt được ở chỗ này! Chỉ cần ngươi có thể hoàn thành nhiệm vụ của Chủ Thần Điện, ngươi có thể thu được toàn bộ thế giới!]"
     },
     {
       "segment_id": "0026",
       "source": "【叮！轮回者扫描，信息采集，编号中……】",
-      "target": "【Ting! Đang quét luân hồi giả, thu thập thông tin, tiến hành đánh số...】"
+      "target": "[Ting! Đang quét luân hồi giả, thu thập thông tin, tiến hành đánh số...]"
     },
     {
       "segment_id": "0027",
@@ -141,32 +141,32 @@
     {
       "segment_id": "0028",
       "source": "【轮回者编号：庚申六十九！】",
-      "target": "【Số hiệu luân hồi giả: Canh Thân lục thập cửu!】"
+      "target": "[Số hiệu luân hồi giả: Canh Thân lục thập cửu!]"
     },
     {
       "segment_id": "0029",
       "source": "【姓名：吴明】",
-      "target": "【Họ tên: Ngô Minh】"
+      "target": "[Họ tên: Ngô Minh]"
     },
     {
       "segment_id": "0030",
       "source": "【修为：肉身境四重内壮】",
-      "target": "【Tu vi: Nhục Thân cảnh tứ trọng - Nội Tráng】"
+      "target": "[Tu vi: Nhục Thân cảnh tứ trọng - Nội Tráng]"
     },
     {
       "segment_id": "0031",
       "source": "【装备：玉佩（未知奇物，需要回归主神殿鉴定）】",
-      "target": "【Trang bị: Ngọc bội (Kỳ vật chưa biết, cần phải trở về Chủ Thần Điện mới có thể giám định)】"
+      "target": "[Trang bị: Ngọc bội (Kỳ vật chưa biết, cần phải trở về Chủ Thần Điện mới có thể giám định)]"
     },
     {
       "segment_id": "0032",
       "source": "【称号：无】",
-      "target": "【Danh hiệu: Không】"
+      "target": "[Danh hiệu: Không]"
     },
     {
       "segment_id": "0033",
       "source": "【你的外貌、服饰已经经过微调，自动配备场景语言，可以与场景人物无障碍交流，任务结束后消失……注意：严禁对场景人物泄漏主神殿及现实世界之情报，违者抹杀！】",
-      "target": "【Ngoại mạo và trang phục của ngươi đã được tinh chỉnh, tự động trang bị ngôn ngữ bối cảnh, có thể giao tiếp không rào cản với nhân vật bối cảnh, sau khi nhiệm vụ kết thúc sẽ biến mất... Chú ý: Nghiêm cấm tiết lộ tình báo về Chủ Thần Điện cùng thế giới hiện thực cho nhân vật bối cảnh, kẻ vi phạm sẽ bị mạt sát!】"
+      "target": "[Ngoại mạo và trang phục của ngươi đã được tinh chỉnh, tự động trang bị ngôn ngữ bối cảnh, có thể giao tiếp không rào cản với nhân vật bối cảnh, sau khi nhiệm vụ kết thúc sẽ biến mất... Chú ý: Nghiêm cấm tiết lộ tình báo về Chủ Thần Điện cùng thế giới hiện thực cho nhân vật bối cảnh, kẻ vi phạm sẽ bị mạt sát!]"
     },
     {
       "segment_id": "0034",
@@ -451,7 +451,7 @@
     {
       "segment_id": "0090",
       "source": "【所有轮回者确认！开始本次任务！】",
-      "target": "【Tất cả các luân hồi giả đã xác nhận! Bắt đầu nhiệm vụ lần này!】"
+      "target": "[Tất cả các luân hồi giả đã xác nhận! Bắt đầu nhiệm vụ lần này!]"
     }
   ]
 }

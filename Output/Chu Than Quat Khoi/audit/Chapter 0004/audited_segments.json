@@ -1,5 +1,456 @@
 {
   "chapter_number": 4,
-  "chapter_title_vi": "0004 队友（求收藏！！！）",
-  "segments": []
+  "chapter_title_vi": "Chương 4: Đồng đội (Cầu cất chứa!!!)",
+  "segments": [
+    {
+      "segment_id": "0001",
+      "source": "# 第4章 队友（求收藏！！！）",
+      "target": "# Chương 4: Đồng đội (Cầu cất chứa!!!)"
+    },
+    {
+      "segment_id": "0002",
+      "source": "“主神殿开启！请轮回者做好准备！”",
+      "target": "“Chủ Thần Điện mở ra! Xin luân hồi giả chuẩn bị sẵn sàng!”"
+    },
+    {
+      "segment_id": "0003",
+      "source": "机械、古板、而浩大的声音仍在回响，吴明却是四周一黑，一刹那失去知觉。",
+      "target": "Giọng nói máy móc, cứng nhắc mà vô cùng to lớn vẫn đang vang vọng, Ngô Minh lại thấy xung quanh tối sầm, trong nháy mắt đã mất đi tri giác."
+    },
+    {
+      "segment_id": "0004",
+      "source": "恐怖的下坠感传来，仿佛身处噩梦之中，浑身失重，又空荡荡没有依附，吴明努力想睁开双眼，却发现自己的意念要调动身体是如此艰难。",
+      "target": "Cảm giác rơi tự do đầy kinh hãi truyền đến, phảng phất như đang ở trong ác mộng, toàn thân mất trọng lượng, lại trống rỗng không có chỗ nương tựa, Ngô Minh nỗ lực muốn mở hai mắt ra, lại phát hiện ý niệm của mình muốn điều khiển thân thể lại gian nan đến vậy."
+    },
+    {
+      "segment_id": "0005",
+      "source": "轰！",
+      "target": "Ầm!"
+    },
+    {
+      "segment_id": "0006",
+      "source": "忽然间，似从高空落地，吴明浑身一震，睁开了双眼。",
+      "target": "Đột nhiên, tựa như từ trên cao rơi xuống đất, toàn thân Ngô Minh chấn động, mở bừng hai mắt."
+    },
+    {
+      "segment_id": "0007",
+      "source": "山清水秀，炊烟袅袅，不远处似乎是一处位于平原上的小村庄，但吴明的瞳孔却微微缩起。",
+      "target": "Non xanh nước biếc, khói bếp lượn lờ, cách đó không xa tựa hồ là một ngôi làng nhỏ nằm trên bình nguyên, nhưng đồng tử của Ngô Minh lại khẽ co rút."
+    },
+    {
+      "segment_id": "0008",
+      "source": "因为天空中那一抹青烟，赫然是凝滞不动的！",
+      "target": "Bởi vì vệt khói xanh trên bầu trời kia, rõ ràng là ngưng trệ bất động!"
+    },
+    {
+      "segment_id": "0009",
+      "source": "不仅是炊烟，还有旁边的古树、路上的花草、鸟兽，都是凝滞不动，世界暂停，仿佛一个栩栩如生的标本一般。",
+      "target": "Không chỉ là khói bếp, mà còn có cổ thụ bên cạnh, hoa cỏ trên đường, chim muông, tất cả đều ngưng trệ bất động, thế giới tạm dừng, phảng phất như một tiêu bản sống động như thật vậy."
+    },
+    {
+      "segment_id": "0010",
+      "source": "周围一圈白光，地上还躺了几个人。",
+      "target": "Xung quanh là một vòng bạch quang, trên mặt đất còn có mấy người đang nằm."
+    },
+    {
+      "segment_id": "0011",
+      "source": "吴明却是翻了一个白眼：“停滞世界……看来真的是‘主神’！该死！我为什么手贱，非要去捡那块玉？”",
+      "target": "Ngô Minh lại trợn trắng mắt: “Thế giới đình trệ... Xem ra thật sự là ‘Chủ Thần’! Đáng chết! Tại sao ta lại ngứa tay, cứ phải đi nhặt miếng ngọc kia chứ?”"
+    },
+    {
+      "segment_id": "0012",
+      "source": "这可是主神空间诶！传闻中地狱模式、养蛊相残、任务失败、积分不足，直接抹杀的主神世界！",
+      "target": "Đây chính là không gian Chủ Thần đấy! Là thế giới Chủ Thần trong truyền thuyết có hình thức địa ngục, nuôi cổ chém giết lẫn nhau, nhiệm vụ thất bại, điểm tích lũy không đủ sẽ trực tiếp bị mạt sát!"
+    },
+    {
+      "segment_id": "0013",
+      "source": "天可怜见，吴明对大周世界基本满意，只是想摸摸尸体，看看有什么便宜好捡，却绝对不想要这个！",
+      "target": "Trời cao rủ lòng thương, Ngô Minh đối với thế giới Đại Chu về cơ bản là hài lòng, hắn chỉ muốn sờ thi thể, xem có món hời nào để nhặt hay không, chứ tuyệt đối không muốn thứ này!"
+    },
+    {
+      "segment_id": "0014",
+      "source": "以他在大周世界的基础，完全可以默默蛰伏，慢慢发展。",
+      "target": "Với nền tảng của hắn ở thế giới Đại Chu, hoàn toàn có thể âm thầm ẩn núp, chậm rãi phát triển."
+    },
+    {
+      "segment_id": "0015",
+      "source": "有着一个小家族的资源，又有一个修道的姐姐，将来接触道法，绝对不是梦想！",
+      "target": "Có được tài nguyên của một gia tộc nhỏ, lại có một người tỷ tỷ tu đạo, tương lai tiếp xúc với đạo pháp tuyệt đối không phải là giấc mộng!"
+    },
+    {
+      "segment_id": "0016",
+      "source": "便是实在不适合修道，也可以走武修、儒术、甚至巫法、蛊师的路子，总有那么一丝长生的指望！",
+      "target": "Cho dù thật sự không thích hợp tu đạo, cũng có thể đi theo con đường võ tu, nho thuật, thậm chí vu pháp, cổ sư, kiểu gì cũng có một tia hy vọng trường sinh!"
+    },
+    {
+      "segment_id": "0017",
+      "source": "但现在，落入主神殿当中，恐怕连能不能活过这场任务都成问题！",
+      "target": "Nhưng hiện tại, rơi vào trong Chủ Thần Điện, e rằng ngay cả việc có thể sống sót qua nhiệm vụ lần này hay không cũng là một vấn đề!"
+    },
+    {
+      "segment_id": "0018",
+      "source": "“该死！难道那个林奇的金手指就是这个？”",
+      "target": "“Đáng chết! Chẳng lẽ bàn tay vàng của tên Lâm Kỳ kia chính là thứ này?”"
+    },
+    {
+      "segment_id": "0019",
+      "source": "吴明下意识地摸了摸胸口，那块害他进来的玉佩还在，除此之外却是空空荡荡，毫无一物，令吴明的脸色微微一变，又看了看毫发无伤的右手，眼睛更是微微眯起。",
+      "target": "Ngô Minh theo bản năng sờ sờ trước ngực, khối ngọc bội hại hắn tiến vào vẫn còn đó, ngoài ra lại trống rỗng không có một vật gì, khiến sắc mặt Ngô Minh khẽ biến, lại nhìn thoáng qua tay phải bình an vô sự, hai mắt càng hơi nheo lại."
+    },
+    {
+      "segment_id": "0020",
+      "source": "毕竟，之前他手上可带着那枚道术扳指，甚至还因为一瞬间爆发出太强大的力量，连自己的手都灼伤了啊。",
+      "target": "Dù sao, trước đó trên tay hắn còn mang theo chiếc nhẫn ban chỉ đạo thuật kia, thậm chí bởi vì trong nháy mắt bộc phát ra sức mạnh quá mức cường đại, ngay cả tay mình cũng bị phỏng rồi."
+    },
+    {
+      "segment_id": "0021",
+      "source": "但现在，扳指与伤痕，却都是消失无踪！",
+      "target": "Nhưng hiện tại, nhẫn ban chỉ cùng vết thương, lại đều biến mất không thấy tăm hơi!"
+    },
+    {
+      "segment_id": "0022",
+      "source": "这里面所代表的味道，令吴明不由有了些想法。",
+      "target": "Ý vị đại biểu ở bên trong đó, khiến Ngô Minh không khỏi có chút suy nghĩ."
+    },
+    {
+      "segment_id": "0023",
+      "source": "【欢迎轮回者来到主神殿！】",
+      "target": "[Chào mừng luân hồi giả đi tới Chủ Thần Điện!]"
+    },
+    {
+      "segment_id": "0024",
+      "source": "此时，比之前更加神秘的声音，直接在吴明脑海响起，机械而古板，又带着广大浩瀚的味道。",
+      "target": "Lúc này, một giọng nói còn thần bí hơn so với trước đó trực tiếp vang lên trong đầu Ngô Minh, máy móc và cứng nhắc, lại mang theo ý vị vô lượng bao la."
+    },
+    {
+      "segment_id": "0025",
+      "source": "【这里是天、是地、是六道轮回、乃至一切！任何你想要的东西，都可以在这里找到！任何难以企及的愿望，都可以在这里达成！只要你能完成主神殿之任务，你就可获得整个世界！】",
+      "target": "[Nơi này là trời, là đất, là lục đạo luân hồi, cho đến hết thảy! Bất cứ thứ gì ngươi muốn, đều có thể tìm thấy ở nơi đây! Bất kỳ nguyện vọng khó thể với tới nào, cũng đều có thể đạt được ở chỗ này! Chỉ cần ngươi có thể hoàn thành nhiệm vụ của Chủ Thần Điện, ngươi có thể thu được toàn bộ thế giới!]"
+    },
+    {
+      "segment_id": "0026",
+      "source": "【叮！轮回者扫描，信息采集，编号中……】",
+      "target": "[Ting! Đang quét luân hồi giả, thu thập thông tin, tiến hành đánh số...]"
+    },
+    {
+      "segment_id": "0027",
+      "source": "很快，一片光幕在吴明眼前落下，露出上面古意黯然，带着神秘味道的字体，似篆文、似铭文，吴明却是一看就明白了意思：",
+      "target": "Rất nhanh, một màn sáng rủ xuống trước mắt Ngô Minh, lộ ra phía trên là những dòng chữ mang nét cổ xưa và thần bí, tựa như triện văn, lại tựa như minh văn, Ngô Minh lại vừa nhìn đã hiểu được ý nghĩa:"
+    },
+    {
+      "segment_id": "0028",
+      "source": "【轮回者编号：庚申六十九！】",
+      "target": "[Số hiệu luân hồi giả: Canh Thân lục thập cửu!]"
+    },
+    {
+      "segment_id": "0029",
+      "source": "【姓名：吴明】",
+      "target": "[Họ tên: Ngô Minh]"
+    },
+    {
+      "segment_id": "0030",
+      "source": "【修为：肉身境四重内壮】",
+      "target": "[Tu vi: Nhục Thân cảnh tứ trọng - Nội Tráng]"
+    },
+    {
+      "segment_id": "0031",
+      "source": "【装备：玉佩（未知奇物，需要回归主神殿鉴定）】",
+      "target": "[Trang bị: Ngọc bội (Kỳ vật chưa biết, cần phải trở về Chủ Thần Điện mới có thể giám định)]"
+    },
+    {
+      "segment_id": "0032",
+      "source": "【称号：无】",
+      "target": "[Danh hiệu: Không]"
+    },
+    {
+      "segment_id": "0033",
+      "source": "【你的外貌、服饰已经经过微调，自动配备场景语言，可以与场景人物无障碍交流，任务结束后消失……注意：严禁对场景人物泄漏主神殿及现实世界之情报，违者抹杀！】",
+      "target": "[Ngoại mạo và trang phục của ngươi đã được tinh chỉnh, tự động trang bị ngôn ngữ bối cảnh, có thể giao tiếp không rào cản với nhân vật bối cảnh, sau khi nhiệm vụ kết thúc sẽ biến mất... Chú ý: Nghiêm cấm tiết lộ tình báo về Chủ Thần Điện cùng thế giới hiện thực cho nhân vật bối cảnh, kẻ vi phạm sẽ bị mạt sát!]"
+    },
+    {
+      "segment_id": "0034",
+      "source": "……",
+      "target": "..."
+    },
+    {
+      "segment_id": "0035",
+      "source": "吴明仔仔细细，上上下下将光幕看了几遍，特别是最后那两个血红色的抹杀大字，实在令他有着心惊肉跳的感觉。",
+      "target": "Ngô Minh cẩn thận tỉ mỉ, xem đi xem lại màn sáng mấy lần từ trên xuống dưới, đặc biệt là hai chữ to \"mạt sát\" đỏ như máu cuối cùng kia, thật sự khiến hắn có cảm giác tim đập chân run."
+    },
+    {
+      "segment_id": "0036",
+      "source": "“只是……”",
+      "target": "“Chỉ là...”"
+    },
+    {
+      "segment_id": "0037",
+      "source": "吴明看了看自己的属性，又很有吐槽的冲动：“这么简单？肌肉强度呢？反应神经呢？就是弄点力量、体质什么的也更直观一点吧……”",
+      "target": "Ngô Minh nhìn chỉ số thuộc tính của bản thân, lại rất có xúc động muốn oán thán: “Đơn giản như vậy sao? Cường độ cơ bắp đâu? Dây thần kinh phản xạ đâu? Dù chỉ làm ra chút điểm lực lượng, thể chất gì đó thì cũng trực quan hơn một chút chứ...”"
+    },
+    {
+      "segment_id": "0038",
+      "source": "“啊！”",
+      "target": "“A!”"
+    },
+    {
+      "segment_id": "0039",
+      "source": "就在此时，一声女子尖锐的叫声传来，吴明转过头，就见到原本躺着的几人慢慢爬起，心里更不由翻着白眼：“按照无限流设定，实力越强的清醒越早，那岂不是说……他们是比我都不如的……渣渣？”",
+      "target": "Đúng lúc này, tiếng kêu the thé của một nữ tử truyền đến, Ngô Minh quay đầu lại liền thấy mấy người vốn đang nằm bắt đầu chậm rãi bò dậy, trong lòng càng không nhịn được trợn trắng mắt: “Dựa theo thiết lập của thể loại vô hạn lưu, thực lực càng mạnh sẽ tỉnh lại càng sớm, vậy chẳng phải là nói... bọn họ còn không bằng ta... đều là cặn bã sao?”"
+    },
+    {
+      "segment_id": "0040",
+      "source": "对这次能否任务成功，生还下去，不由更多了几分担忧。",
+      "target": "Đối với việc lần này có thể hoàn thành nhiệm vụ thành công và sống sót hay không, hắn không khỏi lại có thêm vài phần lo âu."
+    },
+    {
+      "segment_id": "0041",
+      "source": "“这位公子，请问此是何处？”",
+      "target": "“Vị công tử này, xin hỏi nơi đây là chốn nào?”"
+    },
+    {
+      "segment_id": "0042",
+      "source": "一名穿着鹅黄衣服，体态风流，嘴角一颗美人痣，带点风尘之色的女子起身，忽然对着吴明盈盈一礼，柔声问道。",
+      "target": "Một nữ tử mặc y phục màu vàng nhạt, dáng người lả lướt, khóe miệng có nốt ruồi duyên, mang theo chút khí chất phong trần đứng dậy, đột nhiên khẽ khom người thi lễ với Ngô Minh, dịu dàng cất tiếng hỏi."
+    },
+    {
+      "segment_id": "0043",
+      "source": "‘嗯，好歹还算冷静……’吴明心里点头，刚要回答，鹅黄女子旁边的青年也站了起来，面色惊慌：",
+      "target": "‘Ừm, dù sao vẫn tính là bình tĩnh...’ Trong lòng Ngô Minh gật đầu, vừa muốn trả lời, nam thanh niên bên cạnh nữ tử áo vàng nhạt kia cũng đứng lên, sắc mặt hoang mang kinh hãi:"
+    },
+    {
+      "segment_id": "0044",
+      "source": "“啊……怎么回事？我不是刚刚还在酒楼当中快活么？怎么会突然到了这里？你们是谁？绑匪？我叔叔可是县里的县尉……”",
+      "target": "“Á... Chuyện gì thế này? Không phải ta vừa mới sung sướng trong tửu lâu hay sao? Tại sao đột nhiên lại tới nơi này? Các ngươi là ai? Bọn bắt cóc sao? Thúc thúc của ta chính là Huyện úy trong huyện...”"
+    },
+    {
+      "segment_id": "0045",
+      "source": "吴明没有去管他，又看向另外两人，一个是看似只有十五六岁的少女，正不安地双手揉弄衣角，另外一人却精壮结实，面带凶相，又有几分地痞的流里流气。",
+      "target": "Ngô Minh không để ý tới hắn ta, lại nhìn về phía hai người khác, một người là thiếu nữ có vẻ chỉ mới mười lăm mười sáu tuổi, đang bất an dùng hai tay vò gấu áo, người còn lại lại tráng kiện rắn chắc, trên mặt mang tướng hung dữ, lại có vài phần lưu manh côn đồ."
+    },
+    {
+      "segment_id": "0046",
+      "source": "算上吴明，乃是三男两女，总算主神殿没有丧心病狂地将老人孩子也拉入。",
+      "target": "Tính cả Ngô Minh, đó là ba nam hai nữ, tóm lại Chủ Thần Điện cũng không đến mức mất trí phát rồ mà kéo cả người già trẻ em vào."
+    },
+    {
+      "segment_id": "0047",
+      "source": "“咳咳……”",
+      "target": "“Khụ khụ...”"
+    },
+    {
+      "segment_id": "0048",
+      "source": "吴明忽然咳嗽一声，立马就吸引了其余四人充满警惕的目光。",
+      "target": "Ngô Minh đột nhiên ho khan một tiếng, lập tức đã thu hút được ánh mắt tràn đầy cảnh giác của bốn người còn lại."
+    },
+    {
+      "segment_id": "0049",
+      "source": "他苦笑一声，耸了耸肩膀，摊开双手，努力展示着自己的无辜：“其实……我是与你们一同进来的，现在还是一头雾水呢！此时情况诡异，我等是否应该同心协力，共渡难关才对？本人倒是可以先展露下一点发现，仔细回忆，倾听，一些信息好像已经铭刻在我等脑海当中了……”",
+      "target": "Hắn cười khổ một tiếng, nhún nhún vai, dang rộng hai tay, nỗ lực biểu thị sự vô tội của chính mình: “Thực ra... ta là vào cùng với các ngươi, hiện tại vẫn còn đang chẳng hiểu ra sao cả! Lúc này tình huống quỷ dị, chúng ta có phải nên đồng tâm hiệp lực, cùng vượt qua khó khăn hay không? Tại hạ ngược lại có thể tiết lộ một ít phát hiện trước, nếu cẩn thận hồi tưởng, lắng nghe, một số thông tin tựa hồ đã được khắc sâu trong đầu chúng ta rồi...”"
+    },
+    {
+      "segment_id": "0050",
+      "source": "吴明话一说完，其余四人沉默片刻，忽然惊叫连连，一副见到鬼的表情：",
+      "target": "Ngô Minh vừa dứt lời, bốn người còn lại im lặng một lát, bỗng nhiên không ngừng kêu sợ hãi, bày ra một bộ biểu tình như gặp ma:"
+    },
+    {
+      "segment_id": "0051",
+      "source": "“主神殿？只要完成任务，就可以实现任何愿望？开玩笑！一定是开玩笑！什么装备？称号？简直是装神弄鬼！”",
+      "target": "“Chủ Thần Điện? Chỉ cần hoàn thành nhiệm vụ, là có thể thực hiện bất kỳ nguyện vọng nào sao? Trêu đùa ư! Nhất định là đang trêu đùa! Trang bị cái gì? Danh hiệu á? Quả thực là giả thần giả quỷ!”"
+    },
+    {
+      "segment_id": "0052",
+      "source": "那个面颊凹陷，仿佛被酒色掏空身子的青年却是一副正义凛然之相：“我辈读圣贤书，怎能被这怪力乱神所惑？”",
+      "target": "Nam thanh niên hai má lõm sâu, phảng phất như bị tửu sắc móc rỗng cơ thể kia lại bày ra một dáng vẻ chính nghĩa lẫm liệt: “Thế hệ chúng ta đọc sách thánh hiền, làm sao có thể bị mấy thứ quái lực loạn thần này mê hoặc chứ?”"
+    },
+    {
+      "segment_id": "0053",
+      "source": "吴明心里投了一个鄙视的眼神，就你这状态？恐怕儒家的浩然之气都是在女人肚皮上练的吧？",
+      "target": "Trong lòng Ngô Minh ném cho hắn một ánh mắt khinh bỉ, với cái bộ dạng này của ngươi sao? E rằng hạo nhiên chi khí của Nho gia đều là được luyện tập trên bụng nữ nhân đi?"
+    },
+    {
+      "segment_id": "0054",
+      "source": "“妾身倒是觉得……以妾身的身份，也没人会花这代价，来与妾身开如此大的玩笑……”",
+      "target": "“Thiếp thân ngược lại cảm thấy... Với thân phận của thiếp thân, cũng không có người nào lại bỏ ra cái giá đắt như thế, để đùa một trò lớn như vậy với thiếp thân đâu...”"
+    },
+    {
+      "segment_id": "0055",
+      "source": "鹅黄色衣裙的风尘女子苦笑一声：“妾身乃是身处东海郡，方圆百里，都没有如此大的平原，仿佛眨眼间就从南方到了北方一样……”",
+      "target": "Nữ tử phong trần mặc váy áo màu vàng nhạt cười khổ một tiếng: “Thiếp thân là đang ở tại Đông Hải quận, trong vòng phương viên trăm dặm, đều không có bình nguyên nào lớn như vậy, phảng phất như chớp mắt một cái đã từ miền nam đi tới miền bắc vậy...”"
+    },
+    {
+      "segment_id": "0056",
+      "source": "“本人却是秦边郡人士！与东海郡天南地北，纵使快马加鞭，也要数月路程！”",
+      "target": "“Bản nhân lại là nhân sĩ của Tần Biên quận! Cùng Đông Hải quận là hai chân trời nam bắc, cho dù là thúc ngựa chạy nhanh, cũng phải mất lộ trình mấy tháng!”"
+    },
+    {
+      "segment_id": "0057",
+      "source": "好似帮派打手的汉子脸色更加难看了。",
+      "target": "Sắc mặt của hán tử có vẻ giống như tay sai bang phái kia càng trở nên khó coi hơn."
+    },
+    {
+      "segment_id": "0058",
+      "source": "“这个……”",
+      "target": "“Cái này...”"
+    },
+    {
+      "segment_id": "0059",
+      "source": "最后的素白色衣服少女似怯生生地道：“我……我听……爹爹说过，世间有着洞天福地、桃源秘境，一旦进入其中，沧海桑田，咫尺天涯，五蕴皆迷，不可以常理论之，我们是否也是遇到了此种情况？”",
+      "target": "Thiếu nữ mặc y phục màu trắng mộc mạc cuối cùng kia dường như nhút nhát sợ sệt nói: “Ta... Ta từng nghe... phụ thân nói qua, thế gian có động thiên phúc địa, Đào Nguyên bí cảnh, một khi đi vào trong đó, bãi bể hóa nương dâu, chân trời góc bể, năm uẩn đều mê, không thể lấy lẽ thường để luận giải, chúng ta phải chăng cũng là gặp phải loại tình huống này?”"
+    },
+    {
+      "segment_id": "0060",
+      "source": "“咦？”",
+      "target": "“Hả?”"
+    },
+    {
+      "segment_id": "0061",
+      "source": "吴明颇为惊讶地瞥了少女一眼，此女的见识，好像比之前那个纨绔子吴明还要高上一筹：",
+      "target": "Ngô Minh liếc mắt nhìn thiếu nữ một cái có vẻ khá kinh ngạc, kiến thức của nữ tử này, dường như còn cao hơn một bậc so với tên thiếu gia ăn chơi Ngô Minh kia lúc trước:"
+    },
+    {
+      "segment_id": "0062",
+      "source": "“好了！我们此时身处奇境，更该同舟共济才是，不若互相介绍一番，就说名字、修为、还有特长即可！”",
+      "target": "“Được rồi! Hiện tại chúng ta đang ở trong vùng đất kỳ dị, càng nên đồng tâm hiệp lực mới phải, không bằng giới thiệu lẫn nhau một chút, cứ nói tên, tu vi, cùng với sở trường là được!”"
+    },
+    {
+      "segment_id": "0063",
+      "source": "“妾身黄莺，出身东海郡百花馆，至于特长么……琴棋书画算不算？”",
+      "target": "“Thiếp thân là Hoàng Oanh, xuất thân từ Bách Hoa Quán ở Đông Hải quận, còn về sở trường à... cầm kỳ thi họa có tính không?”"
+    },
+    {
+      "segment_id": "0064",
+      "source": "似是吴明之前的举动令其它人多少放了点心，名叫黄莺的女子便坦然道，只是说到特长的时候，满脸不好意思之色。",
+      "target": "Dường như là hành động trước đó của Ngô Minh khiến cho những người khác ít nhiều gì cũng yên tâm hơn một chút, nữ tử tên là Hoàng Oanh kia liền thẳng thắn nói, chỉ là khi nhắc tới sở trường thì trên mặt tràn đầy vẻ ngượng ngùng."
+    },
+    {
+      "segment_id": "0065",
+      "source": "“有武功修为？或者道术么？”",
+      "target": "“Có tu vi võ công? Hoặc là đạo thuật không?”"
+    },
+    {
+      "segment_id": "0066",
+      "source": "吴明抱着最后的希望问道。",
+      "target": "Ngô Minh ôm theo hy vọng cuối cùng mở miệng hỏi."
+    },
+    {
+      "segment_id": "0067",
+      "source": "黄莺微微摇头：“妾身沦落风尘，卖笑多年，所长者，不过迎来送往，武功道术，却是丝毫不会的……”",
+      "target": "Hoàng Oanh khẽ lắc đầu: “Thiếp thân luân lạc chốn phong trần, bán nụ cười nhiều năm, sở trường cũng chẳng qua chỉ là đưa đón khách khứa, võ công đạo thuật, thì tuyệt nhiên không biết một chút nào cả...”"
+    },
+    {
+      "segment_id": "0068",
+      "source": "虽然此女出身低微，但能坦陈实情而面色不变，却也令吴明高看了一眼。",
+      "target": "Mặc dù nữ tử này xuất thân hèn mọn, thế nhưng có thể thẳng thắn bộc bạch rõ sự tình mà sắc mặt không đổi, lại cũng khiến Ngô Minh phải nhìn bằng con mắt khác."
+    },
+    {
+      "segment_id": "0069",
+      "source": "之前的二代青年更是眼睛大亮：“想不到东海郡当中，竟然有姐姐这等绝色，小可改日自当拜会……小生康守礼，家父乃是河东城豪绅，二叔为县尉，我康家，在河东城，也算小有名气，少时请了武师，练了两重武功在身……”",
+      "target": "Tên thanh niên con ông cháu cha lúc trước đôi mắt lại càng sáng ngời lên: “Không ngờ trong Đông Hải quận, vậy mà lại có nữ tử tuyệt sắc cỡ như tỷ tỷ đây, tiểu khả ngày khác tự sẽ đến bái phỏng... Tiểu sinh Khang Thủ Lễ, gia phụ là hào hào thân ở Hà Đông thành, nhị thúc làm Huyện úy, Khang gia ta ở Hà Đông thành này cũng được coi là có chút danh tiếng, thuở nhỏ ta có mời võ sư, luyện được hai tầng võ công phòng thân...”"
+    },
+    {
+      "segment_id": "0070",
+      "source": "“原来是康公子，公子有礼！”",
+      "target": "“Thì ra là Khang công tử, công tử hữu lễ!”"
+    },
+    {
+      "segment_id": "0071",
+      "source": "黄莺不愧风尘出身，盈盈一笑，刹那间就将康守礼迷得找不到北，一副色魂授予的模样。",
+      "target": "Hoàng Oanh không hổ là xuất thân từ chốn phong trần, nàng cười e ấp, trong nháy mắt đã khiến Khang Thủ Lễ mê mẩn đến mức không tìm thấy phương hướng, bày ra dáng vẻ thần hồn điên đảo vì sắc."
+    },
+    {
+      "segment_id": "0072",
+      "source": "“秦虎！肉身境三重！”",
+      "target": "“Tần Hổ! Nhục Thân cảnh tam trọng!”"
+    },
+    {
+      "segment_id": "0073",
+      "source": "黑衣汉子此时惜字如金，双眼还在不安地四处张望。",
+      "target": "Hán tử mặc áo đen lúc này mới tích chữ như vàng lên tiếng, hai mắt vẫn còn đang bất an đưa đẩy nhìn quanh bốn phía."
+    },
+    {
+      "segment_id": "0074",
+      "source": "“我……我叫小玉，哥哥你呢？”",
+      "target": "“Ta... ta tên là Tiểu Ngọc, còn ca ca thì sao?”"
+    },
+    {
+      "segment_id": "0075",
+      "source": "最后的少女却是声音酥糯，两只水汪汪，机灵灵的眼睛看向吴明。",
+      "target": "Thiếu nữ cuối cùng lại cất lên thanh âm êm ái mềm mại, hai mắt ướt át long lanh và lanh lợi nhìn về phía Ngô Minh."
+    },
+    {
+      "segment_id": "0076",
+      "source": "“不错，我们都说了，你还没说呢？事无不可对人言，你难道还有什么秘密？”",
+      "target": "“Đúng vậy, chúng ta đều nói rồi, ngươi vẫn chưa nói đấy? Việc không có gì không thể nói với người khác, lẽ nào ngươi còn có bí mật gì sao?”"
+    },
+    {
+      "segment_id": "0077",
+      "source": "康守礼眼珠一转，大声道。",
+      "target": "Khang Thủ Lễ đảo tròng mắt một cái, lớn tiếng nói."
+    },
+    {
+      "segment_id": "0078",
+      "source": "“江湖险恶，是以我从来不留下自己的名字！”",
+      "target": "“Giang hồ hiểm ác, do đó ta từ trước đến nay đều không bao giờ lưu lại tên tuổi của mình!”"
+    },
+    {
+      "segment_id": "0079",
+      "source": "吴明嘴角带起一丝笑容，若有所思地瞥了名叫小玉的少女一眼：“本人无名无姓，你们就叫我‘无名’好了！”",
+      "target": "Khóe miệng Ngô Minh hiện lên một nụ cười, như có điều suy nghĩ liếc nhìn thiếu nữ có tên Tiểu Ngọc một cái: “Bản nhân không tên không họ, các ngươi cứ gọi ta là ‘Vô Danh’ đi!”"
+    },
+    {
+      "segment_id": "0080",
+      "source": "你妹啊！",
+      "target": "Con mẹ nhà ngươi chứ!"
+    },
+    {
+      "segment_id": "0081",
+      "source": "此时其余四人，绝对是一头的黑线，脾气最差的秦虎更是差点要撸起膀子动手。",
+      "target": "Lúc này bốn người còn lại, tuyệt đối là một đầu đầy hắc tuyến, Tần Hổ có tính tình nóng nảy nhất thậm chí suýt chút nữa là muốn xắn tay áo lên động thủ."
+    },
+    {
+      "segment_id": "0082",
+      "source": "“至于修为么？也练到了肉身境三重，筋骨齐鸣！”",
+      "target": "“Về phần tu vi ư? Cũng đã luyện tới Nhục Thân cảnh tam trọng, Cân Cốt Tề Minh!”"
+    },
+    {
+      "segment_id": "0083",
+      "source": "吴明面带微笑，右手一抖，劲力节节贯穿，发出一串爆竹似的声响。",
+      "target": "Ngô Minh tươi cười trên mặt, tay phải run lên một cái, kình lực nối tiếp nhau xuyên suốt, phát ra một tràng âm thanh tựa như đốt pháo trúc."
+    },
+    {
+      "segment_id": "0084",
+      "source": "“劲力入骨，三重巅峰？”",
+      "target": "“Kình lực nhập cốt, tam trọng đỉnh phong?”"
+    },
+    {
+      "segment_id": "0085",
+      "source": "秦虎的瞳孔微微一缩，却是没有继续上前，吴明的武道修为，甚至比他这个初入筋骨境的还要高一点点。",
+      "target": "Đồng tử của Tần Hổ hơi co rụt lại, ngược lại cũng không có tiếp tục tiến lên, tu vi võ đạo của Ngô Minh, thậm chí so với người vừa mới bước vào Cân Cốt cảnh như hắn còn cao hơn một chút."
+    },
+    {
+      "segment_id": "0086",
+      "source": "虽然自信并不是的打不过，但他看了看周围几人，却是又停了下来。",
+      "target": "Tuy rằng tự tin cũng không phải là đánh không lại, nhưng hắn cẩn thận nhìn xung quanh mấy người, cuối cùng vẫn dừng lại."
+    },
+    {
+      "segment_id": "0087",
+      "source": "“哼！粗鄙武夫！”",
+      "target": "“Hừ! Võ phu thô bỉ!”"
+    },
+    {
+      "segment_id": "0088",
+      "source": "康守礼哼了哼，一副不屑与吴明动手的模样，至于小玉则是满脸无辜地望着吴明。",
+      "target": "Khang Thủ Lễ hừ hừ, bày ra bộ dạng khinh thường không thèm động tay với Ngô Minh, về phần Tiểu Ngọc lại mang vẻ mặt vô tội nhìn Ngô Minh."
+    },
+    {
+      "segment_id": "0089",
+      "source": "便在此时，主神殿恢宏的声音似直接在众人脑海中响起：",
+      "target": "Đúng lúc này, thanh âm rộng lớn của Chủ Thần Điện dường như trực tiếp vang lên bên trong tâm trí đám người:"
+    },
+    {
+      "segment_id": "0090",
+      "source": "【所有轮回者确认！开始本次任务！】",
+      "target": "[Tất cả các luân hồi giả đã xác nhận! Bắt đầu nhiệm vụ lần này!]"
+    }
+  ]
 }

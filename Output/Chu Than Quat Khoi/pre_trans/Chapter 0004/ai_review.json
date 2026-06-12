@@ -1,0 +1,26 @@
+```json
+{
+  "approved": [
+    "修为：肉身境",
+    "姓名：吴明",
+    "称号：无",
+    "轮回者编号："
+  ],
+  "rejected": [
+    "……\n吴明",
+    "你的外貌、服",
+    "叮！轮回者扫",
+    "很快，一片",
+    "所有轮回者确",
+    "欢迎轮回者来",
+    "此时，比之",
+    "装备：玉佩（",
+    "这里是天、是"
+  ],
+  "uncertain": []
+}
+```
+
+### Explanation
+*   **Approved**: These items appear to be complete status or stat lines commonly found in system/RPG-style novels (e.g., "Cultivation: Physical Body Realm", "Name: Wu Ming", "Title: None", "Reincarnator ID:").
+*   **Rejected**: These items are rejected because they are incomplete sentence fragments or contain extraneous punctuation that makes them unsuitable as standalone glossary terms (e.g., cut off sentences like "Your appearance, clothes...", "Equipment: Jade Pendant (...").

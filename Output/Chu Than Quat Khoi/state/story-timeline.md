@@ -48,3 +48,8 @@ Chapter 9 completed via pipeline.
 
 ### Summary
 Chapter 10 completed via pipeline.
+
+## Chapter 0004 - Chương 4: Đồng đội (Cầu cất chứa!!!)
+
+### Summary
+Chapter 4 completed via pipeline.
