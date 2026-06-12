@@ -1,47 +1,1298 @@
 {
-  "updated_at": "2026-06-11T18:30:00+07:00",
+  "updated_at": "2026-06-12T09:34:08.035116+07:00",
   "books": [
     {
-      "branch": "Dung Goi Ta Ta Than",
-      "title": "Đừng Gọi Ta Tà Thần",
-      "chapters_done": 29,
-      "total_chapters": 968,
-      "completed_chapters": 52,
-      "latest_chapter": "Chương 51: Trổ hết thần thông",
+      "branch": "Chu Than Dai Dao",
+      "title": "Chủ Thần Đại Đạo",
+      "author": "Cổ Nguyệt Cư Sĩ",
+      "summary": "Triệu Kỳ từ một người bình thường bỗng chạm vào cơ duyên vượt khỏi nhận thức, từ đó bước lên hành trình thành thần, kiến tạo thế giới và can dự vào những cục diện lớn hơn rất nhiều so với đời sống phàm tục.",
+      "backdrop": "Hiện đại đô thị giao cắt với con đường thành thần và vô hạn thế giới, nơi cơ duyên siêu hình có thể xé toạc nhịp sống bình thường chỉ trong một khoảnh khắc.",
+      "description": "Triệu Kỳ từ một người bình thường bỗng chạm vào cơ duyên vượt khỏi nhận thức, từ đó bước lên hành trình thành thần, kiến tạo thế giới và can dự vào những cục diện lớn hơn rất nhiều so với đời sống phàm tục.",
+      "detail": "Tiến độ: 3/1602 chương | Mới nhất: Chương 3: Khai thiên lập địa, tiểu thiên thế giới",
       "status": "in_progress",
       "status_label": "Đang ra",
       "ongoing": true,
-      "updated_at": "2026-06-12T09:28:24+07:00",
-      "detail": "Tiến độ: 32/968 chương | Mới nhất: Chương 32: Người Rayak không lừa người Rayak",
-      "last_chapter": 29,
-      "last_chapter_title": "Bẫy chồng bẫy",
-      "progress": "29/968"
+      "completed_chapters": 3,
+      "total_chapters": 1602,
+      "latest_chapter": "Chương 3: Khai thiên lập địa, tiểu thiên thế giới",
+      "genre": "eastern_fiction",
+      "sub_genre": "unlimited_flow",
+      "style_tags": [
+        "Vô hạn lưu",
+        "Thành thần",
+        "Huyền ảo",
+        "Khoa huyễn"
+      ],
+      "categories": [
+        {
+          "key": "genre:eastern-fiction",
+          "token": "eastern_fiction",
+          "title": "Đông phương"
+        },
+        {
+          "key": "tag:vo-han-luu",
+          "token": "Vô hạn lưu",
+          "title": "Vô hạn lưu"
+        },
+        {
+          "key": "tag:thanh-than",
+          "token": "Thành thần",
+          "title": "Thành thần"
+        },
+        {
+          "key": "tag:huyen-ao",
+          "token": "Huyền ảo",
+          "title": "Huyền ảo"
+        },
+        {
+          "key": "tag:khoa-huyen",
+          "token": "Khoa huyễn",
+          "title": "Khoa huyễn"
+        }
+      ],
+      "cover_candidates": [
+        "illustrations/cover/Chu Than Dai Dao_Co Nguyet Cu Si.png"
+      ],
+      "cover_slots": [
+        "Output/Chu Than Dai Dao_Co Nguyet Cu Si/illustrations/cover/cover.jpg",
+        "Output/Chu Than Dai Dao_Co Nguyet Cu Si/illustrations/cover/cover.png",
+        "Output/Chu Than Dai Dao_Co Nguyet Cu Si/illustrations/cover/cover.webp",
+        "Output/Chu Than Dai Dao_Co Nguyet Cu Si/illustrations/cover/cover.jpeg"
+      ],
+      "cover_prompt": "Vertical book cover ratio 6:9. Cinematic composition, hyper-detailed, 8k resolution. [BỐ CỤC CHỮ]: The title 'Chủ Thần Đại Đạo' is written in LARGE, massive typography perfectly centered. The author name 'Cổ Nguyệt Cư Sĩ' is written in smaller, elegant text neatly placed near the title. Typography style: Modern bold serif font with glowing golden outlines and white inner glow. [NHÂN VẬT & ĐIỂM NHẤN]: Centered focus on a young, calm man (Triệu Kỳ) with a divine aura, his eyes glowing with wisdom, holding a radiant crystalline seed (The Seed) that emits pulses of light. [BỐ CẢNH NỀN]: The background is a juxtaposition of a modern city street at dusk and multiple overlapping mystical realms, including floating jade palaces and gothic cathedrals, appearing through circular portals. [NGÔN NGỮ NỀN]: Subtly integrated into the air are floating golden Hán tự (Ancient Chinese characters) and translucent blue digital UI hologram codes. [SẮC THÁI]: Mood is divine, epic, and awe-inspiring, lighting is brilliant golden rays piercing through the twilight city clouds.",
+      "cover_relative_path": "illustrations/cover/cover.png",
+      "readme_path": "Output/Chu Than Dai Dao/README.md",
+      "toc_path": "Output/Chu Than Dai Dao/toc.json",
+      "updated_at": "2026-06-12T09:23:40.909122+07:00"
+    },
+    {
+      "branch": "Chu Than Quat Khoi",
+      "title": "Chủ Thần Trỗi Dậy",
+      "author": "Văn Sao Công",
+      "summary": "Ngô Minh bất ngờ xuyên không và nhập hồn vào thân xác của một thiếu gia chơi bời khét tiếng ở thế giới cổ đại. Trong lúc tìm cách che giấu thân phận thật để bảo toàn tính mạng, cậu bắt đầu dung hợp ký ức và chuẩn bị đối mặt với những biến cố kỳ bí sắp sửa diễn ra.",
+      "description": "Ngô Minh bất ngờ xuyên không và nhập hồn vào thân xác của một thiếu gia chơi bời khét tiếng ở thế giới cổ đại. Trong lúc tìm cách che giấu thân phận thật để bảo toàn tính mạng, cậu bắt đầu dung hợp ký ức và chuẩn bị đối mặt với những biến cố kỳ bí sắp sửa diễn ra.",
+      "status": "in_progress",
+      "status_label": "Đang ra",
+      "ongoing": true,
+      "genre": "eastern_fiction",
+      "sub_genre": "unlimited_flow",
+      "style_tags": [
+        "Vô hạn lưu",
+        "tiên hiệp",
+        "xuyên không",
+        "huyền ảo"
+      ],
+      "categories": [
+        {
+          "key": "genre:eastern-fiction",
+          "token": "eastern_fiction",
+          "title": "Đông phương"
+        },
+        {
+          "key": "tag:vo-han-luu",
+          "token": "Vô hạn lưu",
+          "title": "Vô hạn lưu"
+        },
+        {
+          "key": "tag:tien-hiep",
+          "token": "tiên hiệp",
+          "title": "Tiên hiệp"
+        },
+        {
+          "key": "tag:xuyen-khong",
+          "token": "xuyên không",
+          "title": "Xuyên không"
+        },
+        {
+          "key": "tag:huyen-ao",
+          "token": "huyền ảo",
+          "title": "Huyền ảo"
+        }
+      ],
+      "completed_chapters": 1,
+      "total_chapters": 852,
+      "latest_chapter": "Chương 1: Xuyên không",
+      "detail": "Tiến độ: 1/852 chương | Mới nhất: Chương 1: Xuyên không",
+      "updated_at": "2026-06-12T09:24:37.027703+07:00",
+      "cover_relative_path": "illustrations/cover/cover.png",
+      "readme_path": "Output/Chu Than Quat Khoi/README.md",
+      "toc_path": "Output/Chu Than Quat Khoi/toc.json"
+    },
+    {
+      "branch": "Co Chan Nhan",
+      "title": "Cổ Chân Nhân",
+      "author": "Cổ Chân Nhân",
+      "summary": "Ảnh Vô Tà bất ngờ kích hoạt Xuân Thu Thiền trùng sinh quay ngược dòng thời gian hòng xoay chuyển thế cục bại vong trước Phương Nguyên. Trong Sông Thời Gian, ý chí của U Hồn Ma Tôn giải thích rằng chính Thiên ý đã ra tay trợ giúp nhằm mượn tay họ tiêu diệt Phương Nguyên, một \"ngoại lai chi ma\" hoàn chỉnh đang phá vỡ sự cân bằng của trời đất.",
+      "description": "Ảnh Vô Tà bất ngờ kích hoạt Xuân Thu Thiền trùng sinh quay ngược dòng thời gian hòng xoay chuyển thế cục bại vong trước Phương Nguyên. Trong Sông Thời Gian, ý chí của U Hồn Ma Tôn giải thích rằng chính Thiên ý đã ra tay trợ giúp nhằm mượn tay họ tiêu diệt Phương Nguyên, một \"ngoại lai chi ma\" hoàn chỉnh đang phá vỡ sự cân bằng của trời đất.",
+      "status": "in_progress",
+      "status_label": "Đang ra",
+      "ongoing": true,
+      "genre": "eastern_fiction",
+      "sub_genre": "unlimited_flow",
+      "style_tags": [
+        "Tiên hiệp",
+        "Trọng sinh",
+        "Huyền ảo",
+        "Trí đấu",
+        "Hắc ám lưu"
+      ],
+      "categories": [
+        {
+          "key": "genre:eastern-fiction",
+          "token": "eastern_fiction",
+          "title": "Đông phương"
+        },
+        {
+          "key": "tag:tien-hiep",
+          "token": "Tiên hiệp",
+          "title": "Tiên hiệp"
+        },
+        {
+          "key": "tag:trong-sinh",
+          "token": "Trọng sinh",
+          "title": "Trọng sinh"
+        },
+        {
+          "key": "tag:huyen-ao",
+          "token": "Huyền ảo",
+          "title": "Huyền ảo"
+        },
+        {
+          "key": "tag:tri-đau",
+          "token": "Trí đấu",
+          "title": "Trí đấu"
+        },
+        {
+          "key": "tag:hac-am-luu",
+          "token": "Hắc ám lưu",
+          "title": "Hắc ám lưu"
+        }
+      ],
+      "completed_chapters": 1,
+      "total_chapters": 1915,
+      "latest_chapter": "Chương 1: Bè tre chao đảo trên sông Hoàng Long",
+      "detail": "Tiến độ: 1/1915 chương | Mới nhất: Chương 1: Bè tre chao đảo trên sông Hoàng Long",
+      "updated_at": "2026-06-12T09:25:30.310622+07:00",
+      "cover_relative_path": "illustrations/cover/cover.png",
+      "readme_path": "Output/Co Chan Nhan/README.md",
+      "toc_path": "Output/Co Chan Nhan/toc.json"
+    },
+    {
+      "branch": "Dung Goi Ta Ta Than",
+      "title": "Đừng Gọi Ta Tà Thần - Dung Goi Ta Ta Than",
+      "author": "Chưa rõ",
+      "summary": "Chưa có tóm tắt",
+      "description": "Chưa có tóm tắt",
+      "status": "in_progress",
+      "status_label": "Đang ra",
+      "ongoing": true,
+      "genre": "eastern_fiction",
+      "sub_genre": "unlimited_flow",
+      "style_tags": [],
+      "categories": [
+        {
+          "key": "genre:eastern-fiction",
+          "token": "eastern_fiction",
+          "title": "Đông phương"
+        }
+      ],
+      "completed_chapters": 53,
+      "total_chapters": 968,
+      "latest_chapter": "Chương 52: Evan: Tay sai của ta đâu?",
+      "detail": "Tiến độ: 50/968 chương | Mới nhất: Chương 50: Chức nghiệp đắt khách nhất",
+      "updated_at": "2026-06-12T09:36:50+07:00",
+      "cover_relative_path": "illustrations/cover/cover.png",
+      "readme_path": "Output/Dung Goi Ta Ta Than/README.md",
+      "toc_path": "Output/Dung Goi Ta Ta Than/toc.json"
+    },
+    {
+      "branch": "Phi Pham Hong Hoang",
+      "title": "Phi Phàm Hồng Hoang",
+      "author": "Ngã Tự Phi Phàm",
+      "summary": "La Phàm tỉnh dậy giữa một thế giới hoàn toàn không còn dấu vết Trái Đất, từ đó bước vào hành trình nhận thức lại bản thân, huyết mạch và đại đạo trong môi trường nguyên sơ nhất của hồng hoang.",
+      "backdrop": "Thiên địa sơ khai của thế giới Hồng Hoang, nơi núi chống trời, dị thú và quy luật nguyên thủy còn mạnh hơn mọi khái niệm văn minh.",
+      "description": "La Phàm tỉnh dậy giữa một thế giới hoàn toàn không còn dấu vết Trái Đất, từ đó bước vào hành trình nhận thức lại bản thân, huyết mạch và đại đạo trong môi trường nguyên sơ nhất của hồng hoang.",
+      "detail": "Tiến độ: 2/3574 chương | Mới nhất: Chương 2: Quan Bất Chu ngộ công pháp",
+      "status": "in_progress",
+      "status_label": "Đang ra",
+      "ongoing": true,
+      "completed_chapters": 2,
+      "total_chapters": 3574,
+      "latest_chapter": "Chương 2: Quan Bất Chu ngộ công pháp",
+      "genre": "eastern_fiction",
+      "sub_genre": "xianxia",
+      "style_tags": [
+        "Xuyên không",
+        "Hồng hoang",
+        "Tu chân",
+        "Thần thú",
+        "Tiên hiệp"
+      ],
+      "categories": [
+        {
+          "key": "genre:eastern-fiction",
+          "token": "eastern_fiction",
+          "title": "Đông phương"
+        },
+        {
+          "key": "tag:xuyen-khong",
+          "token": "Xuyên không",
+          "title": "Xuyên không"
+        },
+        {
+          "key": "tag:hong-hoang",
+          "token": "Hồng hoang",
+          "title": "Hồng hoang"
+        },
+        {
+          "key": "tag:tu-chan",
+          "token": "Tu chân",
+          "title": "Tu chân"
+        },
+        {
+          "key": "tag:than-thu",
+          "token": "Thần thú",
+          "title": "Thần thú"
+        },
+        {
+          "key": "tag:tien-hiep",
+          "token": "Tiên hiệp",
+          "title": "Tiên hiệp"
+        }
+      ],
+      "cover_candidates": [
+        "illustrations/cover/Phi Pham Hong Hoang_Nga Tu Phi Pham.png"
+      ],
+      "cover_slots": [
+        "Output/Phi Pham Hong Hoang_Nga Tu Phi Pham/illustrations/cover/cover.jpg",
+        "Output/Phi Pham Hong Hoang_Nga Tu Phi Pham/illustrations/cover/cover.png",
+        "Output/Phi Pham Hong Hoang_Nga Tu Phi Pham/illustrations/cover/cover.webp",
+        "Output/Phi Pham Hong Hoang_Nga Tu Phi Pham/illustrations/cover/cover.jpeg"
+      ],
+      "cover_prompt": "Vertical book cover ratio 6:9. Cinematic composition, hyper-detailed, 8k resolution. [BỐ CỤC CHỮ]: The title 'Phi Phàm Hồng Hoang' is written in LARGE, massive typography perfectly centered. The author name 'Ngã Tự Phi Phàm' is written in smaller, elegant text neatly placed near the title. Typography style: Ancient Seal-script calligraphy in solid gold and emerald jade texture, appearing to be carved into stone. [NHÂN VẬT & ĐIỂM NHẤN]: Centered focus on a tall, long-haired immortal (La Phàm) sitting in meditation on a flat rock at the very edge of a sky-piercing mountain peak, surrounded by a faint, eternal golden aura (Immortal Light). [BỐ CẢNH NỀN]: The background features the massive pillar of Mount Buzhou (Bất Chu Sơn) disappearing into the swirling primordial chaos and thick white clouds below, with a giant silver moon and a distant red sun shining simultaneously in the sky. [NGÔN NGỮ NỀN]: Subtly integrated into the rock textures and the clouds are glowing ancient seals and primordial runes of the creation era. [SẮC THÁI]: Mood is eternal, solitary, and transcendent, lighting is a serene blend of cool moonbeams and warm primordial dawn.",
+      "cover_relative_path": "illustrations/cover/cover.png",
+      "readme_path": "Output/Phi Pham Hong Hoang/README.md",
+      "toc_path": "Output/Phi Pham Hong Hoang/toc.json",
+      "updated_at": "2026-06-12T09:27:47.013598+07:00"
+    },
+    {
+      "branch": "Ta Te Bao Nguc Giam",
+      "title": "Ta Te Bao Nguc Giam",
+      "author": "Chưa rõ",
+      "summary": "Chưa có tóm tắt",
+      "description": "Chưa có tóm tắt",
+      "status": "in_progress",
+      "status_label": "Đang ra",
+      "ongoing": true,
+      "genre": "eastern_fiction",
+      "sub_genre": "unlimited_flow",
+      "style_tags": [],
+      "categories": [
+        {
+          "key": "genre:eastern-fiction",
+          "token": "eastern_fiction",
+          "title": "Đông phương"
+        }
+      ],
+      "completed_chapters": 2,
+      "total_chapters": 2169,
+      "latest_chapter": "0001 神秘的监狱",
+      "detail": "Tiến độ: 2/2169 chương | Mới nhất: 0001 神秘的监狱",
+      "updated_at": "2026-06-12T09:28:59.339338+07:00",
+      "cover_relative_path": "illustrations/cover/cover.png",
+      "readme_path": "Output/Ta Te Bao Nguc Giam/README.md",
+      "toc_path": "Output/Ta Te Bao Nguc Giam/toc.json"
+    },
+    {
+      "branch": "Thai Nhat Dao Qua",
+      "title": "Thái Nhất Đạo Quả",
+      "author": "Hàm Vũ",
+      "summary": "Khương Ly xuyên không đến thế giới Xích Huyện Thần Châu thời kỳ mạt pháp, nơi người tu hành phải dung hợp \"Đạo quả\" để gia tăng giới hạn sức mạnh của bản thân. Nhờ sở hữu cuốn nhật ký thần kỳ với khả năng củng cố nhân quả giúp nỗ lực luôn đem lại tiến bộ mà không sợ bị thụt lùi, anh chọn con đường Đạo nhân chuyên về bói toán để dễ dàng lánh dữ tìm lành. Từ một đệ tử ngoại môn của Đỉnh Hồ phái, anh bắt đầu hành trình tu hành đầy cẩn trọng để từng bước thăng cấp và vượt qua giới hạn phàm nhân.",
+      "description": "Khương Ly xuyên không đến thế giới Xích Huyện Thần Châu thời kỳ mạt pháp, nơi người tu hành phải dung hợp \"Đạo quả\" để gia tăng giới hạn sức mạnh của bản thân. Nhờ sở hữu cuốn nhật ký thần kỳ với khả năng củng cố nhân quả giúp nỗ lực luôn đem lại tiến bộ mà không sợ bị thụt lùi, anh chọn con đường Đạo nhân chuyên về bói toán để dễ dàng lánh dữ tìm lành. Từ một đệ tử ngoại môn của Đỉnh Hồ phái, anh bắt đầu hành trình tu hành đầy cẩn trọng để từng bước thăng cấp và vượt qua giới hạn phàm nhân.",
+      "status": "in_progress",
+      "status_label": "Đang ra",
+      "ongoing": true,
+      "genre": "eastern_fiction",
+      "sub_genre": "unlimited_flow",
+      "style_tags": [
+        "tiên hiệp",
+        "đạo quả",
+        "cẩu đạo",
+        "xuyên không",
+        "hệ thống"
+      ],
+      "categories": [
+        {
+          "key": "genre:eastern-fiction",
+          "token": "eastern_fiction",
+          "title": "Đông phương"
+        },
+        {
+          "key": "tag:tien-hiep",
+          "token": "tiên hiệp",
+          "title": "Tiên hiệp"
+        },
+        {
+          "key": "tag:đao-qua",
+          "token": "đạo quả",
+          "title": "Đạo quả"
+        },
+        {
+          "key": "tag:cau-đao",
+          "token": "cẩu đạo",
+          "title": "Cẩu đạo"
+        },
+        {
+          "key": "tag:xuyen-khong",
+          "token": "xuyên không",
+          "title": "Xuyên không"
+        },
+        {
+          "key": "tag:he-thong",
+          "token": "hệ thống",
+          "title": "Hệ thống"
+        }
+      ],
+      "completed_chapters": 2,
+      "total_chapters": 1135,
+      "latest_chapter": "Chương 2: Nhân Quả Tập",
+      "detail": "Tiến độ: 2/1135 chương | Mới nhất: Chương 2: Nhân Quả Tập",
+      "updated_at": "2026-06-12T09:30:11.397327+07:00",
+      "cover_relative_path": "illustrations/cover/cover.png",
+      "readme_path": "Output/Thai Nhat Dao Qua/README.md",
+      "toc_path": "Output/Thai Nhat Dao Qua/toc.json"
+    },
+    {
+      "branch": "Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han",
+      "title": "Theo Tử Thần Bắt Đầu Đánh Xuyên Qua Tổng Mạn Vô Hạn",
+      "author": "Khuyết danh",
+      "summary": "Lục Ly bước vào truyện từ thế cực kỳ bị động: bị giam, chờ tử hình và bị thẩm vấn. Từ trạng thái ấy, câu chuyện dần lật mở quá khứ, năng lực và các tầng thế giới mà anh sẽ đi qua.",
+      "backdrop": "Fanfic đa thế giới khởi đầu bằng bối cảnh giam cầm kiểu sci-fi, rồi mở rộng sang nhiều thế giới quen thuộc với hệ thống, xuyên qua và chiến đấu liên chuỗi IP.",
+      "description": "Lục Ly bước vào truyện từ thế cực kỳ bị động: bị giam, chờ tử hình và bị thẩm vấn. Từ trạng thái ấy, câu chuyện dần lật mở quá khứ, năng lực và các tầng thế giới mà anh sẽ đi qua.",
+      "detail": "Tiến độ: 4/1187 chương | Mới nhất: Chương 4: Unohana (Truyện mới cầu cất chứa)",
+      "status": "in_progress",
+      "status_label": "Đang ra",
+      "ongoing": true,
+      "completed_chapters": 4,
+      "total_chapters": 1187,
+      "latest_chapter": "Chương 4: Unohana (Truyện mới cầu cất chứa)",
+      "genre": "eastern_fiction",
+      "sub_genre": "fanfic, system, infinite_worlds",
+      "style_tags": [
+        "Vô hạn lưu",
+        "Đồng nhân",
+        "Mãng phu lưu",
+        "Bán vô địch"
+      ],
+      "categories": [
+        {
+          "key": "genre:eastern-fiction",
+          "token": "eastern_fiction",
+          "title": "Đông phương"
+        },
+        {
+          "key": "tag:vo-han-luu",
+          "token": "Vô hạn lưu",
+          "title": "Vô hạn lưu"
+        },
+        {
+          "key": "tag:đong-nhan",
+          "token": "Đồng nhân",
+          "title": "Đồng nhân"
+        },
+        {
+          "key": "tag:mang-phu-luu",
+          "token": "Mãng phu lưu",
+          "title": "Mãng phu lưu"
+        },
+        {
+          "key": "tag:ban-vo-đich",
+          "token": "Bán vô địch",
+          "title": "Bán vô địch"
+        }
+      ],
+      "cover_candidates": [
+        "illustrations/cover/Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han.png"
+      ],
+      "cover_slots": [
+        "Output/Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han/illustrations/cover/cover.jpg",
+        "Output/Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han/illustrations/cover/cover.png",
+        "Output/Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han/illustrations/cover/cover.webp",
+        "Output/Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han/illustrations/cover/cover.jpeg"
+      ],
+      "cover_prompt": "Vertical book cover ratio 6:9. Cinematic composition, hyper-detailed, 8k resolution. [BỐ CỤC CHỮ]: The title 'Theo Tử Thần Bắt Đầu Đánh Xuyên Qua Tổng Mạn Vô Hạn' is written in LARGE, sharp Anime-style typography perfectly centered. The author name 'Khuyết danh' is written in smaller, bold text neatly placed near the title. Typography style: Aggressive brush-stroke font with white inner color and thick black outlines, resembling classic Shonen manga titles. [NHÂN VẬT & ĐIỂM NHẤN]: Centered focus on a young man in a black Shinigami kimono (Shihakusho), holding a long, black katana (Zanpakuto) that emits spiritual blue energy. He has a determined expression, eyes glowing with power. [BỐ CẢNH NỀN]: The background is a chaotic dimensional rift with floating shards of glass reflecting iconic anime landscapes: a Japanese pagoda, a modern cityscape, and a desert. [NGÔN NGỮ NỀN]: Subtly integrated into the energy waves and dimensional shards are floating white Japanese Kanji and Katakana characters (e.g., 卍, 死神). [SẮC THÁI]: Mood is action-packed and epic, lighting is dominated by brilliant blue energy sparks and high-contrast dramatic shadows.",
+      "cover_relative_path": "illustrations/cover/cover.png",
+      "readme_path": "Output/Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han/README.md",
+      "toc_path": "Output/Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han/toc.json",
+      "updated_at": "2026-06-12T09:31:43.749937+07:00"
+    },
+    {
+      "branch": "Tieu Dao Mong Duong",
+      "title": "Tiểu Đào Mông Đường",
+      "author": "Chưa rõ",
+      "summary": "Chưa có tóm tắt",
+      "description": "Chưa có tóm tắt",
+      "status": "in_progress",
+      "status_label": "Đang ra",
+      "ongoing": true,
+      "genre": "eastern_fiction",
+      "sub_genre": "unlimited_flow",
+      "style_tags": [],
+      "categories": [
+        {
+          "key": "genre:eastern-fiction",
+          "token": "eastern_fiction",
+          "title": "Đông phương"
+        }
+      ],
+      "completed_chapters": 3,
+      "total_chapters": 1184,
+      "latest_chapter": "Chương 3: Linh Trà",
+      "detail": "Tiến độ: 3/1184 chương | Mới nhất: Chương 3: Linh Trà",
+      "updated_at": "2026-06-12T09:33:01.018377+07:00",
+      "cover_relative_path": "illustrations/cover/cover.png",
+      "readme_path": "Output/Tieu Dao Mong Duong/README.md",
+      "toc_path": "Output/Tieu Dao Mong Duong/toc.json"
+    },
+    {
+      "branch": "Tu Chan Bon Van Nam",
+      "title": "Tu Chân Bốn Vạn Năm",
+      "author": "Ngọa Ngưu Chân Nhân",
+      "summary": "Lý Diệu, một học sinh phổ thông xuất thân từ bãi phế thải pháp bảo, tình cờ nhận được truyền thừa cổ đại và bắt đầu hành trình nghịch thiên cải mệnh, đi theo con đường luyện khí sư và giáp sĩ chiến đấu trong tinh không bao la.",
+      "backdrop": "Tu chân cơ giáp vũ trụ thế giới khoa học kỹ thuật hiện đại.",
+      "description": "Lý Diệu, một học sinh phổ thông xuất thân từ bãi phế thải pháp bảo, tình cờ nhận được truyền thừa cổ đại và bắt đầu hành trình nghịch thiên cải mệnh, đi theo con đường luyện khí sư và giáp sĩ chiến đấu trong tinh không bao la.",
+      "detail": "Tiến độ: 4/3339 chương | Mới nhất: Chương 4: Yêu Đao Bành Hải",
+      "status": "in_progress",
+      "status_label": "Đang ra",
+      "ongoing": true,
+      "completed_chapters": 4,
+      "total_chapters": 3339,
+      "latest_chapter": "Chương 4: Yêu Đao Bành Hải",
+      "genre": "eastern_fiction",
+      "sub_genre": "sci_fi",
+      "style_tags": [
+        "Khoa huyễn",
+        "Tu chân hiện đại",
+        "Cơ giáp",
+        "Luyện khí",
+        "Sảng văn"
+      ],
+      "categories": [
+        {
+          "key": "genre:eastern-fiction",
+          "token": "eastern_fiction",
+          "title": "Đông phương"
+        },
+        {
+          "key": "tag:khoa-huyen",
+          "token": "Khoa huyễn",
+          "title": "Khoa huyễn"
+        },
+        {
+          "key": "tag:tu-chan-hien-đai",
+          "token": "Tu chân hiện đại",
+          "title": "Tu chân hiện đại"
+        },
+        {
+          "key": "tag:co-giap",
+          "token": "Cơ giáp",
+          "title": "Cơ giáp"
+        },
+        {
+          "key": "tag:luyen-khi",
+          "token": "Luyện khí",
+          "title": "Luyện khí"
+        },
+        {
+          "key": "tag:sang-van",
+          "token": "Sảng văn",
+          "title": "Sảng văn"
+        }
+      ],
+      "cover_candidates": [
+        "illustrations/cover/Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan.png"
+      ],
+      "cover_slots": [
+        "Output/Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan/illustrations/cover/cover.jpg",
+        "Output/Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan/illustrations/cover/cover.png",
+        "Output/Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan/illustrations/cover/cover.webp",
+        "Output/Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan/illustrations/cover/cover.jpeg"
+      ],
+      "cover_prompt": "Vertical book cover ratio 6:9. Cinematic composition, hyper-detailed, 8k resolution. [BỐ CỤC CHỮ]: The title 'Tu Chân Bốn Vạn Năm' is written in LARGE, massive typography perfectly centered. The author name 'Ngọa Ngưu Chân Nhân' is written in smaller, elegant text neatly placed near the title. Typography style: Epic and modern font. [SẮC THÁI]: đông phương, sci fi. [BỐ CẢNH]: Tu chân cơ giáp vũ trụ thế giới khoa học kỹ thuật hiện đại.",
+      "cover_relative_path": "illustrations/cover/cover.png",
+      "readme_path": "Output/Tu Chan Bon Van Nam/README.md",
+      "toc_path": "Output/Tu Chan Bon Van Nam/toc.json",
+      "updated_at": "2026-06-12T09:34:08.033625+07:00"
+    },
+    {
+      "branch": "Hong Hoang Lich_Zhttty",
+      "title": "Hồng Hoang Lịch",
+      "author": "Zhttty",
+      "summary": "Tác phẩm dẫn người đọc từ cảnh sinh tồn trong hỗn loạn sang những cột mốc liên quan đến Chủ Thần, công pháp và quá trình xây dựng lực lượng. Nhịp truyện rộng, nhiều tuyến và thiên về quy mô đại cục.",
+      "backdrop": "Một biên niên sử hồng hoang nơi bóng tối, sinh tồn, ma pháp, công nghệ và tu luyện cùng lúc tồn tại, khiến mỗi bước tiến cá nhân đều chạm tới vận mệnh của cả văn minh.",
+      "description": "Tác phẩm dẫn người đọc từ cảnh sinh tồn trong hỗn loạn sang những cột mốc liên quan đến Chủ Thần, công pháp và quá trình xây dựng lực lượng. Nhịp truyện rộng, nhiều tuyến và thiên về quy mô đại cục.",
+      "detail": "Một biên niên sử hồng hoang nơi bóng tối, sinh tồn, ma pháp, công nghệ và tu luyện cùng lúc tồn tại, khiến mỗi bước tiến cá nhân đều chạm tới vận mệnh của cả văn minh. | Tiến độ: 199 chương | Mới nhất: Chương 200: Sự nhắm vào của các Thánh vị",
+      "status": "in_progress",
+      "status_label": "Đang ra",
+      "ongoing": true,
+      "completed_chapters": 199,
+      "total_chapters": null,
+      "latest_chapter": "Chương 200: Sự nhắm vào của các Thánh vị",
+      "genre": "eastern_fiction",
+      "sub_genre": "xianxia",
+      "style_tags": [
+        "hồng hoang",
+        "sử thi",
+        "sinh tồn",
+        "đa văn minh"
+      ],
+      "categories": [
+        {
+          "key": "genre:eastern-fiction",
+          "token": "eastern_fiction",
+          "title": "Đông phương"
+        },
+        {
+          "key": "tag:tien-hiep",
+          "token": "xianxia",
+          "title": "Tiên hiệp"
+        },
+        {
+          "key": "tag:hong-hoang",
+          "token": "hồng hoang",
+          "title": "Hồng hoang"
+        },
+        {
+          "key": "tag:su-thi",
+          "token": "sử thi",
+          "title": "Sử thi"
+        },
+        {
+          "key": "tag:sinh-ton",
+          "token": "sinh tồn",
+          "title": "Sinh tồn"
+        },
+        {
+          "key": "tag:a-van-minh",
+          "token": "đa văn minh",
+          "title": "Đa văn minh"
+        }
+      ],
+      "cover_candidates": [
+        "illustrations/cover/Hong Hoang Lich_Zhttty.png"
+      ],
+      "cover_slots": [
+        "Output/Hong Hoang Lich_Zhttty/illustrations/cover/cover.jpg",
+        "Output/Hong Hoang Lich_Zhttty/illustrations/cover/cover.png",
+        "Output/Hong Hoang Lich_Zhttty/illustrations/cover/cover.webp",
+        "Output/Hong Hoang Lich_Zhttty/illustrations/cover/cover.jpeg"
+      ],
+      "cover_prompt": "Vertical book cover ratio 6:9. Cinematic composition, hyper-detailed, 8k resolution. [BỐ CỤC CHỮ]: The title 'Hồng Hoang Lịch' is written in LARGE, massive typography perfectly centered. The author name 'Zhttty' is written in smaller, elegant text neatly placed near the title. Typography style: Ancient calligraphic brush font in cinnabar red and golden ink, weathered and powerful. [NHÂN VẬT & ĐIỂM NHẤN]: Centered focus on a young scholar-mage (Ngô Minh) in flowing taoist robes integrated with subtle mechanical armor, eyes focused, holding a floating silver orb (Master God Space) that radiates immense power. [BỐ CẢNH NỀN]: The background features a vast primordial valley with giant prehistoric beasts in the distance, overshadowed by a massive, high-tech floating fortress (Huyền Hoàng Battleship) and a glowing Magic Tower. [NGÔN NGỮ NỀN]: Subtly integrated into the sky and floating around the battleship are carved golden Ancient Chinese characters and complex geometric magic circles. [SẮC THÁI]: Mood is epic, historical, and grand, lighting is dramatic sunset rays with high contrast between deep shadows and bright magical glows.",
+      "cover_relative_path": "illustrations/cover/Hong Hoang Lich_Zhttty.png",
+      "readme_path": "Output/Hong Hoang Lich_Zhttty/README.md",
+      "toc_path": "Output/Hong Hoang Lich_Zhttty/toc.json",
+      "updated_at": "2026-06-05T00:23:03+07:00"
+    },
+    {
+      "branch": "Linh Hon Negary_Hu Minh",
+      "title": "Linh Hồn Negary",
+      "author": "Hư Minh",
+      "summary": "Vương Uyên xuyên không trở thành một linh hồn tàn khuyết mang tên Negary. Trong thế giới đầy rẫy sự lừa dối và nguy hiểm của Thần Ân giáo và các vương quốc, hắn từng bước thôn phệ, tiến hóa và trở thành nỗi khiếp sợ thực sự - kẻ chi phối vạn vật từ trong bóng tối.",
+      "backdrop": "Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.",
+      "description": "Vương Uyên xuyên không trở thành một linh hồn tàn khuyết mang tên Negary. Trong thế giới đầy rẫy sự lừa dối và nguy hiểm của Thần Ân giáo và các vương quốc, hắn từng bước thôn phệ, tiến hóa và trở thành nỗi khiếp sợ thực sự - kẻ chi phối vạn vật từ trong bóng tối.",
+      "detail": "Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng. | Tiến độ: 229/754 chương | Mới nhất: Chương 232: Ta Nhìn Thấy Chân Lý",
+      "status": "in_progress",
+      "status_label": "Đang ra",
+      "ongoing": true,
+      "completed_chapters": 229,
+      "total_chapters": 754,
+      "latest_chapter": "Chương 232: Ta Nhìn Thấy Chân Lý",
+      "genre": "western_fiction",
+      "sub_genre": "fantasy",
+      "style_tags": [
+        "dark fantasy",
+        "linh hồn",
+        "tiến hóa",
+        "mưu lược"
+      ],
+      "categories": [
+        {
+          "key": "genre:western-fiction",
+          "token": "western_fiction",
+          "title": "Tây phương"
+        },
+        {
+          "key": "tag:fantasy",
+          "token": "fantasy",
+          "title": "Fantasy"
+        },
+        {
+          "key": "tag:dark-fantasy",
+          "token": "dark fantasy",
+          "title": "Dark fantasy"
+        },
+        {
+          "key": "tag:linh-hon",
+          "token": "linh hồn",
+          "title": "Linh hồn"
+        },
+        {
+          "key": "tag:tien-hoa",
+          "token": "tiến hóa",
+          "title": "Tiến hóa"
+        },
+        {
+          "key": "tag:muu-luoc",
+          "token": "mưu lược",
+          "title": "Mưu lược"
+        }
+      ],
+      "cover_candidates": [
+        "illustrations/cover/Linh Hon Negary_Hu Minh.png"
+      ],
+      "cover_slots": [
+        "Output/Linh Hon Negary_Hu Minh/illustrations/cover/cover.jpg",
+        "Output/Linh Hon Negary_Hu Minh/illustrations/cover/cover.png",
+        "Output/Linh Hon Negary_Hu Minh/illustrations/cover/cover.webp",
+        "Output/Linh Hon Negary_Hu Minh/illustrations/cover/cover.jpeg"
+      ],
+      "cover_prompt": "Vertical book cover ratio 6:9. Cinematic composition, hyper-detailed, 8k resolution. [BỐ CỤC CHỮ]: The title 'Linh Hồn Negary' is written in LARGE, sharp Gothic-style typography perfectly centered. The author name 'Hư Minh' is written in smaller, elegant bone-white text neatly placed near the title. Typography style: Dark Gothic font with silver stroke and a subtle greenish necrotic glow. [NHÂN VẬT & ĐIỂM NHẤN]: Centered focus on a majestic, ethereal being made of grey-blue soul mist (Negary) sitting on a massive throne made of white dragon bones. His eyes are hollow but emit a piercing light, and his hands are covered in black 'Crows' and 'Germs' (Black Crow and Germs) that flow like silk threads. [BỐ CẢNH NỀN]: The background is a dark, infinite void (The Void) with distant, decaying medieval castle silhouettes and a swarm of black crows flying around the throne. [NGÔN NGỮ NỀN]: Subtly integrated into the soul mist and the crows are glowing ancient Latin runes and necrotic symbols. [SẮC THÁI]: Mood is dark, oppressive, and majestic Gothic fantasy, lighting is a mix of eerie cold blue soul light and deep, pitch-black shadows.",
+      "cover_relative_path": "illustrations/cover/Linh Hon Negary_Hu Minh.png",
+      "readme_path": "Output/Linh Hon Negary_Hu Minh/README.md",
+      "toc_path": "Output/Linh Hon Negary_Hu Minh/toc.json",
+      "updated_at": "2026-06-05T00:23:04+07:00"
+    },
+    {
+      "branch": "Pham Nhan Bat Dau Doat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "title": "Phàm Nhân Bắt Đầu Đoạt Xá Mặc Cư Nhân",
+      "author": "Tiêu Trần Tử",
+      "summary": "Từ vị trí vốn là một nhân vật bi kịch ở đầu truyện gốc, Mặc Cư Nhân nay có thêm ký ức của kẻ biết trước cốt truyện và quyết tâm thoát khỏi kết cục cũ bằng tính toán, huyết mạch và hiểu biết nguyên tác.",
+      "backdrop": "Fanfiction đặt trên nền Phàm Nhân Tu Tiên, nơi một linh hồn dị thế nhập vào thân xác Mặc Cư Nhân và cố viết lại vận mệnh bi kịch đã định của mình.",
+      "description": "Từ vị trí vốn là một nhân vật bi kịch ở đầu truyện gốc, Mặc Cư Nhân nay có thêm ký ức của kẻ biết trước cốt truyện và quyết tâm thoát khỏi kết cục cũ bằng tính toán, huyết mạch và hiểu biết nguyên tác.",
+      "detail": "Fanfiction đặt trên nền Phàm Nhân Tu Tiên, nơi một linh hồn dị thế nhập vào thân xác Mặc Cư Nhân và cố viết lại vận mệnh bi kịch đã định của mình. | Tiến độ: 20/1337 chương | Mới nhất: Chương 20: Truy sát",
+      "status": "in_progress",
+      "status_label": "Đang ra",
+      "ongoing": true,
+      "completed_chapters": 20,
+      "total_chapters": 1337,
+      "latest_chapter": "Chương 20: Truy sát",
+      "genre": "eastern_fiction",
+      "sub_genre": "xianxia",
+      "style_tags": [
+        "fanfic",
+        "tiên hiệp",
+        "đoạt xá",
+        "đổi mệnh"
+      ],
+      "categories": [
+        {
+          "key": "genre:eastern-fiction",
+          "token": "eastern_fiction",
+          "title": "Đông phương"
+        },
+        {
+          "key": "tag:tien-hiep",
+          "token": "xianxia",
+          "title": "Tiên hiệp"
+        },
+        {
+          "key": "tag:fanfic",
+          "token": "fanfic",
+          "title": "Fanfic"
+        },
+        {
+          "key": "tag:oat-xa",
+          "token": "đoạt xá",
+          "title": "Đoạt xá"
+        },
+        {
+          "key": "tag:oi-menh",
+          "token": "đổi mệnh",
+          "title": "Đổi mệnh"
+        }
+      ],
+      "cover_candidates": [
+        "illustrations/cover/Pham Nhan Bat Dau Doat Xa Mac Cu Nhan_Tieu Tran Tu.png"
+      ],
+      "cover_slots": [
+        "Output/Pham Nhan Bat Dau Doat Xa Mac Cu Nhan_Tieu Tran Tu/illustrations/cover/cover.jpg",
+        "Output/Pham Nhan Bat Dau Doat Xa Mac Cu Nhan_Tieu Tran Tu/illustrations/cover/cover.png",
+        "Output/Pham Nhan Bat Dau Doat Xa Mac Cu Nhan_Tieu Tran Tu/illustrations/cover/cover.webp",
+        "Output/Pham Nhan Bat Dau Doat Xa Mac Cu Nhan_Tieu Tran Tu/illustrations/cover/cover.jpeg"
+      ],
+      "cover_prompt": "Vertical book cover ratio 6:9. Cinematic composition, hyper-detailed, 8k resolution. [BỐ CỤC CHỮ]: The title 'Phàm Nhân Bắt Đầu Đoạt Xá Mặc Cư Nhân' is written in LARGE, sharp, elegant typography perfectly centered. The author name 'Tiêu Trần Tử' is written in smaller, refined text neatly placed near the title. Typography style: Classic serif with sharp edges, deep emerald green color with a dark shadow effect. [NHÂN VẬT & ĐIỂM NHẤN]: Centered focus on an older, dignified man with a sharp, calculating gaze (Mặc Cư Nhân), dressed in dark scholarly robes, sitting before a heavy, ancient bronze furnace (Bloodline Furnace) that emits a subtle green glow. A faint, ghostly green python (Bích Lân Mãng) is coiled around the furnace. [BỐ CẢNH NỀN]: The background is a misty, secluded valley (Thần Thủ Cốc) at dusk, with ancient pine trees and wooden shelves filled with glass vials and dried herbs. [NGÔN NGỮ NỀN]: Subtly integrated into the background mist and the furnace texture are faint diagrams of meridians and traditional Chinese herbal names. [SẮC THÁI]: Mood is dark, mysterious, and intellectual, lighting is dominated by the eerie green glow from the furnace contrasting with the deep blue twilight of the valley.",
+      "cover_relative_path": "illustrations/cover/Pham Nhan Bat Dau Doat Xa Mac Cu Nhan_Tieu Tran Tu.png",
+      "readme_path": "Output/Pham Nhan Bat Dau Doat Xa Mac Cu Nhan_Tieu Tran Tu/README.md",
+      "toc_path": "Output/Pham Nhan Bat Dau Doat Xa Mac Cu Nhan_Tieu Tran Tu/toc.json",
+      "updated_at": "2026-06-05T00:23:04+07:00"
+    },
+    {
+      "branch": "Sieu Duy Thuat Si_Muc Ho",
+      "title": "Siêu Duy Thuật Sĩ",
+      "author": "Mục Hồ",
+      "summary": "Từ nhịp mở đầu ở thị trấn Gelu, truyện dựng bầu không khí rất mạnh: xa trung tâm nhưng luôn bị ảnh hưởng bởi các gia tộc và thế lực lớn. Đây là kiểu tác phẩm đưa người đọc từ tín hiệu quyền lực đầu tiên đến thế giới phù thủy rộng lớn hơn.",
+      "backdrop": "Fantasy phương Tây pha huyền bí và siêu duy, mở ra từ các thị trấn hẻo lánh, gia tộc quyền lực và cánh cửa bước vào nền văn minh phù thủy.",
+      "description": "Từ nhịp mở đầu ở thị trấn Gelu, truyện dựng bầu không khí rất mạnh: xa trung tâm nhưng luôn bị ảnh hưởng bởi các gia tộc và thế lực lớn. Đây là kiểu tác phẩm đưa người đọc từ tín hiệu quyền lực đầu tiên đến thế giới phù thủy rộng lớn hơn.",
+      "detail": "Fantasy phương Tây pha huyền bí và siêu duy, mở ra từ các thị trấn hẻo lánh, gia tộc quyền lực và cánh cửa bước vào nền văn minh phù thủy. | Tiến độ: 20/4393 chương | Mới nhất: Chương 20: Phương pháp Dẫn dắt Hình tam giác",
+      "status": "in_progress",
+      "status_label": "Đang ra",
+      "ongoing": true,
+      "completed_chapters": 20,
+      "total_chapters": 4393,
+      "latest_chapter": "Chương 20: Phương pháp Dẫn dắt Hình tam giác",
+      "genre": "western_fiction",
+      "sub_genre": "wizardry",
+      "style_tags": [
+        "fantasy",
+        "phù thủy",
+        "mystery",
+        "adventure"
+      ],
+      "categories": [
+        {
+          "key": "genre:western-fiction",
+          "token": "western_fiction",
+          "title": "Tây phương"
+        },
+        {
+          "key": "tag:phu-thuy",
+          "token": "wizardry",
+          "title": "Phù thủy"
+        },
+        {
+          "key": "tag:fantasy",
+          "token": "fantasy",
+          "title": "Fantasy"
+        },
+        {
+          "key": "tag:mystery",
+          "token": "mystery",
+          "title": "Mystery"
+        },
+        {
+          "key": "tag:adventure",
+          "token": "adventure",
+          "title": "Adventure"
+        }
+      ],
+      "cover_candidates": [
+        "illustrations/cover/Sieu Duy Thuat Si_Muc Ho.png"
+      ],
+      "cover_slots": [
+        "Output/Sieu Duy Thuat Si_Muc Ho/illustrations/cover/cover.jpg",
+        "Output/Sieu Duy Thuat Si_Muc Ho/illustrations/cover/cover.png",
+        "Output/Sieu Duy Thuat Si_Muc Ho/illustrations/cover/cover.webp",
+        "Output/Sieu Duy Thuat Si_Muc Ho/illustrations/cover/cover.jpeg"
+      ],
+      "cover_prompt": "Vertical book cover ratio 6:9. Cinematic composition, hyper-detailed, 8k resolution. [BỐ CỤC CHỮ]: The title 'Siêu Duy Thuật Sĩ' is written in LARGE, premium gold-leaf typography perfectly centered. The author name 'Mục Hồ' is written in smaller, elegant white text neatly placed near the title. Typography style: Modern classical Latin-style serif with intricate filigree details. [NHÂN VẬT & ĐIỂM NHẤN]: Centered focus on a refined young man (Anger) with golden hair and intelligent eyes, wearing a dark blue noble coat with silver embroidery, holding a translucent, glowing blue geometric magic pattern (Rolling Waves) that rotates between his fingers. [BỐ CẢNH NỀN]: The background is a grand, high-ceilinged wizard library with floating books and glowing crystals, with a large arched window showing a night sky filled with multiple moons and a distant floating island (White Coral Island). [NGÔN NGỮ NỀN]: Subtly etched into the wooden shelves and floating in the air are glowing Latin-style magic runes and mathematical diagrams. [SẮC THÁI]: Mood is academic, mysterious, and high-fantasy, lighting is a warm study glow contrasted with cool, brilliant magical blue light.",
+      "cover_relative_path": "illustrations/cover/Sieu Duy Thuat Si_Muc Ho.png",
+      "readme_path": "Output/Sieu Duy Thuat Si_Muc Ho/README.md",
+      "toc_path": "Output/Sieu Duy Thuat Si_Muc Ho/toc.json",
+      "updated_at": "2026-06-05T00:23:04+07:00"
+    },
+    {
+      "branch": "Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu",
+      "title": "Ta Trong Bình Vũ Trụ",
+      "author": "Tam Bách Cân Đích Vi Tiếu",
+      "summary": "Lý Khanh phát hiện mình có khả năng 'Thức tỉnh' vi sinh vật. Anh bắt đầu thí nghiệm trong một bình thủy tinh, tạo ra nền văn minh Atabia. Câu chuyện là cuộc đấu trí giữa các 'phàm nhân' kiến tí và vị 'Ngoại Thần' nắm giữ quyền sinh sát tối thượng.",
+      "backdrop": "Thế giới vi mô nằm trong một phòng thí nghiệm của 'bệnh nhân tâm thần' Lý Khanh, nơi các nền văn minh đơn bào phát triển và diệt vong dưới sự quan sát của Ngoại Thần.",
+      "description": "Lý Khanh phát hiện mình có khả năng 'Thức tỉnh' vi sinh vật. Anh bắt đầu thí nghiệm trong một bình thủy tinh, tạo ra nền văn minh Atabia. Câu chuyện là cuộc đấu trí giữa các 'phàm nhân' kiến tí và vị 'Ngoại Thần' nắm giữ quyền sinh sát tối thượng.",
+      "detail": "Thế giới vi mô nằm trong một phòng thí nghiệm của 'bệnh nhân tâm thần' Lý Khanh, nơi các nền văn minh đơn bào phát triển và diệt vong dưới sự quan sát của Ngoại Thần. | Tiến độ: 300/3666 chương | Mới nhất: Chương 300: Văn minh 2.5 chiều",
+      "status": "in_progress",
+      "status_label": "Đang ra",
+      "ongoing": true,
+      "completed_chapters": 300,
+      "total_chapters": 3666,
+      "latest_chapter": "Chương 300: Văn minh 2.5 chiều",
+      "genre": "eastern_fiction",
+      "sub_genre": "evolution_scifi",
+      "style_tags": [
+        "sáng thế",
+        "vi mô",
+        "sử thi",
+        "khoa học viễn tưởng"
+      ],
+      "categories": [
+        {
+          "key": "genre:eastern-fiction",
+          "token": "eastern_fiction",
+          "title": "Đông phương"
+        },
+        {
+          "key": "tag:tien-hoa-khoa-huyen",
+          "token": "evolution_scifi",
+          "title": "Tiến hóa khoa huyễn"
+        },
+        {
+          "key": "tag:sang-the",
+          "token": "sáng thế",
+          "title": "Sáng thế"
+        },
+        {
+          "key": "tag:vi-mo",
+          "token": "vi mô",
+          "title": "Vi mô"
+        },
+        {
+          "key": "tag:su-thi",
+          "token": "sử thi",
+          "title": "Sử thi"
+        },
+        {
+          "key": "tag:khoa-hoc-vien-tuong",
+          "token": "khoa học viễn tưởng",
+          "title": "Khoa học viễn tưởng"
+        }
+      ],
+      "cover_candidates": [
+        "illustrations/cover/Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu.png"
+      ],
+      "cover_slots": [
+        "Output/Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu/illustrations/cover/cover.jpg",
+        "Output/Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu/illustrations/cover/cover.png",
+        "Output/Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu/illustrations/cover/cover.webp",
+        "Output/Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu/illustrations/cover/cover.jpeg"
+      ],
+      "cover_prompt": "Vertical book cover ratio 6:9. Cinematic composition, hyper-detailed, 8k resolution. [BỐ CỤC CHỮ]: The title 'Ta Trong Bình Vũ Trụ' is written in LARGE, futurist neon-blue typography perfectly centered. The author name 'Tam Bách Cân Đích Vi Tiếu' is written in smaller, sleek white text neatly placed near the title. Typography style: Bold sans-serif font with a glowing digital glitches and cybernetic patterns. [NHÂN VẬT & ĐIỂM NHẤN]: Centered focus on a young, calm man in a modern white doctor's coat (Lý Khanh), holding a glowing glass bottle that contains a miniature, rotating galaxy and tiny, intricate cities. His eyes reflect a vast cosmic wisdom. [BỐ CẢNH NỀN]: The background is a fusion of a dark modern laboratory and a deep space nebula, with translucent DNA helixes and binary code strings (0101) floating like stardust. [NGÔN NGỮ NỀN]: Subtly integrated into the cosmic clouds are glowing DNA sequences (A, T, C, G) and microscopic cell diagrams. [SẮC THÁI]: Mood is surreal, scientific, and awe-inspiring, lighting is a contrast between sharp laboratory white and the deep violet and blue of a distant nebula.",
+      "cover_relative_path": "illustrations/cover/Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu.png",
+      "readme_path": "Output/Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu/README.md",
+      "toc_path": "Output/Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu/toc.json",
+      "updated_at": "2026-06-05T00:23:05+07:00"
+    },
+    {
+      "branch": "Vu Su Tu Thai Duong Chi Tu",
+      "title": "Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới",
+      "author": "Hỉ Hoan Tất Thị Đích Hà Kì",
+      "summary": "Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng hô trang trọng, phép thuật, thí nghiệm di truyền học.",
+      "backdrop": "Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng hô trang trọng, phép thuật, thí nghiệm di truyền học.",
+      "description": "Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng hô trang trọng, phép thuật, thí nghiệm di truyền học.",
+      "detail": "Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng hô trang trọng, phép thuật, thí nghiệm di truyền học. | Tiến độ: 371/915 chương | Mới nhất: Chương 371: Chương 371: Triệu Tập Huyết Duệ",
+      "status": "in_progress",
+      "status_label": "Đang ra",
+      "ongoing": true,
+      "completed_chapters": 371,
+      "total_chapters": 915,
+      "latest_chapter": "Chương 371: Chương 371: Triệu Tập Huyết Duệ",
+      "genre": "western_fiction",
+      "sub_genre": "fantasy",
+      "style_tags": [
+        "tây phương",
+        "fantasy"
+      ],
+      "categories": [
+        {
+          "key": "genre:western-fiction",
+          "token": "western_fiction",
+          "title": "Tây phương"
+        },
+        {
+          "key": "tag:fantasy",
+          "token": "fantasy",
+          "title": "Fantasy"
+        },
+        {
+          "key": "tag:tay-phuong",
+          "token": "tây phương",
+          "title": "Tây phương"
+        }
+      ],
+      "cover_candidates": [
+        "illustrations/cover/Vu Su Tu Thai Duong Chi Tu.png"
+      ],
+      "cover_slots": [
+        "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/cover/cover.jpg",
+        "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/cover/cover.png",
+        "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/cover/cover.webp",
+        "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/cover/cover.jpeg"
+      ],
+      "cover_prompt": "Vertical book cover ratio 6:9. Cinematic composition, hyper-detailed, 8k resolution. [BỐ CỤC CHỮ]: The title 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới' is written in LARGE, massive typography perfectly centered. The author name 'Hỉ Hoan Tất Thị Đích Hà Kì' is written in smaller, elegant text neatly placed near the title. Typography style: Epic and modern font. [SẮC THÁI]: tây phương, fantasy. [BỐ CẢNH]: Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng hô trang trọng, phép thuật, thí nghiệm di truyền học.",
+      "cover_relative_path": "illustrations/cover/Vu Su Tu Thai Duong Chi Tu.png",
+      "readme_path": "Output/Vu Su Tu Thai Duong Chi Tu/README.md",
+      "toc_path": "Output/Vu Su Tu Thai Duong Chi Tu/toc.json",
+      "updated_at": "2026-06-05T00:30:23+07:00"
+    },
+    {
+      "branch": "Ac Linh Quoc Gia",
+      "title": "Ác Linh Quốc Gia",
+      "author": "Đạn Chỉ Nhất Tiếu Gian 0",
+      "summary": "Hạ Thiên Kì từ một sinh viên bình thường bị cuốn vào công ty bí ẩn chuyên xử lý các sự kiện quỷ dị. Càng tiến sâu, anh càng nhận ra công việc ấy là trò chơi sinh tồn được xây bằng sợ hãi, mưu tính và cái giá phải trả để còn sống.",
+      "backdrop": "Đô thị hiện đại bị xâm thực bởi các sự kiện siêu nhiên, nơi hợp đồng việc làm lương cao thực chất là cánh cửa dẫn vào chuỗi nhiệm vụ linh dị và sinh tử.",
+      "description": "Hạ Thiên Kì từ một sinh viên bình thường bị cuốn vào công ty bí ẩn chuyên xử lý các sự kiện quỷ dị. Càng tiến sâu, anh càng nhận ra công việc ấy là trò chơi sinh tồn được xây bằng sợ hãi, mưu tính và cái giá phải trả để còn sống.",
+      "detail": "Đô thị hiện đại bị xâm thực bởi các sự kiện siêu nhiên, nơi hợp đồng việc làm lương cao thực chất là cánh cửa dẫn vào chuỗi nhiệm vụ linh dị và sinh tử. | Tiến độ: 409/1671 chương | Mới nhất: Chương 410: Đản sinh",
+      "status": "in_progress",
+      "status_label": "Đang ra",
+      "ongoing": true,
+      "completed_chapters": 409,
+      "total_chapters": 1671,
+      "latest_chapter": "Chương 410: Đản sinh",
+      "genre": "eastern_fiction",
+      "sub_genre": "horror",
+      "style_tags": [
+        "đô thị",
+        "kinh dị",
+        "đen hài",
+        "căng thẳng"
+      ],
+      "categories": [
+        {
+          "key": "genre:eastern-fiction",
+          "token": "eastern_fiction",
+          "title": "Đông phương"
+        },
+        {
+          "key": "tag:kinh-di",
+          "token": "horror",
+          "title": "Kinh dị"
+        },
+        {
+          "key": "tag:o-thi",
+          "token": "đô thị",
+          "title": "Đô thị"
+        },
+        {
+          "key": "tag:en-hai",
+          "token": "đen hài",
+          "title": "Đen hài"
+        },
+        {
+          "key": "tag:cang-thang",
+          "token": "căng thẳng",
+          "title": "Căng thẳng"
+        }
+      ],
+      "cover_candidates": [
+        "illustrations/cover/Ac Linh Quoc Gia.png"
+      ],
+      "cover_slots": [
+        "Output/Ac Linh Quoc Gia/illustrations/cover/cover.jpg",
+        "Output/Ac Linh Quoc Gia/illustrations/cover/cover.png",
+        "Output/Ac Linh Quoc Gia/illustrations/cover/cover.webp",
+        "Output/Ac Linh Quoc Gia/illustrations/cover/cover.jpeg"
+      ],
+      "cover_prompt": "Vertical book cover ratio 6:9. Cinematic composition, hyper-detailed, 8k resolution. [BỐ CỤC CHỮ]: The title 'Ác Linh Quốc Gia' is written in LARGE, distorted, and blood-stained typography perfectly centered. The author name 'Đạn Chỉ Nhất Tiếu Gian 0' is written in smaller, weathered bone-white text neatly placed near the title. Typography style: Gothic horror serif with dripping blood effects and cracks. [NHÂN VẬT & ĐIỂM NHẤN]: Centered focus on a pale young man (Hạ Thiên Kỳ) with one eye glowing a terrifying demonic red (Tà Linh Nhãn), holding a modern smartphone that displays a cursed red eye icon. His expression is one of cold terror. [BỐ CẢNH NỀN]: The background is a long, dark, and decaying apartment corridor with peeling wallpaper and flickering overhead lights, where shadowy, distorted ghost hands reach out from the walls. [NGÔN NGỮ NỀN]: Subtly integrated into the shadows and the walls are glowing red Ancient Chinese spirit-warding charms and digital glitch characters. [SẮC THÁI]: Mood is dread-filled and terrifying, lighting is a mix of clinical flickering white and a deep, bloody red glow from the protagonist's eye.",
+      "cover_relative_path": "illustrations/cover/Ac Linh Quoc Gia.png",
+      "readme_path": "Output/Ac Linh Quoc Gia/README.md",
+      "toc_path": "Output/Ac Linh Quoc Gia/toc.json",
+      "updated_at": "2026-06-05T00:23:03+07:00"
     }
   ],
   "metadata": {
-    "generated_at": "2026-06-12T09:28:24+07:00",
-    "total_books": 1,
+    "generated_at": "2026-06-12T09:36:50+07:00",
+    "total_books": 17,
     "source": "Dichtrung/Output"
   },
   "tabs": [
     {
       "key": "all",
       "title": "Tất cả",
+      "count": 17
+    },
+    {
+      "key": "genre:eastern-fiction",
+      "title": "Đông phương",
+      "count": 14
+    },
+    {
+      "key": "genre:western-fiction",
+      "title": "Tây phương",
+      "count": 3
+    },
+    {
+      "key": "tag:a-van-minh",
+      "title": "Đa văn minh",
       "count": 1
     },
     {
-      "key": "genre:unknown",
-      "title": "Unknown",
+      "key": "tag:adventure",
+      "title": "Adventure",
+      "count": 1
+    },
+    {
+      "key": "tag:ban-vo-đich",
+      "title": "Bán vô địch",
+      "count": 1
+    },
+    {
+      "key": "tag:cang-thang",
+      "title": "Căng thẳng",
+      "count": 1
+    },
+    {
+      "key": "tag:cau-đao",
+      "title": "Cẩu đạo",
+      "count": 1
+    },
+    {
+      "key": "tag:co-giap",
+      "title": "Cơ giáp",
+      "count": 1
+    },
+    {
+      "key": "tag:dark-fantasy",
+      "title": "Dark fantasy",
+      "count": 1
+    },
+    {
+      "key": "tag:en-hai",
+      "title": "Đen hài",
+      "count": 1
+    },
+    {
+      "key": "tag:fanfic",
+      "title": "Fanfic",
+      "count": 1
+    },
+    {
+      "key": "tag:fantasy",
+      "title": "Fantasy",
+      "count": 3
+    },
+    {
+      "key": "tag:hac-am-luu",
+      "title": "Hắc ám lưu",
+      "count": 1
+    },
+    {
+      "key": "tag:he-thong",
+      "title": "Hệ thống",
+      "count": 1
+    },
+    {
+      "key": "tag:hong-hoang",
+      "title": "Hồng hoang",
+      "count": 2
+    },
+    {
+      "key": "tag:huyen-ao",
+      "title": "Huyền ảo",
+      "count": 3
+    },
+    {
+      "key": "tag:khoa-hoc-vien-tuong",
+      "title": "Khoa học viễn tưởng",
+      "count": 1
+    },
+    {
+      "key": "tag:khoa-huyen",
+      "title": "Khoa huyễn",
+      "count": 2
+    },
+    {
+      "key": "tag:kinh-di",
+      "title": "Kinh dị",
+      "count": 1
+    },
+    {
+      "key": "tag:linh-hon",
+      "title": "Linh hồn",
+      "count": 1
+    },
+    {
+      "key": "tag:luyen-khi",
+      "title": "Luyện khí",
+      "count": 1
+    },
+    {
+      "key": "tag:mang-phu-luu",
+      "title": "Mãng phu lưu",
+      "count": 1
+    },
+    {
+      "key": "tag:muu-luoc",
+      "title": "Mưu lược",
+      "count": 1
+    },
+    {
+      "key": "tag:mystery",
+      "title": "Mystery",
+      "count": 1
+    },
+    {
+      "key": "tag:o-thi",
+      "title": "Đô thị",
+      "count": 1
+    },
+    {
+      "key": "tag:oat-xa",
+      "title": "Đoạt xá",
+      "count": 1
+    },
+    {
+      "key": "tag:oi-menh",
+      "title": "Đổi mệnh",
+      "count": 1
+    },
+    {
+      "key": "tag:phu-thuy",
+      "title": "Phù thủy",
+      "count": 1
+    },
+    {
+      "key": "tag:sang-the",
+      "title": "Sáng thế",
+      "count": 1
+    },
+    {
+      "key": "tag:sang-van",
+      "title": "Sảng văn",
+      "count": 1
+    },
+    {
+      "key": "tag:sinh-ton",
+      "title": "Sinh tồn",
+      "count": 1
+    },
+    {
+      "key": "tag:su-thi",
+      "title": "Sử thi",
+      "count": 2
+    },
+    {
+      "key": "tag:tay-phuong",
+      "title": "Tây phương",
+      "count": 1
+    },
+    {
+      "key": "tag:than-thu",
+      "title": "Thần thú",
+      "count": 1
+    },
+    {
+      "key": "tag:thanh-than",
+      "title": "Thành thần",
+      "count": 1
+    },
+    {
+      "key": "tag:tien-hiep",
+      "title": "Tiên hiệp",
+      "count": 6
+    },
+    {
+      "key": "tag:tien-hoa",
+      "title": "Tiến hóa",
+      "count": 1
+    },
+    {
+      "key": "tag:tien-hoa-khoa-huyen",
+      "title": "Tiến hóa khoa huyễn",
+      "count": 1
+    },
+    {
+      "key": "tag:tri-đau",
+      "title": "Trí đấu",
+      "count": 1
+    },
+    {
+      "key": "tag:trong-sinh",
+      "title": "Trọng sinh",
+      "count": 1
+    },
+    {
+      "key": "tag:tu-chan",
+      "title": "Tu chân",
+      "count": 1
+    },
+    {
+      "key": "tag:tu-chan-hien-đai",
+      "title": "Tu chân hiện đại",
+      "count": 1
+    },
+    {
+      "key": "tag:vi-mo",
+      "title": "Vi mô",
+      "count": 1
+    },
+    {
+      "key": "tag:vo-han-luu",
+      "title": "Vô hạn lưu",
+      "count": 3
+    },
+    {
+      "key": "tag:xuyen-khong",
+      "title": "Xuyên không",
+      "count": 3
+    },
+    {
+      "key": "tag:đao-qua",
+      "title": "Đạo quả",
+      "count": 1
+    },
+    {
+      "key": "tag:đong-nhan",
+      "title": "Đồng nhân",
       "count": 1
     }
   ],
   "branches": {
+    "Chu Than Dai Dao": {
+      "display_title": "Chủ Thần Đại Đạo",
+      "current_chapter": 3,
+      "total_chapters": 1602,
+      "completed_chapters": 3,
+      "last_updated": "2026-06-12"
+    },
+    "Chu Than Quat Khoi": {
+      "display_title": "Chủ Thần Trỗi Dậy",
+      "current_chapter": 1,
+      "total_chapters": 852,
+      "completed_chapters": 1,
+      "last_updated": "2026-06-12"
+    },
+    "Co Chan Nhan": {
+      "display_title": "Cổ Chân Nhân",
+      "current_chapter": 1,
+      "total_chapters": 1915,
+      "completed_chapters": 1,
+      "last_updated": "2026-06-12"
+    },
     "Dung Goi Ta Ta Than": {
-      "display_title": "Đừng Gọi Ta Tà Thần",
-      "current_chapter": 25,
+      "display_title": "Đừng Gọi Ta Tà Thần - Dung Goi Ta Ta Than",
+      "current_chapter": 50,
       "total_chapters": 968,
-      "completed_chapters": 25,
-      "last_updated": "2026-06-11"
+      "completed_chapters": 50,
+      "last_updated": "2026-06-12"
+    },
+    "Phi Pham Hong Hoang": {
+      "display_title": "Phi Phàm Hồng Hoang",
+      "current_chapter": 2,
+      "total_chapters": 3574,
+      "completed_chapters": 2,
+      "last_updated": "2026-06-12"
+    },
+    "Ta Te Bao Nguc Giam": {
+      "display_title": "Ta Te Bao Nguc Giam",
+      "current_chapter": 2,
+      "total_chapters": 2169,
+      "completed_chapters": 2,
+      "last_updated": "2026-06-12"
+    },
+    "Thai Nhat Dao Qua": {
+      "display_title": "Thái Nhất Đạo Quả",
+      "current_chapter": 2,
+      "total_chapters": 1135,
+      "completed_chapters": 2,
+      "last_updated": "2026-06-12"
+    },
+    "Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han": {
+      "display_title": "Theo Tử Thần Bắt Đầu Đánh Xuyên Qua Tổng Mạn Vô Hạn",
+      "current_chapter": 4,
+      "total_chapters": 1187,
+      "completed_chapters": 4,
+      "last_updated": "2026-06-12"
+    },
+    "Tieu Dao Mong Duong": {
+      "display_title": "Tiểu Đào Mông Đường",
+      "current_chapter": 3,
+      "total_chapters": 1184,
+      "completed_chapters": 3,
+      "last_updated": "2026-06-12"
+    },
+    "Tu Chan Bon Van Nam": {
+      "display_title": "Tu Chân Bốn Vạn Năm",
+      "current_chapter": 4,
+      "total_chapters": 3339,
+      "completed_chapters": 4,
+      "last_updated": "2026-06-12"
     }
   }
 }

@@ -186,3 +186,4 @@ Audit: pass
 - 2026-06-12 09:16 | Chapter 49 | completed | Chương 0049 - Chương 49 Cơ hội tuyệt hảo.md
 - 2026-06-12 09:24 | Chapter 50 | completed | Chương 0050 - Chương 50 Chức nghiệp đắt khách nhất.md
 - 2026-06-12 09:28 | Chapter 51 | completed | Chương 0051 - Chương 51 Trổ hết thần thông.md
+- 2026-06-12 09:36 | Chapter 52 | completed | Chương 0052 - Chương 52 Evan Tay sai của ta đâu.md

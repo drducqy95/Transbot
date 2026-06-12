@@ -433,3 +433,8 @@ Chapter 50 completed via pipeline.
 
 ### Summary
 Chapter 51 completed via pipeline.
+
+## Chapter 0052 - Chương 52: Evan: Tay sai của ta đâu?
+
+### Summary
+Chapter 52 completed via pipeline.
