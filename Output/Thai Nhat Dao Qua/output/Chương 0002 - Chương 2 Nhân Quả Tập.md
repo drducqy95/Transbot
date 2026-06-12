@@ -1,163 +1,163 @@
 # Chương 2: Nhân Quả Tập
-# Chương 2: Nhân Quả Tập
+# 第2章 因果集
 
-“Tứ thập bát thượng thủy tao phùng, khẩu quyết truyền lai tiện hữu công.
+“Bốn mươi tám lần lên đầu gặp gỡ, công công truyền tới tức có công.
 
-Nhất hạt kim đan sắc dũ hảo, Ngọc Hoa phong thượng hiển ân hồng.”
+Một hạt kim đan màu càng tốt, trên núi Ngọc Hoa hiện ra màu đỏ thẫm.”
 
-Bên tai truyền đến giọng nói già nua đầy sức mạnh, một bóng người hư ảo bước tới từ phía xa, nhập vào trong cơ thể Khương Ly.
+Tiếng vang mạnh mẽ vang lên bên tai, một bóng ảo di chuyển từ xa, nhập vào cơ thể Giang Lý.
 
-Trong nháy mắt, một luồng khí lưu như thủy triều tràn ngập khắp cơ thể, gột rửa máu thịt gân cốt, Khương Ly chỉ cảm thấy khí trào khắp người, mồ hôi tuôn như mưa, trên đỉnh đầu vậy mà bốc lên một làn sương mồ hôi.
+Chốc lát, một luồng khí như thủy triều tràn khắp người, rửa sạch máu thịt xương khớp, Giang Lý chỉ cảm thấy khí nổ, mồ hôi đổ, trên đầu bỗng xuất hiện mây hơi mồ hôi.
 
-Trước mắt sáng tỏ, tầm mắt quét qua, rõ ràng đến từng chi tiết nhỏ, ngay cả những hạt bụi mịn cũng có thể nhìn thấy vô cùng rõ ràng.
+Mắt trước một cảnh trong sáng, ánh nhìn thấy mọi chi tiết, kể cả hạt bụi mịn nhất đều rõ ràng vô cùng.
 
-Chỉ trong chớp mắt, Khương Ly đã thoát thai hoán cốt.
+Trong chớp mắt, Giang Lý đã thay đổi hoàn toàn.
 
-【Cầu Phản Kỳ Chân: Công hạnh vẹn toàn, chính tâm thành ý, tâm cảnh sáng tỏ mà thân thể không chịu trở ngại, khó bị ngoại ma quấy nhiễu.】
+【求返其真：功行雙全，正心誠意，心境清明而體無礙，難受外魔侵擾。】
 
-【Tính Mạng Song Tu: Tính là thần, mạng là khí. Tính nếu gặp mạng, như chim gặp gió, bay bổng nhẹ nhàng, đỡ tốn sức lại dễ thành công. Tinh, khí, thần tam nguyên cân bằng, hỗ trợ lẫn nhau.】
+【性命雙修：性者神也，命者氣也。性若見命，如禽得風，飄飄輕舉，省力易成。精氣神三元平衡，相輔相成。】
 
-【Tam Giáo Hợp Nhất: Nho môn, Thích hộ, Đạo tương thông, tam giáo xưa nay chung một nguồn. Kiến thức về ba giáo phái càng uyên bác, mức độ lĩnh ngộ đối với công pháp của ba giáo phái càng cao siêu, trong đó công pháp Đạo giáo là nổi bật nhất.】
+【三教合一：儒門釋戶道相通，三教從來一祖風。三教知識越廣博，於三教功法的領悟越為高絕，其中以道教功法最為顯著。】
 
-Năng lực của Đạo Nhân vốn là 【Đạo Tâm Thông Minh】 giúp duy trì tâm cảnh thanh tĩnh và 【Đạo Pháp Tinh Thông】 giúp nâng cao ngộ tính đạo pháp, hai năng lực này lần lượt bị 【Cầu Phản Kỳ Chân】 và 【Tam Giáo Hợp Nhất】 bao trùm, hơn nữa còn có thêm một cái 【Tính Mạng Song Tu】.
+Khả năng của đạo nhân gồm duy trì tâm trạng thanh bình 【道心通明】 và nâng cao khả năng hiểu đạo pháp 【道法精通】, hai khả năng này được 【求返其真】 và 【三教合一】 bao phủ, thậm chí còn có thêm một 【性命双修】.
 
-Chỉ mới xem sơ qua các năng lực, một luồng khí tức của cường giả đã phả thẳng vào mặt.
+Chỉ nhìn sơ qua khả năng, một luồng khí mạnh mẽ đã vây quanh.
 
-Mạnh mẽ đầy uy lực nha, mạnh mẽ đầy uy lực.
+Mạnh mà có lực, thật mạnh mà có lực.
 
-Khương Ly vốn chủ tu thuật pháp, Thần nguyên và Khí nguyên đều vượt trên Tinh nguyên, nay tam nguyên cân bằng, nhưng không phải là lấy thừa bù thiếu, mà là dùng sức mạnh của Đạo quả trực tiếp kéo Tinh nguyên lên, khiến cho Tinh nguyên của hắn không hề thua kém những đồng môn dung nạp Thiên Binh đạo quả.
+Giang Lý vì chủ yếu tu luyện thuật pháp, thần nguyên và khí nguyên ở trên tinh nguyên, hiện nay ba nguyên cân bằng, không phải bù đắp mà là dùng sức mạnh đạo quả nâng tinh nguyên, khiến tinh nguyên của anh không yếu hơn đồng môn chứa thiên binh đạo quả.
 
-“Oa ha ha ha ha!”
+“Wa ha ha ha!”
 
-Nhìn tới đây, Khương Ly phát ra một tràng cười sảng khoái, tay phải thọc vào trong tay áo, lôi ra một hàng phù lục.
+Nhìn đến đây, Giang Lý phát ra một tiếng cười khỏe mạnh, tay phải đưa vào áo, rút ra một dãy bùa chú.
 
-Cự Lực phù, Hộ Linh phù, Hồi Xuân phù, Xích Phong phù, Thần Hành phù, thuận tiện bổ sung thêm Kim Cương phù vốn đã bị phá vỡ.
+Bùa Cực Lực, Bùa Hộ Linh, Bùa Hồi Xuân, Bùa Trừ Gió, Bùa Thần Hành, kèm thêm Bùa Kim Cương đã bị phá.
 
-Chân khí tinh thuần cuồn cuộn chảy trong kinh mạch như nước sông lớn, nhưng khi vận chuyển tới đầu ngón tay lại hóa thành những sợi tơ mảnh, bắn vào từng đạo phù lục.
+Tinh khiết chân khí như nước sông chảy trong kinh mạch, rồi khi tới đầu ngón tay chuyển thành sợi chỉ, bắn vào từng bùa chú.
 
-Hắn lúc này tâm cảnh sáng tỏ, khống chế chân khí có thể nói là tỉ mỉ tới từng chi tiết, tựa như đã cùng Toàn Chân Giáo Tổ xếp chồng (Overlay) làm một, tinh thần, nhục thân, thiên phú đều đã hoàn toàn khác biệt.
+Lúc này tâm trạng của anh trong suốt, kiểm soát chân khí tinh tế đến mức, giống như các bậc thầy Toàn Trân, tinh thần, thể xác, thiên phú đã hoàn toàn khác biệt.
 
-Mười đạo phù lục gia thân, Khương Ly đạp mạnh chân xuống đất, lao đi như mũi tên nhọn về phía Chu Minh Vân. Luồng kình phong xé rách đám mây lửa, đưa nguồn nhiệt vào trong phạm vi cảm giác của đối phương.
+Mười bùa chú bao quanh, Giang Lý một bước đạp mạnh, như mũi tên bắn vào Chu Minh Vân, gió mạnh xé rách mây lửa, đưa nguồn nhiệt vào cảm nhận của đối phương.
 
-Chu Minh Vân đang áp sát mặt đất lập tức bật người lên như rắn độc săn mồi, luồng lãnh quang trong tay tựa như răng nanh rắn độc đâm tới, nhưng lại bị Khương Ly lật tay đánh trúng cổ tay gạt ra, rồi giáng một chưởng nặng nề lên ngực y.
+Chu Minh Vân nằm trên đất ngay lập tức như rắn độc nhảy lên, ánh sáng lạnh trong tay như răng rắn đâm tới, nhưng bị Giang Lý phản đòn đập vào cổ tay, rồi một đòn nặng đè vào ngực.
 
-‘Truy Phong Chưởng.’
+‘Truy Hương Thủ.’
 
-Chu Minh Vân thông qua cảm nhận nhiệt lượng nhận ra lai lịch của chiêu này, đây là một trong những công phu nhập môn cơ bản của Đỉnh Hồ phái, chủ yếu thiên về linh động biến hóa. Thế nhưng chưởng này trong tay Khương Ly lại vừa nhanh vừa mãnh liệt, thế như nước sông lũ cuồn cuộn không dứt.
+Chu Minh Vân nhận ra chiêu này qua cảm nhận nhiệt, đây là một trong những công pháp cơ bản của Đình Hồ, chủ yếu linh hoạt biến đổi, nhưng khi ở tay Giang Lý, vừa nhanh vừa mạnh, lực như sông lũ, không ngừng.
 
-Bành!
+Bùng!
 
-Khi trúng chưởng, những đường vân vảy rắn mịn dày xuất hiện trên da Chu Minh Vân, phân tán kình lực, nhưng y vẫn bị một chưởng này đánh cho bay ngược ra ngoài.
+Khi một đòn đánh, vân rắn mảnh trên da Chu Minh Vân hiện ra, phân tán lực, nhưng vẫn bị một đòn đẩy bay ngược lại.
 
-“Làm sao có thể mạnh như vậy?” Chu Minh Vân không khỏi thất thanh kêu lên.
+“Sao có thể mạnh đến vậy?” Chu Minh Vân không kìm được tiếng la.
 
-Y đã hiển hóa xà văn hộ thể, luận về phòng ngự tuyệt đối không kém môn hoành luyện võ công đại thành, lại thêm phần dẻo dai của loài rắn, vậy mà vẫn bị một chiêu Truy Phong Chưởng tầm thường đánh cho bay ngược.
+Anh đã hiện ra lớp bảo vệ rắn vân, về khả năng phòng thủ không thua bất kỳ võ công nào, còn có tính dẻo dai của rắn, nhưng vẫn bị Truy Hương Thủ nhẹ nhàng đánh bay.
 
-Điều này quả thực không huyền học chút nào!
+Thật không thể giải thích!
 
-“Dĩ nhiên là vì ta đã đủ nỗ lực rồi.”
+“Đương nhiên vì tôi đủ cố gắng.”
 
-Khương Ly cười ha ha, bước tới như bay, ra quyền như tên bắn, quyền kình được Cự Lực phù gia trì đánh ra một tiếng nổ lớn.
+Giang Lý cười khẩy, tiến bộ như bay, cú đấm như mũi tên, sức mạnh bùa Cực Lực tạo ra một tiếng nổ vang.
 
-Chu Minh Vân vội vàng lắc đầu, tóc dài căng thẳng như kim châm, quét tới như một cây lang nha bổng, nhưng đều bị phòng ngự đa tầng bên ngoài cơ thể Khương Ly chặn đứng hoàn toàn.
+Chu Minh Vân nhanh chóng quét đầu, tóc căng thẳng như kim, quét tới như gậy sói, nhưng bị các lớp phòng thủ ngoài người Giang Lý chặn lại.
 
-Cú đấm này là công phu của một khôn niên!
+Cú đấm này, là công lực một năm Khuân!
 
-Binh!
+Đông!
 
-Chu Minh Vân lại một lần nữa không tự chủ được mà bay ngược ra sau, nhưng đã bị Khương Ly dùng cầm nã thủ tóm lấy cổ tay, giật mạnh xoay người rồi quăng mạnh vào vách núi.
+Chu Minh Vân lần nữa bị kéo bay, nhưng Giang Lý bằng tay bắt nắm cổ tay, kéo quay, đập mạnh vào vách núi.
 
-Rầm!
+Bùng!
 
-Chu Minh Vân chỉ cảm thấy lục phủ ngũ tạng điên đảo cuộn trào, há to miệng thè chiếc lưỡi rắn ra thật dài, đau đớn đến mức gương mặt vặn vẹo.
+Chu Minh Vân chỉ cảm thấy nội tạng như lộn sóng, miệng mở to, lưỡi dài ra, đau đớn khiến mặt méo cong.
 
-Mà Khương Ly lại chuẩn bị phát lực thêm lần nữa.
+Còn Giang Lý lại chuẩn bị tiếp tục dùng sức.
 
-“Khoan đã, thúc phụ của ta là...”
+“Đợi đã, chú tôi là······”
 
-Rầm rầm rầm rầm rầm ——
+Bùng bùng bùng bùng bùng——
 
-Không đợi y nói hết câu, Khương Ly đã tặng cho y một bài 'mười tám cú quật', quật đến khi người trên tay chết hẳn, thi thể nát bét máu thịt mơ hồ, hắn mới thở hổn hển dừng lại.
+Chưa kịp nói hết, Giang Lý đã dùng một cú 18 rơi, đập chết người trên tay, đập xác thành mờ máu thịt, rồi thở hổn hển dừng lại.
 
-“Biết ngươi và Tôn trưởng lão ngoại môn là họ hàng xa, nhưng chuyện đó thì liên quan gì đến ta?”
+“Biết con và Tổ trưởng Tôn của ngoại môn là họ xa, nhưng có gì liên quan tới ta?” Giang Lý thả tay, ánh bùa trên người dần tắt.
 
-Sinh tử chiến đấu làm sao dung thứ cho việc nương tay, đừng nói chi là họ hàng xa của một trưởng lão ngoại môn, cho dù là con trai của chưởng môn, Khương Ly cũng sẽ đánh chết rồi tính sau.
+Trong sinh tử không cho phép tha thứ, dù là họ xa của một trưởng ngoại môn, hay con trai của chủ môn, Giang Lý cũng sẽ giết.
 
-Huống hồ Chu Minh Vân đã bị treo tên truy nã, chứng tỏ Tôn trưởng lão cũng không đủ che chở, giết thì đã sao? Những gì hắn làm đều phù hợp với luật lệ tông môn, dù có giết Chu Minh Vân thì cũng là do y chống cự luật pháp, Tôn trưởng lão lẽ nào còn có thể treo tên hắn lên bảng truy nã hay sao?
+Hơn nữa, Chu Minh Vân đã bị đăng tên truy nã, chứng tỏ Tổ trưởng Tôn không đủ sức, giết thì sao? Hành động của anh đều tuân theo pháp quy môn, giết Chu Minh Vân vì anh vi phạm pháp, Tổ trưởng Tôn còn có thể đăng tên anh nữa sao?
 
-Khương Ly bĩu môi, nhìn xuống mặt đất.
+Giang Lý nhếch môi, nhìn xuống đất.
 
-Lúc này, trên thi thể Chu Minh Vân hiện lên một lớp hào quang nhạt nhạt, hư ảnh một con mãng xà đang cuộn tròn chậm rãi nổi lên, sau đó hóa thành ánh sáng nhập vào thanh dao găm trên tay Chu Minh Vân.
+Lúc này, trên xác Chu Minh Vân lóe lên một ánh sáng nhạt, một ảo ảnh rắn khưu thành vòng rắn bọc dần, sau đó ánh sáng nhập vào lưỡi dao trên tay anh.
 
-Khương Ly dời mắt nhìn sang, chỉ thấy thanh dao găm này toàn thân trắng như sứ, không giống như được làm bằng kim loại, trông giống hệt như một chiếc răng nanh của con rắn khổng lồ.
+Giang Lý chuyển mắt nhìn, thấy lưỡi dao toàn màu ngà, không phải kim loại, hình dáng giống răng rắn khổng lồ.
 
-Hắn cầm dao găm trong tay, ngưng thần câu thông, hư ảnh con mãng xà kia lập tức hiện lên trong đầu, thông tin về Đạo quả cũng hiển thị theo cách mà Khương Ly có thể hiểu được.
+Anh cầm lưỡi dao, tập trung tâm thần, ảo ảnh rắn khưu hiện ra trong não, thông tin đạo quả được trình bày theo cách Giang Lý hiểu được.
 
-【Cửu Phẩm Đạo Quả: Trường Xà
+【Cửu phẩm Đạo quả: Trường Xà
 
 Thuộc loại: Yêu
 
-Điều kiện tương thích: Lòng tham lam tàn bạo
+Điều kiện phù hợp: Tâm hận tham lam bạo lực
 
-Nghi thức tấn thăng: Trong vòng bảy ngày, nuốt sống thịt các loại dã thú như hổ, nai, dê tổng cộng một trăm cân, sau đó chìm vào giấc ngủ ba ngày
+Nghi lễ thăng cấp: trong bảy ngày, nuốt sống thịt hổ, hươu, cừu... tổng cộng 100 cân, ngủ ba ngày
 
-Năng lực: Trường Xà Bách Tầm, Quyết Liệp Như Sế】
+Khả năng: Trường Xà hàng trăm dặm, lông rậm như lợn】
 
-Tuy chưa dung nạp Đạo quả, không thể thật sự thấu hiểu năng lực này, nhưng nhìn qua thông tin là đã có thể suy đoán được bảy tám phần rồi.
+Dù chưa chứa đạo quả, không thể hiểu hết khả năng, nhưng xem thông tin đã có thể suy đoán được.
 
-《Sơn Hải Kinh Đồ Tán - Trường Xà》: “Trường xà bách tầm, quyết liệp như sế. Phi quần tẩu loại, mĩ bất thôn phệ.”
+《Sơn Hải Kinh Họa Tán·Trường Xà》：“Trường Xà hàng trăm dặm, lông rậm như lợn. Bay bầy, chạy loài, không gì không nuốt.”
 
-Chu Minh Vân ngoan cường như thế, bị quật nửa ngày trời mới chịu chết, nghĩ lại thì chính là tác dụng của năng lực Đạo quả 【Trường Xà Bách Tầm】 rồi. Mà năng lực còn lại chắc hẳn là căn nguyên khiến cho tóc của y cứng đờ như kim.
+Chu Minh Vân kiên cường đến vậy, lăn lộn suốt nửa ngày mới chết, chắc là do khả năng đạo quả 【Trường Xà hàng trăm dặm】. Khả năng còn lại là nguồn gốc tóc cứng của anh.
 
-Nghe nói trường xà dài nhất có thể lên tới ba trăm mét, cũng chính là bách tầm, lông trên người giống như lông heo. Chu Minh Vân dung nạp Đạo quả này, tự nhiên ở phương diện liên quan cũng có tiến bộ cực lớn, nếu Khương Ly không tấn thăng thì thật sự khó mà thắng được y.
+Người ta nói Trường Xà có thể dài tới ba trăm mét, tức là hàng trăm dặm, lông như lông lợn, Chu Minh Vân chứa đạo quả, tự nhiên tiến bộ lớn trong các khía cạnh liên quan, nếu Giang Lý không thăng cấp thì khó thắng anh.
 
-“Yêu thuộc Đạo quả quả nhiên giống như lời đồn, tấn thăng rất đơn giản, nhưng cái nghi thức tấn thăng này...”
+“Đạo quả thuộc loại Yêu thực sự thăng cấp đơn giản như truyền thuyết, nhưng nghi lễ này······” Giang Lý nhăn mặt.
 
-Phương pháp tấn thăng kiểu này thật sự khiến người ta không thể chấp nhận được, chỉ nghĩ tới thôi là đã thấy lợm giọng.
+Cách thăng cấp này thật không thể chấp nhận, chỉ nghĩ thôi đã muốn nôn.
 
-Hơn nữa, nếu Khương Ly không đoán sai thì Đạo quả này sẽ kích thích lòng tham lam tàn bạo, khiến cho tâm tính của con người không ngừng thiên lệch về phía yêu loại. Chu Minh Vân sở dĩ phạm pháp chính là vì y ở bên ngoài đoạt tài vật của người khác, hại tính mạng người ta.
+Hơn nữa, nếu Giang Lý không nhầm, đạo quả này sẽ làm tăng tâm hận tham lam bạo lực, khiến tính cách người dần nghiêng về Yêu. Chu Minh Vân phạm tội vì cướp tài sản, gây thương tích.
 
-Tấn thăng dễ dàng nhưng tác dụng phụ lại lớn, đây cũng được coi là nhược điểm chung của Yêu thuộc Đạo quả.
+Thăng cấp dễ, nhưng tác dụng phụ lớn, cũng là bệnh chung của đạo quả Yêu.
 
-Khương Ly nắm chặt dao găm, nhìn về phía cuốn sổ sách mà chỉ có bản thân hắn mới có thể nhìn thấy.
+Giang Lý cầm lưỡi dao, nhìn vào cuốn sách chỉ mình thấy.
 
-Một cuốn sổ mang phong cách cổ xưa đang tự động lật trang, lật từ đầu tới cuối, sau đó gập lại. Trên bìa sách màu vàng dần dần nổi lên ba chữ lớn.
+Một cuốn sách cổ màu nâu đang tự lật trang, từ đầu tới cuối, rồi đóng lại, trên bìa vàng dần hiện ra ba ký tự lớn.
 
-—— Nhân Quả Tập.
+——因果集。
 
-Cuốn nhật ký cuối cùng cũng có tên, đồng thời một dòng thông tin tràn vào não Khương Ly, khiến hắn lộ ra vẻ bừng tỉnh hiểu ra.
+Nhật ký cuối cùng có tên, đồng thời một luồng thông tin vào đầu Giang Lý, khiến anh bộc lộ vẻ ngỡ ngàng.
 
-Xuyên không hai năm rưỡi, bàn tay vàng của hắn rốt cuộc cũng chính thức được kích hoạt.
+Sau hai năm rưỡi xuyên không, ngón tay vàng của anh cuối cùng chính thức kích hoạt.
 
-Ngoại trừ cố hóa nhân quả, giúp Khương Ly hễ nỗ lực là sẽ có thu hoạch và không bị thụt lùi, Nhân Quả Tập còn có thêm khả năng viết lại nhân quả.
+Ngoài việc cố định nhân quả, giúp Giang Lý nỗ lực có thu hoạch, không lùi bước, 因果集 còn có khả năng thay đổi nhân quả.
 
-Nhân Quả Tập bình thường ghi chép lại những chuyện Khương Ly trải qua, thực chất là đang thu thập nhân quả. Hành vi của Khương Ly ảnh hưởng càng rộng thì nhân quả thu thập được càng nhiều.
+因果集 thường ghi lại những việc Giang Lý trải qua, thực chất là thu thập nhân quả. Hành động của Giang Lý càng rộng, nhân quả thu thập càng nhiều.
 
-Những nhân quả này khi tiếp xúc với nhân quả ấn ký sẽ phát huy tác dụng, viết lại nhân quả, khiến nó lột xác thành một dạng hình thái khác.
+Những nhân quả này khi chạm vào dấu ấn nhân quả sẽ phát huy tác dụng, thay đổi nhân quả, biến chúng thành dạng khác.
 
-Giống như Đạo Nhân biến thành Vương Trùng Dương, cùng là cửu phẩm, cũng vẫn được coi là Đạo Nhân, nhưng vị sau lại mạnh hơn vị trước rất nhiều. Không chỉ có thêm một năng lực, mà hiệu quả lại càng là hoàn toàn vượt trội.
+Như đạo nhân biến thành Vương Trọng Dương, cùng cấp Cửu phẩm, vẫn là đạo nhân, nhưng sau này mạnh hơn nhiều. Không chỉ có thêm một khả năng, hiệu quả còn vượt trội toàn diện.
 
-‘Cho nên, Đạo quả là một loại nhân quả ấn ký nào đó? Hơn nữa nó chỉ chính thức kích hoạt vào lúc ta dung nạp Đạo quả. Cuốn Nhân Quả Tập này dường như là đồ vật của thế giới này, chứ không phải bàn tay vàng của kẻ xuyên không như ta. Trước khi ta thức tỉnh, nó đã có sẵn trên người rồi sao?’
+‘Vậy đạo quả là một loại dấu ấn nhân quả? Và khi tôi chứa đạo quả, 因果集 chính thức kích hoạt, có vẻ nó là vật của thế giới này, không phải ngón tay vàng của người xuyên không. Trước khi tôi tỉnh, nó đã ở trên người tôi rồi sao?’
 
-‘Nhưng Vương Trùng Dương này lại không phải nhân vật của kiếp này, trên đời này cũng chỉ có một mình ta biết đến sự tồn tại của ông ấy. Cho nên việc Đạo quả lột xác là dựa theo ký ức của ta sao?’
+‘Nhưng Vương Trọng Dương không phải người hiện đại, trên thế giới này chỉ có tôi biết tới. Vậy sự biến đổi của đạo quả dựa trên ký ức của tôi?’
 
-‘Bỏ đi, không nghĩ nữa, đã là đồ vật hữu dụng thì cứ tạm thời dùng trước đã.’
+‘Thôi, không suy nghĩ nữa, vì nó hữu ích, tạm thời dùng đi.’
 
-Khương Ly chăm chú nhìn Nhân Quả Tập một lúc lâu, cụp mắt xuống, ‘Ít nhất, bây giờ nếu ta muốn an thân lập mệnh ở thế giới này thì chỉ có thể dựa vào nó.’
+Giang Lý nhìn 因果集 một lúc, hạ mắt, ‘Ít nhất bây giờ tôi muốn ổn định trong thế giới này, chỉ có nó rồi.’
 
-Hắn vừa không có hệ thống, hai không có bách khoa toàn thư trong não, ba cũng không có lão gia gia tùy thân mang theo, có bàn tay vàng để dùng đã là tốt lắm rồi.
+Anh không có hệ thống, không có bộ não như bách khoa toàn thư, không có ông lão đồng hành, có ngón tay vàng là đủ.
 
-Mấy chuyện như thăm dò nguồn gốc của Nhân Quả Tập không phải là việc hắn nên làm lúc này.
+Điều tra nguồn gốc 因果集 không phải việc anh nên làm ngay bây giờ.
 
-‘Có điều phong cách hành sự sau này phải có chút thay đổi rồi, bên cạnh việc cẩu mạng thì còn phải thu thập nhân quả. Tất nhiên, việc thu thập nhân quả cũng phải tiến hành dưới tình huống quẻ bói có lợi.’
+‘Từ nay cách hành xử phải thay đổi, ngoài sinh tồn còn phải thu thập nhân quả. Tất nhiên, thu thập nhân quả phải trong điều kiện bói toán có lợi.’
 
-Lần này nếu không phải sớm bói một quẻ, Khương Ly có khi đã đâm đầu thẳng vào bẫy rập phục kích của Chu Minh Vân rồi.
+Lần này nếu không bói trước, Giang Lý có thể đã rơi vào bẫy ám sát của Chu Minh Vân.
 
-Bói toán quả không hổ là bản lĩnh chuyên dụng của cẩu đạo.
+Bói toán, đúng là kỹ năng đặc trưng của con đường sinh tồn.
 
-Sau khi hạ quyết định trong lòng, Khương Ly dùng dao găm răng rắn cắt thủ cấp của Chu Minh Vân xuống, sau đó tìm được con ngựa vàng đã chạy đi xa, từ trong túi yên ngựa lấy ra vôi sống để xử lý cái đầu.
+Sau khi quyết định, Giang Lý dùng lưỡi dao răng rắn chặt đầu Chu Minh Vân, rồi tìm ngựa vàng đã chạy xa, lấy vôi từ túi yên ngựa để chế đầu.
 
-Hắn thiếu cái gì chứ không thiếu vôi sống và phù lục, mỗi lần đi ra ngoài đều phải chuẩn bị sẵn một đống lớn.
+Anh thiếu mọi thứ, chỉ không thiếu vôi và bùa chú, mỗi lần ra ngoài luôn chuẩn bị đầy đủ.
 
-Sau khi làm xong hết thảy, Khương Ly cưỡi ngựa vừa ngân nga hát vừa quay trở về tông môn.
+Hoàn thành mọi việc, Giang Lý cưỡi ngựa hót vang, trở về môn.
 
