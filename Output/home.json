@@ -459,9 +459,9 @@
       "status": "in_progress",
       "status_label": "Đang ra",
       "ongoing": true,
-      "completed_chapters": 11,
+      "completed_chapters": 12,
       "total_chapters": 3339,
-      "latest_chapter": "Chương 10: Âm hồn nhập thể",
+      "latest_chapter": "0011 宛若梦幻",
       "genre": "eastern_fiction",
       "sub_genre": "sci_fi",
       "style_tags": [
@@ -516,7 +516,7 @@
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Tu Chan Bon Van Nam/README.md",
       "toc_path": "Output/Tu Chan Bon Van Nam/toc.json",
-      "updated_at": "2026-06-12T18:17:56+07:00"
+      "updated_at": "2026-06-12T18:51:13+07:00"
     },
     {
       "branch": "Hong Hoang Lich_Zhttty",
@@ -971,7 +971,7 @@
     }
   ],
   "metadata": {
-    "generated_at": "2026-06-12T18:48:02+07:00",
+    "generated_at": "2026-06-12T18:51:13+07:00",
     "total_books": 17,
     "source": "Dichtrung/Output"
   },
