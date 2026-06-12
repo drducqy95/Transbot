@@ -1,0 +1,593 @@
+```json
+{
+  "chapter_number": 3,
+  "chapter_title_vi": "Chương 3: Bắt đầu lại từ đầu",
+  "segments": [
+    {
+      "segment_id": "0003_0000",
+      "source": "第3章 从头开始",
+      "target": "Chương 3: Bắt đầu lại từ đầu"
+    },
+    {
+      "segment_id": "0003_0001",
+      "source": "神秘的科研文章出现，韩东立马沉浸于其中。",
+      "target": "Bài báo nghiên cứu khoa học thần bí xuất hiện, Hàn Đông lập tức chìm đắm vào trong đó."
+    },
+    {
+      "segment_id": "0003_0002",
+      "source": "韩东生前在校时，最高记录是一天就能细读二十篇SCI中、短型论文。",
+      "target": "Khi Hàn Đông còn sống và học ở trường, kỷ lục cao nhất là một ngày có thể đọc kỹ hai mươi bài luận văn ngắn và trung bình trên SCI."
+    },
+    {
+      "segment_id": "0003_0003",
+      "source": "但这一次却有点难受，不是大脑的问题，而是韩东对于文章所述的一些知识无法理解。",
+      "target": "Nhưng lần này lại có chút khó chịu, không phải vấn đề ở não bộ, mà là Hàn Đông không thể hiểu được một số kiến thức được nhắc đến trong bài viết."
+    },
+    {
+      "segment_id": "0003_0004",
+      "source": "“量子物理学……涉及第四维度的利用，通过主观意识来干预量子领域？",
+      "target": "\"Vật lý lượng tử... liên quan đến việc lợi dụng chiều không gian thứ tư, thông qua ý thức chủ quan để can thiệp vào lĩnh vực lượng tử?"
+    },
+    {
+      "segment_id": "0003_0005",
+      "source": "通过人脑为‘载体’，主观上‘影响’并‘调控’量子化空间。哇，这跨专业的文献阅读真是要命。”",
+      "target": "Thông qua não người làm 'vật mang', 'ảnh hưởng' và 'điều khiển' không gian lượng tử hóa một cách chủ quan. Chà, đọc tài liệu trái ngành thế này đúng là lấy mạng người ta mà.\""
+    },
+    {
+      "segment_id": "0003_0006",
+      "source": "术业有专攻。",
+      "target": "Đúng là mỗi ngành một chuyên môn."
+    },
+    {
+      "segment_id": "0003_0007",
+      "source": "韩东在物理学层面上的水准也就停留于本科。",
+      "target": "Trình độ của Hàn Đông ở phương diện vật lý học cũng chỉ dừng lại ở mức đại học."
+    },
+    {
+      "segment_id": "0003_0008",
+      "source": "“这篇文章里的假设如果正确，带回到我的世界，恐怕会引发物理学领域一场革命性风暴……不过，这篇文章中还包含着这一世界的魔法原理，这后几页的古怪文字我更是无法理解。",
+      "target": "\"Nếu giả thuyết trong bài viết này là đúng, mang về thế giới của ta, e rằng sẽ gây ra một cơn bão mang tính cách mạng trong lĩnh vực vật lý học... Tuy nhiên, bài viết này còn bao gồm cả nguyên lý ma pháp của thế giới này, những dòng chữ kỳ quái ở mấy trang sau ta lại càng không hiểu nổi."
+    },
+    {
+      "segment_id": "0003_0009",
+      "source": "也就是说，这项技术仅限于这个世界能实现。",
+      "target": "Nói cách khác, kỹ thuật này chỉ có thể thực hiện được ở thế giới này."
+    },
+    {
+      "segment_id": "0003_0010",
+      "source": "不想了，头疼！",
+      "target": "Không nghĩ nữa, đau đầu quá!"
+    },
+    {
+      "segment_id": "0003_0011",
+      "source": "总而言之，所谓【亚空间收容技术】已集合在了这颗脑袋里。”",
+      "target": "Nói tóm lại, cái gọi là [Kỹ thuật thu dung á không gian] đã tập hợp vào trong cái đầu này.\""
+    },
+    {
+      "segment_id": "0003_0012",
+      "source": "韩东扭头看向液压罐里的脑袋。",
+      "target": "Hàn Đông quay đầu nhìn cái đầu trong bình thủy lực."
+    },
+    {
+      "segment_id": "0003_0013",
+      "source": "通过文献中记载的操作方式，开启罐体并伸手触碰‘光滑’的头颅。",
+      "target": "Thông qua phương thức thao tác được ghi chép trong tài liệu, hắn mở bình ra và thò tay chạm vào cái đầu 'nhẵn thín'."
+    },
+    {
+      "segment_id": "0003_0014",
+      "source": "无名氏（生前为身份未知）",
+      "target": "Kẻ vô danh (thân phận khi còn sống không rõ)"
+    },
+    {
+      "segment_id": "0003_0015",
+      "source": "【无面者的头颅】-改造品、具备「模仿」与「便携式监狱」能力。",
+      "target": "[Đầu của kẻ Vô Diện] - Hàng cải tạo, có năng lực \"mô phỏng\" và \"nhà giam di động\"."
+    },
+    {
+      "segment_id": "0003_0016",
+      "source": "负重需求：100",
+      "target": "Yêu cầu phụ trọng: 100"
+    },
+    {
+      "segment_id": "0003_0017",
+      "source": "“满负荷值？！",
+      "target": "\"Giá trị phụ trọng tối đa?!"
+    },
+    {
+      "segment_id": "0003_0018",
+      "source": "这颗脑袋不仅仅融合了量子空间这么简单，还具备着容貌变换的能力。",
+      "target": "Cái đầu này không chỉ đơn giản là dung hợp không gian lượng tử, mà còn có năng lực biến đổi dung mạo."
+    },
+    {
+      "segment_id": "0003_0019",
+      "source": "而且，在描述上与监狱里的其它肉体稍显不同。”",
+      "target": "Hơn nữa, trên phần mô tả cũng có đôi chút khác biệt so với những thể xác khác trong nhà giam.\""
+    },
+    {
+      "segment_id": "0003_0020",
+      "source": "到底是挑选完整的囚犯肉体，还是单独选择这颗脑袋呢？",
+      "target": "Rốt cuộc là nên chọn một thể xác tù nhân nguyên vẹn, hay là chọn riêng cái đầu này đây?"
+    },
+    {
+      "segment_id": "0003_0021",
+      "source": "“决定了！”",
+      "target": "\"Quyết định rồi!\""
+    },
+    {
+      "segment_id": "0003_0022",
+      "source": "女性教徒的上半身瞬间没了生机，瘫软于桌面上。",
+      "target": "Nửa thân trên của nữ giáo đồ lập tức mất đi sức sống, mềm nhũn nằm gục trên mặt bàn."
+    },
+    {
+      "segment_id": "0003_0023",
+      "source": "叽里咕噜！",
+      "target": "Ùng ục ùng ục!"
+    },
+    {
+      "segment_id": "0003_0024",
+      "source": "一团细胞从口腔钻出，慢慢爬向光滑而圆润的无面脑袋。",
+      "target": "Một đoàn tế bào chui ra từ khoang miệng, từ từ bò về phía cái đầu vô diện nhẵn thín và tròn trịa."
+    },
+    {
+      "segment_id": "0003_0025",
+      "source": "『【无面者的头颅（改造品）】，其所需负重为100，一旦占据将无法选择其它肉体。是否占据？』",
+      "target": "\"[Đầu của kẻ Vô Diện (Hàng cải tạo)], phụ trọng cần thiết là 100, một khi chiếm giữ sẽ không thể chọn thể xác khác. Có chiếm giữ hay không?\""
+    },
+    {
+      "segment_id": "0003_0026",
+      "source": "是！",
+      "target": "Có!"
+    },
+    {
+      "segment_id": "0003_0027",
+      "source": "十分果断。",
+      "target": "Vô cùng quyết đoán."
+    },
+    {
+      "segment_id": "0003_0028",
+      "source": "不过，这一次的肉体接纳与之前完全不同。",
+      "target": "Nhưng mà, lần dung nạp thể xác này hoàn toàn khác biệt so với trước đó."
+    },
+    {
+      "segment_id": "0003_0029",
+      "source": "接纳头颅的时间十分漫长。",
+      "target": "Thời gian dung nạp cái đầu vô cùng dài đằng đẵng."
+    },
+    {
+      "segment_id": "0003_0030",
+      "source": "一分钟…一小时…十小时。",
+      "target": "Một phút... Một giờ... Mười giờ."
+    },
+    {
+      "segment_id": "0003_0031",
+      "source": "在这一接纳过程中，韩东的意识处于一个与大脑结合的‘凝滞’状态。",
+      "target": "Trong quá trình dung nạp này, ý thức của Hàn Đông ở vào trạng thái 'đình trệ' khi kết hợp với não bộ."
+    },
+    {
+      "segment_id": "0003_0032",
+      "source": "不知多久过去。",
+      "target": "Không biết bao lâu đã trôi qua."
+    },
+    {
+      "segment_id": "0003_0033",
+      "source": "待到意识清醒而睁开眼睛时，面前的场景已完全变化。",
+      "target": "Đợi đến khi ý thức tỉnh táo và mở mắt ra, khung cảnh trước mắt đã hoàn toàn thay đổi."
+    },
+    {
+      "segment_id": "0003_0034",
+      "source": "微凉的寒风吹动在韩东的耳际。",
+      "target": "Làn gió lạnh lẽo thổi qua bên tai Hàn Đông."
+    },
+    {
+      "segment_id": "0003_0035",
+      "source": "黑夜、圆月、星辰。",
+      "target": "Đêm tối, trăng tròn, sao trời."
+    },
+    {
+      "segment_id": "0003_0036",
+      "source": "泥土、针叶、丛林。",
+      "target": "Đất bùn, lá kim, rừng rậm."
+    },
+    {
+      "segment_id": "0003_0037",
+      "source": "原本的监狱已不复存在，韩东则以一颗头的形式，落于一片针叶树林之中。",
+      "target": "Nhà giam ban đầu đã không còn tồn tại, còn Hàn Đông thì dưới hình thức một cái đầu, rơi xuống giữa một khu rừng lá kim."
+    },
+    {
+      "segment_id": "0003_0038",
+      "source": "“因完成了‘肉体’的选择，监狱自动消失？”",
+      "target": "\"Bởi vì đã hoàn thành việc chọn lựa 'thể xác', nên nhà giam tự động biến mất sao?\""
+    },
+    {
+      "segment_id": "0003_0039",
+      "source": "就在这时，熟悉的系统声传来。",
+      "target": "Đúng lúc này, âm thanh hệ thống quen thuộc truyền đến."
+    },
+    {
+      "segment_id": "0003_0040",
+      "source": "『肉体选择已完成，由于宿主的不完整性，暂无法激活【无面者的头颅】的相关能力。",
+      "target": "\"Việc lựa chọn thể xác đã hoàn tất, do tính không trọn vẹn của ký chủ, tạm thời không thể kích hoạt năng lực liên quan của [Đầu của kẻ Vô Diện]."
+    },
+    {
+      "segment_id": "0003_0041",
+      "source": "请尽快寻找一具完整的普通人身体。",
+      "target": "Xin hãy mau chóng tìm kiếm một cơ thể người thường trọn vẹn."
+    },
+    {
+      "segment_id": "0003_0042",
+      "source": "注：当前负重已达100%，无法占据特殊个体的肉身，请选择身体素质低于平均值的「普通人」进行肉身占据。",
+      "target": "Chú ý: Phụ trọng hiện tại đã đạt 100%, không thể chiếm giữ thể xác của cá thể đặc thù, xin hãy chọn \"người thường\" có tố chất thân thể thấp hơn mức trung bình để tiến hành chiếm giữ thể xác."
+    },
+    {
+      "segment_id": "0003_0043",
+      "source": "该占据不会增加负重。』",
+      "target": "Lần chiếm giữ này sẽ không tăng thêm phụ trọng.\""
+    },
+    {
+      "segment_id": "0003_0044",
+      "source": "获得相关信息后，韩东试着移动。",
+      "target": "Sau khi thu thập được thông tin liên quan, Hàn Đông thử di chuyển."
+    },
+    {
+      "segment_id": "0003_0045",
+      "source": "在大脑发出‘移动’指令时，一阵瘙痒感从脖颈处传出。",
+      "target": "Khi não bộ phát ra mệnh lệnh 'di chuyển', một trận ngứa ngáy truyền ra từ chỗ cổ."
+    },
+    {
+      "segment_id": "0003_0046",
+      "source": "低头一看……一根根粗壮的菌丝（触须状）竟然由脖颈间长出，载着头颅快速移动，最快能达到正常人的奔跑速度。",
+      "target": "Cúi đầu nhìn... Từng sợi nấm thô to (hình dạng như xúc tu) vậy mà lại mọc ra từ giữa cổ, chở cái đầu di chuyển nhanh chóng, tốc độ nhanh nhất có thể đạt tới tốc độ chạy của người bình thường."
+    },
+    {
+      "segment_id": "0003_0047",
+      "source": "就在韩东活动没多久。",
+      "target": "Ngay khi Hàn Đông vừa hoạt động không bao lâu."
+    },
+    {
+      "segment_id": "0003_0048",
+      "source": "踢踏踢踏！",
+      "target": "Lộc cộc lộc cộc!"
+    },
+    {
+      "segment_id": "0003_0049",
+      "source": "一阵马蹄声打破森林的寂静。",
+      "target": "Một tràng tiếng móng ngựa phá vỡ sự tĩnh lặng của khu rừng."
+    },
+    {
+      "segment_id": "0003_0050",
+      "source": "借助月光，韩东清晰视见一辆与自身‘世界观’不同的科学产物正在森林中疾驰飞奔。",
+      "target": "Nhờ ánh trăng, Hàn Đông nhìn thấy rõ ràng một cỗ máy móc khoa học khác biệt với 'thế giới quan' của bản thân đang phi nước đại trong khu rừng."
+    },
+    {
+      "segment_id": "0003_0051",
+      "source": "马车。",
+      "target": "Xe ngựa."
+    },
+    {
+      "segment_id": "0003_0052",
+      "source": "但却融合着蒸汽技术与黄铜金属。",
+      "target": "Nhưng lại là sự dung hợp giữa kỹ thuật hơi nước và kim loại đồng thau."
+    },
+    {
+      "segment_id": "0003_0053",
+      "source": "马匹的四肢被一种铜制蒸汽活塞装置所替代，能提供充足的动力。",
+      "target": "Tứ chi của con ngựa được thay thế bằng một loại thiết bị pít-tông hơi nước bằng đồng, có thể cung cấp động lực sung mãn."
+    },
+    {
+      "segment_id": "0003_0054",
+      "source": "配合精密的齿轮构造来完美复刻马匹腿部的奔跑模式。",
+      "target": "Phối hợp với cấu tạo bánh răng tinh vi để sao chép hoàn hảo mô thức chạy của chân ngựa."
+    },
+    {
+      "segment_id": "0003_0055",
+      "source": "完美的流线型金属设计，让奔跑更加自然且平稳。",
+      "target": "Thiết kế kim loại mang hình dáng thuôn dài hoàn mỹ, giúp cho việc chạy càng thêm tự nhiên và vững vàng."
+    },
+    {
+      "segment_id": "0003_0056",
+      "source": "至于马匹的身体与脑袋完整保留，并在表面镶嵌着一种流光异色的金属铠甲。",
+      "target": "Còn về phần cơ thể và cái đầu ngựa vẫn được giữ lại nguyên vẹn, đồng thời trên bề mặt còn được nạm một loại áo giáp kim loại lấp lánh ánh sáng kỳ dị."
+    },
+    {
+      "segment_id": "0003_0057",
+      "source": "铠甲具体由哪类金属所锻造，通过肉眼无法识别。",
+      "target": "Bộ giáp cụ thể được rèn từ loại kim loại nào thì không thể nhận biết bằng mắt thường."
+    },
+    {
+      "segment_id": "0003_0058",
+      "source": "两匹铜马拖拽着一道密闭的黄铜车厢。",
+      "target": "Hai con ngựa đồng kéo theo một thùng xe ngựa bằng đồng thau kín mít."
+    },
+    {
+      "segment_id": "0003_0059",
+      "source": "大量的蒸汽不断从车厢边缘，整齐排列的管道溢出，意味着当前马车正处于全速行驶的状态。      ",
+      "target": "Lượng lớn hơi nước không ngừng tràn ra từ các đường ống xếp thành hàng rào ở rìa thùng xe, điều đó có nghĩa là xe ngựa hiện đang ở trong trạng thái chạy với tốc độ tối đa."
+    },
+    {
+      "segment_id": "0003_0060",
+      "source": "“蒸汽马车？全速疾驰在树林间，有什么东西在追赶着他们吗？”",
+      "target": "\"Xe ngựa hơi nước? Phi hết tốc lực trong rừng rậm, có thứ gì đó đang đuổi theo bọn họ sao?\""
+    },
+    {
+      "segment_id": "0003_0061",
+      "source": "韩东静静潜伏于草堆之中，脖颈间的触须全部收回。",
+      "target": "Hàn Đông lẳng lặng nấp vào trong đống cỏ, toàn bộ xúc tu ở giữa cổ đều rụt lại."
+    },
+    {
+      "segment_id": "0003_0062",
+      "source": "屏息凝神，等待马车驶过。",
+      "target": "Nín thở tập trung, chờ xe ngựa chạy qua."
+    },
+    {
+      "segment_id": "0003_0063",
+      "source": "然而……",
+      "target": "Tuy nhiên..."
+    },
+    {
+      "segment_id": "0003_0064",
+      "source": "咔！",
+      "target": "Cạch!"
+    },
+    {
+      "segment_id": "0003_0065",
+      "source": "金属侧门打开，一位全身裹着黑色斗篷，戴着面罩的人类，一把抓出草丛里的人头。",
+      "target": "Cửa phụ bằng kim loại mở ra, một con người quấn áo choàng đen, đeo mặt nạ, tóm lấy cái đầu người trong bụi cỏ."
+    },
+    {
+      "segment_id": "0003_0066",
+      "source": "要知道，马车可是以80km/h的速度在移动，车上的人直接锁定了隐于夜色森林里的一颗脑袋。",
+      "target": "Phải biết rằng, xe ngựa đang di chuyển với tốc độ 80km/h, vậy mà người trên xe lại trực tiếp khóa chặt một cái đầu đang ẩn nấp trong khu rừng đêm tối."
+    },
+    {
+      "segment_id": "0003_0067",
+      "source": "动作行云流水。",
+      "target": "Động tác vô cùng tự nhiên và trôi chảy."
+    },
+    {
+      "segment_id": "0003_0068",
+      "source": "头颅带入车厢的一瞬间，便顺手扔入一道麻布口袋中。",
+      "target": "Ngay trong khoảnh khắc cái đầu được đưa vào thùng xe, người nọ liền thuận tay ném nó vào trong một cái bao tải gai."
+    },
+    {
+      "segment_id": "0003_0069",
+      "source": "一股腐臭气味溢满韩东的鼻腔。",
+      "target": "Một mùi hôi thối thối rữa tràn ngập khoang mũi Hàn Đông."
+    },
+    {
+      "segment_id": "0003_0070",
+      "source": "麻布袋里竟装着两具已经发臭的尸体。",
+      "target": "Bên trong bao tải gai thế mà lại chứa hai cái xác chết đã bốc mùi."
+    },
+    {
+      "segment_id": "0003_0071",
+      "source": "不过，有着多年置身于臭气熏天的鼠类培养室且接手过近万起小白鼠解剖的韩东，面对这样的气味，一脸平常……假装死尸并窃听着外面的情况。",
+      "target": "Nhưng mà, với kinh nghiệm nhiều năm ở trong phòng nuôi cấy chuột bốc mùi hôi thối nồng nặc và từng tiếp nhận gần vạn ca giải phẫu chuột bạch, đối mặt với mùi hôi thối thế này, sắc mặt Hàn Đông vẫn như thường... Hắn giả vờ làm xác chết và nghe trộm tình hình bên ngoài."
+    },
+    {
+      "segment_id": "0003_0072",
+      "source": "标准的英式英语说出：",
+      "target": "Một giọng tiếng Anh - Anh chuẩn xác vang lên:"
+    },
+    {
+      "segment_id": "0003_0073",
+      "source": "“丹妮丝！你知不知道刚才的行为有多么危险！？追赶我们的个体中可是混着‘异变体’。”",
+      "target": "\"Denise! Cô có biết hành vi vừa rồi nguy hiểm đến mức nào không!? Trong số những cá thể đang đuổi theo chúng ta có lẫn cả 'Dị biến thể' đấy.\""
+    },
+    {
+      "segment_id": "0003_0074",
+      "source": "紧跟着是一段优雅而带着坚定语气的女性声音：",
+      "target": "Ngay sau đó là một giọng nữ thanh lịch nhưng mang giọng điệu kiên định:"
+    },
+    {
+      "segment_id": "0003_0075",
+      "source": "“哪怕是一颗头，也不能给它们进食的机会……”",
+      "target": "\"Dù chỉ là một cái đầu, cũng không thể cho chúng cơ hội kiếm ăn...\""
+    },
+    {
+      "segment_id": "0003_0076",
+      "source": "“你太固执了！你的鲁莽总有一天会让你成为尸袋里的一员……奇怪，圣城距离我们虽近在咫尺，但这颗头是怎么来的？",
+      "target": "\"Cô quá cố chấp rồi! Sự liều lĩnh của cô sẽ có ngày khiến cô trở thành một thành viên trong túi đựng xác này... Kỳ lạ thật, Thánh Thành tuy gần chúng ta trong gang tấc, nhưng cái đầu này từ đâu ra?"
+    },
+    {
+      "segment_id": "0003_0077",
+      "source": "如果是胆小的家伙，偷偷溜出圣城，要么尸骨无存、要么就留着全尸！不应该只剩下一颗头吧。",
+      "target": "Nếu là kẻ nhát gan, lén lút chuồn khỏi Thánh Thành, thì hoặc là thi cốt không còn, hoặc là vẫn giữ nguyên thây! Không lý nào lại chỉ còn sót lại một cái đầu chứ."
+    },
+    {
+      "segment_id": "0003_0078",
+      "source": "有必要检查一下！”",
+      "target": "Cần thiết phải kiểm tra một chút!\""
+    },
+    {
+      "segment_id": "0003_0079",
+      "source": "尸袋里的韩东猛地一惊。",
+      "target": "Hàn Đông ở trong túi đựng xác giật mình kinh hãi."
+    },
+    {
+      "segment_id": "0003_0080",
+      "source": "虽是人类，如若被他们发现韩东以一颗‘活人头’的形式存在着，事情就麻烦了。",
+      "target": "Tuy là con người, nhưng nếu như bị bọn họ phát hiện Hàn Đông đang tồn tại dưới hình thức một cái 'đầu người sống', sự việc sẽ rắc rối to."
+    },
+    {
+      "segment_id": "0003_0081",
+      "source": "如果放在韩东生前的世界，那接下来他的命运将是被送到科学院进行研究，求生不能求死不得。",
+      "target": "Nếu như đặt ở thế giới lúc Hàn Đông còn sống, vậy thì vận mệnh tiếp theo của hắn sẽ là bị đưa đến viện khoa học tiến hành nghiên cứu, sống không được chết không xong."
+    },
+    {
+      "segment_id": "0003_0082",
+      "source": "就算是平行世界，结局应该也差不多吧。",
+      "target": "Cho dù là thế giới song song, thì kết cục hẳn cũng xấp xỉ như vậy thôi."
+    },
+    {
+      "segment_id": "0003_0083",
+      "source": "尸袋打开，一双隔着面罩的眼睛笔直盯着韩东的头颅。",
+      "target": "Túi đựng xác mở ra, một đôi mắt nhìn chằm chằm vào cái đầu của Hàn Đông qua lớp mặt nạ."
+    },
+    {
+      "segment_id": "0003_0084",
+      "source": "就在这时。",
+      "target": "Đúng lúc này."
+    },
+    {
+      "segment_id": "0003_0085",
+      "source": "轰！",
+      "target": "Ầm!"
+    },
+    {
+      "segment_id": "0003_0086",
+      "source": "马车遭受剧烈撞击，尸袋关闭。",
+      "target": "Xe ngựa phải chịu một cú va chạm dữ dội, túi đựng xác đóng lại."
+    },
+    {
+      "segment_id": "0003_0087",
+      "source": "“居然能追上蒸汽马车！利用铜弹进行反攻……我们距离圣城已不远了，子弹数量应该能坚持到我们进城。”",
+      "target": "\"Lại có thể đuổi kịp cả xe ngựa hơi nước! Dùng đạn đồng thau để phản công... Chúng ta cách Thánh Thành đã không còn xa nữa, số lượng đạn hẳn là có thể trụ được đến khi chúng ta vào thành.\""
+    },
+    {
+      "segment_id": "0003_0088",
+      "source": "嗒嗒嗒！！",
+      "target": "Đoàng đoàng đoàng!!"
+    },
+    {
+      "segment_id": "0003_0089",
+      "source": "震耳欲聋的机枪射击声传来。",
+      "target": "Tiếng súng máy bắn ra đinh tai nhức óc truyền đến."
+    },
+    {
+      "segment_id": "0003_0090",
+      "source": "尸袋里的韩东松懈一口气，关键时刻竟然是所谓的‘异变体’帮他化解危险。",
+      "target": "Hàn Đông ở trong túi đựng xác thở phào nhẹ nhõm, thời khắc mấu chốt vậy mà lại là cái gọi là 'Dị biến thể' kia giúp hắn hóa giải nguy hiểm."
+    },
+    {
+      "segment_id": "0003_0091",
+      "source": "在逐渐适应了枪声，冷静下来的韩东因这群人的对话内容，对自己所穿越的世界好奇了起来。",
+      "target": "Dần thích ứng với tiếng súng, Hàn Đông sau khi bình tĩnh lại đã bắt đầu tò mò về thế giới mà mình xuyên không đến nhờ vào nội dung cuộc đối thoại của nhóm người này."
+    },
+    {
+      "segment_id": "0003_0092",
+      "source": "异变体是什么？某种怪物？",
+      "target": "Dị biến thể là thứ gì? Một loại quái vật nào đó sao?"
+    },
+    {
+      "segment_id": "0003_0093",
+      "source": "圣城？怎么没听说过？平行世界中衍化出来的国家吗？",
+      "target": "Thánh Thành? Sao trước nay chưa từng nghe nói qua? Là một quốc gia diễn hóa từ trong thế giới song song sao?"
+    },
+    {
+      "segment_id": "0003_0094",
+      "source": "“信息太少，根本推断不出什么……一旦抵达圣城，我得想办法脱离马车！与这群人脱离后，再来慢慢探知了解这个世界。",
+      "target": "\"Tin tức quá ít ỏi, căn bản không thể suy luận ra được gì... Một khi đến được Thánh Thành, ta phải tìm cách thoát khỏi xe ngựa! Sau khi tách khỏi nhóm người này, lại từ từ thăm dò tìm hiểu thế giới này."
+    },
+    {
+      "segment_id": "0003_0095",
+      "source": "最好，追击的怪物能将马车破坏掉一部分。”",
+      "target": "Tốt nhất là lũ quái vật truy kích kia có thể phá hủy một phần xe ngựa.\""
+    },
+    {
+      "segment_id": "0003_0096",
+      "source": "韩东刚刚想到这里时，只听见‘嘎吱’的一声。",
+      "target": "Hàn Đông vừa mới nghĩ tới đây, chỉ nghe thấy một tiếng 'két'."
+    },
+    {
+      "segment_id": "0003_0097",
+      "source": "似乎马车的金属铁皮还真被某种锐利物给切开。",
+      "target": "Dường như lớp vỏ kim loại của chiếc xe ngựa thật sự bị thứ vật sắc nhọn nào đó cắt ra."
+    },
+    {
+      "segment_id": "0003_0098",
+      "source": "“赶紧发信号！让守城的废物给我们开门！”",
+      "target": "\"Mau phát tín hiệu! Bảo lũ phế vật giữ thành mở cửa cho chúng ta!\""
+    },
+    {
+      "segment_id": "0003_0099",
+      "source": "“是！”",
+      "target": "\"Rõ!\""
+    },
+    {
+      "segment_id": "0003_0100",
+      "source": "一束烟花由车顶射出。",
+      "target": "Một chùm pháo hoa bắn ra từ nóc xe."
+    },
+    {
+      "segment_id": "0003_0101",
+      "source": "紧跟着，韩东能听见某扇厚重巨门开启时发出的巨响声。",
+      "target": "Ngay sau đó, Hàn Đông có thể nghe thấy một tiếng vang thật lớn phát ra khi cánh cửa khổng lồ dày cộp nào đó được mở."
+    },
+    {
+      "segment_id": "0003_0102",
+      "source": "约五分钟。",
+      "target": "Khoảng năm phút sau."
+    },
+    {
+      "segment_id": "0003_0103",
+      "source": "机枪停止扫射，马车速度也慢慢降下。",
+      "target": "Súng máy ngừng xả đạn, tốc độ của xe ngựa cũng dần dần chậm lại."
+    },
+    {
+      "segment_id": "0003_0104",
+      "source": "“进城了吗……准备脱离马车了。”",
+      "target": "\"Vào thành rồi sao... Chuẩn bị chuồn khỏi xe ngựa thôi.\""
+    },
+    {
+      "segment_id": "0003_0105",
+      "source": "韩东大致能猜到外面的情况。",
+      "target": "Hàn Đông đại khái có thể đoán được tình hình bên ngoài."
+    },
+    {
+      "segment_id": "0003_0106",
+      "source": "逃脱怪物追捕的一行人，肉体与精神皆处于放松状态。",
+      "target": "Nhóm người trốn thoát khỏi sự truy bắt của quái vật, thể xác và tinh thần đều ở vào trạng thái buông lỏng."
+    },
+    {
+      "segment_id": "0003_0107",
+      "source": "在城门关闭前，这行人必定全程盯着城门外的情况……注意力不会发生偏移。",
+      "target": "Trước khi cổng thành đóng lại, nhóm người này nhất định sẽ nhìn chằm chằm vào tình hình ngoài cổng thành... Sự chú ý sẽ không bị dời đi."
+    },
+    {
+      "segment_id": "0003_0108",
+      "source": "通过脖颈处的菌丝体慢慢撩开尸袋开口。",
+      "target": "Thông qua thể nấm ở cổ, hắn chậm rãi vén miệng túi đựng xác lên."
+    },
+    {
+      "segment_id": "0003_0109",
+      "source": "车厢侧面的一条撕裂口足以让韩东的脑袋穿过去。",
+      "target": "Một vết rách ở thành xe ngựa đủ để cái đầu của Hàn Đông chui lọt qua."
+    },
+    {
+      "segment_id": "0003_0110",
+      "source": "“等！”",
+      "target": "\"Chờ đã!\""
+    },
+    {
+      "segment_id": "0003_0111",
+      "source": "韩东在等待一个绝不会被发现的最佳时机。",
+      "target": "Hàn Đông đang chờ đợi một thời cơ tuyệt vời nhất tuyệt đối sẽ không bị phát hiện."
+    },
+    {
+      "segment_id": "0003_0112",
+      "source": "轰！",
+      "target": "Ầm!"
+    },
+    {
+      "segment_id": "0003_0113",
+      "source": "城门闭合的一瞬间，声音盖过四周的一切。",
+      "target": "Ngay khoảnh khắc cổng thành đóng lại, âm thanh đã át đi mọi thứ xung quanh."
+    },
+    {
+      "segment_id": "0003_0114",
+      "source": "一颗脑袋由车厢侧面飞出，落地的一瞬间便迅速爬入阴暗街巷。",
+      "target": "Một cái đầu bay ra từ thành xe ngựa, khoảnh khắc chạm đất liền nhanh chóng bò vào một con hẻm tối tăm."
+    },
+    {
+      "segment_id": "0003_0115",
+      "source": "听着并未停止的金属马蹄声。",
+      "target": "Lắng nghe tiếng móng ngựa kim loại vẫn chưa dừng lại."
+    },
+    {
+      "segment_id": "0003_0116",
+      "source": "暗巷中的韩东面露微笑，继续寻找普通人的合适肉身。",
+      "target": "Hàn Đông ở trong con hẻm tối lộ ra nụ cười, tiếp tục đi tìm thể xác người thường thích hợp."
+    }
+  ]
+}
+```

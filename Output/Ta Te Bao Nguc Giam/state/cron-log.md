@@ -3,3 +3,4 @@
 - 2026-06-11 20:58 | Chapter 1 | completed | Chương 0001 - 0001 神秘的监狱.md
 - 2026-06-12 11:05 | Chapter 1 | completed | Chương 0001 - Chương 1 Nhà giam thần bí.md
 - 2026-06-12 11:39 | Chapter 2 | completed | Chương 0002 - Chương 2 Sự phát hiện của Hàn Đông.md
+- 2026-06-12 13:31 | Chapter 3 | completed | Chương 0003 - Chương 3 Bắt đầu lại từ đầu.md

@@ -288,11 +288,11 @@
           "title": "Đông phương"
         }
       ],
-      "completed_chapters": 2,
+      "completed_chapters": 4,
       "total_chapters": 2169,
-      "latest_chapter": "Chương 2: Sự phát hiện của Hàn Đông",
+      "latest_chapter": "Chương 3: Bắt đầu lại từ đầu",
       "detail": "Tiến độ: 2/2169 chương | Mới nhất: Chương 2: Sự phát hiện của Hàn Đông",
-      "updated_at": "2026-06-12T13:00:13.711488+07:00",
+      "updated_at": "2026-06-12T13:31:42+07:00",
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Ta Te Bao Nguc Giam/README.md",
       "toc_path": "Output/Ta Te Bao Nguc Giam/toc.json"
@@ -971,7 +971,7 @@
     }
   ],
   "metadata": {
-    "generated_at": "2026-06-12T13:21:07+07:00",
+    "generated_at": "2026-06-12T13:31:42+07:00",
     "total_books": 17,
     "source": "Dichtrung/Output"
   },

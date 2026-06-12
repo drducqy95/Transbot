@@ -1,0 +1,36 @@
+```json
+{
+  "names": {
+    "approved": [],
+    "rejected": [],
+    "uncertain": []
+  },
+  "terms": {
+    "approved": [
+      "亚空间收容技",
+      "便携式监狱",
+      "无面者的头颅",
+      "进行肉身占据"
+    ],
+    "rejected": [
+      "-改造品、具",
+      "已集合在了这",
+      "是！\n十分",
+      "的相关能力。",
+      "肉体选择已完",
+      "能力。\n负重",
+      "获得相关信",
+      "，其所需负重"
+    ],
+    "uncertain": [
+      "普通人",
+      "模仿"
+    ]
+  }
+}
+```
+
+**Reasoning for categorization:**
+*   **Approved**: These appear to be specific in-universe concepts, items, or skills that would benefit from consistent terminology translation (e.g., "Subspace Containment Tech", "Portable Prison", "Head of the Faceless One", "Body Possession").
+*   **Rejected**: These are clearly sentence fragments, include punctuation/newlines, or are incomplete thoughts that should not be glossary terms (e.g., "-modified items, tools", "has gathered here", "Related abilities."). 
+*   **Uncertain**: Words like `普通人` (Ordinary person) and `模仿` (Imitate/Mimic) are very generic. Depending on the context, they might be specific classes or skills in a game/novel, or they might just be ordinary words that don't need to be strictly tracked in a glossary.
