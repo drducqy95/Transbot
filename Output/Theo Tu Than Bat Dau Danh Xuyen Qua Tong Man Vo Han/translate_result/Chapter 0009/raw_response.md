@@ -1,0 +1,288 @@
+```json
+{
+  "chapter_number": 9,
+  "chapter_title_vi": "Chương 9: Đè Yoruichi xuống đất ma sát",
+  "segments": [
+    {
+      "segment_id": "0001",
+      "source": "# 第9章 把夜一按在地上摩擦",
+      "target": "# Chương 9: Đè Yoruichi xuống đất ma sát"
+    },
+    {
+      "segment_id": "0002",
+      "source": "作为一个老师他当然不喜欢有人在他的课上睡觉，但这个问题少女在白打上的天赋简直堪称妖孽，他确实没什么能教对方的了。",
+      "target": "Là một giáo viên, ông đương nhiên không thích việc có người ngủ gật trong tiết học của mình, nhưng thiên phú Bạch Đả của cô nàng rắc rối này lại vô cùng yêu nghiệt, ông quả thật chẳng còn gì để dạy cho đối phương nữa."
+    },
+    {
+      "segment_id": "0003",
+      "source": "他知道上午的剑道课中，陆离击败了藤本老师，就是不清楚陆离白打的水平如何。",
+      "target": "Ông biết trong tiết học Kiếm đạo buổi sáng, Lục Ly đã đánh bại thầy Fujimoto, chỉ là không rõ trình độ Bạch Đả của Lục Ly thế nào."
+    },
+    {
+      "segment_id": "0004",
+      "source": "不亲自出手教陆离并非是他不喜欢这个新生或是有轻视，而是他在心里得承认，四枫院家的这个孩子，在白打的造诣上比自己更高。",
+      "target": "Việc không tự mình ra tay chỉ dạy Lục Ly không phải vì ông ghét bỏ hay khinh thường tân sinh này, mà là trong lòng ông phải thừa nhận, trình độ Bạch Đả của đứa trẻ nhà Shihoin này còn cao hơn cả ông."
+    },
+    {
+      "segment_id": "0005",
+      "source": "“哦？新生啊……”",
+      "target": "“Ồ? Tân sinh à...”"
+    },
+    {
+      "segment_id": "0006",
+      "source": "夜一顺着众人的目光转身，看向陆离，擦去嘴角午睡的痕迹后，露出了小恶魔一般的表情，让周围的几名学员不禁躲得远远的。",
+      "target": "Yoruichi xoay người theo ánh mắt của mọi người, nhìn về phía Lục Ly. Sau khi lau đi vệt nước miếng ngủ trưa bên khóe miệng, cô nở một nụ cười như tiểu ác ma, khiến vài học viên xung quanh không nhịn được mà né ra thật xa."
+    },
+    {
+      "segment_id": "0007",
+      "source": "一年级的学生都知道，这个贵族家的大小姐简直就是混世小魔女，就没有她不敢干的事，而在白打课上，在场的所有人，包括蓝染都被她揍过。",
+      "target": "Học sinh năm nhất đều biết, đại tiểu thư nhà quý tộc này chính là một hỗn thế tiểu ma nữ, không có chuyện gì mà cô không dám làm. Hơn nữa trong tiết học Bạch Đả, tất cả mọi người có mặt ở đây, bao gồm cả Aizen đều từng bị cô đánh."
+    },
+    {
+      "segment_id": "0008",
+      "source": "“陆君，她是四枫院家的人，白打说是学员中最强也不为过，你要小心点。”",
+      "target": "“Lục-kun, cô ấy là người của nhà Shihoin, nói cô ấy mạnh nhất về Bạch Đả trong số các học viên cũng không quá lời đâu, cậu phải cẩn thận một chút.”"
+    },
+    {
+      "segment_id": "0009",
+      "source": "蓝染提醒道，但他嘴角的笑容却暴露了些许内心的想法，他觉得眼前的局面很有趣。",
+      "target": "Aizen nhắc nhở, nhưng nụ cười nơi khóe môi lại để lộ chút suy nghĩ trong lòng, hắn cảm thấy tình huống trước mắt vô cùng thú vị."
+    },
+    {
+      "segment_id": "0010",
+      "source": "是的，他也被夜一揍过，而且他得承认，在不仗着灵压欺人的情况下，纯靠白打，就算他使出全力，如今也还不是夜一的对手。",
+      "target": "Đúng thế, hắn cũng từng bị Yoruichi đánh, và hắn phải thừa nhận rằng, trong trường hợp không cậy vào linh áp để bắt nạt người khác, chỉ dựa thuần túy vào Bạch Đả, ngay cả khi hắn dốc toàn lực thì lúc này vẫn chưa phải là đối thủ của Yoruichi."
+    },
+    {
+      "segment_id": "0011",
+      "source": "那么陆君，你还能带给我更多惊喜吗？",
+      "target": "Vậy thì Lục-kun, cậu còn có thể mang lại cho ta nhiều bất ngờ hơn nữa không?"
+    },
+    {
+      "segment_id": "0012",
+      "source": "“最强？”",
+      "target": "“Mạnh nhất?”"
+    },
+    {
+      "segment_id": "0013",
+      "source": "陆离和夜一对视时微微侧了侧头，咧嘴露出一口森白的牙齿，“所谓白打，我可以理解为不用兵器的无限制搏杀吧？”",
+      "target": "Lục Ly hơi nghiêng đầu khi nhìn thẳng vào mắt Yoruichi, nhếch môi để lộ hàm răng trắng ởn: “Cái gọi là Bạch Đả, tôi có thể hiểu là cuộc chiến sinh tử không giới hạn và không dùng binh khí đúng chứ?”"
+    },
+    {
+      "segment_id": "0014",
+      "source": "“你这么说也没错。”",
+      "target": "“Cậu nói thế cũng không sai.”"
+    },
+    {
+      "segment_id": "0015",
+      "source": "回话的是这堂课的老师。",
+      "target": "Người trả lời là giáo viên của tiết học này."
+    },
+    {
+      "segment_id": "0016",
+      "source": "而夜一见陆离毫不畏惧，也感觉颇为有趣，迈步朝陆离走近，“怎么，你很擅长拳脚吗？”",
+      "target": "Còn Yoruichi thấy Lục Ly không hề sợ hãi, cũng cảm thấy khá thú vị, cất bước tiến lại gần Lục Ly: “Sao nào, cậu rất giỏi quyền cước à?”"
+    },
+    {
+      "segment_id": "0017",
+      "source": "仿佛有火花在空气中碰撞，原本站在夜一和陆离之间的学员们都向两侧退去，大多眼中带着看热闹的亢奋。",
+      "target": "Như có tia lửa va chạm trong không khí, các học viên vốn đang đứng giữa Yoruichi và Lục Ly đều lùi sang hai bên, đa số trong mắt đều mang theo sự hưng phấn hóng hớt."
+    },
+    {
+      "segment_id": "0018",
+      "source": "陆离活动了下躯体，骨骼发出一阵爆响声，“很擅长不敢当，只能说是略知一二。”",
+      "target": "Lục Ly vặn vẹo cơ thể, xương cốt phát ra một chuỗi âm thanh răng rắc giòn giã: “Giỏi thì không dám nhận, chỉ có thể nói là biết chút đỉnh.”"
+    },
+    {
+      "segment_id": "0019",
+      "source": "他当然有练过拳脚，不如说师父收集的古籍中一切的格斗技巧他都有学过，只可惜他所在的那个世界武学失传了太多，所以他认为从广义角度来说，算上他们世界被埋没的武学历史的话，他的确只能算得上是略知一二。",
+      "target": "Cậu đương nhiên là từng luyện quyền cước, hay nói đúng hơn là toàn bộ kỹ năng chiến đấu trong các cổ thư mà sư phụ thu thập cậu đều đã học qua. Chỉ tiếc là võ học ở thế giới của cậu đã thất truyền quá nhiều, thế nên cậu cho rằng nếu xét trên góc độ rộng hơn, cộng thêm cả lịch sử võ học đã bị mai một của thế giới mình, cậu quả thật chỉ được coi là biết chút đỉnh."
+    },
+    {
+      "segment_id": "0020",
+      "source": "“哈哈，你真有意思，看你的站姿、架势就知道，你是白打的高手，却只说自己是略知一二吗？”",
+      "target": "“Ha ha, cậu thú vị thật đấy, nhìn tư thế đứng và thủ thế của cậu là biết ngay cậu là một cao thủ Bạch Đả rồi, vậy mà lại chỉ nói mình biết chút đỉnh sao?”"
+    },
+    {
+      "segment_id": "0021",
+      "source": "夜一笑着说道，眼睛笑着笑着就眯了起来，“你这么自谦，可是会让姐姐想要欺负你一下呢。”",
+      "target": "Yoruichi cười nói, mắt híp lại khi cười: “Cậu khiêm tốn như thế, sẽ làm chị đây muốn ăn hiếp cậu một chút đấy.”"
+    },
+    {
+      "segment_id": "0022",
+      "source": "“你看起来比我要小。”",
+      "target": "“Trông cô có vẻ nhỏ tuổi hơn tôi.”"
+    },
+    {
+      "segment_id": "0023",
+      "source": "陆离笑着说，这是实话，夜一和蓝染应该都是尸魂界内出生的，他们会在这个世界自然生长，此时的蓝染看上去接近青年，而夜一像是十六岁少女那样。",
+      "target": "Lục Ly cười nói, đây là sự thật. Yoruichi và Aizen chắc hẳn đều sinh ra ở Thi Hồn Giới, họ sẽ sinh trưởng tự nhiên ở thế giới này. Lúc này Aizen trông gần giống như một thanh niên, còn Yoruichi thì giống như một thiếu nữ mười sáu tuổi."
+    },
+    {
+      "segment_id": "0024",
+      "source": "顶着这样的面孔，即便她的胸前再波涛汹涌，自称姐姐也总让人感觉奇怪，或许这个学院内的混世小魔女天生有一颗御姐心吧。",
+      "target": "Mang một khuôn mặt như vậy, cho dù trước ngực cô có đẫy đà đến mấy thì việc tự xưng là chị vẫn luôn khiến người ta cảm thấy kỳ quặc. Có lẽ hỗn thế tiểu ma nữ trong học viện này bẩm sinh đã có tâm hồn của một ngự tỷ chăng."
+    },
+    {
+      "segment_id": "0025",
+      "source": "“呵，等下我就打的你喊姐。”",
+      "target": "“Hừ, lát nữa tôi sẽ đánh cho cậu phải gọi bằng chị.”"
+    },
+    {
+      "segment_id": "0026",
+      "source": "夜一冷笑一声，左右手互相活动着手腕，她和平常学员不同，并非穿着宽大的道服，而是量身定做了颜色风格和校服相近的白色紧身衣，手腕上方还缠着布条，给人一种干练的感觉。",
+      "target": "Yoruichi cười lạnh một tiếng, hai tay xoay cổ tay qua lại. Cô không giống với các học viên bình thường, không mặc võ phục rộng thùng thình, mà mặc một bộ đồ bó sát màu trắng được may đo riêng có màu sắc và phong cách gần giống với đồng phục trường, trên cổ tay còn quấn băng vải, mang lại cảm giác vô cùng nhanh nhẹn, gọn gàng."
+    },
+    {
+      "segment_id": "0027",
+      "source": "腰间一条束带，将她的小蛮腰收紧，贴身的衣物让在其行走中隐约可见那健康的马甲线，她毫不在乎的展示着她的身材，展示着她的灵体爆发力。",
+      "target": "Một sợi dây đai thắt ngang hông làm tôn lên vòng eo thon gọn, bộ quần áo bó sát khiến cơ bụng số 11 săn chắc khỏe khoắn của cô ẩn hiện theo mỗi bước đi. Cô hoàn toàn không bận tâm mà phô diễn vóc dáng cùng lực bộc phát linh thể của mình."
+    },
+    {
+      "segment_id": "0028",
+      "source": "“四枫院同学，记得控制自己的灵威，要和陆同学一样，是十七等。”",
+      "target": "“Học viên Shihoin, hãy nhớ khống chế linh uy của mình, phải giống như học viên Lục, đều là cấp mười ty.”"
+    },
+    {
+      "segment_id": "0029",
+      "source": "老师提醒道，他倒不是想要看什么公平的决斗，而是怕夜一这小魔女失手直接把陆离打死了……",
+      "target": "Giáo viên nhắc nhở, ông không phải là muốn xem một trận quyết đấu công bằng gì, mà là sợ tiểu ma nữ Yoruichi lỡ tay đánh chết Lục Ly luôn..."
+    },
+    {
+      "segment_id": "0030",
+      "source": "“呦，十七等，不赖嘛。”      夜一说道，像是在称赞，但语气很微妙。",
+      "target": "“Ồ, cấp mười bảy, không tồi nha.” Yoruichi nói, giống như đang khen ngợi nhưng tông giọng lại rất vi diệu."
+    },
+    {
+      "segment_id": "0031",
+      "source": "作为四枫院家的传人，她当然从小就有着最好的资源，在入学时就已经有九等灵威了，这还是因为她不怎么喜欢关于灵压的修行，更喜欢练习白打的缘故。",
+      "target": "Là người truyền thừa của nhà Shihoin, cô đương nhiên từ nhỏ đã có những tài nguyên tốt nhất, lúc nhập học đã có linh uy cấp chín rồi, đây là còn do cô không mấy thích tu luyện linh áp mà thích luyện tập Bạch Đả hơn."
+    },
+    {
+      "segment_id": "0032",
+      "source": "入学时有十七等灵威不算什么，她只对陆离的白打水平感兴趣。",
+      "target": "Lúc nhập học có linh uy cấp mười bảy cũng chẳng là gì, cô chỉ hứng thú với trình độ Bạch Đả của Lục Ly thôi."
+    },
+    {
+      "segment_id": "0033",
+      "source": "她控制好自己的灵威，然后朝陆离勾了勾手指，“上吧。”",
+      "target": "Cô khống chế tốt linh uy của mình, rồi ngoắc ngoắc ngón tay với Lục Ly: “Tới đi.”"
+    },
+    {
+      "segment_id": "0034",
+      "source": "陆离并不因为对方的挑衅而动怒，只是抱拳行了一礼，“请赐教。”",
+      "target": "Lục Ly không hề vì sự khiêu khích của đối phương mà tức giận, chỉ ôm quyền hành lễ: “Xin chỉ giáo.”"
+    },
+    {
+      "segment_id": "0035",
+      "source": "在夜一和其他同学古怪的目光中，陆离动了，势如奔雷！",
+      "target": "Dưới ánh mắt kỳ quái của Yoruichi và các học viên khác, Lục Ly chuyển động, thế như lôi đình!"
+    },
+    {
+      "segment_id": "0036",
+      "source": "数米距离在他脚下掠过，一记冲拳直击夜一面门，快、狠、准！",
+      "target": "Khoảng cách vài mét bị thu hẹp trong chớp mắt dưới chân cậu, một cú đấm thẳng trực diện lao thẳng vào mặt Yoruichi, nhanh, hiểm, chuẩn!"
+    },
+    {
+      "segment_id": "0037",
+      "source": "夜一在瞬间就收起了轻视之心，连忙双臂回防挡在了面门前。",
+      "target": "Yoruichi lập tức thu hồi lòng khinh khỉnh, vội vàng rút hai tay về đỡ trước mặt."
+    },
+    {
+      "segment_id": "0038",
+      "source": "在那一拳落下后，她身形借力后撤，可陆离就像是紧咬猎物喉咙的恶狼一般欺身而上，第二拳击向她的小腹。",
+      "target": "Sau khi đón đỡ cú đấm đó, cô mượn lực lùi về sau, nhưng Lục Ly lại giống như con sói đói cắn chặt lấy yết hầu con mồi mà áp sát tới, cú đấm thứ hai đánh thẳng vào bụng dưới của cô."
+    },
+    {
+      "segment_id": "0039",
+      "source": "夜一不愧是四枫院家千年一出的白打天才，她霎时间就做出了判断，借助身躯柔软的优势上半身极速向后翻去，让陆离的那一拳只是擦着她的紧身衣过去，并未造成伤害。",
+      "target": "Yoruichi không hổ danh là thiên tài Bạch Đả ngàn năm có một của nhà Shihoin. Cô lập tức đưa ra phán đoán trong chớp mắt, tận dụng lợi thế cơ thể mềm dẻo nhanh chóng ngửa người ra sau, khiến cú đấm kia của Lục Ly chỉ sượt qua bộ đồ bó sát của cô chứ không gây ra thương tổn nào."
+    },
+    {
+      "segment_id": "0040",
+      "source": "紧接着，她单手支撑地板，一腿横扫而出，要抓住陆离进攻后下盘不稳的机会将陆离扫倒。",
+      "target": "Ngay sau đó, cô dùng một tay chống xuống sàn, tung một cú quét chân ra, định lợi dụng sơ hở khi hạ bàn của Lục Ly không vững sau đợt tấn công để gạt ngã cậu."
+    },
+    {
+      "segment_id": "0041",
+      "source": "可陆离就像是已经预判了她的动作一般提前起跳了，更让夜一讶异的是，陆离跳的不高，只是堪堪躲过她那一腿的高度，在和夜一的长腿错过后， he 起跳时就抬起的右脚迅速的下劈，直指夜一的下阴。",
+      "target": "Nhưng Lục Ly giống như đã đoán trước được động tác của cô nên đã nhảy lên từ trước. Điều khiến Yoruichi ngạc nhiên hơn là Lục Ly nhảy không cao, chỉ vừa đủ để tránh cú quét chân của cô. Sau khi né được đôi chân dài của Yoruichi, chân phải vốn đã nhấc lên từ lúc nhảy của cậu nhanh chóng bổ xuống, nhắm thẳng vào hạ bộ của Yoruichi."
+    },
+    {
+      "segment_id": "0042",
+      "source": "夜一有些狼狈的翻滚躲开，羞恼中又有些后怕，她想要反攻，但已经在战斗初期被压制，现在陆离根本就不给她起身的机会。",
+      "target": "Yoruichi lăn lộn né tránh có chút chật vật, trong lòng vừa thẹn vừa sợ. Cô muốn phản công, nhưng đã bị áp chế ngay từ đầu trận đấu, hiện tại Lục Ly căn bản không cho cô cơ hội đứng lên."
+    },
+    {
+      "segment_id": "0043",
+      "source": "此时周围观战的同学都已经看呆了，说时迟那时快，转眼间陆离和夜一便已经过了许多招，而他们心中白打无敌的夜一居然正被陆离这个插班新生按在地上摩擦！",
+      "target": "Lúc này các học viên xem chiến xung quanh đều đã ngây người ra. Nói thì chậm nhưng xảy ra thì nhanh, chớp mắt Lục Ly và Yoruichi đã trao đổi chiêu thức rất nhiều lần, mà Yoruichi vốn vô địch về Bạch Đả trong lòng bọn họ thế mà lại đang bị học sinh mới chuyển vào này đè xuống đất ma sát!"
+    },
+    {
+      "segment_id": "0044",
+      "source": "陆离不觉得在战斗中朝下三路去有什么不对的，武术是杀人技，战斗中对敌人的怜悯就是对自己的残忍。",
+      "target": "Lục Ly không cảm thấy việc tấn công vào hạ tam lộ trong chiến đấu có gì sai trái cả. Võ thuật là kỹ năng giết người, sự nhân từ đối với kẻ địch trong chiến đấu chính là tàn nhẫn với chính mình."
+    },
+    {
+      "segment_id": "0045",
+      "source": "尽管只是切磋，面对夜一这样的高手他也不准备放水，何况有藤本柱前车之鉴，真到了能伤到夜一的时候，对方的灵威恐怕就压不住了，自己其实根本破不了夜一的防。",
+      "target": "Dù chỉ là so tài, nhưng đối mặt với một cao thủ như Yoruichi cậu cũng không định nương tay. Huống chi đã có tấm gương đi trước của Fujimoto Hashira, thật sự đến lúc có thể làm Yoruichi bị thương thì linh uy của đối phương e rằng sẽ không đè nén nổi nữa, bản thân cậu thực chất cũng chẳng thể phá nổi phòng ngự của cô."
+    },
+    {
+      "segment_id": "0046",
+      "source": "夜一可是五大贵族之一的四枫院家的继承人，她现在的灵威等级恐怕在十等以上，简单来说，就算她不用灵压攻击自己，她自身的‘灵魂密度’也是远高于自己的。",
+      "target": "Yoruichi là người kế thừa của nhà Shihoin - một trong ngũ đại quý tộc, cấp bậc linh uy hiện tại của cô có lẽ là trên cấp mười. Nói một cách đơn giản, cho dù cô không dùng linh áp tấn công cậu, thì \"mật độ linh hồn\" của bản thân cô cũng cao hơn cậu rất nhiều."
+    },
+    {
+      "segment_id": "0047",
+      "source": "从属性点方面换算，夜一的肉身远比自己抗打，他若是再不进攻夜一的要害，那还怎么赢？",
+      "target": "Quy đổi theo khía cạnh thuộc tính, cơ thể của Yoruichi chịu đòn tốt hơn cậu rất nhiều. Nếu cậu còn không tấn công vào các tử huyệt của cô thì làm sao mà thắng được?"
+    },
+    {
+      "segment_id": "0048",
+      "source": "是的，陆离喜欢战斗，但他讨厌输。",
+      "target": "Đúng vậy, Lục Ly thích chiến đấu, nhưng cậu ghét thất bại."
+    },
+    {
+      "segment_id": "0049",
+      "source": "轰——",
+      "target": "Ầm ——"
+    },
+    {
+      "segment_id": "0050",
+      "source": "又是一记势大力沉的下劈，他的右腿如同战斧一般落在夜一双腿之间。",
+      "target": "Lại là một cú bổ xuống nặng nề, chân phải của cậu như một chiếc rìu chiến giáng xuống giữa hai chân của Yoruichi."
+    },
+    {
+      "segment_id": "0051",
+      "source": "得说夜一不愧是白打天才，尽管开局不利落入下风，但每次陆离的“致命攻击”她都躲开了。",
+      "target": "Phải nói Yoruichi không hổ là thiên tài Bạch Đả, dù mở màn bất lợi rơi vào thế hạ phong, nhưng mỗi lần Lục Ly tung ra “đòn tấn công chí mạng”, cô đều tránh được."
+    },
+    {
+      "segment_id": "0052",
+      "source": "可夜一夜明白久守必失的道理，尤其是面对陆离这样的白打高手，若是不能找到翻盘点，那她被击中要害败北也只是时间问题。",
+      "target": "Thế nhưng Yoruichi cũng hiểu rõ đạo lý phòng thủ lâu tất sơ hở, đặc biệt là khi đối mặt với một cao thủ Bạch Đả như Lục Ly, nếu cô không tìm được cơ hội lật ngược thế cờ thì việc bị đánh trúng điểm yếu dẫn đến bại bắc cũng chỉ là vấn đề thời gian."
+    },
+    {
+      "segment_id": "0053",
+      "source": "剧烈的运动让她额头布满了细密的汗珠，而她也在大脑中飞速思考破局的方式。",
+      "target": "Vận động kịch liệt khiến vầng trán cô lấm tấm những giọt mồ hôi mịn, đồng thời đại não của cô cũng đang nhanh chóng suy nghĩ phương án phá cục."
+    },
+    {
+      "segment_id": "0054",
+      "source": "久违的，四枫院家的白打天才认真了起来，时间在夜一眼中都仿佛变慢了。",
+      "target": "Đã lâu lắm rồi, thiên tài Bạch Đả của nhà Shihoin mới nghiêm túc đến vậy, thời gian trong mắt Yoruichi như thể cũng chậm lại."
+    },
+    {
+      "segment_id": "0055",
+      "source": "终于，她抓到了一丝机会，在陆离那一脚落空后，猛然腰身发力，一双长腿如同水蛇一般缠了上去。",
+      "target": "Cuối cùng, cô cũng chộp được một tia cơ hội. Ngay khi cú đá kia của Lục Ly hụt, eo cô đột ngột phát lực, đôi chân dài vươn lên quấn lấy cậu giống như thủy xà."
+    },
+    {
+      "segment_id": "0056",
+      "source": "感谢Grand、BB打赏的3000点币，感谢黄不谷打赏的1000点币，浅梦U墨溪打赏的600点币，感谢武祖顾少伤打赏的500点币，感谢掉在盐里的愚者打赏的500点币，感谢大侦探皮卡丘打赏 of 100点币",
+      "target": "Cảm ơn Grand, BB đã ủng hộ 3000 điểm tệ, cảm ơn Hoàng Bất Cốc đã ủng hộ 1000 điểm tệ, Thiển Mộng U Mặc Khê đã ủng hộ 600 điểm tệ, cảm ơn Võ Tổ Cố Thiếu Thương đã ủng hộ 500 điểm tệ, cảm ơn Kẻ Ngu Rơi Vào Trong Muối đã ủng hộ 500 điểm tệ, cảm ơn Thám Tử Lừng Danh Pikachu đã ủng hộ 100 điểm tệ."
+    }
+  ]
+}
+```
