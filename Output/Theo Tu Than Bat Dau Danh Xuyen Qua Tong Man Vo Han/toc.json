@@ -30,11 +30,6 @@
     "relative_path": "output/Chương 0006 - Chương 6 Bài kiểm tra nhập học.md"
   },
   {
-    "chapter_number": 7,
-    "title": "Chương 7: Kiếm đạo? Ta chưa từng học nha",
-    "relative_path": "output/Chương 0007 - Chương 7 Kiếm đạo Ta chưa từng học nha.md"
-  },
-  {
     "chapter_number": 8,
     "title": "Chương 8: Bạch Đả, Yoruichi (Ba canh cầu phiếu)",
     "relative_path": "output/Chương 0008 - Chương 8 Bạch Đả, Yoruichi (Ba canh cầu phiếu).md"
@@ -48,5 +43,10 @@
     "chapter_number": 10,
     "title": "Chương 10: Đại Quỷ Đạo Trưởng",
     "relative_path": "output/Chương 0010 - Chương 10 Đại Quỷ Đạo Trưởng.md"
+  },
+  {
+    "chapter_number": 7,
+    "title": "Chương 7: Kiếm đạo? Ta chưa từng học nha",
+    "relative_path": "output/Chương 0007 - Chương 7 Kiếm đạo Ta chưa từng học nha.md"
   }
 ]

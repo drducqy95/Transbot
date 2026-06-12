@@ -124,6 +124,26 @@ Chapter 5 completed via pipeline.
 ### Summary
 Chapter 6 completed via pipeline.
 
+## Chapter 0007 - Chương 7: Kiếm đạo? Ta chưa từng học nha
+
+### Summary
+Chapter 7 completed via pipeline.
+
+## Chapter 0008 - Chương 8: Bạch Đả, Yoruichi (Ba canh cầu phiếu)
+
+### Summary
+Chapter 8 completed via pipeline.
+
+## Chapter 0009 - Chương 9: Đè Yoruichi xuống đất ma sát
+
+### Summary
+Chapter 9 completed via pipeline.
+
+## Chapter 0010 - Chương 10: Đại Quỷ Đạo Trưởng
+
+### Summary
+Chapter 10 completed via pipeline.
+
 
 ## Source Chapter 7 - 0007 剑道？我没学过啊
 ```json

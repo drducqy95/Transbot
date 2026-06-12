@@ -1,16 +1,24 @@
 ```json
 {
-  "approved": [],
-  "rejected": [
-    {
-      "item": "主线任务第二",
-      "reason": "This is a generic phrase meaning 'Second main quest' and does not need to be tracked in the glossary."
-    },
-    {
-      "item": "任务内容：",
-      "reason": "This is a generic phrase meaning 'Quest content:' and does not need to be tracked in the glossary."
-    }
-  ],
-  "uncertain": []
+  "approved": {
+    "names": [],
+    "terms": [
+      "任务内容："
+    ]
+  },
+  "rejected": {
+    "names": [],
+    "terms": [
+      "主线任务第二"
+    ]
+  },
+  "uncertain": {
+    "names": [],
+    "terms": []
+  }
 }
 ```
+
+**Reasoning:**
+- **`任务内容：` (Approved):** This matches the pattern of UI/System labels found in your glossary (like `天赋评级：`), making it a good candidate to keep for translation consistency.
+- **`主线任务第二` (Rejected):** This appears to be a bad extraction that includes the sequence/number ("第二" meaning "second"). The actual term should likely just be `主线任务` (Main Quest).

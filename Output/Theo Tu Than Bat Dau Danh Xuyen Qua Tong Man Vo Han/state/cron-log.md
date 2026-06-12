@@ -8,3 +8,4 @@
 - 2026-06-12 14:32 | Chapter 8 | completed | Chương 0008 - Chương 8 Bạch Đả, Yoruichi (Ba canh cầu phiếu).md
 - 2026-06-12 14:51 | Chapter 9 | completed | Chương 0009 - Chương 9 Đè Yoruichi xuống đất ma sát.md
 - 2026-06-12 15:02 | Chapter 10 | completed | Chương 0010 - Chương 10 Đại Quỷ Đạo Trưởng.md
+- 2026-06-12 15:46 | Chapter 7 | completed | Chương 0007 - Chương 7 Kiếm đạo Ta chưa từng học nha.md
