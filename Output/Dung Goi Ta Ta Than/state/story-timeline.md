@@ -453,3 +453,8 @@ Chapter 54 completed via pipeline.
 
 ### Summary
 Chapter 55 completed via pipeline.
+
+## Chapter 0056 - Chương 56: Chuyên tinh và kiêm tu
+
+### Summary
+Chapter 56 completed via pipeline.

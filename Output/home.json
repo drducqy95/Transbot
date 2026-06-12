@@ -196,11 +196,11 @@
           "title": "Đông phương"
         }
       ],
-      "completed_chapters": 56,
+      "completed_chapters": 57,
       "total_chapters": 968,
-      "latest_chapter": "Chương 55: Tế đàn tà thần? Có thể phá không?",
+      "latest_chapter": "Chương 56: Chuyên tinh và kiêm tu",
       "detail": "Tiến độ: 54/968 chương | Mới nhất: Chương 54: Cứ điểm tạm thời",
-      "updated_at": "2026-06-12T14:04:03+07:00",
+      "updated_at": "2026-06-12T14:25:08+07:00",
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Dung Goi Ta Ta Than/README.md",
       "toc_path": "Output/Dung Goi Ta Ta Than/toc.json"
@@ -971,7 +971,7 @@
     }
   ],
   "metadata": {
-    "generated_at": "2026-06-12T14:24:14+07:00",
+    "generated_at": "2026-06-12T14:25:08+07:00",
     "total_books": 17,
     "source": "Dichtrung/Output"
   },

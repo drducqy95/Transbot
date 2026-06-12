@@ -1,0 +1,408 @@
+```json
+{
+  "chapter_number": 56,
+  "chapter_title_vi": "Chương 56: Chuyên tinh và kiêm tu",
+  "segments": [
+    {
+      "segment_id": "0001",
+      "source": "# 第56章 专精与兼修",
+      "target": "# Chương 56: Chuyên tinh và kiêm tu"
+    },
+    {
+      "segment_id": "0002",
+      "source": "事实证明，人的底线一旦被打破，滑坡速度飞快。",
+      "target": "Thực tế chứng minh, một khi giới hạn cuối cùng của con người bị phá vỡ, tốc độ trượt dốc sẽ cực kỳ nhanh."
+    },
+    {
+      "segment_id": "0003",
+      "source": "求知教派的信徒们不仅胆子大，动手能力也强的可怕。",
+      "target": "Tín đồ Giáo phái Cầu Tri không chỉ to gan, mà khả năng thực hành cũng mạnh đến đáng sợ."
+    },
+    {
+      "segment_id": "0004",
+      "source": "围着地窟中的祭坛一边讨论着，一边就有人上手尝试着从上面掰点儿什么下来。",
+      "target": "Vây quanh tế đàn trong địa quật, họ vừa thảo luận, vừa có người tiện tay thử bẻ một thứ gì đó từ trên xuống."
+    },
+    {
+      "segment_id": "0005",
+      "source": "“咔嚓。”",
+      "target": "\"Rắc.\""
+    },
+    {
+      "segment_id": "0006",
+      "source": "土质的祭坛并不怎么结实。",
+      "target": "Tế đàn bằng đất vốn không được chắc chắn cho lắm."
+    },
+    {
+      "segment_id": "0007",
+      "source": "一块雕刻成可怖魔物面孔的塑像被咔得一下掰掉了半个脑袋。",
+      "target": "Một bức tượng điêu khắc khuôn mặt ma vật đáng sợ bị bẻ cái rắc rụng mất nửa cái đầu."
+    },
+    {
+      "segment_id": "0008",
+      "source": "“就这？”",
+      "target": "\"Chỉ vậy thôi sao?\""
+    },
+    {
+      "segment_id": "0009",
+      "source": "“这邪神的祭坛看着也不怎么危险啊！”",
+      "target": "\"Cái tế đàn tà thần này nhìn cũng đâu có nguy hiểm gì đâu!\""
+    },
+    {
+      "segment_id": "0010",
+      "source": "这帮求知教派的信徒现在对邪神眷属的理解，就是那群血牙帮的混混。",
+      "target": "Đám tín đồ Giáo phái Cầu Tri này bây giờ đối với khái niệm quyến thuộc tà thần, ấn tượng chỉ gói gọn trong đám lưu manh của Băng Huyết Nha."
+    },
+    {
+      "segment_id": "0011",
+      "source": "刚开始还会因为对邪神的固有印象而有些害怕。",
+      "target": "Lúc mới bắt đầu có lẽ còn hơi sợ hãi vì ấn tượng cố hữu về tà thần."
+    },
+    {
+      "segment_id": "0012",
+      "source": "现在嘛。",
+      "target": "Nhưng bây giờ ấy à."
+    },
+    {
+      "segment_id": "0013",
+      "source": "打得多了，根本不带怕的。",
+      "target": "Đánh nhau nhiều rồi, căn bản là không hề biết sợ là gì."
+    },
+    {
+      "segment_id": "0014",
+      "source": "还有人倒反天罡，开始嫌弃落单的血牙帮不够多，拿不到足够的正义点数和传奇经验。",
+      "target": "Thậm chí còn có kẻ đảo lộn phép tắc, bắt đầu chê bọn Băng Huyết Nha đi lẻ không đủ nhiều, không kiếm đủ điểm chính nghĩa và kinh nghiệm truyền kỳ."
+    },
+    {
+      "segment_id": "0015",
+      "source": "有几个思维跳脱的信徒，甚至好奇地盯着祭坛，产生了大胆的想法：",
+      "target": "Có vài tín đồ tư duy bay bổng thậm chí còn tò mò nhìn chằm chằm vào tế đàn, nảy sinh một ý tưởng táo bạo:"
+    },
+    {
+      "segment_id": "0016",
+      "source": "“如果我们用这个祭坛人为的制造魔物出来，然后立马消灭掉，能不能得到传奇经验啊？”",
+      "target": "\"Nếu chúng ta dùng tế đàn này để nhân tạo ra ma vật, sau đó tiêu diệt ngay lập tức, liệu có kiếm được kinh nghiệm truyền kỳ không nhỉ?\""
+    },
+    {
+      "segment_id": "0017",
+      "source": "“我们又不是邪神的信徒，怎么制造魔物？”",
+      "target": "\"Chúng ta đâu phải là tín đồ của tà thần, làm sao chế tạo được ma vật?\""
+    },
+    {
+      "segment_id": "0018",
+      "source": "“那还不简单！”",
+      "target": "\"Chuyện đó còn không đơn giản sao!\""
+    },
+    {
+      "segment_id": "0019",
+      "source": "“有求知之神在，你不是暗影之神的信徒也能用出潜行，那同样的道理，只要知道邪神相关的祷词，应该也能让邪神回应吧？”",
+      "target": "\"Có Thần Cầu Tri ở đây, cậu không phải là tín đồ của Thần Ám Ảnh mà vẫn dùng được Tiềm Hành đó thôi. Vậy cùng một đạo lý, chỉ cần biết được lời cầu nguyện liên quan đến tà thần, chắc cũng có thể khiến tà thần đáp lại chứ?\""
+    },
+    {
+      "segment_id": "0020",
+      "source": "培特在旁边听得脸色发黑。",
+      "target": "Pete ở bên cạnh nghe mà mặt mày đen kịt."
+    },
+    {
+      "segment_id": "0021",
+      "source": "再让这帮大胆的家伙思维发散下去，求知教派怕是真的要成信仰邪神的异端教会了！",
+      "target": "Cứ để đám người to gan này mặc sức suy diễn tiếp, Giáo phái Cầu Tri e rằng sẽ thực sự trở thành giáo hội dị đoan tín ngưỡng tà thần mất!"
+    },
+    {
+      "segment_id": "0022",
+      "source": "赶紧清了清嗓子，吸引了地窟中众人的注意。",
+      "target": "Cậu vội vàng hắng giọng, thu hút sự chú ý của mọi người trong địa quật."
+    },
+    {
+      "segment_id": "0023",
+      "source": "“别惦记那个祭坛了，我们还有正事要做！”",
+      "target": "\"Đừng nhớ thương cái tế đàn đó nữa, chúng ta còn việc chính phải làm!\""
+    },
+    {
+      "segment_id": "0024",
+      "source": "……",
+      "target": "..."
+    },
+    {
+      "segment_id": "0025",
+      "source": "正义点数的兑换比例被临时调高到5:1，意味着所有参与打击血牙帮活动的信徒们可以获得的知识点数直接翻倍。",
+      "target": "Tỷ lệ quy đổi điểm chính nghĩa tạm thời được nâng lên thành 5:1, đồng nghĩa với việc tất cả các tín đồ tham gia vào hoạt động đả kích Băng Huyết Nha sẽ được nhân đôi Điểm Tri Thức nhận được."
+    },
+    {
+      "segment_id": "0026",
+      "source": "不过，拿到知识点数，具体兑换成哪些知识，这无疑是个需要谨慎考虑的问题。",
+      "target": "Có điều, lấy được Điểm Tri Thức rồi, cụ thể đổi lấy những tri thức nào, đây chắc chắn là một vấn đề cần phải cân nhắc cẩn thận."
+    },
+    {
+      "segment_id": "0027",
+      "source": "无论战士、法师，还是潜行者、牧师、游侠。",
+      "target": "Bất kể là Chiến Sĩ, Pháp Sư, hay là Kẻ Tiềm Hành, Mục Sư, Du Hiệp."
+    },
+    {
+      "segment_id": "0028",
+      "source": "每条职业道路都有种类繁多的内容。",
+      "target": "Mỗi con đường chức nghiệp đều có nội dung vô cùng phong phú."
+    },
+    {
+      "segment_id": "0029",
+      "source": "起步阶段，大家入门的部分基本一致。",
+      "target": "Ở giai đoạn khởi bước, phần nhập môn của mọi người cơ bản là giống nhau."
+    },
+    {
+      "segment_id": "0030",
+      "source": "以法师为例。",
+      "target": "Lấy Pháp Sư làm ví dụ."
+    },
+    {
+      "segment_id": "0031",
+      "source": "如果从未接触过魔法，首先需要花费3个知识点数得到调动魔网的相关知识。",
+      "target": "Nếu chưa từng tiếp xúc qua ma pháp, đầu tiên cần phải tiêu phí 3 Điểm Tri Thức để đổi lấy tri thức liên quan đến việc điều động Ma Võng."
+    },
+    {
+      "segment_id": "0032",
+      "source": "练习完成后，再花费15知识点数，根据得到的知识，开始尝试第一个1阶魔法【奥术飞弹】。",
+      "target": "Sau khi luyện tập hoàn thành, lại tiêu thêm 15 Điểm Tri Thức nữa, dựa theo tri thức nhận được, bắt đầu thử nghiệm pháp thuật cấp 1 đầu tiên [Phi Đạn Áo Thuật]."
+    },
+    {
+      "segment_id": "0033",
+      "source": "至于后续的知识兑换，存在着不同的路线。",
+      "target": "Còn về việc quy đổi tri thức sau đó, sẽ tồn tại những con đường khác nhau."
+    },
+    {
+      "segment_id": "0034",
+      "source": "有【寒冷射线】、【火焰冲击】之类的攻击魔法，以及【造水术】、【油腻术】、【蛛网术】、【羽落术】之类的生活魔法。",
+      "target": "Có các ma pháp công kích như [Tia Băng Giá], [Hỏa Diễm Xung Kích], cùng với các ma pháp sinh hoạt như [Thuật Tạo Nước], [Thuật Dầu Mỡ], [Thuật Mạng Nhện], [Thuật Lông Vũ Rơi]."
+    },
+    {
+      "segment_id": "0035",
+      "source": "除此之外，还有诸如【奥术亲和】、【冰霜亲和】、【火焰亲和】之类能够长期存在、可以改变自身状态的“加成魔法”。",
+      "target": "Ngoài ra, còn có các \"ma pháp gia thành\" có thể tồn tại lâu dài, thay đổi trạng thái bản thân như [Độ Tương Thích Áo Thuật], [Độ Tương Thích Băng Sương], [Độ Tương Thích Hỏa Diễm]."
+    },
+    {
+      "segment_id": "0036",
+      "source": "重点在于，这些“加成魔法”之间的使用效果可能是互斥的。",
+      "target": "Điểm mấu chốt nằm ở chỗ, hiệu quả sử dụng giữa các \"ma pháp gia thành\" này có thể bài xích lẫn nhau."
+    },
+    {
+      "segment_id": "0037",
+      "source": "比如，一位法师给自己加持了【奥术亲和】状态，那他就不能再令自己获得【冰霜亲和】的魔法状态。",
+      "target": "Ví dụ, một Pháp Sư tự gia trì trạng thái [Độ Tương Thích Áo Thuật] cho mình, vậy anh ta không thể nào khiến bản thân nhận thêm trạng thái ma pháp [Độ Tương Thích Băng Sương] nữa."
+    },
+    {
+      "segment_id": "0038",
+      "source": "强行施加的话，会导致前一个魔法状态消散。",
+      "target": "Nếu cưỡng ép thi triển, sẽ khiến trạng thái ma pháp trước đó bị tan biến."
+    },
+    {
+      "segment_id": "0039",
+      "source": "为了最大化利用这些加成魔法的效果。",
+      "target": "Để tối đa hóa lợi ích từ hiệu quả của những ma pháp gia thành này."
+    },
+    {
+      "segment_id": "0040",
+      "source": "法师职业者们衍生出了不同的流派。",
+      "target": "Các chức nghiệp giả Pháp Sư đã sản sinh ra những trường phái khác nhau."
+    },
+    {
+      "segment_id": "0041",
+      "source": "尽量将有限的精力投入到与流派相关的魔法，这种策略被称之为“专精”。 \t\t \t\t即，专精于某个类型的魔法。",
+      "target": "Cố gắng đầu tư tinh lực có hạn vào những ma pháp liên quan đến trường phái, chiến lược này được gọi là \"chuyên tinh\". Tức là, chuyên tinh vào một loại hình ma pháp cụ thể nào đó."
+    },
+    {
+      "segment_id": "0042",
+      "source": "培特和盖尔都是卡罗恩学院奥法学派的学员，他们两个学习的流派便是“奥术亲和”路线。",
+      "target": "Pete và Gale đều là học viên của trường phái Huyền thuật ở Học viện Caroen, trường phái mà cả hai theo học chính là con đường \"độ tương thích áo thuật\"."
+    },
+    {
+      "segment_id": "0043",
+      "source": "如果能顺利毕业的话，他们的3阶法师证明上也会写明，他们属于“奥术法师”。",
+      "target": "Nếu có thể thuận lợi tốt nghiệp, trên chứng nhận Pháp Sư cấp 3 của họ cũng sẽ ghi rõ, họ thuộc về \"Pháp Sư Áo Thuật\"."
+    },
+    {
+      "segment_id": "0044",
+      "source": "下城区这些被传教拉进求知教派的信徒，过去都是些普通人，对魔法的种类不怎么了解。",
+      "target": "Những tín đồ ở Khu Hạ Thành bị kéo vào Giáo phái Cầu Tri thông qua truyền giáo này, trước đây đều là người bình thường, không hiểu biết nhiều về các loại ma pháp."
+    },
+    {
+      "segment_id": "0045",
+      "source": "受到培特影响，绝大部分都选择了【奥术飞弹】作为自己的第一个1阶魔法。",
+      "target": "Dưới sự ảnh hưởng của Pete, tuyệt đại đa số đều chọn [Phi Đạn Áo Thuật] làm pháp thuật cấp 1 đầu tiên của mình."
+    },
+    {
+      "segment_id": "0046",
+      "source": "“如果各位打算继续选择奥术路线，我的建议是，优先将知识点数用来兑换【奥术亲和】和【节能施法（1阶）】这两个加成魔法。”培特向其他法师信徒们科普。",
+      "target": "\"Nếu mọi người dự định tiếp tục chọn con đường áo thuật, gợi ý của tôi là hãy ưu tiên dùng Điểm Tri Thức để đổi lấy hai ma pháp gia thành là [Độ Tương Thích Áo Thuật] và [Thi Pháp Tiết Kiệm (cấp 1)].\" Pete giải thích kiến thức cho các tín đồ Pháp Sư khác."
+    },
+    {
+      "segment_id": "0047",
+      "source": "“奥术亲和可以小幅度增加奥术系魔法的威力。”",
+      "target": "\"Độ Tương Thích Áo Thuật có thể gia tăng sức mạnh của ma pháp hệ áo thuật theo biên độ nhỏ.\""
+    },
+    {
+      "segment_id": "0048",
+      "source": "“节能施法（1阶）则是在释放1阶奥术魔法时，有一定概率得到魔网馈赠，补充消耗的法术位……哦，不对，是消耗的精神力。”",
+      "target": "\"Thi Pháp Tiết Kiệm (cấp 1) thì là khi thi triển ma pháp áo thuật cấp 1, có một tỷ lệ nhất định nhận được sự ban tặng của Ma Võng, bổ sung cho Pháp thuật vị đã tiêu hao... À, không đúng, là tinh thần lực đã tiêu hao.\""
+    },
+    {
+      "segment_id": "0049",
+      "source": "“即使是后面尝试学习掌控高阶的奥术魔法，这些加成魔法也可以继续发挥作用。”",
+      "target": "\"Cho dù sau này cố gắng học cách nắm vững ma pháp áo thuật cấp cao, những ma pháp gia thành này vẫn có thể tiếp tục phát huy tác dụng.\""
+    },
+    {
+      "segment_id": "0050",
+      "source": "这些加成魔法都是培特以前在卡罗恩学院的课上听说过的。",
+      "target": "Những ma pháp gia thành này đều là kiến thức Pete từng nghe qua trong giờ học ở Học viện Caroen trước đây."
+    },
+    {
+      "segment_id": "0051",
+      "source": "跟攻击魔法一样，虽然他懂该怎么选择合适的魔法，可以前怎么向魔法女神祈祷都得不到回应。",
+      "target": "Giống như ma pháp công kích, mặc dù cậu hiểu nên chọn loại ma pháp phù hợp ra sao, nhưng trước kia có cầu nguyện Nữ thần Ma pháp thế nào cũng chẳng nhận được sự hồi đáp."
+    },
+    {
+      "segment_id": "0052",
+      "source": "现在就不一样了。",
+      "target": "Bây giờ thì khác rồi."
+    },
+    {
+      "segment_id": "0053",
+      "source": "有求知之神罩着，只要知识点数够，他想学哪个就能学哪个！",
+      "target": "Có Thần Cầu Tri bảo kê, chỉ cần đủ Điểm Tri Thức, cậu muốn học cái nào thì học cái đó!"
+    },
+    {
+      "segment_id": "0054",
+      "source": "有人提出疑问：",
+      "target": "Có người đặt ra thắc mắc:"
+    },
+    {
+      "segment_id": "0055",
+      "source": "“那如果我还想试试引动火焰或凝结寒冰的魔法，我就不能把他们都学了，然后想用哪个用哪个嘛？”",
+      "target": "\"Vậy nếu tôi muốn thử cả ma pháp kích động ngọn lửa hay ngưng tụ băng hàn, chẳng lẽ tôi không thể học hết chúng, rồi muốn dùng cái nào thì dùng sao?\""
+    },
+    {
+      "segment_id": "0056",
+      "source": "培特耸了耸肩，淡定的解释道：“可以是肯定可以的。”",
+      "target": "Pete nhún vai, bình tĩnh giải thích: \"Được thì chắc chắn là được.\""
+    },
+    {
+      "segment_id": "0057",
+      "source": "“事实上，有不少人都有类似你这样的想法。”",
+      "target": "\"Trên thực tế, cũng có không ít người có cùng suy nghĩ giống anh.\""
+    },
+    {
+      "segment_id": "0058",
+      "source": "“只不过，对那些信仰魔法女神的法师来说，这意味着要花费更多的努力去祈求女神赐福相应的法术，修行难度会大幅度增加。”",
+      "target": "\"Có điều, đối với những Pháp Sư tín ngưỡng Nữ thần Ma pháp, điều này đồng nghĩa với việc phải bỏ ra nhiều nỗ lực hơn để cầu xin nữ thần ban phước cho pháp thuật tương ứng, độ khó tu hành sẽ gia tăng diện rộng.\""
+    },
+    {
+      "segment_id": "0059",
+      "source": "“即使是在求知教派，虽然学习魔法不用再看魔法女神的脸色。”",
+      "target": "\"Cho dù là ở Giáo phái Cầu Tri, mặc dù việc học ma pháp không cần phải nhìn sắc mặt của Nữ thần Ma pháp nữa.\""
+    },
+    {
+      "segment_id": "0060",
+      "source": "“但兑换相应知识需要知识点数吧？”",
+      "target": "\"Nhưng quy đổi tri thức tương ứng cũng cần Điểm Tri Thức mà đúng không?\""
+    },
+    {
+      "segment_id": "0061",
+      "source": "“将一个魔法练习到能够熟练施展需要时间精力吧？”",
+      "target": "\"Luyện tập một ma pháp đến mức có thể thi triển thuần thục cũng cần phải có thời gian và tinh lực chứ?\""
+    },
+    {
+      "segment_id": "0062",
+      "source": "“兼修虽然能力更加全面，但想达到跟同阶专精某流派法师差不多的效果，那就需要付出更多的努力，更长的时间。”",
+      "target": "\"Kiêm tu mặc dù năng lực toàn diện hơn, nhưng muốn đạt được hiệu quả tương đương với các Pháp Sư chuyên tinh một trường phái nào đó cùng cấp, thì cần phải trả giá bằng sự nỗ lực nhiều hơn, và khoảng thời gian dài hơn.\""
+    },
+    {
+      "segment_id": "0063",
+      "source": "“可能你还没追上人家，说不定对方已经晋升到下个阶段了。”",
+      "target": "\"Có khi anh còn chưa theo kịp người ta, đối phương có khi đã thăng cấp lên giai đoạn tiếp theo rồi.\""
+    },
+    {
+      "segment_id": "0064",
+      "source": "“具体是要专精还是兼修，取决于自己的选择。”",
+      "target": "\"Cụ thể là muốn chuyên tinh hay kiêm tu, hoàn toàn phụ thuộc vào sự lựa chọn của bản thân.\""
+    },
+    {
+      "segment_id": "0065",
+      "source": "地窟另一边，布兰登为首的十几名战士职业的信徒也在激烈讨论着。",
+      "target": "Ở một diễn biến khác trong địa quật, nhóm mười mấy tín đồ chức nghiệp Chiến Sĩ do Brandon dẫn đầu cũng đang thảo luận vô cùng sôi nổi."
+    },
+    {
+      "segment_id": "0066",
+      "source": "“要我说，就该先兑换这个【双手剑掌握-基础】，然后再兑换一个【怒气勃发】，这样就能打出更多威力更大的【英勇打击】。”",
+      "target": "\"Theo tôi thấy, nên đổi lấy [Thông Thạo Kiếm Hai Tay - Căn Bản] này trước, rồi đổi tiếp một cái [Bộc Phát Phẫn Nộ], như thế là có thể tung ra nhiều cú [Anh Dũng Đả Kích] có uy lực lớn hơn.\""
+    },
+    {
+      "segment_id": "0067",
+      "source": "布兰登对剑类武器，尤其是双手剑情有独钟。",
+      "target": "Brandon dành sự ưu ái đặc biệt cho vũ khí thuộc dòng kiếm, đặc biệt là loại kiếm hai tay."
+    },
+    {
+      "segment_id": "0068",
+      "source": "虽然还没找到趁手的武器，这两天一直用着他在滚滚螺栓工坊偷拿的撬棍，但总惦记着要找把适合自己的双手大剑。",
+      "target": "Dù chưa tìm được vũ khí thuận tay, hai ngày nay vẫn luôn xài thanh xà beng cậu chôm ở Xưởng Bu-lông Lăn Tròn, nhưng trong lòng luôn đau đáu muốn kiếm một thanh đại kiếm hai tay phù hợp với mình."
+    },
+    {
+      "segment_id": "0069",
+      "source": "另一名战士信徒反驳。",
+      "target": "Một tín đồ Chiến Sĩ khác lên tiếng phản bác."
+    },
+    {
+      "segment_id": "0070",
+      "source": "“我觉得布兰登的思路不对！”",
+      "target": "\"Tôi thấy hướng đi của Brandon không đúng!\""
+    },
+    {
+      "segment_id": "0071",
+      "source": "“我们这种近身作战的打法，应该侧重于尽可能少受伤，我建议兑换【盾牌掌握-基础】和【盾牌格挡】这两个战技的知识！”",
+      "target": "\"Lối đánh tác chiến cận chiến như chúng ta, nên nghiêng về việc giảm thiểu tổn thương đến mức thấp nhất. Tôi đề nghị nên đổi lấy tri thức của hai chiến kỹ [Thông Thạo Khiên - Căn Bản] và [Đỡ Đòn Bằng Khiên]!\""
+    },
+    {
+      "segment_id": "0072",
+      "source": "“能扛得住最重要！”",
+      "target": "\"Chống chịu được mới là quan trọng nhất!\""
+    },
+    {
+      "segment_id": "0073",
+      "source": "“不然万一上去就被对方撂倒了，哪里有机会用什么英勇打击。”",
+      "target": "\"Kẻo lỡ như vừa xông lên đã bị đối phương quật ngã, thì lấy đâu ra cơ hội mà dùng anh dũng đả kích gì đó chứ.\""
+    },
+    {
+      "segment_id": "0074",
+      "source": "又一人反驳：",
+      "target": "Lại có người phản bác:"
+    },
+    {
+      "segment_id": "0075",
+      "source": "“我觉得你们都不对，应该兑换【盾牌掌握-基础】和【怒气勃发】，能抗又能打才是王道！”",
+      "target": "\"Tôi lại thấy cả hai cậu đều sai bét, phải đổi [Thông Thạo Khiên - Căn Bản] và [Bộc Phát Phẫn Nộ] mới chuẩn. Vừa trâu bò chống chịu vừa đánh đấm được mới là chân lý vương đạo!\""
+    },
+    {
+      "segment_id": "0076",
+      "source": "可以兑换的知识种类实在太多，战士这边又不像法师，有培特那种接受了成体系教学，可以指点思路的领路者。",
+      "target": "Các chủng loại tri thức có thể quy đổi quả thực là quá nhiều. Bên nhóm Chiến Sĩ lại chẳng giống Pháp Sư, không có được một người dẫn đường đã trải qua hệ thống giáo dục bài bản, đủ sức định hướng tư duy như Pete."
+    },
+    {
+      "segment_id": "0077",
+      "source": "以至于，一时之间谁也说服不了谁。",
+      "target": "Cho nên, trong nhất thời chẳng ai chịu thuyết phục được ai."
+    },
+    {
+      "segment_id": "0078",
+      "source": "……",
+      "target": "..."
+    },
+    {
+      "segment_id": "0079",
+      "source": "感谢书友20170130193406151投出的1张月票，感谢各位投推荐票的书友，谢谢支持！另，新书期如果可以的话，求个追读（指读完最新章节），蟹蟹~",
+      "target": "Cảm ơn thư hữu 20170130193406151 đã ném 1 vé tháng, cảm ơn các thư hữu đã bỏ phiếu đề cử, xin cảm ơn đã ủng hộ! Ngoài ra, trong thời kỳ sách mới, nếu được xin các bạn hãy theo dõi đọc (nghĩa là đọc hết chương mới nhất), cảm ơn nha~"
+    },
+    {
+      "segment_id": "0080",
+      "source": "PS：另稍作解释，求知教派职业体系魔改自WOW，如有雷同，不是巧合",
+      "target": "Tái bút: Xin giải thích thêm một chút, hệ thống chức nghiệp của Giáo phái Cầu Tri được cải biên từ WOW, nếu có điểm nào trùng hợp, thì đó không phải là tình cờ đâu."
+    }
+  ]
+}
+```

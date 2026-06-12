@@ -190,3 +190,4 @@ Audit: pass
 - 2026-06-12 11:48 | Chapter 53 | completed | Chương 0053 - Chương 53 Ý nghĩa đích thực trong giáo lý của Thần Cầu Tri.md
 - 2026-06-12 13:49 | Chapter 54 | completed | Chương 0054 - Chương 54 Cứ điểm tạm thời.md
 - 2026-06-12 14:04 | Chapter 55 | completed | Chương 0055 - Chương 55 Tế đàn tà thần Có thể phá không.md
+- 2026-06-12 14:25 | Chapter 56 | completed | Chương 0056 - Chương 56 Chuyên tinh và kiêm tu.md
