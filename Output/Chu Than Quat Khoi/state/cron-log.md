@@ -7,3 +7,4 @@
 - 2026-06-12 14:25 | Chapter 7 | completed | Chương 0007 - Chương 7 Tát Mãn Vu.md
 - 2026-06-12 14:44 | Chapter 8 | completed | Chương 0008 - Chương 8 Kiến bám.md
 - 2026-06-12 14:57 | Chapter 9 | completed | Chương 0009 - Chương 9 Hỏa công.md
+- 2026-06-12 15:16 | Chapter 10 | completed | Chương 0010 - Chương 10 Trở về.md
