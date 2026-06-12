@@ -9,3 +9,4 @@
 - 2026-06-12 14:59 | Chapter 7 | completed | Chương 0007 - Chương 7 Phong thần! Phong thần!.md
 - 2026-06-12 15:13 | Chapter 8 | completed | Chương 0008 - Chương 8 Tin vui lan truyền, chúc mừng Trò Chơi Vô Hạn chính thức mở server!.md
 - 2026-06-12 15:52 | Chapter 9 | completed | Chương 0009 - Chương 9 Khảo nghiệm.md
+- 2026-06-12 16:07 | Chapter 10 | completed | Chương 0010 - Chương 10 Kỵ sĩ! Võ tăng!.md
