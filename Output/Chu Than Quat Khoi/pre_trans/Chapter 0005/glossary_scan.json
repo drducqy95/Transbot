@@ -2,46 +2,46 @@
   {
     "source": "“大夏？！",
     "type": "term",
-    "status": "uncertain"
+    "status": "pending"
   },
   {
     "source": "一个信息在",
     "type": "term",
-    "status": "rejected"
+    "status": "pending"
   },
   {
     "source": "主线任务开启",
     "type": "term",
-    "status": "approved"
+    "status": "pending"
   },
   {
     "source": "任务目标：在",
     "type": "term",
-    "status": "uncertain"
+    "status": "pending"
   },
   {
     "source": "即时任务：到",
     "type": "term",
-    "status": "uncertain"
+    "status": "pending"
   },
   {
     "source": "叮！主线任务",
     "type": "term",
-    "status": "uncertain"
+    "status": "pending"
   },
   {
     "source": "场景介绍：大",
     "type": "term",
-    "status": "uncertain"
+    "status": "pending"
   },
   {
     "source": "支线任务：击",
     "type": "term",
-    "status": "uncertain"
+    "status": "pending"
   },
   {
     "source": "本次任务场景",
     "type": "term",
-    "status": "approved"
+    "status": "pending"
   }
 ]

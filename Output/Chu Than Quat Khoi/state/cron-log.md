@@ -10,3 +10,4 @@
 - 2026-06-12 15:16 | Chapter 10 | completed | Chương 0010 - Chương 10 Trở về.md
 - 2026-06-12 15:56 | Chapter 4 | completed | Chương 0004 - Chương 4 Đồng đội (Cầu cất chứa!!!).md
 - 2026-06-12 16:11 | Chapter 5 | completed | Chương 0005 - Chương 5 Nhiệm vụ (Cầu đề cử!).md
+- 2026-06-12 16:57 | Chapter 5 | completed | Chương 0005 - 0005 任务（求推荐！）.md
