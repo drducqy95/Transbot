@@ -1,0 +1,92 @@
+[
+  {
+    "source": "1阶：150",
+    "type": "term",
+    "status": "pending"
+  },
+  {
+    "source": "2阶：400",
+    "type": "term",
+    "status": "pending"
+  },
+  {
+    "source": "3阶：150",
+    "type": "term",
+    "status": "pending"
+  },
+  {
+    "source": "……\n活动",
+    "type": "term",
+    "status": "pending"
+  },
+  {
+    "source": "开启地图：解",
+    "type": "term",
+    "status": "pending"
+  },
+  {
+    "source": "当前兑换比例",
+    "type": "term",
+    "status": "pending"
+  },
+  {
+    "source": "活动介绍：隐",
+    "type": "term",
+    "status": "pending"
+  },
+  {
+    "source": "活动内容：维",
+    "type": "term",
+    "status": "pending"
+  },
+  {
+    "source": "活动奖励：视",
+    "type": "term",
+    "status": "pending"
+  },
+  {
+    "source": "活动技能（教",
+    "type": "term",
+    "status": "pending"
+  },
+  {
+    "source": "活动时间：1",
+    "type": "term",
+    "status": "pending"
+  },
+  {
+    "source": "活动期间，正",
+    "type": "term",
+    "status": "pending"
+  },
+  {
+    "source": "活动要求：达",
+    "type": "term",
+    "status": "pending"
+  },
+  {
+    "source": "状态显示：标",
+    "type": "term",
+    "status": "pending"
+  },
+  {
+    "source": "罪恶感知：出",
+    "type": "term",
+    "status": "pending"
+  },
+  {
+    "source": "解锁进度：0",
+    "type": "term",
+    "status": "pending"
+  },
+  {
+    "source": "阻止犯罪行为",
+    "type": "term",
+    "status": "pending"
+  },
+  {
+    "source": "限定活动期间",
+    "type": "term",
+    "status": "pending"
+  }
+]

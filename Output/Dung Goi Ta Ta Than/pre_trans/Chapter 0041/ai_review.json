@@ -1,0 +1,120 @@
+Here is the classification and review for the translation names and terms, based on the context of the translation project in [ai_review.json](file:///mnt/sdcard/My%20Agent/Transbot/Output/Dung%20Goi%20Ta%20Ta%20Than/pre_trans/Chapter%200041/ai_review.json):
+
+```json
+{
+  "approved": [
+    {
+      "source": "当前兑换比例",
+      "translation": "Tỷ lệ quy đổi hiện tại",
+      "type": "system",
+      "reason": "Thuật ngữ hiển thị tỷ lệ quy đổi giữa Điểm Chính Nghĩa và Điểm Tri Thức trên giao diện hệ thống."
+    },
+    {
+      "source": "阻止犯罪行为",
+      "translation": "Ngăn chặn hành vi phạm tội",
+      "type": "system",
+      "reason": "Hành vi/nhiệm vụ trong sự kiện giúp người chơi nhận được Điểm Chính Nghĩa."
+    }
+  ],
+  "rejected": [
+    {
+      "source": "……\n活动",
+      "reason": "Đoạn văn rác bị quét lỗi từ văn bản chứa dấu ba chấm, ký tự xuống dòng và chữ 'Hoạt động'."
+    },
+    {
+      "source": "限定活动期间",
+      "reason": "Không phải thuật ngữ hay tên riêng. Đây là trạng từ chỉ thời gian trong câu ('Trong thời gian sự kiện giới hạn...')."
+    }
+  ],
+  "uncertain": [
+    {
+      "source": "1阶：150",
+      "correct_source": "1阶：150正义点数",
+      "suggested_translation": "Cấp 1: 150 điểm chính nghĩa",
+      "reason": "Cụm từ bị cắt cụt ở cuối, thiếu '正义点数' (Điểm Chính Nghĩa)."
+    },
+    {
+      "source": "2阶：400",
+      "correct_source": "2阶：400正义点数",
+      "suggested_translation": "Cấp 2: 400 điểm chính nghĩa",
+      "reason": "Cụm từ bị cắt cụt ở cuối, thiếu '正义点数' (Điểm Chính Nghĩa)."
+    },
+    {
+      "source": "3阶：150",
+      "correct_source": "3阶：1500正义点数",
+      "suggested_translation": "Cấp 3: 1500 điểm chính nghĩa",
+      "reason": "Cụm từ bị cắt cụt nghiêm trọng ở cuối, mất một số 0 (1500 thành 150) và thiếu '正义点数'."
+    },
+    {
+      "source": "开启地图：解",
+      "correct_source": "开启地图：解锁“血色轮盘”地下赌场的地图及血牙帮首领信息",
+      "suggested_translation": "Mở bản đồ: Mở khóa bản đồ sòng bạc ngầm \"Vòng Quay Huyết Sắc\" và thông tin thủ lĩnh băng Bloodfang",
+      "reason": "Cụm từ bị cắt cụt chữ '锁...' ở cuối. Băng '血牙帮' đã được dịch thống nhất ở các chương trước là 'băng Bloodfang'."
+    },
+    {
+      "source": "活动介绍：隐",
+      "correct_source": "活动介绍",
+      "suggested_translation": "Giới thiệu sự kiện",
+      "reason": "Cụm từ tiêu đề giao diện bị cắt cụt và dính từ đầu tiên '隐' (trong '隐匿') của phần mô tả."
+    },
+    {
+      "source": "活动内容：维",
+      "correct_source": "活动内容",
+      "suggested_translation": "Nội dung sự kiện",
+      "reason": "Cụm từ tiêu đề giao diện bị cắt cụt và dính từ đầu tiên '维' (trong '维护') của phần nội dung."
+    },
+    {
+      "source": "活动奖励：视",
+      "correct_source": "活动奖励",
+      "suggested_translation": "Phần thưởng sự kiện",
+      "reason": "Cụm từ tiêu đề giao diện bị cắt cụt và dính từ đầu tiên '视' (trong '视...') của phần phần thưởng."
+    },
+    {
+      "source": "活动技能（教",
+      "correct_source": "活动技能（教派共享）",
+      "suggested_translation": "Kỹ năng sự kiện (Dùng chung cho giáo phái)",
+      "reason": "Cụm từ bị cắt cụt ở giữa phần trong ngoặc đơn."
+    },
+    {
+      "source": "活动时间：1",
+      "correct_source": "活动时间：15天",
+      "suggested_translation": "Thời gian sự kiện: 15 ngày",
+      "reason": "Cụm từ hiển thị thời hạn sự kiện bị cắt cụt mất phần '5天' (5 ngày)."
+    },
+    {
+      "source": "活动期间，正",
+      "correct_source": "活动期间，正义点数可兑换为相应的知识点数",
+      "suggested_translation": "Trong thời gian diễn ra sự kiện, Điểm Chính Nghĩa có thể quy đổi thành Điểm Tri Thức tương ứng",
+      "reason": "Mảnh câu thông báo bị cắt cụt ở giữa chừng."
+    },
+    {
+      "source": "活动要求：达",
+      "correct_source": "活动要求",
+      "suggested_translation": "Yêu cầu sự kiện",
+      "reason": "Cụm từ tiêu đề giao diện bị cắt cụt và dính từ đầu tiên '达' (trong '达成') của phần yêu cầu."
+    },
+    {
+      "source": "状态显示：标",
+      "correct_source": "状态显示：标记并显示血牙帮成员身份",
+      "suggested_translation": "Hiển thị trạng thái: Đánh dấu và hiển thị thân phận thành viên băng Bloodfang",
+      "reason": "Cụm từ bị cắt cụt chữ '记并...' ở cuối. Băng '血牙帮' dịch là 'băng Bloodfang'."
+    },
+    {
+      "source": "罪恶感知：出",
+      "correct_source": "罪恶感知：出现血牙帮相关犯罪行为时，自动提醒附近信徒",
+      "suggested_translation": "Cảm nhận tội ác: Tự động cảnh báo các tín đồ ở gần khi xuất hiện hành vi phạm tội liên quan đến băng Bloodfang",
+      "reason": "Cụm từ kỹ năng bị cắt cụt chữ '现...' ở cuối. Băng '血牙帮' dịch là 'băng Bloodfang'."
+    },
+    {
+      "source": "解锁进度：0",
+      "correct_source": "解锁进度",
+      "suggested_translation": "Tiến độ mở khóa",
+      "reason": "Tiêu đề thanh tiến trình bị cắt cụt chữ '/...' và đơn vị '正义点数'."
+    }
+  ]
+}
+```
+
+### Summary of Work:
+1. Located existing terms check for Chapter 41 under the `Dung Goi Ta Ta Than` directory at [ai_review.json](file:///mnt/sdcard/My%20Agent/Transbot/Output/Dung%20Goi%20Ta%20Ta%20Than/pre_trans/Chapter%200041/ai_review.json).
+2. Classified the 18 terms into approved, rejected, and uncertain categories with context, correct sources, suggested translations, and reasons.

@@ -1,0 +1,381 @@
+{
+  "chapter_number": 41,
+  "chapter_title_vi": "Chương 41: Bắt đầu sự kiện giới hạn",
+  "segments": [
+    {
+      "segment_id": "0001",
+      "source": "【活动介绍：隐匿的邪恶正在下城区蔓延，昔日平和安定的格林港正受到名为“血牙帮”的犯罪组织威胁，伟大的求知之神已经掌握了他们的罪恶证据，在这关键的时刻，诺文向信徒们发出征召！清理下城区！将危险消灭于萌芽之中！】",
+      "target": "[Giới thiệu sự kiện: Tội ác ẩn giấu đang lan tràn khắp Khu Hạ Thành. Cảng Green thanh bình và ổn định ngày nào giờ đây đang bị đe dọa bởi một tổ chức tội phạm mang tên “băng Bloodfang”. Thần Tri Thức vĩ đại đã nắm giữ các bằng chứng phạm tội của chúng. Vào thời khắc mấu chốt này, Norven ban phát lệnh triệu tập đến các tín đồ! Quét sạch Khu Hạ Thành! Tiêu diệt mối nguy hiểm ngay từ trong trứng nước!]"
+    },
+    {
+      "segment_id": "0002",
+      "source": "【活动时间：15天】",
+      "target": "[Thời gian sự kiện: 15 ngày]"
+    },
+    {
+      "segment_id": "0003",
+      "source": "【活动要求：达成1阶评级标准（具体要求查询后显示）】",
+      "target": "[Yêu cầu sự kiện: Đạt tiêu chuẩn đánh giá Cấp 1 (yêu cầu cụ thể sẽ hiển thị sau khi tra cứu)]"
+    },
+    {
+      "segment_id": "0004",
+      "source": "【活动内容：维护下城区治安，阻止血牙帮的犯罪行为，击败血牙帮成员】",
+      "target": "[Nội dung sự kiện: Duy trì an ninh trật tự Khu Hạ Thành, ngăn chặn hành vi phạm tội của băng Bloodfang, đánh bại thành viên băng Bloodfang]"
+    },
+    {
+      "segment_id": "0005",
+      "source": "【活动奖励：视阻止犯罪效果与击败血牙帮成员实力决定】",
+      "target": "[Phần thưởng sự kiện: Quyết định dựa trên hiệu quả ngăn chặn tội phạm và thực lực của thành viên băng Bloodfang bị đánh bại]"
+    },
+    {
+      "segment_id": "0006",
+      "source": "【阻止犯罪行为：1-500正义点数】",
+      "target": "[Ngăn chặn hành vi phạm tội: 1-500 Điểm Chính Nghĩa]"
+    },
+    {
+      "segment_id": "0007",
+      "source": "【1阶：150正义点数】",
+      "target": "[Cấp 1: 150 Điểm Chính Nghĩa]"
+    },
+    {
+      "segment_id": "0008",
+      "source": "【2阶：400正义点数】",
+      "target": "[Cấp 2: 400 Điểm Chính Nghĩa]"
+    },
+    {
+      "segment_id": "0009",
+      "source": "【3阶：1500正义点数】",
+      "target": "[Cấp 3: 1500 Điểm Chính Nghĩa]"
+    },
+    {
+      "segment_id": "0010",
+      "source": "【活动期间，正义点数可兑换为相应的知识点数。根据活动进程，提供不同兑换比例。】",
+      "target": "[Trong thời gian diễn ra sự kiện, Điểm Chính Nghĩa có thể quy đổi thành Điểm Tri Thức tương ứng. Tỷ lệ quy đổi sẽ khác nhau tùy thuộc vào tiến trình sự kiện.]"
+    },
+    {
+      "segment_id": "0011",
+      "source": "【当前兑换比例：10:1】",
+      "target": "[Tỷ lệ quy đổi hiện tại: 10:1]"
+    },
+    {
+      "segment_id": "0012",
+      "source": "【限定活动期间，强大的求知之神为祂的信徒们提供了有助于执行正义的专属活动技能】",
+      "target": "[Trong thời gian diễn ra sự kiện giới hạn, Thần Tri Thức hùng mạnh cung cấp cho các tín đồ của Ngài những kỹ năng sự kiện độc quyền nhằm hỗ trợ thực thi công lý.]"
+    },
+    {
+      "segment_id": "0013",
+      "source": "【活动技能（教派共享）：】",
+      "target": "[Kỹ năng sự kiện (Dùng chung cho giáo phái):]"
+    },
+    {
+      "segment_id": "0014",
+      "source": "【状态显示：标记并显示血牙帮成员身份】",
+      "target": "[Hiển thị trạng thái: Đánh dấu và hiển thị thân phận thành viên băng Bloodfang]"
+    },
+    {
+      "segment_id": "0015",
+      "source": "【解锁进度：0/10000正义点数】",
+      "target": "[Tiến độ mở khóa: 0/10000 Điểm Chính Nghĩa]"
+    },
+    {
+      "segment_id": "0016",
+      "source": "【罪恶感知：出现血牙帮相关犯罪行为时，自动提醒附近信徒】",
+      "target": "[Cảm nhận tội ác: Khi xuất hiện hành vi phạm tội liên quan đến băng Bloodfang, tự động cảnh báo cho các tín đồ ở gần]"
+    },
+    {
+      "segment_id": "0017",
+      "source": "【解锁进度：0/20000正义点数】",
+      "target": "[Tiến độ mở khóa: 0/20000 Điểm Chính Nghĩa]"
+    },
+    {
+      "segment_id": "0018",
+      "source": "【开启地图：解锁“血色轮盘”地下赌场的地图及血牙帮首领信息】",
+      "target": "[Mở bản đồ: Mở khóa bản đồ của sòng bạc ngầm “Vòng Quay Huyết Sắc” cùng thông tin về thủ lĩnh băng Bloodfang]"
+    },
+    {
+      "segment_id": "0019",
+      "source": "【解锁进度：0/50000正义点数】",
+      "target": "[Tiến độ mở khóa: 0/50000 Điểm Chính Nghĩa]"
+    },
+    {
+      "segment_id": "0020",
+      "source": "……",
+      "target": "……"
+    },
+    {
+      "segment_id": "0021",
+      "source": "活动介绍、具体规则、特殊技能什么的，培特全都一眼掠过，看都没看，最后他的印象里只剩下一句话：\n“正义点数可兑换为相应的知识点数！”",
+      "target": "Giới thiệu sự kiện, quy tắc cụ thể, kỹ năng đặc biệt này nọ, Pete đều lướt qua trong nháy mắt, chẳng thèm nhìn lấy một cái, cuối cùng trong đầu cậu chỉ còn sót lại một câu:\n“Điểm Chính Nghĩa có thể quy đổi thành Điểm Tri Thức tương ứng!”"
+    },
+    {
+      "segment_id": "0022",
+      "source": "虽然培特不知道为什么求知之神要清理下城区的血牙帮，但他知道他正急缺的知识点数有着落了！",
+      "target": "Tuy Pete không biết tại sao Thần Tri Thức lại muốn quét sạch băng Bloodfang ở Khu Hạ Thành, nhưng cậu biết rằng Điểm Tri Thức mà mình đang cực kỳ thiếu thốn đã có chỗ để kiếm rồi!"
+    },
+    {
+      "segment_id": "0023",
+      "source": "下城区那糟糕的治安环境，每天都有各种各样或大或小的犯罪在发生，闹事、斗殴、偷窃、抢劫、绑架、敲诈、催债屡见不鲜，而且其中大部分都跟血牙帮有着千丝万缕的联系。",
+      "target": "Tình hình trị an tồi tệ ở Khu Hạ Thành khiến cho mỗi ngày nơi đây đều xảy ra đủ loại tội phạm lớn nhỏ khác nhau. Gây rối, ẩu đả, trộm cắp, cướp bóc, bắt cóc, tống tiền, đòi nợ thuê xảy ra như cơm bữa, hơn nữa phần lớn trong số đó đều có mối liên hệ chằng chịt với băng Bloodfang."
+    },
+    {
+      "segment_id": "0024",
+      "source": "只要打击犯罪、击败血牙帮成员就能拿到奖励！",
+      "target": "Chỉ cần triệt phá tội phạm, đánh bại thành viên băng Bloodfang là có thể nhận được phần thưởng!"
+    },
+    {
+      "segment_id": "0025",
+      "source": "培特现在很清楚求知之神诺文的特点——从不画饼。",
+      "target": "Pete hiện tại hiểu rất rõ đặc điểm của Thần Tri Thức Norven — không bao giờ vẽ bánh vẽ."
+    },
+    {
+      "segment_id": "0026",
+      "source": "求知教派跟他曾经去过的辉光神教、公正教会之类的都不一样，那些教派最擅长的事情就是画饼。",
+      "target": "Giáo phái Tri Thức không giống với Giáo hội Huy Quang hay Giáo hội Công Chính mà cậu từng đến trước kia, những giáo phái đó việc giỏi nhất chính là vẽ bánh vẽ."
+    },
+    {
+      "segment_id": "0027",
+      "source": "他们也会组织类似的活动，维护治安、巩固下信仰，不过那时候在动员信徒的时候，说的都是些“多行善事更容易得到神明的认可，为神明献身奉献是信徒的荣耀”之类的套话。",
+      "target": "Họ cũng tổ chức các hoạt động tương tự để duy trì trật tự và củng cố tín ngưỡng. Thế nhưng lúc động viên tín đồ, họ toàn nói những câu khách sáo sáo rỗng kiểu như “Làm nhiều việc thiện sẽ dễ được thần minh công nhận hơn, hiến thân phụng sự thần minh là vinh quang của tín đồ”."
+    },
+    {
+      "segment_id": "0028",
+      "source": "饼画的很大很香，但要说实质的奖励，不好意思，微乎其微。",
+      "target": "Bánh vẽ tuy rất to rất thơm, nhưng nếu nói đến phần thưởng thực chất thì xin lỗi đi, ít tới mức đáng thương."
+    },
+    {
+      "segment_id": "0029",
+      "source": "求知之神这里可就不一样了！",
+      "target": "Nhưng ở chỗ Thần Tri Thức thì hoàn toàn khác!"
+    },
+    {
+      "segment_id": "0030",
+      "source": "没有教会画饼，诺文会直接向信徒们传下“神谕”。",
+      "target": "Không có chuyện giáo hội vẽ bánh vẽ, Norven sẽ trực tiếp ban xuống “thần dụ” cho các tín đồ."
+    },
+    {
+      "segment_id": "0031",
+      "source": "活动信息里说的很明白，做到什么事情能拿到什么奖励。",
+      "target": "Thông tin sự kiện ghi rất rõ ràng, hoàn thành việc gì sẽ nhận được phần thưởng nấy."
+    },
+    {
+      "segment_id": "0032",
+      "source": "这些都是被明确标注出来的，只要完成就有回报！",
+      "target": "Tất cả đều được đánh dấu rõ ràng, chỉ cần hoàn thành là có hồi báo!"
+    },
+    {
+      "segment_id": "0033",
+      "source": "“阻止一次犯罪，最多能拿到500正义点数，按照兑换比例来算，那就是50知识点数。”",
+      "target": "“Ngăn chặn một vụ phạm tội, tối đa có thể nhận được 500 Điểm Chính Nghĩa, tính theo tỷ lệ quy đổi thì chính là 50 Điểm Tri Thức.”"
+    },
+    {
+      "segment_id": "0034",
+      "source": "“我想兑换的3阶法术需要150知识点数，理想情况下，只要想办法阻止3场犯罪行为就行了！”",
+      "target": "“Pháp thuật Cấp 3 mình muốn đổi cần 150 Điểm Tri Thức, trong trường hợp lý tưởng, chỉ cần nghĩ cách ngăn chặn 3 vụ phạm tội là được rồi!”"
+    },
+    {
+      "segment_id": "0035",
+      "source": "培特快速地心算了一遍。",
+      "target": "Pete nhanh chóng nhẩm tính một lượt."
+    },
+    {
+      "segment_id": "0036",
+      "source": "简直是瞌睡来了有枕头，求知之神仿佛知道他缺什么似的，这场限定活动来的正是时候，刚好解了他急缺知识点数的燃眉之急。",
+      "target": "Thật đúng là buồn ngủ gặp chiếu manh, Thần Tri Thức cứ như biết cậu đang thiếu cái gì vậy. Sự kiện giới hạn này đến thật đúng lúc, giải quyết ngay được nhu cầu cấp bách về Điểm Tri Thức của cậu."
+    },
+    {
+      "segment_id": "0037",
+      "source": "“更重要的是，以我的实力，血牙帮的大部分人应该都威胁不到我！”",
+      "target": "“Quan trọng hơn là với thực lực của mình, phần lớn người của băng Bloodfang chắc hẳn không thể đe dọa được mình!”"
+    },
+    {
+      "segment_id": "0038",
+      "source": "虽然过去的培特是个纯水货法师，但在真正掌握攻击魔法后，他现在的实力，打几个血牙帮的普通人混混还是轻轻松松的。",
+      "target": "Mặc dù trước đây Pete chỉ là một pháp sư dỏm chính hiệu, nhưng sau khi thực sự nắm vững ma pháp tấn công, thực lực hiện tại của cậu đánh vài tên côn đồ bình thường của băng Bloodfang vẫn dư sức dễ dàng."
+    },
+    {
+      "segment_id": "0039",
+      "source": "“所以想要拿到正义点数，对我而言，最关键的其实是如何尽可能高效率地找到血牙帮的人！”",
+      "target": "“Cho nên để nhận được Điểm Chính Nghĩa, đối với mình, điều mấu chốt nhất thực ra là làm thế nào để tìm ra người của băng Bloodfang một cách hiệu quả nhất!”"
+    },
+    {
+      "segment_id": "0040",
+      "source": "“我对下城区了解的不够多，找人是我的弱项。”",
+      "target": "“Mình không hiểu rõ Khu Hạ Thành cho lắm, việc tìm người đúng là điểm yếu của mình.”"
+    },
+    {
+      "segment_id": "0041",
+      "source": "培特突然想起了一件事。",
+      "target": "Pete chợt nhớ ra một chuyện."
+    },
+    {
+      "segment_id": "0042",
+      "source": "“蕾娜之前不是说过……她家和石匠兄弟会正被血牙帮骚扰来着？！”",
+      "target": "“Không phải trước kia Lena từng nói... nhà cô ấy và Hội Anh Em Thợ Đá đang bị băng Bloodfang quấy rối sao?!”"
+    },
+    {
+      "segment_id": "0043",
+      "source": "“她应该对下城区足够了解，而且有这层矛盾在，血牙帮的成员甚至可能会主动找上门吧！”",
+      "target": "“Cô ấy chắc hẳn hiểu rất rõ về Khu Hạ Thành, hơn nữa với mối mâu thuẫn này, thành viên của băng Bloodfang thậm chí còn có thể chủ động tìm tới tận cửa ấy chứ!”"
+    },
+    {
+      "segment_id": "0044",
+      "source": "想到这里，培特坐不住了。",
+      "target": "Nghĩ đến đây, Pete đứng ngồi không yên."
+    },
+    {
+      "segment_id": "0045",
+      "source": "随随随便便找了件短款的衬衣套上，培特便打算第一时间赶去下城区。",
+      "target": "Tùy tiện vớ lấy một chiếc áo sơ mi dáng ngắn tròng vào người, Pete định lập tức lên đường tới Khu Hạ Thành."
+    },
+    {
+      "segment_id": "0046",
+      "source": "时间就是金钱。",
+      "target": "Thời gian chính là tiền bạc."
+    },
+    {
+      "segment_id": "0047",
+      "source": "距离卡罗恩学院的毕业考核只剩15天。",
+      "target": "Chỉ còn 15 ngày nữa là tới kỳ thi tốt nghiệp của Học viện Caroen."
+    },
+    {
+      "segment_id": "0048",
+      "source": "现在他耽误的每一分钟都可能是潜在的1点知识点数！",
+      "target": "Bây giờ mỗi một phút cậu lãng phí đều có thể là 1 Điểm Tri Thức tiềm năng!"
+    },
+    {
+      "segment_id": "0049",
+      "source": "看到培特又一次匆忙离开的样子，同宿舍的舍友忍不住好奇问道：\n“培特？你这是……不想努力了？”",
+      "target": "Thấy Pete lại một lần nữa vội vã rời đi, người bạn cùng phòng không nén nổi tò mò hỏi:\n“Pete? Cậu thế này là... định bỏ cuộc rồi à?”"
+    },
+    {
+      "segment_id": "0050",
+      "source": "舍友名叫盖尔，跟培特情况差不多，也是个雷亚克王国东部边境小贵族的后代。",
+      "target": "Người bạn cùng phòng tên là Gael, tình cảnh cũng xấp xỉ như Pete, cũng là hậu duệ của một quý tộc nhỏ ở vùng biên giới phía đông Vương quốc Rayak."
+    },
+    {
+      "segment_id": "0051",
+      "source": "眼下临近卡罗恩学院毕业考核，3年级的学员，要么是已经掌握了合适的3阶奥术魔法，就等考核结束拿到证明；要么是彻底摆烂，已经放弃挣扎，天天在格林港上城区吃喝玩乐。",
+      "target": "Lúc này kỳ thi tốt nghiệp của Học viện Caroen đã cận kề, học viên năm ba hoặc là đã nắm vững ma pháp Huyền thuật cấp 3 phù hợp, chỉ chờ kỳ thi kết thúc để lấy chứng nhận; hoặc là hoàn toàn buông xuôi, đã từ bỏ giãy giụa, ngày ngày ăn chơi hưởng lạc ở Khu Thượng Thành của Cảng Green."
+    },
+    {
+      "segment_id": "0052",
+      "source": "培特和他舍友盖尔的情况则属于第3种。",
+      "target": "Tình huống của Pete và người bạn cùng phòng Gael lại thuộc về loại thứ ba."
+    },
+    {
+      "segment_id": "0053",
+      "source": "俩人都是吊车尾的货色，看不到什么掌握3阶魔法的希望。",
+      "target": "Cả hai đều là thành phần đội sổ, không nhìn thấy chút hy vọng nắm giữ ma pháp cấp 3 nào."
+    },
+    {
+      "segment_id": "0054",
+      "source": "但他们还没死心，试图在考核来临前再垂死挣扎一下。",
+      "target": "Thế nhưng bọn họ vẫn chưa từ bỏ ý định, cố gắng giãy giụa lần cuối trước khi kỳ thi đến."
+    },
+    {
+      "segment_id": "0055",
+      "source": "先前几个月，俩人一致决定闭关，在宿舍里闷着头使劲冥想，换着花样向魔法女神祈祷，当然，最后收效甚微。",
+      "target": "Mấy tháng trước, hai người đồng lòng quyết định bế quan, ru rú ở trong ký túc xá cắm đầu ra sức thiền định, thay đổi đủ mọi cách cầu nguyện Nữ thần Ma pháp. Tất nhiên, hiệu quả cuối cùng thu được không đáng là bao."
+    },
+    {
+      "segment_id": "0056",
+      "source": "考核时间一天天临近，培特病急乱投医，才会被那帮黑袍人骗去献祭现场。",
+      "target": "Thời gian thi cử ngày càng cận kề, Pete trong lúc bế tắc đành vái tứ phương, mới bị nhóm người áo choàng đen kia lừa đến hiện trường hiến tế."
+    },
+    {
+      "segment_id": "0057",
+      "source": "向诺文献上信仰后，这几天他都早出晚归，忙活着筹备天赋检测仪式，跟蕾娜一起唱双簧诱骗……哦不对，应该是招募新信徒。",
+      "target": "Sau khi dâng lên đức tin cho Norven, mấy ngày nay cậu đều đi sớm về trễ, bận rộn chuẩn bị nghi thức kiểm tra thiên phú, cùng Lena tung hứng dụ dỗ... ồ không, phải là chiêu mộ tín đồ mới."
+    },
+    {
+      "segment_id": "0058",
+      "source": "因为长时间没在宿舍里看到培特，盖尔还以为他跟那些摆烂的同学一样，已经不打算挣扎了，趁着最后这几天尽情在上城区潇洒。",
+      "target": "Vì thời gian dài không thấy Pete ở ký túc xá, Gael còn tưởng cậu cũng giống như những bạn học buông xuôi kia, đã không định giãy giụa nữa, nhân lúc mấy ngày cuối cùng này thỏa sức tận hưởng ở Khu Thượng Thành."
+    },
+    {
+      "segment_id": "0059",
+      "source": "培特脚步不停：“一句两句跟你解释不清，反正我有办法掌握3阶法术了！”",
+      "target": "Pete không dừng bước: “Một hai câu không giải thích rõ với cậu được, tóm lại là tớ đã có cách để nắm vững ma pháp cấp 3 rồi!”"
+    },
+    {
+      "segment_id": "0060",
+      "source": "盖尔一惊。",
+      "target": "Gael giật nảy mình."
+    },
+    {
+      "segment_id": "0061",
+      "source": "“你有办法？！”",
+      "target": "“Cậu có cách thật á?!”"
+    },
+    {
+      "segment_id": "0062",
+      "source": "盖尔赶忙起身追上培特。",
+      "target": "Gael vội vàng đứng dậy đuổi theo Pete."
+    },
+    {
+      "segment_id": "0063",
+      "source": "“拜托拜托！我真的很需要卡罗恩学院的3阶法师证明，如果要满足什么条件才能告诉我办法的话，你尽管说好吧！”",
+      "target": "“Năn nỉ cậu đó! Tớ thực sự rất cần chứng nhận Pháp Sư cấp 3 của Học viện Caroen, nếu cần điều kiện gì mới có thể chỉ cách cho tớ thì cậu cứ việc nói ra đi!”"
+    },
+    {
+      "segment_id": "0064",
+      "source": "眼看培特即将离开，盖尔一咬牙，啪的一下猛地抱住培特大腿，整个人坐在地上。",
+      "target": "Thấy Pete sắp đi mất, Gael nghiến răng, một tiếng “bạch” vang lên, cậu ta lao đến ôm chặt lấy đùi Pete, cả người ngồi bệt xuống đất."
+    },
+    {
+      "segment_id": "0065",
+      "source": "“培特！救救你的好兄弟啊！”",
+      "target": "“Pete! Cứu lấy người anh em tốt của cậu với!”"
+    },
+    {
+      "segment_id": "0066",
+      "source": "培特脸色一黑。",
+      "target": "Sắc mặt Pete đen lại."
+    },
+    {
+      "segment_id": "0067",
+      "source": "“撒开！”",
+      "target": "“Buông ra!”"
+    },
+    {
+      "segment_id": "0068",
+      "source": "“不撒！”",
+      "target": "“Không buông!”"
+    },
+    {
+      "segment_id": "0069",
+      "source": "“你的贵族礼仪呢！你的羞耻心呢！”",
+      "target": "“Lễ nghi quý tộc của cậu đâu rồi! Liêm sỉ của cậu đâu rồi!”"
+    },
+    {
+      "segment_id": "0070",
+      "source": "“跟3阶魔法比起来，贵族礼仪算什么！”",
+      "target": "“So với ma pháp cấp 3 thì lễ nghi quý tộc tính là cái thá gì chứ!”"
+    },
+    {
+      "segment_id": "0071",
+      "source": "盖尔抱的更紧了。",
+      "target": "Gael càng ôm chặt hơn."
+    },
+    {
+      "segment_id": "0072",
+      "source": "“为了3阶魔法，我什么都愿意去做的！”",
+      "target": "“Vì ma pháp cấp 3, bảo tớ làm cái gì tớ cũng sẵn lòng!”"
+    },
+    {
+      "segment_id": "0073",
+      "source": "听到这话，培特挣扎的动作一顿。",
+      "target": "Nghe thấy thế, động tác giãy giụa của Pete bỗng khựng lại."
+    },
+    {
+      "segment_id": "0074",
+      "source": "“你确定？”",
+      "target": "“Cậu chắc chắn chứ?”"
+    },
+    {
+      "segment_id": "0075",
+      "source": "……",
+      "target": "……"
+    }
+  ]
+}

@@ -378,3 +378,8 @@ Chapter 39 completed via pipeline.
 
 ### Summary
 Chapter 40 completed via pipeline.
+
+## Chapter 0041 - Chương 41: Bắt đầu sự kiện giới hạn
+
+### Summary
+Chapter 41 completed via pipeline.
