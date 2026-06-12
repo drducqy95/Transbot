@@ -1,45 +1,11 @@
-I'll start by listing the contents of the project directory to understand the codebase structure and look for any existing glossary or translation logic.
-I'll view `README.md`, `ai_config.json`, and `test_api.py` to get more context about the Transbot project.
-I'll view `ai_config.json` and `test_api.py` to see how the bot is configured and how APIs or translation tasks are structured.
-I'll view `test_api.py` to see how the api is invoked or what other scripts are doing.
-I'll list the contents of the `Script` directory to see what Python or automation scripts are implemented there.
-I'll run a search to see if the terms `中的神兽，据` or `封神演义` appear in the codebase or in the generated files, so we can see context or existing translations/glossaries.
-I'll read the contents of `/mnt/sdcard/My Agent/Transbot/Output/Tieu Dao Mong Duong/pre_trans/Chapter 0009/glossary_scan.json` to understand what glossary suggestions have been scanned and what status they are in.
-I'll search the codebase to see how glossary curation, approval, rejection, or JSON schemas for terms/names are handled in this project.
-I'll view an example `ai_review.json` from the output directory to see the expected structure of the review response.
-I'll check the directory `/mnt/sdcard/My Agent/Transbot/Output/Tieu Dao Mong Duong/pre_trans/Chapter 0009/` to see what files exist and if there are any other terms or files we should be aware of.
-I'll read `name_scan.json` to verify if there are any names listed there.
-I'll search for references to `glossary_scan.json` in the `Script` directory to understand how the pipeline processes the statuses and if there are standard files we should update.
-I'll run a case-insensitive search for `glossary_scan` in the `Script` directory.
-I'll search for `ai_review` in the `Script` directory.
-I'll view `/mnt/sdcard/My Agent/Transbot/Output/Chu Than Dai Dao/pre_trans/Chapter 0001/ai_review.json` to see what format it is.
-I'll search for `ai_review` in all files inside `/mnt/sdcard/My Agent/Transbot/` to see if `ai_review.json` is read or written by any python code.
-I'll view `Script/transbot_pipeline.py` to see how translation terms and glossaries are read and processed, and how our decisions will affect the pipeline.
-I will update `/mnt/sdcard/My Agent/Transbot/Output/Tieu Dao Mong Duong/pre_trans/Chapter 0009/glossary_scan.json` to mark `封神演义` as `"approved"` and `中的神兽，据` as `"rejected"`.
-I'll use `replace_file_content` to update the statuses in `/mnt/sdcard/My Agent/Transbot/Output/Tieu Dao Mong Duong/pre_trans/Chapter 0009/glossary_scan.json`.
-I'll view `/mnt/sdcard/My Agent/Transbot/Output/Dung Goi Ta Ta Than/pre_trans/Chapter 0038/ai_review.json` to see if it starts directly with JSON or if it contains conversational text.
-I'll check if `/mnt/sdcard/My Agent/Transbot/Output/Tieu Dao Mong Duong/state/Glossary.md` exists.
-I'll list the contents of `/mnt/sdcard/My Agent/Transbot/Output/Tieu Dao Mong Duong/state` to see what files are initialized.
-I'll check if `/mnt/sdcard/My Agent/Transbot/Output/Tieu Dao Mong Duong/glossary.json` exists.
-I'll create the `Glossary.md` file in the state folder with the approved term.
-I'll write the updated glossary entry to `glossary.json`.
-I'll create the `ai_review.json` file in `/mnt/sdcard/My Agent/Transbot/Output/Tieu Dao Mong Duong/pre_trans/Chapter 0009/` with the JSON result of our review.
-Here is the review of the translation terms for Chapter 9 of *Tiêu Dao Mộng Đường* (Tieu Dao Mong Duong).
-
-### JSON Review Result
-
+I will list the contents of the workspace directory to understand the project structure.
+I will list the contents of the `Script` directory to see if there are any existing scripts or utilities related to translation or term processing.
+I will search the repository to see if there are any existing guidelines or scripts that specify how names/terms are evaluated (approved/rejected/uncertain) or if there are files containing standard glossaries.
+I will view one of the existing `glossary_scan.json` files in the output folder to see what structure it has.
 ```json
 {
   "approved": [
     "封神演义"
-  ],
-  "approved_characters": [],
-  "approved_glossary": [
-    {
-      "source": "封神演义",
-      "target": "Phong Thần Diễn Nghĩa",
-      "note": "Investiture of the Gods (Phong Thần Diễn Nghĩa) - a famous Chinese classic novel."
-    }
   ],
   "rejected": [
     "中的神兽，据"
@@ -48,15 +14,9 @@ Here is the review of the translation terms for Chapter 9 of *Tiêu Dao Mộng �
 }
 ```
 
-### Explanations of Classifications
+### Summary of Evaluation
 
-1. **`封神演义` (Approved)**
-   * **Vietnamese translation:** `Phong Thần Diễn Nghĩa`
-   * **Context:** A proper noun referring to the famous Chinese classic novel *Investiture of the Gods*. In Chapter 9, the protagonist refers to a legendary beast (*Hua Hu Diao* / 花狐貂) featured in this classic.
-2. **`中的神兽，据` (Rejected)**
-   * **Context:** A fragmented text segment (meaning "divine beast in..., according to...") extracted due to automated NLP parsing/segmentation error. It is not a noun or standard terminology and should not be added to the glossary.
-
-### Updates Performed in the Workspace
-* Updated the statuses of these terms directly in [glossary_scan.json](file:///mnt/sdcard/My%20Agent/Transbot/Output/Tieu%20Dao%20Mong%20Duong/pre_trans/Chapter%200009/glossary_scan.json).
-* Created the book's global [Glossary.md](file:///mnt/sdcard/My%20Agent/Transbot/Output/Tieu%20Dao%20Mong%20Duong/state/Glossary.md) and updated [glossary.json](file:///mnt/sdcard/My%20Agent/Transbot/Output/Tieu%20Dao%20Mong%20Duong/glossary.json) with the new term.
-* Saved the review response to [ai_review.json](file:///mnt/sdcard/My%20Agent/Transbot/Output/Tieu%20Dao%20Mong%20Duong/pre_trans/Chapter%200009/ai_review.json) in the pre-translation directory.
+*   **Approved**:
+    *   `封神演义`: Correctly identified as the title of the Chinese classic novel *Investiture of the Gods* (Vietnamese: *Phong Thần Diễn Nghĩa*).
+*   **Rejected**:
+    *   `中的神兽，据`: A sentence fragment containing grammatical particles ("中的" - in/of, "据" - according to) and punctuation ("，"). Not a valid term or name for a translation glossary.

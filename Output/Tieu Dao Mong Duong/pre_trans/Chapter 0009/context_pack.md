@@ -139,6 +139,11 @@ Chapter 7 completed via pipeline.
 ### Summary
 Chapter 8 completed via pipeline.
 
+## Chapter 0009 - Chương 9: Khách tới (Cầu sưu tầm)
+
+### Summary
+Chapter 9 completed via pipeline.
+
 
 ## Source Chapter 9 - 0009 来客（求收藏）
 ```json
