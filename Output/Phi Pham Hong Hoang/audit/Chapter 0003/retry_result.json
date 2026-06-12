@@ -1,0 +1,19 @@
+I have expanded the translation to be more descriptive and natural in Vietnamese, which resolves the `too_short` issue. I translated the shorthand Sino-Vietnamese words into their fuller forms (e.g., "Quan" -> "Quan sát", "ngộ" -> "lĩnh ngộ", "Bất Chu" -> "núi Bất Chu"). 
+
+Here is the fixed JSON:
+
+```json
+{
+  "chapter_number": 3,
+  "chapter_title_vi": "Chương 3: Quan sát núi Bất Chu lĩnh ngộ công pháp",
+  "segments": [
+    {
+      "segment_id": "0001",
+      "source": "# 第二章 观不周悟功法",
+      "target": "# Chương 2: Quan sát núi Bất Chu lĩnh ngộ công pháp"
+    }
+  ]
+}
+```
+
+*(Note: The source says "第二章" (Chapter 2), so I kept the target as "Chương 2" to match the text, though the metadata says it is chapter 3. I updated `chapter_title_vi` to match the expanded style just in case!)*
