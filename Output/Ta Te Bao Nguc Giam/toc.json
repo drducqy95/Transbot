@@ -1,12 +1,12 @@
 [
   {
-    "chapter_number": 2,
-    "title": "Chương 2: Sự phát hiện của Hàn Đông",
-    "relative_path": "output/Chương 0002 - Chương 2 Sự phát hiện của Hàn Đông.md"
-  },
-  {
     "chapter_number": 1,
     "title": "Chương 1: Nhà giam thần bí",
     "relative_path": "output/Chương 0001 - Chương 1 Nhà giam thần bí.md"
+  },
+  {
+    "chapter_number": 2,
+    "title": "Chương 2: Sự phát hiện của Hàn Đông",
+    "relative_path": "output/Chương 0002 - Chương 2 Sự phát hiện của Hàn Đông.md"
   }
 ]

@@ -288,11 +288,11 @@
           "title": "Đông phương"
         }
       ],
-      "completed_chapters": 2,
+      "completed_chapters": 3,
       "total_chapters": 2169,
-      "latest_chapter": "Chương 1: Nhà giam thần bí",
+      "latest_chapter": "Chương 2: Sự phát hiện của Hàn Đông",
       "detail": "Tiến độ: 2/2169 chương | Mới nhất: 0001 神秘的监狱",
-      "updated_at": "2026-06-12T11:05:47+07:00",
+      "updated_at": "2026-06-12T11:39:29+07:00",
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Ta Te Bao Nguc Giam/README.md",
       "toc_path": "Output/Ta Te Bao Nguc Giam/toc.json"
@@ -971,7 +971,7 @@
     }
   ],
   "metadata": {
-    "generated_at": "2026-06-12T11:33:32+07:00",
+    "generated_at": "2026-06-12T11:39:29+07:00",
     "total_books": 17,
     "source": "Dichtrung/Output"
   },

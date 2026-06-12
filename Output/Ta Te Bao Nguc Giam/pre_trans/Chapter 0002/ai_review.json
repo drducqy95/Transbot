@@ -1,0 +1,69 @@
+I'll start by listing the directory structure of the repository to understand the context of the translation project and find the relevant files/scripts.
+I'll list the contents of the `Script` directory to see what kind of translation or processing scripts are already implemented.
+I will list the contents of the `Global State` directory to see if there is any global glossary or translation configuration.
+I will list the `Source` and `Output` directories to see how glossary files or novel resources are organized.
+I'll check the `$TRANS_DIR` directory contents.
+I'll view the Python pipeline file for `ta-te-bao-nguc-giam` to see how glossaries and terms are managed in the code.
+I'll search for "glossary" in the directory using `grep_search` to see if there is any predefined file structure or configuration where glossaries are saved or defined.
+I'll search for files named `glossary_scan.json` to find their locations and understand their structure.
+I will view `Output/Ta Te Bao Nguc Giam/pre_trans/Chapter 0001/glossary_scan.json` to inspect the structure and schema used for translation glossary reviews.
+I'll view the rest of the glossary scan JSON to see the end of the file.
+I'll inspect `Output/Chu Than Dai Dao/pre_trans/Chapter 0001/ai_review.json` to see an example of how the translation items are reviewed and categorized.
+I'll search for references to `approved` or `rejected` and `uncertain` in the python scripts to see if there is code that parses or generates this JSON, or expects a specific format.
+I'll search for `ai_review.json` files under `Output/Ta Te Bao Nguc Giam/` to see how those are structured and check for examples.
+I will view the `ai_review.json` file for "Ta Te Bao Nguc Giam" Chapter 1 to see the exact categories, fields, and formatting rules used.
+Here is the JSON containing the approved, rejected, and uncertain terms, reviewed based on translation relevance (filtering out truncated segments, common conversational terms, and sentence fragments while preserving proper nouns, character names, body parts, and skills):
+
+```json
+{
+  "approved": [
+    "优秀",
+    "优质",
+    "传奇",
+    "劣等",
+    "右脚",
+    "右臂",
+    "圣光感应",
+    "处理室",
+    "大脑",
+    "头颅",
+    "左脚",
+    "左臂",
+    "快速出拳",
+    "杰拉德.玛莉",
+    "躯干",
+    "魔兽世界"
+  ],
+  "rejected": [
+    "-生前为虔诚",
+    "“这智障…",
+    "。\n但韩东依",
+    "。\n消耗掉了",
+    "亚空间收容措",
+    "优质、具备",
+    "内主动舍弃肉",
+    "劣等、负重需",
+    "品质为劣等，",
+    "外出现了肉体",
+    "已在",
+    "技能……韩东",
+    "技能，负重要",
+    "普通、负重需",
+    "查看腹部的问",
+    "残缺、负重需",
+    "的躯干，为什",
+    "管理室已开启",
+    "类网游，对此",
+    "评价而且还具",
+    "韩东立即展",
+    "，无论肉体发",
+    "，避免大脑负"
+  ],
+  "uncertain": []
+}
+```
+
+### Review Decisions
+* **Approved:** Valid terms (such as body parts `左臂`/`右脚`, quality tiers like `优质`/`传奇`, location `处理室`, skills like `圣光感应`, game titles like `魔兽世界`, and character name `杰拉德.玛莉`) that are complete and need to remain consistent across the translation.
+* **Rejected:** Fragmented sentences, cut-off strings (such as `亚空间收容措` missing the final character, or trailing phrases ending with commas or ellipses), dialogue fragments, and general common words (`已在`).
+* **Uncertain:** None, as the distinction between terminology candidates and fragment noise in this batch is straightforward.
