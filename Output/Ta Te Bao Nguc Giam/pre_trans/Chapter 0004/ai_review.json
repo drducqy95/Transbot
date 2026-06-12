@@ -1,0 +1,19 @@
+```json
+{
+  "approved": [
+    {
+      "item": "瓦伦.尼古拉",
+      "type": "Name",
+      "notes": "Approved, but classified as a Name instead of a Term as it is a transliterated proper name (e.g., Warren Nikolai or Valen Nikola)."
+    }
+  ],
+  "rejected": [
+    {
+      "item": "是。\n皮肤",
+      "type": "Term",
+      "reason": "Contains a newline and punctuation; appears to be an incorrect extraction merging a sentence fragment ('Yes.' / 'Is.') with another word ('Skin')."
+    }
+  ],
+  "uncertain": []
+}
+```

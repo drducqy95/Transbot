@@ -1,6 +1,6 @@
 # Ta Te Bao Nguc Giam
 
-- Đã hoàn thành: 4
-- Chương cuối: Chương 3: Bắt đầu lại từ đầu
+- Đã hoàn thành: 5
+- Chương cuối: Chương 4: Thanh niên treo cổ
 
-- **Tiến độ hiện tại**: 2/2169 chương
+- **Tiến độ hiện tại**: 3/2169 chương
