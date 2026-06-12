@@ -363,3 +363,8 @@ Chapter 36 completed via pipeline.
 
 ### Summary
 Chapter 37 completed via pipeline.
+
+## Chapter 0038 - Chương 38: Norven: Ta thật sự không muốn làm tà thần
+
+### Summary
+Chapter 38 completed via pipeline.

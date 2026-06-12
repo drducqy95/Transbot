@@ -1,0 +1,27 @@
+I will list the contents of the workspace directory to understand the project structure and context for this translation task.
+I will list the files in the `Script` directory to find any translation processing scripts.
+I will view `Script/pipeline_chu-than-quat-khoi.py` to check the structure of translation pipelines and how terms/names are parsed or approved/rejected.
+I will search for any existing `ai_review.json` files in the output directories to understand the structure of the JSON expected by the pipeline.
+I will view one of the existing `ai_review.json` files to see how the JSON is structured.
+I will view another `ai_review.json` file to confirm the consistency of the JSON structure.
+I will view the `Glossary.md` for "Chu Than Quat Khoi" if it exists, to match the formatting and casing rules.
+I will list the directories inside `Output` to find the exact name of the book or branch directory.
+I will list the contents of the `Output/Chu Than Quat Khoi` directory to check its state files.
+I will list the files in the `state` directory of the `Chu Than Quat Khoi` branch.
+```json
+{
+  "approved_characters": [],
+  "approved_glossary": [
+    {
+      "source": "神之眼",
+      "target": "Mắt Thần",
+      "note": "Divine Eye / Eye of God - Quyền năng quan sát phàm giới qua tín đồ."
+    }
+  ],
+  "rejected": [
+    "去感知信徒的",
+    "的观察效果，"
+  ],
+  "uncertain": []
+}
+```

@@ -1,0 +1,10 @@
+{
+  "chapter_number": 38,
+  "status": "retry_required",
+  "issues": [
+    {
+      "type": "cjk_leftover",
+      "severity": "high"
+    }
+  ]
+}
