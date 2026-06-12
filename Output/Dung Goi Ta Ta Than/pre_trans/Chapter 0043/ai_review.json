@@ -1,0 +1,51 @@
+I will explore the workspace to understand the codebase and check if there are any existing translation files, translation tools, or scripts we can use.
+I will list the contents of the `Script` and `Source` directories to understand how translations and terms are processed in this project.
+I will use `grep_search` to see if there is any existing logic or prompt templates handling term approval or review.
+I will view `Output/Dung Goi Ta Ta Than/pre_trans/Chapter 0003/glossary_scan.json` to understand the standard schema for scanned glossary/terms and reviews in this project.
+I will list the directories in `Output` to find the relevant book and chapter directories.
+I will list the contents of the `Output/Dung Goi Ta Ta Than/pre_trans` directory to find the chapters we are dealing with.
+I will list the contents of the `pre_trans` subdirectory to locate the exact chapter or review context.
+I will list the files in the `Chapter 0013` folder to see what files are present there.
+I will search for `潜行` in all files inside `Output/Dung Goi Ta Ta Than/pre_trans` to see where the terms originate.
+I will view lines 1 to 100 in `Output/Dung Goi Ta Ta Than/pre_trans/Chapter 0033/ai_review.json` to inspect the review structure and content formatting.
+I will list the files in the `state` directory of the `Dung Goi Ta Ta Than` project to locate the glossary and look up term translations.
+I will view the `Glossary.md` file in the state directory to check for existing term mappings, specifically for `潜行` (Stealth).
+Here is the JSON review of the requested names and terms, categorizing them into `approved`, `rejected`, and `uncertain` lists:
+
+```json
+{
+  "approved": [
+    {
+      "source": "潜行",
+      "translation": "Tiềm Hành / Ẩn Nấp",
+      "type": "skill",
+      "reason": "Kỹ năng ẩn nấp/lén lút tiêu chuẩn (Stealth), tương thích với nghề nghiệp Tiềm Hành Giả (潜行者) và bối cảnh game/fantasy."
+    }
+  ],
+  "rejected": [
+    {
+      "source": "战技！\n虽然",
+      "reason": "Mảnh cắt câu rác (garbage segment) chứa dấu ngắt câu và ký tự xuống dòng, không phải thuật ngữ hay tên riêng."
+    },
+    {
+      "source": "，借助暗影的",
+      "reason": "Mảnh cắt câu rác dịch nghĩa là ', nhờ vào bóng tối', không phải thuật ngữ hay danh từ riêng."
+    }
+  ],
+  "uncertain": [
+    {
+      "source": "，恢复隐匿状",
+      "correct_source": "隐匿状态",
+      "suggested_translation": "trạng thái ẩn nấp / trạng thái ẩn mình",
+      "reason": "Cụm từ bị cắt cụt ở cuối (thiếu chữ '态' trong '隐匿状态') và chứa dấu phẩy dư thừa ở đầu. Thuật ngữ gốc chuẩn nên là '隐匿状态' (trạng thái ẩn nấp/ẩn mình)."
+    }
+  ]
+}
+```
+
+### Summary of Work
+1. **Analyzed Project Context**: Inspected the glossary structure and translation configurations under `Output/Dung Goi Ta Ta Than/` to align with the established Vietnamese style.
+2. **Evaluated Terms**:
+   * Approved `潜行` as it represents a core class skill matching "Tiềm Hành" / "Ẩn Nấp".
+   * Rejected sentence fragments (`战技！\n虽然` and `，借助暗影的`) which do not qualify as standalone glossary terms.
+   * Categorized `恢复隐匿状` as uncertain, identifying it as a truncated fragment of `隐匿状态` (Stealth Status/State) and proposing its corrected form and translation.
