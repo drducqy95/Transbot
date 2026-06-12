@@ -9,3 +9,4 @@
 - 2026-06-12 16:22 | Chapter 7 | completed | Chương 0007 - Chương 7 Cổ sư chia cửu chuyển, Hoa Tửu lưu di tàng.md
 - 2026-06-12 16:41 | Chapter 8 | completed | Chương 0008 - Chương 8 Vật thị nhân phi.md
 - 2026-06-12 18:11 | Chapter 9 | completed | Chương 0009 - 0009 渐行渐远.md
+- 2026-06-12 18:32 | Chapter 10 | completed | Chương 0010 - Chương 10 Trời có lúc gió mây bất trắc, luyện Cổ muôn vàn gian nan.md

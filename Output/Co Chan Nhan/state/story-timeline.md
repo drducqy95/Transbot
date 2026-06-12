@@ -38,3 +38,8 @@ Chapter 8 completed via pipeline.
 
 ### Summary
 Chapter 9 completed via pipeline.
+
+## Chapter 0010 - Chương 10: Trời có lúc gió mây bất trắc, luyện Cổ muôn vàn gian nan
+
+### Summary
+Chapter 10 completed via pipeline.
