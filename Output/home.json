@@ -367,9 +367,9 @@
       "status": "in_progress",
       "status_label": "Đang ra",
       "ongoing": true,
-      "completed_chapters": 9,
+      "completed_chapters": 11,
       "total_chapters": 1187,
-      "latest_chapter": "Chương 9: Đè Yoruichi xuống đất ma sát",
+      "latest_chapter": "Chương 10: Đại Quỷ Đạo Trưởng",
       "genre": "eastern_fiction",
       "sub_genre": "fanfic, system, infinite_worlds",
       "style_tags": [
@@ -418,7 +418,7 @@
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han/README.md",
       "toc_path": "Output/Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han/toc.json",
-      "updated_at": "2026-06-12T15:00:09.815520+07:00"
+      "updated_at": "2026-06-12T15:02:15+07:00"
     },
     {
       "branch": "Tieu Dao Mong Duong",
@@ -971,7 +971,7 @@
     }
   ],
   "metadata": {
-    "generated_at": "2026-06-12T15:01:25+07:00",
+    "generated_at": "2026-06-12T15:02:15+07:00",
     "total_books": 17,
     "source": "Dichtrung/Output"
   },
