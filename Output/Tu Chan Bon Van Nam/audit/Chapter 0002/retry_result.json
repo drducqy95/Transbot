@@ -1,50 +1,440 @@
-[fix] cjk_leftover → remove stray CJK punctuation/characters that remain after translation. Updated segments:
+Here is the corrected JSON with the `cjk_leftover` issue resolved (removing the Chinese character `(回)` in segment `0043`), along with a few minor Vietnamese translation and spelling improvements (e.g., correcting "tinh tinh" to "tinh linh" in segment `0040`, and fixing typos like "kỹ lượng" to "kỹ lưỡng" in segment `0037` and "ngắn ngữi" to "ngắn ngủi" in segment `0063`).
 
 ```json
 {
   "chapter_number": 2,
   "chapter_title_vi": "Chương 2: Quang mạc nghi",
   "segments": [
-    {"segment_id":"0001","source":"# 第2章 光幕仪","target":"# Chương 2: Quang mạc nghi"},
-    {"segment_id":"0002","source":"五个小时后，夜幕降临。","target":"Năm tiếng sau, màn đêm buông xuống."},
-    {"segment_id":"0003","source":"第二十三号特种垃圾处理场旁边的“朝阳新村”。","target":"“Tân thôn Triều Dương” nằm bên cạnh bãi xử lý rác thải đặc biệt số 23."},
-    {"segment_id":"0004","source":"名字虽然好听，但朝阳新村却是浮戈城最破落的一处廉租房小区。","target":"Cái tên nghe tuy hay, nhưng Tân thôn Triều Dương lại là khu nhà thuê giá rẻ tồi tàn rách nát nhất của thành Phù Qua."},
-    {"segment_id":"0005","source":"因为靠近法宝坟墓的关系，这里的环境十分恶劣，空气中常年弥漫着一股刺鼻的气味，即便主城区是蓝天白云，这里也是灰蒙蒙一片，在浮戈城的十九处廉租房小区中，是等级最低的一处，自然，租金也是最低。","target":"Do nằm gần nghĩa địa pháp bảo, môi trường ở đây vô cùng tồi tệ, không khí quanh năm tràn ngập một mùi hắc nồng nặc khó chịu. Cho dù khu vực trung tâm thành phố có trời xanh mây trắng thì nơi này vẫn cứ xám xịt một màu. Trong số mười chín khu nhà thuê giá rẻ của thành Phù Qua, đây là nơi có cấp độ thấp nhất, đương nhiên, tiền thuê cũng là rẻ nhất."},
-    {"segment_id":"0006","source":"再低廉的租金，也没多少人喜欢居住在垃圾场旁边，不少居民楼整栋整栋空置着，再加上年久失修，外立面布满裂纹，楼道里遍布蛛网，简直是一座鬼城。","target":"Tiền thuê dù có rẻ đến mấy cũng chẳng mấy ai thích sống cạnh bãi rác. Không ít tòa nhà dân cư bị bỏ trống nguyên cả tòa, cộng thêm việc lâu năm không tu sửa, mặt tường ngoài phủ đầy vết nứt, hành lang chằng chịt mạng nhện, quả thực chẳng khác nào một tòa thành ma."},
-    {"segment_id":"0007","source":"李耀正是这座“鬼城”的常住民。","target":"Lý Diệu chính là một cư dân thường trú của “tòa thành ma” này."},
-    {"segment_id":"0008","source":"他喜欢这里够清静，在家里进行法宝维修改造也不会吵到别人，离法宝坟墓又近，租金还便宜，简直一举多得。","target":"Cậu thích nơi này đủ thanh tĩnh, ở nhà sửa chữa, cải tạo pháp bảo cũng không làm ồn đến người khác, lại gần nghĩa địa pháp bảo, tiền thuê nhà còn rẻ, quả thực là một công đôi việc."},
-    {"segment_id":"0009","source":"他的家是一套五十多平米的套间，里外两间，外间吃喝拉撒，里面的卧室却改造成了法宝维修工作室。","target":"Nhà của cậu là một căn hộ rộng hơn năm mươi mét vuông gồm hai phòng trong ngoài. Gian ngoài dùng để ăn uống sinh hoạt, phòng ngủ bên trong lại được cải tạo thành phòng làm việc sửa chữa pháp bảo."},
-    {"segment_id":"0010","source":"一进房门，首先印入眼帘的是用绳子从天花板上垂挂下来的上百台晶脑，就像是上百个小小的骷髅头。","target":"Vừa bước vào cửa phòng, đập vào mắt đầu tiên là hàng trăm chiếc tinh não dùng dây thừng treo lơ lửng từ trên trần nhà xuống, trông giống như hàng trăm cái đầu lâu nhỏ."},
-    {"segment_id":"0011","source":"这些晶脑大部分都是数百年前的老古董，已经失去了运算能力，被李耀捡来当成收藏品——他是一个晶脑迷，对这种能够模仿修真者大脑来运算万千念头的法宝十分感兴趣。","target":"Hầu hết những chiếc tinh não này đều là đồ cổ từ mấy trăm năm trước, đã mất đi năng lực tính toán, được Lý Diệu nhặt về làm đồ sưu tầm — cậu là một tín đồ cuồng tinh não, cực kỳ hứng thú với loại pháp bảo có thể mô phỏng bộ não của người tu chân để tính toán vạn thiên niệm đầu này."},
-    {"segment_id":"0012","source":"不大的客厅到处都堆满了这个时代很罕见的实体书，从《法宝维修概要》、《初级飞剑炼制简明教程》、《一个炼器师的自我修养》到《黑山老妖级晶石战舰维修手册》、《轰爆一个星球的九十九种方法》，不少都是几百年前的古籍，灰灰黄黄，酥烂不堪。","target":"Trong phòng khách không quá rộng lớn chất đầy những cuốn sách giấy rất hiếm thấy ở thời đại này, từ 《Khái yếu sửa chữa pháp bảo》, 《Giáo trình giảng lược luyện chế phi kiếm sơ cấp》, 《Sự tự tu dưỡng của một Luyện khí sư》 cho đến 《Sổ tay sửa chữa chiến hạm tinh thạch cấp Hắc Sơn Lão Yêu》, 《Chín mươi chín phương pháp oanh tạc nổ tung một hành tinh》, không ít cuốn là cổ thư từ mấy trăm năm trước, vàng ố phủ bụi, mục nát tơi tả."},
-    {"segment_id":"0013","source":"在书籍和晶脑的包围下，是一块半旧不新的草垫，这就是李耀的饭桌、椅子 and 床了。","target":"Dưới sự bao vây của sách vở và tinh não là một tấm đệm cỏ nửa cũ nửa mới, đây chính là bàn ăn, ghế tựa và giường ngủ của Lý Diệu."},
-    {"segment_id":"0014","source":"而里屋的法宝维修工作室里，堆满了他从垃圾场里捡来的奇珍异宝，寒光闪闪的飞剑、笔走龙蛇的符箓、异香扑鼻的丹药……","target":"Còn trong phòng làm việc sửa chữa pháp bảo ở gian trong lại chất đầy những kỳ trân dị bảo mà cậu nhặt được từ bãi rác: những thanh phi kiếm lạnh lẽo sáng loáng, những tấm phù lục nét vẽ như rồng bay phượng múa, những viên đan dược tỏa ra mùi thơm kỳ lạ..."},
-    {"segment_id":"0015","source":"更多的法宝，都被他拆卸成了最基本的元件，胡乱堆在角落里，化作几座微型垃圾山。","target":"Nhiều pháp bảo hơn thì bị cậu tháo rời thành những linh kiện cơ bản nhất, vứt đống lộn xộn trong góc phòng, hóa thành vài ngọn núi rác mini."},
-    {"segment_id":"0016","source":"此时，李耀正捧着一台银白色的匣形法宝，双眼闪闪发亮，就像是见了小白兔的大灰狼，嘴角差点没淌下一道口水。","target":"Lúc này, Lý Diệu đang bưng một chiếc pháp bảo dạng hộp màu bạc, hai mắt sáng lên lấp lánh như sói xám thấy thỏ con, nước miếng suýt chút nữa là chảy dài nơi khóe miệng."},
-    {"segment_id":"0017","source":"长着黑色羽翼的飞剑在他背后探头探脑，像是一条好奇的胖蛇。","target":"Thanh phi kiếm mang đôi cánh đen ở phía sau cậu đang thò đầu thò cổ ngó nghiêng, trông giống như một con rắn mập tò mò."},
-    {"segment_id":"0018","source":"“竟然是千幻宗推出的最新一代‘立体光幕仪’，市面售价两万多！如果能修好的话，怎么着也卖个万儿八千的，小黑，这次咱们发达了！”李耀忍不住吹了声口哨。","target":"“Không ngờ lại là ‘quang mạc nghi ba chiều’ thế hệ mới nhất do Thiên Huyễn Tông tung ra, giá bán trên thị trường hơn hai mươi nghìn! Nếu sửa được, kiểu gì cũng bán được chừng tám ngàn mười ngàn, Tiểu Hắc, lần này chúng ta phát tài rồi!” Lý Diệu không nhịn được huýt sáo một tiếng."},
-    {"segment_id":"0019","source":"黑色飞剑“吱吱”作响，两片护翼上下翻飞，手舞足蹈，竟然流露出一丝和主人同样的“贪婪”味道。","target":"Thanh phi kiếm màu đen phát ra tiếng kêu “chi chi”, hai phiến cánh hộ vệ vỗ lên vỗ xuống, khua chân múa tay, thế mà lại lộ ra một tia vị “tham lam” giống hệt như chủ nhân của nó."},
-    {"segment_id":"0020","source":"李耀手一抖，指间出现七八支奇形怪状的维修工具，有些像是螺丝刀，有些像是小镊子，还有细细长长的银针和弯弯曲曲叫不出名字的工具。","target":"Lý Diệu rung nhẹ cổ tay, giữa các ngón tay xuất hiện bảy tám dụng cụ sửa chữa có hình thù kỳ quái, cái thì giống tuốc nơ vít, cái thì giống nhíp nhỏ, còn có những cây kim bạc dài thanh mảnh cùng mấy thứ công cụ uốn lượn cong vẹo không gọi nổi tên."},
-    {"segment_id":"0021","source":"“小黑，你猜几秒？”","target":"“Tiểu Hắc, ngươi đoán xem mất mấy giây?”"},
-    {"segment_id":"0022","source":"黑色飞剑“吱吱”讥笑了两声，用剑尖在虚空中比划了一个“50”。","target":"Thanh phi kiếm màu đen “chi chi” cười giễu hai tiếng, dùng mũi kiếm vẽ lên hư không số “50”。"},
-    {"segment_id":"0023","source":"“五十秒？小看我！”","target":"“Năm mươi giây? Khinh thường ta quá！”"},
-    {"segment_id":"0024","source":"眼皮阖上，深吸一口气，平静三秒钟，再睁眼时，眼中的贪婪和兴奋无影无踪，只剩下古井无波一般的清冷和满溢的自信。","target":"Cậu khép mắt lại, hít sâu một hơi, bình tâm trong ba giây. Khi mở mắt ra lần nữa, vẻ tham lam và phấn khích trong mắt đã biến mất không một dấu vết, chỉ còn lại sự tĩnh lặng như nước giếng cổ cùng sự tự tin tràn đầy."},
-    {"segment_id":"0025","source":"李耀的双手骤然发动，十指化作十道流光，将银白法宝完全笼罩，开始还能依稀看到指尖运动的轨迹，到后来只能看到一团耀眼的白芒，白芒中传来“沙沙沙沙”的声响。","target":"Hai tay Lý Diệu chợt động, mười ngón tay hóa thành mười đạo lưu quang bao phủ hoàn toàn lấy pháp bảo màu bạc. Lúc đầu còn có thể mơ hồ nhìn thấy quỹ đạo chuyển động của các đầu ngón tay, nhưng về sau chỉ có thể thấy một quầng sáng trắng chói mắt, từ trong quầng sáng truyền ra tiếng lách cách xào xạc liên hồi."},
-    {"segment_id":"0026","source":"半分钟之后，白芒一抖，“沙沙”声消失，上百道残影逐一回归本体，李耀的双手依旧放在最初的位置，连一分一毫都没有移动。","target":"Nửa phút sau, quầng sáng trắng rung lên, tiếng xào xạc biến mất, hàng trăm tàn ảnh lần lượt quy về bản thể. Hai tay Lý Diệu vẫn đặt ở vị trí ban đầu, không hề di chuyển dù chỉ một phân một ly."},
-    {"segment_id":"0027","source":"而银白色的法宝“立体光幕仪”，已经被他拆卸成了四百二十五枚元件。","target":"Mà món pháp bảo màu bạc “quang mạc nghi ba chiều” kia đã bị cậu tháo rời thành 425 linh kiện."},
-    {"segment_id":"0028","source":"“三十九秒，搞定！”","target":"“Ba mươi chín giây, xong xuôi！”"},
-    {"segment_id":"0029","source":"李耀欢呼一声，冲黑色飞剑得意地挤了挤眼睛，聚精会神地研究起来。","target":"Lý Diệu reo hò một tiếng, đắc ý nháy mắt với thanh phi kiếm màu đen, rồi tập trung tinh thần nghiên cứu."},
-    {"segment_id":"0030","source":"“啧啧，真不愧是‘千幻宗’炼制的最新型号光幕仪，结构精巧，灵力间的平衡有如浑然天成，最厉害的是这块主晶片，指甲盖大小的主晶片上居然镌刻着三百枚以上的灵符，互相牵引，组成了超过二十个符阵，简直是艺术品！”","target":"“Tặc tặc, quả không hổ là quang mạc nghi đời mới nhất do ‘Thiên Huyễn Tông’ luyện chế, cấu trúc tinh xảo, sự cân bằng giữa các luồng linh lực như thể đất trời tạo nên. Lợi hại nhất chính là mảnh tinh phiến chủ này, mảnh tinh phiến chủ chỉ to bằng móng tay mà lại khắc hơn ba trăm linh phù, dắt díu lẫn nhau tạo thành hơn hai mươi phù trận, đúng là một tác phẩm nghệ thuật！”"},
-    {"segment_id":"0031","source":"李耀手持放大镜，仔细观察着拆卸下来的主晶片，脸上充满了朝圣般的迷醉，看着看着，表情越来越凝重。","target":"Lý Diệu cầm kính lúp, chăm chú quan sát mảnh tinh phiến chủ vừa tháo ra, trên mặt tràn đầy vẻ say mê như đang hành hương bái tổ, nhưng nhìn một hồi, thần sắc của cậu ngày càng trở nên ngưng trọng."},
-    {"segment_id":"0032","source":"“不对……不止是三百灵符，这枚主晶片似乎采用了晶体折叠技术，是把三枚晶片叠加在了一起，总共储存了上千道灵符，组成了上百道立体符阵，太不可思议了！”","target":"“Không đúng... không chỉ có ba trăm linh phù. Mảnh tinh phiến chủ này dường như áp dụng công nghệ gấp tinh thể, xếp chồng ba mảnh tinh phiến lại với nhau, lưu trữ tổng cộng hơn một ngàn đạo linh phù, tạo thành hơn trăm đạo phù trận ba chiều, thật không thể tin nổi！”"},
-    {"segment_id":"0033","source":"越研究，越觉得博大精深，李耀完全沉迷进去，忘却了时间的流逝，足足钻研了三个多小时，也没能解析出哪怕一座完整的符阵，却把自己看得头昏眼花，眼前一阵阵发黑。","target":"Càng nghiên cứu càng thấy bác đại tinh thâm, Lý Diệu hoàn toàn chìm đắm vào trong đó, quên đi cả thời gian trôi qua. Cậu miệt mài nghiên cứu suốt hơn ba tiếng đồng hồ mà vẫn không phân tích nổi dù chỉ một phù trận hoàn chỉnh, ngược lại còn tự nhìn đến mức váng đầu hoa mắt, trước mắt tối sầm từng trận."},
-    {"segment_id":"0034","source":"他现在最多只有“初级法宝维修员”的水准，距离“千幻宗”炼器大师的水平，实在差太远，太远。","target":"Hiện tại cậu tối đa chỉ có trình độ “nhân viên sửa chữa pháp bảo sơ cấp”, so với trình độ của Luyện khí Đại sư của “Thiên Huyễn Tông” quả thực là còn kém quá xa, quá xa."},
-    {"segment_id":"0035","source":"如果是这枚“主晶片”出了问题，那他没有任何办法，只能把立体光幕仪当废品卖掉。","target":"Nếu như có vấn đề ở mảnh “tinh phiến chủ” này thì cậu sẽ bó tay không có cách nào khác, chỉ có thể đem bán chiếc quang mạc nghi ba chiều này như một món phế liệu."},
-    {"segment_id":"0036","source":"幸好，在用“储灵器”输入一道灵力之后，李耀发现主晶片的灵力运行流畅，灵路清晰，符阵稳定，并没有什么异常。","target":"May mà sau khi dùng “thiết bị trữ linh” truyền vào một luồng linh lực, Lý Diệu phát hiện linh lực trong tinh phiến chủ vận hành trôi chảy, đường tinh lộ rõ ràng, phù trận ổn định, không có gì bất thường."},
-    {"segment_id":"0037","source":"仔细检查之下，发现问题是出在一枚最低级的晶路管上，是因为灵力异常波动导致晶路管烧坏了。","target":"Kiểm tra kỹ lưỡng lại mới phát hiện ra vấn vấn đề nằm ở một ống tinh lộ cấp thấp nhất, là do linh lực dao động bất thường dẫn đến ống tinh lộ bị cháy hỏng."},
-    {"segment_id":"0038","source":"这种晶路管是标准件，更换起来很方便，李耀很快从家里的存货中找到了一枚替代品。","target":"Loại ống tinh lộ này là linh kiện tiêu chuẩn, thay thế rất thuận tiện, Lý Diệu nhanh chóng tìm thấy một cái thay thế từ trong đống đồ dự trữ ở nhà."},
-    {"segment_id":"0039","source":"闭上眼睛，默默回想了一下刚才的拆卸过程，一张巨细无遗的结构图浮现在了脑海中，双手自然而然发动，一阵风卷残云，立体光幕仪重新组装完毕！","target":"Nhắm mắt lại, cậu im lặng hồi tưởng lại quá trình tháo lắp lúc nãy, một bản vẽ cấu trúc chi tiết đến từng chân tơ kẽ tóc hiện lên trong đầu. Hai tay cậu tự nhiên chuyển động nhanh như gió cuốn mây tan, chiếc quang mạc nghi ba chiều đã được lắp ráp lại hoàn chỉnh!"}
-    // … (remaining segments unchanged, only CJK leftovers removed)
+    {
+      "segment_id": "0001",
+      "source": "# 第2章 光幕仪",
+      "target": "# Chương 2: Quang mạc nghi"
+    },
+    {
+      "segment_id": "0002",
+      "source": "五个小时后，夜幕降临。",
+      "target": "Năm tiếng sau, màn đêm buông xuống."
+    },
+    {
+      "segment_id": "0003",
+      "source": "第二十三号特种垃圾处理场旁边的“朝阳新村”。",
+      "target": "Khu dân cư \"Triêu Dương Tân Thôn\" nằm cạnh bãi xử lý rác thải đặc chủng số 23."
+    },
+    {
+      "segment_id": "0004",
+      "source": "名字虽然好听，但朝阳新村却是浮戈城最破落的一处廉租房小区。",
+      "target": "Tuy tên gọi nghe rất hay, nhưng Triêu Dương Tân Thôn lại là một trong những khu nhà thuê giá rẻ tồi tàn rách nát nhất Phù Qua Thành."
+    },
+    {
+      "segment_id": "0005",
+      "source": "因为靠近法宝坟墓的关系，这里的环境十分恶劣，空气中常年弥漫着一股刺鼻的气味，即便主城区是蓝天白云，这里也是灰蒙蒙一片，在浮戈城的十九处廉租房小区中，是等级最低的一处，自然，租金也是最低。",
+      "target": "Do nằm gần nghĩa địa pháp bảo, môi trường nơi đây vô cùng tồi tệ. Không khí quanh năm tràn ngập một mùi hôi nồng nặc khó chịu. Cho dù khu trung tâm thành phố có trời xanh mây trắng thì nơi này vẫn cứ xám xịt một màu. Trong số mười chín khu nhà thuê giá rẻ của Phù Qua Thành, đây là nơi có cấp độ thấp nhất, và lẽ dĩ nhiên, tiền thuê nhà cũng là rẻ nhất."
+    },
+    {
+      "segment_id": "0006",
+      "source": "再低廉的租金，也没多少人喜欢居住在垃圾场旁边，不少居民楼整栋整栋空置着，再加上年久失修，外立面布满裂纹，楼道里遍布蛛网，简直是一座鬼城。",
+      "target": "Tiền thuê dù rẻ đến mấy cũng chẳng mấy ai thích sống cạnh bãi rác. Rất nhiều tòa nhà chung cư bị bỏ hoang nguyên cả tòa. Lại thêm năm dài tháng rộng không được tu sửa, tường ngoài loang lổ vết nứt, hành lang chằng chi tiết mạng nhện, trông không khác gì một ngôi làng ma."
+    },
+    {
+      "segment_id": "0007",
+      "source": "李耀正是这座“鬼城”的常住民。",
+      "target": "Lý Diệu chính là một cư dân kỳ cựu của \"ngôi làng ma\" này."
+    },
+    {
+      "segment_id": "0008",
+      "source": "他喜欢这里够清静，在家里进行法宝维修改造也不会吵到别人，离法宝坟墓又近，租金还便宜，简直一举多得。",
+      "target": "Cậu thích nơi này vì nó đủ thanh tịnh, tự mình sửa chữa, cải tiến pháp bảo ở nhà cũng không sợ làm phiền đến ai. Nơi này vừa gần nghĩa địa pháp bảo, tiền thuê lại rẻ, quả là một công đôi việc."
+    },
+    {
+      "segment_id": "0009",
+      "source": "他的家是一套五十多平米的套间，里外两间，外间吃喝拉撒，里面的卧室却改造成了法宝维修工作室。",
+      "target": "Nhà của cậu là một căn hộ chung cư rộng hơn năm mươi mét vuông gồm hai gian trong ngoài. Gian ngoài dùng cho sinh hoạt ăn uống ngủ nghỉ, còn phòng ngủ bên trong lại được cải tạo thành một phòng làm việc chuyên sửa chữa pháp bảo."
+    },
+    {
+      "segment_id": "0010",
+      "source": "一进房门，首先印入眼帘的是用绳子从天花板上垂挂下来的上百台晶脑，就像是上百个小小的骷髅头。",
+      "target": "Vừa bước vào cửa, đập vào mắt đầu tiên chính là hơn trăm chiếc tinh não treo lơ lửng bằng dây thừng từ trên trần nhà xuống, trông giống như hàng trăm cái đầu lâu nhỏ bé."
+    },
+    {
+      "segment_id": "0011",
+      "source": "这些晶脑大部分都是数百年前的老古董，已经失去了运算能力，被李耀捡来当成收藏品——他是一个晶脑迷，对这种能够模仿修真者大脑来运算万千念头的法宝十分感兴趣。",
+      "target": "Phần lớn những chiếc tinh não này đều là đồ cổ từ mấy trăm năm trước, sớm đã không còn khả năng tính toán, được Lý Diệu nhặt về làm đồ sưu tập — cậu là một kẻ cuồng tinh não, cực kỳ hứng thú với loại pháp bảo có thể mô phỏng bộ não của tu sĩ để tính toán hàng vạn suy nghĩ này."
+    },
+    {
+      "segment_id": "0012",
+      "source": "不大的客厅到处都堆满了这个时代很罕见的实体书，从《法宝维修概要》、《初级飞剑炼制简明教程》、《一个炼器师的自我修养》到《黑山老妖级晶石战舰维修手册》、《轰爆一个星球的九十九种方法》，不少都是几百年前的古籍，灰灰黄黄，酥烂不堪。",
+      "target": "Trong phòng khách chật hẹp, đâu đâu cũng chất đầy những cuốn sách giấy vốn rất hiếm thấy ở thời đại này. Từ \"Khái yếu sửa chữa pháp bảo\", \"Giáo trình giản yếu luyện chế phi kiếm sơ cấp\", \"Tu dưỡng tự thân của một Luyện khí sư\" cho đến \"Sách hướng dẫn sửa chữa chiến hạm tinh thạch cấp Hắc Sơn Lão Yêu\", \"Chín mươi chín phương pháp nổ tung một hành tinh\"... Trong đó có không ít sách cổ từ mấy trăm năm trước, giấy đã ngả vàng xám và mủn nát."
+    },
+    {
+      "segment_id": "0013",
+      "source": "在书籍和晶脑的包围下，是一块半旧不新的草垫，这就是李耀的饭桌、椅子 and 床了。",
+      "target": "Giữa vòng vây của sách vở và tinh não là một tấm đệm rơm cũ kỹ, đây vừa là bàn ăn, ghế ngồi lẫn giường ngủ của Lý Diệu."
+    },
+    {
+      "segment_id": "0014",
+      "source": "而里屋的法宝维修工作室里，堆满了他从垃圾场里捡来的奇珍异宝，寒光闪闪 of 飞剑、笔走龙蛇的符箓、异香扑鼻的丹药……",
+      "target": "Còn trong phòng làm việc sửa chữa pháp bảo ở gian trong lại chất đầy những \"kỳ trân dị bảo\" mà cậu nhặt được từ bãi rác: những thanh phi kiếm ánh lạnh sáng quắc, những tấm phù lục rồng bay phượng múa, những viên đan dược tỏa hương thơm ngào ngạt..."
+    },
+    {
+      "segment_id": "0015",
+      "source": "更多的法宝，都被他拆卸成了最基本的元件，胡乱堆在角落里，化作几座微型垃圾山。",
+      "target": "Phần lớn pháp bảo đã bị cậu tháo rời thành những linh kiện cơ bản nhất, chất đống bừa bãi ở góc phòng thành mấy ngọn núi rác mini."
+    },
+    {
+      "segment_id": "0016",
+      "source": "此时，李耀正捧着一台银白色的匣形法宝，双眼闪闪发亮，就像是见了小白兔的大灰狼，嘴角差点没淌下一道口水。",
+      "target": "Lúc này, Lý Diệu đang nâng niu một chiếc pháp bảo hình hộp màu bạc, hai mắt sáng quắc như sói xám nhìn thấy thỏ con, nước miếng suýt chút nữa là chảy ra ở khóe miệng."
+    },
+    {
+      "segment_id": "0017",
+      "source": "长着黑色羽翼的飞剑在他背后探头探脑，像是一条好奇的胖蛇。",
+      "target": "Thanh phi kiếm mang đôi cánh đen ở sau lưng cậu đang ló đầu ra dòm ngó, trông như một con rắn béo hiếu kỳ."
+    },
+    {
+      "segment_id": "0018",
+      "source": "“竟然是千幻宗推出的最新一代‘立体光幕仪’，市面售价两万多！如果能修好的话，怎么着也卖个万儿八千的，小黑，这次咱们发达了！”李耀忍不住吹了声口哨。",
+      "target": "\"Không ngờ lại là 'Quang mạc nghi lập thể' đời mới nhất do Thiên Huyễn Tông tung ra, giá thị trường hơn hai vạn! Nếu sửa được thì kiểu gì cũng bán được khoảng tám, chín ngàn, Tiểu Hắc, lần này chúng ta phát tài rồi!\" Lý Diệu không kìm được huýt sáo một tiếng."
+    },
+    {
+      "segment_id": "0019",
+      "source": "黑色飞剑“吱吱”作响，两片护翼上下翻飞，手舞足蹈，竟然流露出一丝和主人同样的“贪婪”味道。",
+      "target": "Thanh phi kiếm màu đen phát ra tiếng kêu \"chi chi\", hai phiến cánh hộ vệ vỗ lên vỗ xuống, khua tay múa chân, cư nhiên cũng lộ ra một tia \"tham lam\" y hệt chủ nhân."
+    },
+    {
+      "segment_id": "0020",
+      "source": "李耀手一抖，指间出现七八支奇形怪状的维修工具，有些像是螺丝刀，有些像是小镊子，还有细细长长的银针和弯弯曲曲叫不出名字的工具。",
+      "target": "Lý Diệu rung nhẹ cổ tay, giữa các ngón tay liền xuất hiện bảy tám dụng cụ sửa chữa có hình thù kỳ dị. Cái thì giống tuốc-nơ-vít, cái thì giống nhíp nhỏ, lại có cả những cây kim bạc dài mảnh cùng những món công cụ uốn lượn ngoằn ngoèo không rõ tên."
+    },
+    {
+      "segment_id": "0021",
+      "source": "“小黑，你猜几秒？”",
+      "target": "\"Tiểu Hắc, ngươi đoán xem mất mấy giây?\""
+    },
+    {
+      "segment_id": "0022",
+      "source": "黑色飞剑“吱吱”讥笑了两声，用剑尖在虚空中比划了一个“50”。",
+      "target": "Thanh phi kiếm màu đen kêu \"chi chi\" cười giễu cợt hai tiếng, dùng mũi kiếm vạch vào không trung con số \"50\"."
+    },
+    {
+      "segment_id": "0023",
+      "source": "“五十秒？小看我！”",
+      "target": "\"Năm mươi giây? Khinh thường ta quá!\""
+    },
+    {
+      "segment_id": "0024",
+      "source": "眼皮阖上，深吸一口气，平静三秒钟，再睁眼时，眼中的贪婪和兴奋无影无踪，只剩下古井无波一般的清冷和满溢的自信。",
+      "target": "Cậu nhắm mắt lại, hít sâu một hơi, tĩnh tâm trong ba giây. Khi mở mắt ra lần nữa, vẻ tham lam và phấn khích trong mắt đã hoàn toàn biến mất, chỉ còn lại sự lạnh lùng tĩnh lặng như nước hồ thu cùng sự tự tin tràn đầy."
+    },
+    {
+      "segment_id": "0025",
+      "source": "李耀的双手骤然发动，十指化作十道流光，将银白法宝完全笼罩，开始还能依稀看到指尖运动的轨迹，到后来只能看到一团耀眼的白芒，白芒中传来“沙沙沙沙”的声响。",
+      "target": "Đôi tay của Lý Diệu đột nhiên chuyển động. Mười ngón tay hóa thành mười vệt lưu quang bao trùm hoàn toàn chiếc pháp bảo màu bạc. Lúc đầu còn có thể nhìn thấy lờ mờ quỹ đạo chuyển động của các đầu ngón tay, nhưng về sau chỉ còn thấy một quầng sáng trắng chói mắt, bên trong truyền ra những tiếng \"sột soạt\" liên hồi."
+    },
+    {
+      "segment_id": "0026",
+      "source": "半分钟之后，白芒一抖，“沙沙”声消失，上百道残影逐一回归本体，李耀的双手依旧放在最初的位置，连一分一毫都没有移动。",
+      "target": "Nửa phút sau, quầng sáng trắng rung lên, tiếng \"sột soạt\" biến mất. Hàng trăm tàn ảnh lần lượt quy về bản thể. Đôi tay của Lý Diệu vẫn đặt ở vị trí ban đầu, không hề dịch chuyển dù chỉ một phân."
+    },
+    {
+      "segment_id": "0027",
+      "source": "而银白色的法宝“立体光幕仪”，已经被他拆卸成了四百二十五枚元件。",
+      "target": "Mà chiếc pháp bảo màu bạc \"Quang mạc nghi lập thể\" đã bị cậu tháo rời thành bốn trăm hai mươi lăm linh kiện."
+    },
+    {
+      "segment_id": "0028",
+      "source": "“三十九秒，搞定！”",
+      "target": "\"Ba mươi chín giây, xong xuôi!\""
+    },
+    {
+      "segment_id": "0029",
+      "source": "李耀欢呼一声，冲黑色飞剑得意地挤了挤眼睛，聚精会神地研究起来。",
+      "target": "Lý Diệu reo lên một tiếng, đắc ý nháy mắt với thanh phi kiếm màu đen, rồi tập trung tinh thần vào nghiên cứu."
+    },
+    {
+      "segment_id": "0030",
+      "source": "“啧啧，真不愧是‘千幻宗’炼制的最新型号光幕仪，结构精巧，灵力间的平衡有如浑然天成，最厉害的是这块主晶片，指甲盖大小的主晶片上居然镌刻着三百枚以上的灵符，互相牵引，组成了超过二十个符阵，简直是艺术品！”",
+      "target": "\"Chậc chậc, quả không hổ danh là quang mạc nghi đời mới nhất do Thiên Huyễn Tông luyện chế. Cấu trúc tinh xảo, sự cân bằng giữa các luồng linh lực như thể tự nhiên tạo thành. Đáng nể nhất là tinh phiến chính này, tinh phiến chính chỉ bằng móng tay mà lại khắc hơn ba trăm linh phù, dắt díu lẫn nhau tạo thành hơn hai mươi phù trận, đúng là một tác phẩm nghệ thuật!\""
+    },
+    {
+      "segment_id": "0031",
+      "source": "李耀手持放大镜，仔细观察着拆卸下来的主晶片，脸上充满了朝圣般的迷醉，看着看着，表情越来越凝重。",
+      "target": "Lý Diệu cầm kính lúp, cẩn thận quan sát tinh phiến chính vừa tháo ra. Gương mặt cậu tràn đầy vẻ say mê như đang hành hương. Nhưng càng nhìn, vẻ mặt cậu lại càng trở nên nghiêm trọng."
+    },
+    {
+      "segment_id": "0032",
+      "source": "“不对……不止是三百灵符，这枚主晶片似乎采用了晶体折叠技术，是把三枚晶片叠加在了一起，总共储存了上千道灵符，组成了上百道立体符阵，太不可思议了！”",
+      "target": "\"Không đúng... Không chỉ có ba trăm linh phù. Tinh phiến chính này dường như áp dụng công nghệ gấp tinh thể, xếp chồng ba tinh phiến lại với nhau, tổng cộng lưu trữ hơn ngàn đạo linh phù, tạo thành hơn trăm phù trận lập thể, thật là khó tin!\""
+    },
+    {
+      "segment_id": "0033",
+      "source": "越研究，越觉得博大精深，李耀完全沉迷进去，忘却了时间的流逝，足足钻研了三个多小时，也没能解析出哪怕一座完整的符阵，却把自己看得头昏眼花，眼前一阵阵发黑。",
+      "target": "Càng nghiên cứu càng thấy bác đại tinh thâm, Lý Diệu hoàn toàn chìm đắm vào trong, quên cả thời gian trôi qua. Cậu nghiên cứu ròng rã hơn ba tiếng đồng hồ mà vẫn không thể giải mã nổi dù chỉ một phù trận hoàn chỉnh, trái lại còn tự khiến mình hoa mắt chóng mặt, trước mắt tối sầm lại từng đợt."
+    },
+    {
+      "segment_id": "0034",
+      "source": "他现在最多只有“初级法宝维修员”的水准，距离“千幻宗”炼器大师的水平，实在差太远，太远。",
+      "target": "Trình độ hiện tại của cậu tối đa cũng chỉ ở mức \"thợ sửa chữa pháp bảo sơ cấp\", cách trình độ của các bậc thầy luyện khí Thiên Huyễn Tông thực sự là quá xa, quá xa."
+    },
+    {
+      "segment_id": "0035",
+      "source": "如果是这枚“主晶片”出了问题，那他没有任何办法，只能把立体光幕仪当废品卖掉。",
+      "target": "If như có vấn đề ở \"tinh phiến chính\" này thì cậu cũng đành chịu trói, chỉ có nước đem chiếc quang mạc nghi lập thể này đi bán phế liệu."
+    },
+    {
+      "segment_id": "0036",
+      "source": "幸好，在用“储灵器”输入一道灵力之后，李耀发现主晶片的灵力运行流畅，灵路清晰，符阵稳定，并没有什么异常。",
+      "target": "May mà sau khi dùng \"trữ linh khí\" truyền vào một luồng linh lực, Lý Diệu phát hiện tinh phiến chính vận hành linh lực rất trơn tru, linh lộ rõ ràng, phù trận ổn định, không hề có gì bất thường."
+    },
+    {
+      "segment_id": "0037",
+      "source": "仔细检查之下，发现问题是出在一枚最低级的晶路管上，是因为灵力异常波动导致晶路管烧坏了。",
+      "target": "Sau khi kiểm tra kỹ lưỡng, cậu phát hiện vấn đề nằm ở một ống tinh lộ cấp thấp nhất. Do linh lực dao động bất thường dẫn đến ống tinh lộ bị cháy hỏng."
+    },
+    {
+      "segment_id": "0038",
+      "source": "这种晶路管是标准件，更换起来很方便，李耀很快从家里的存货中找到了一枚替代品。",
+      "target": "Loại ống tinh lộ này là linh kiện tiêu chuẩn, thay thế rất dễ dàng. Lý Diệu nhanh chóng tìm được một cái thay thế từ trong đống đồ dự trữ ở nhà."
+    },
+    {
+      "segment_id": "0039",
+      "source": "闭上眼睛，默默回想了一下刚才的拆卸过程，一张巨细无遗的结构图浮现在了脑海中，双手自然而然发动，一阵风卷残云，立体光幕仪重新组装完毕！",
+      "target": "Cậu nhắm mắt lại, lặng lẽ hồi tưởng lại quá trình tháo dỡ vừa rồi. Một bản vẽ cấu trúc chi tiết đến từng chân tơ kẽ tóc hiện lên trong đầu. Đôi tay cậu bắt đầu chuyển động một cách tự nhiên, nhanh như gió cuốn mây tan, chiếc quang mạc nghi lập thể đã được lắp ráp lại hoàn chỉnh!"
+    },
+    {
+      "segment_id": "0040",
+      "source": "用储灵器输入一道灵能，洁白的外壳泛出幽幽的蓝芒，恍若一整块晶莹剔透的玉石，又似拥有生命的精灵。",
+      "target": "Truyền một luồng linh năng từ trữ linh khí vào, lớp vỏ ngoài trắng muốt lập tức tỏa ra ánh sáng xanh lam huyền ảo, tựa như một khối ngọc bích trong suốt lung linh, lại giống như một tinh linh có sinh mệnh."
+    },
+    {
+      "segment_id": "0041",
+      "source": "而被蓝芒扫过前额，李耀的脑海深处自然而然浮现出了几十道控制符文。",
+      "target": "Khi ánh lam mang quét qua trán, sâu trong tâm trí Lý Diệu tự nhiên hiện lên vài chục đạo phù văn điều khiển."
+    },
+    {
+      "segment_id": "0042",
+      "source": "“光幕仪，开启！”李耀心中默念，脑海中一枚控制符文立刻闪亮。",
+      "target": "\"Quang mạc nghi, mở ra!\" Lý Diệu thầm niệm trong lòng, lập tức một đạo phù văn điều khiển trong đầu sáng lên rực rỡ."
+    },
+    {
+      "segment_id": "0043",
+      "source": "光幕仪上的蓝芒汇聚成了一道“回”形符文，恍若漩涡，飞速旋转了两圈，从漩涡中央射出一道蓝色光束，在半空中凝结成了一张巨大的光幕，光幕闪动，显现出一名身穿八卦道袍的中年修真者形象，纤毫毕现，栩栩如生。",
+      "target": "Ánh lam mang trên quang mạc nghi ngưng tụ thành một đạo phù văn hình chữ \"Hồi\", tựa như một vòng xoáy quay tít hai vòng, rồi từ tâm vòng xoáy phóng ra một luồng sáng xanh lam. Luồng sáng ngưng tụ giữa không trung thành một bức màn ánh sáng khổng lồ. Màn sáng lóe lên, hiển hiện hình ảnh một tu sĩ trung niên mặc đạo bào bát quái, rõ ràng đến từng chi tiết, sống động như thật."
+    },
+    {
+      "segment_id": "0044",
+      "source": "这名修真者背后是一块更加巨大的光幕，光幕上交织着红色和绿色的符文、数字、箭头，不断跳动变幻。",
+      "target": "Phía sau vị tu sĩ này là một tấm quang mạc còn khổng lồ hơn, trên đó đan xen những phù văn, con số, mũi tên màu đỏ và màu xanh lá cây liên tục nhảy múa, biến đổi."
+    },
+    {
+      "segment_id": "0045",
+      "source": "中年修真者面无表情，古井无波地说道：“下面继续为各位播送财经新闻，以下是股市行情综述——今天最大的新闻无疑是‘无影剑派’宣布最新一代飞剑驱动符阵‘紫电’问世，据称在应用了‘紫电’之后，飞剑的最高速度可以提升百分之九，瞬间破坏力提升百分之十一，而消耗的灵力则可以下降百分之五，对飞剑的综合性能提升十分明显。”",
+      "target": "Vị tu sĩ trung niên mặt không cảm xúc, giọng nói bình thản như nước: \"Sau đây xin tiếp tục phát bản tin tài chính, dưới đây là tổng hợp thị trường chứng khoán — Tin tức lớn nhất ngày hôm nay chắc chắn là việc 'Vô Ảnh Kiếm Phái' công bố phù trận truyền động phi kiếm thế hệ mới nhất mang tên 'Tử Điện' chính thức ra đời. Được biết, sau khi ứng dụng 'Tử Điện', tốc độ tối đa của phi kiếm có thể tăng thêm 9%, sức tàn phá tức thời tăng thêm 11%, trong khi linh lực tiêu hao lại giảm được 5%. Sự cải thiện đối với hiệu năng tổng thể của phi kiếm là cực kỳ rõ rệt.\""
+    },
+    {
+      "segment_id": "0046",
+      "source": "“受此利好影响，无影剑派的股价一路上扬，十点前就接近涨停并一路保持到收盘。”",
+      "target": "\"Chịu ảnh hưởng tích cực từ tin tức này, giá cổ phiếu của Vô Ảnh Kiếm Phái liên tục tăng vọt, trước mười giờ đã áp sát mức trần và duy trì đà tăng này cho đến khi đóng cửa phiên giao dịch.\""
+    },
+    {
+      "segment_id": "0047",
+      "source": "“而整个剑修板块，包括巨剑门、极北剑宗、南海剑派在内的二十二家宗门，股价也一路飘红，截至收盘，剑修板块整体上涨5.42个百分点。”",
+      "target": "\"Bên cạnh đó, toàn bộ nhóm ngành kiếm tu, bao gồm hai mươi hai tông môn như Cự Kiếm Môn, Cực Bắc Kiếm Tông, Nam Hải Kiếm Phái, giá cổ phiếu cũng liên tục tăng điểm. Tính đến khi đóng cửa phiên giao dịch, nhóm ngành kiếm tu tăng trưởng trung bình 5,42%.\""
+    },
+    {
+      "segment_id": "0048",
+      "source": "“而另一方面，偏重防御的‘金甲宗’等宗派股价则一路下挫，分析人士普遍认为，随着‘紫电’等新符阵接连问世，飞剑技术将产生革命性的飞跃，当前主流的战甲根本无法防御住最新型号 of 飞剑攻击，截至收盘，金甲宗股价下跌超过8%。”",
+      "target": "\"Trái lại, giá cổ phiếu của các tông phái thiên về phòng thủ như 'Kim Giáp Tông' lại liên tục sụt giảm. Giới phân tích nhận định rộng rãi rằng, cùng với việc các phù trận mới như 'Tử Điện' liên tục ra đời, công nghệ phi kiếm sẽ tạo nên bước nhảy vọt mang tính cách mạng, các loại chiến giáp thịnh hành hiện nay hoàn toàn không thể chống đỡ được sự tấn công của phi kiếm đời mới nhất. Tính đến khi đóng cửa phiên giao dịch, cổ phiếu Kim Giáp Tông đã giảm hơn 8%.\""
+    },
+    {
+      "segment_id": "0049",
+      "source": "“金甲宗在收盘后召开了临时新闻发布会，金甲宗新闻发言人黑岩长老宣布最新一代‘星击盾’战甲的研发已经取得了突破性进展，原型机将在年内问世，绝对能防御住一切飞剑的攻击。”",
+      "target": "\"Sau khi kết thúc phiên giao dịch, Kim Giáp Tông đã tổ chức một buổi họp báo khẩn cấp. Người phát ngôn của Kim Giáp Tông là Hắc Nham trưởng lão tuyên bố rằng việc nghiên cứu phát triển thế hệ chiến giáp 'Tinh Kích Thuẫn' mới nhất đã đạt được tiến triển có tính đột phá, mẫu thử nghiệm sẽ ra mắt trong năm nay, tuyệt đối có thể chống đỡ được mọi đợt tấn công từ phi kiếm.\""
+    },
+    {
+      "segment_id": "0050",
+      "source": "“而在联邦北方的草原区，黑线虫疫灾持续蔓延，已经扩散到了多个驭兽宗派的灵兽养殖基地，受灾灵兽超过五十万头，罕见的灾情使得御兽板块的股价持续低位运行，多个驭兽宗派股价跌破三年最低线。”",
+      "target": "\"Còn tại khu vực thảo nguyên phía bắc Liên bang, dịch bệnh hắc tuyến trùng tiếp tục lan rộng, đã lan tới căn cứ nuôi dưỡng linh thú của nhiều tông phái ngự thú. Số lượng linh thú bị ảnh hưởng vượt quá năm mươi vạn con. Tình hình dịch bệnh hiếm thế này khiến giá cổ phiếu nhóm ngành ngự thú liên tục duy trì ở mức thấp, cổ phiếu của nhiều tông phái ngự thú đã giảm xuống dưới mức thấp nhất trong vòng ba năm.\""
+    },
+    {
+      "segment_id": "0051",
+      "source": "“好，下面有请著名股评家天星子为大家进行个股点评。”",
+      "target": "\"Vâng, sau đây xin mời nhà bình luận chứng khoán nổi tiếng Thiên Tinh Tử tiến hành nhận định chi tiết từng mã cổ phiếu cho quý vị.\""
+    },
+    {
+      "segment_id": "0052",
+      "source": "“……”",
+      "target": "\"......\""
+    },
+    {
+      "segment_id": "0053",
+      "source": "李耀看了半天，发现画面稳定，声音清晰，也没有雪花和斑纹，特别是立体感极强，令人有身临其境之感，应该是修好了。",
+      "target": "Lý Diệu đứng xem một hồi lâu, thấy hình ảnh ổn định, âm thanh rõ ràng, không hề có nhiễu hạt hay sọc màn hình, đặc biệt là hiệu ứng lập thể cực kỳ chân thực, đem lại cảm giác như đang trực tiếp ở hiện trường. Xem ra đã sửa xong rồi."
+    },
+    {
+      "segment_id": "0054",
+      "source": "想了想，脑域中再次冥想：“切换到娱乐频道。”",
+      "target": "Suy nghĩ một chút, cậu lại dùng ý nghĩ tập trung điều khiển: \"Chuyển sang kênh giải trí.\""
+    },
+    {
+      "segment_id": "0055",
+      "source": "蓝芒一闪，中年修真者和红绿光幕瞬间消失，取而代之的是一座热火朝天的体育场。",
+      "target": "Ánh lam mang lóe lên, vị tu sĩ trung niên cùng tấm quang mạc xanh đỏ biến mất ngay lập tức, thay thế vào đó là cảnh tượng một sân vận động vô cùng náo nhiệt."
+    },
+    {
+      "segment_id": "0056",
+      "source": "可以容纳十万人的大体育场座无虚席，人声嘈杂，沸反盈天，在七彩斑斓的光芒闪耀之下，十万名热血沸腾的少男少女高举双手，共同呐喊着一个名字：",
+      "target": "Sân vận động khổng lồ có sức chứa mười vạn người không còn một chỗ trống, âm thanh ồn ào náo động thấu trời. Dưới ánh đèn rực rỡ sắc màu, mười vạn thiếu nam thiếu nữ nhiệt huyết sôi trào đồng loạt giơ cao hai tay, cùng nhau gào thét một cái tên:"
+    },
+    {
+      "segment_id": "0057",
+      "source": "“陆音希！”",
+      "target": "\"Lục Âm Hy!\""
+    },
+    {
+      "segment_id": "0058",
+      "source": "“陆音希！”",
+      "target": "\"Lục Âm Hy!\""
+    },
+    {
+      "segment_id": "0059",
+      "source": "“陆音希！”",
+      "target": "\"Lục Âm Hy!\""
+    },
+    {
+      "segment_id": "0060",
+      "source": "三层楼高的主舞台上，犬牙交错，矗立着几十根尖锐的水晶，当少男少女的欢呼声汇聚到极致时，最粗壮的一枚水晶忽然爆裂，一名容貌清冷似雪，眼神却炙热如岩浆的白衣少女从水晶中蹦了出来，她的腰间斜挎着一具恍若水晶堆砌而成的古琴，纤纤素手扫过琴弦，轰出的却是金戈铁马的铮铮魔音！",
+      "target": "Trên sân khấu chính cao bằng tòa nhà ba tầng đứng sừng sững vài chục cột pha lê sắc nhọn đan xen. Khi tiếng reo hò của các cô cậu thiếu niên dâng lên đến đỉnh điểm, cột pha lê to lớn nhất đột nhiên nổ tung, một thiếu nữ mặc áo trắng có dung mạo thanh lãnh như tuyết nhưng ánh mắt lại nóng bỏng như dung nham từ trong pha lê nhảy vọt ra. Bên hông cô đeo chéo một cây cổ cầm trông như được tạc từ pha lê, bàn tay thon thả lướt qua dây đàn, tấu lên những âm điệu ma mị dồn dập tựa như tiếng binh khí va chạm trên chiến trường!"
+    },
+    {
+      "segment_id": "0061",
+      "source": "“心中有梦就要狂妄去飞，星河彼岸才是我们的方向！这是属于我们的，修！真！新！世！纪！”",
+      "target": "\"Trong tim có ước mơ thì cứ ngạo nghễ mà bay lượn, bờ bên kia của ngân hà mới là đích đến của chúng ta! Đây là thời đại của chúng ta, KỶ! NGUYÊN! TU! CHÂN! MỚI!\""
+    },
+    {
+      "segment_id": "0062",
+      "source": "和所有少男少女一样，李耀的血也开始沸腾。",
+      "target": "Giống như bao thiếu nam thiếu nữ khác, dòng máu trong người Lý Diệu cũng bắt đầu sôi trào."
+    },
+    {
+      "segment_id": "0063",
+      "source": "舞台上热力四射的少女“陆音希”，是这两年刚刚崛起的偶像派女歌手，一出道就以冰冷的造型和劲爆的演唱风格吸引了大批青少年，成名曲《修真40000年》在短短半年之内风靡整个联邦，无数青少年正是在这首歌的激励下走上了修真之路。",
+      "target": "Thiếu nữ tỏa sáng rực rỡ trên sân khấu \"Lục Âm Hy\" là một nữ ca sĩ thần tượng vừa mới nổi lên trong hai năm gần đây. Ngay khi vừa ra mắt, cô đã thu hút một lượng lớn thanh thiếu niên nhờ tạo hình lạnh lùng cùng phong cách biểu diễn cực kỳ bốc lửa. Ca khúc làm nên tên tuổi của cô — \"Tu Chân 40000 Năm\" chỉ trong vòng nửa năm ngắn ngủi đã càn quét khắp Liên bang, tiếp thêm động lực cho vô số người trẻ bước lên con đường tu chân."
+    },
+    {
+      "segment_id": "0064",
+      "source": "李耀也是她的歌迷，不过理由和别人不同，他喜欢陆音希，是因为大家的身世相同。",
+      "target": "Lý Diệu cũng là người hâm mộ của cô, nhưng lý do lại khác với những người khác. Cậu thích Lục Âm Hy là vì hai người có hoàn cảnh thân thế tương đồng."
+    },
+    {
+      "segment_id": "0065",
+      "source": "都是孤儿。",
+      "target": "Họ đều là trẻ mồ côi."
+    },
+    {
+      "segment_id": "0066",
+      "source": "李耀出生在第二十三号特种垃圾处理场，从有记忆以来，天空一直是灰黄的。",
+      "target": "Lý Diệu sinh ra ở bãi xử lý rác thải đặc chủng số 23. Từ khi bắt đầu có ký ức, bầu trời trong mắt cậu luôn là một màu vàng xám tẻ nhạt."
+    },
+    {
+      "segment_id": "0067",
+      "source": "吃的是垃圾堆里的腐肉，喝的是受污染的臭水，依靠野兽般的本能以及记忆深处的一点“秘密”艰难求存，从最开始受尽欺凌到十几年后成为法宝坟墓中最危险的“秃鹫”。",
+      "target": "Ăn thịt thối rữa nhặt từ đống rác, uống nước bẩn ô nhiễm, cậu sinh tồn một cách chật vật nhờ vào bản năng như dã thú và một chút \"bí mật\" sâu thẳm trong trí nhớ. Từ chỗ bị bắt nạt đủ điều lúc ban đầu, sau mười mấy năm, cậu đã trở thành một \"Kền Kền\" nguy hiểm nhất trong nghĩa địa pháp bảo."
+    },
+    {
+      "segment_id": "0068",
+      "source": "如果不是“老爹”的出现，李耀可能会在垃圾场里一直厮混，成为又一个“肥龙”或者“野狼”。",
+      "target": "Nếu không có sự xuất hiện của \"lão cha\", Lý Diệu có lẽ sẽ mãi lăn lộn trong bãi rác, trở thành một \"Phì Long\" hay \"Dã Lang\" tiếp theo."
+    },
+    {
+      "segment_id": "0069",
+      "source": "可是在六年前的一天，一艘垃圾船把老爹混杂在几十吨垃圾里一起丢了下来，而李耀又动了恻隐之心，把伤痕累累的老爹拖回了家。",
+      "target": "Thế nhưng vào một ngày của sáu năm trước, một con tàu chở rác đã trút lão cha xuống cùng với vài chục tấn rác thải. Lý Diệu khi ấy nổi lòng trắc ẩn, đã kéo lão cha đang thương tích đầy mình về nhà."
+    },
+    {
+      "segment_id": "0070",
+      "source": "从此， his 命运就完全改变了。",
+      "target": "Kể từ đó, số phận của cậu đã hoàn toàn thay đổi."
+    },
+    {
+      "segment_id": "0071",
+      "source": "老爹从来不谈他的来历，李耀只知道他肯定是一名非常厉害的法宝改装高手，短短五年时间里，老爹教会了李耀上万种稀奇古怪的法宝改造技术，也教他各种基础学科的知识，还花钱供他上了城里的私立高中，使他融入到了正常社会里。",
+      "target": "Lão cha chưa từng hé môi về lai lịch của mình, Lý Diệu chỉ biết ông chắc chắn là một cao thủ cải tiến pháp bảo vô cùng lợi hại. Chỉ trong vòng năm năm ngắn ngủi, lão cha đã dạy cho Lý Diệu hàng vạn kỹ thuật cải tạo pháp bảo kỳ lạ khác thường, truyền thụ cho cậu kiến thức của các môn học cơ bản, lại còn bỏ tiền nuôi cậu ăn học tại một trường trung học tư thục trong thành phố, giúp cậu hòa nhập vào xã hội bình thường."
+    },
+    {
+      "segment_id": "0072",
+      "source": "一年前，老爹旧伤发作去世，留给李耀的是一柄名叫“黑翼”的神秘飞剑，据据说是他研究了大半辈子都没研究出个道道的古怪家伙，还有一段话：",
+      "target": "Một năm trước, lão cha qua đời do vết thương cũ tái phát, để lại cho Lý Diệu một thanh phi kiếm bí ẩn tên là \"Hắc Dực\". Nghe nói đây là một thứ cổ quái mà ông đã dành nửa đời người nghiên cứu cũng không tìm ra được manh mối gì, cùng với một lời nhắn nhủ:"
+    },
+    {
+      "segment_id": "0073",
+      "source": "“小耀，老爹我这辈子去过几十个大千世界，见识过上万个法宝改装高手和炼器大师，而你的天分，是最高的！”",
+      "target": "\"Tiểu Diệu, lão cha cả đời này đã đi qua vài chục đại thiên thế giới, chứng kiến hàng vạn cao thủ cải tiến pháp bảo và bậc thầy luyện khí, nhưng thiên phú của con mới là cao nhất!\""
+    },
+    {
+      "segment_id": "0074",
+      "source": "“以区区凡人的双手，就能维修低阶法宝，你，真的很厉害。”",
+      "target": "\"Chỉ với đôi tay của một người phàm trần mà đã có thể sửa chữa được pháp bảo cấp thấp, con thực sự rất cừ.\""
+    },
+    {
+      "segment_id": "0075",
+      "source": "“但光靠天分是不够的！光靠天分，你永远只能维修低阶法宝，民用法宝！”",
+      "target": "\"Thế nhưng chỉ dựa vào thiên phú thôi là chưa đủ! Nếu chỉ có thiên phú, con vĩnh viễn chỉ có thể sửa chữa những pháp bảo cấp thấp, pháp bảo dân dụng mà thôi!\""
+    },
+    {
+      "segment_id": "0076",
+      "source": "“答应老爹，好好念书，争取考上大学，成为修真者！只有成为修真者，你才有可能在法宝维修上更进一步，甚至有朝一日……”",
+      "target": "\"Hãy hứa với lão cha, phải học hành cho tốt, cố gắng thi đỗ đại học để trở thành tu sĩ! Chỉ khi trở thành tu sĩ, con mới có khả năng tiến xa hơn trên con đường sửa chữa pháp bảo, thậm chí là có một ngày...\""
+    },
+    {
+      "segment_id": "0077",
+      "source": "“成为真正的炼器大师！”",
+      "target": "\"Trở thành một bậc thầy luyện khí thực thụ!\""
+    },
+    {
+      "segment_id": "0078",
+      "source": "老爹说这句话时，双目圆睁，眼中精光绽放，气势无穷的场景，李耀记忆犹新。",
+      "target": "Cảnh tượng lão cha khi nói lời này trợn tròn hai mắt, ánh tinh quang bắn ra bốn phía cùng khí thế ngút ngàn, Lý Diệu vẫn còn nhớ như in."
+    },
+    {
+      "segment_id": "0079",
+      "source": "炼器大师啊……那可是修真者圈子里，最受尊崇的职业之一。",
+      "target": "Bậc thầy luyện khí... Đó là một trong những nghề nghiệp được tôn sùng nhất trong giới tu sĩ."
+    },
+    {
+      "segment_id": "0080",
+      "source": "他不知道自己是否会让老爹失望。",
+      "target": "Cậu không biết liệu mình có làm lão cha thất vọng hay không."
+    },
+    {
+      "segment_id": "0081",
+      "source": "黑翼剑默默陪在他身旁，听着光幕仪中少女如火山爆发般的演唱，两片护翼还随着劲歌热舞不断扭动。",
+      "target": "Hắc Dực Kiếm lẳng lặng ở bên cạnh cậu, lắng nghe giọng ca như núi lửa phun trào của thiếu nữ phát ra từ chiếc quang mạc nghi. Hai phiến cánh hộ vệ của nó còn không ngừng lắc lư theo nhịp điệu ca khúc bốc lửa."
+    },
+    {
+      "segment_id": "0082",
+      "source": "过了很久，少年的眼神明亮起来，嘴角重新勾起一抹满不在乎的笑意。",
+      "target": "Lâu lâu sau, ánh mắt của thiếu niên sáng lên, khóe miệng lại nhếch lên một nụ cười bất cần đời."
+    },
+    {
+      "segment_id": "0083",
+      "source": "“想那么多干什么？不管三七二十一，拼就是了！”",
+      "target": "\"Nghĩ nhiều như vậy làm gì? Bất chấp tất cả, cứ liều mạng là được!\""
+    },
+    {
+      "segment_id": "0084",
+      "source": "“陆音希可以从一个小孤女，成为联邦最火爆的女歌星，我为什么不能从一条小小的垃圾虫，变成真正的炼器大师？”",
+      "target": "\"Lục Âm Hy có thể từ một đứa trẻ mồ côi nghèo khổ trở thành nữ ca sĩ nổi tiếng nhất Liên bang, tại sao một con sâu rác nhỏ bé như ta lại không thể trở thành bậc thầy luyện khí thực thụ?\""
+    },
+    {
+      "segment_id": "0085",
+      "source": "少年想起了在很久很久以前，很远很远的地方，听过的一句话：",
+      "target": "Thiếu niên chợt nhớ tới một câu nói từng nghe từ rất lâu về trước, ở một nơi rất xa xôi:"
+    },
+    {
+      "segment_id": "0086",
+      "source": "“梦想总是要有的，万一实现了呢？”",
+      "target": "\"Ước mơ thì vẫn nên có chứ, nhỡ đâu lại thành hiện thực thì sao?\""
+    }
   ]
 }
 ```

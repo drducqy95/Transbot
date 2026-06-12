@@ -148,6 +148,11 @@ Chapter 8 completed via pipeline.
 ### Summary
 Chapter 2 completed via pipeline.
 
+## Chapter 0002 - Chương 2: Quang mạc nghi
+
+### Summary
+Chapter 2 completed via pipeline.
+
 
 ## Source Chapter 2 - 0002 光幕仪
 ```json
