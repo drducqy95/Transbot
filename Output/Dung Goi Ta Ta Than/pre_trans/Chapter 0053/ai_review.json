@@ -1,0 +1,25 @@
+```json
+{
+  "approved": [],
+  "rejected": [
+    {
+      "term": "上回培特没",
+      "reason": "Fragment. Not complete term/sentence. Context unclear."
+    },
+    {
+      "term": "活动期间，正",
+      "reason": "Fragment. Incomplete sentence. Context unclear."
+    },
+    {
+      "term": "的盖尔听得有",
+      "reason": "Fragment. Incomplete sentence. Context unclear."
+    }
+  ],
+  "uncertain": [
+    {
+      "term": "奥术飞弹",
+      "reason": "Complete term but no glossary entry. Likely spell name (Arcane Missile/Magic Missile). Need context: game? novel? If fantasy setting → may translate as【Phi Đạn Huyền Thuật】 or similar. Recommend add to glossary if recurring."
+    }
+  ]
+}
+```

@@ -1,0 +1,19 @@
+CJK leftover detected in segment `0019`:
+
+**Issue:** `培特` (Chinese name) not translated
+
+**Context:** "Lần trước培特không đọc kỹ..." 
+
+培特 = Pét (Vietnamese transliteration) or培特 should be培特 → Pét/Peiter depending on context
+
+**Fix:**
+
+```json
+{
+  "segment_id": "0019",
+  "source": "上回培特没仔细看完整的活动介绍，结果跟其他人一样被蕾娜鄙视了一番。",
+  "target": "Lần trước Pét không đọc kỹ phần giới thiệu sự kiện đầy đủ, kết quả bị Lena khinh thường như những người khác."
+}
+```
+
+**Note:** Verify character name consistency across chapter. If培特 appears elsewhere as "Peiter" or other spelling, use that.
