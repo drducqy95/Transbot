@@ -35,13 +35,13 @@
     "relative_path": "output/Chương 0004 - Chương 4 Đồng đội (Cầu cất chứa!!!).md"
   },
   {
-    "chapter_number": 5,
-    "title": "0005 任务（求推荐！）",
-    "relative_path": "output/Chương 0005 - 0005 任务（求推荐！）.md"
-  },
-  {
     "chapter_number": 8,
     "title": "Chương 8: Kiến bám (Cầu cất chứa!)",
     "relative_path": "output/Chương 0008 - Chương 8 Kiến bám (Cầu cất chứa!).md"
+  },
+  {
+    "chapter_number": 5,
+    "title": "Chương 5: Nhiệm vụ (Cầu đề cử!)",
+    "relative_path": "output/Chương 0005 - Chương 5 Nhiệm vụ (Cầu đề cử!).md"
   }
 ]

@@ -1,0 +1,448 @@
+```json
+{
+  "chapter_number": 12,
+  "chapter_title_vi": "Chương 12: Hương rượu trúc xanh, Cổ sư thị uy",
+  "segments": [
+    {
+      "segment_id": "0001",
+      "source": "# 第十二节：青竹酒香，蛊师逞威",
+      "target": "# Chương 12: Hương rượu trúc xanh, Cổ sư thị uy"
+    },
+    {
+      "segment_id": "0002",
+      "source": "“现在所有的问题，都归结在花酒行者的遗藏上。我若能找到它，一切困难就迎刃而解。若是发现不了，这些难题将极大地拖慢我修行的速度。会让我在修行之初，就被同龄人甩得远远的。费解啊，我用了一周多的时间，来吸引酒虫出现，为什么就一直不见成效？”",
+      "target": "“Bây giờ tất cả mọi vấn đề đều quy về di tàng của Hoa Tửu hành giả. Nếu ta có thể tìm được nó, mọi khó khăn sẽ dễ dàng được giải quyết. Nếu không tìm ra, những nan đề này sẽ kéo chậm đáng kể tốc độ tu hành của ta, khiến ta bị những người cùng lứa bỏ xa ngay từ khi bắt đầu tu hành. Thật khó hiểu, ta đã dùng hơn một tuần để thu hút Tửu trùng xuất hiện, tại sao lại mãi không có hiệu quả?”"
+    },
+    {
+      "segment_id": "0003",
+      "source": "方源皱着眉头，苦思冥想着。吃到嘴里的饭菜，也不知道什么味道。",
+      "target": "Phương Nguyên cau mày, khổ sở suy nghĩ. Cơm canh ăn vào trong miệng cũng chẳng biết có mùi vị gì."
+    },
+    {
+      "segment_id": "0004",
+      "source": "就在这时，一阵喧闹声传来，打断了他的思绪。",
+      "target": "Ngay lúc này, một trận ồn ào truyền đến, cắt đứt dòng suy nghĩ của hắn."
+    },
+    {
+      "segment_id": "0005",
+      "source": "方源循声望去，发现是中央的那桌，六个猎户围着桌子，已经喝得酒气熏天，气氛热烈如火，各个脸红脖子粗。",
+      "target": "Phương Nguyên nhìn theo tiếng động, phát hiện ở chiếc bàn giữa phòng, sáu gã thợ săn đang vây quanh bàn, uống đến mức nồng nặc mùi rượu, bầu không khí sôi nổi như lửa, ai nấy đều đỏ mặt tía tai."
+    },
+    {
+      "segment_id": "0006",
+      "source": "“张老弟，来，再喝一杯！”",
+      "target": "“Trương lão đệ, tới, uống thêm một ly!”"
+    },
+    {
+      "segment_id": "0007",
+      "source": "“峰大哥，兄弟们佩服你的本事，一个人就搞定一头黑皮野猪，真是好汉！这杯酒你必须得喝，不喝就是不给兄弟们面子。”",
+      "target": "“Phong đại ca, huynh đệ tụi em phục sát đất bản lĩnh của huynh, một mình mà giải quyết được một con lợn rừng da đen, đúng là hảo hán! Ly rượu này huynh nhất định phải uống, không uống chính là không nể mặt huynh đệ.”"
+    },
+    {
+      "segment_id": "0008",
+      "source": "“谢兄弟们抬爱，但我实在喝不下了。”",
+      "target": "“Cảm ơn các huynh đệ đã nâng đỡ, nhưng ta thật sự uống không nổi nữa rồi.”"
+    },
+    {
+      "segment_id": "0009",
+      "source": "“峰大哥喝不下，是嫌弃这酒不好吗？小二，你过来，给爷几个上好酒！”",
+      "target": "“Phong đại ca uống không nổi, là chê rượu này không ngon sao? Tiểu nhị, lại đây, mang rượu ngon lên cho mấy gia!”"
+    },
+    {
+      "segment_id": "0010",
+      "source": "声音越来越大，很显然几个猎户都喝多了。",
+      "target": "Âm thanh ngày một lớn hơn, rõ ràng là mấy gã thợ săn đều đã uống nhiều rồi."
+    },
+    {
+      "segment_id": "0011",
+      "source": "跑堂的小二连忙走过去：“几位大哥，好酒是有，但是可有些贵呢。”",
+      "target": "Gã tiểu nhị chạy bàn vội vàng đi tới: “Mấy vị đại ca, rượu ngon thì có, nhưng mà hơi đắt đấy ạ.”"
+    },
+    {
+      "segment_id": "0012",
+      "source": "“怎么，怕爷几个不给钱怎么的？！”猎户们听了这话，好几个都站起来，瞪向店小二。他们不是五大三粗，身材魁梧，就是黑瘦粗壮，精悍逼人，带着山民特有的彪悍之气。",
+      "target": "“Sao, sợ mấy gia đây không trả tiền hay gì?!” Nghe vậy, mấy gã thợ săn liền đứng bật dậy, trợn mắt nhìn tiểu nhị. Bọn họ nếu không phải người cao to lực lưỡng, vạm vỡ cường tráng, thì cũng đen nhẻm thô kệch, tinh hãn bức người, mang theo vẻ hung hãn đặc trưng của dân sơn cước."
+    },
+    {
+      "segment_id": "0013",
+      "source": "小二连忙打招呼，叫屈道：“小的哪敢瞧不起诸位英雄好汉，只是这酒真的有些贵，一坛可值两块元石呢！”",
+      "target": "Tiểu nhị vội vàng chắp tay cười làm hòa, kêu oan: “Nhỏ nào dám coi thường các vị anh hùng hảo hán, chỉ là rượu này thật sự có hơi đắt, một vò trị giá tận hai khối nguyên thạch cơ đấy!”"
+    },
+    {
+      "segment_id": "0014",
+      "source": "猎户们都一愣。",
+      "target": "Đám thợ săn đều ngẩn ra."
+    },
+    {
+      "segment_id": "0015",
+      "source": "两块元石，那可不便宜，是寻常人家两个月的生活费。猎户虽然打猎，赚得比寻常凡人较多，有时候一头黑皮野猪，就值半块元石了。但这狩猎也是有风险的，有时候搞不好自己就成了猎物。",
+      "target": "Hai khối nguyên thạch, con số đó không hề rẻ, bằng hai tháng sinh hoạt phí của một gia đình bình thường. Thợ săn tuy đi săn kiếm được nhiều tiền hơn phàm nhân bình thường, đôi khi một con lợn rừng da đen trị giá nửa khối nguyên thạch, nhưng việc săn bắn này cũng đầy rủi ro, sơ sẩy một chút là bản thân sẽ trở thành con mồi."
+    },
+    {
+      "segment_id": "0016",
+      "source": "为喝一坛酒，就耗费两块元石，对猎户来讲，太不值得了。",
+      "target": "Để uống một vò rượu mà tiêu tốn hai khối nguyên thạch, đối với thợ săn mà nói thì quá không đáng."
+    },
+    {
+      "segment_id": "0017",
+      "source": "“真有这么贵的酒？”",
+      "target": "“Thật sự có rượu đắt như thế sao?”"
+    },
+    {
+      "segment_id": "0018",
+      "source": "“小子，你可不是骗我们的吧？”",
+      "target": "“Nhóc con, ngươi không phải đang lừa bọn ta chứ?”"
+    },
+    {
+      "segment_id": "0019",
+      "source": "猎户们大呼小叫，但是声音都有点虚，有些下不了台的尴尬。",
+      "target": "Các thợ săn nhao nhao kêu lên, nhưng giọng điệu đều hơi thiếu tự tin, mang theo vẻ lúng túng khi tiến thoái lưỡng nan."
+    },
+    {
+      "segment_id": "0020",
+      "source": "小儿连叫不敢。",
+      "target": "Tiểu nhị liên tục kêu không dám."
+    },
+    {
+      "segment_id": "0021",
+      "source": "那猎户中叫峰哥的，看场面不对，连忙打圆场：“诸位兄弟，不要再破费了。今天已经喝不下了，这酒改日再喝吧。”",
+      "target": "Trong đám thợ săn, gã được gọi là Phong ca thấy tình hình không ổn, vội vàng giảng hòa: “Các vị huynh đệ, đừng phá phí nữa. Hôm nay đã uống không nổi rồi, rượu này để hôm khác uống đi.”"
+    },
+    {
+      "segment_id": "0022",
+      "source": "“哥哥说哪里的话！”",
+      "target": "“Ca ca nói vậy là ý gì chứ!”"
+    },
+    {
+      "segment_id": "0023",
+      "source": "“这哪成……”",
+      "target": "“Thế sao được...”"
+    },
+    {
+      "segment_id": "0024",
+      "source": "其余猎户们叫着，但是声音已经渐渐弱小下去，一个个也都坐回座位上。",
+      "target": "Những thợ săn khác lên tiếng, nhưng giọng nói đã nhỏ dần đi, từng người một cũng ngồi lại vào chỗ của mình."
+    },
+    {
+      "segment_id": "0025",
+      "source": "小二也是个精明人物，看这架势，也知道买卖做不成了。",
+      "target": "Tiểu nhị cũng là kẻ tinh ranh, nhìn thế cục này liền biết việc buôn bán này không thành rồi."
+    },
+    {
+      "segment_id": "0026",
+      "source": "不过这情形，他也已经见怪不怪。正要退走，冷不防那角落里的一桌，传来年轻人的声音：“呵呵，真是好笑，一个个瞎咋求什么，买不起酒，就乖乖地闭嘴，缩一边去！”",
+      "target": "Nhưng tình huống này gã cũng đã quen rồi. Đang định lui xuống, bỗng nhiên từ chiếc bàn ở góc phòng truyền đến giọng nói của một thanh niên: “Hơ hơ, thật là nực cười, từng đứa cứ la hét om sòm cái gì, mua không nổi rượu thì ngoan ngoãn ngậm miệng lại, né sang một bên đi!”"
+    },
+    {
+      "segment_id": "0027",
+      "source": "那猎户们听了这话，其中一个顿时被刺激得大叫起来：“谁说我们买不起，小儿，就上那坛酒来，老子给你元石，不就两块嘛！”",
+      "target": "Đám thợ săn nghe thấy thế, một tên trong đó lập tức bị kích động gào lên: “Ai bảo bọn ta mua không nổi! Tiểu nhị, mang vò rượu đó lên đây, lão tử trả nguyên thạch cho ngươi, không phải chỉ có hai khối thôi sao!”"
+    },
+    {
+      "segment_id": "0028",
+      "source": "“哎，客官稍等，这就来！”小二没料到峰回路转，立马接口，转身就下去抱了一坛酒上来。",
+      "target": "“Dạ, khách quan chờ một lát, có ngay đây ạ!” Tiểu nhị không ngờ tình thế lại xoay chuyển nhanh như vậy, liền lập tức đáp lời, xoay người đi xuống ôm một vò rượu lên."
+    },
+    {
+      "segment_id": "0029",
+      "source": "这酒坛只有寻常酒坛的一半大小，但是拍开封泥，顿时就有一股清醇的酒香飘散出来，弥漫整个饭堂。",
+      "target": "Vò rượu này chỉ bằng một nửa kích cỡ vò rượu thông thường, nhưng khi đập vỡ lớp đất niêm phong, lập tức một mùi rượu thơm nồng tinh khiết tỏa ra, tràn ngập khắp quán ăn."
+    },
+    {
+      "segment_id": "0030",
+      "source": "那坐在窗户边独酌的老人，也因为这酒香，不由地转过头来，将目光投放在这坛酒上。",
+      "target": "Lão nhân ngồi một mình uống rượu bên cửa sổ cũng vì hương rượu này mà không tự chủ được quay đầu lại, dồn ánh mắt vào vò rượu kia."
+    },
+    {
+      "segment_id": "0031",
+      "source": "的确是好酒。",
+      "target": "Quả thực là rượu ngon."
+    },
+    {
+      "segment_id": "0032",
+      "source": "“几位客官，不是小的吹牛啊。这可是上好的青竹酒，整个山寨就我们客栈独一家。你们闻闻这酒香！”店小二一边说着，一边深深地吸了一口气，满脸的享受和满足。",
+      "target": "“Mấy vị khách quan, không phải nhỏ ba hoa đâu nhé. Đây là rượu trúc xanh hảo hạng, khắp sơn trại chỉ có mỗi quán trọ của chúng ta có bán thôi. Các vị ngửi thử mùi thơm của rượu này xem!” Điếm tiểu nhị vừa nói vừa hít sâu một hơi, gương mặt đầy vẻ tận hưởng và thỏa mãn."
+    },
+    {
+      "segment_id": "0033",
+      "source": "方源心中一动，这店小二说的也不算吹牛。",
+      "target": "Phương Nguyên trong lòng khẽ động, lời gã điếm tiểu nhị này nói cũng không tính là ba hoa."
+    },
+    {
+      "segment_id": "0034",
+      "source": "古月山寨中共有三家酒肆，卖 of 都是寻常的米酒、浊酒，种类大同小异。方源为了吸引酒虫现身，连续买了七天的酒水，自然清楚其中行情。",
+      "target": "Trong Cổ Nguyệt sơn trại tổng cộng có ba quán rượu, bán đều là rượu gạo, rượu đục thông thường, chủng loại đại đồng tiểu dị. Phương Nguyên vì muốn dụ Tửu trùng xuất hiện đã liên tục mua rượu suốt bảy ngày, tự nhiên nắm rõ tình hình thị trường này."
+    },
+    {
+      "segment_id": "0035",
+      "source": "几个猎户望着面前的酒坛，都被勾起了酒瘾，一个个抽动起鼻子，滚动喉结。",
+      "target": "Mấy gã thợ săn nhìn vò rượu trước mặt, ai nấy đều bị khơi dậy cơn thèm rượu, thi nhau khịt khịt mũi, nuốt nước bọt ực ực."
+    },
+    {
+      "segment_id": "0036",
+      "source": "而那个一时口快，买了酒的猎户，脸上神情更加精彩，多了一抹懊恼之色。",
+      "target": "Mà gã thợ săn lỡ lời mua rượu kia, nét mặt lại càng đặc sắc hơn, thoáng hiện lên vẻ hối hận tột cùng."
+    },
+    {
+      "segment_id": "0037",
+      "source": "就这坛酒，可值两块元石呐！",
+      "target": "Vò rượu này đáng giá tận hai khối nguyên thạch đấy!"
+    },
+    {
+      "segment_id": "0038",
+      "source": "“自己一时冲动，就买了此酒。这店小二也太不地道，立即就上了酒，现在封泥都开了，就算是想退货都不行了。”",
+      "target": "“Bản thân mình nhất thời bốc đồng mới mua vò rượu này. Gã điếm tiểu nhị kia cũng thật quá đáng, lập tức dâng rượu lên luôn, bây giờ lớp đất niêm phong đã khui rồi, muốn trả hàng cũng không được nữa.”"
+    },
+    {
+      "segment_id": "0039",
+      "source": "猎户越想越心疼，想要退，却着实抹不开这面子。",
+      "target": "Gã thợ săn càng nghĩ càng xót của, muốn trả lại nhưng thực sự không thể hạ mặt xuống được."
+    },
+    {
+      "segment_id": "0040",
+      "source": "最终只好拍了一下桌，强笑道：“妈的，这酒好！哥哥们，敞开了喝，今天这酒，兄弟我请了！”",
+      "target": "Cuối cùng đành phải vỗ bàn một cái, gượng cười nói: “Mẹ kiếp, rượu này ngon! Các ca ca, cứ thả cửa mà uống, vò rượu hôm nay huynh đệ ta bao!”"
+    },
+    {
+      "segment_id": "0041",
+      "source": "恰在这时，那角落一桌的年轻人又发出一声嗤笑：“就这一小坛酒，哪够六个人喝的？有种的再买几坛啊。”",
+      "target": "Đúng lúc này, gã thanh niên ở góc bàn lại bật ra một tiếng cười khẩy: “Chỉ có một vò rượu nhỏ thế này, làm sao đủ cho sáu người uống? Có bản lĩnh thì mua thêm mấy vò nữa đi.”"
+    },
+    {
+      "segment_id": "0042",
+      "source": "猎户被这话挤兑得青筋暴跳，腾地一下站起身来，勃然大怒，双目圆瞪向发话的年轻人：“小兔崽子，话挺多呀。来，站出来，来跟哥哥练两手！”",
+      "target": "Gã thợ săn bị lời này khích tướng đến mức nổi đầy gân xanh, đứng phắt dậy, đùng đùng nổi giận, hai mắt trợn trừng nhìn về phía gã thanh niên vừa lên tiếng: “Oắt con, nói nhiều thế hả. Lại đây, bước ra đây, so tài vài chiêu với ca ca xem nào!”"
+    },
+    {
+      "segment_id": "0043",
+      "source": "“哦？那我可站出来了。”青年听了这话，还真起了身，阴笑着走出角落阴影。",
+      "target": "“Ồ? Vậy ta bước ra đây.” Thanh niên nghe vậy liền thực sự đứng dậy, cười nham hiểm bước ra khỏi bóng tối nơi góc phòng."
+    },
+    {
+      "segment_id": "0044",
+      "source": "他身材高瘦，面皮苍白，穿得一身深蓝武服，显得干净利落。",
+      "target": "Gã có dáng người gầy cao, khuôn mặt nhợt nhạt, mặc một bộ võ phục màu xanh lam đậm, trông rất gọn gàng, nhanh nhẹn."
+    },
+    {
+      "segment_id": "0045",
+      "source": "他头上戴着宝蓝色的头带，上身穿着短衣，露出瘦弱的肩膀。下身穿着长裤，脚上是竹芒鞋，小腿处还有绑脚。",
+      "target": "Trên đầu gã quấn một dải băng xanh ngọc, thân trên mặc áo ngắn lộ ra bắp vai gầy gò, thân dưới mặc quần dài, chân đi giày cỏ, bắp chân còn quấn xà cạp."
+    },
+    {
+      "segment_id": "0046",
+      "source": "最关键的是，他腰间系着青布腰带。腰带中段镶嵌着一块闪亮的铜片，铜片上刻着黑色的“一”字。",
+      "target": "Điểm mấu chốt nhất là trên eo gã thắt một chiếc đai lưng bằng vải xanh. Ở giữa đai lưng khảm một miếng đồng sáng loáng, trên miếng đồng khắc chữ “Nhất” màu đen."
+    },
+    {
+      "segment_id": "0047",
+      "source": "“一转蛊师？！”叫嚣的猎户显然明白这身服饰所代表的意思，他倒抽一口冷气，脸上的怒色消退了，变成了惊惧。",
+      "target": "“Cổ sư nhất chuyển?!” Gã thợ săn vừa hét lối rõ ràng hiểu rõ ý nghĩa của trang phục này, gã hít ngược một hơi khí lạnh, vẻ tức giận trên mặt lập tức biến mất, thay vào đó là sự kinh hoàng khiếp sợ."
+    },
+    {
+      "segment_id": "0048",
+      "source": "他没有想到，自己居然招惹到了一名蛊师！",
+      "target": "Gã không thể ngờ nổi bản thân lại chọc phải một vị Cổ sư!"
+    },
+    {
+      "segment_id": "0049",
+      "source": "“你不是想找我练练手吗？来啊，动手啊。”青年蛊师踱步走来，带着一脸戏谑的笑。",
+      "target": "“Ngươi không phải muốn tìm ta so tài sao? Tới đi, ra tay đi.” Gã Cổ sư trẻ tuổi rảo bước đi tới, mang theo nụ cười đầy giễu cợt."
+    },
+    {
+      "segment_id": "0050",
+      "source": "但是刚刚挑衅的猎户，却像是个雕塑一样，站在原地一动不动。",
+      "target": "Thế nhưng gã thợ săn vừa mới khiêu khích kia lúc này lại giống như một bức tượng, đứng chôn chân tại chỗ không hề nhúc nhích."
+    },
+    {
+      "segment_id": "0051",
+      "source": "“或者你们一起上，也行啊。”青年蛊师慢慢地走到猎户一桌，很随意地说着。",
+      "target": "“Hoặc là các ngươi cùng lên một lượt cũng được.” Gã Cổ sư trẻ tuổi thong thả đi đến bàn của đám thợ săn, hờ hững nói."
+    },
+    {
+      "segment_id": "0052",
+      "source": "猎户们脸色都变了，一些喝红了脸的，霎时间脸色就白了。一个个额头都淌下了冷汗，坐立不安，大气都不敢喘一声。",
+      "target": "Sắc mặt của đám thợ săn đều biến đổi, vài tên mặt đang đỏ gay vì rượu trong nháy mắt đã tái mét. Từng người một trán rịn đầy mồ hôi hột, đứng ngồi không yên, ngay cả thở mạnh cũng không dám."
+    },
+    {
+      "segment_id": "0053",
+      "source": "青年蛊师伸出一只手，提起青竹酒的酒坛，放到鼻翼下闻了闻，笑起来：“还真是香啊……”",
+      "target": "Gã Cổ sư trẻ tuổi đưa một tay ra, nhấc vò rượu trúc xanh lên đặt dưới mũi ngửi ngửi rồi cười nói: “Đúng là thơm thật...”"
+    },
+    {
+      "segment_id": "0054",
+      "source": "“蛊师大人若喜欢，拿过去喝好了。就当是小的冒犯大人，向大人赔罪。”挑衅叫嚣的那个猎户，连忙拱手行了个礼，脸上堆起笑容说道。",
+      "target": "“Cổ sư đại nhân nếu thích thì cứ mang qua đó mà uống ạ. Xem như là nhỏ mạo phạm đại nhân, xin được đền tội với ngài.” Gã thợ săn vừa khiêu khích gây sự vội vàng chắp tay hành lễ, trên mặt nặn ra nụ cười lấy lòng nói."
+    },
+    {
+      "segment_id": "0055",
+      "source": "不料青年蛊师猛地变色，啪的一声，把酒坛摔到地上。",
+      "target": "Không ngờ gã Cổ sư trẻ tuổi đột ngột biến sắc, xoảng một tiếng, ném vò rượu xuống đất vỡ tan tành."
+    },
+    {
+      "segment_id": "0056",
+      "source": "蛊师脸色如冰，目光如剑，低声地怒吼起来：“就凭你也有资格向我赔罪？你们这些猎户，真是有钱啊，比我还有钱啊，居然花了两块元石买酒喝？！你知不知道，我正为元石发愁呢！居然敢在这个时候，在我面前炫富！你们这些凡人也配？！”",
+      "target": "Gã Cổ sư mặt lạnh như băng, ánh mắt sắc như kiếm, trầm giọng giận dữ hét lên: “Chỉ dựa vào ngươi mà cũng có tư cách đền tội với ta? Lũ thợ săn các ngươi thật là giàu có nha, còn giàu hơn cả ta nữa, lại dám bỏ ra tận hai khối nguyên thạch để mua rượu uống?! Ngươi có biết ta đang sầu muộn vì thiếu nguyên thạch không hả! Lại dám ngay lúc này khoe của trước mặt ta! Lũ phàm nhân các ngươi cũng xứng sao?!”"
+    },
+    {
+      "segment_id": "0057",
+      "source": "“不敢，不敢！”",
+      "target": "“Không dám, không dám!”"
+    },
+    {
+      "segment_id": "0058",
+      "source": "“冲撞了大人，我们罪该万死！”",
+      "target": "“Mạo phạm đại nhân, bọn nhỏ tội đáng muôn chết!”"
+    },
+    {
+      "segment_id": "0059",
+      "source": "“小的们都是无意冒犯啊，这是小的们身上的元石，请蛊师大人笑纳。”",
+      "target": "“Bọn nhỏ đều là vô ý mạo phạm mà thôi, đây là số nguyên thạch trên người bọn nhỏ, xin Cổ sư đại nhân vui lòng nhận cho.”"
+    },
+    {
+      "segment_id": "0060",
+      "source": "猎户们都触电一般站起来，从怀中掏出元石。但是这些凡人，哪有什么钱财，掏出的都是零零碎碎的元石，最大的也超不过四分之一。",
+      "target": "Đám thợ săn như bị điện giật đồng loạt đứng dậy, móc nguyên thạch từ trong ngực áo ra. Nhưng những phàm nhân này làm gì có nhiều tiền của, lấy ra toàn là những mảnh nguyên thạch vụn vặt, mảnh lớn nhất cũng không quá một phần tư khối."
+    },
+    {
+      "segment_id": "0061",
+      "source": "青年蛊师却没接过这些元石，只是不停地冷笑，用鹰隼般的目光，扫视整个饭堂。",
+      "target": "Gã Cổ sư trẻ tuổi không hề nhận lấy số nguyên thạch đó, chỉ liên tục cười lạnh, dùng ánh mắt sắc bén như chim ưng quét qua toàn bộ quán ăn."
+    },
+    {
+      "segment_id": "0062",
+      "source": "被他扫视到的猎户，都一个个低下了头。窗前那桌看热闹的老人，也赶忙转头，避开蛊师的目光。",
+      "target": "Những thợ săn bị gã quét mắt qua đều cúi đầu xuống. Lão nhân ngồi xem náo nhiệt ở bàn cạnh cửa sổ cũng vội vã quay đầu đi, tránh né ánh mắt của Cổ sư."
+    },
+    {
+      "segment_id": "0063",
+      "source": "只有方源静静地看着，毫无顾忌。",
+      "target": "Chỉ có Phương Nguyên là lặng lẽ quan sát, không hề kiêng dè."
+    },
+    {
+      "segment_id": "0064",
+      "source": "这个青年蛊师一身的服饰，只有正式蛊师才能穿戴，就算是方源也还没资格。只有方源从学堂毕业之后，才能从家族中领取。",
+      "target": "Trang phục của gã Cổ sư trẻ tuổi này chỉ có Cổ sư chính thức mới được phép mặc, ngay cả Phương Nguyên lúc này cũng chưa có tư cách. Phải đợi sau khi Phương Nguyên tốt nghiệp học đường mới có thể nhận lấy từ gia tộc."
+    },
+    {
+      "segment_id": "0065",
+      "source": "青年蛊师腰带铜片上的“一”字，表明了他一转蛊师的身份。",
+      "target": "Chữ “Nhất” trên miếng đồng ở đai lưng của gã Cổ sư trẻ cho thấy thân phận Cổ sư nhất chuyển của gã."
+    },
+    {
+      "segment_id": "0066",
+      "source": "但他已经有二十好几岁的模样，从他身上散发出来的真元气息，应该是一转高阶。",
+      "target": "But nhìn diện mạo gã đã ngoài hai mươi tuổi, từ luồng khí tức chân nguyên dao động trên người gã tỏa ra thì có lẽ là nhất chuyển cao giai."
+    },
+    {
+      "segment_id": "0067",
+      "source": "十五岁开始修行，到了二十多岁，还只是一转高阶，这说明青年的资质只有丁等，比方源还要差一筹。很有可能，只是一位后勤蛊师，连战斗蛊师都算不上。",
+      "target": "Mười lăm tuổi bắt đầu tu hành, đến hơn hai mươi tuổi vẫn chỉ là nhất chuyển cao giai, chứng tỏ tư chất của thanh niên này chỉ là đinh đẳng, so với Phương Nguyên còn kém một bậc. Rất có khả năng gã chỉ là một Cổ sư hậu cần, đến cả Cổ sư chiến đấu cũng không bằng."
+    },
+    {
+      "segment_id": "0068",
+      "source": "但就算如此，对付六个猎户壮汉，仍旧绰绰有余。",
+      "target": "Nhưng dù vậy, đối phó với sáu gã thợ săn vạm vỡ kia vẫn dư dả vô cùng."
+    },
+    {
+      "segment_id": "0069",
+      "source": "这就是蛊师和凡人之间的力量差距。",
+      "target": "Đây chính là khoảng cách về sức mạnh giữa Cổ sư và phàm nhân."
+    },
+    {
+      "segment_id": "0070",
+      "source": "“有了力量，就能高高在上，这就是这个世界的本质。不，任何世界都是这样，大鱼吃小鱼小鱼吃虾米。只是这个世界表现得更赤裸裸一些罢了。”方源心中暗暗感慨。",
+      "target": "“Có được sức mạnh thì có thể đứng ở trên cao, đây chính là bản chất của thế giới này. Không, thế giới nào cũng vậy cả, cá lớn nuốt cá bé, cá bé nuốt tôm tép. Chỉ là thế giới này thể hiện một cách trần trụi hơn mà thôi.” Phương Nguyên thầm cảm thán trong lòng."
+    },
+    {
+      "segment_id": "0071",
+      "source": "“好了江牙，教训一下就得了，不要为难这些凡人，传出去你不嫌丢人，我还嫌丢人呢。”角落里坐着的另一个年轻人，这时开口道。",
+      "target": "“Được rồi Giang Nha, giáo huấn một chút là được rồi, đừng làm khó đám phàm nhân kia nữa. Chuyện này truyền ra ngoài ngươi không thấy mất mặt thì ta còn thấy xấu hổ đấy.” Một “thanh niên” khác ngồi ở góc phòng lúc này lên tiếng."
+    },
+    {
+      "segment_id": "0072",
+      "source": "众人听她说话，这才知道这个年轻人是个女子。",
+      "target": "Mọi người nghe nàng nói chuyện mới biết “thanh niên” này hóa ra là một nữ tử."
+    },
+    {
+      "segment_id": "0073",
+      "source": "名叫江牙的青年蛊师被女同伴说的没趣，停止了冷笑，看也不看猎户们供奉出来的零碎元石。这些元石加起来，还不够两块，他当然没有兴趣。",
+      "target": "Gã Cổ sư trẻ tuổi tên Giang Nha bị nữ đồng bạn nói làm cho mất hứng, ngưng cười lạnh, liếc cũng chẳng thèm liếc số nguyên thạch vụn vặt mà đám thợ săn dâng lên. Số nguyên thạch này gom lại chưa đầy hai khối, gã dĩ nhiên không có hứng thú."
+    },
+    {
+      "segment_id": "0074",
+      "source": "他一拂袖，走向原来座位，一边迈动脚步，一边放下狠话：“你们有种的继续喝，就喝青竹酒。我倒要看看谁还敢喝这酒？”",
+      "target": "Gã phất tay áo đi về chỗ ngồi cũ, vừa sải bước vừa buông lời đe dọa: “Các ngươi có gan thì cứ tiếp tục uống đi, uống loại rượu trúc xanh này ấy. Ta để xem xem ai còn dám uống rượu này nữa?”"
+    },
+    {
+      "segment_id": "0075",
+      "source": "猎户们都低垂着头，被训斥得像六个乖孙子。",
+      "target": "Đám thợ săn đều cúi gầm đầu, bị mắng mỏ ngoan ngoãn như sáu đứa cháu ngoan."
+    },
+    {
+      "segment_id": "0076",
+      "source": "浓郁的酒香弥漫在整个饭堂，那买了酒的猎户闻着酒香，心疼得脸上肌肉抽动。",
+      "target": "Hương rượu nồng đậm lan tỏa trong khắp quán ăn, gã thợ săn mua rượu ngửi mùi hương này mà xót của đến mức cơ mặt co rúm lại."
+    },
+    {
+      "segment_id": "0077",
+      "source": "这酒他可是花了两块元石，却没喝上一口啊！",
+      "target": "Vò rượu này hắn đã bỏ ra hai khối nguyên thạch, thế mà chưa được uống lấy một ngụm nào!"
+    },
+    {
+      "segment_id": "0078",
+      "source": "方源停下筷子，他已经吃饱了。闻着这股酒香，他目光闪烁了几下，忽然掏出两块元石，放在桌上，淡然道：“小二，给我上坛青竹酒。”",
+      "target": "Phương Nguyên dừng đũa, hắn đã ăn no rồi. Ngửi mùi rượu thơm phức này, ánh mắt hắn khẽ lóe lên vài cái, đột nhiên rút ra hai khối nguyên thạch đặt trên bàn, thản nhiên nói: “Tiểu nhị, mang cho ta một vò rượu trúc xanh.”"
+    },
+    {
+      "segment_id": "0079",
+      "source": "全场一愣。",
+      "target": "Toàn trường sững sờ."
+    },
+    {
+      "segment_id": "0080",
+      "source": "那青年蛊师江牙顿时停下步子，嘴角一抽，丝了一口气。他刚刚放下狠话，方源就要了这坛酒，这不是专门拆他的台，打 his 脸么？",
+      "target": "Gã Cổ sư trẻ tuổi Giang Nha lập tức khựng lại, khóe miệng giật giật, hít một hơi lạnh. Gã vừa mới buông lời đe dọa xong thì Phương Nguyên liền gọi ngay vò rượu này, đây không phải là cố ý phá đám, tát thẳng vào mặt gã sao?"
+    },
+    {
+      "segment_id": "0081",
+      "source": "他转过身，眯起双眼，用阴冷的目光射向方源。",
+      "target": "Gã xoay người lại, híp mắt, phóng ánh mắt âm lãnh về phía Phương Nguyên."
+    },
+    {
+      "segment_id": "0082",
+      "source": "方源坦然地和他对视，一脸淡然，毫无所惧。",
+      "target": "Phương Nguyên thản nhiên nhìn thẳng vào gã, gương mặt lãnh đạm, không chút sợ hãi."
+    },
+    {
+      "segment_id": "0083",
+      "source": "江牙目光一闪，阴冷之气渐渐消退，他感受到了方源身上真元的气息。",
+      "target": "Ánh mắt Giang Nha lóe lên, sát khí âm u dần dần tan biến, gã đã cảm nhận được hơi thở chân nguyên trên người Phương Nguyên."
+    },
+    {
+      "segment_id": "0084",
+      "source": "他知道了方源的身份，顿时笑了起来，春风般和煦：“原来是位学弟。”",
+      "target": "Biết được thân phận của Phương Nguyên, gã lập tức nở nụ cười, ấm áp như gió xuân: “Hóa ra là một vị học đệ.”"
+    },
+    {
+      "segment_id": "0085",
+      "source": "其他人恍然，顿时看向方源的目光已经发生了变化。",
+      "target": "Những người khác bừng tỉnh đại ngộ, ánh mắt nhìn về phía Phương Nguyên lập tức thay đổi."
+    },
+    {
+      "segment_id": "0086",
+      "source": "难怪这少年一点都不怕蛊师，原来 he 也是蛊师。虽然还在上着学堂，但是本质上已经不同了。",
+      "target": "Trách không được thiếu niên này không hề sợ hãi Cổ sư, thì ra hắn cũng là một Cổ sư. Mặc dù vẫn đang đi học ở học đường, nhưng về bản chất đã hoàn toàn khác biệt rồi."
+    },
+    {
+      "segment_id": "0087",
+      "source": "“蛊师大人，您的酒！”小二屁颠屁颠地跑过来，一脸谄笑着。",
+      "target": "“Cổ sư đại nhân, rượu của ngài đây ạ!” Tiểu nhị hớt hải chạy vội tới, vẻ mặt cười xòa nịnh nọt."
+    },
+    {
+      "segment_id": "0088",
+      "source": "方源向青年蛊师江牙点点头，拎着这坛酒，走出了客栈。",
+      "target": "Phương Nguyên khẽ gật đầu chào gã Cổ sư trẻ tuổi Giang Nha, sau đó cầm vò rượu rời khỏi quán trọ."
+    }
+  ]
+}
+```

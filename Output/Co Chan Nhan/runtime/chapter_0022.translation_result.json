@@ -1,0 +1,411 @@
+{
+  "schema_version": "2.0",
+  "chapter_id": "chapter_0022",
+  "segment_translations": [
+    {
+      "segment_id": "0001",
+      "source": "# 第二十二节：月刃飞舞",
+      "target": "# Chương 22: Nguyệt Nhẫn bay múa"
+    },
+    {
+      "segment_id": "0002",
+      "source": "天空蓝得空明，纯净得仿佛洗过一般。",
+      "target": "Bầu trời xanh trong vắt, thuần khiết như thể vừa được gội rửa."
+    },
+    {
+      "segment_id": "0003",
+      "source": "太阳金灿灿的。",
+      "target": "Mặt trời tỏa nắng vàng rực rỡ."
+    },
+    {
+      "segment_id": "0004",
+      "source": "朵朵白云飘浮着，一群彩雀鹦鹉喳喳地叫着，在蓝天白云下组成箭矢阵型，振翅翱翔。",
+      "target": "Từng đám mây trắng lững lờ trôi, một bầy chim Thải Tước Anh Vũ kêu lích chích, xếp thành đội hình mũi tên dưới bầu trời xanh mây trắng, vỗ cánh bay lượn."
+    },
+    {
+      "segment_id": "0005",
+      "source": "这种彩雀鹦鹉，只有在春天才会大群出没。它们浑身羽毛七彩斑斓，体型如鹰般大小，头颅鸟喙都是鹦鹉，尾部则像是孔雀的尾巴，拖得长长的。",
+      "target": "Loài chim Thải Tước Anh Vũ này chỉ xuất hiện thành đàn lớn vào mùa xuân. Toàn thân chúng mang bộ lông sặc sỡ bảy màu, kích thước to cỡ đại bàng, phần đầu và mỏ là vẹt, nhưng phần đuôi lại giống như đuôi chim công, kéo dài tít tắp."
+    },
+    {
+      "segment_id": "0006",
+      "source": "距离方源在炼化本命蛊的考核中夺得第一，已经有十来天过去了。",
+      "target": "Kể từ lúc Phương Nguyên giành được hạng nhất trong cuộc khảo hạch luyện hóa bản mệnh Cổ, đã mười mấy ngày trôi qua."
+    },
+    {
+      "segment_id": "0007",
+      "source": "春风吹绿了满山的青草，野花争相绽放，蜂群和蝶群交相飞舞。一派生机澎湃的春情妙景。",
+      "target": "Gió xuân thổi xanh mướt đám cỏ non khắp núi, hoa dại đua nhau khoe sắc, từng đàn ong bướm bay lượn đan xen vào nhau. Một cảnh sắc mùa xuân tuyệt diệu, dạt dào sức sống."
+    },
+    {
+      "segment_id": "0008",
+      "source": "春天的气息是如此的浓郁，以至于演武场四周的高大竹墙，都遮不住。",
+      "target": "Hơi thở mùa xuân nồng đậm đến mức bức tường trúc cao lớn quanh Diễn Võ Trường cũng không thể che khuất được."
+    },
+    {
+      "segment_id": "0009",
+      "source": "这个演武场占地三亩，地面平整，用一层又厚又宽的青灰石铺着。四周则移栽上青矛竹，这些碧绿的竹竿一个紧挨着一个，又直又挺，组成一圈绿色高墙。",
+      "target": "Diễn Võ Trường này rộng ba mẫu, mặt đất bằng phẳng, được lát bằng một lớp đá xám xanh vừa dày vừa rộng. Xung quanh được trồng giống trúc Thanh Mao, những thân trúc xanh biếc nằm sát vào nhau, thẳng tắp vút cao, tạo thành một bức tường màu xanh lục bao quanh."
+    },
+    {
+      "segment_id": "0010",
+      "source": "墙角下虽然也铺着石砖，但是许多地方已经冒出了一丛丛青草。竹与竹之间，还有野蔷薇，从外面钻进来，甚至攀上墙头。",
+      "target": "Dưới góc tường tuy cũng lát gạch đá, nhưng ở nhiều chỗ đã mọc lên từng bụi cỏ xanh. Giữa các gốc trúc còn có những nhánh tường vi dại mọc luồn từ bên ngoài vào, thậm chí leo cả lên đầu tường."
+    },
+    {
+      "segment_id": "0011",
+      "source": "五十七名十五岁的少年，此时就站在演武场中，围成半圈，注视着中央的学堂家老。",
+      "target": "Năm mươi bảy thiếu niên mười lăm tuổi lúc này đang đứng trong Diễn Võ Trường, quây thành nửa vòng tròn, chăm chú nhìn gia lão học đường đứng ở chính giữa."
+    },
+    {
+      "segment_id": "0012",
+      "source": "这是一堂课，教导少年们如何使用月光蛊。",
+      "target": "Đây là một buổi học dạy cho các thiếu niên cách sử dụng Nguyệt Quang Cổ."
+    },
+    {
+      "segment_id": "0013",
+      "source": "“月光蛊是我们古月一族的标志蛊虫，就像熊家的熊力蛊，白家的溪流蛊。在场的大多数人，都是选择月光蛊作为本命蛊，你们好好看着，接下来就老夫就亲自演示，如何催动月光蛊进行攻击。本命蛊不是月光蛊的学员，你们也要集中注意力，这种经典的远程攻击方法可以运用到其他蛊虫身上，运用范围非常广泛。”",
+      "target": "“Nguyệt Quang Cổ là cổ trùng mang tính biểu tượng của gia tộc Cổ Nguyệt chúng ta, giống như Hùng Lực Cổ của nhà họ Hùng, hay Khê Lưu Cổ của nhà họ Bạch. Đa số những người có mặt ở đây đều chọn Nguyệt Quang Cổ làm bản mệnh Cổ. Các ngươi hãy nhìn cho kỹ, tiếp theo đây lão phu sẽ đích thân làm mẫu cách thôi động Nguyệt Quang Cổ tiến hành công kích. Những học viên không có bản mệnh Cổ là Nguyệt Quang Cổ cũng phải tập trung chú ý, phương pháp tấn công tầm xa kinh điển này có thể vận dụng cho các cổ trùng khác, phạm vi ứng dụng vô cùng rộng rãi.”"
+    },
+    {
+      "segment_id": "0014",
+      "source": "说着，学堂家老就伸出右手，五指张开，将手掌放低，使得少年们都能看到他的掌心。",
+      "target": "Vừa nói, gia lão học đường vừa chìa tay phải ra, năm ngón tay xòe rộng, hạ thấp bàn tay xuống để các thiếu niên đều có thể nhìn thấy lòng bàn tay của ông."
+    },
+    {
+      "segment_id": "0015",
+      "source": "“首先，用意念调动月光蛊，转移到自己的手心里。”随着他的话音，代表月光蛊的月牙印记，就顺着家老的手臂，移动到他的掌心中。",
+      "target": "“Đầu tiên, dùng ý niệm điều động Nguyệt Quang Cổ, dời nó đến lòng bàn tay của mình.” Cùng với lời nói của ông, ấn ký hình trăng khuyết đại diện cho Nguyệt Quang Cổ liền trượt dọc theo cánh tay gia lão, di chuyển tới nằm giữa lòng bàn tay."
+    },
+    {
+      "segment_id": "0016",
+      "source": "“然后，调动空窍中的真元，灌入到月光蛊中。”一丝白银色泽的真元，从家老的体内涌出，几乎细不可察，投入到掌心处的月光蛊中。",
+      "target": "“Sau đó, điều động chân nguyên trong không khiếu rót vào Nguyệt Quang Cổ.” Một tia chân nguyên mang sắc bạc trắng tuôn ra từ trong cơ thể gia lão, nhỏ bé đến mức gần như không thể nhận ra, rót vào Nguyệt Quang Cổ ở lòng bàn tay."
+    },
+    {
+      "segment_id": "0017",
+      "source": "学堂家老是三转境界，只有三转蛊师，凝练出来的真元才是白银色泽。",
+      "target": "Gia lão học đường có tu vi cảnh giới tam chuyển, chỉ Cổ sư tam chuyển mới có thể ngưng luyện ra chân nguyên mang màu bạc trắng."
+    },
+    {
+      "segment_id": "0018",
+      "source": "一转蛊师的真元俗称青铜真元，二转蛊师则号称赤铁真元。到了三转，才是白银真元。",
+      "target": "Chân nguyên của Cổ sư nhất chuyển thường được gọi là chân nguyên thanh đồng, Cổ sư nhị chuyển thì gọi là chân nguyên xích thiết. Đến cảnh giới tam chuyển, mới được gọi là chân nguyên bạch ngân."
+    },
+    {
+      "segment_id": "0019",
+      "source": "吸收了这丝白银真元，家老手中中心的月牙印记，顿时越来越亮，即便是在白天，仍旧发出了一团明亮的淡蓝色光辉。",
+      "target": "Sau khi hấp thu tia chân nguyên bạch ngân này, ấn ký trăng khuyết giữa tay gia lão lập tức sáng dần lên, ngay cả giữa ban ngày, nó vẫn tỏa ra một vầng sáng chói lọi màu lam nhạt."
+    },
+    {
+      "segment_id": "0020",
+      "source": "“太厉害了！”",
+      "target": "“Lợi hại quá!”"
+    },
+    {
+      "segment_id": "0021",
+      "source": "“好美啊。”少年们目睹此景，不由地发出一阵惊奇赞叹。",
+      "target": "“Thật đẹp.” Nhìn thấy cảnh này, các thiếu niên không kìm được mà cất tiếng trầm trồ ngạc nhiên."
+    },
+    {
+      "segment_id": "0022",
+      "source": "淡蓝色的光芒，清澈如水，在家老的手中幽幽闪烁，乍一眼看过去，仿佛学堂家老手中掬着一捧月光。",
+      "target": "Ánh sáng màu lam nhạt trong vắt như nước, lập lòe lấp lánh trong tay gia lão, thoạt nhìn cứ như thể gia lão học đường đang vốc một vốc ánh trăng trên tay."
+    },
+    {
+      "segment_id": "0023",
+      "source": "学堂家老微微带笑：“都看仔细了，最后一步，就是像我这样，将它发射出去。”",
+      "target": "Gia lão học đường khẽ cười: “Tất cả xem kỹ nhé, bước cuối cùng chính là làm giống như ta đây, bắn nó ra ngoài.”"
+    },
+    {
+      "segment_id": "0024",
+      "source": "说着，他张开的五指缓缓并拢，然后抬起手臂，慢慢向前伸直，最后挥掌轻轻一切。",
+      "target": "Nói đoạn, ông từ từ khép lại năm ngón tay đang xòe rộng, sau đó nâng cánh tay lên, chậm rãi duỗi thẳng về phía trước, cuối cùng vung tay chém nhẹ một cái."
+    },
+    {
+      "segment_id": "0025",
+      "source": "整个动作沉稳有力。",
+      "target": "Toàn bộ động tác cực kỳ trầm ổn và đầy sức mạnh."
+    },
+    {
+      "segment_id": "0026",
+      "source": "刷。",
+      "target": "Vút."
+    },
+    {
+      "segment_id": "0027",
+      "source": "少年们耳边都听到了一声轻响。",
+      "target": "Bên tai các thiếu niên đều văng vẳng nghe thấy một tiếng động nhẹ."
+    },
+    {
+      "segment_id": "0028",
+      "source": "随着学堂家老的动作，手掌上凝聚的淡蓝如水的光芒，就这样被甩了出去。",
+      "target": "Nương theo động tác của gia lão học đường, ánh sáng màu lam nhạt trong như nước hội tụ trên bàn tay cứ thế bị vung hất ra ngoài."
+    },
+    {
+      "segment_id": "0029",
+      "source": "光芒在空中形成了一道小型月刃，幽蓝的月刃只有巴掌大小，就如同夜空中的月牙。它在空中划出一道直线，然后打在十米之外的一具草人傀儡上。",
+      "target": "Ánh sáng hình thành một vầng Nguyệt Nhẫn nhỏ xíu giữa không trung, Nguyệt Nhẫn mang sắc lam u tối chỉ to cỡ bàn tay, hệt như vầng trăng khuyết trên bầu trời đêm. Nó vạch một đường thẳng giữa khoảng không, rồi đánh trúng vào một bức tượng người cỏ nằm cách đó mười mét."
+    },
+    {
+      "segment_id": "0030",
+      "source": "只听哧的一声，草人傀儡厚达三十厘米的颈部就被月刃切断，傀儡的身躯晃了晃，硕大的头部则一下子掉在地上。",
+      "target": "Chỉ nghe xuy một tiếng, phần cổ dày tới ba mươi centimet của bức tượng người cỏ đã bị Nguyệt Nhẫn chém đứt, thân hình bức tượng đung đưa, còn cái đầu to tướng thì rơi bộp xuống đất."
+    },
+    {
+      "segment_id": "0031",
+      "source": "切断了这草人，月刃顿时就显得黯淡下去。不过，它仍旧在空中又飞行了大约六米的距离，月牙这才渐渐隐去，最终消散在空气中。",
+      "target": "Cắt đứt bức tượng người cỏ này xong, Nguyệt Nhẫn lập tức trở nên mờ nhạt đi. Thế nhưng, nó vẫn bay tiếp trong không trung một khoảng cách chừng sáu mét nữa rồi hình dáng trăng khuyết mới dần phai đi, cuối cùng tan biến hoàn toàn vào không khí."
+    },
+    {
+      "segment_id": "0032",
+      "source": "再看草人傀儡上的脖子，只见切面极其平整，就好像是用最锋利的镰刀割断的。",
+      "target": "Nhìn lại phần cổ của bức tượng người cỏ, chỉ thấy bề mặt cắt cực kỳ bằng phẳng, giống như bị chém đứt bởi một lưỡi hái sắc bén nhất vậy."
+    },
+    {
+      "segment_id": "0033",
+      "source": "少年们几乎个个都瞪大了双眼，惊讶地看着这一幕。其中有几个，还不由自主地摸了摸自己的脖子，为这月刃的攻击力感到吃惊。",
+      "target": "Gần như tất cả thiếu niên đều trừng to hai mắt, kinh ngạc nhìn cảnh tượng này. Vài người trong số đó còn bất giác sờ lên cổ mình, hoảng sợ trước lực tấn công của Nguyệt Nhẫn."
+    },
+    {
+      "segment_id": "0034",
+      "source": "短暂的寂静之后，惊叹声迭传。少年们有的双目放光，盯着草人傀儡，有的盯着家老的手掌。也有的交头接耳，兴奋地谈论。",
+      "target": "Sau một thoáng tĩnh lặng ngắn ngủi, tiếng cảm thán lại râm ran. Có thiếu niên hai mắt sáng rực, chằm chằm nhìn tượng người cỏ, có người lại dán mắt vào bàn tay của gia lão. Cũng có kẻ ghé tai thì thầm, phấn khích bàn luận."
+    },
+    {
+      "segment_id": "0035",
+      "source": "唯有方源一人隐没在人群中，面色冷漠，不动声色。",
+      "target": "Chỉ có duy nhất Phương Nguyên ẩn mình giữa đám đông, nét mặt lạnh nhạt, không chút dao động."
+    },
+    {
+      "segment_id": "0036",
+      "source": "他前世修行达到六转，在中洲创建血翼魔教，教众数万人，被誉为魔道巨头，声名赫赫。",
+      "target": "Kiếp trước hắn tu hành đến cảnh giới lục chuyển, từng thành lập Huyết Dực Ma Giáo ở Trung Châu, dưới trướng có đến mấy vạn giáo chúng, được xưng tụng là cự đầu ma đạo, thanh danh lẫy lừng."
+    },
+    {
+      "segment_id": "0037",
+      "source": "学堂家老不过是三转蛊师，这点手段根本就是小儿科，不会引发方源心中的一丝波澜。",
+      "target": "Gia lão học đường chẳng qua chỉ là Cổ sư tam chuyển, chút thủ đoạn cỡ này căn bản chỉ là trò trẻ con, không thể khơi gợi lấy một gợn sóng nhỏ nào trong lòng Phương Nguyên."
+    },
+    {
+      "segment_id": "0038",
+      "source": "“下面，只要是炼成了月光蛊的，都站出来。每人一个草人傀儡，按照我刚刚的方法，催发月刃，练习攻击。”",
+      "target": "“Tiếp theo, chỉ cần là người đã luyện hóa thành công Nguyệt Quang Cổ thì đều bước ra đây. Mỗi người chọn một bức tượng người cỏ, làm theo cách ta vừa làm, thôi phát Nguyệt Nhẫn, luyện tập công kích.”"
+    },
+    {
+      "segment_id": "0039",
+      "source": "学堂家老话音刚落，就有三十多位少年站了出来。",
+      "target": "Gia lão học đường vừa dứt lời, đã có hơn ba mươi thiếu niên bước lên."
+    },
+    {
+      "segment_id": "0040",
+      "source": "这一届，全族有一百多位少年，参加开窍大典。有修行资质的，有五十七学员。这其中选择月光蛊的就占据了三十五人。经过这些天的努力，他们都炼化了月光蛊。",
+      "target": "Khóa này, toàn gia tộc có hơn một trăm thiếu niên tham gia đại điển Khai Khiếu. Trong đó có năm mươi bảy học viên sở hữu tư chất tu hành. Những người lựa chọn Nguyệt Quang Cổ đã chiếm mất ba mươi lăm người. Trải qua sự nỗ lực trong mấy ngày nay, bọn họ đều đã luyện hóa được Nguyệt Quang Cổ."
+    },
+    {
+      "segment_id": "0041",
+      "source": "其余的少年，都是丁等资质，不是不想炼化月光蛊，而是资质不行，只能知难而退。",
+      "target": "Những thiếu niên còn lại đều mang tư chất Đinh đẳng, không phải bọn họ không muốn luyện hóa Nguyệt Quang Cổ, mà là do tư chất yếu kém nên đành phải lùi bước."
+    },
+    {
+      "segment_id": "0042",
+      "source": "对于古月一族的少年们来讲，月光蛊已经不是单纯的蛊虫，而是象征着家族的荣耀。",
+      "target": "Đối với những thiếu niên của gia tộc Cổ Nguyệt, Nguyệt Quang Cổ đã không còn là một con cổ trùng đơn thuần nữa, mà là biểu tượng cho niềm tự hào của gia tộc."
+    },
+    {
+      "segment_id": "0043",
+      "source": "很快，三十五位少年站成了一排。每个人十米开外的正对面，都竖立着一具草人傀儡。",
+      "target": "Rất nhanh sau đó, ba mươi lăm thiếu niên đã xếp thành một hàng ngang. Cách mười mét ngay phía trước mỗi người đều có dựng một bức tượng người cỏ."
+    },
+    {
+      "segment_id": "0044",
+      "source": "方源站在队伍中段，并不惹人注目。",
+      "target": "Phương Nguyên đứng ở khoảng giữa hàng, không hề thu hút sự chú ý của người khác."
+    },
+    {
+      "segment_id": "0045",
+      "source": "练习开始。",
+      "target": "Buổi luyện tập bắt đầu."
+    },
+    {
+      "segment_id": "0046",
+      "source": "少年们纷纷伸出右手，将月光蛊转移到手掌心中。蓝色的月牙印记，随着青铜色泽的真元注入，一个接一个地散发出水蓝的光辉。",
+      "target": "Các thiếu niên thi nhau vươn tay phải ra, chuyển dời Nguyệt Quang Cổ đến giữa lòng bàn tay. Cùng với việc được rót chân nguyên thanh đồng vào, từng chiếc ấn ký hình trăng khuyết màu lam lần lượt tỏa ra ánh sáng xanh lấp lánh như nước."
+    },
+    {
+      "segment_id": "0047",
+      "source": "但是当他们竖掌空切的时候，却只有七八片月牙飞了出去。这些月牙有的只现出一瞬，就很快消散。有的刚飞出两三米，忽然砰的一声，崩溃成蓝色流光。有的飞的倒远，只是方向偏得厉害，直接飞上了天空。",
+      "target": "Thế nhưng, lúc bọn họ dựng bàn tay vung chém vào không khí, lại chỉ có tầm bảy tám vầng trăng khuyết bay ra. Vài chiếc Nguyệt Nhẫn trong đó chỉ vừa hiện ra một chớp mắt đã nhanh chóng tiêu tán. Có cái vừa bay được hai ba mét thì bỗng vang lên một tiếng \"phốc\", vỡ vụn thành những luồng sáng màu lam. Lại có cái bay khá xa, nhưng chệch hướng nghiêm trọng, phóng thẳng lên tận trời cao."
+    },
+    {
+      "segment_id": "0048",
+      "source": "少年们纷纷皱起眉头，刚刚看家老演示，似乎挺简单。但是到他们亲手实践，这才发现其中的门道。要发出一记月刃，又要打在草人上，还真不容易。",
+      "target": "Các thiếu niên đều nhíu chặt mày, vừa rồi chứng kiến gia lão làm mẫu dường như rất đơn giản, nhưng đến lúc tự tay thực hành, bọn họ mới nhận ra bí quyết bên trong. Muốn phóng ra một nhát Nguyệt Nhẫn mà lại đánh trúng được người cỏ quả thực chẳng dễ dàng gì."
+    },
+    {
+      "segment_id": "0049",
+      "source": "家老看着，微微带笑，这个情景他每年都会看到，并不意外。",
+      "target": "Gia lão đứng nhìn, khẽ mỉm cười. Cảnh tượng này năm nào ông cũng bắt gặp, chẳng có gì bất ngờ cả."
+    },
+    {
+      "segment_id": "0050",
+      "source": "剩下的二十二位少年，则只能站在场外，羡慕地看着。",
+      "target": "Hai mươi hai thiếu niên còn lại chỉ đành phải đứng ngoài sân, ném ánh mắt ngưỡng mộ thèm thuồng nhìn vào trong."
+    },
+    {
+      "segment_id": "0051",
+      "source": "练习了五分钟，少年们渐渐地都能发出月刃了。一时间，演武场空中，到处都是淡蓝色的月刃在飞射。",
+      "target": "Luyện tập khoảng năm phút, các thiếu niên dần dần đều đã phóng được Nguyệt Nhẫn. Trong chốc lát, khắp không trung ở Diễn Võ Trường nhan nhản những vầng Nguyệt Nhẫn màu lam nhạt đang bay lượn."
+    },
+    {
+      "segment_id": "0052",
+      "source": "一些月刃在半途就消散，一些不幸地撞在一起，一些飞出场外，歪七斜八的。真正能够打在草人傀儡上的，只有偶尔的几片月刃。当然这都是属于瞎猫碰到死耗子的情况。",
+      "target": "Một số Nguyệt Nhẫn tiêu tán ngay giữa đường, vài cái xui xẻo lại đập vào nhau, còn có mấy cái xiêu xiêu vẹo vẹo phóng ra khỏi sân. Số Nguyệt Nhẫn thực sự đánh trúng bức tượng người cỏ chỉ đếm trên đầu ngón tay. Tất nhiên, đây hoàn toàn là tình huống \"mèo mù vớ được cá rán\" mà thôi."
+    },
+    {
+      "segment_id": "0053",
+      "source": "学堂家老开始进行单独辅导。",
+      "target": "Gia lão học đường bắt đầu tiến hành chỉ dẫn riêng."
+    },
+    {
+      "segment_id": "0054",
+      "source": "他重点照顾方正、漠北、赤城这些资质优异的学员，耐心地纠正他们的姿势错误，教授自己的心得。而对方源这种丙等的学员，只是稍微提点两句。",
+      "target": "Ông dồn sự chú ý tập trung vào Phương Chính, Mạc Bắc, Xích Thành - những học viên có tư chất ưu tú, kiên nhẫn uốn nắn những tư thế sai lệch của họ và truyền thụ tâm đắc của bản thân. Còn đối với một học viên Bính đẳng như Phương Nguyên, ông chỉ dăm ba câu nhắc nhở cho qua chuyện."
+    },
+    {
+      "segment_id": "0055",
+      "source": "方源一直凝聚着手中的蓝光，几次挥掌空切，都是凝而不发，做做样子。此时见场面混乱，没人注意到自己，他意念便一动，松开对月光蛊的控制，手掌微微一斜，做了个掌刀劈空的动作。",
+      "target": "Phương Nguyên một mực ngưng tụ ánh sáng lam trong tay, vung vẩy mấy lần chém vào không khí, nhưng đều là tụ lực chứ không phát ra, chỉ làm động tác giả. Lúc này, thấy thế trận hỗn loạn chẳng có ai thèm để mắt đến mình, hắn liền khẽ chớp ý niệm, buông lỏng sự khống chế đối với Nguyệt Quang Cổ, bàn tay hơi nghiêng một chút, làm tư thế vung chém đao vào không trung."
+    },
+    {
+      "segment_id": "0056",
+      "source": "为了不引人瞩目，他没有瞄准自己对面的草人傀儡，而是斜着瞄准了左前方的一只。",
+      "target": "Để không gây sự chú ý, hắn không nhắm vào bức tượng người cỏ nằm ở ngay phía đối diện mình, mà lại chệch hướng ngắm chuẩn vào bức tượng nằm ở hướng chếch phía bên trái."
+    },
+    {
+      "segment_id": "0057",
+      "source": "刷的一声，一片月刃快速飞出，穿过中央地带的混乱区域，在空中划出一条直线，准确地命中一具草人傀儡的颈部。",
+      "target": "Xẹt một tiếng, một vầng Nguyệt Nhẫn thần tốc xé gió vút bay, xuyên thấu qua khu vực hỗn độn ngay chính giữa, vạch một đường thẳng tắp trên không rồi găm chuẩn xác vào phần cổ của bức tượng người cỏ."
+    },
+    {
+      "segment_id": "0058",
+      "source": "草人颤抖了一下，颈部被这记月刃切割大半，但很快被切断的绿色草茎又开始重新生长，纠缠在一起，伤口愈合了。",
+      "target": "Tượng người cỏ khẽ run lên, bị đòn Nguyệt Nhẫn này chém đứt hơn nửa cái cổ. Nhưng ngay lập tức, phần cọng cỏ xanh bị cắt đứt lại bắt đầu sinh sôi mọc lại, cuốn chặt vào nhau làm vết thương nhanh chóng lành lặn."
+    },
+    {
+      "segment_id": "0059",
+      "source": "这草人傀儡当然不是普通的草人，而是一转的草人蛊，本身拥有草木系的轻微自愈能力。",
+      "target": "Bức tượng người cỏ này đương nhiên không phải là người rơm bình thường, mà là Thảo Nhân Cổ nhất chuyển, bản thân nó đã mang một chút năng lực tự chữa lành thuộc tính thảo mộc."
+    },
+    {
+      "segment_id": "0060",
+      "source": "除非一下子将草人砍断成两截，否则一会儿伤口就会复合如初。",
+      "target": "Ngoại trừ trường hợp một nhát chém đứt đôi con người cỏ này, bằng không chỉ một lát sau vết thương sẽ lại khép miệng liền lặn như cũ."
+    },
+    {
+      "segment_id": "0061",
+      "source": "“哇，你看这记月牙！”",
+      "target": "“Oa, các cậu nhìn vầng trăng khuyết này xem!”"
+    },
+    {
+      "segment_id": "0062",
+      "source": "“好厉害，是谁发的？”",
+      "target": "“Cừ thật đấy, là của ai phóng ra vậy?”"
+    },
+    {
+      "segment_id": "0063",
+      "source": "能击中草人傀儡的月刃，本来就稀少。方源只是随手一击，却造成了至今为止最显著的攻击效果，顿时就引起场外学员们的惊讶呼声。",
+      "target": "Số lượng Nguyệt Nhẫn bắn trúng được tượng người cỏ vốn dĩ đã vô cùng khan hiếm, Phương Nguyên chỉ tiện tay vung ra một kích nhưng lại tạo nên hiệu quả công kích rõ rệt nhất từ nãy đến giờ, phút chốc khiến cho các học viên bên ngoài trầm trồ ngạc nhiên."
+    },
+    {
+      "segment_id": "0064",
+      "source": "就连学堂家老的注意力，也被吸引过来，问道：“刚刚这记月牙发挥的不错，是你发的吗？”",
+      "target": "Ngay cả sự chú ý của gia lão học đường cũng bị thu hút sang. Ông cất tiếng dò hỏi: “Nhát đao trăng khuyết ban nãy phát huy rất tốt, có phải do ngươi phóng ra không?”"
+    },
+    {
+      "segment_id": "0065",
+      "source": "他用询问的眼光，看向一位丙等学员。因为那具傀儡，就是和他对应的。",
+      "target": "Ông đưa ánh mắt dò xét về phía một nam học viên hạng Bính đẳng. Bởi vì bức tượng đó vừa vặn lại nằm ở vị trí đối diện y."
+    },
+    {
+      "segment_id": "0066",
+      "source": "这个男学员双眼连连眨动，面对众人突然而来的注视目光，显得有些手足无措。说实在话，刚刚场面太混乱了，都是月刃在飞，他也不知道这是不是他发的。",
+      "target": "Nam học viên này hai mắt chớp nháy liên hồi, nhất thời luống cuống tay chân khi phải đối mặt với những ánh nhìn đột ngột đổ dồn về phía mình từ đám đông. Dám nói thật là, khung cảnh vừa nãy hỗn loạn vô cùng, khắp nơi đều là Nguyệt Nhẫn bay lượn vèo vèo, bản thân y cũng chẳng biết liệu đó có phải là nhát đao mình đã phóng ra hay không."
+    },
+    {
+      "segment_id": "0067",
+      "source": "“不过，看上去应该好像可能是的吧？”少年想着，就下意识地点点头。。",
+      "target": "“Thế nhưng, bề ngoài thì xem ra có lẽ hình như là vậy thì phải?” Thiếu niên nghĩ thế, bèn gật đầu một cách vô thức..."
+    },
+    {
+      "segment_id": "0068",
+      "source": "周围少年顿时对他有些刮目相看。",
+      "target": "Đám thiếu niên chung quanh lập tức thay đổi cái nhìn về y."
+    },
+    {
+      "segment_id": "0069",
+      "source": "“他是谁呀，叫什么名字？”一些女学员纷纷向周围人打听。",
+      "target": "“Hắn là ai vậy? Tên là gì thế?” Vài nữ học viên nhao nhao dò hỏi những người bên cạnh."
+    },
+    {
+      "segment_id": "0070",
+      "source": "“连他都能发出月刃，我更不能输！”古月漠北双眼闪过一丝坚定。",
+      "target": "“Đến cả hắn cũng có thể phóng ra Nguyệt Nhẫn, mình lại càng không thể chịu thua!” Trong đôi mắt của Cổ Nguyệt Mạc Bắc lóe lên một tia kiên định."
+    },
+    {
+      "segment_id": "0071",
+      "source": "“原来不是哥哥发的。”古月方正莫名其妙地松了一口气。经过舅父舅母的安慰，他已经从前次的打击中恢复过来了。",
+      "target": "“Hóa ra không phải là do ca ca bắn ra.” Chẳng hiểu sao Cổ Nguyệt Phương Chính lại thấy thở phào nhẹ nhõm hẳn. Trải qua sự an ủi của cậu mợ, y đã khôi phục lại tâm trạng sau cú đả kích lần trước."
+    },
+    {
+      "segment_id": "0072",
+      "source": "“哥哥，你上次得了第一，是因为运气好，选了一个意志薄弱的月光蛊。蛊师修行不可能总依赖运道，我会赢你的。”方正在心中暗暗为自己打气。",
+      "target": "“Ca ca, lần trước huynh đoạt được hạng nhất là nhờ vận may tốt, chọn trúng một con Nguyệt Quang Cổ có ý chí yếu ớt. Con đường tu hành của Cổ sư đâu thể cứ mãi dựa dẫm vào vận may được, ta chắc chắn sẽ chiến thắng huynh.” Phương Chính ngấm ngầm cổ vũ cho bản thân ở trong lòng."
+    },
+    {
+      "segment_id": "0073",
+      "source": "“做的不错，要继续努力，抓住刚刚的那个感觉。”学堂家老拍拍这个学员的肩膀，微笑鼓励道。",
+      "target": "“Làm không tệ, cần phải tiếp tục nỗ lực, hãy duy trì cảm giác vừa rồi.” Gia lão học đường vỗ vai học viên này, mỉm cười khích lệ."
+    },
+    {
+      "segment_id": "0074",
+      "source": "少年顿时激动地连连点头，眼中涌现出不一样的光彩。",
+      "target": "Thiếu niên kia lập tức kích động gật đầu lia lịa, trong đôi mắt hiện lên tia sáng rực rỡ khác thường."
+    },
+    {
+      "segment_id": "0075",
+      "source": "家老借此机会，当众宣布：“都听好了，这就是你们的作业，课下好好练习，三天后检查成果。谁的成绩最好，谁就能获得十块元石奖励。都听到了吗？”",
+      "target": "Gia lão nhân cơ hội này liền lớn giọng tuyên bố trước mặt mọi người: “Tất cả nghe cho kỹ đây, đó chính là bài tập về nhà của các ngươi. Tan học phải chuyên tâm rèn luyện, ba ngày sau sẽ tiến hành kiểm tra thành quả. Thành tích của kẻ nào tốt nhất, kẻ đó sẽ giành được phần thưởng là mười khối nguyên thạch. Đã nghe rõ cả chưa?”"
+    },
+    {
+      "segment_id": "0076",
+      "source": "“哦！”少年们大声应喝着，听到有元石奖励，不禁更加兴奋。",
+      "target": "“Rõ!” Lũ thiếu niên đồng thanh đáp lời, vừa nghe đến việc có nguyên thạch làm phần thưởng, không ai kìm được cảm giác phấn khích càng trở nên mãnh liệt."
+    },
+    {
+      "segment_id": "0077",
+      "source": "然而仅仅三分钟之后，空中飞舞的月刃却渐渐稀疏起来。",
+      "target": "Tuy nhiên, chỉ vỏn vẹn ba phút trôi qua, những vầng Nguyệt Nhẫn bay múa trên không trung đã dần lưa thưa đi trông thấy."
+    },
+    {
+      "segment_id": "0078",
+      "source": "“可恶，每一记月刃都要消耗掉一成的真元。”",
+      "target": "“Đáng ghét thật, cứ mỗi nhát Nguyệt Nhẫn phóng ra là lại ngốn hết một thành chân nguyên.”"
+    },
+    {
+      "segment_id": "0079",
+      "source": "“月刃的消耗太大了，我只是丙等修为，空窍中能存储三成八的青铜真元。只能连续催发出三片月刃。”",
+      "target": "“Sự tiêu hao của Nguyệt Nhẫn lớn quá, tu vi của ta chỉ là hạng Bính đẳng, không khiếu chỉ có thể lưu trữ ba thành tám chân nguyên thanh đồng. Căn bản chỉ đủ sức liên tiếp thôi phát ra ba vầng Nguyệt Nhẫn.”"
+    },
+    {
+      "segment_id": "0080",
+      "source": "停下手来的少年们，都唉声叹气。",
+      "target": "Lũ thiếu niên vừa buông lỏng tay xuống đều đồng loạt thở dài thườn thượt."
+    },
+    {
+      "segment_id": "0081",
+      "source": "学堂家老目睹这一切，不动声色，却在心中感慨：“这就是修行资质高的好处了。要使用月刃，无非是四个字——熟能生巧。资质高的人，空窍中存储的真元就多，真元的恢复速度也快，就有更多的练习机会。资质若是差点，也可以用元石弥补，加强练习量。资质不高，又没有元石的，纵然有练习的想法，也是心有余而力不足。唉，蛊师修行就是这么残酷，我还是多多关照那些资质高的学生罢。”;",
+      "target": "Gia lão học đường chứng kiến toàn bộ sự việc, sắc mặt vẫn tĩnh rụi không chút dao động, thế nhưng thâm tâm lại sinh lòng cảm thán: “Đây chính là lợi ích của tư chất tu hành cao. Trọng điểm để sử dụng được Nguyệt Nhẫn không có gì khác ngoài bốn chữ - quen tay hay việc. Người sở hữu tư chất cao, chân nguyên trong không khiếu chứa được nhiều, thêm nữa tốc độ khôi phục chân nguyên lại cực nhanh nên sẽ có thêm càng nhiều cơ hội luyện tập. Giả sử tư chất kém cỏi một chút, cũng có thể thông qua nguyên thạch mà bù đắp, tăng cường lượng tập luyện. Kẻ tư chất không cao mà cũng chẳng có lấy nguyên thạch dắt túi, dẫu cho khao khát được rèn luyện tới mấy thì cũng chỉ là lực bất tòng tâm. Chao ôi, chặng đường tu hành Cổ sư chính là tàn nhẫn như vậy đấy. Ta tốt hơn cả là nên dành sự chiếu cố nhiều thêm cho những đứa học trò có tư chất cao kia vậy.”;"
+    }
+  ]
+}

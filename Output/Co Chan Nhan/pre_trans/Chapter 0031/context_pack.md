@@ -1,0 +1,495 @@
+# Translation Context Pack
+
+## Project
+- Branch: Co Chan Nhan
+- Title: 
+- Author: 
+- Genre: /
+- Language: zh → vi
+
+## Translation Rules
+### Translation Goal
+Dịch truyện Trung sang tiếng Việt tự nhiên, dễ đọc, đúng nghĩa, đúng mạch truyện, đúng văn cảnh, đúng xưng hô, đúng tên riêng và thuật ngữ.
+Style: văn xuôi tiếng Việt mượt, rõ nghĩa, không máy móc
+Priorities:
+  • đúng nghĩa và đúng văn cảnh
+  • đúng tên riêng
+  • đúng thuật ngữ theo loại và bối cảnh
+  • đúng xưng hô và quan hệ nhân vật
+  • giữ ổn định thuật ngữ/tên riêng/xưng hô đã khóa
+  • tự nhiên trong tiếng Việt
+  • giữ nhịp văn, cảm xúc và giọng kể gốc
+Anti-goals:
+  • không dịch từng chữ máy móc
+  • không Hán Việt hóa tên Nhật, Hàn, phương Tây, fandom, thương hiệu, kỹ thuật
+  • không áp VietPhrase/LuatNhan lên tên riêng đã khóa
+  • không đổi thuật ngữ đã khóa nếu văn cảnh giống nhau
+  • không dùng một bản dịch cứng cho từ đa nghĩa khi văn cảnh khác nhau
+  • không làm lộ thông tin ngoài POV nếu bản gốc chưa tiết lộ
+
+### Output Rules
+  • keep paragraph structure
+  • keep dialogue structure
+  • do not merge paragraphs
+  • do not split paragraphs unnecessarily
+  • preserve punctuation when reasonable
+  • convert chinese quotes to vietnamese
+  • remove unnecessary explanation
+  • output only translation
+  • do not add notes inside translation
+  • mark uncertain items for audit only
+
+### Tone Guidelines
+  • narration: tự nhiên, rõ ràng, có chất truyện
+  • dialogue: phù hợp thân phận, quan hệ, tuổi tác, quyền lực và bối cảnh
+  • ancient_setting: cổ phong vừa phải, không lạm dụng Hán Việt khó hiểu
+  • modern_setting: hiện đại, đời thường, không cổ hóa lời thoại
+  • game_system: rõ ràng, gọn, quen thuộc với văn phong game/system
+  • comedy: giữ nhịp hài nếu có
+  • serious: giữ sắc thái căng thẳng, trang trọng nếu có
+
+### Term Normalization
+Purpose: Chuẩn hóa thuật ngữ theo văn cảnh truyện, bao gồm chiêu thức, nghề nghiệp, chức vị, cảnh giới, kỹ năng, vật phẩm, danh hiệu, tổ chức, hệ thống, khái niệm thế giới quan và cụm cố định lặp lại.
+Core principles:
+  • context first
+  • not word by word
+  • same source can have different translation if context differs
+  • same source same context must be consistent
+  • same term type should keep style consistent
+  • locked translation only applies to matching context
+  • source plus type plus context equals translation
+Decision rules:
+  • Không dịch thuật ngữ chỉ theo mặt chữ.
+  • Một source có thể có nhiều bản dịch nếu văn cảnh khác nhau.
+  • Một bản dịch đã khóa chỉ áp dụng cho đúng loại văn cảnh đã khóa.
+  • Tên chiêu thức, cảnh giới, pháp bảo quan trọng nên dùng dạng Hán Việt chuẩn, viết hoa nếu là danh từ riêng.
+  • Vật phẩm phổ thông không cần Hán Việt hóa quá mức.
+  • Nghề nghiệp phải xét bối cảnh.
+  • Chức vị phải xét hệ thống xã hội.
+  • Nếu cùng source và cùng văn cảnh, phải giữ nhất quán.
+  • Nếu không chắc văn cảnh, đánh dấu audit.
+
+### Engine Rules
+  • use context pack
+  • use previous chapter summary
+  • use character profile
+  • use story timeline
+  • use glossary
+  • use name scan
+  • use segment context
+  • avoid over literal translation
+  • avoid over smoothing that changes meaning
+
+## Characters
+N/A
+
+## Glossary
+N/A
+
+## Story Timeline (latest)
+n!
+
+### Summary
+Chapter 4 completed via pipeline.
+
+## Chapter 0005 - Chương 5: Nhân Tổ tam cổ, hy vọng khai khiếu
+
+### Summary
+Chapter 5 completed via pipeline.
+
+## Chapter 0006 - 0006 未来的路，会很精彩
+
+### Summary
+Chapter 6 completed via pipeline.
+
+## Chapter 0006 - Chương 6: Con đường tương lai sẽ rất đặc sắc
+
+### Summary
+Chapter 6 completed via pipeline.
+
+## Chapter 0007 - Chương 7: Cổ sư chia cửu chuyển, Hoa Tửu lưu di tàng
+
+### Summary
+Chapter 7 completed via pipeline.
+
+## Chapter 0008 - Chương 8: Vật thị nhân phi
+
+### Summary
+Chapter 8 completed via pipeline.
+
+## Chapter 0009 - 0009 渐行渐远
+
+### Summary
+Chapter 9 completed via pipeline.
+
+## Chapter 0010 - Chương 10: Trời có lúc gió mây bất trắc, luyện Cổ muôn vàn gian nan
+
+### Summary
+Chapter 10 completed via pipeline.
+
+## Chapter 0009 - Chương 9: Ngày càng xa cách
+
+### Summary
+Chapter 9 completed via pipeline.
+
+## Chapter 0011 - Chương 11: Từ sự tồn tại đến sự thay đổi
+
+### Summary
+Chapter 11 completed via pipeline.
+
+## Chapter 0012 - Chương 12: Hương rượu trúc xanh, Cổ sư thị uy
+
+### Summary
+Chapter 12 completed via pipeline.
+
+## Chapter 0013 - Chương 13: Rừng trúc dưới trăng, một đốm châu tuyết
+
+### Summary
+Chapter 13 completed via pipeline.
+
+## Chapter 0014 - Chương 14: Trong khe núi ẩn chứa huyền cơ
+
+### Summary
+Chapter 14 completed via pipeline.
+
+## Chapter 0015 - Chương 15: Lịch sử do kẻ chiến thắng viết nên
+
+### Summary
+Chapter 15 completed via pipeline.
+
+## Chapter 0016 - Chương 16: Thu trọn vào túi
+
+### Summary
+Chapter 16 completed via pipeline.
+
+## Chapter 0017 - Chương 17: Lần đầu luyện Tửu trùng
+
+### Summary
+Chapter 17 completed via pipeline.
+
+## Chapter 0018 - Chương 18: Cứ để chuyện cũ như khói tan biến
+
+### Summary
+Chapter 18 completed via pipeline.
+
+## Chapter 0019 - Chương 19: Lục chuyển bản mệnh Xuân Thu Thiền!
+
+### Summary
+Chapter 19 completed via pipeline.
+
+## Chapter 0020 - Chương 20: Gia lão học đường cạn lời rồi
+
+### Summary
+Chapter 20 completed via pipeline.
+
+## Chapter 0021 - Chương 21: Sao có thể là ca ca giành được hạng nhất này?
+
+### Summary
+Chapter 21 completed via pipeline.
+
+## Chapter 0022 - Chương 22: Nguyệt Nhẫn bay múa
+
+### Summary
+Chapter 22 completed via pipeline.
+
+## Chapter 0023 - Chương 23: Nuôi Cổ giống như nuôi tình nhân
+
+### Summary
+Chapter 23 completed via pipeline.
+
+## Chapter 0024 - Chương 24: Cổ sư cận chiến
+
+### Summary
+Chapter 24 completed via pipeline.
+
+## Chapter 0025 - Chương 25: Ánh xuân đang rực rỡ
+
+### Summary
+Chapter 25 completed via pipeline.
+
+## Chapter 0026 - Chương 26: Bản chất của mọi tổ chức
+
+### Summary
+Chapter 26 completed via pipeline.
+
+## Chapter 0027 - Chương 27: Trắng trợn tống tiền
+
+### Summary
+Chapter 27 completed via pipeline.
+
+## Chapter 0028 - Chương 28: Mối làm ăn không vốn!
+
+### Summary
+Chapter 28 completed via pipeline.
+
+## Chapter 0029 - Chương 29: Không từ thủ đoạn
+
+### Summary
+Chapter 29 completed via pipeline.
+
+## Chapter 0030 - Chương 30: Phương Nguyên! Ngươi lại tới cướp?
+
+### Summary
+Chapter 30 completed via pipeline.
+
+
+## Source Chapter 31 - 0031 方源，你大祸临头了！
+```json
+[
+  {
+    "segment_id": "0001",
+    "text": "# 第三十一节：方源，你大祸临头了！"
+  },
+  {
+    "segment_id": "0002",
+    "text": "“我苦练基本拳脚连续七天，想不到只在方源的手中支持了两招，就被他再次击昏。耻辱，耻辱啊！”古月漠北心中充满了羞愤恼怒。"
+  },
+  {
+    "segment_id": "0003",
+    "text": "在家里的院子中，他对着木人傀儡，不断拳打脚踢，打得砰砰作响。"
+  },
+  {
+    "segment_id": "0004",
+    "text": "这时一声轻笑传来：“小弟，跟木人傀儡有深仇大恨吗，这么恨它？”"
+  },
+  {
+    "segment_id": "0005",
+    "text": "听到这个熟悉的声音，古月漠北脸色一松，停止了攻击，转过头去：“姐姐，你回来了！”"
+  },
+  {
+    "segment_id": "0006",
+    "text": "“嗯，家族委派了侦察任务，出去了十几天……”古月漠颜笑着答道，她是漠北的亲姐姐，目前已经是二转中阶的蛊师。"
+  },
+  {
+    "segment_id": "0007",
+    "text": "但她很快脸色一变，眼光中透出一股凌厉：“小弟，你脸上的伤痕是怎么回事？谁欺负的你？”"
+  },
+  {
+    "segment_id": "0008",
+    "text": "“啊，没什么事。这是我不小心走路摔跤，磕到的。”漠北脸上闪过一丝慌乱之色，胡乱搪塞了一个理由，他可不希望姐姐知道自己这么糗的事情。堂堂漠之分家未来的掌权人，古月漠尘的亲孙子，居然连续两次被人打昏。"
+  },
+  {
+    "segment_id": "0009",
+    "text": "不过万幸的是，倒霉的也不是他一个，其他人都有份。"
+  },
+  {
+    "segment_id": "0010",
+    "text": "“哦，是这样，那你可得小心点。对了，你要练拳脚，这样可不行。你没有增加防御的蛊，就要缠上厚厚的布条。这样才能保护你的手脚不受到伤害。”古月漠颜叮嘱了几句，就离开了。"
+  },
+  {
+    "segment_id": "0011",
+    "text": "“大小姐好。”"
+  },
+  {
+    "segment_id": "0012",
+    "text": "“大小姐安好。”"
+  },
+  {
+    "segment_id": "0013",
+    "text": "“是大小姐回来了呀，奴才拜见大小姐。”"
+  },
+  {
+    "segment_id": "0014",
+    "text": "古月漠颜面色清冷，疾步走着。一路上碰到的家奴，无不躬身行礼。"
+  },
+  {
+    "segment_id": "0015",
+    "text": "她走到书房前，也不禀告，直接推门而入。"
+  },
+  {
+    "segment_id": "0016",
+    "text": "书房中，古月漠尘背对着她，正站在书桌前练字。"
+  },
+  {
+    "segment_id": "0017",
+    "text": "“回来了？”古月漠尘并没有回头，而是直接问道，“在外面侦察了半个多月，那狼巢的情况怎么样？”"
+  },
+  {
+    "segment_id": "0018",
+    "text": "“爷爷，你怎么知道是我？”漠颜愣了楞。"
+  },
+  {
+    "segment_id": "0019",
+    "text": "“哼，全家上下，除了你能仗着我的宠爱不守规矩，连门都不敲一下。还能有谁？”古月漠尘带着责备的语气，不过转过身来，脸色却很温和，望着漠颜眼中带着笑意。"
+  },
+  {
+    "segment_id": "0020",
+    "text": "漠颜撇撇嘴：“要说宠爱，其实爷爷更宠弟弟多些。只是弟弟将来要掌权，爷爷对他要求严格，旁人体会不到这份宠爱罢了。”"
+  },
+  {
+    "segment_id": "0021",
+    "text": "顿了顿，又问道：“爷爷，小弟怎么被人打了！我刚问他，他撒谎。我也不好强求，只好来问爷爷了。”"
+  },
+  {
+    "segment_id": "0022",
+    "text": "古月漠尘脸色一肃：“你还没有回答我的话呢。”"
+  },
+  {
+    "segment_id": "0023",
+    "text": "他放下笔，抽过椅子，慢慢坐下。"
+  },
+  {
+    "segment_id": "0024",
+    "text": "漠颜只好禀告：“狼巢差不多要满了，按照这种繁衍速度，虽然今年不会有狼潮，但是来年必定就有狼潮冲击我们山寨。”"
+  },
+  {
+    "segment_id": "0025",
+    "text": "古月漠尘又问：“每三年基本上都会有一次狼潮，这并不稀奇。只是那狼群中，有多少只雷冠头狼呢？”"
+  },
+  {
+    "segment_id": "0026",
+    "text": "“大约有三只。”漠颜答道。"
+  },
+  {
+    "segment_id": "0027",
+    "text": "古月漠尘点点头，放下心来。雷冠头狼是狼群中的首领，狼潮冲击山寨时，最棘手的存在。"
+  },
+  {
+    "segment_id": "0028",
+    "text": "三只雷冠头狼并不太多，因为青茅山上有三家山寨。每个山寨分担一条，狼潮冲击的压力就会大减。"
+  },
+  {
+    "segment_id": "0029",
+    "text": "“爷爷，您还没告诉我小弟的事情呢。”漠颜不甘心地问道。"
+  },
+  {
+    "segment_id": "0030",
+    "text": "“告诉你也无妨，漠北是被人打了，七天前一次，今天第二次。是在学堂大门口被揍趴下的，两次都是当场昏迷。”古月漠尘笑着道。"
+  },
+  {
+    "segment_id": "0031",
+    "text": "“什么人竟然胆大包天，打昏小弟？”漠颜瞪眼。"
+  },
+  {
+    "segment_id": "0032",
+    "text": "“是他的一个同窗，叫做方源。他打得好啊……”古月漠尘呵呵笑出了声。"
+  },
+  {
+    "segment_id": "0033",
+    "text": "漠颜眼睛瞪得更大了，不解地问道：“爷爷，您这是什么话？漠北可是你亲孙子！”"
+  },
+  {
+    "segment_id": "0034",
+    "text": "古月漠尘深深地看了孙女一眼，语重心长地道：“漠颜啊，你是女孩子，可能不懂。失败和耻辱会使人进步。没有失败，是淬炼不出一个成熟的男人的。”"
+  },
+  {
+    "segment_id": "0035",
+    "text": "“漠北被打了，是他自己的失败。他一清醒，就开始向护院们讨教拳脚功夫，这是一种进步。而这种进步，就是方源带来的，打醒他的。你作为他的亲姐姐，若要真正意义上爱护他，不要去干涉他的成长。方源只是个丙等的穷小子，漠北是乙等资质，身后又有我们，迟早有一天会把方源踩在脚下。”"
+  },
+  {
+    "segment_id": "0036",
+    "text": "“把这个对手留给漠北吧。女人的一生中，需要亲友爱人。而男人的一生中，亲友爱人可有可无，但惟独不能缺少对手。你不要去找方源的麻烦，知道吗？这是小一辈的事情。你参合进去，就是以大欺小。打破其中的规矩惯例，别人也会看不起我们漠家的。”"
+  },
+  {
+    "segment_id": "0037",
+    "text": "漠颜几次张口欲言，但在古月漠尘的目光注视下，她最终还是低下了头，回答：“是，爷爷。孙女明白了。”"
+  },
+  {
+    "segment_id": "0038",
+    "text": "她垂首退出书房，就算是古月漠北也没有发现——她的眼中一直闪着别样的光。"
+  },
+  {
+    "segment_id": "0039",
+    "text": "“爷爷，这是你宠爱孙子的方式。而我漠颜也有爱护我小弟的方式！”漠颜心中早已经另有主意。"
+  },
+  {
+    "segment_id": "0040",
+    "text": "……"
+  },
+  {
+    "segment_id": "0041",
+    "text": "客栈的饭厅中，有几桌都有人坐着，吃着饭菜，因此显得有些热闹。"
+  },
+  {
+    "segment_id": "0042",
+    "text": "一两个伙计端着盘子上菜，在桌子间自如地穿梭游走。"
+  },
+  {
+    "segment_id": "0043",
+    "text": "方源就坐在靠近窗户的桌子旁，点了几个菜，一边吃着一边透过窗户远眺。"
+  },
+  {
+    "segment_id": "0044",
+    "text": "天边，晚霞如火，静静地燃烧着。"
+  },
+  {
+    "segment_id": "0045",
+    "text": "太阳已经落下大半，它留恋地最后凝望大地，余晖就是它不舍的回眸。"
+  },
+  {
+    "segment_id": "0046",
+    "text": "远处的群山，已经被暮色掩盖。近处的街道上，是归家的人群。有些是赤着脚，沾满泥土的农人，有些是背着药篓的采药者，有些猎户扛着山鸡、野猪等等猎物，还有一些则是蛊师。他们往往穿着一身蓝色武服，干练精悍。头上绑着头带，腰间系着宽边腰带。"
+  },
+  {
+    "segment_id": "0047",
+    "text": "这腰带很有讲究，一转蛊师就是青色腰带，正面是镶着铜片，铜片上有一个“一”字。"
+  },
+  {
+    "segment_id": "0048",
+    "text": "二转蛊师的腰带，是赤色的，正中央镶着铁片，上面刻着“二”字。"
+  },
+  {
+    "segment_id": "0049",
+    "text": "方源坐在窗边，观察了一会，看到了六七位一转蛊师，大多都是年轻人。还有一位二转蛊师，是个中年汉子。"
+  },
+  {
+    "segment_id": "0050",
+    "text": "至于三转蛊师，通常已经是家老。四转就是族长，一寨之主。"
+  },
+  {
+    "segment_id": "0051",
+    "text": "五转的蛊师很少见了，古月一族的历史上，也只有一代族长和四代族长。"
+  },
+  {
+    "segment_id": "0052",
+    "text": "“其实观测一个家族的实力，是很简单的事情。只要在山寨中找个位置坐下，精心观察行人个把小时，看其中有多少一转蛊师、二转蛊师，就能看出这个家族的底蕴和实力。”方源结合五百年的阅历，在心中总结出了一个经验。"
+  },
+  {
+    "segment_id": "0053",
+    "text": "就古月山寨来讲，街道上走过二十个行人，其中就有六位蛊师。这六位蛊师当中，有一半的几率，会有一名二转蛊师。"
+  },
+  {
+    "segment_id": "0054",
+    "text": "古月山寨就是凭借这样的实力和底蕴，霸占了青茅山最好的资源点之一。堪称青茅山的霸主。"
+  },
+  {
+    "segment_id": "0055",
+    "text": "但是青茅山，不过是广袤的南疆中的一个小角落。古月山寨在整个南疆来讲，只能算是中下等的族群。"
+  },
+  {
+    "segment_id": "0056",
+    "text": "“我现在不过才刚刚修行，一转初阶的修为，连独自一人闯荡南疆的资格都没有。至少得有三转实力，才能远游啊。”方源吃了口菜，在心中幽幽一叹。"
+  },
+  {
+    "segment_id": "0057",
+    "text": "青茅山太小了，装载不了他的野心，他已经注定离去。"
+  },
+  {
+    "segment_id": "0058",
+    "text": "“哈哈，古月方源，终于找到了你了。”就在这时，一位中年男子狞笑着走了过来。"
+  },
+  {
+    "segment_id": "0059",
+    "text": "“嗯？”方源微微转头看去，只见对方脸色蜡黄，吊梢眉，但是身材高大，身上肌肉发达。此时大步走过来，双手抱臂在胸，居高临下地盯着正坐着吃饭的少年方源，细长的双眼中闪过一抹寒光。"
+  },
+  {
+    "segment_id": "0060",
+    "text": "“方源，你大祸临头了知不知道？嘿嘿嘿，你居然敢打我们漠家的小少爷，现在大小姐漠颜到处在找你算账呢。”中年男子冷笑不断。他用目光上下打量着方源，隐隐散发出一股逼人的气势。"
+  }
+]
+```
+
+## Output Format
+CRITICAL INSTRUCTION: You MUST translate the source text EXACTLY paragraph by paragraph, preserving the original order perfectly. DO NOT skip, drop, merge, or reorder any paragraphs. Each paragraph in the source MUST be translated.
+Return ONLY valid JSON matching this schema:
+{
+  "chapter_number": 31,
+  "chapter_title_vi": "Chương 31: <Vietnamese title>",
+  "segments": [
+    {
+      "segment_id": "XXXX",
+      "source": "...",
+      "target": "..."
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-12T19:00:13.763933+07:00",
+  "updated_at": "2026-06-13T20:00:04.142593+07:00",
   "books": [
     {
       "branch": "Chu Than Dai Dao",
@@ -8,13 +8,13 @@
       "summary": "Triệu Kỳ từ một người bình thường bỗng chạm vào cơ duyên vượt khỏi nhận thức, từ đó bước lên hành trình thành thần, kiến tạo thế giới và can dự vào những cục diện lớn hơn rất nhiều so với đời sống phàm tục.",
       "backdrop": "Hiện đại đô thị giao cắt với con đường thành thần và vô hạn thế giới, nơi cơ duyên siêu hình có thể xé toạc nhịp sống bình thường chỉ trong một khoảnh khắc.",
       "description": "Triệu Kỳ từ một người bình thường bỗng chạm vào cơ duyên vượt khỏi nhận thức, từ đó bước lên hành trình thành thần, kiến tạo thế giới và can dự vào những cục diện lớn hơn rất nhiều so với đời sống phàm tục.",
-      "detail": "Tiến độ: 11/1602 chương | Mới nhất: Chương 11: Kế hoạch của thủ lĩnh ẩn sau",
+      "detail": "Tiến độ: 38/1602 chương | Mới nhất: 0037 玲珑妖 ，玄黄塔！",
       "status": "in_progress",
       "status_label": "Đang ra",
       "ongoing": true,
-      "completed_chapters": 11,
+      "completed_chapters": 38,
       "total_chapters": 1602,
-      "latest_chapter": "Chương 11: Kế hoạch của thủ lĩnh ẩn sau",
+      "latest_chapter": "0037 玲珑妖 ，玄黄塔！",
       "genre": "eastern_fiction",
       "sub_genre": "unlimited_flow",
       "style_tags": [
@@ -63,7 +63,7 @@
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Chu Than Dai Dao/README.md",
       "toc_path": "Output/Chu Than Dai Dao/toc.json",
-      "updated_at": "2026-06-12T19:00:07.607401+07:00"
+      "updated_at": "2026-06-13T20:00:02.614283+07:00"
     },
     {
       "branch": "Chu Than Quat Khoi",
@@ -109,11 +109,11 @@
           "title": "Huyền ảo"
         }
       ],
-      "completed_chapters": 8,
+      "completed_chapters": 32,
       "total_chapters": 852,
-      "latest_chapter": "Chương 8: Kiến bám (Cầu cất chứa!)",
-      "detail": "Tiến độ: 8/852 chương | Mới nhất: Chương 8: Kiến bám (Cầu cất chứa!)",
-      "updated_at": "2026-06-12T19:00:08.026028+07:00",
+      "latest_chapter": "0031 清点",
+      "detail": "Tiến độ: 32/852 chương | Mới nhất: 0031 清点",
+      "updated_at": "2026-06-13T20:00:02.676978+07:00",
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Chu Than Quat Khoi/README.md",
       "toc_path": "Output/Chu Than Quat Khoi/toc.json"
@@ -168,11 +168,11 @@
           "title": "Cổ trùng"
         }
       ],
-      "completed_chapters": 9,
+      "completed_chapters": 39,
       "total_chapters": 1915,
-      "latest_chapter": "Chương 9: Ngày càng xa cách",
-      "detail": "Tiến độ: 9/1915 chương | Mới nhất: Chương 9: Ngày càng xa cách",
-      "updated_at": "2026-06-12T19:00:08.934415+07:00",
+      "latest_chapter": "Chương 37: Ma đầu bước trong ánh sáng",
+      "detail": "Tiến độ: 36/1915 chương | Mới nhất: 0036 既是妥协又是威胁",
+      "updated_at": "2026-06-13T20:08:40+07:00",
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Co Chan Nhan/README.md",
       "toc_path": "Output/Co Chan Nhan/toc.json"
@@ -196,11 +196,11 @@
           "title": "Đông phương"
         }
       ],
-      "completed_chapters": 30,
+      "completed_chapters": 54,
       "total_chapters": 968,
-      "latest_chapter": "Chương 3: Pete Chinar",
-      "detail": "Tiến độ: 30/968 chương | Mới nhất: Chương 3: Pete Chinar",
-      "updated_at": "2026-06-12T19:00:09.363043+07:00",
+      "latest_chapter": "0030 连环套",
+      "detail": "Tiến độ: 54/968 chương | Mới nhất: 0030 连环套",
+      "updated_at": "2026-06-13T20:00:02.881985+07:00",
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Dung Goi Ta Ta Than/README.md",
       "toc_path": "Output/Dung Goi Ta Ta Than/toc.json"
@@ -212,13 +212,13 @@
       "summary": "La Phàm tỉnh dậy giữa một thế giới hoàn toàn không còn dấu vết Trái Đất, từ đó bước vào hành trình nhận thức lại bản thân, huyết mạch và đại đạo trong môi trường nguyên sơ nhất của hồng hoang.",
       "backdrop": "Thiên địa sơ khai của thế giới Hồng Hoang, nơi núi chống trời, dị thú và quy luật nguyên thủy còn mạnh hơn mọi khái niệm văn minh.",
       "description": "La Phàm tỉnh dậy giữa một thế giới hoàn toàn không còn dấu vết Trái Đất, từ đó bước vào hành trình nhận thức lại bản thân, huyết mạch và đại đạo trong môi trường nguyên sơ nhất của hồng hoang.",
-      "detail": "Tiến độ: 11/3381 chương | Mới nhất: Chương 11: Vực ngoại có Thiên Ma (2)",
+      "detail": "Tiến độ: 40/3381 chương | Mới nhất: 0038 天生符篆（三）",
       "status": "in_progress",
       "status_label": "Đang ra",
       "ongoing": true,
-      "completed_chapters": 11,
+      "completed_chapters": 40,
       "total_chapters": 3381,
-      "latest_chapter": "Chương 11: Vực ngoại có Thiên Ma (2)",
+      "latest_chapter": "0038 天生符篆（三）",
       "genre": "eastern_fiction",
       "sub_genre": "xianxia",
       "style_tags": [
@@ -267,7 +267,7 @@
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Phi Pham Hong Hoang/README.md",
       "toc_path": "Output/Phi Pham Hong Hoang/toc.json",
-      "updated_at": "2026-06-12T19:00:10.832670+07:00"
+      "updated_at": "2026-06-13T20:00:03.183124+07:00"
     },
     {
       "branch": "Ta Te Bao Nguc Giam",
@@ -288,11 +288,11 @@
           "title": "Đông phương"
         }
       ],
-      "completed_chapters": 8,
+      "completed_chapters": 30,
       "total_chapters": 2169,
-      "latest_chapter": "Chương 8: Đội sáu người",
-      "detail": "Tiến độ: 6/2169 chương | Mới nhất: Chương 7: Không gian Vận Mệnh",
-      "updated_at": "2026-06-12T19:00:34+07:00",
+      "latest_chapter": "0030 世界（上）",
+      "detail": "Tiến độ: 30/2169 chương | Mới nhất: 0030 世界（上）",
+      "updated_at": "2026-06-13T20:00:03.458538+07:00",
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Ta Te Bao Nguc Giam/README.md",
       "toc_path": "Output/Ta Te Bao Nguc Giam/toc.json"
@@ -347,11 +347,11 @@
           "title": "Hệ thống"
         }
       ],
-      "completed_chapters": 8,
+      "completed_chapters": 31,
       "total_chapters": 1135,
-      "latest_chapter": "Chương 7: Kẻ thức thời mới là trang tuấn kiệt",
-      "detail": "Tiến độ: 6/1135 chương | Mới nhất: Chương 2: Nhân Quả Tập",
-      "updated_at": "2026-06-12T19:06:42+07:00",
+      "latest_chapter": "0031 降神术",
+      "detail": "Tiến độ: 31/1135 chương | Mới nhất: 0031 降神术",
+      "updated_at": "2026-06-13T20:00:03.641981+07:00",
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Thai Nhat Dao Qua/README.md",
       "toc_path": "Output/Thai Nhat Dao Qua/toc.json"
@@ -363,13 +363,13 @@
       "summary": "Lục Ly bước vào truyện từ thế cực kỳ bị động: bị giam, chờ tử hình và bị thẩm vấn. Từ trạng thái ấy, câu chuyện dần lật mở quá khứ, năng lực và các tầng thế giới mà anh sẽ đi qua.",
       "backdrop": "Fanfic đa thế giới khởi đầu bằng bối cảnh giam cầm kiểu sci-fi, rồi mở rộng sang nhiều thế giới quen thuộc với hệ thống, xuyên qua và chiến đấu liên chuỗi IP.",
       "description": "Lục Ly bước vào truyện từ thế cực kỳ bị động: bị giam, chờ tử hình và bị thẩm vấn. Từ trạng thái ấy, câu chuyện dần lật mở quá khứ, năng lực và các tầng thế giới mà anh sẽ đi qua.",
-      "detail": "Tiến độ: 15/1187 chương | Mới nhất: Chương 15: Vụ cá cược",
+      "detail": "Tiến độ: 36/1187 chương | Mới nhất: 0036 强化",
       "status": "in_progress",
       "status_label": "Đang ra",
       "ongoing": true,
-      "completed_chapters": 17,
+      "completed_chapters": 36,
       "total_chapters": 1187,
-      "latest_chapter": "Chương 16: Cứ mãng là xong việc",
+      "latest_chapter": "0036 强化",
       "genre": "eastern_fiction",
       "sub_genre": "fanfic, system, infinite_worlds",
       "style_tags": [
@@ -418,7 +418,7 @@
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han/README.md",
       "toc_path": "Output/Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han/toc.json",
-      "updated_at": "2026-06-12T19:08:15+07:00"
+      "updated_at": "2026-06-13T20:00:03.743671+07:00"
     },
     {
       "branch": "Tieu Dao Mong Duong",
@@ -439,11 +439,11 @@
           "title": "Đông phương"
         }
       ],
-      "completed_chapters": 14,
+      "completed_chapters": 40,
       "total_chapters": 1184,
-      "latest_chapter": "Chương 13: Ngư ông",
-      "detail": "Tiến độ: 12/1184 chương | Mới nhất: Chương 12: Độc Long Thảo",
-      "updated_at": "2026-06-12T19:07:28+07:00",
+      "latest_chapter": "Chương 39: Hạ sát",
+      "detail": "Tiến độ: 40/1184 chương | Mới nhất: Chương 39: Hạ sát",
+      "updated_at": "2026-06-13T20:00:03.826767+07:00",
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Tieu Dao Mong Duong/README.md",
       "toc_path": "Output/Tieu Dao Mong Duong/toc.json"
@@ -455,13 +455,13 @@
       "summary": "Lý Diệu, một học sinh phổ thông xuất thân từ bãi phế thải pháp bảo, tình cờ nhận được truyền thừa cổ đại và bắt đầu hành trình nghịch thiên cải mệnh, đi theo con đường luyện khí sư và giáp sĩ chiến đấu trong tinh không bao la.",
       "backdrop": "Tu chân cơ giáp vũ trụ thế giới khoa học kỹ thuật hiện đại.",
       "description": "Lý Diệu, một học sinh phổ thông xuất thân từ bãi phế thải pháp bảo, tình cờ nhận được truyền thừa cổ đại và bắt đầu hành trình nghịch thiên cải mệnh, đi theo con đường luyện khí sư và giáp sĩ chiến đấu trong tinh không bao la.",
-      "detail": "Tiến độ: 10/3339 chương | Mới nhất: Chương 10: Âm hồn nhập thể",
+      "detail": "Tiến độ: 36/3339 chương | Mới nhất: Chương 35: Thời khắc kịch chiến",
       "status": "in_progress",
       "status_label": "Đang ra",
       "ongoing": true,
-      "completed_chapters": 12,
+      "completed_chapters": 36,
       "total_chapters": 3339,
-      "latest_chapter": "Chương 11: Như trong mộng",
+      "latest_chapter": "Chương 35: Thời khắc kịch chiến",
       "genre": "eastern_fiction",
       "sub_genre": "sci_fi",
       "style_tags": [
@@ -516,7 +516,7 @@
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Tu Chan Bon Van Nam/README.md",
       "toc_path": "Output/Tu Chan Bon Van Nam/toc.json",
-      "updated_at": "2026-06-12T19:08:00+07:00"
+      "updated_at": "2026-06-13T20:00:04.142284+07:00"
     },
     {
       "branch": "Hong Hoang Lich_Zhttty",
@@ -971,7 +971,7 @@
     }
   ],
   "metadata": {
-    "generated_at": "2026-06-12T19:08:15+07:00",
+    "generated_at": "2026-06-13T20:08:40+07:00",
     "total_books": 17,
     "source": "Dichtrung/Output"
   },
@@ -1230,73 +1230,73 @@
   "branches": {
     "Chu Than Dai Dao": {
       "display_title": "Chủ Thần Đại Đạo",
-      "current_chapter": 11,
+      "current_chapter": 38,
       "total_chapters": 1602,
-      "completed_chapters": 11,
-      "last_updated": "2026-06-12"
+      "completed_chapters": 38,
+      "last_updated": "2026-06-13"
     },
     "Chu Than Quat Khoi": {
       "display_title": "Chủ Thần Trỗi Dậy",
-      "current_chapter": 8,
+      "current_chapter": 32,
       "total_chapters": 852,
-      "completed_chapters": 8,
-      "last_updated": "2026-06-12"
+      "completed_chapters": 32,
+      "last_updated": "2026-06-13"
     },
     "Co Chan Nhan": {
       "display_title": "Cổ Chân Nhân",
-      "current_chapter": 9,
+      "current_chapter": 36,
       "total_chapters": 1915,
-      "completed_chapters": 9,
-      "last_updated": "2026-06-12"
+      "completed_chapters": 36,
+      "last_updated": "2026-06-13"
     },
     "Dung Goi Ta Ta Than": {
       "display_title": "Đừng Gọi Ta Tà Thần - Dung Goi Ta Ta Than",
-      "current_chapter": 30,
+      "current_chapter": 54,
       "total_chapters": 968,
-      "completed_chapters": 30,
-      "last_updated": "2026-06-12"
+      "completed_chapters": 54,
+      "last_updated": "2026-06-13"
     },
     "Phi Pham Hong Hoang": {
       "display_title": "Phi Phàm Hồng Hoang",
-      "current_chapter": 11,
+      "current_chapter": 40,
       "total_chapters": 3381,
-      "completed_chapters": 11,
-      "last_updated": "2026-06-12"
+      "completed_chapters": 40,
+      "last_updated": "2026-06-13"
     },
     "Ta Te Bao Nguc Giam": {
       "display_title": "Ta Te Bao Nguc Giam",
-      "current_chapter": 6,
+      "current_chapter": 30,
       "total_chapters": 2169,
-      "completed_chapters": 6,
-      "last_updated": "2026-06-12"
+      "completed_chapters": 30,
+      "last_updated": "2026-06-13"
     },
     "Thai Nhat Dao Qua": {
       "display_title": "Thái Nhất Đạo Quả",
-      "current_chapter": 6,
+      "current_chapter": 31,
       "total_chapters": 1135,
-      "completed_chapters": 6,
-      "last_updated": "2026-06-12"
+      "completed_chapters": 31,
+      "last_updated": "2026-06-13"
     },
     "Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han": {
       "display_title": "Theo Tử Thần Bắt Đầu Đánh Xuyên Qua Tổng Mạn Vô Hạn",
-      "current_chapter": 15,
+      "current_chapter": 36,
       "total_chapters": 1187,
-      "completed_chapters": 15,
-      "last_updated": "2026-06-12"
+      "completed_chapters": 36,
+      "last_updated": "2026-06-13"
     },
     "Tieu Dao Mong Duong": {
       "display_title": "Tiểu Đào Mông Đường",
-      "current_chapter": 12,
+      "current_chapter": 40,
       "total_chapters": 1184,
-      "completed_chapters": 12,
-      "last_updated": "2026-06-12"
+      "completed_chapters": 40,
+      "last_updated": "2026-06-13"
     },
     "Tu Chan Bon Van Nam": {
       "display_title": "Tu Chân Bốn Vạn Năm",
-      "current_chapter": 10,
+      "current_chapter": 36,
       "total_chapters": 3339,
-      "completed_chapters": 10,
-      "last_updated": "2026-06-12"
+      "completed_chapters": 36,
+      "last_updated": "2026-06-13"
     }
   }
 }

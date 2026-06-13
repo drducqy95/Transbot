@@ -78,3 +78,8 @@ Chapter 5 completed via pipeline.
 
 ### Summary
 Chapter 8 completed via pipeline.
+
+## Chapter 0005 - Chương 5: Nhiệm vụ (Cầu đề cử!)
+
+### Summary
+Chapter 5 completed via pipeline.

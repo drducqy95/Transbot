@@ -11,3 +11,49 @@
 - 2026-06-12 18:11 | Chapter 9 | completed | Chương 0009 - 0009 渐行渐远.md
 - 2026-06-12 18:32 | Chapter 10 | completed | Chương 0010 - Chương 10 Trời có lúc gió mây bất trắc, luyện Cổ muôn vàn gian nan.md
 - 2026-06-12 18:58 | Chapter 9 | completed | Chương 0009 - Chương 9 Ngày càng xa cách.md
+- 2026-06-12 19:32 | Chapter 11 | completed | Chương 0011 - Chương 11 Từ sự tồn tại đến sự thay đổi.md
+- 2026-06-12 20:06 | Chapter 12 | completed | Chương 0012 - Chương 12 Hương rượu trúc xanh, Cổ sư thị uy.md
+- 2026-06-13 03:02 | Chapter 13 | completed | Chương 0013 - Chương 13 Rừng trúc dưới trăng, một đốm châu tuyết.md
+- 2026-06-13 03:33 | Chapter 14 | completed | Chương 0014 - Chương 14 Trong khe núi ẩn chứa huyền cơ.md
+- 2026-06-13 03:53 | Chapter 15 | completed | Chương 0015 - Chương 15 Lịch sử do kẻ chiến thắng viết nên.md
+- 2026-06-13 04:17 | Chapter 16 | completed | Chương 0016 - Chương 16 Thu trọn vào túi.md
+- 2026-06-13 04:32 | Chapter 17 | completed | Chương 0017 - Chương 17 Lần đầu luyện Tửu trùng.md
+- 2026-06-13 05:05 | Chapter 18 | completed | Chương 0018 - Chương 18 Cứ để chuyện cũ như khói tan biến.md
+- 2026-06-13 05:17 | Chapter 19 | completed | Chương 0019 - Chương 19 Lục chuyển bản mệnh Xuân Thu Thiền!.md
+- 2026-06-13 05:37 | Chapter 20 | completed | Chương 0020 - Chương 20 Gia lão học đường cạn lời rồi.md
+- 2026-06-13 05:47 | Chapter 21 | completed | Chương 0021 - Chương 21 Sao có thể là ca ca giành được hạng nhất này.md
+- 2026-06-13 06:08 | Chapter 22 | completed | Chương 0022 - Chương 22 Nguyệt Nhẫn bay múa.md
+- 2026-06-13 06:22 | Chapter 23 | completed | Chương 0023 - Chương 23 Nuôi Cổ giống như nuôi tình nhân.md
+- 2026-06-13 06:44 | Chapter 24 | completed | Chương 0024 - Chương 24 Cổ sư cận chiến.md
+- 2026-06-13 07:02 | Chapter 25 | completed | Chương 0025 - Chương 25 Ánh xuân đang rực rỡ.md
+- 2026-06-13 07:22 | Chapter 26 | completed | Chương 0026 - Chương 26 Bản chất của mọi tổ chức.md
+- 2026-06-13 07:37 | Chapter 27 | completed | Chương 0027 - Chương 27 Trắng trợn tống tiền.md
+- 2026-06-13 07:59 | Chapter 28 | completed | Chương 0028 - Chương 28 Mối làm ăn không vốn!.md
+- 2026-06-13 08:12 | Chapter 29 | completed | Chương 0029 - Chương 29 Không từ thủ đoạn.md
+- 2026-06-13 08:31 | Chapter 30 | completed | Chương 0030 - Chương 30 Phương Nguyên! Ngươi lại tới cướp.md
+- 2026-06-13 08:47 | Chapter 31 | completed | Chương 0031 - Chương 31 Phương Nguyên, ngươi đại họa lâm đầu rồi!.md
+- 2026-06-13 09:08 | Chapter 32 | completed | Chương 0032 - Chương 32 Trêu cợt.md
+- 2026-06-13 09:28 | Chapter 33 | completed | Chương 0033 - Chương 33 Ngươi mắng đi.md
+- 2026-06-13 09:48 | Chapter 32 | completed | Chương 0032 - Chương 32 Trêu cợt.md
+- 2026-06-13 10:25 | Chapter 34 | completed | Chương 0034 - Chương 34 Bạn gọi đi.md
+- 2026-06-13 10:49 | Chapter 35 | completed | Chương 0035 - Chương 35 Phân thây làm quà!.md
+- 2026-06-13 11:03 | Chapter 36 | completed | Chương 0036 - 0036 既是妥协又是威胁.md
+- 2026-06-13 11:15 | Chapter 37 | completed | Chương 0037 - 0037 魔头在光明中行走.md
+- 2026-06-13 11:23 | Chapter 38 | completed | Chương 0038 - 0038 蛤蟆商队.md
+- 2026-06-13 11:37 | Chapter 36 | completed | Chương 0036 - 0036 既是妥协又是威胁.md
+- 2026-06-13 11:47 | Chapter 37 | completed | Chương 0037 - 0037 魔头在光明中行走.md
+- 2026-06-13 12:00 | Chapter 38 | completed | Chương 0038 - Chương 38 Thương đội Cáp Mô.md
+- 2026-06-13 12:21 | Chapter 36 | completed | Chương 0036 - 0036 既是妥协又是威胁.md
+- 2026-06-13 12:38 | Chapter 36 | completed | Chương 0036 - 0036 既是妥协又是威胁.md
+- 2026-06-13 12:46 | Chapter 37 | completed | Chương 0037 - 0037 魔头在光明中行走.md
+- 2026-06-13 12:59 | Chapter 39 | completed | Chương 0039 - 0039 紫金石中蟾蛊眠.md
+- 2026-06-13 13:07 | Chapter 36 | completed | Chương 0036 - 0036 既是妥协又是威胁.md
+- 2026-06-13 13:17 | Chapter 37 | completed | Chương 0037 - 0037 魔头在光明中行走.md
+- 2026-06-13 13:27 | Chapter 36 | completed | Chương 0036 - 0036 既是妥协又是威胁.md
+- 2026-06-13 13:39 | Chapter 36 | completed | Chương 0036 - 0036 既是妥协又是威胁.md
+- 2026-06-13 13:46 | Chapter 37 | completed | Chương 0037 - 0037 魔头在光明中行走.md
+- 2026-06-13 13:52 | Chapter 39 | completed | Chương 0039 - 0039 紫金石中蟾蛊眠.md
+- 2026-06-13 13:55 | Chapter 40 | completed | Chương 0040 - 0040 解石.md
+- 2026-06-13 13:58 | Chapter 41 | completed | Chương 0041 - 0041 竟然真的开出了蛊？！.md
+- 2026-06-13 14:02 | Chapter 36 | completed | Chương 0036 - 0036 既是妥协又是威胁.md
+- 2026-06-13 20:08 | Chapter 37 | completed | Chương 0037 - Chương 37 Ma đầu bước trong ánh sáng.md

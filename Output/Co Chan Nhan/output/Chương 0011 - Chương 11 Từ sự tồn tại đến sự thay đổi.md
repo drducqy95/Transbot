@@ -1,0 +1,3 @@
+# Chương 11: Từ sự tồn tại đến sự thay đổi
+Chương 11: Màu sắc phai nhạt, câu chuyện tiếp tục...
+

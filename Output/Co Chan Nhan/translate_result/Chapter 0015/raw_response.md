@@ -1,0 +1,268 @@
+```json
+{
+  "chapter_number": 15,
+  "chapter_title_vi": "Chương 15: Lịch sử do kẻ chiến thắng viết nên",
+  "segments": [
+    {
+      "segment_id": "0001",
+      "source": "# 第十五节：历史由胜利者书写",
+      "target": "# Chương 15: Lịch sử do kẻ chiến thắng viết nên"
+    },
+    {
+      "segment_id": "0002",
+      "source": "在这秘洞中，从身后却忽然传来其他人的声音。",
+      "target": "Trong hang động bí mật này, từ phía sau lại đột nhiên truyền đến giọng nói của người khác."
+    },
+    {
+      "segment_id": "0003",
+      "source": "饶是方源也在此刻汗毛乍起，头皮发麻。",
+      "target": "Dù là Phương Nguyên vào lúc này cũng phải dựng đứng lỗ chân lông, da đầu tê dại."
+    },
+    {
+      "segment_id": "0004",
+      "source": "自己竟然被跟踪了！",
+      "target": "Mình vậy mà lại bị theo dõi!"
+    },
+    {
+      "segment_id": "0005",
+      "source": "难道是这些天，屡次外出，已经引起了有心人的注意吗？",
+      "target": "Lẽ nào là mấy ngày nay nhiều lần đi ra ngoài, đã thu hút sự chú ý của kẻ có tâm sao?"
+    },
+    {
+      "segment_id": "0006",
+      "source": "又或者是舅父派来的人？",
+      "target": "Hay là người do cữu phụ phái tới?"
+    },
+    {
+      "segment_id": "0007",
+      "source": "甚至在他的脑海中，还划过客栈中那个一转蛊师，叫做江牙的青年。",
+      "target": "Thậm chí trong đầu hắn, còn xẹt qua hình bóng tên thanh niên Cổ sư nhất chuyển tên là Giang Nha trong khách điếm kia."
+    },
+    {
+      "segment_id": "0008",
+      "source": "刹那间，他心中闪现出无数的念头和猜测，并且极速思考着解决之道。",
+      "target": "Trong chốc lát, trong lòng hắn lóe lên vô số suy nghĩ và suy đoán, đồng thời suy nghĩ cực nhanh biện pháp giải quyết."
+    },
+    {
+      "segment_id": "0009",
+      "source": "方源可以感觉到这短短的一句话中，充满了深深的杀机。",
+      "target": "Phương Nguyên có thể cảm giác được trong một câu nói ngắn ngủi này, tràn ngập sát cơ sâu đậm."
+    },
+    {
+      "segment_id": "0010",
+      "source": "这让他暗暗叫苦，自己此时只是一转初阶，连本命蛊都没有，对于蛊师来讲，战力接近于零，怎么打？",
+      "target": "Điều này khiến hắn thầm kêu khổ, lúc này mình chỉ mới là nhất chuyển sơ giai, ngay cả bản mệnh Cổ cũng không có, đối với Cổ sư mà nói, chiến lực gần như bằng không, đánh thế nào đây?"
+    },
+    {
+      "segment_id": "0011",
+      "source": "“太弱了，太弱了！”他在心中咆哮。",
+      "target": "“Quá yếu, quá yếu rồi!” Hắn gầm thét trong lòng."
+    },
+    {
+      "segment_id": "0012",
+      "source": "“你已经中了我的独门毒蛊，没有我的对应解蛊，七天之后，必定化为脓血而死。”背后的声音又响起。",
+      "target": "“Ngươi đã trúng độc Cổ độc môn của ta, không có giải Cổ tương ứng của ta, bảy ngày sau, chắc chắn sẽ hóa thành máu mủ mà chết.” Giọng nói phía sau lại vang lên."
+    },
+    {
+      "segment_id": "0013",
+      "source": "方源咬住牙关，表情冷静，语气低沉：“你是想要酒虫？我可以给你。”",
+      "target": "Phương Nguyên cắn chặt răng, vẻ mặt bình tĩnh, giọng điệu trầm thấp: “Ngươi muốn Tửu trùng sao? Ta có thể cho ngươi.”"
+    },
+    {
+      "segment_id": "0014",
+      "source": "他慢慢地站起来，动作很缓慢。",
+      "target": "Hắn từ từ đứng lên, động tác rất chậm chạp."
+    },
+    {
+      "segment_id": "0015",
+      "source": "但就在这时，突然又响起另一个人的声音。这声音充满了恐惧，打着颤音：“我给你，我都可以给你，只求你饶我一命啊，花酒行者大人！”",
+      "target": "Nhưng đúng lúc này, đột nhiên lại vang lên giọng nói của một người khác. Giọng nói này tràn đầy sợ hãi, run rẩy: “Ta cho ngài, ta đều có thể cho ngài, chỉ xin ngài tha cho ta một mạng a, Hoa Tửu hành giả đại nhân!”"
+    },
+    {
+      "segment_id": "0016",
+      "source": "“等等，这是……”方源眉头扭成一个疙瘩，他豁然转身。",
+      "target": "“Khoan đã, đây là…” Phương Nguyên nhíu mày thành một cục, hắn đột ngột xoay người."
+    },
+    {
+      "segment_id": "0017",
+      "source": "只见眼前的石壁上，光影变幻，浮现出一幅画面。",
+      "target": "Chỉ thấy trên vách đá trước mắt, quang ảnh biến ảo, hiện ra một đoạn hình ảnh."
+    },
+    {
+      "segment_id": "0018",
+      "source": "一个精悍逼人的蛊师，站在山巅，在他的脚下，匍匐跪倒着另一位蛊师。",
+      "target": "Một gã Cổ sư tinh hãn bức người, đứng trên đỉnh núi, dưới chân hắn, đang quỳ rạp một vị Cổ sư khác."
+    },
+    {
+      "segment_id": "0019",
+      "source": "两位蛊师的周围，是塌陷的深坑，碎裂的石块，很显然刚刚经历了一场激战。",
+      "target": "Xung quanh hai vị Cổ sư là những hố sâu sụt lún, đất đá vỡ vụn, hiển nhiên là vừa mới trải qua một trận kịch chiến."
+    },
+    {
+      "segment_id": "0020",
+      "source": "在两人不远处，还有一群旁观老者，望着这个场面，都带着惊怒恐惧的神色。",
+      "target": "Cách hai người không xa, còn có một đám lão giả đứng ngoài quan sát, nhìn cảnh tượng này, đều mang theo vẻ mặt kinh nộ sợ hãi."
+    },
+    {
+      "segment_id": "0021",
+      "source": "场中央那位胜利的蛊师，仰头大笑：“哈哈哈，古月英雄，枉你年纪轻轻，就有五转修为。本来还以为你是个人物，没想到如此不堪。哼！”",
+      "target": "Vị Cổ sư chiến thắng ở giữa sân, ngửa mặt lên trời cười to: “Ha ha ha, Cổ Nguyệt Anh Hùng, uổng cho ngươi tuổi còn trẻ, đã có tu vi ngũ chuyển. Vốn còn tưởng ngươi là một nhân vật, không ngờ lại bất kham như thế. Hừ!”"
+    },
+    {
+      "segment_id": "0022",
+      "source": "这个大笑的蛊师，双目细长，穿着一身粉色长袍，宽大的袖口随风摇曳，衣襟领口敞得很开，露出他结实如白玉的胸肌。",
+      "target": "Gã Cổ sư đang cười to này, hai mắt nhỏ dài, mặc một bộ trường bào màu hồng phấn, ống tay áo rộng đung đưa theo gió, cổ áo mở rất rộng, lộ ra cơ ngực rắn chắc như bạch ngọc của hắn."
+    },
+    {
+      "segment_id": "0023",
+      "source": "最为引人注目的，是他的光头，锃光瓦亮，没有一丝头发。",
+      "target": "Gây chú ý nhất là cái đầu trọc của hắn, bóng loáng, không có lấy một sợi tóc."
+    },
+    {
+      "segment_id": "0024",
+      "source": "“花酒行者！”方源一眼看破这蛊师的身份。",
+      "target": "“Hoa Tửu hành giả!” Phương Nguyên nhìn một cái đã nhận ra thân phận của gã Cổ sư này."
+    },
+    {
+      "segment_id": "0025",
+      "source": "“和花酒大人相比，晚辈算个屁！晚辈是昏了头，竟然有眼不识泰山，冒犯了花酒大人。花酒大人，请您看在先前我族倾情招待的份上，饶了一命啊！”那跪在地上的蛊师，身躯颤抖，冷汗直冒，涕泪俱下地求饶着。",
+      "target": "“So với Hoa Tửu đại nhân, vãn bối có là cái thá gì! Vãn bối là choáng váng đầu óc, vậy mà có mắt không tròng, mạo phạm Hoa Tửu đại nhân. Hoa Tửu đại nhân, xin ngài nể tình lúc trước bộ tộc ta dốc lòng khoản đãi, tha cho một mạng đi a!” Vị Cổ sư quỳ trên mặt đất kia, thân thể run lẩy bẩy, mồ hôi lạnh chảy ròng ròng, nước mắt nước mũi tèm lem lên tiếng cầu xin tha thứ."
+    },
+    {
+      "segment_id": "0026",
+      "source": "方源眯起双眼，仔细分辨，发现这蛊师穿着古月一族的族长服饰，看其相貌，分明就是那四代族长！",
+      "target": "Phương Nguyên híp hai mắt lại, cẩn thận phân biệt, phát hiện vị Cổ sư này mặc trang phục tộc trưởng của bộ tộc Cổ Nguyệt, nhìn tướng mạo của hắn, rõ ràng chính là vị Tứ đại tộc trưởng kia!"
+    },
+    {
+      "segment_id": "0027",
+      "source": "而那些年老的旁观者，应该就是那年代的族中家老了。",
+      "target": "Còn những lão giả đứng xem bên cạnh kia, hẳn chính là gia lão trong tộc của thời đại đó."
+    },
+    {
+      "segment_id": "0028",
+      "source": "“呵呵，倾情招待？你也好意思说！我本来诚心诚意，与你做桩买卖，用元石换购你族的月兰花，价格公道的很。是你居心叵测，假意曲迎，哄我入席，想要在酒中下毒蛊。你们也太小看我了，我闯荡天下，以花酒为名，怎么可能中了这毒？”",
+      "target": "“Ha hả, dốc lòng khoản đãi? Ngươi cũng không biết xấu hổ mà nói ra sao! Ta vốn thành tâm thành ý, làm với ngươi một vụ mua bán, dùng nguyên thạch đổi lấy Nguyệt Lan Hoa của bộ tộc ngươi, giá cả rất công bằng. Là ngươi rắp tâm khó lường, giả ý lấy lòng, lừa gạt ta nhập tiệc, muốn hạ độc Cổ trong rượu. Các ngươi cũng quá xem thường ta rồi, ta lang bạt thiên hạ, lấy Hoa Tửu làm tên, làm sao có thể trúng loại độc này chứ?”"
+    },
+    {
+      "segment_id": "0029",
+      "source": "花酒行者手指着跪在地上的四代族长，冷笑不断：“好好合作，定然没有这下场。结果想借我的人头沽名钓誉，你是自作孽不可活！”",
+      "target": "Hoa Tửu hành giả chỉ tay vào Tứ đại tộc trưởng đang quỳ trên mặt đất, cười lạnh liên tục: “Ngoan ngoãn hợp tác, chắc chắn sẽ không có kết cục này. Kết quả lại muốn mượn cái đầu của ta để câu danh chuộc tiếng, ngươi đúng là tự làm tự chịu!”"
+    },
+    {
+      "segment_id": "0030",
+      "source": "“大人，请饶我一条狗命吧！”四代族长惊惶大叫，用膝盖蹭地，迅速爬到花酒行者的脚下，抱住他的大腿。",
+      "target": "“Đại nhân, xin tha cho ta một cái mạng chó đi a!” Tứ đại tộc trưởng kinh hoàng kêu to, dùng đầu gối cọ trên mặt đất, nhanh chóng bò đến dưới chân Hoa Tửu hành giả, ôm chặt lấy đùi của hắn."
+    },
+    {
+      "segment_id": "0031",
+      "source": "“大人，我族有灵泉产出元石，在地下溶洞又种植了大片月兰花。小的愿意吃下大人的奴隶蛊，成为大人的奴才，生死只在大人一念之间，终身为大人效命！”",
+      "target": "“Đại nhân, bộ tộc ta có linh tuyền sản sinh nguyên thạch, trong hang động ngầm dưới lòng đất lại trồng một lượng lớn Nguyệt Lan Hoa. Tiểu nhân nguyện ý nuốt xuống Nô Lệ Cổ của đại nhân, trở thành nô tài của đại nhân, sống chết chỉ trong một ý niệm của đại nhân, cả đời dốc sức vì đại nhân!”"
+    },
+    {
+      "segment_id": "0032",
+      "source": "方源看得无语，画面中那几位家老更是因此面色变化不定。",
+      "target": "Phương Nguyên nhìn mà cạn lời, sắc mặt mấy vị gia lão trong đoạn hình ảnh kia lại càng vì vậy mà biến hóa bất định."
+    },
+    {
+      "segment_id": "0033",
+      "source": "花酒行者眯起了双眼，他的怒火已经平息下来，眼缝中精芒频闪：“哼，奴隶蛊珍贵无比，是五转蛊虫，你以为我会有？不过，你中了我的独门毒蛊，只有我可以解毒，也不怕你反抗。既然如此，你族每周给我提供三十斤月兰花瓣，同样还有三千枚元石。每隔一段时间我都会过来取货，同时为你解一次毒，留你一条狗命。”",
+      "target": "Hoa Tửu hành giả híp hai mắt lại, cơn giận của hắn đã bình tĩnh lại, trong khe hở đôi mắt liên tục lóe lên tinh quang: “Hừ, Nô Lệ Cổ vô cùng trân quý, là cổ trùng ngũ chuyển, ngươi cho rằng ta sẽ có sao? Bất quá, ngươi đã trúng độc Cổ độc môn của ta, chỉ có ta mới có thể giải độc, cũng không sợ ngươi phản kháng. Đã như vậy, mỗi tuần bộ tộc ngươi cung cấp cho ta ba mươi cân cánh hoa Nguyệt Lan, đồng thời còn có ba ngàn khối nguyên thạch. Cách mỗi một đoạn thời gian ta đều sẽ tới lấy hàng, đồng thời giải độc cho ngươi một lần, giữ lại cho ngươi một cái mạng chó.”"
+    },
+    {
+      "segment_id": "0034",
+      "source": "“谢大人不杀之恩，谢大人不杀之恩！”四代族长口中连连叫唤，磕头不止，额头撞在山石上，血流不止。",
+      "target": "“Tạ ơn đại nhân không giết, tạ ơn đại nhân không giết!” Tứ đại tộc trưởng trong miệng liên tục kêu gào, dập đầu không ngừng, trán đập mạnh vào vách đá, máu chảy ròng ròng."
+    },
+    {
+      "segment_id": "0035",
+      "source": "“哼，不要磕头了，老子最烦你这种卑躬屈膝的小人！什么古月天才，五转强者，名不副实。你给我好好侍奉，这也是你保命的……呃！”花酒行者忽然惊呼一声，脸上抖现惊骇之色。",
+      "target": "“Hừ, đừng dập đầu nữa, lão tử phiền nhất là loại tiểu nhân khúm núm như ngươi! Cái gì mà Cổ Nguyệt thiên tài, cường giả ngũ chuyển, thùng rỗng kêu to. Ngươi ngoan ngoãn hầu hạ cho ta, đây cũng là thứ để ngươi giữ mạng... Ớ!” Hoa Tửu hành giả đột nhiên kinh hô một tiếng, trên mặt lập tức hiện ra vẻ kinh hãi."
+    },
+    {
+      "segment_id": "0036",
+      "source": "他一脚踢飞四代族长，身形摇摆，仓惶后退几大步，对四代族长吼道：“你怎么还有蛊？”",
+      "target": "Hắn đá bay Tứ đại tộc trưởng, thân hình lảo đảo, hoảng hốt lùi lại mấy bước lớn, rống lên với Tứ đại tộc trưởng: “Sao ngươi vẫn còn Cổ?”"
+    },
+    {
+      "segment_id": "0037",
+      "source": "四代族长被他踢中心口，喷出一口心血，他艰难地站起身来，脸上露出阴谋得逞的笑意：“呵呵呵，魔道中人，人人得而诛之！此蛊名月影，最擅隐藏。虽然只有四转，却有限制元海真元之能。魔头，你和我酣战良久，你身上的蛊虫也没剩几个，怎么能克制月影蛊？你乖乖投降，成为我的奴仆，只要侍奉得我开心了，还有一条活路！”",
+      "target": "Tứ đại tộc trưởng bị hắn đá trúng ngực, phun ra một ngụm tâm huyết, hắn gian nan đứng dậy, trên mặt lộ ra nụ cười đắc ý vì âm mưu đã đạt được: “Ha ha ha, người trong ma đạo, ai cũng có thể giết chết! Cổ này tên là Nguyệt Ảnh, am hiểu ẩn nấp nhất. Mặc dù chỉ có tứ chuyển, nhưng lại có năng lực hạn chế chân nguyên trong nguyên hải. Ma đầu, ngươi và ta kịch chiến hồi lâu, cổ trùng trên người ngươi cũng chẳng còn lại mấy con, làm sao có thể khắc chế Nguyệt Ảnh Cổ được chứ? Ngươi ngoan ngoãn đầu hàng, trở thành nô bộc của ta, chỉ cần hầu hạ khiến ta vui vẻ, thì còn có một con đường sống!”"
+    },
+    {
+      "segment_id": "0038",
+      "source": "花酒行者勃然大怒，咆哮一声：“去你娘的！！”",
+      "target": "Hoa Tửu hành giả nổi trận lôi đình, gầm lên một tiếng: “Cút mẹ ngươi đi!!”"
+    },
+    {
+      "segment_id": "0039",
+      "source": "话音未落，身形如电射来，一拳轰在四代族长的心窝。",
+      "target": "Lời còn chưa dứt, thân hình đã bắn tới như điện, tung một quyền oanh thẳng vào giữa ngực Tứ đại tộc trưởng."
+    },
+    {
+      "segment_id": "0040",
+      "source": "四代族长没有料到花酒行者居然这么激进，哪怕元海受到威胁，都不肯妥协。巨大的力量用来，他一下子就飞了出去，身形如破麻袋落在地上。",
+      "target": "Tứ đại tộc trưởng không ngờ tới Hoa Tửu hành giả lại cực đoan như vậy, ngay cả khi nguyên hải bị uy hiếp, cũng không chịu thỏa hiệp. Cự lực ập tới, hắn lập tức bay ngược ra ngoài, thân hình như chiếc bao tải rách rơi xuống đất."
+    },
+    {
+      "segment_id": "0041",
+      "source": "噗。",
+      "target": "Phốc."
+    },
+    {
+      "segment_id": "0042",
+      "source": "他喷出一大口鲜血，血液中还掺杂着无数内脏的碎末。",
+      "target": "Hắn phun ra một ngụm máu tươi rất lớn, trong máu còn trộn lẫn vô số vụn vỡ của nội tạng."
+    },
+    {
+      "segment_id": "0043",
+      "source": "“你疯了吗，我们完全可以好好商量……”他死死地瞪着花酒行者，双唇费力地蠕动着。这句话还未说完，他双腿一蹬，脑袋一歪，死去了。",
+      "target": "“Ngươi điên rồi sao, chúng ta hoàn toàn có thể thương lượng tử tế mà…” Hắn gắt gao trừng mắt nhìn Hoa Tửu hành giả, hai môi cố sức mấp máy. Câu nói này còn chưa nói xong, hai chân hắn đã đạp mạnh một cái, đầu ngoẹo sang một bên, chết cứng."
+    },
+    {
+      "segment_id": "0044",
+      "source": "“族长！！”",
+      "target": "“Tộc trưởng!!”"
+    },
+    {
+      "segment_id": "0045",
+      "source": "“魔道中人，果然各个都是疯子。”",
+      "target": "“Người trong ma đạo, quả nhiên kẻ nào cũng là kẻ điên.”"
+    },
+    {
+      "segment_id": "0046",
+      "source": "“杀，杀了这魔头，为族长报仇！”",
+      "target": "“Giết, giết tên ma đầu này, báo thù cho tộc trưởng!”"
+    },
+    {
+      "segment_id": "0047",
+      "source": "“他中了月影蛊，真元已经不能随意调动了，时间一长连元海都受到威胁。”",
+      "target": "“Hắn trúng Nguyệt Ảnh Cổ, đã không thể tùy ý điều động chân nguyên nữa, thời gian dài ngay cả nguyên hải cũng sẽ bị uy hiếp.”"
+    },
+    {
+      "segment_id": "0048",
+      "source": "观战的家老们各个发出怒吼，蜂拥而上。",
+      "target": "Các gia lão đứng ngoài quan sát thi nhau phát ra tiếng gầm thét, ùa lên."
+    },
+    {
+      "segment_id": "0049",
+      "source": "“哈哈哈，找死的就来吧！”花酒行者仰天长啸，面对家老们的冲锋，直接从正面迎了上去。",
+      "target": "“Ha ha ha, muốn chết thì tới đây!” Hoa Tửu hành giả ngửa mặt lên trời thét dài, đối mặt với sự lao lên của các gia lão, hắn trực tiếp nghênh đón từ chính diện."
+    },
+    {
+      "segment_id": "0050",
+      "source": "一场激斗展开，花酒行者迅速掌控场面，很快家老们死的死，伤的伤，全部瘫倒在地上。",
+      "target": "Một trận kịch đấu diễn ra, Hoa Tửu hành giả nhanh chóng khống chế toàn cục, rất nhanh các gia lão kẻ chết người bị thương, toàn bộ ngã gục trên mặt đất."
+    },
+    {
+      "segment_id": "0051",
+      "source": "他正要对残留的家老们痛下杀手，忽然面色一变，伸手捂住腹部：“该死！”",
+      "target": "Hắn đang định ra tay tàn độc với những gia lão còn sót lại, đột nhiên biến sắc, đưa tay ôm lấy bụng: “Chết tiệt!”"
+    },
+    {
+      "segment_id": "0052",
+      "source": "“以后再来收拾你们。”花酒行者恶狠狠地瞪了几位家老一眼，身形如电遁走，钻入山林，转眼间消失得无影无踪。;",
+      "target": "“Sau này lại đến xử lý các ngươi.” Hoa Tửu hành giả hung tợn trừng mắt nhìn mấy vị gia lão một cái, thân hình bỏ trốn như điện, chui vào trong núi rừng, chớp mắt đã biến mất không thấy tăm hơi."
+    }
+  ]
+}
+```

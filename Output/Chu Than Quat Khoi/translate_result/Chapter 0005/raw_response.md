@@ -1,36 +1,37 @@
+```json
 {
   "chapter_number": 5,
-  "chapter_title_vi": "Chương 5: Nhiệm vụ（求推荐！）",
+  "chapter_title_vi": "Chương 5: Nhiệm vụ (Cầu đề cử!)",
   "segments": [
     {
       "segment_id": "0001",
       "source": "# 第5章 任务（求推荐！）",
-      "target": "# Chương 5 Nhiệm vụ（求推荐！）"
+      "target": "# Chương 5: Nhiệm vụ (Cầu đề cử!)"
     },
     {
       "segment_id": "0002",
       "source": "【主线任务开启：生存！（新人试炼）】",
-      "target": "【Nhiệm vụ chính mở: Sinh tồn!（Thử thách tân binh）】"
+      "target": "【Nhiệm vụ chính tuyến mở ra: Sinh tồn! (Thử thách người mới)】"
     },
     {
       "segment_id": "0003",
       "source": "【任务目标：在大青庄生存超过七日！任务完成，奖励一百小功！注意：在七日之内，不得离开大青庄方圆三里之范围，违者抹杀！】",
-      "target": "【Mục tiêu: Sinh tồn trên Đại Thanh Trang hơn bảy ngày! Hoàn thành, thưởng 100 tiểu công! Lưu ý: Trong vòng bảy ngày không được rời khỏi bán kính ba dặm quanh Đại Thanh Trang, vi phạm sẽ bị tiêu diệt!】"
+      "target": "【Mục tiêu nhiệm vụ: Sinh tồn ở Đại Thanh trang hơn bảy ngày! Hoàn thành nhiệm vụ, thưởng một trăm tiểu công! Chú ý: Trong vòng bảy ngày, không được rời khỏi phạm vi ba dặm quanh Đại Thanh trang, kẻ vi phạm sẽ bị mạt sát!】"
     },
     {
       "segment_id": "0004",
       "source": "【场景介绍：大夏泰和九年，北方胡人入寇，生灵涂炭，此时，一队胡人骑兵突破防线，到达大青庄附近，即将攻打此庄，生存还是死亡，你必须做出选择！】",
-      "target": "【Giới thiệu bối cảnh: Đại Hạ Thái và Cửu Niên, người Hô phương xâm lược, sinh linh tàn phá, lúc này một đội kỵ binh Hô phá vỡ phòng tuyến, tới gần Đ Đại Thanh Trang, chuẩn bị tấn công, sinh tồn hay chết, bạn phải quyết định!】"
+      "target": "【Giới thiệu bối cảnh: Đại Hạ Thái Hòa năm thứ chín, người Hồ phương Bắc xâm lấn, sinh linh lầm than. Lúc này, một đội kỵ binh người Hồ đã chọc thủng phòng tuyến, đến gần Đại Thanh trang, sắp sửa tấn công trang viện này. Sống hay chết, ngươi phải đưa ra lựa chọn!】"
     },
     {
       "segment_id": "0005",
       "source": "【支线任务：击杀来犯之敌！大敌当前，每击杀一名胡人骑兵奖励五十小功、击杀一名图鲁勇士奖励一百小功、击杀萨满巫奖励三百小功！】",
-      "target": "【Nhiệm vụ phụ: Tiêu diệt kẻ xâm nhập! Khi kẻ thù hiện hữu, mỗi kỵ binh Hô chết thưởng 50 tiểu công, mỗi chiến binh Tồ Lô chết thưởng 100 tiểu công, mỗi thầy phù thủy chết thưởng 300 tiểu công!】"
+      "target": "【Nhiệm vụ phụ tuyến: Tiêu diệt kẻ địch tới phạm! Đại địch trước mắt, mỗi khi tiêu diệt một tên kỵ binh người Hồ thưởng năm mươi tiểu công, tiêu diệt một gã dũng sĩ Đồ Lỗ thưởng một trăm tiểu công, tiêu diệt Tát Mãn Vu thưởng ba trăm tiểu công!】"
     },
     {
       "segment_id": "0006",
       "source": "【本次任务场景：小型！任务难度：荒！】",
-      "target": "【Bối cảnh nhiệm vụ này: Nhỏ! Độ khó: Hoang!】"
+      "target": "【Bối cảnh nhiệm vụ lần này: Cỡ nhỏ! Độ khó nhiệm vụ: Hoang!】"
     },
     {
       "segment_id": "0007",
@@ -40,122 +41,122 @@
     {
       "segment_id": "0008",
       "source": "康守礼惊呼一声：“大周之前是大商，大商之前才是大夏！难道我们回到了历史当中？这怎么可能？”",
-      "target": "Khương Thủ Lễ hét lên: “Trước Đại Chu là Đại Thương, trước Đại Thương mới là Đại Hạ! Chúng ta có quay lại lịch sử không? Thật không thể!”"
+      "target": "Khang Thủ Lễ kinh hô một tiếng: “Trước Đại Chu là Đại Thương, trước Đại Thương mới là Đại Hạ! Chẳng lẽ chúng ta đã quay về lịch sử? Chuyện này sao có thể?”"
     },
     {
       "segment_id": "0009",
       "source": "‘回到历史是不可能，但也极有可能是创造出了一个小世界，截取了那场大战的一部分么？’",
-      "target": "‘Quay lại lịch sử không thể, nhưng có thể chúng ta đã tạo ra một tiểu thế giới, cắt một phần trận chiến lớn?’"
+      "target": "‘Quay về lịch sử là không thể nào, nhưng cũng rất có khả năng là sáng tạo ra một tiểu thế giới, trích xuất một phần của cuộc đại chiến đó sao?’"
     },
     {
       "segment_id": "0010",
       "source": "吴明心里微微一动，又看向其他人。",
-      "target": "Ngô Minh nhẹ nhàng suy nghĩ, lại nhìn sang những người khác."
+      "target": "Trong lòng Ngô Minh hơi động, lại nhìn sang những người khác."
     },
     {
       "segment_id": "0011",
       "source": "在听到胡人入侵的任务之后，黄莺几个都是脸色连变，特别是小玉，更是低低惊呼一声：“萨满巫是草原上巫医与祭司的合称，能用巫术！而图鲁勇士更是胡人部落中一等一的强者……我们……”",
-      "target": "Khi nghe nhiệm vụ người Hô xâm lược, Hoàng Anh và các người khác mặt xanh, đặc biệt Tiểu Ngọc thốt lên: “Thầy phù thủy là tổng hợp của thầy thuốc và nhà lễ hội trên đồng cỏ, có phép thuật! Chiến binh Tồ Lô còn là người mạnh nhất trong bộ lạc Hô… chúng ta…”"
+      "target": "Sau khi nghe thấy nhiệm vụ người Hồ xâm lấn, sắc mặt mấy người Hoàng Oanh đều liên tục thay đổi, đặc biệt là Tiểu Ngọc, càng thấp giọng kinh hô: “Tát Mãn Vu là tên gọi chung của vu y và tế tư trên thảo nguyên, có thể dùng vu thuật! Mà dũng sĩ Đồ Lỗ càng là cường giả nhất đẳng trong bộ lạc người Hồ... Chúng ta...”"
     },
     {
       "segment_id": "0012",
       "source": "看来此女却是已经渐渐接受现实，甚至思考完成任务的可能。",
-      "target": "Có vẻ cô gái đã dần chấp nhận thực tế, thậm chí suy nghĩ về khả năng hoàn thành nhiệm vụ."
+      "target": "Xem ra thiếu nữ này lại đang dần dần tiếp nhận hiện thực, thậm chí suy nghĩ khả năng hoàn thành nhiệm vụ."
     },
     {
       "segment_id": "0013",
       "source": "“胡人骑兵凶残，所过之处，近乎寸草不留！又骑射无双，恐怕要我们两人合力，才能拿下一个！”",
-      "target": "“Kỵ binh Hô tàn bạo, nơi chúng đi gần như không để lại cỏ xanh! Cũng cưỡi và bắn vô địch, có lẽ chỉ khi hai chúng ta hợp lực mới có thể hạ một người!”"
+      "target": "“Kỵ binh người Hồ hung tàn, nơi đi qua, gần như tấc cỏ không còn! Lại cưỡi ngựa bắn cung vô song, e rằng phải hai người chúng ta hợp lực mới có thể hạ gục một tên!”"
     },
     {
       "segment_id": "0014",
       "source": "秦虎上前两步，想与吴明联手的味道非常明显。",
-      "target": "Tần Hổ tiến tới hai bước, muốn hợp tác với Ngô Minh rõ ràng."
+      "target": "Tần Hổ tiến lên hai bước, ý muốn liên thủ với Ngô Minh vô cùng rõ ràng."
     },
     {
       "segment_id": "0015",
       "source": "‘果然！’",
-      "target": "‘Thật vậy!’"
+      "target": "‘Quả nhiên!’"
     },
     {
       "segment_id": "0016",
       "source": "吴明一眼望去，黄莺面露期待，就连康守礼都没有再说什么。",
-      "target": "Ngô Minh nhìn, Hoàng Anh ánh mắt mong đợi, ngay cả Khương Thủ Lễ cũng không nói gì."
+      "target": "Ngô Minh vừa nhìn lướt qua, Hoàng Oanh lộ vẻ chờ mong, ngay cả Khang Thủ Lễ cũng không nói thêm gì nữa."
     },
     {
       "segment_id": "0017",
       "source": "灾难当中，服从强者乃是本能。",
-      "target": "Trong thảm họa, tuân theo người mạnh là bản năng."
+      "target": "Trong tai họa, phục tùng kẻ mạnh chính là bản năng."
     },
     {
       "segment_id": "0018",
       "source": "之前的一点点不快，更是如微尘一般，被这几人飞快地掩埋了下去。",
-      "target": "Những bất bình trước đây như bụi mịn, nhanh chóng bị họ chôn vùi."
+      "target": "Một chút không vui trước đó, càng giống như hạt bụi, bị mấy người này nhanh chóng chôn giấu xuống."
     },
     {
       "segment_id": "0019",
       "source": "吴明见此，却是暗中摇头。",
-      "target": "Ngô Minh thấy vậy, lặng lẽ lắc đầu."
+      "target": "Ngô Minh thấy vậy, lại thầm lắc đầu."
     },
     {
       "segment_id": "0020",
       "source": "原本天南海北的几个人，甚至还互相不信任，又如何能整合一体，共御强敌？",
-      "target": "Những người từ khắp nơi, thậm chí không tin nhau, làm sao có thể hợp lực chống kẻ thù?"
+      "target": "Mấy người vốn dĩ ở trời Nam đất Bắc, thậm chí còn không tin tưởng lẫn nhau, thì làm sao có thể hợp lại thành một thể, cùng chống kẻ địch mạnh?"
     },
     {
       "segment_id": "0021",
       "source": "是以，他对于这帮‘队友’，原本就没有多少期待，现在听到居然是生存类任务，心里先是一紧，旋即又有些放松。",
-      "target": "Vì vậy, anh không mong đợi gì từ ‘đội bạn’ này, khi nghe là nhiệm vụ sinh tồn, đầu óc vừa căng thẳng vừa nhẹ nhõm."
+      "target": "Thế nên, hắn đối với đám ‘đồng đội’ này vốn đã không có bao nhiêu mong đợi. Hiện tại nghe thấy lại là nhiệm vụ loại sinh tồn, trong lòng trước tiên là chùng xuống, ngay sau đó lại có chút thả lỏng."
     },
     {
       "segment_id": "0022",
       "source": "紧张的是主神殿估测他们实力远逊于胡人骑兵，因此才会给出生存类任务，没有其它要求，但却更加显得艰难。",
-      "target": "Lo lắng vì Đền Thần chính ước tính họ yếu hơn kỵ binh Hô, nên đưa ra nhiệm vụ sinh tồn, không có yêu cầu khác, nhưng càng khó."
+      "target": "Căng thẳng là Chủ Thần Điện ước tính thực lực của bọn họ kém xa kỵ binh người Hồ, cho nên mới đưa ra nhiệm vụ loại sinh tồn, không có yêu cầu nào khác, nhưng lại càng tỏ ra gian nan."
     },
     {
       "segment_id": "0023",
       "source": "轻松的，却是没有一体评价的内容，不会被猪队友连累了。",
-      "target": "Thư giãn là không có đánh giá chung, không lo bị đồng đội 'heo' kéo xuống."
+      "target": "Nhẹ nhõm là vì không có nội dung đánh giá tập thể, sẽ không bị đồng đội ngu như heo liên lụy."
     },
     {
       "segment_id": "0024",
       "source": "不过此时，维持表面上的团结，整合众人的力量，总比一个人强点。",
-      "target": "Tuy nhiên, lúc này duy trì vẻ đoàn kết, hợp lực, vẫn tốt hơn một mình."
+      "target": "Nhưng mà lúc này, duy trì sự đoàn kết trên bề mặt, tập hợp sức mạnh của mọi người, luôn tốt hơn là một thân một mình."
     },
     {
       "segment_id": "0025",
       "source": "吴明于是指着视野中的村庄：“大青庄，莫非便是那里？我们是否先过去打探下情况……”",
-      "target": "Ngô Minh chỉ vào làng trong tầm mắt: “Đại Thanh Trang, có phải ở đó? Chúng ta có nên tới khám phá không…”"
+      "target": "Ngô Minh thế là chỉ vào thôn trang trong tầm mắt: “Đại Thanh trang, chẳng lẽ chính là chỗ đó? Chúng ta có nên qua đó dò la tình hình trước hay không...”"
     },
     {
       "segment_id": "0026",
       "source": "忽然间，他面色一滞。",
-      "target": "Đột nhiên, mặt anh bỗng chững lại."
+      "target": "Đột nhiên, sắc mặt hắn cứng đờ."
     },
     {
       "segment_id": "0027",
       "source": "因为原本半空中的炊烟，又开始袅袅上升，清风抚过，树叶沙沙作响，整个天地，都仿佛瞬间‘活’了过来。",
-      "target": "Vì khói bếp trong không trung lại bốc lên, gió nhẹ lướt qua, lá xào xạc, cả trời đất như bừng sống."
+      "target": "Bởi vì khói bếp vốn ở giữa không trung lại bắt đầu lượn lờ bay lên, gió nhẹ lướt qua, lá cây xào xạc vang lên. Cả đất trời đều phảng phất như chớp mắt ‘sống’ lại."
     },
     {
       "segment_id": "0028",
       "source": "【叮！主线任务开始，发布即时任务！】",
-      "target": "【Đinh! Nhiệm vụ chính bắt đầu, phát hành nhiệm vụ tức thời!】"
+      "target": "【Đinh! Nhiệm vụ chính tuyến bắt đầu, ban bố nhiệm vụ tức thời!】"
     },
     {
       "segment_id": "0029",
       "source": "【即时任务：到达！你需要在一炷香之内到达大青庄，否则视为任务失败！】",
-      "target": "【Nhiệm vụ tức thời: Đến nơi! Bạn phải tới Đại Thanh Trang trong một hương, nếu không coi là thất bại!】"
+      "target": "【Nhiệm vụ tức thời: Đi tới! Ngươi cần phải đi tới Đại Thanh trang trong vòng một nén nhang, nếu không coi như nhiệm vụ thất bại!】"
     },
     {
       "segment_id": "0030",
       "source": "一个信息在吴明等人的识海中浮现，甚至还有个日晷模样的计时器具，指针飞快转动。",
-      "target": "Một thông tin hiện lên trong trí nhớ của Ngô Minh và các người, thậm chí có đồng hồ mặt trời, kim quay nhanh."
+      "target": "Một luồng tin tức nổi lên trong thức hải của bọn người Ngô Minh, thậm chí còn có một dụng cụ đếm thời gian mang dáng dấp đồng hồ mặt trời, kim chỉ đang quay vòng như bay."
     },
     {
       "segment_id": "0031",
       "source": "吴明与其他人先是怔了怔，任务失败那四个字，实在给他们极为不妙的预感。",
-      "target": "Ngô Minh và những người khác sững sờ, bốn chữ ‘thất bại nhiệm vụ’ mang dự báo xấu."
+      "target": "Ngô Minh và những người khác đầu tiên là ngẩn ra, bốn chữ \"nhiệm vụ thất bại\" thật sự mang đến cho bọn họ linh cảm vô cùng bất ổn."
     },
     {
       "segment_id": "0032",
@@ -165,177 +166,177 @@
     {
       "segment_id": "0033",
       "source": "秦虎第一个扑出，他乃帮派中人，极为现实，信奉拳头大就是真理。",
-      "target": "Tần Hổ là người đầu tiên lao ra, là thành viên băng nhóm, thực dụng, tin rằng búa to là chân lý."
+      "target": "Tần Hổ là người lao ra đầu tiên. Gã là người trong bang phái, vô cùng thực tế, luôn tin tưởng vững chắc nắm đấm lớn chính là chân lý."
     },
     {
       "segment_id": "0034",
       "source": "现在不论这是玩笑还是阴谋，仅凭对方可以将信息直接送入他脑海这点，就算摆明要玩他，他都要认！",
-      "target": "Giờ dù là trò đùa hay âm mưu, chỉ vì họ có thể truyền thông tin thẳng vào não, dù rõ ràng muốn chơi trò, anh vẫn phải chấp nhận!"
+      "target": "Bây giờ bất luận đây là trò đùa hay là âm mưu, chỉ bằng việc đối phương có thể trực tiếp đưa thông tin vào trong đầu gã, dù có bày rõ ra muốn chơi gã, gã cũng phải nhận!"
     },
     {
       "segment_id": "0035",
       "source": "“主线任务没有失败惩罚，因为失败的都会死……但现在……”",
-      "target": "“Nhiệm vụ chính không có hình phạt thất bại, vì thất bại đều chết… nhưng bây giờ…”"
+      "target": "“Nhiệm vụ chính tuyến không có hình phạt thất bại, bởi vì những kẻ thất bại đều sẽ chết... nhưng bây giờ...”"
     },
     {
       "segment_id": "0036",
       "source": "小玉与黄莺对视一眼，看着秦虎远去的背影，都是相视苦笑。",
-      "target": "Tiểu Ngọc và Hoàng Anh nhìn nhau, nhìn bóng Tần Hổ xa dần, cả hai cười khẩy."
+      "target": "Tiểu Ngọc và Hoàng Oanh nhìn nhau một cái, nhìn bóng lưng Tần Hổ đi xa, đều nhìn nhau cười khổ."
     },
     {
       "segment_id": "0037",
       "source": "黄莺求助似的眼睛一望，康守礼就有些骨头软了：“若黄姑娘不嫌弃……”",
-      "target": "Hoàng Anh mắt cầu cứu, Khương Thủ Lễ hơi mềm: “Nếu cô không ghét…”"
+      "target": "Hoàng Oanh vừa đưa ánh mắt cầu cứu nhìn sang, xương cốt Khang Thủ Lễ liền có chút nhũn ra: “Nếu Hoàng cô nương không chê...”"
     },
     {
       "segment_id": "0038",
       "source": "“康公子能不吝出手，妾身感激不尽都来不及，又怎么会嫌弃呢？”",
-      "target": "“Công tử Khương nếu không ngại giúp, cô vô cùng biết ơn, sao lại ghét?”"
+      "target": "“Khang công tử không tiếc ra tay, thiếp thân cảm kích khôn cùng còn không kịp, thì sao có thể ghét bỏ chứ?”"
     },
     {
       "segment_id": "0039",
       "source": "黄莺落落大方地揽着康守礼的胳膊，酥酥软软的声音，顿时令康守礼豪情万丈：“黄姑娘放心，有康某在，任凭谁也为难不了你！”",
-      "target": "Hoàng Anh duyên dáng ôm tay Khương Thủ Lễ, giọng ngọt ngào, khiến Khương thổi bùng khí thế: “Cô yên tâm, có Khương ở đây, ai cũng không làm phiền cô!”"
+      "target": "Hoàng Oanh tự nhiên phóng khoáng ôm lấy cánh tay Khang Thủ Lễ, giọng nói êm ái mềm nhũn, tức thì khiến Khang Thủ Lễ dâng lên hào tình vạn trượng: “Hoàng cô nương yên tâm, có Khang mỗ ở đây, mặc cho là ai cũng không làm khó được nàng!”"
     },
     {
       "segment_id": "0040",
       "source": "他虽然是纨绔子，与之前的吴明有得一拼，又沉迷酒色，但好歹也到了武道二重，皮肉境的修为，肌肉发达，带个人绰绰有余。",
-      "target": "Dù là con nhà giàu sang, so sánh được Ngô Minh, mê rượu say, nhưng đã lên tới cấp võ đạo thứ hai, thể lực mạnh, cơ bắp phát triển, đủ sức mang người."
+      "target": "Hắn ta tuy là công tử bột, có thể phân cao thấp với Ngô Minh trước kia, lại đắm chìm trong tửu sắc, nhưng dẫu sao cũng đã đạt tới Võ Đạo nhị trọng, tu vi Bì Nhục cảnh. Cơ bắp hắn phát triển, mang theo một người thì dư sức."
     },
     {
       "segment_id": "0041",
       "source": "“看来只有我带你一程了！”",
-      "target": "“Có vẻ chỉ mình tôi mới đưa cô tới!”"
+      "target": "“Xem ra chỉ có ta đưa muội đi một đoạn rồi!”"
     },
     {
       "segment_id": "0042",
       "source": "吴明摸了摸鼻子，却是提着小玉的衣领，大踏步而行，几下一跃，就超过了康守礼，直追秦虎。",
-      "target": "Ngô Minh chạm mũi, kéo áo của Tiểu Ngọc, bước nhanh, vài bước nhảy vượt qua Khương Thủ Lễ, đuổi theo Tần Hổ."
+      "target": "Ngô Minh sờ sờ mũi, lại xách cổ áo Tiểu Ngọc, sải bước dài mà đi. Nhảy vọt vài cái, hắn đã vượt qua Khang Thủ Lễ, bám sát Tần Hổ."
     },
     {
       "segment_id": "0043",
       "source": "“无名大哥哥，多谢你啦！”",
-      "target": "“Anh đại không tên, cảm ơn anh!”"
+      "target": "“Vô Danh đại ca ca, đa tạ huynh nha!”"
     },
     {
       "segment_id": "0044",
       "source": "虽然被提着领子，好像小孩子一般，但小玉的脸上却带着甜甜的笑容。",
-      "target": "Dù bị kéo áo cổ như trẻ con, Tiểu Ngọc vẫn cười tươi."
+      "target": "Mặc dù bị xách cổ áo giống hệt như một đứa trẻ, nhưng trên mặt Tiểu Ngọc lại mang theo nụ cười ngọt ngào."
     },
     {
       "segment_id": "0045",
       "source": "此时静距离观察，吴明更可以发觉此女吐气如兰，皮肤白皙细腻，比最上好的瓷娃娃还要佳上一分。",
-      "target": "Khi quan sát từ xa, Ngô Minh nhận ra cô gái thở nhẹ như lan, da trắng mịn, còn đẹp hơn búp bê sứ tốt nhất."
+      "target": "Lúc này quan sát ở cự ly gần, Ngô Minh càng có thể phát hiện thiếu nữ này hơi thở như lan, da dẻ trắng nõn mịn màng, còn đẹp hơn cả búp bê sứ thượng hạng một bậc."
     },
     {
       "segment_id": "0046",
       "source": "“小玉姑娘，你还未告诉我你的全名呢！”",
-      "target": "“Tiểu Ngọc, cô chưa cho tôi biết toàn bộ tên!”"
+      "target": "“Tiểu Ngọc cô nương, muội còn chưa cho ta biết tên đầy đủ của muội đâu đấy!”"
     },
     {
       "segment_id": "0047",
       "source": "吴明奔走当中，却是气脉悠长，还有闲心问道。",
-      "target": "Trong lúc chạy, Ngô Minh vẫn bình tĩnh, hỏi thoáng."
+      "target": "Lúc Ngô Minh đang băng băng chạy nhanh, khí mạch lại dài lâu, còn có tâm trí nhàn nhã cất tiếng hỏi."
     },
     {
       "segment_id": "0048",
       "source": "小玉古灵精怪的眸子一转，学着吴明之前的语气道：“江湖险恶，人家也从来不留底细的呢！哎呦……”",
-      "target": "Tiểu Ngọc mắt tinh nghịch, bắt chước giọng Ngô Minh: “Giang hồ hiểm nguy, tôi chưa bao giờ để lại thông tin! Ối…”"
+      "target": "Đôi mắt cổ linh tinh quái của Tiểu Ngọc đảo một vòng, học theo giọng điệu lúc trước của Ngô Minh nói: “Giang hồ hiểm ác, người ta cũng chưa từng lưu lại gốc gác bao giờ đâu! Ây dô...”"
     },
     {
       "segment_id": "0049",
       "source": "话还没有说完，她额头就挨了吴明一记，不由雪雪呼痛。",
-      "target": "Chưa kịp nói xong, trán cô bị Ngô Minh đánh, cô rên rỉ đau đớn."
+      "target": "Lời còn chưa nói hết, trán của nàng ta đã ăn một cú của Ngô Minh, không khỏi xuýt xoa kêu đau."
     },
     {
       "segment_id": "0050",
       "source": "知道厉害的少女立即老实不少，只是嘴里最后还似乎不甘心地嘟囔了一句：“若是人家的百宝囊一起带来，才不会……”",
-      "target": "Cô gái biết mình mạnh lập tức ngoan, nhưng cuối cùng lẩm bẩm không hài lòng: “Nếu mang theo túi báu vật của mình, sẽ không…”"
+      "target": "Biết sự lợi hại nên thiếu nữ lập tức ngoan ngoãn hơn không ít, chỉ là cuối cùng trong miệng dường như vẫn không cam lòng lầm bầm một câu: “Nếu như mang theo túi bách bảo của người ta tới cùng, thì sẽ không...”"
     },
     {
       "segment_id": "0051",
       "source": "忽然似是知道有失，又住口不言。",
-      "target": "Đột nhiên nhận ra sai lầm, im lặng."
+      "target": "Đột nhiên dường như biết đã lỡ lời, nàng lại im bặt không nói nữa."
     },
     {
       "segment_id": "0052",
       "source": "吴明却不以为意，从谈吐上他就知道此女出身不凡，只是听到对方的疑似道术物品，与自己的一样，都被排斥在外，脸上不由闪过一抹深思之色。",
-      "target": "Ngô Minh không bận tâm, qua lời nói nhận ra cô xuất thân không thường, khi nghe cô có vật phẩm pháp thuật giống mình, anh suy nghĩ sâu sắc."
+      "target": "Ngô Minh cũng không để tâm. Từ cách ăn nói, hắn liền biết xuất thân thiếu nữ này không tầm thường, chỉ là nghe nói tới món đồ nghi là vật phẩm đạo thuật của đối phương, cũng giống như của mình, đều bị gạt bỏ ở bên ngoài, trên mặt không khỏi lóe lên vẻ suy ngẫm."
     },
     {
       "segment_id": "0053",
       "source": "一炷香的时间不长不短，对于普通人，特别是黄莺那等手无缚鸡之力的女子而言，或许要跑到大青庄难如登天，但对于习练武艺，有着几重功夫在身的吴明等人却是没有什么问题。",
-      "target": "Một hương thời gian vừa đủ, đối với người thường, nhất là Hoàng Anh yếu ớt, có thể khó tới Đại Thanh Trang, nhưng với Ngô Minh và những người đã luyện võ, không vấn đề."
+      "target": "Thời gian một nén nhang không dài không ngắn, đối với người bình thường, đặc biệt là nữ tử trói gà không chặt như Hoàng Oanh mà nói, muốn chạy tới Đại Thanh trang có lẽ khó như lên trời. Nhưng đối với những người rèn luyện võ nghệ, mang theo vài tầng công phu trên người như bọn Ngô Minh thì lại chẳng thành vấn đề gì."
     },
     {
       "segment_id": "0054",
       "source": "路过写着大青庄的界碑，到了村头的时候，吴明的脑海中就传来了即时任务完成的消息。",
-      "target": "Qua cột mốc ghi “Đại Thanh Trang”, khi tới đầu làng, trong đầu Ngô Minh hiện thông báo nhiệm vụ hoàn thành."
+      "target": "Lúc đi qua tấm bia ranh giới viết ba chữ Đại Thanh trang, đi tới đầu làng, trong đầu Ngô Minh lập tức truyền đến thông báo hoàn thành nhiệm vụ tức thời."
     },
     {
       "segment_id": "0055",
       "source": "慢慢呼出口气的吴明，旋即又将小玉放下。",
-      "target": "Ngô Minh thở dài, rồi thả Tiểu Ngọc xuống."
+      "target": "Ngô Minh chậm rãi thở hắt ra một hơi, ngay sau đó lại thả Tiểu Ngọc xuống."
     },
     {
       "segment_id": "0056",
       "source": "“多谢无名哥哥，你真是个好人！”",
-      "target": "“Cảm ơn anh không tên, anh thật tốt!”"
+      "target": "“Đa tạ Vô Danh ca ca, huynh đúng là một người tốt!”"
     },
     {
       "segment_id": "0057",
       "source": "小玉笑嘻嘻地道谢，顺带又看向康守礼的方向，面带焦急之色：“快点，时辰快到了！”",
-      "target": "Tiểu Ngọc cười tươi cảm ơn, rồi nhìn về phía Khương Thủ Lễ, gương mặt lo lắng: “Nhanh lên, thời gian sắp hết!”"
+      "target": "Tiểu Ngọc cười hì hì tạ ơn, tiện thể lại nhìn về phía hướng Khang Thủ Lễ, trên mặt lộ vẻ nôn nóng: “Nhanh lên, sắp hết giờ rồi!”"
     },
     {
       "segment_id": "0058",
       "source": "此时，在他们脑海当中，日晷的指针还有数十息就要归零！",
-      "target": "Lúc này, trong đầu họ, kim đồng hồ còn vài chục giây trước khi về 0!"
+      "target": "Lúc này, trong đầu bọn họ, kim chỉ của đồng hồ mặt trời còn mấy chục nhịp thở nữa là sẽ đếm lùi về số không!"
     },
     {
       "segment_id": "0059",
       "source": "看着这两人的身影，以及康守礼脸上明显浮现出的吃力之色，吴明的眸中却是精光闪烁：“以康守礼的速度，倒是可以险险赶上，要不要……”",
-      "target": "Nhìn hai người và khuôn mặt mệt mỏi của Khương Thủ Lễ, mắt Ngô Minh lóe sáng: “Với tốc độ của Khương, có thể kịp, có muốn…?”"
+      "target": "Nhìn bóng dáng hai người kia, cùng với vẻ đuối sức hiện rõ trên mặt Khang Thủ Lễ, trong mắt Ngô Minh lại lóe lên tinh quang: “Với tốc độ của Khang Thủ Lễ, ngược lại có thể suýt soát đuổi kịp, có nên hay không...”"
     },
     {
       "segment_id": "0060",
       "source": "秦虎却是狞笑一声，忽然站了起来，挡在界碑之前。",
-      "target": "Tần Hổ cười nhếch mép, đứng lên, chắn trước cột mốc."
+      "target": "Tần Hổ lại cười gằn một tiếng, đột nhiên đứng dậy, chắn ở ngay trước bia ranh giới."
     },
     {
       "segment_id": "0061",
       "source": "“你要做什么？”小玉的脸上满是警惕。",
-      "target": "“Anh muốn làm gì?” Tiểu Ngọc cảnh giác."
+      "target": "“Ngươi muốn làm gì?” Trên mặt Tiểu Ngọc tràn đầy vẻ cảnh giác."
     },
     {
       "segment_id": "0062",
       "source": "“做什么？”秦虎冷笑道：“自然是试试这个任务，到底是真是假？或者干脆就是诓骗我等……”",
-      "target": "“Làm gì?” Tần Hổ cười lạnh: “Tự nhiên là thử nhiệm vụ này, thật hay giả? Hoặc chỉ lừa chúng tôi…”"
+      "target": "“Làm gì à?” Tần Hổ cười lạnh nói: “Đương nhiên là thử xem nhiệm vụ này, rốt cuộc là thật hay giả? Hoặc đơn giản chỉ là lừa gạt đám người chúng ta...”"
     },
     {
       "segment_id": "0063",
       "source": "说着，已经取了几个石块在手，作势欲瞄准。",
-      "target": "Nói xong, đã cầm vài khối đá, chuẩn bị nhắm."
+      "target": "Vừa nói, gã đã nhặt lấy mấy cục đá trên tay, làm ra điệu bộ muốn nhắm đánh."
     },
     {
       "segment_id": "0064",
       "source": "“等一等！”",
-      "target": "“Đợi một chút!”"
+      "target": "“Khoan đã!”"
     },
     {
       "segment_id": "0065",
       "source": "吴明却是忽然开口。",
-      "target": "Ngô Minh đột nhiên lên tiếng."
+      "target": "Ngô Minh lại thình lình lên tiếng."
     },
     {
       "segment_id": "0066",
       "source": "“如何？这难道不是无名兄也想尝试的么？”秦虎冷然道：“我只不过是将方法挑明了而已……”",
-      "target": "“Sao? Không phải anh không tên cũng muốn thử sao?” Tần Hổ lạnh lùng: “Tôi chỉ làm rõ cách thôi…”"
+      "target": "“Sao thế? Chẳng lẽ đây không phải là điều Vô Danh huynh cũng muốn nếm thử sao?” Tần Hổ lạnh lùng nói: “Ta chẳng qua chỉ vạch trần phương pháp ra mà thôi...”"
     },
     {
       "segment_id": "0067",
       "source": "“话虽如此，但尝试的机会还有很多，不在这一时！”",
-      "target": "“Dù vậy, còn nhiều cơ hội thử, không phải lúc này!”"
+      "target": "“Lời tuy là vậy, nhưng cơ hội để thử nghiệm vẫn còn rất nhiều, không vội ở lúc này!”"
     },
     {
       "segment_id": "0068",
@@ -345,13 +346,129 @@
     {
       "segment_id": "0069",
       "source": "秦虎对视吴明，目中几乎放出冷芒，忽然又是一声大笑：“也罢！今日就给无名兄一个面子！”",
-      "target": "Tần Hổ nhìn Ngô Minh, mắt lạnh lẽo, rồi cười to: “Thôi! Hôm nay cho anh không tên một mặt!”"
+      "target": "Tần Hổ nhìn thẳng vào Ngô Minh, trong mắt gần như bắn ra luồng ánh sáng lạnh lùng, đột nhiên lại cười to một tiếng: “Thôi được! Hôm nay liền nể mặt Vô Danh huynh một chút!”"
     },
     {
       "segment_id": "0070",
       "source": "“呼呼……”",
-      "target": "“Hú hú……”"
+      "target": "“Phù phù...”"
     },
     {
       "segment_id": "0071",
-      "source": "两人袖<|endoftext|>
+      "source": "两人袖手旁观之下，康守礼总算在时间耗尽之前，与黄莺越过界碑，脸上还带着庆幸之意：“多谢无名兄搭救！”",
+      "target": "Dưới sự khoanh tay đứng nhìn của hai người, Khang Thủ Lễ rốt cuộc cũng kéo Hoàng Oanh băng qua bia ranh giới trước khi hết thời gian, trên mặt còn mang theo ý mừng rỡ xót lại: “Đa tạ Vô Danh huynh cứu giúp!”"
+    },
+    {
+      "segment_id": "0072",
+      "source": "“哼！”",
+      "target": "“Hừ!”"
+    },
+    {
+      "segment_id": "0073",
+      "source": "特别是康守礼，刚刚秦虎的动作被他看在眼里，目中简直几欲喷火。",
+      "target": "Đặc biệt là Khang Thủ Lễ, hành động vừa rồi của Tần Hổ hắn đều thấy rõ mồn một, ánh mắt quả thực gần như muốn phun lửa."
+    },
+    {
+      "segment_id": "0074",
+      "source": "“如何？你可是不服，想与本人放对试试？你这种贵家公子，老子可是看不顺眼很久了！”",
+      "target": "“Làm sao? Ngươi có vẻ không phục, muốn so chiêu với bản nhân thử xem hả? Cái thứ công tử nhà giàu như ngươi, lão tử ngứa mắt từ lâu lắm rồi!”"
+    },
+    {
+      "segment_id": "0075",
+      "source": "秦虎狞笑一声，威猛的目光直接注视过来，令康守礼额头发麻，连连倒退，几乎要缩到吴明背后去。",
+      "target": "Tần Hổ cười gằn một tiếng, ánh mắt oai mãnh trực tiếp dán thẳng qua đây, khiến cho trán Khang Thủ Lễ tê rần, liên tục lùi về sau, gần như muốn rụt người trốn ra sau lưng Ngô Minh."
+    },
+    {
+      "segment_id": "0076",
+      "source": "“这货……难道是以为来到了新世界，可以为所欲为了？”",
+      "target": "“Tên này... Chẳng lẽ cho rằng đến thế giới mới là có thể tùy tâm sở dục muốn làm gì thì làm sao?”"
+    },
+    {
+      "segment_id": "0077",
+      "source": "吴明冷眼旁观，却是有些把握住了秦虎的心理。",
+      "target": "Ngô Minh lạnh nhạt đứng nhìn, lại có chút nắm thóp được tâm lý của Tần Hổ."
+    },
+    {
+      "segment_id": "0078",
+      "source": "此时，还披着一张平和外皮的好处，就显现出来了，秦虎的所作所为，明显乃是将几人往自己这边推。",
+      "target": "Lúc này, cái lợi của việc còn khoác một lớp vỏ bọc ôn hòa bên ngoài liền hiển lộ rõ ràng. Những chuyện Tần Hổ làm, hiển nhiên là đang đẩy mấy người bọn họ về phía mình."
+    },
+    {
+      "segment_id": "0079",
+      "source": "当然，或许在秦虎看来，这些人物中，除了吴明之外的人都是累赘，但吴明却不这么看，毕竟，每个人都各有所长，有着各自的价值。",
+      "target": "Đương nhiên, có lẽ trong mắt Tần Hổ, mấy người này ngoài Ngô Minh ra đều là vướng víu. Nhưng Ngô Minh lại không nhìn nhận như vậy, suy cho cùng, mỗi người đều có sở trường riêng, có giá trị của riêng mình."
+    },
+    {
+      "segment_id": "0080",
+      "source": "因此当即摆出和事佬的态度：“大家少说两句，此时我们还是要考虑下，如何与此地之民接触才好……”",
+      "target": "Bởi vậy hắn lập tức bày ra thái độ của người giảng hòa: “Mọi người bớt tranh cãi vài câu đi, ngay lúc này chúng ta vẫn nên cân nhắc một phen xem làm sao để tiếp xúc với dân bản địa mới tốt...”"
+    },
+    {
+      "segment_id": "0081",
+      "source": "他指了指周围。",
+      "target": "Hắn chỉ tay ra xung quanh."
+    },
+    {
+      "segment_id": "0082",
+      "source": "秦虎等人这才发现，自己这一波人在村子之外，走也不是，停也不是，早已引来乡民关注，甚至，一些精壮还在飞快集结。",
+      "target": "Đám người Tần Hổ lúc này mới phát hiện ra, một đám người mình đứng ngoài thôn xóm, đi cũng không được, ở lại cũng không xong, đã sớm lôi kéo sự chú ý của dân làng. Thậm chí, một vài thanh niên trai tráng cũng đang tập hợp một cách nhanh chóng."
+    },
+    {
+      "segment_id": "0083",
+      "source": "乱世之中，不论何地之民，总是民风彪悍，善于结寨自守，否则早就被各方势力吞得连渣都不剩了。",
+      "target": "Giữa thời loạn thế, bất luận là dân cư ở đâu thì nếp sống vẫn luôn bưu hãn, giỏi về việc dựng trại tự vệ. Nếu không thì đã sớm bị các thế lực nuốt chửng, đến mức ngay cả cặn bã cũng chẳng còn sót lại từ lâu rồi."
+    },
+    {
+      "segment_id": "0084",
+      "source": "“依我看来，他们对外人十分警惕！只是在等主事之人前来……”",
+      "target": "“Theo ta thấy, bọn họ vô cùng đề phòng người ngoài! Chỉ là đang chờ người chủ sự đi tới...”"
+    },
+    {
+      "segment_id": "0085",
+      "source": "吴明瞥了不远处指指点点的乡民，压低声音道：“在此之前，却是统一口径才好！毕竟……我们若被大青庄敌视，赶了出去，那才真是叫天天不应，叫地地不灵！”",
+      "target": "Ngô Minh liếc nhìn dân làng đang chỉ trỏ cách đó không xa, hạ thấp giọng nói: “Trước khi đó, nên thống nhất chung lời nói lại mới được! Suy cho cùng... Nếu như chúng ta bị Đại Thanh trang thù ghét, đuổi ra ngoài, vậy mới đúng là kêu trời trời không thấu, gọi đất đất chẳng hay!”"
+    },
+    {
+      "segment_id": "0086",
+      "source": "生死之压下，就连秦虎也不得不低头，与自觉受了奇耻大辱的康守礼合作。",
+      "target": "Dưới áp lực của sinh tử, ngay cả Tần Hổ cũng không thể không cúi đầu, hợp tác cùng với Khang Thủ Lễ - kẻ tự thấy mình phải chịu mối nhục nhã tột cùng."
+    },
+    {
+      "segment_id": "0087",
+      "source": "“呵呵……几位佳客远来，老朽实在失礼！”",
+      "target": "“Ha ha... Mấy vị khách quý đường xa đi tới, lão hủ thật sự thất lễ!”"
+    },
+    {
+      "segment_id": "0088",
+      "source": "果然，片刻后，一名满面红光，白发苍苍，却又精神无比的老者，就在几名后生小子的跟随下，迎了出来，拱手为礼：“老朽王乔，忝为本地里长，不知道几位姓甚名谁，仙乡何处？”",
+      "target": "Quả nhiên, lát sau, một lão giả với khuôn mặt hồng hào, đầu tóc bạc phơ nhưng thần thái lại vô cùng minh mẫn, đã được mấy tiểu bối theo sau đi ra đón, chắp tay thi lễ: “Lão hủ Vương Kiều, mạo muội giữ chức lý trưởng nơi đây, không biết mấy vị họ gì tên gì, quê nhà ở đâu?”"
+    },
+    {
+      "segment_id": "0089",
+      "source": "几人对视一眼，还是吴明站了出来：“老丈有礼，我等乃是……”",
+      "target": "Mấy người đưa mắt liếc nhìn nhau, vẫn là Ngô Minh đứng ra: “Lão trượng hữu lễ, bọn ta là...”"
+    },
+    {
+      "segment_id": "0090",
+      "source": "经过刚才一番紧急串供，吴明这五人的身份来历总算有了交待，在吴明言中，他与康守礼都是外郡的世家公子，带着娇妾美婢出行，却不幸遇到胡人骑兵，被冲散大队，只剩下这几人。",
+      "target": "Trải qua một màn xâu chuỗi thông tin khẩn cấp khi nãy, thân phận lai lịch của năm người Ngô Minh cuối cùng cũng có lời giải thích. Theo lời nói của Ngô Minh, hắn cùng với Khang Thủ Lễ đều là thế gia công tử của quận ngoài, mang theo tiểu thiếp kiều mị và tỳ nữ xinh đẹp xuất hành, lại xui xẻo đụng trúng kỵ binh người Hồ, bị đánh tan đội ngũ, chỉ còn lại mấy người này."
+    },
+    {
+      "segment_id": "0091",
+      "source": "黄莺与小玉当然是妻妾丫鬟一流，至于秦虎卖相实在欠奉，只能说是护卫了。",
+      "target": "Hoàng Oanh cùng với Tiểu Ngọc đương nhiên thuộc về hạng thê thiếp nha hoàn. Còn về Tần Hổ, diện mạo quả thật có phần khiếm khuyết, chỉ đành nói là hộ vệ."
+    },
+    {
+      "segment_id": "0092",
+      "source": "“什么？胡人？”",
+      "target": "“Cái gì? Người Hồ?”"
+    },
+    {
+      "segment_id": "0093",
+      "source": "王乔里长的面色一变，就连身后都起了一阵骚乱，旋即才勉强平复，说道：“贵客失礼！只是胡祸愈演愈烈，儿郎们惊弓之鸟，贻笑大方了，还请入内奉茶，让老朽好好招待……”",
+      "target": "Sắc mặt của lý trưởng Vương Kiều lập tức biến đổi, ngay cả đám người phía sau đều nảy sinh một trận xôn xao, một lát sau mới miễn cưỡng được dẹp yên, ông nói: “Quý khách thứ lỗi cho sự thất lễ! Chỉ là họa người Hồ ngày càng nghiêm trọng, bọn nhi lang là chim sợ cành cong, để người ngoài chê cười rồi. Mời vào trong dùng trà, để lão hủ tiếp đãi tử tế...”"
+    }
+  ]
+}
+```
+Error: timed out waiting for response

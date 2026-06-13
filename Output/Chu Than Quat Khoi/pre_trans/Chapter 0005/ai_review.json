@@ -1,17 +1,25 @@
+```json
 {
-  "approved": [
-    "主线任务开启",
-    "叮！主线任务"
-  ],
+  "approved": [],
   "rejected": [
+    "“大夏？！",
     "一个信息在",
+    "主线任务开启",
     "任务目标：在",
     "即时任务：到",
+    "叮！主线任务",
     "场景介绍：大",
-    "支线任务：击"
-  ],
-  "uncertain": [
-    "“大夏？！",
+    "支线任务：击",
     "本次任务场景"
-  ]
+  ],
+  "uncertain": []
 }
+```
+
+### Review Notes:
+All of the provided items have been **rejected** as they appear to be incomplete sentence fragments, poorly extracted phrases, or strings containing unnecessary punctuation/verbs, rather than proper glossary terms.
+
+* **“大夏？！** - Contains dialogue punctuation. The proper term to extract would be just **大夏**.
+* **主线任务开启**, **叮！主线任务** - These contain verbs or sound effects. The proper term is **主线任务** (Main Quest).
+* **任务目标：在**, **即时任务：到**, **场景介绍：大**, **支线任务：击**, **一个信息在** - These are incomplete sentence fragments broken off mid-sentence.
+* **本次任务场景** - This is a contextual phrase rather than a reusable glossary term or proper noun.

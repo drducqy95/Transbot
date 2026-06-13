@@ -1,0 +1,358 @@
+```json
+{
+  "chapter_number": 35,
+  "chapter_title_vi": "Chương 35: Phân thây làm quà!",
+  "segments": [
+    {
+      "segment_id": "0001",
+      "source": "# 第三十六节：分尸送礼！",
+      "target": "# Chương 35: Phân thây làm quà!"
+    },
+    {
+      "segment_id": "0002",
+      "source": "“你们听说了吗？方源杀了人！”一位学员小声地对同桌嘀咕着。",
+      "target": "\"Các ngươi nghe nói chưa? Phương Nguyên giết người rồi!\" Một học viên nói nhỏ với người ngồi cùng bàn."
+    },
+    {
+      "segment_id": "0003",
+      "source": "“我也听说了，他真的杀人了。”同桌捂住心口，一脸的苍白。",
+      "target": "\"Ta cũng nghe nói rồi, hắn thật sự giết người.\" Người ngồi cùng bàn che ngực, sắc mặt tái nhợt."
+    },
+    {
+      "segment_id": "0004",
+      "source": "“当时好多侍卫都看到了，方源追着那人，那人想要求饶，方源不允许，把头直接斩了！”",
+      "target": "\"Lúc đó có rất nhiều thị vệ đều nhìn thấy, Phương Nguyên đuổi theo kẻ đó, kẻ đó muốn cầu xin tha mạng, Phương Nguyên không cho, trực tiếp chém đứt đầu!\""
+    },
+    {
+      "segment_id": "0005",
+      "source": "“不止呢。方源杀了那人，连他的无头尸体都不放过，拖回了宿舍，砍成了肉泥。”",
+      "target": "\"Không chỉ vậy đâu. Phương Nguyên giết người đó, ngay cả thi thể không đầu của hắn cũng không tha, kéo về ký túc xá, băm thành đống thịt nhão.\""
+    },
+    {
+      "segment_id": "0006",
+      "source": "“真的假的呀？”",
+      "target": "\"Thật hay giả vậy?\""
+    },
+    {
+      "segment_id": "0007",
+      "source": "“真的不能再真了。我今天早上来得早，还看到青石砖缝里残留的血迹呢。”",
+      "target": "\"Thật không thể thật hơn được nữa. Sáng nay ta đến sớm, còn nhìn thấy vết máu còn sót lại trong khe hở trên gạch đá xanh đấy.\""
+    },
+    {
+      "segment_id": "0008",
+      "source": "“哎呀，骗你干什么！刚刚学堂家老叫走方源，就是为了这个事儿！”",
+      "target": "\"Ây da, lừa ngươi làm gì! Vừa nãy gia lão học đường gọi Phương Nguyên đi, chính là vì chuyện này đấy!\""
+    },
+    {
+      "segment_id": "0009",
+      "source": "学堂中少年们无心听课，都小声地交谈着。",
+      "target": "Trong học đường, đám thiếu niên không có tâm trí nghe giảng, đều nhỏ giọng bàn tán."
+    },
+    {
+      "segment_id": "0010",
+      "source": "杀人，对于这群十五岁的少年来讲，还太陌生，还很可怕。",
+      "target": "Giết người, đối với đám thiếu niên mười lăm tuổi này mà nói, vẫn còn quá xa lạ, vẫn còn rất đáng sợ."
+    },
+    {
+      "segment_id": "0011",
+      "source": "从小到大，他们在家族的庇护之下，顶多也只是拳脚切磋，杀鸡屠狗之流。",
+      "target": "Từ nhỏ đến lớn, bọn chúng ở dưới sự che chở của gia tộc, cùng lắm cũng chỉ là so tài quyền cước, giết gà làm thịt chó mà thôi."
+    },
+    {
+      "segment_id": "0012",
+      "source": "至于杀人，离他们还比较遥远。",
+      "target": "Còn chuyện giết người, thì vẫn khá xa vời đối với bọn chúng."
+    },
+    {
+      "segment_id": "0013",
+      "source": "“方源杀了谁了？”",
+      "target": "\"Phương Nguyên giết ai rồi?\""
+    },
+    {
+      "segment_id": "0014",
+      "source": "“听说是漠之分脉的一个家奴。”",
+      "target": "\"Nghe nói là một gia nô của phân mạch Mạc gia.\""
+    },
+    {
+      "segment_id": "0015",
+      "source": "“嗨，这事我最清楚了。昨晚我亲眼看到，漠家的漠颜学姐带了一帮家奴，来找方源的麻烦。”",
+      "target": "\"Ây, chuyện này ta rõ nhất. Tối qua ta tận mắt nhìn thấy học tỷ Mạc Nhan của Mạc gia dẫn một đám gia nô đến tìm Phương Nguyên gây rắc rối.\""
+    },
+    {
+      "segment_id": "0016",
+      "source": "“是漠家啊，不好了，漠北这下麻烦了。”",
+      "target": "\"Là Mạc gia à, tiêu rồi, Mạc Bắc lần này gặp rắc rối rồi.\""
+    },
+    {
+      "segment_id": "0017",
+      "source": "很多少年都看向古月漠北。",
+      "target": "Rất nhiều thiếu niên đều nhìn về phía Cổ Nguyệt Mạc Bắc."
+    },
+    {
+      "segment_id": "0018",
+      "source": "漠北脸色苍白地坐在位置上，他也是今早刚刚得知的消息。方源居然杀了人，还杀了他熟悉的高碗！",
+      "target": "Mạc Bắc sắc mặt tái nhợt ngồi trên ghế, hắn cũng chỉ vừa mới biết tin tức này vào sáng nay. Phương Nguyên thế mà lại giết người, hơn nữa còn giết Cao Oản mà hắn quen thuộc!"
+    },
+    {
+      "segment_id": "0019",
+      "source": "这个高碗漠北很熟悉，在家奴中很活跃，善于奉承，又苦练过拳脚功夫，是个得力的狗腿子。",
+      "target": "Người tên Cao Oản này Mạc Bắc rất quen thuộc, hắn rất nhanh nhẹn hoạt bát trong đám gia nô, giỏi nịnh nọt, lại từng khổ luyện công phu quyền cước, là một tên chó săn đắc lực."
+    },
+    {
+      "segment_id": "0020",
+      "source": "前一段时间，高碗还和他漠北对练了一会儿。想不到就这样被方源杀了！",
+      "target": "Một thời gian trước, Cao Oản còn cùng hắn - Mạc Bắc đối luyện một trận. Không ngờ cứ như vậy mà bị Phương Nguyên giết rồi!"
+    },
+    {
+      "segment_id": "0021",
+      "source": "正因为这样，漠北心中的震惊、难以置信，比其他人还要浓重一倍。",
+      "target": "Chính vì vậy, sự khiếp sợ, khó tin trong lòng Mạc Bắc còn nặng nề hơn những người khác gấp đôi."
+    },
+    {
+      "segment_id": "0022",
+      "source": "震惊之外，就是一种担忧和恐惧。",
+      "target": "Ngoài sự khiếp sợ ra, còn là một loại lo lắng và sợ hãi."
+    },
+    {
+      "segment_id": "0023",
+      "source": "面对方源这样的杀人凶手，十五岁的漠北要说不怕，那是假话。",
+      "target": "Đối mặt với một kẻ giết người hung thủ như Phương Nguyên, Mạc Bắc mười lăm tuổi nếu nói không sợ, đó là nói dối."
+    },
+    {
+      "segment_id": "0024",
+      "source": "其实不仅他怕，其他的少年也怕。",
+      "target": "Thực ra không chỉ hắn sợ, mà những thiếu niên khác cũng sợ."
+    },
+    {
+      "segment_id": "0025",
+      "source": "方源两次抢劫他们，他们每个人都和方源动过手。",
+      "target": "Phương Nguyên đã cướp đoạt bọn chúng hai lần, mỗi người bọn chúng đều đã từng động thủ với Phương Nguyên."
+    },
+    {
+      "segment_id": "0026",
+      "source": "“我竟然和这种凶残至极的杀人凶手打过架？我居然还活着。”很多人都拍拍心口，感到一阵后怕。",
+      "target": "\"Ta vậy mà lại từng đánh nhau với tên hung thủ giết người hung tàn tột độ này sao? Ta lại vẫn còn sống.\" Rất nhiều người đều vỗ vỗ ngực, cảm thấy một trận hoảng sợ vì kiếp nạn vừa qua."
+    },
+    {
+      "segment_id": "0027",
+      "source": "方源杀人也就罢了，关键是他还分尸，把尸体剁碎了，砍成肉泥。",
+      "target": "Phương Nguyên giết người thì cũng thôi đi, mấu chốt là hắn còn phân thây, băm nát thi thể, chém thành đống thịt nhão."
+    },
+    {
+      "segment_id": "0028",
+      "source": "这也忒凶残了！",
+      "target": "Cái này cũng quá hung tàn rồi!"
+    },
+    {
+      "segment_id": "0029",
+      "source": "如此的恐怖犯罪事实，深深地冲击着少年们纯真的心灵。",
+      "target": "Sự thật phạm tội khủng bố như thế, đã đả kích sâu sắc tâm hồn ngây thơ của đám thiếu niên."
+    },
+    {
+      "segment_id": "0030",
+      "source": "……",
+      "target": "..."
+    },
+    {
+      "segment_id": "0031",
+      "source": "房间中，只有学堂家老和方源二人。",
+      "target": "Trong phòng, chỉ có gia lão học đường và Phương Nguyên."
+    },
+    {
+      "segment_id": "0032",
+      "source": "学堂家老坐着，方源站着，没有一人开口，气氛压抑凝重。",
+      "target": "Gia lão học đường ngồi, Phương Nguyên đứng, không một ai mở miệng, bầu không khí đè nén ngột ngạt."
+    },
+    {
+      "segment_id": "0033",
+      "source": "学堂家老沉默地看着方源，眼中闪过一丝复杂的光。",
+      "target": "Gia lão học đường im lặng nhìn Phương Nguyên, trong mắt lóe lên một tia sáng phức tạp."
+    },
+    {
+      "segment_id": "0034",
+      "source": "一大早，就有侍卫向他禀告方源行凶杀人的事情。这消息让他又惊又疑。",
+      "target": "Mới sáng sớm, đã có thị vệ bẩm báo với lão chuyện Phương Nguyên hành hung giết người. Tin tức này làm lão vừa kinh ngạc vừa nghi ngờ."
+    },
+    {
+      "segment_id": "0035",
+      "source": "他是三转的老蛊师了，又负责学堂这块，自然知道一转初阶的蛊师有什么样的战斗力。",
+      "target": "Lão là một lão Cổ sư tam chuyển, lại phụ trách bên học đường, đương nhiên biết Cổ sư nhất chuyển sơ giai có sức chiến đấu như thế nào."
+    },
+    {
+      "segment_id": "0036",
+      "source": "方源能杀了高碗，可以说是以弱胜强。",
+      "target": "Phương Nguyên có thể giết Cao Oản, có thể nói là lấy yếu thắng mạnh."
+    },
+    {
+      "segment_id": "0037",
+      "source": "事实上，昨天傍晚就有侍卫禀告了，漠颜挟持方源闯入学堂的事情。",
+      "target": "Thực tế, chạng vạng hôm qua đã có thị vệ bẩm báo chuyện Mạc Nhan uy hiếp Phương Nguyên xông vào học đường."
+    },
+    {
+      "segment_id": "0038",
+      "source": "当时他并没有在意，也没有阻止。",
+      "target": "Lúc đó lão cũng không để ý, cũng không ngăn cản."
+    },
+    {
+      "segment_id": "0039",
+      "source": "他是学堂家老，目的是培养未来的蛊师，而不是保护未来的蛊师。只有没有学员死伤，他鼓励暗中的争斗。",
+      "target": "Lão là gia lão học đường, mục đích là bồi dưỡng Cổ sư tương lai, chứ không phải bảo vệ Cổ sư tương lai. Chỉ cần không có học viên thương vong, lão cổ vũ những cuộc tranh đấu ngầm."
+    },
+    {
+      "segment_id": "0040",
+      "source": "漠颜来找方源的麻烦，他乐见其成。",
+      "target": "Mạc Nhan đến tìm Phương Nguyên gây rắc rối, lão rất vui khi thấy việc này thành công."
+    },
+    {
+      "segment_id": "0041",
+      "source": "一来，他知道战斗不管胜利和失败，都对方源的成长有好处。二来，他也想压压方源的风头。",
+      "target": "Một là, lão biết chiến đấu bất kể thắng hay bại, đều có lợi cho sự trưởng thành của Phương Nguyên. Hai là, lão cũng muốn ép sự nổi bật của Phương Nguyên xuống một chút."
+    },
+    {
+      "segment_id": "0042",
+      "source": "方源连续两次堵住学堂大门，抢了全体学员，这风头太劲了，得压一压。",
+      "target": "Phương Nguyên liên tục hai lần chặn cửa lớn học đường, cướp đoạt toàn thể học viên, danh tiếng này quá thịnh, cần phải ép xuống."
+    },
+    {
+      "segment_id": "0043",
+      "source": "但他没有料到的是，漠颜无功而返，留下家奴高碗。而高碗居然打不过方源，被方源杀了！",
+      "target": "Nhưng lão không ngờ tới là, Mạc Nhan lại tay không trở về, để lại gia nô Cao Oản. Mà Cao Oản lại đánh không lại Phương Nguyên, bị Phương Nguyên giết!"
+    },
+    {
+      "segment_id": "0044",
+      "source": "在这个世界上，力量至上。杀人毫不稀奇，尤其是对蛊师来讲，可以说是一件极为平常的事情。",
+      "target": "Trên thế giới này, sức mạnh là tối thượng. Giết người không có gì là lạ, đặc biệt là đối với Cổ sư mà nói, có thể nói là một chuyện hết sức bình thường."
+    },
+    {
+      "segment_id": "0045",
+      "source": "但是十五岁的少年，首次就杀人，这就不简单了。",
+      "target": "Nhưng thiếu niên mười lăm tuổi, lần đầu đã giết người, chuyện này lại không đơn giản rồi."
+    },
+    {
+      "segment_id": "0046",
+      "source": "学堂家老对自己第一次杀人的情景，记忆犹新。当时他已经是二转蛊师，十九岁，在一次冲突中，杀了白家寨子里的一个蛊师。",
+      "target": "Gia lão học đường đối với cảnh tượng lần đầu tiên mình giết người, ký ức vẫn còn mới mẻ. Lúc đó lão đã là Cổ sư nhị chuyển, mười chín tuổi, trong một lần xung đột, đã giết một Cổ sư trong Bạch gia trại."
+    },
+    {
+      "segment_id": "0047",
+      "source": "杀了人后，他吐的一塌糊涂，心中都是慌乱。好几天都食欲不振，不想吃饭。睡觉也不安慰，一闭眼就是那人死时怒瞪他的双眼。",
+      "target": "Sau khi giết người, lão nôn mửa rối tinh rối mù, trong lòng đều là hoảng loạn. Mấy ngày liền đều chán ăn, không muốn ăn cơm. Ngủ cũng không yên giấc, vừa nhắm mắt lại là đôi mắt trợn trừng tức giận của kẻ đó lúc chết."
+    },
+    {
+      "segment_id": "0048",
+      "source": "现在看这方源，他面容平静如常，哪里有什么慌乱？更没有任何的不适，好像昨晚他只是大睡了一场，杀人的根本就不是他一样。",
+      "target": "Bây giờ nhìn Phương Nguyên này, vẻ mặt hắn bình tĩnh như thường, nào có chút hoảng loạn nào? Càng không có bất kỳ sự khó chịu nào, giống như tối qua hắn chỉ ngủ một giấc thật ngon, người giết người căn bản không phải là hắn vậy."
+    },
+    {
+      "segment_id": "0049",
+      "source": "尤其是学堂家老听说，方源杀了这家奴后，还不放过他，将其尸体拖回宿舍，乱刀砍成肉泥泄愤。如此狠辣手段，听着就有一种恐怖！",
+      "target": "Đặc biệt là gia lão học đường nghe nói, sau khi Phương Nguyên giết tên gia nô này, vẫn không buông tha hắn, kéo thi thể hắn về ký túc xá, dùng đao chém loạn thành đống thịt nhão để trút giận. Thủ đoạn tàn nhẫn như vậy, nghe thôi cũng đã cảm thấy một loại kinh khủng!"
+    },
+    {
+      "segment_id": "0050",
+      "source": "所以，此时学堂家老看着方源的目光中，就饱含了复杂情绪。",
+      "target": "Vì vậy, lúc này ánh mắt gia lão học đường nhìn Phương Nguyên, liền chứa đựng đầy cảm xúc phức tạp."
+    },
+    {
+      "segment_id": "0051",
+      "source": "一方面，他惊叹方源对生命的冷漠，心态如冰般的坚冷。一方面，又有些欣赏，方源天生就是一个战斗种子啊。刚掌握了月光蛊不久，就能用来杀人。寻常的少年，哪怕是那些甲等的天才，都未必做得到。这就是战斗的才情！若培养出来，为家族而战，将是敌人的噩梦。",
+      "target": "Một mặt, lão kinh ngạc trước sự thờ ơ của Phương Nguyên đối với sinh mệnh, tâm tính lạnh lẽo kiên cố như băng. Mặt khác, lại có chút tán thưởng, Phương Nguyên bẩm sinh đã là một hạt giống chiến đấu. Vừa mới nắm giữ Nguyệt Quang Cổ không lâu, đã có thể dùng để giết người. Thiếu niên bình thường, cho dù là những thiên tài giáp đẳng đó, cũng chưa chắc đã làm được. Đây chính là tài năng chiến đấu! Nếu bồi dưỡng ra được, chiến đấu vì gia tộc, sẽ là cơn ác mộng của kẻ địch."
+    },
+    {
+      "segment_id": "0052",
+      "source": "第三个方面，就是担忧和苦恼。",
+      "target": "Mặt thứ ba, chính là lo lắng và khổ não."
+    },
+    {
+      "segment_id": "0053",
+      "source": "担忧方源经此一事，气势更盛，压不住他。这方源胆子也太大了，不仅违背族规，在学堂动用蛊虫，还因此杀了人。必须压住他的风头，否则自己还怎么管理这个学堂？",
+      "target": "Lo lắng Phương Nguyên trải qua chuyện này, khí thế càng thịnh, không áp chế nổi hắn. Tên Phương Nguyên này gan cũng quá lớn, không chỉ vi phạm tộc quy, sử dụng Cổ trùng trong học đường, lại còn vì thế mà giết người. Bắt buộc phải áp chế danh tiếng của hắn, nếu không mình còn quản lý học đường này thế nào được nữa?"
+    },
+    {
+      "segment_id": "0054",
+      "source": "苦恼的则是，这事情如何善后，毕竟牵扯到本族的漠之一脉。",
+      "target": "Khổ não là, chuyện này giải quyết hậu quả thế nào đây, dù sao cũng liên quan đến phân mạch Mạc gia của bản tộc."
+    },
+    {
+      "segment_id": "0055",
+      "source": "“方源，知道我召见你，是为了什么事情么？”学堂家老以一种低沉的声音，打破了房中的沉默。",
+      "target": "\"Phương Nguyên, biết ta triệu kiến ngươi, là vì chuyện gì không?\" Gia lão học đường phá vỡ sự im lặng trong phòng bằng một giọng trầm thấp."
+    },
+    {
+      "segment_id": "0056",
+      "source": "“我知道。”方源点点头，“我在学堂里动用月光蛊，违反了族规。按照规定，第一次违反，应该受到赔偿三十块元石的惩罚。”",
+      "target": "\"Ta biết.\" Phương Nguyên gật đầu, \"Ta sử dụng Nguyệt Quang Cổ trong học đường, đã vi phạm tộc quy. Theo quy định, lần đầu vi phạm, nên chịu hình phạt bồi thường ba mươi khối nguyên thạch.\""
+    },
+    {
+      "segment_id": "0057",
+      "source": "他避重就轻，根本不谈高碗之死。",
+      "target": "Hắn tránh nặng tìm nhẹ, căn bản không nói gì đến cái chết của Cao Oản."
+    },
+    {
+      "segment_id": "0058",
+      "source": "学堂家老楞了一下，没有料到方源如此回答。",
+      "target": "Gia lão học đường sửng sốt một chút, không ngờ tới Phương Nguyên lại trả lời như vậy."
+    },
+    {
+      "segment_id": "0059",
+      "source": "他面色一沉，冷哼一声：“你休要在老夫的面前装傻！我问你，高碗之死是怎么回事？”",
+      "target": "Lão trầm sắc mặt xuống, hừ lạnh một tiếng: \"Ngươi đừng hòng giả ngốc trước mặt lão phu! Ta hỏi ngươi, cái chết của Cao Oản là chuyện như thế nào?\""
+    },
+    {
+      "segment_id": "0060",
+      "source": "方源双眼一眯：“哼！高碗此人以下犯上，用心歹毒。昨晚不仅堵住我的房门，还想杀我。我为了自卫，不得已动用月光蛊，侥幸杀了此贼。我怀疑此人很有可能，就是其他山寨的卧底，还请家老明鉴！”",
+      "target": "Phương Nguyên híp hai mắt lại: \"Hừ! Tên Cao Oản này dĩ hạ phạm thượng, rắp tâm hiểm độc. Tối qua không chỉ chặn cửa phòng ta, mà còn muốn giết ta. Ta vì để tự vệ, bất đắc dĩ phải sử dụng Nguyệt Quang Cổ, may mắn giết được tên tặc tử này. Ta nghi ngờ người này rất có thể là nội gián của sơn trại khác, kính xin gia lão minh xét!\""
+    },
+    {
+      "segment_id": "0061",
+      "source": "学堂家老听了这话，皱起眉头，一时间都不知道说什么好。",
+      "target": "Gia lão học đường nghe xong lời này, cau mày lại, trong lúc nhất thời cũng không biết nói gì cho phải."
+    },
+    {
+      "segment_id": "0062",
+      "source": "现在高碗死了，随便方源怎么说都可以。他只是个外姓，不是族人，死了也就死了，学堂家老对此根本无所谓。但是他担心的是漠家的反应，高碗是漠家的家奴，却死在学堂当中。他管理学堂，需要给漠家一个交代。",
+      "target": "Bây giờ Cao Oản đã chết, Phương Nguyên muốn nói thế nào cũng được. Hắn chỉ là người khác họ, không phải tộc nhân, chết thì cũng chết rồi, gia lão học đường đối với chuyện này căn bản không hề bận tâm. Nhưng điều lão lo lắng là phản ứng của Mạc gia, Cao Oản là gia nô của Mạc gia, vậy mà lại chết ngay trong học đường. Lão quản lý học đường, cần phải cho Mạc gia một lời giải thích."
+    },
+    {
+      "segment_id": "0063",
+      "source": "想了一想，学堂家老紧紧盯着方源质问：“那我问你，高碗的尸体，你是怎么处理的？”",
+      "target": "Suy nghĩ một chút, gia lão học đường chằm chằm nhìn Phương Nguyên chất vấn: \"Vậy ta hỏi ngươi, thi thể của Cao Oản, ngươi đã xử lý như thế nào?\""
+    },
+    {
+      "segment_id": "0064",
+      "source": "方源的嘴角勾勒出一抹残酷的冷笑：“我把高碗分尸剁碎，用一个木盒子盛了，天刚亮的时候，放到了漠家的后门口。”",
+      "target": "Khóe miệng Phương Nguyên phác ra một nụ cười lạnh tàn nhẫn: \"Ta đem phân thây băm nát Cao Oản, dùng một chiếc hộp gỗ đựng, lúc trời vừa sáng, đã đặt ở trước cửa sau của Mạc gia.\""
+    },
+    {
+      "segment_id": "0065",
+      "source": "“什么？！”学堂家老大吃一惊，差点忍不住从座位上站起来。",
+      "target": "\"Cái gì?!\" Gia lão học đường cả kinh, suýt chút nữa không nhịn được mà đứng bật dậy khỏi ghế."
+    },
+    {
+      "segment_id": "0066",
+      "source": "方源杀了人家的家奴不说，还把尸体剁碎了，放到漠家后门，这简直是赤裸裸的挑衅啊！",
+      "target": "Phương Nguyên giết gia nô của nhà người ta thì không nói làm gì, lại còn băm nát thi thể ra, mang đặt ở cửa sau Mạc gia, đây quả thực là khiêu khích trắng trợn mà!"
+    },
+    {
+      "segment_id": "0067",
+      "source": "这对一心想平息这件事情的学堂家老来讲，绝对是个货真价实的噩耗。",
+      "target": "Điều này đối với một gia lão học đường đang một lòng muốn dập tắt chuyện này mà nói, tuyệt đối là một tin dữ hàng thật giá thật."
+    },
+    {
+      "segment_id": "0068",
+      "source": "方源不过是小小的一转蛊师，庞大的漠家会有什么反应？",
+      "target": "Phương Nguyên chẳng qua chỉ là một Cổ sư nhất chuyển nhỏ nhoi, Mạc gia khổng lồ sẽ có phản ứng gì đây?"
+    },
+    {
+      "segment_id": "0069",
+      "source": "学堂家老想到这里，顿觉一阵头疼，事情已经脱离了他的控制。这个方源真是个惹祸精！",
+      "target": "Gia lão học đường nghĩ đến đây, chợt cảm thấy đau đầu một trận, sự việc đã thoát khỏi sự khống chế của lão. Tên Phương Nguyên này đúng là một kẻ gây rắc rối!"
+    },
+    {
+      "segment_id": "0070",
+      "source": "“唉，既然事情都已经发生了，多说也无济于事。你先下去，过几日就有惩处下来，你要做好心理准备罢。”家老心乱如麻，挥手让方源退下，他需要静下来仔细思考一下对策。",
+      "target": "\"Haizz, nếu chuyện đã xảy ra rồi, nói nhiều cũng vô ích. Ngươi lui xuống trước đi, mấy ngày nữa sẽ có hình phạt đưa xuống, ngươi hãy chuẩn bị sẵn tâm lý đi.\" Gia lão trong lòng rối như tơ vò, vẫy tay bảo Phương Nguyên lui ra, lão cần phải bình tĩnh lại để suy nghĩ kỹ lưỡng về đối sách."
+    }
+  ]
+}
+```

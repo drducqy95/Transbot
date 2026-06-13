@@ -1,0 +1,378 @@
+```json
+{
+  "chapter_number": 32,
+  "chapter_title_vi": "Chương 32: Trêu cợt",
+  "segments": [
+    {
+      "segment_id": "0001",
+      "source": "# 第三十二节：戏耍",
+      "target": "# Chương 32: Trêu cợt"
+    },
+    {
+      "segment_id": "0002",
+      "source": "若是寻常人被这中年男子逼视着，恐怕已经心怯三分。",
+      "target": "Nếu là người bình thường bị gã đàn ông trung niên này nhìn chằm chằm đầy uy hiếp, e rằng đã hoảng sợ ba phần."
+    },
+    {
+      "segment_id": "0003",
+      "source": "但是方源看了他一眼后，就丧失了兴趣，重新将注意力集中到桌上的饭菜，把身边的这个中年男子当成了透明人。",
+      "target": "Nhưng Phương Nguyên sau khi liếc gã một cái, liền mất đi hứng thú, một lần nữa tập trung sự chú ý vào đồ ăn trên bàn, coi gã đàn ông trung niên bên cạnh như người tàng hình."
+    },
+    {
+      "segment_id": "0004",
+      "source": "“那个人是谁啊？一身家奴装扮，也不是蛊师，居然敢质问方源公子？”一位客栈伙计见势不妙，缩在角落力，不解地问道。",
+      "target": "“Người kia là ai vậy? Ăn mặc như gia nô, cũng không phải Cổ sư, thế mà dám chất vấn Phương Nguyên công tử?” Một tên tiểu nhị khách điếm thấy tình hình không ổn, rụt người vào trong góc, khó hiểu hỏi."
+    },
+    {
+      "segment_id": "0005",
+      "source": "“哼，他这是狐假虎威。一看就是漠家的豪奴，仗着背后有靠山，这才敢向蛊师大人叫嚣。若换做其他凡人，谁敢有这个胆子。”身旁有人不屑地嗤笑道。",
+      "target": "“Hừ, hắn đây là cáo mượn oai hùm. Nhìn là biết hào nô của Mạc gia, ỷ vào việc sau lưng có chỗ dựa nên mới dám kêu gào với Cổ sư đại nhân. Nếu đổi lại là phàm nhân khác, ai dám có gan này.” Có người bên cạnh khinh thường cười nhạo."
+    },
+    {
+      "segment_id": "0006",
+      "source": "“虽说如此，但是单单一个凡人，就敢向蛊师大呼小叫的。啧啧，这样的经历，一定很爽啊。”",
+      "target": "“Tuy nói vậy, nhưng chỉ một phàm nhân mà dám lớn tiếng kêu la với Cổ sư. Chậc chậc, trải nghiệm như vậy, nhất định rất sướng nha.”"
+    },
+    {
+      "segment_id": "0007",
+      "source": "“切，你也不要把蛊师看得有多厉害。方源公子不过是一转初阶，才刚刚炼化了本命蛊，真打起来，未必打得过这个体格雄健，身手了得的凡人呢。”",
+      "target": "“Xì, ngươi cũng đừng coi Cổ sư lợi hại đến thế. Phương Nguyên công tử chẳng qua mới là nhất chuyển sơ giai, chỉ vừa luyện hóa bản mệnh Cổ, nếu thật sự đánh nhau, chưa chắc đã đánh lại tên phàm nhân có thân hình cường tráng, thân thủ cao cường này đâu.”"
+    },
+    {
+      "segment_id": "0008",
+      "source": "“唉，但愿他们待会交手，别打坏我们客栈里的东西。”",
+      "target": "“Haizz, chỉ mong lát nữa bọn họ giao thủ, đừng đánh hỏng đồ đạc trong khách điếm của chúng ta.”"
+    },
+    {
+      "segment_id": "0009",
+      "source": "伙计们你一言，我一语，都不敢向前，只敢缩头张望。",
+      "target": "Đám tiểu nhị người một lời, ta một ngữ, đều không dám tiến lên trước, chỉ dám rụt cổ đứng nhìn."
+    },
+    {
+      "segment_id": "0010",
+      "source": "“咦？你居然还有心思继续吃喝。”见自己这番言语，没有吓住方源，高壮的中年男子眼中寒芒一阵闪烁，“你以为我是骗你的？现在已经有人通报大小姐去了，过不了片刻就能赶来。小子，你不要想跑。当然你也跑不了，我就是来看住你的。待会有你好受的。”",
+      "target": "“Hả? Ngươi vậy mà vẫn còn tâm trí tiếp tục ăn uống.” Thấy những lời này của mình không dọa được Phương Nguyên, trong mắt gã đàn ông trung niên cao to lóe lên tia sáng lạnh lẽo, “Ngươi tưởng ta gạt ngươi chắc? Bây giờ đã có người đi bẩm báo Đại tiểu thư rồi, không qua bao lâu nữa sẽ tới thôi. Tiểu tử, ngươi đừng hòng chạy trốn. Đương nhiên ngươi cũng chạy không thoát đâu, ta chính là tới để canh chừng ngươi. Lát nữa ngươi sẽ biết tay.”"
+    },
+    {
+      "segment_id": "0011",
+      "source": "方源充耳未闻，继续吃着饭菜。",
+      "target": "Phương Nguyên để ngoài tai, tiếp tục ăn cơm."
+    },
+    {
+      "segment_id": "0012",
+      "source": "中年家奴皱起了眉头，他没有看到方源脸上一丝一毫的惊惧或者慌乱。这让他感到了一种自己被无视，尊严被冒犯的感觉。",
+      "target": "Gã gia nô trung niên nhíu mày, gã không nhìn thấy một chút xíu sợ hãi hay hoảng loạn nào trên mặt Phương Nguyên. Điều này khiến gã có cảm giác bản thân bị ngó lơ, tôn nghiêm bị xúc phạm."
+    },
+    {
+      "segment_id": "0013",
+      "source": "他在漠家当了十几年的家奴，颇受主子们的信赖。接触的时间长了，也知道蛊师的些许情况。",
+      "target": "Gã làm gia nô ở Mạc gia mười mấy năm, khá được các chủ tử tín nhiệm. Tiếp xúc thời gian dài, cũng biết được đôi chút tình huống của Cổ sư."
+    },
+    {
+      "segment_id": "0014",
+      "source": "一转初阶的蛊师，武斗大多还要依赖拳脚。在战斗中，蛊虫的威慑作用远远大于实际作用。",
+      "target": "Cổ sư nhất chuyển sơ giai, khi võ đấu phần lớn vẫn phải ỷ lại vào quyền cước. Trong chiến đấu, tác dụng uy hiếp của Cổ trùng lớn hơn tác dụng thực tế rất nhiều."
+    },
+    {
+      "segment_id": "0015",
+      "source": "尤其是他知道，像方源这样的少年蛊师，才刚刚修行，本身力量远远不如自己这个正当壮年的人。若拼拳脚，自己长久锻炼，完全能占据上风。",
+      "target": "Nhất là gã biết, thiếu niên Cổ sư như Phương Nguyên mới vừa bắt đầu tu hành, sức mạnh bản thân kém xa một người đang tuổi tráng niên như gã. Nếu so quyền cước, gã rèn luyện trong thời gian dài, hoàn toàn có thể chiếm thế thượng phong."
+    },
+    {
+      "segment_id": "0016",
+      "source": "同时方源只是炼化了月光蛊，最多能发出几记月刃罢了。",
+      "target": "Đồng thời Phương Nguyên chỉ mới luyện hóa Nguyệt Quang Cổ, cùng lắm có thể phóng ra mấy đòn Nguyệt Nhẫn mà thôi."
+    },
+    {
+      "segment_id": "0017",
+      "source": "中年男子很早之前，就被充当陪练。他有切身体会，心中清楚：一转初阶真元催动的月刃，若真的印在人体，最多也只能割开巴掌长的血口子，杀伤力有限得很。",
+      "target": "Gã đàn ông trung niên từ rất sớm đã phải làm bồi luyện. Gã tự mình trải nghiệm nên trong lòng rất rõ: Nguyệt Nhẫn do chân nguyên nhất chuyển sơ giai thôi động, nếu thực sự in lên cơ thể người, nhiều nhất cũng chỉ có thể rạch một vết thương dài bằng bàn tay, lực sát thương vô cùng có hạn."
+    },
+    {
+      "segment_id": "0018",
+      "source": "再加上他背后有漠家撑腰，因此面对方源，他有恃无恐，一心想要积极表现，以讨取主子们的恩赏和看重。",
+      "target": "Thêm vào đó sau lưng gã có Mạc gia chống lưng, cho nên đối mặt với Phương Nguyên, gã không hề e sợ, một lòng muốn tích cực thể hiện, hòng nhận được sự ban thưởng và xem trọng của chủ tử."
+    },
+    {
+      "segment_id": "0019",
+      "source": "“小子，你胆子很大嘛……”中年男子语气越加不善，说着他撸起袖口，露出肌肉雄健的手臂。他的两只手臂十分粗壮，上面布满了伤疤。前臂上一根根青筋暴起蜿蜒，上臂比方源的大腿还要粗。",
+      "target": "“Tiểu tử, gan ngươi lớn lắm...” Giọng điệu của gã đàn ông trung niên càng thêm bất thiện, vừa nói gã vừa xắn tay áo, để lộ cánh tay cơ bắp cuồn cuộn. Hai cánh tay của gã vô cùng thô to, bên trên chằng chịt vết sẹo. Từng sợi gân xanh nổi ngoằn ngoèo trên cẳng tay, bắp tay thậm chí còn to hơn cả đùi của Phương Nguyên."
+    },
+    {
+      "segment_id": "0020",
+      "source": "客栈伙计们看得心中拔凉拔凉，有些食客早已经陆续起身，匆匆结账，要远离这个是非之地。",
+      "target": "Đám tiểu nhị khách điếm nhìn mà trong lòng lạnh ngắt, một số thực khách đã lục tục đứng dậy từ sớm, vội vàng thanh toán, muốn tránh xa chốn thị phi này."
+    },
+    {
+      "segment_id": "0021",
+      "source": "“找到方源了？”就在这时，门口处传来一个清亮高傲的女音。",
+      "target": "“Tìm thấy Phương Nguyên rồi à?” Đúng lúc này, ở cửa truyền đến một giọng nữ trong trẻo kiêu ngạo."
+    },
+    {
+      "segment_id": "0022",
+      "source": "漠颜迈着大步，踏进客栈。身后跟着一群家中豪奴。",
+      "target": "Mạc Nhan bước những bước dài đi vào khách điếm. Theo sau lưng là một đám hào nô trong nhà."
+    },
+    {
+      "segment_id": "0023",
+      "source": "她身材不错，有些高挑，而且前凸后翘。但是一张马脸，遗传了漠之血脉的特征，使得她外貌的美丽大减，只能勉强算得上中等。",
+      "target": "Vóc người ả khá đẹp, hơi cao, hơn nữa còn ngực nở mông cong. Nhưng khuôn mặt ngựa mang di truyền đặc trưng huyết mạch của Mạc gia, khiến vẻ đẹp ngoại hình của ả giảm đi đáng kể, chỉ có thể miễn cưỡng coi là bậc trung."
+    },
+    {
+      "segment_id": "0024",
+      "source": "不过她穿着蓝色武服，腰间系着赤色宽边腰带，腰带上嵌着方形铁片。铁片上刻着一个醒目的“二”字。",
+      "target": "Nhưng ả mặc võ phục màu lam, bên hông thắt chiếc đai lưng bản rộng màu đỏ, trên đai lưng khảm một miếng sắt vuông. Trên miếng sắt khắc một chữ “Nhị” vô cùng bắt mắt."
+    },
+    {
+      "segment_id": "0025",
+      "source": "并且她刚刚完成家族任务回来，一身还残留着一些风霜之色。",
+      "target": "Hơn nữa ả mới vừa hoàn thành nhiệm vụ gia tộc trở về, cả người còn vương lại chút vẻ phong sương."
+    },
+    {
+      "segment_id": "0026",
+      "source": "这些东西为她凝造了一丝精干逼人的气场。",
+      "target": "Những thứ này tạo cho ả một tia khí thế nhanh nhẹn bức người."
+    },
+    {
+      "segment_id": "0027",
+      "source": "因此一踏进客栈，她夹裹着的威风就让整个客栈饭厅陷入了静寂当中。",
+      "target": "Vì vậy vừa bước vào khách điếm, sự oai phong mà ả mang theo đã khiến toàn bộ nhà ăn của khách điếm chìm vào tĩnh lặng."
+    },
+    {
+      "segment_id": "0028",
+      "source": "“奴才高碗拜见大小姐！”中年男子见了漠颜，陡然间就换了一副脸面。",
+      "target": "“Nô tài Cao Oản bái kiến Đại tiểu thư!” Gã đàn ông trung niên nhìn thấy Mạc Nhan, đột nhiên liền đổi một bộ mặt khác."
+    },
+    {
+      "segment_id": "0029",
+      "source": "他脸上堆起了谄媚的笑，弯下腰弓着背，连走几个小步，然后就扑通一声跪倒在地，向漠颜请安问好。",
+      "target": "Trên mặt gã nở nụ cười nịnh nọt, cong eo khom lưng, đi liền mấy bước nhỏ, sau đó đánh “bịch” một tiếng quỳ sụp xuống đất, thỉnh an chào hỏi Mạc Nhan."
+    },
+    {
+      "segment_id": "0030",
+      "source": "客栈中的一干伙计，看着中年男子的这番转变，都有些目瞪口呆。",
+      "target": "Đám tiểu nhị trong khách điếm nhìn sự chuyển biến này của gã đàn ông trung niên, đều có chút trợn mắt há mồm."
+    },
+    {
+      "segment_id": "0031",
+      "source": "高碗身材高大又粗壮，卑躬屈膝的样子有些不伦不类，有些可笑。但是客栈伙计们都笑不出来，这个中年家奴的表现，更凸显出了漠颜的强势。",
+      "target": "Cao Oản có vóc dáng cao lớn lại thô kệch, dáng vẻ khúm núm thật sự không ra làm sao, có phần nực cười. Nhưng đám tiểu nhị khách điếm đều không cười nổi, biểu hiện của tên gia nô trung niên này càng làm nổi bật lên sự ngang ngược của Mạc Nhan."
+    },
+    {
+      "segment_id": "0032",
+      "source": "有些伙计不禁为方源暗捏一把汗。方源可是他们的大主顾，有什么三长两短。将来没法照顾客栈的生意，可就不好了。",
+      "target": "Vài tên tiểu nhị không khỏi lén đổ mồ hôi hột thay cho Phương Nguyên. Phương Nguyên chính là khách sộp của bọn họ, nhỡ có mệnh hệ gì, sau này không thể chiếu cố chuyện làm ăn của khách điếm nữa thì thật không tốt."
+    },
+    {
+      "segment_id": "0033",
+      "source": "更多的人则在心中暗暗祈祷：希望方源最好束手就擒。真要开战，打坏了客栈的东西，那就更加不妙。",
+      "target": "Nhiều người hơn thì âm thầm cầu nguyện trong lòng: Tốt nhất là Phương Nguyên chịu trói mà hàng. Nếu thật sự khai chiến, đánh hỏng đồ đạc trong khách điếm, vậy càng không ổn."
+    },
+    {
+      "segment_id": "0034",
+      "source": "漠颜没有看跪在地下的高碗一眼，她的双眼紧紧地盯住方源，几个大步走到桌前，语气凌厉至极：“你就是方源？看来你吃的很香吗。呵呵呵，不知道拳头有没有吃过？我让尝尝其中的滋味，也许更香呢。”",
+      "target": "Mạc Nhan không thèm liếc nhìn Cao Oản đang quỳ dưới đất một cái, hai mắt ả nhìn chằm chằm Phương Nguyên, đi mấy bước lớn đến trước bàn, giọng điệu sắc bén tột độ: “Ngươi chính là Phương Nguyên? Xem ra ngươi ăn rất ngon miệng nhỉ. Ha ha ha, không biết nắm đấm thì đã ăn bao giờ chưa? Ta cho ngươi nếm thử mùi vị trong đó, có khi còn ngon hơn đấy.”"
+    },
+    {
+      "segment_id": "0035",
+      "source": "虽然这么说着，但是漠颜却没有立即动手。",
+      "target": "Tuy nói như vậy, nhưng Mạc Nhan lại không lập tức ra tay."
+    },
+    {
+      "segment_id": "0036",
+      "source": "方源的行为举止太镇静，太古怪了。莫非他背后还有什么隐藏人物撑腰？",
+      "target": "Hành vi cử chỉ của Phương Nguyên quá bình tĩnh, quá mức kỳ quái. Chẳng lẽ sau lưng hắn còn nhân vật ẩn giấu nào chống lưng?"
+    },
+    {
+      "segment_id": "0037",
+      "source": "“但是不应该啊，我来之前，就已经调查过了。这个方源是标准的舅舅不疼姥姥不爱，双亲去世得早，还被舅父舅母赶出了家。再加上他资质只有丙等，一个柔弱少年能有什么背景？”漠颜心中忍不住嘀咕起来。",
+      "target": "“Nhưng không đúng nha, trước khi đến đây, ta đã điều tra rồi. Phương Nguyên này chuẩn xác là cữu cữu không thương, bà ngoại không yêu, song thân mất sớm, còn bị cữu phụ cữu mẫu đuổi ra khỏi nhà. Thêm vào đó tư chất của hắn chỉ có bính đẳng, một thiếu niên yếu ớt thì có bối cảnh gì chứ?” Mạc Nhan không kìm được lẩm bẩm trong lòng."
+    },
+    {
+      "segment_id": "0038",
+      "source": "但不管怎么说，反常则妖。这事古怪，得刺探一下。",
+      "target": "Nhưng dù nói thế nào, sự tình bất thường tất có yêu. Chuyện này kỳ lạ, phải dò xét một chút."
+    },
+    {
+      "segment_id": "0039",
+      "source": "方源呵呵一笑，斜看了漠颜一眼：“谁告诉你我是古月方源的？”",
+      "target": "Phương Nguyên cười khẽ, liếc xéo Mạc Nhan một cái: “Ai nói cho cô biết ta là Cổ Nguyệt Phương Nguyên?”"
+    },
+    {
+      "segment_id": "0040",
+      "source": "漠颜顿时一愣，旋即就扭头看向高碗。",
+      "target": "Mạc Nhan lập tức sửng sốt, ngay sau đó liền quay đầu nhìn sang Cao Oản."
+    },
+    {
+      "segment_id": "0041",
+      "source": "高碗刚刚站起来，顿时又跪下去，额头冷汗涔涔，结结巴巴不知道怎么答话：“主子，奴才，奴才……”",
+      "target": "Cao Oản vừa mới đứng lên, lập tức lại quỳ xuống, trên trán đổ mồ hôi lạnh ròng ròng, ấp úng không biết đáp lời thế nào: “Chủ tử, nô tài, nô tài...”"
+    },
+    {
+      "segment_id": "0042",
+      "source": "他们有方源的画像，但也都知道方源和方正是孪生兄弟，相貌极为接近。",
+      "target": "Bọn họ có bức họa của Phương Nguyên, nhưng cũng biết Phương Nguyên và Phương Chính là anh em sinh đôi, tướng mạo cực kỳ giống nhau."
+    },
+    {
+      "segment_id": "0043",
+      "source": "“难怪这个少年有恃无恐的样子，原来他是方正，而不是方源啊。”一时间，漠颜身边的家奴们都有了这样的猜测。",
+      "target": "“Thảo nào thiếu niên này lại có dáng vẻ không sợ gì cả, hóa ra hắn là Phương Chính, chứ không phải là Phương Nguyên.” Trong chốc lát, đám gia nô bên cạnh Mạc Nhan đều có suy đoán như vậy."
+    },
+    {
+      "segment_id": "0044",
+      "source": "“方正可不是方源能够比的。后者不过区区丙等，孤身一人，毫无靠山。前者却是甲等天才，在开窍大典就被族长纳入一系，只要成长起来，前途无量！”漠颜没有得到高碗肯定的回答，心中更加犹豫。",
+      "target": "“Phương Chính cũng không phải người Phương Nguyên có thể so sánh được. Kẻ sau chẳng qua chỉ là bính đẳng thấp bé, thân cô thế cô, không hề có chỗ dựa. Kẻ trước lại là thiên tài giáp đẳng, trong đại điển khai khiếu đã được tộc trưởng thu nạp vào một hệ, chỉ cần trưởng thành, tiền đồ vô lượng!” Mạc Nhan không nhận được câu trả lời khẳng định của Cao Oản, trong lòng càng thêm do dự."
+    },
+    {
+      "segment_id": "0045",
+      "source": "此时知道方源身份的，只有客栈角落里的一群伙计。",
+      "target": "Lúc này người biết được thân phận của Phương Nguyên, chỉ có một đám tiểu nhị trong góc khách điếm."
+    },
+    {
+      "segment_id": "0046",
+      "source": "但是任何一方，他们都得罪不起。因此都闭紧了嘴巴。",
+      "target": "Thế nhưng bất kỳ bên nào bọn họ cũng đều không đắc tội nổi. Vì thế tất cả đều ngậm chặt miệng."
+    },
+    {
+      "segment_id": "0047",
+      "source": "方源吃饱了，他缓缓站了起来，淡淡地看了漠颜一眼：“你不是想找方源么？跟我来吧，我带你去学堂宿舍找他。”",
+      "target": "Phương Nguyên ăn no rồi, hắn chậm rãi đứng lên, lạnh nhạt liếc nhìn Mạc Nhan một cái: “Chẳng phải cô muốn tìm Phương Nguyên sao? Đi theo ta, ta dẫn cô đến túc xá học đường tìm hắn.”"
+    },
+    {
+      "segment_id": "0048",
+      "source": "“如果眼前这人是方正，我不想得罪他。如果是方源，我一路紧跟着他，也不怕他冒充。”霎时间，漠颜心中思绪翻转，就下了决定。",
+      "target": "“Nếu như người trước mắt này là Phương Chính, ta không muốn đắc tội hắn. Nếu là Phương Nguyên, ta theo sát hắn suốt dọc đường, cũng không sợ hắn mạo danh.” Trong nháy mắt, suy nghĩ trong lòng Mạc Nhan đảo lộn, liền đưa ra quyết định."
+    },
+    {
+      "segment_id": "0049",
+      "source": "“好，我跟你去学堂。请！”漠颜侧身让过一条道，伸平手掌，双目精光闪烁，示意方源。",
+      "target": "“Được, ta đi học đường với ngươi. Mời!” Mạc Nhan nghiêng người nhường đường, duỗi thẳng bàn tay, trong mắt lóe lên tia sáng tinh anh, ra hiệu cho Phương Nguyên."
+    },
+    {
+      "segment_id": "0050",
+      "source": "方源洒然一笑，昂首迈步而去。",
+      "target": "Phương Nguyên thản nhiên cười, ngẩng đầu cất bước đi."
+    },
+    {
+      "segment_id": "0051",
+      "source": "漠颜紧跟其后，身后一群家奴也接着鱼贯而出。",
+      "target": "Mạc Nhan theo sát phía sau, một đám gia nô phía sau cũng nối đuôi nhau bước ra."
+    },
+    {
+      "segment_id": "0052",
+      "source": "“好险。”",
+      "target": "“Thật hú vía.”"
+    },
+    {
+      "segment_id": "0053",
+      "source": "“终于走了。”",
+      "target": "“Cuối cùng cũng đi rồi.”"
+    },
+    {
+      "segment_id": "0054",
+      "source": "“就算是打起来，也不关我们客栈的事情了。”",
+      "target": "“Cho dù là đánh nhau, cũng không liên quan đến khách điếm chúng ta nữa rồi.”"
+    },
+    {
+      "segment_id": "0055",
+      "source": "留下一群客栈伙计，大多都拍着胸口，庆幸不已。",
+      "target": "Để lại một đám tiểu nhị khách điếm, phần lớn đều vỗ ngực, cảm thấy vô cùng may mắn."
+    },
+    {
+      "segment_id": "0056",
+      "source": "一群人来到学堂门口。",
+      "target": "Một đám người đi đến cửa học đường."
+    },
+    {
+      "segment_id": "0057",
+      "source": "“来人止步！”",
+      "target": "“Người đến dừng bước!”"
+    },
+    {
+      "segment_id": "0058",
+      "source": "“站住，家族学堂只允许本族蛊师自由出入。”门口处两位侍卫，拦下方源、漠颜一群人。",
+      "target": "“Đứng lại, học đường gia tộc chỉ cho phép Cổ sư bản tộc tự do ra vào.” Hai tên thị vệ ở cửa chặn đám người Phương Nguyên, Mạc Nhan lại."
+    },
+    {
+      "segment_id": "0059",
+      "source": "“放肆！连我都不认识了？居然敢拦我。”漠颜目光横扫二人，张口喝斥。",
+      "target": "“Làm càn! Ngay cả ta mà cũng không nhận ra sao? Lại dám cản ta.” Ánh mắt Mạc Nhan quét ngang hai người, mở miệng quát lớn."
+    },
+    {
+      "segment_id": "0060",
+      "source": "“不敢。”侍卫连忙抱拳。",
+      "target": "“Không dám.” Thị vệ vội vàng chắp tay."
+    },
+    {
+      "segment_id": "0061",
+      "source": "“漠颜大小姐，小的们都把您印在心里呢。但是族规是实实在在的，这样吧，大小姐，可以允许你带进一个家奴。这是我们最大的让步了。”一位老成的侍卫恭谨地答道。",
+      "target": "“Mạc Nhan đại tiểu thư, bọn nhỏ đều ghi nhớ ngài trong lòng. Nhưng gia quy rành rành ra đó, thế này đi, Đại tiểu thư, có thể cho phép ngài mang theo một tên gia nô đi vào. Đây đã là sự nhượng bộ lớn nhất của chúng ta rồi.” Một tên thị vệ già dặn cung kính đáp."
+    },
+    {
+      "segment_id": "0062",
+      "source": "漠颜冷哼一声，虽然有些不情愿，但在族规面前，她也不敢公然违背。",
+      "target": "Mạc Nhan hừ lạnh một tiếng, mặc dù có chút không cam lòng, nhưng trước mặt gia quy, ả cũng không dám công khai làm trái."
+    },
+    {
+      "segment_id": "0063",
+      "source": "漠家是强盛，但是也因此树大招风。别忘了漠家之外，还有赤家与之分庭抗礼。赤家之外，还有族长一系等着抓漠家的把柄。",
+      "target": "Mạc gia cường thịnh, nhưng cũng vì thế mà cây to đón gió. Đừng quên ngoài Mạc gia, còn có Xích gia ngang tài ngang sức. Ngoài Xích gia, còn có một hệ của tộc trưởng đang chờ bắt thóp Mạc gia."
+    },
+    {
+      "segment_id": "0064",
+      "source": "“你们都留下，高碗跟着我。”想了想，漠颜便下了命令。",
+      "target": "“Các ngươi đều ở lại, Cao Oản đi theo ta.” Suy nghĩ một lát, Mạc Nhan liền ra lệnh."
+    },
+    {
+      "segment_id": "0065",
+      "source": "高碗顿时昂首挺胸，一脸欢喜之色：“多谢大小姐赏识！”",
+      "target": "Cao Oản lập tức ngẩng đầu ưỡn ngực, vẻ mặt vui sướng: “Đa tạ Đại tiểu thư tán thưởng!”"
+    },
+    {
+      "segment_id": "0066",
+      "source": "“走吧，学弟。”漠颜意味深长地向方源一笑。",
+      "target": "“Đi thôi, học đệ.” Mạc Nhan mỉm cười đầy thâm ý với Phương Nguyên."
+    },
+    {
+      "segment_id": "0067",
+      "source": "方源面色仍旧平淡，带头就走。",
+      "target": "Sắc mặt Phương Nguyên vẫn bình thản như cũ, dẫn đầu bước đi."
+    },
+    {
+      "segment_id": "0068",
+      "source": "他来到宿舍门口，打开锁扣，推开了门。",
+      "target": "Hắn đi đến cửa túc xá, mở khóa, đẩy cửa ra."
+    },
+    {
+      "segment_id": "0069",
+      "source": "他迈出一步走进房里，就停下了脚步。",
+      "target": "Hắn bước một bước vào trong phòng, liền dừng bước."
+    },
+    {
+      "segment_id": "0070",
+      "source": "房门洞开，房间里一览无余，里面陈设简单朴素，根本没有其他人。",
+      "target": "Cửa phòng mở rộng, tình hình trong phòng có thể nhìn thấy rõ mồn một, bày biện bên trong đơn giản mộc mạc, căn bản không có người nào khác."
+    },
+    {
+      "segment_id": "0071",
+      "source": "漠颜站在门口，看了里面一眼，脸色微沉：“学弟，你最好解释清楚，房间里可没人！”",
+      "target": "Mạc Nhan đứng ở cửa, nhìn thoáng qua bên trong, sắc mặt hơi chùng xuống: “Học đệ, ngươi tốt nhất nên giải thích rõ ràng, trong phòng đâu có người!”"
+    },
+    {
+      "segment_id": "0072",
+      "source": "方源微微一笑：“我不就是人么？”",
+      "target": "Phương Nguyên khẽ mỉm cười: “Ta không phải là người sao?”"
+    },
+    {
+      "segment_id": "0073",
+      "source": "漠颜盯住方源，目光一闪，似有所悟：“我要找的可是古、月、方、源！”",
+      "target": "Mạc Nhan nhìn chằm chằm Phương Nguyên, ánh mắt chợt lóe, dường như đã hiểu ra: “Người ta muốn tìm chính là Cổ, Nguyệt, Phương, Nguyên!”"
+    },
+    {
+      "segment_id": "0074",
+      "source": "方源呵呵轻笑：“我可从没说，我不是古月方源啊。”",
+      "target": "Phương Nguyên cười khẽ: “Ta chưa từng nói, ta không phải Cổ Nguyệt Phương Nguyên nha.”"
+    }
+  ]
+}
+```

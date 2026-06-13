@@ -1,0 +1,620 @@
+# Translation Context Pack
+
+## Project
+- Branch: Co Chan Nhan
+- Title: 
+- Author: 
+- Genre: /
+- Language: zh → vi
+
+## Translation Rules
+### Translation Goal
+Dịch truyện Trung sang tiếng Việt tự nhiên, dễ đọc, đúng nghĩa, đúng mạch truyện, đúng văn cảnh, đúng xưng hô, đúng tên riêng và thuật ngữ.
+Style: văn xuôi tiếng Việt mượt, rõ nghĩa, không máy móc
+Priorities:
+  • đúng nghĩa và đúng văn cảnh
+  • đúng tên riêng
+  • đúng thuật ngữ theo loại và bối cảnh
+  • đúng xưng hô và quan hệ nhân vật
+  • giữ ổn định thuật ngữ/tên riêng/xưng hô đã khóa
+  • tự nhiên trong tiếng Việt
+  • giữ nhịp văn, cảm xúc và giọng kể gốc
+Anti-goals:
+  • không dịch từng chữ máy móc
+  • không Hán Việt hóa tên Nhật, Hàn, phương Tây, fandom, thương hiệu, kỹ thuật
+  • không áp VietPhrase/LuatNhan lên tên riêng đã khóa
+  • không đổi thuật ngữ đã khóa nếu văn cảnh giống nhau
+  • không dùng một bản dịch cứng cho từ đa nghĩa khi văn cảnh khác nhau
+  • không làm lộ thông tin ngoài POV nếu bản gốc chưa tiết lộ
+
+### Output Rules
+  • keep paragraph structure
+  • keep dialogue structure
+  • do not merge paragraphs
+  • do not split paragraphs unnecessarily
+  • preserve punctuation when reasonable
+  • convert chinese quotes to vietnamese
+  • remove unnecessary explanation
+  • output only translation
+  • do not add notes inside translation
+  • mark uncertain items for audit only
+
+### Tone Guidelines
+  • narration: tự nhiên, rõ ràng, có chất truyện
+  • dialogue: phù hợp thân phận, quan hệ, tuổi tác, quyền lực và bối cảnh
+  • ancient_setting: cổ phong vừa phải, không lạm dụng Hán Việt khó hiểu
+  • modern_setting: hiện đại, đời thường, không cổ hóa lời thoại
+  • game_system: rõ ràng, gọn, quen thuộc với văn phong game/system
+  • comedy: giữ nhịp hài nếu có
+  • serious: giữ sắc thái căng thẳng, trang trọng nếu có
+
+### Term Normalization
+Purpose: Chuẩn hóa thuật ngữ theo văn cảnh truyện, bao gồm chiêu thức, nghề nghiệp, chức vị, cảnh giới, kỹ năng, vật phẩm, danh hiệu, tổ chức, hệ thống, khái niệm thế giới quan và cụm cố định lặp lại.
+Core principles:
+  • context first
+  • not word by word
+  • same source can have different translation if context differs
+  • same source same context must be consistent
+  • same term type should keep style consistent
+  • locked translation only applies to matching context
+  • source plus type plus context equals translation
+Decision rules:
+  • Không dịch thuật ngữ chỉ theo mặt chữ.
+  • Một source có thể có nhiều bản dịch nếu văn cảnh khác nhau.
+  • Một bản dịch đã khóa chỉ áp dụng cho đúng loại văn cảnh đã khóa.
+  • Tên chiêu thức, cảnh giới, pháp bảo quan trọng nên dùng dạng Hán Việt chuẩn, viết hoa nếu là danh từ riêng.
+  • Vật phẩm phổ thông không cần Hán Việt hóa quá mức.
+  • Nghề nghiệp phải xét bối cảnh.
+  • Chức vị phải xét hệ thống xã hội.
+  • Nếu cùng source và cùng văn cảnh, phải giữ nhất quán.
+  • Nếu không chắc văn cảnh, đánh dấu audit.
+
+### Engine Rules
+  • use context pack
+  • use previous chapter summary
+  • use character profile
+  • use story timeline
+  • use glossary
+  • use name scan
+  • use segment context
+  • avoid over literal translation
+  • avoid over smoothing that changes meaning
+
+## Characters
+N/A
+
+## Glossary
+N/A
+
+## Story Timeline (latest)
+
+## Chapter 0003 - Chương 3: Xin cứ ra một góc mà chơi đi
+
+### Summary
+Chapter 3 completed via pipeline.
+
+## Chapter 0004 - Chương 4: Cổ Nguyệt Phương Nguyên!
+
+### Summary
+Chapter 4 completed via pipeline.
+
+## Chapter 0005 - Chương 5: Nhân Tổ tam cổ, hy vọng khai khiếu
+
+### Summary
+Chapter 5 completed via pipeline.
+
+## Chapter 0006 - 0006 未来的路，会很精彩
+
+### Summary
+Chapter 6 completed via pipeline.
+
+## Chapter 0006 - Chương 6: Con đường tương lai sẽ rất đặc sắc
+
+### Summary
+Chapter 6 completed via pipeline.
+
+## Chapter 0007 - Chương 7: Cổ sư chia cửu chuyển, Hoa Tửu lưu di tàng
+
+### Summary
+Chapter 7 completed via pipeline.
+
+## Chapter 0008 - Chương 8: Vật thị nhân phi
+
+### Summary
+Chapter 8 completed via pipeline.
+
+## Chapter 0009 - 0009 渐行渐远
+
+### Summary
+Chapter 9 completed via pipeline.
+
+## Chapter 0010 - Chương 10: Trời có lúc gió mây bất trắc, luyện Cổ muôn vàn gian nan
+
+### Summary
+Chapter 10 completed via pipeline.
+
+## Chapter 0009 - Chương 9: Ngày càng xa cách
+
+### Summary
+Chapter 9 completed via pipeline.
+
+## Chapter 0011 - Chương 11: Từ sự tồn tại đến sự thay đổi
+
+### Summary
+Chapter 11 completed via pipeline.
+
+## Chapter 0012 - Chương 12: Hương rượu trúc xanh, Cổ sư thị uy
+
+### Summary
+Chapter 12 completed via pipeline.
+
+## Chapter 0013 - Chương 13: Rừng trúc dưới trăng, một đốm châu tuyết
+
+### Summary
+Chapter 13 completed via pipeline.
+
+## Chapter 0014 - Chương 14: Trong khe núi ẩn chứa huyền cơ
+
+### Summary
+Chapter 14 completed via pipeline.
+
+## Chapter 0015 - Chương 15: Lịch sử do kẻ chiến thắng viết nên
+
+### Summary
+Chapter 15 completed via pipeline.
+
+## Chapter 0016 - Chương 16: Thu trọn vào túi
+
+### Summary
+Chapter 16 completed via pipeline.
+
+## Chapter 0017 - Chương 17: Lần đầu luyện Tửu trùng
+
+### Summary
+Chapter 17 completed via pipeline.
+
+
+## Source Chapter 18 - 0018 就让往事如烟飘散
+```json
+[
+  {
+    "segment_id": "0001",
+    "text": "# 第十八节：就让往事如烟飘散"
+  },
+  {
+    "segment_id": "0002",
+    "text": "面对弟弟的质询，方源没有说话，仍旧吃着早餐。他清楚弟弟的性格，方正是沉不住气的。"
+  },
+  {
+    "segment_id": "0003",
+    "text": "果然，方正见哥哥看也不看自己一眼，似乎把自己当做了空气。下一刻，他就带着不满的语气，叫起来：“哥哥，你对沈翠做了什么？自从她昨天从你房间里出来后，就大哭了一场，我安慰她，她哭的越凶。”"
+  },
+  {
+    "segment_id": "0004",
+    "text": "方源抬眼看了看弟弟，面无表情。"
+  },
+  {
+    "segment_id": "0005",
+    "text": "方正则皱着眉头，紧紧地盯着哥哥，等待着他的回答。"
+  },
+  {
+    "segment_id": "0006",
+    "text": "气氛越来越紧张。"
+  },
+  {
+    "segment_id": "0007",
+    "text": "但是方源只是看了他一眼，就低下头，继续吃饭。"
+  },
+  {
+    "segment_id": "0008",
+    "text": "弟弟方正顿时气急，方源这种态度，简直就是对他赤裸裸的藐视。他羞恼之下，一拍桌子，大声吼道：“古月方源，你怎么能这个样子！人家一个小丫头，服侍了你这么多年，对你的温柔体贴我都一一看在眼里。是，我知道你很失落，也能理解你的颓废。你只有丙等资质嘛，但是你也不能因为自己的遭遇，而去迁怒他人啊。这对她是不公平的！”"
+  },
+  {
+    "segment_id": "0009",
+    "text": "他话音还未落，方源腾的一下就站起身来，扬手如电。"
+  },
+  {
+    "segment_id": "0010",
+    "text": "啪！"
+  },
+  {
+    "segment_id": "0011",
+    "text": "一声脆响，给了方正一个结结实实的巴掌。"
+  },
+  {
+    "segment_id": "0012",
+    "text": "方正捂住右脸，蹬蹬倒退两步，带着一脸的惊愕。"
+  },
+  {
+    "segment_id": "0013",
+    "text": "“混账东西，你这是在用什么口气，对自己哥哥这么说话？！那沈翠不过是个小丫鬟，你为了这么一个小女子，就忘记我是你哥了么？”方源低声训斥着。"
+  },
+  {
+    "segment_id": "0014",
+    "text": "方正反应过来，脸上的疼痛一波波地传达到他的神经中枢。他瞪圆了眼睛，喘着粗气，难以置信地道：“哥，你打我？从小到大你都没打过我！是，我是被测出甲等资质，你只是丙等。但是你也不能怪我呀，这都是上天的安排……”"
+  },
+  {
+    "segment_id": "0015",
+    "text": "啪！"
+  },
+  {
+    "segment_id": "0016",
+    "text": "方正话还未说完，方源反手又是一个巴掌打过去。"
+  },
+  {
+    "segment_id": "0017",
+    "text": "方正双手捂住两边面颊，他懵了。"
+  },
+  {
+    "segment_id": "0018",
+    "text": "“天真的蠢货，你还记得什么！从小到大，我是怎么照顾你的？双亲刚死的时候，我们生活困苦，过新年舅父舅母只给我们俩一件新衣，我自己穿了吗？我给谁穿了？你小时候爱吃蜜饯粥，我每天都吩咐厨房给你多做一碗。你被旁人欺负了，是谁带着你找回场子？还有其他种种，我都不屑说了。嗯，现在你为了一个婢女，就这么跟我讲话，来质问我？”"
+  },
+  {
+    "segment_id": "0019",
+    "text": "方正涨红了脸，他的嘴唇哆嗦着，既羞恼又惊怒，却说不出一句反驳的话来。"
+  },
+  {
+    "segment_id": "0020",
+    "text": "因为方源说的都是事实！"
+  },
+  {
+    "segment_id": "0021",
+    "text": "“也罢了。”方源冷笑连连，“你既然连亲生父母都弃了，重新认了别人，我这个当哥哥的又算得了什么呢？”"
+  },
+  {
+    "segment_id": "0022",
+    "text": "“哥，你怎么能这么说呢。你也知道我从小就很渴望家庭的温暖，我……”方正连忙分辨。"
+  },
+  {
+    "segment_id": "0023",
+    "text": "方源摆手，阻止他讲下去：“从今天起，你不是我弟弟，我也不再是你哥。”"
+  },
+  {
+    "segment_id": "0024",
+    "text": "“哥！”方正大惊，张口欲言。"
+  },
+  {
+    "segment_id": "0025",
+    "text": "这时，方源又开口：“你不是喜欢沈翠吗？你放心，我没有对她做什么，她还是处子，黄花闺女。你给我六块元石，我把她转给你了，从今以后她就是你的贴身女仆了。”"
+  },
+  {
+    "segment_id": "0026",
+    "text": "“哥，你怎么……”陡然间被说破心思，方正一阵慌乱，有些猝不及防。"
+  },
+  {
+    "segment_id": "0027",
+    "text": "但同时，他心中也一定，他最担心的事情并没有成真。"
+  },
+  {
+    "segment_id": "0028",
+    "text": "在不久前的那一晚，沈翠亲自伺候他洗澡。"
+  },
+  {
+    "segment_id": "0029",
+    "text": "虽然没有发生什么实质性的东西，但是方正永远也忘不了那一晚的温柔。每次想到沈翠，想起她灵巧的双手，柔润的红唇，他的心中都涌起一阵悸动。"
+  },
+  {
+    "segment_id": "0030",
+    "text": "青春的情愫，早已经在少年的胸中积蓄，并且发芽。"
+  },
+  {
+    "segment_id": "0031",
+    "text": "所以当他昨天傍晚得知沈翠的异状时，他的心中顿时涌现出一股气。他当即放弃炼化月光蛊，转而满山寨寻找方源，要来讨个说法。"
+  },
+  {
+    "segment_id": "0032",
+    "text": "见方正不答应，方源皱起眉头：“男欢女爱，正常的很，你坦诚一点，躲躲闪闪的算什么。当然，你若不要换，那就算了。”"
+  },
+  {
+    "segment_id": "0033",
+    "text": "方正顿时着急了：“换，怎么不换。但我这元石，已经不够六块了。”"
+  },
+  {
+    "segment_id": "0034",
+    "text": "说着，他掏出钱袋子，面皮涨得通红。"
+  },
+  {
+    "segment_id": "0035",
+    "text": "方源接过袋子，发现里面有六块，但是其中一块比完整的元石要小上一半。他顿时知道，这是方正汲取了元石中的真元，好尽快地炼化月光蛊。"
+  },
+  {
+    "segment_id": "0036",
+    "text": "随着天然真元被抽取得越多，元石的体积就变得越小，重量也就越轻。"
+  },
+  {
+    "segment_id": "0037",
+    "text": "虽然只有五块半，但是方源也知道：这是方正手上所有的元石了。他本身就没有积蓄，这六块元石还是不久前舅父舅母给他的。"
+  },
+  {
+    "segment_id": "0038",
+    "text": "“元石我收下了，你可以走了。”方源表情冷漠，将袋子揣进怀里。"
+  },
+  {
+    "segment_id": "0039",
+    "text": "“哥哥……”方正还要说话。"
+  },
+  {
+    "segment_id": "0040",
+    "text": "方源微微扬起眉头，慢条斯理地道：“趁我还未改变主意，你最好从我眼前消失。”"
+  },
+  {
+    "segment_id": "0041",
+    "text": "方正心中一紧，咬咬牙，终于扭头走了。"
+  },
+  {
+    "segment_id": "0042",
+    "text": "跨出客栈门口，他下意识地捂住胸口，觉得心中一阵阵发虚。冥冥中有种感觉告诉他，他好像在此刻失去了一件很重要的东西。"
+  },
+  {
+    "segment_id": "0043",
+    "text": "但他很快心头一热，他想到了沈翠，以及那个魂牵梦绕的晚上。"
+  },
+  {
+    "segment_id": "0044",
+    "text": "“我终于可以名正言顺地得到你了，翠翠。”他头也不回，走出了方源的视野。"
+  },
+  {
+    "segment_id": "0045",
+    "text": "方源面无表情，站着好一会儿，这才慢慢坐下。"
+  },
+  {
+    "segment_id": "0046",
+    "text": "明媚的阳光，透过窗户，照在他冷漠的脸上，让人看了有种冰凉的感觉。"
+  },
+  {
+    "segment_id": "0047",
+    "text": "饭堂的生意有些冷清，街道上行人越来越多，喧闹声传来，更凸显出此处的寂默。"
+  },
+  {
+    "segment_id": "0048",
+    "text": "早餐已经凉了，伙计殷勤地走过来，问是否需要重新加热一下。"
+  },
+  {
+    "segment_id": "0049",
+    "text": "方源充耳未闻，他的眼神如烟云变幻不定，似乎在回忆着什么。"
+  },
+  {
+    "segment_id": "0050",
+    "text": "伙计候了一会儿，却见方源在发怔，始终没有回应，他只好摸摸鼻子，悻悻地走了。"
+  },
+  {
+    "segment_id": "0051",
+    "text": "半晌之后，方源眼神一定。"
+  },
+  {
+    "segment_id": "0052",
+    "text": "心中的回忆如烟，已经渐渐消褪。"
+  },
+  {
+    "segment_id": "0053",
+    "text": "他又回到了现实世界，阳光洒进来，照亮了一半多的桌面。饭菜上飘散的热气已经散去，街道上行人喧闹的声音也传入耳畔。"
+  },
+  {
+    "segment_id": "0054",
+    "text": "隔着衣服，伸手摸摸那揣在怀中的五颗半元石，嘴角露出一丝苦涩的，嘲讽的笑意。"
+  },
+  {
+    "segment_id": "0055",
+    "text": "但笑意一放即收。"
+  },
+  {
+    "segment_id": "0056",
+    "text": "“伙计，把这饭菜拿下去热一下。”方源看了一眼饭菜，淡淡地开口，喊了声。"
+  },
+  {
+    "segment_id": "0057",
+    "text": "这一刻，他的双眸清冽无比。"
+  },
+  {
+    "segment_id": "0058",
+    "text": "……"
+  },
+  {
+    "segment_id": "0059",
+    "text": "“什么！你哥是这么说的？”厅堂中，舅父皱着眉头，声音透着冷意。"
+  },
+  {
+    "segment_id": "0060",
+    "text": "舅母则坐在一旁，看着方正脸蛋上一边一个的鲜红掌印，很无语。"
+  },
+  {
+    "segment_id": "0061",
+    "text": "“是的，我见到哥哥时，他就在客栈吃早点，整个事情就是这样的。”方正恭谨地答道。"
+  },
+  {
+    "segment_id": "0062",
+    "text": "舅父的眉头皱得更深了，都凝成了一个川字。"
+  },
+  {
+    "segment_id": "0063",
+    "text": "几个呼吸功夫之后，他深深地叹息一声，用严肃的口气道：“方正，我的孩子，你要记住，婢女沈翠不是他方源的私有财物，而是我们调配给他的，怎么能够买卖呢？况且你想要的话，你就应该早早地对我们明说，我们把她调给你就是了。”"
+  },
+  {
+    "segment_id": "0064",
+    "text": "“啊？”方正听得目瞪口呆。"
+  },
+  {
+    "segment_id": "0065",
+    "text": "舅父挥手：“你先下去罢，你元石都给了方源，我就再拨给你六块。记住，这次要好好用在炼蛊上面，夺得此次第一，我们会为你感到骄傲的。”"
+  },
+  {
+    "segment_id": "0066",
+    "text": "“父亲大人，孩儿惭愧……”方正顿时感动得流下眼泪。"
+  },
+  {
+    "segment_id": "0067",
+    "text": "舅父叹气：“下去罢，下去罢，赶紧回房间去炼蛊，你已经浪费不少时间了。”"
+  },
+  {
+    "segment_id": "0068",
+    "text": "方正退了下去，舅父这才显露出愤怒狰狞的脸色。"
+  },
+  {
+    "segment_id": "0069",
+    "text": "砰！"
+  },
+  {
+    "segment_id": "0070",
+    "text": "他狠狠地一巴掌，拍在桌子上，低声地吼道：“哼，这个小兔崽子，居然拿着我们的人来做买卖，真是狡诈奸猾！”"
+  },
+  {
+    "segment_id": "0071",
+    "text": "舅母在一旁忙劝道：“老爷，消消气。不过是六块元石罢了。”"
+  },
+  {
+    "segment_id": "0072",
+    "text": "“你个妇道人家，懂个什么！他方源只是丙等资质，要炼化月光蛊，就得用元石。以他第一次炼蛊的稚嫩手法，六块元石肯定不够。但是现在他有了十二块，已经绰绰有余了。”舅父恨得咬牙切齿。"
+  },
+  {
+    "segment_id": "0073",
+    "text": "他继续又道：“蛊师的修行，只要资源充足，不被瓶颈卡住，就会很迅速。两三年的功夫，家族就能培养出一个个的二转蛊师。他方源修为越低，一年后夺回家产的希望就越小。现在他年纪轻轻，刚刚修行，我们卡住他，让他在起步阶段就落后同龄人。学堂的资源都是奖励给优秀的学员，凭他的资质，一落后就得不到资源，没有资源辅助修行越加落后。如此恶性循环下去，一年之后看他还能有实力继承家产不？”"
+  },
+  {
+    "segment_id": "0074",
+    "text": "舅母不解：“就算我们不遏制他，他一年之后最多不过一转中阶。老爷你可是二转修为，还怕他？”"
+  },
+  {
+    "segment_id": "0075",
+    "text": "舅父气得跺脚：“妇道人家，果真头发长见识短！以我堂堂长辈的身份，难道要和一个晚辈对殴不成？他要索回遗产，合情合理，根本就不能直接阻拦，只有从族规上着手。族规中明文规定：十六岁要成家立业者，就至少得有一转中阶的修为。否则，就说明他方源没有资格来浪费家族资源。我这么说，你懂吗？”"
+  },
+  {
+    "segment_id": "0076",
+    "text": "舅母恍然大悟。"
+  },
+  {
+    "segment_id": "0077",
+    "text": "舅父眯起双眼，里面阴芒闪烁。他微微摇头，感慨道：“这个方源实在太精明了，太狡诈了。色诱都被他看破，这是什么心智？小小年纪就老谋深算，恐怖啊！本来还想设计谋算他，他就直接搬出去了。还想靠着沈翠，来监视他干扰他，结果被他打发走了，还赚了六块元石。”"
+  },
+  {
+    "segment_id": "0078",
+    "text": "“唉，要是他能和方正一样傻就好了。对了，今后你要对方正好一点，他可是甲等资质。而且我看得出来，他对方源很不服气，很不甘心。这情绪很好，要好好引导。我有一种预感，他将来会是对付方源的最好利器！”"
+  },
+  {
+    "segment_id": "0079",
+    "text": "……"
+  },
+  {
+    "segment_id": "0080",
+    "text": "转眼，又是两天过去。"
+  },
+  {
+    "segment_id": "0081",
+    "text": "客栈房间中，并没有点灯。月光洒进来，照出一地霜华。"
+  },
+  {
+    "segment_id": "0082",
+    "text": "在床榻上，方源闭目盘坐着，调动青铜真元，聚精会神地炼化酒虫。"
+  },
+  {
+    "segment_id": "0083",
+    "text": "酒虫的一小截身躯，被染成了青铜的绿色，但是意志仍旧顽强不息，在烟雾状的真元包裹中，不断地挣扎。"
+  },
+  {
+    "segment_id": "0084",
+    "text": "方源的炼化进行得很不顺利，可以说是举步维艰。"
+  },
+  {
+    "segment_id": "0085",
+    "text": "“我耗费了足足两天两夜，每天只休息两个小时，耗费十二块元石，也不过只炼化到十五分之一的进度。按照时间来算，也就是最近这几天，就会有人炼蛊成功了吧。”"
+  },
+  {
+    "segment_id": "0086",
+    "text": "方源对局势洞若观火。"
+  },
+  {
+    "segment_id": "0087",
+    "text": "不过本来他资质就差一筹，现在炼化的酒虫求生意志又极度顽强，比寻常的月光蛊要高出太多。造成现在这个落后局面，也十分正常。"
+  },
+  {
+    "segment_id": "0088",
+    "text": "“一时的落后不算什么，只要有了酒虫……”方源心湖如镜，没有一丝焦躁和气馁。"
+  },
+  {
+    "segment_id": "0089",
+    "text": "但就在这时，酒虫忽然蜷缩起来，团成了一团。"
+  },
+  {
+    "segment_id": "0090",
+    "text": "“不好，蛊虫反噬！”方源陡然睁开双眼，眼中闪过一丝惊诧。眼前，酒虫团成一个圆溜溜的汤圆，猛地绽放出刺眼的白色毫光。"
+  },
+  {
+    "segment_id": "0091",
+    "text": "它孤注一掷了！"
+  },
+  {
+    "segment_id": "0092",
+    "text": "顿时，方源感到一股强大的意志，从酒虫的身上传来，直接越过真元，降临到他的空窍元海。"
+  },
+  {
+    "segment_id": "0093",
+    "text": "蛊虫反噬的情况，十分罕见。只有那种意志极为刚强的蛊虫，才会奋尽全力，不成功则成仁。"
+  },
+  {
+    "segment_id": "0094",
+    "text": "若换做其他少年，面对这种情况，必定会惊慌失措。"
+  },
+  {
+    "segment_id": "0095",
+    "text": "但是方源虽惊不慌，反而有些微喜：“孤注一掷也好，只要我接下这次反噬，就能让酒虫的意志大大削弱了。不过接下来我就要凝聚全部精神，全力对抗这股意志冲击，不能有丝毫的外界干扰。否则就糟糕了，唉……但愿这期间没有人来打扰我。”"
+  },
+  {
+    "segment_id": "0096",
+    "text": "他思量完毕，正要催动空窍真元，迎上那股意志。好好与它纠缠，大战三百个回合。"
+  },
+  {
+    "segment_id": "0097",
+    "text": "但就在这时，异变再生！"
+  },
+  {
+    "segment_id": "0098",
+    "text": "一只蛊虫，在他的空窍中央，元海上空显现出来。"
+  },
+  {
+    "segment_id": "0099",
+    "text": "轰隆！"
+  },
+  {
+    "segment_id": "0100",
+    "text": "这只蛊虫暴发出强大至极的气息。"
+  },
+  {
+    "segment_id": "0101",
+    "text": "这股气息就好像是天河倾泻，山洪暴发，又像是威严被触犯的恐怖巨兽，睁开猩红的双眼，查看是谁胆敢冒犯它的地盘！"
+  },
+  {
+    "segment_id": "0102",
+    "text": "“这是春秋蝉？！”看到这只蛊虫，方源彻底的震惊了！！"
+  },
+  {
+    "segment_id": "0103",
+    "text": "（ps：感谢粉丝789、失落の光、ㄨ太歲乂、魏陆辉、水淡云清的打赏，感谢老朋友冥枫魂同学的一直支持。新书发布刚刚好一周了，好多老朋友都来了，有的甚至是好几年前的。看见你们熟悉的id，我心中感到很温馨。可以说，没有你们的支持，我走不到今天。"
+  },
+  {
+    "segment_id": "0104",
+    "text": "我还会一直走下去，三年，六年，九年……这期间，有些朋友会暂时离开，有些朋友会一直在。在茫茫人生的旅途中，我们彼此印证彼此的存在，我们相互证明我们活过。"
+  },
+  {
+    "segment_id": "0105",
+    "text": "我幻想这样的一个情形：当我们老了，朋友们看到“蛊真人”这个id，会心一笑，自言自语：“哦，是他啊，我年轻的时候看过他的小说。我还给他投过推荐票呢。”或者我再翻开以前的版面，看到一个个熟悉的id，曾经打赏的，投月票的，评论的。我会回想，在我独自码字的时候，这些个名字就是**跋涉，给我温暖的点点灯火。"
+  },
+  {
+    "segment_id": "0106",
+    "text": "本书到这里，是一个小小的转折。方源将开始真正展露出自己的独特风采。能看到这里的朋友们，都是有缘人。本人在这里担保，本书会越来越精彩，更新也会很稳定，比上一本会好很多。请大家多投点推荐票吧，目前正需要呢。）"
+  }
+]
+```
+
+## Output Format
+CRITICAL INSTRUCTION: You MUST translate the source text EXACTLY paragraph by paragraph, preserving the original order perfectly. DO NOT skip, drop, merge, or reorder any paragraphs. Each paragraph in the source MUST be translated.
+Return ONLY valid JSON matching this schema:
+{
+  "chapter_number": 18,
+  "chapter_title_vi": "Chương 18: <Vietnamese title>",
+  "segments": [
+    {
+      "segment_id": "XXXX",
+      "source": "...",
+      "target": "..."
+    }
+  ]
+}

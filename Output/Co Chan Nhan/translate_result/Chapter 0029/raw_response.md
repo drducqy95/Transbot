@@ -1,0 +1,353 @@
+```json
+{
+  "chapter_number": 29,
+  "chapter_title_vi": "Chương 29: Không từ thủ đoạn",
+  "segments": [
+    {
+      "segment_id": "0001",
+      "source": "# 第二十九节：不择手段",
+      "target": "# Chương 29: Không từ thủ đoạn"
+    },
+    {
+      "segment_id": "0002",
+      "source": "“把酒都放到床下。”方源指挥着客栈的四个伙计。",
+      "target": "\"Để hết rượu xuống dưới gầm giường đi.\" Phương Nguyên chỉ huy bốn gã tiểu nhị của khách điếm."
+    },
+    {
+      "segment_id": "0003",
+      "source": "他们每人手中都提着数坛青竹酒。这是方源勒索了其他学员之后，就来到客栈，一口气又购买了二十坛。",
+      "target": "Trong tay mỗi người bọn họ đều xách theo vài vò rượu Trúc Xanh. Đây là sau khi Phương Nguyên tống tiền những học viên khác, liền đến khách điếm, một hơi mua thêm hai mươi vò."
+    },
+    {
+      "segment_id": "0004",
+      "source": "每坛两块元石，方源为了酒虫，一下子砸出四十块元石。",
+      "target": "Mỗi vò hai khối nguyên thạch, Phương Nguyên vì Tửu trùng, thoáng cái đã vung ra bốn mươi khối nguyên thạch."
+    },
+    {
+      "segment_id": "0005",
+      "source": "刚刚鼓起来的钱袋，瞬间就瘪了一半，只剩下三十九块元石。不过也算是物有所值，这些酒能够支撑酒虫一段较长的时间了。",
+      "target": "Túi tiền vừa mới phồng lên, trong chớp mắt đã xẹp mất một nửa, chỉ còn lại ba mươi chín khối nguyên thạch. Có điều cũng coi như đáng đồng tiền bát gạo, số rượu này đủ để chống đỡ cho Tửu trùng một khoảng thời gian khá dài."
+    },
+    {
+      "segment_id": "0006",
+      "source": "“好咧。”伙计们连忙应道，对蛊师他们不敢有丝毫的不敬。",
+      "target": "\"Vâng ạ.\" Đám tiểu nhị vội vàng đáp lời, đối với Cổ sư bọn họ không dám có chút bất kính nào."
+    },
+    {
+      "segment_id": "0007",
+      "source": "再加上方源购买了这么多的酒，可以说是客栈的大顾客了。在掌柜面前轻轻一句话，就能让这些伙计轻而易举地丢掉工作。",
+      "target": "Thêm vào đó Phương Nguyên mua nhiều rượu như vậy, có thể nói là khách sộp của khách điếm. Chỉ cần nói nhẹ một câu trước mặt chưởng quỹ, cũng đủ để khiến đám tiểu nhị này dễ dàng mất đi công việc."
+    },
+    {
+      "segment_id": "0008",
+      "source": "伙计们走后，方源关上宿舍房门，盘坐在床榻上。",
+      "target": "Sau khi đám tiểu nhị rời đi, Phương Nguyên đóng cửa phòng túc xá lại, ngồi xếp bằng trên giường."
+    },
+    {
+      "segment_id": "0009",
+      "source": "已经是夜里了。",
+      "target": "Đã là đêm khuya."
+    },
+    {
+      "segment_id": "0010",
+      "source": "天空中月明星稀，夜风中流淌着暗香。",
+      "target": "Bầu trời trăng sáng sao thưa, trong gió đêm thoang thoảng hương thơm thoắt ẩn thoắt hiện."
+    },
+    {
+      "segment_id": "0011",
+      "source": "房间里没有点灯，方源抚平心绪，心神投入元海。",
+      "target": "Trong phòng không thắp đèn, Phương Nguyên vuốt phẳng tâm tự, thả tâm thần vào nguyên hải."
+    },
+    {
+      "segment_id": "0012",
+      "source": "元海波涛生灭，海水散发着青铜色的光泽。每一股海水，都是一转蛊师特有的青铜真元。",
+      "target": "Nguyên hải sóng vỗ sinh diệt, nước biển tỏa ra ánh sáng màu đồng xanh. Mỗi một luồng nước biển, đều là thanh đồng chân nguyên đặc hữu của Cổ sư nhất chuyển."
+    },
+    {
+      "segment_id": "0013",
+      "source": "元海只达到整个空窍的四成四，这是方源丙等资质的局限。",
+      "target": "Nguyên hải chỉ đạt đến bốn phần tư của toàn bộ không khiếu, đây là giới hạn tư chất bính đẳng của Phương Nguyên."
+    },
+    {
+      "segment_id": "0014",
+      "source": "空窍四壁，是一层薄薄的白色光膜，支撑又包裹着空窍。",
+      "target": "Bốn vách không khiếu, là một lớp màng sáng màu trắng mỏng manh, vừa chống đỡ vừa bao bọc lấy không khiếu."
+    },
+    {
+      "segment_id": "0015",
+      "source": "在元海上空，空无一物。春秋蝉在方源的调动下，已经再次隐藏，在沉睡中修养去了。",
+      "target": "Bầu trời bên trên nguyên hải trống không. Xuân Thu Thiền dưới sự điều động của Phương Nguyên, đã một lần nữa ẩn nấp, chìm vào giấc ngủ sâu để tu dưỡng rồi."
+    },
+    {
+      "segment_id": "0016",
+      "source": "倒是真元海面上，漂浮着一只白胖可爱的酒虫。",
+      "target": "Ngược lại trên mặt biển chân nguyên, đang trôi nổi một con Tửu trùng trắng trẻo mập mạp đáng yêu."
+    },
+    {
+      "segment_id": "0017",
+      "source": "它在真元海水中肆意撒欢，有时候潜游入海，有时候摆头甩尾，溅起点点水滴。",
+      "target": "Nó thỏa thích vui đùa trong nước biển chân nguyên, có lúc lặn xuống biển, có lúc lắc đầu quẫy đuôi, văng lên từng giọt nước."
+    },
+    {
+      "segment_id": "0018",
+      "source": "方源念头一动，酒虫顿时响应，停止了嬉戏，团成一个汤圆形状，悠悠地漂浮起来，升到空窍中央地带，脱离了青铜海面。",
+      "target": "Phương Nguyên vừa động ý niệm, Tửu trùng lập tức hưởng ứng, dừng nô đùa lại, cuộn mình thành hình dạng một viên chè trôi nước, ung dung bay lên, nâng cao đến khu vực trung tâm không khiếu, thoát ly khỏi mặt biển đồng xanh."
+    },
+    {
+      "segment_id": "0019",
+      "source": "“去。”方源调动一成真元，形成一股细流，逆冲而上，悉数灌注到酒虫体内。",
+      "target": "\"Đi.\" Phương Nguyên điều động một thành chân nguyên, hình thành một dòng nước nhỏ, chảy ngược lên trên, dồn toàn bộ vào trong cơ thể Tửu trùng."
+    },
+    {
+      "segment_id": "0020",
+      "source": "酒虫早已经被他炼化，因此来者不拒，把这股真元全数吸收进身体里面。",
+      "target": "Tửu trùng đã sớm bị hắn luyện hóa, bởi vậy đưa bao nhiêu nhận bấy nhiêu, hấp thu toàn bộ luồng chân nguyên này vào bên trong cơ thể."
+    },
+    {
+      "segment_id": "0021",
+      "source": "顿时，四成四的海面，就下降了一小截。",
+      "target": "Lập tức, mặt biển bốn phần tư, liền giảm xuống một đoạn ngắn."
+    },
+    {
+      "segment_id": "0022",
+      "source": "将真元化为动力，团成一团的酒虫开始绽放出白色的毫光。毫光中氤氲的酒气渐渐生出，最终汇成一团淡白色的酒雾。",
+      "target": "Biến chân nguyên thành động lực, Tửu trùng đang cuộn tròn thành một cục bắt đầu bung tỏa ra hào quang màu trắng. Trong hào quang, hơi rượu mờ mịt dần dần sinh ra, cuối cùng tụ lại thành một đám sương rượu màu trắng nhạt."
+    },
+    {
+      "segment_id": "0023",
+      "source": "酒雾奇妙，也不飘散，而是笼罩在酒虫的身边。",
+      "target": "Sương rượu này rất kỳ diệu, cũng không bay tản đi, mà bao phủ xung quanh Tửu trùng."
+    },
+    {
+      "segment_id": "0024",
+      "source": "“起。”方源念头一动，再调动出一成真元。",
+      "target": "\"Lên.\" Phương Nguyên vừa động ý niệm, lại điều động ra thêm một thành chân nguyên."
+    },
+    {
+      "segment_id": "0025",
+      "source": "青铜海水扑上酒雾，酒雾融入海水当中，越来越少，最终一丝都不剩。而那一成青铜真元，也凭空消失了一般体积，只剩下了半成。",
+      "target": "Nước biển đồng xanh bổ nhào lên sương rượu, sương rượu dung nhập vào trong nước biển, ngày càng ít đi, cuối cùng không còn sót lại chút nào. Mà một thành thanh đồng chân nguyên kia, cũng hư không tiêu thất đi một nửa thể tích, chỉ còn lại nửa thành."
+    },
+    {
+      "segment_id": "0026",
+      "source": "但这半成真元，却比先前的更加凝练。原本的真元，是翠绿色，散发着铜的光泽。现在的这股真元，虽然同样有一种铜的色泽，但是绿色却更深一层，是苍绿色。",
+      "target": "Nhưng nửa thành chân nguyên này, lại càng ngưng luyện hơn so với trước đó. Chân nguyên ban đầu là màu xanh biếc, tỏa ra ánh sáng của đồng. Luồng chân nguyên hiện tại, tuy rằng cũng có sắc trạch của đồng, nhưng màu xanh lại sâu hơn một tầng, là màu xanh thẫm."
+    },
+    {
+      "segment_id": "0027",
+      "source": "苍绿色真元，是一转中阶蛊师才具备的真元。酒虫的作用，就是凝练真元，将蛊师的真元提升一个小境界！",
+      "target": "Chân nguyên màu xanh thẫm, là chân nguyên mà Cổ sư nhất chuyển trung giai mới có. Tác dụng của Tửu trùng, chính là ngưng luyện chân nguyên, nâng chân nguyên của Cổ sư lên một tiểu cảnh giới!"
+    },
+    {
+      "segment_id": "0028",
+      "source": "蛊师有九大境界，从低到高分外一转、二转，直至九转。每一大境界中又细分四个小境界，分别是初阶、中阶、高阶和巅峰。",
+      "target": "Cổ sư có chín đại cảnh giới, từ thấp đến cao chia thành nhất chuyển, nhị chuyển, cho đến cửu chuyển. Trong mỗi đại cảnh giới lại chia nhỏ thành bốn tiểu cảnh giới, lần lượt là sơ giai, trung giai, cao giai và đỉnh phong."
+    },
+    {
+      "segment_id": "0029",
+      "source": "方源此时只是一转初阶蛊师，但是在酒虫的帮助下，却有了半成的一转中阶的蛊师真元！",
+      "target": "Phương Nguyên lúc này chỉ là Cổ sư nhất chuyển sơ giai, thế nhưng dưới sự trợ giúp của Tửu trùng, lại có được nửa thành chân nguyên Cổ sư của nhất chuyển trung giai!"
+    },
+    {
+      "segment_id": "0030",
+      "source": "“我要凝练出半成中阶真元，就得消耗两成初阶真元。我要将空窍中四成四的元海，都转换成中阶真元，就得耗费近十八成的初阶真元。要想尽快地达成这个目标，就得借助元石了。”",
+      "target": "\"Ta muốn ngưng luyện ra nửa thành chân nguyên trung giai, thì phải tiêu hao hai thành chân nguyên sơ giai. Ta muốn chuyển hóa toàn bộ bốn phần tư nguyên hải trong không khiếu thành chân nguyên trung giai, thì phải tiêu phí gần mười tám thành chân nguyên sơ giai. Muốn nhanh chóng đạt được mục tiêu này, thì phải mượn nhờ nguyên thạch rồi.\""
+    },
+    {
+      "segment_id": "0031",
+      "source": "想到这里，方源睁开双眼，从袋子里掏出一颗鸭蛋大小的完整元石。",
+      "target": "Nghĩ tới đây, Phương Nguyên mở hai mắt ra, từ trong túi móc ra một khối nguyên thạch nguyên vẹn to cỡ quả trứng vịt."
+    },
+    {
+      "segment_id": "0032",
+      "source": "元石是一种椭圆体半透明的石块，灰白色，随着石内天然真元不断损耗，它的体型也会不断缩小。",
+      "target": "Nguyên thạch là một loại đá hình bầu dục bán trong suốt, có màu xám trắng, theo chân nguyên tự nhiên bên trong đá không ngừng hao tổn, thể hình của nó cũng sẽ không ngừng thu nhỏ lại."
+    },
+    {
+      "segment_id": "0033",
+      "source": "他右手慢慢合拢，将元石紧握在手心中，汲取着里面的天然真元，不断地补充到自己的空窍之中。",
+      "target": "Bàn tay phải của hắn từ từ nắm lại, siết chặt nguyên thạch ở trong lòng bàn tay, hấp thu chân nguyên tự nhiên bên trong đó, không ngừng bổ sung vào trong không khiếu của bản thân."
+    },
+    {
+      "segment_id": "0034",
+      "source": "空窍中原本下降的海面，随之缓慢地上升起来。",
+      "target": "Mặt biển vốn dĩ đã giảm xuống trong không khiếu, cũng theo đó chậm rãi dâng cao lên."
+    },
+    {
+      "segment_id": "0035",
+      "source": "元石就是拿来用的，方源一点也不吝啬，更不会节省。",
+      "target": "Nguyên thạch chính là để mang ra dùng, Phương Nguyên không hề keo kiệt chút nào, lại càng không tiết kiệm."
+    },
+    {
+      "segment_id": "0036",
+      "source": "“我没有靠山，没有亲朋好友的资助，所以只能靠抢劫勒索。今天只是第一次，以后每隔七天学堂发放元石补贴的时候，我就继续堵住学堂大门口。”",
+      "target": "\"Ta không có chỗ dựa, không có người thân bạn bè tài trợ, cho nên chỉ có thể dựa vào cướp bóc tống tiền. Hôm nay chỉ là lần đầu tiên, sau này cứ cách mỗi bảy ngày lúc học đường phát tiền trợ cấp nguyên thạch, ta sẽ tiếp tục chặn lại ở ngay cổng lớn học đường.\""
+    },
+    {
+      "segment_id": "0037",
+      "source": "抢劫勒索一次，怎么能满足方源的胃口。蛊师修行，元石最缺少不得了。",
+      "target": "Cướp bóc tống tiền một lần, sao có thể thỏa mãn khẩu vị của Phương Nguyên. Cổ sư tu hành, nguyên thạch là thứ không thể thiếu nhất."
+    },
+    {
+      "segment_id": "0038",
+      "source": "至于此次抢劫的影响，方源一点都不担心。",
+      "target": "Về phần ảnh hưởng của lần cướp bóc này, Phương Nguyên lại một chút cũng không lo lắng."
+    },
+    {
+      "segment_id": "0039",
+      "source": "这个世界，不同于地球。",
+      "target": "Thế giới này, không giống như Trái Đất."
+    },
+    {
+      "segment_id": "0040",
+      "source": "在地球上，学校往往都禁止斗殴，以稳定和谐为主。但是这个世界，战斗是主题。",
+      "target": "Ở trên Trái Đất, trường học thường xuyên cấm ẩu đả, lấy ổn định hài hòa làm chủ. Nhưng ở thế giới này, chiến đấu mới là chủ đề chính."
+    },
+    {
+      "segment_id": "0041",
+      "source": "不管是蛊师还是凡人，都要为了生存而战斗。有时候是和恐怖的野兽搏斗，有时候是拼战恶劣狂暴的天气，有时候为了争夺资源，和其他蛊师交战。",
+      "target": "Bất kể là Cổ sư hay là phàm nhân, đều phải chiến đấu vì sinh tồn. Có lúc là vật lộn cùng dã thú khủng bố, có lúc là tử chiến với thời tiết ác liệt cuồng bạo, có lúc vì tranh đoạt tài nguyên mà giao chiến với các Cổ sư khác."
+    },
+    {
+      "segment_id": "0042",
+      "source": "因此有节制的打架斗殴，反而被人们所鼓励和提倡。",
+      "target": "Bởi vậy đánh lộn ẩu đả có chừng mực, ngược lại còn được mọi người khuyến khích và cổ xúy."
+    },
+    {
+      "segment_id": "0043",
+      "source": "从小到大，从打架斗殴到生死激战，这是大多数人类的生活写照。",
+      "target": "Từ nhỏ đến lớn, từ đánh lộn ẩu đả cho đến kịch chiến sinh tử, đây chính là bức tranh chân thực về cuộc sống của đại đa số nhân loại."
+    },
+    {
+      "segment_id": "0044",
+      "source": "这个世界面积广大无边，单单方源生活的南疆，就比七八个地球的总面积还要广阔。这里的生活环境十分恶劣，人类通常以家族的形式，建造山寨，龟缩一隅。",
+      "target": "Diện tích của thế giới này rộng lớn vô biên, chỉ riêng Nam Cương nơi Phương Nguyên sinh sống, đã rộng lớn hơn tổng diện tích của bảy tám Trái Đất. Môi trường sống ở nơi này vô cùng ác liệt, nhân loại thường tồn tại dưới hình thức gia tộc, xây dựng sơn trại, co cụm ở một góc."
+    },
+    {
+      "segment_id": "0045",
+      "source": "每隔一段时间，都有兽潮，或者是极恶天气，来冲击山寨。",
+      "target": "Cứ cách một khoảng thời gian, lại có thú triều, hoặc là thời tiết cực kỳ tồi tệ, đến càn quét sơn trại."
+    },
+    {
+      "segment_id": "0046",
+      "source": "蛊师成为守护山寨的中坚力量，每年减员的状况都比较严重。",
+      "target": "Cổ sư trở thành lực lượng trung kiên thủ hộ sơn trại, tình trạng thương vong tổn thất hàng năm đều tương đối nghiêm trọng."
+    },
+    {
+      "segment_id": "0047",
+      "source": "生活需要有强大战斗意志的人。家族需要战斗蛊师，从不嫌多。",
+      "target": "Cuộc sống cần có những người mang ý chí chiến đấu cường đại. Gia tộc cần Cổ sư chiến đấu, có bao nhiêu cũng chưa bao giờ là đủ."
+    },
+    {
+      "segment_id": "0048",
+      "source": "况且，方源出手是有分寸的。",
+      "target": "Huống hồ, Phương Nguyên xuất thủ là có chừng mực."
+    },
+    {
+      "segment_id": "0049",
+      "source": "他从不攻击下巴，因为这会容易造成颅底骨折，容易出人命。也不攻击别人的后脑勺，打斗的时候，他没有用拳，也没有用肘，或手指戳，而是用的手掌。踢脚的次数也屈指可数。",
+      "target": "Hắn chưa bao giờ tấn công vào cằm, bởi vì điều này sẽ dễ gây ra nứt xương sọ, dễ dẫn đến chết người. Cũng không tấn công vào gáy của người khác, lúc đánh nhau, hắn không hề dùng nắm đấm, cũng không dùng cùi chỏ, hoặc dùng ngón tay chọc, mà là dùng lòng bàn tay. Số lần tung cước đá cũng chỉ đếm được trên đầu ngón tay."
+    },
+    {
+      "segment_id": "0050",
+      "source": "倒下去的学员，没有重伤，顶多是轻伤。",
+      "target": "Những học viên ngã gục, đều không bị trọng thương, cùng lắm chỉ là bị thương nhẹ."
+    },
+    {
+      "segment_id": "0051",
+      "source": "方源并不嗜杀，他只是把杀当做一种手段。",
+      "target": "Phương Nguyên hoàn toàn không hiếu sát, hắn chỉ coi việc giết chóc như một loại thủ đoạn."
+    },
+    {
+      "segment_id": "0052",
+      "source": "每次动手，他都有明确的目标。什么样的手段，是能让他达到目标的捷径，他就用哪一个。",
+      "target": "Mỗi lần động thủ, hắn đều có mục tiêu vô cùng rõ ràng. Thủ đoạn nào có thể giúp hắn đạt được mục tiêu bằng con đường ngắn nhất, thì hắn sẽ dùng thủ đoạn đó."
+    },
+    {
+      "segment_id": "0053",
+      "source": "换句话说，他行事不择手段。",
+      "target": "Nói cách khác, hắn hành sự không từ thủ đoạn."
+    },
+    {
+      "segment_id": "0054",
+      "source": "……",
+      "target": "..."
+    },
+    {
+      "segment_id": "0055",
+      "source": "阴云漂浮过来，遮盖住月光。",
+      "target": "Mây đen trôi lững lờ tới, che khuất đi ánh trăng."
+    },
+    {
+      "segment_id": "0056",
+      "source": "一层阴影笼罩住古月山寨。",
+      "target": "Một tầng bóng ma bao trùm lấy sơn trại Cổ Nguyệt."
+    },
+    {
+      "segment_id": "0057",
+      "source": "更夫梆、梆、梆地敲着梆子，提示人们已经是深夜，小心火烛，小心防范野兽袭击，以及可能潜入进来的外寨蛊师。",
+      "target": "Phu canh đánh cắc, cắc, cắc vang lên những tiếng gõ mõ canh, nhắc nhở mọi người đã là đêm khuya, cẩn thận củi lửa, cẩn thận đề phòng dã thú tập kích, cùng với Cổ sư ngoại trại có khả năng lẻn vào."
+    },
+    {
+      "segment_id": "0058",
+      "source": "山寨中还有不少灯火未熄。",
+      "target": "Trong sơn trại vẫn còn không ít đèn đuốc chưa tắt."
+    },
+    {
+      "segment_id": "0059",
+      "source": "在赤之分家，古月赤练的书房中，灯火明亮。",
+      "target": "Tại Xích chi phân gia, trong thư phòng của Cổ Nguyệt Xích Luyện, đèn đuốc sáng trưng."
+    },
+    {
+      "segment_id": "0060",
+      "source": "这个位高权重的老人，正以一种温和的语气，慰问自己的孙子古月赤城：“听说你今天被那方源打了？”",
+      "target": "Vị lão nhân chức cao quyền trọng này, đang dùng một loại ngữ khí ôn hòa, an ủi cháu trai Cổ Nguyệt Xích Thành của mình: \"Nghe nói hôm nay cháu bị tên Phương Nguyên kia đánh?\""
+    },
+    {
+      "segment_id": "0061",
+      "source": "古月赤城右眼黑了一圈，他气愤地道：“是的，爷爷。方源那个家伙，只是区区丙等，竟然如此嚣张。他把我们都堵在门口，不顾同窗的情谊，抢劫我们的元石。更可气的是，学堂方面居然睁一只眼闭一只眼。直到方源扬长而去，侍卫们才赶过来。爷爷，这次您可得帮孙儿出这口恶气啊！”",
+      "target": "Mắt phải của Cổ Nguyệt Xích Thành đen thui một vòng, gã tức giận nói: \"Vâng, thưa gia gia. Tên Phương Nguyên kia, chỉ là loại bính đẳng cỏn con, vậy mà lại phách lối đến thế. Hắn chặn tất cả chúng cháu lại ở cửa, chẳng màng đến tình nghĩa đồng môn, cướp đoạt nguyên thạch của chúng cháu. Đáng giận hơn nữa là, phía học đường lại mắt nhắm mắt mở làm ngơ. Cho đến lúc Phương Nguyên nghênh ngang rời đi, bọn thị vệ mới chạy tới. Gia gia, lần này ngài phải giúp cháu xả cục tức này mới được!\""
+    },
+    {
+      "segment_id": "0062",
+      "source": "古月赤练却摇摇头：“这是你们小辈之间的事情。你也只不过被勒索了区区一块元石，更没有受到重伤，爷爷我师出无名啊。况且就算你被打成重伤，爷爷也不会为你出头的，你明白为什么吗？”",
+      "target": "Cổ Nguyệt Xích Luyện lại lắc đầu: \"Đây là chuyện giữa đám tiểu bối các cháu. Cháu cũng chỉ bị tống tiền có một khối nguyên thạch cỏn con, càng không bị trọng thương, gia gia ta sư xuất vô danh a. Huống hồ cho dù cháu bị đánh thành trọng thương, gia gia cũng sẽ không ra mặt thay cho cháu đâu, cháu có hiểu tại sao không?\""
+    },
+    {
+      "segment_id": "0063",
+      "source": "古月赤城愣住了，他苦苦思索，半晌口中迟疑地道：“爷爷，我有些懂你的意思。您是希望我靠自己的力量，找回场子是吗？”",
+      "target": "Cổ Nguyệt Xích Thành sửng sốt, gã đăm chiêu suy nghĩ, hồi lâu sau mới ngập ngừng nói: \"Gia gia, cháu có hơi hiểu ý của ngài. Ngài là hy vọng cháu dựa vào sức mạnh của chính bản thân mình, tìm lại thể diện có đúng không?\""
+    },
+    {
+      "segment_id": "0064",
+      "source": "“你只是理解了一个方面。”古月赤练点点头，“你要记住，你不仅仅只代表个人，还代表我们赤之分脉的形象。我们赤家和漠家对峙多年，你的一举一动就代表着赤家未来的希望。爷爷可以暗地里帮助你，但是你必须竖立起自强自立的形象，否则支持我们的家老们看不到未来的希望，都会舍我们赤家而去。”",
+      "target": "\"Cháu mới chỉ hiểu được một khía cạnh.\" Cổ Nguyệt Xích Luyện gật đầu, \"Cháu phải nhớ kỹ, cháu không chỉ đại diện cho cá nhân, mà còn đại diện cho hình ảnh của Xích chi phân mạch chúng ta. Xích gia ta và Mạc gia đã đối đầu nhiều năm, nhất cử nhất động của cháu chính là đại diện cho hy vọng tương lai của Xích gia. Gia gia có thể ngấm ngầm giúp đỡ cháu, nhưng cháu bắt buộc phải dựng lên hình tượng tự cường tự lập, bằng không những gia lão đang ủng hộ chúng ta không nhìn thấy hy vọng vào tương lai, sẽ bỏ lại Xích gia chúng ta mà đi hết.\""
+    },
+    {
+      "segment_id": "0065",
+      "source": "说到这里，古月赤练叹息一声：“这也是为什么，爷爷要帮助你作弊，让你冒充乙等资质的原因。我们赤家需要一个强有力的继承人，才能让那些支持我们的人坚持下去。”",
+      "target": "Nói tới đây, Cổ Nguyệt Xích Luyện thở dài một tiếng: \"Đây cũng là lý do tại sao, gia gia lại phải giúp cháu gian lận, để cháu giả mạo tư chất ất đẳng. Xích gia chúng ta cần một người thừa kế mạnh mẽ có năng lực, thì mới có thể khiến những người ủng hộ chúng ta kia tiếp tục kiên trì.\""
+    },
+    {
+      "segment_id": "0066",
+      "source": "古月赤城这才恍然：“爷爷，孙儿懂了。”",
+      "target": "Cổ Nguyệt Xích Thành lúc này mới chợt hiểu ra: \"Gia gia, tôn nhi hiểu rồi.\""
+    },
+    {
+      "segment_id": "0067",
+      "source": "古月赤练摇头：“光懂还没有用，要去努力奋发。方源这件事是个小麻烦，你接下来须勤学苦练基本拳脚，把场子找回来。同时，也不要忘了，努力修行，早日晋升中阶。最好是夺得班头的位置，这是莫大的荣耀，对我们赤家也是一种帮助。”",
+      "target": "Cổ Nguyệt Xích Luyện lắc đầu: \"Mới chỉ hiểu thôi thì vẫn chưa ăn thua, mà phải đi nỗ lực phấn đấu. Chuyện của Phương Nguyên lần này là một cái rắc rối nhỏ, tiếp theo cháu phải cần cù khổ luyện quyền cước cơ bản, tìm lại thể diện. Đồng thời, cũng không được quên, nỗ lực tu hành, sớm ngày thăng cấp trung giai. Tốt nhất là đoạt được vị trí lớp trưởng, đây là vinh quang to lớn, đối với Xích gia chúng ta cũng là một loại trợ giúp.\""
+    },
+    {
+      "segment_id": "0068",
+      "source": "“是的，爷爷。”古月赤城大声应和。",
+      "target": "\"Vâng thưa gia gia.\" Cổ Nguyệt Xích Thành lớn tiếng đáp lời."
+    },
+    {
+      "segment_id": "0069",
+      "source": "“呵呵呵，这股精神气才像我们赤脉的继承人模样。孙儿你好好努力，爷爷为尽全力帮助你的。”",
+      "target": "\"Ha ha ha, luồng tinh thần khí này mới giống dáng vẻ người thừa kế của Xích mạch chúng ta chứ. Tôn nhi cháu hãy hảo hảo nỗ lực, gia gia sẽ dốc hết toàn lực giúp đỡ cháu.\""
+    }
+  ]
+}
+```

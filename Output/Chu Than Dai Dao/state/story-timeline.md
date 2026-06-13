@@ -78,3 +78,8 @@ Chapter 11 completed via pipeline.
 
 ### Summary
 Chapter 11 completed via pipeline.
+
+## Chapter 0012 - Chương 12: Sóng ngầm trong hiện thực
+
+### Summary
+Chapter 12 completed via pipeline.
