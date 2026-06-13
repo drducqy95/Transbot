@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-13T21:00:10.631549+07:00",
+  "updated_at": "2026-06-14T00:00:06.155766+07:00",
   "books": [
     {
       "branch": "Chu Than Dai Dao",
@@ -63,7 +63,7 @@
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Chu Than Dai Dao/README.md",
       "toc_path": "Output/Chu Than Dai Dao/toc.json",
-      "updated_at": "2026-06-13T21:00:05.524822+07:00"
+      "updated_at": "2026-06-14T00:00:03.105102+07:00"
     },
     {
       "branch": "Chu Than Quat Khoi",
@@ -113,7 +113,7 @@
       "total_chapters": 852,
       "latest_chapter": "0031 清点",
       "detail": "Tiến độ: 32/852 chương | Mới nhất: 0031 清点",
-      "updated_at": "2026-06-13T21:00:05.804633+07:00",
+      "updated_at": "2026-06-14T00:00:03.292257+07:00",
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Chu Than Quat Khoi/README.md",
       "toc_path": "Output/Chu Than Quat Khoi/toc.json"
@@ -172,7 +172,7 @@
       "total_chapters": 1915,
       "latest_chapter": "Chương 37: Ma đầu bước trong ánh sáng",
       "detail": "Tiến độ: 37/1915 chương | Mới nhất: Chương 37: Ma đầu bước trong ánh sáng",
-      "updated_at": "2026-06-13T21:00:06.420454+07:00",
+      "updated_at": "2026-06-14T00:00:03.660960+07:00",
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Co Chan Nhan/README.md",
       "toc_path": "Output/Co Chan Nhan/toc.json"
@@ -200,7 +200,7 @@
       "total_chapters": 968,
       "latest_chapter": "Chương 53: Chân đế giáo nghĩa của Thần Cầu Tri",
       "detail": "Tiến độ: 55/968 chương | Mới nhất: Chương 36: Cậu biết đấy, miệng tôi kín nhất rồi",
-      "updated_at": "2026-06-13T21:24:47+07:00",
+      "updated_at": "2026-06-14T00:58:50+07:00",
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Dung Goi Ta Ta Than/README.md",
       "toc_path": "Output/Dung Goi Ta Ta Than/toc.json"
@@ -267,7 +267,7 @@
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Phi Pham Hong Hoang/README.md",
       "toc_path": "Output/Phi Pham Hong Hoang/toc.json",
-      "updated_at": "2026-06-13T21:00:07.558318+07:00"
+      "updated_at": "2026-06-14T00:00:04.473276+07:00"
     },
     {
       "branch": "Ta Te Bao Nguc Giam",
@@ -292,7 +292,7 @@
       "total_chapters": 2169,
       "latest_chapter": "0030 世界（上）",
       "detail": "Tiến độ: 30/2169 chương | Mới nhất: 0030 世界（上）",
-      "updated_at": "2026-06-13T21:00:08.093389+07:00",
+      "updated_at": "2026-06-14T00:00:04.841259+07:00",
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Ta Te Bao Nguc Giam/README.md",
       "toc_path": "Output/Ta Te Bao Nguc Giam/toc.json"
@@ -351,7 +351,7 @@
       "total_chapters": 1135,
       "latest_chapter": "0031 降神术",
       "detail": "Tiến độ: 31/1135 chương | Mới nhất: 0031 降神术",
-      "updated_at": "2026-06-13T21:00:08.473553+07:00",
+      "updated_at": "2026-06-14T00:00:05.039747+07:00",
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Thai Nhat Dao Qua/README.md",
       "toc_path": "Output/Thai Nhat Dao Qua/toc.json"
@@ -418,7 +418,7 @@
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han/README.md",
       "toc_path": "Output/Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han/toc.json",
-      "updated_at": "2026-06-13T21:00:08.799204+07:00"
+      "updated_at": "2026-06-14T00:00:05.320693+07:00"
     },
     {
       "branch": "Tieu Dao Mong Duong",
@@ -443,7 +443,7 @@
       "total_chapters": 1184,
       "latest_chapter": "Chương 39: Hạ sát",
       "detail": "Tiến độ: 40/1184 chương | Mới nhất: Chương 39: Hạ sát",
-      "updated_at": "2026-06-13T21:00:09.156550+07:00",
+      "updated_at": "2026-06-14T00:00:05.544073+07:00",
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Tieu Dao Mong Duong/README.md",
       "toc_path": "Output/Tieu Dao Mong Duong/toc.json"
@@ -516,7 +516,7 @@
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Tu Chan Bon Van Nam/README.md",
       "toc_path": "Output/Tu Chan Bon Van Nam/toc.json",
-      "updated_at": "2026-06-13T21:00:10.630565+07:00"
+      "updated_at": "2026-06-14T00:00:06.155572+07:00"
     },
     {
       "branch": "Hong Hoang Lich_Zhttty",
@@ -971,7 +971,7 @@
     }
   ],
   "metadata": {
-    "generated_at": "2026-06-13T21:24:47+07:00",
+    "generated_at": "2026-06-14T00:58:50+07:00",
     "total_books": 17,
     "source": "Dichtrung/Output"
   },
@@ -1233,70 +1233,70 @@
       "current_chapter": 38,
       "total_chapters": 1602,
       "completed_chapters": 38,
-      "last_updated": "2026-06-13"
+      "last_updated": "2026-06-14"
     },
     "Chu Than Quat Khoi": {
       "display_title": "Chủ Thần Trỗi Dậy",
       "current_chapter": 32,
       "total_chapters": 852,
       "completed_chapters": 32,
-      "last_updated": "2026-06-13"
+      "last_updated": "2026-06-14"
     },
     "Co Chan Nhan": {
       "display_title": "Cổ Chân Nhân",
       "current_chapter": 37,
       "total_chapters": 1915,
       "completed_chapters": 37,
-      "last_updated": "2026-06-13"
+      "last_updated": "2026-06-14"
     },
     "Dung Goi Ta Ta Than": {
       "display_title": "Đừng Gọi Ta Tà Thần - Dung Goi Ta Ta Than",
       "current_chapter": 55,
       "total_chapters": 968,
       "completed_chapters": 55,
-      "last_updated": "2026-06-13"
+      "last_updated": "2026-06-14"
     },
     "Phi Pham Hong Hoang": {
       "display_title": "Phi Phàm Hồng Hoang",
       "current_chapter": 40,
       "total_chapters": 3381,
       "completed_chapters": 40,
-      "last_updated": "2026-06-13"
+      "last_updated": "2026-06-14"
     },
     "Ta Te Bao Nguc Giam": {
       "display_title": "Ta Te Bao Nguc Giam",
       "current_chapter": 30,
       "total_chapters": 2169,
       "completed_chapters": 30,
-      "last_updated": "2026-06-13"
+      "last_updated": "2026-06-14"
     },
     "Thai Nhat Dao Qua": {
       "display_title": "Thái Nhất Đạo Quả",
       "current_chapter": 31,
       "total_chapters": 1135,
       "completed_chapters": 31,
-      "last_updated": "2026-06-13"
+      "last_updated": "2026-06-14"
     },
     "Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han": {
       "display_title": "Theo Tử Thần Bắt Đầu Đánh Xuyên Qua Tổng Mạn Vô Hạn",
       "current_chapter": 36,
       "total_chapters": 1187,
       "completed_chapters": 36,
-      "last_updated": "2026-06-13"
+      "last_updated": "2026-06-14"
     },
     "Tieu Dao Mong Duong": {
       "display_title": "Tiểu Đào Mông Đường",
       "current_chapter": 40,
       "total_chapters": 1184,
       "completed_chapters": 40,
-      "last_updated": "2026-06-13"
+      "last_updated": "2026-06-14"
     },
     "Tu Chan Bon Van Nam": {
       "display_title": "Tu Chân Bốn Vạn Năm",
       "current_chapter": 36,
       "total_chapters": 3339,
       "completed_chapters": 36,
-      "last_updated": "2026-06-13"
+      "last_updated": "2026-06-14"
     }
   }
 }

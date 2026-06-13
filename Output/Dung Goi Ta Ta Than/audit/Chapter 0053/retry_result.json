@@ -1,19 +1,12 @@
-CJK leftover detected in segment `0019`:
+CJK leftovers found. Need file path to fix.
 
-**Issue:** `培特` (Chinese name) not translated
+Segments with Chinese characters in target (Vietnamese) text:
+- 003: "培特" → "Pate" 
+- 013: "培特" → "Pate"
+- 015: "培特" → "Pate"
+- 027: "培特" → "Pate"
+- 033: "培特" → "Pate"
+- 040: "培ت" → "Pate" (has Arabic char too)
+- 051: "培特" → "Pate"
 
-**Context:** "Lần trước培特không đọc kỹ..." 
-
-培特 = Pét (Vietnamese transliteration) or培特 should be培特 → Pét/Peiter depending on context
-
-**Fix:**
-
-```json
-{
-  "segment_id": "0019",
-  "source": "上回培特没仔细看完整的活动介绍，结果跟其他人一样被蕾娜鄙视了一番。",
-  "target": "Lần trước Pét không đọc kỹ phần giới thiệu sự kiện đầy đủ, kết quả bị Lena khinh thường như những người khác."
-}
-```
-
-**Note:** Verify character name consistency across chapter. If培特 appears elsewhere as "Peiter" or other spelling, use that.
+Provide file path or confirm auto-fix to transliterate all "培特" → "Pate".

@@ -4,21 +4,23 @@
   "rejected": [
     {
       "term": "上回培特没",
-      "reason": "Fragment. Not complete term/sentence. Context unclear."
+      "reason": "Incomplete Chinese fragment. Not translatable term."
     },
     {
       "term": "活动期间，正",
-      "reason": "Fragment. Incomplete sentence. Context unclear."
+      "reason": "Incomplete Chinese fragment. Not translatable term."
     },
     {
       "term": "的盖尔听得有",
-      "reason": "Fragment. Incomplete sentence. Context unclear."
+      "reason": "Incomplete Chinese fragment. Not translatable term."
     }
   ],
   "uncertain": [
     {
       "term": "奥术飞弹",
-      "reason": "Complete term but no glossary entry. Likely spell name (Arcane Missile/Magic Missile). Need context: game? novel? If fantasy setting → may translate as【Phi Đạn Huyền Thuật】 or similar. Recommend add to glossary if recurring."
+      "translation": "【Huyền Thuật Phi Đạn】",
+      "reason": "Valid magic spell name. Standard pattern (奥术=Huyền thuật, 飞弹=Phi đạn). Needs context confirm if official spell in story.",
+      "recommendation": "Approve if spell appears in source text. Add to glossary with brackets per established convention."
     }
   ]
 }

@@ -87,10 +87,6 @@ N/A
 N/A
 
 ## Story Timeline (latest)
-Chapter 0018 - Chương 18: Cô từng nghe nói đến Thần Cầu Tri chưa?
-
-### Summary
-Chapter 18 completed via pipeline.
 
 ## Chapter 0019 - Chương 19: Điểm tri thức, cơ chế phần thưởng
 
@@ -251,6 +247,11 @@ Chapter 30 completed via pipeline.
 
 ### Summary
 Chapter 36 completed via pipeline.
+
+## Chapter 0053 - Chương 53: Chân đế giáo nghĩa của Thần Cầu Tri
+
+### Summary
+Chapter 53 completed via pipeline.
 
 
 ## Source Chapter 53 - 0053 求知之神的教义真谛
@@ -569,15 +570,15 @@ Chapter 36 completed via pipeline.
 [
   {
     "segment_id": "0001",
-    "draft": "# thứ53 chapter; seal; section; movement (of symphony); camphor laurel tree; lumber; surname Zhang ham học hỏi (possessive particle, literary equivalent of 的); him; her; it God; unusual; mysterious; soul; spirit; divine essence; lively; spiritual being; abbr. for 神舟[shen2 zhou1], \"Divine boat\" PRC series of manned spacecraft; CL:個|个[ge4] /như thế/đích giáo nghĩa chân lý"
+    "draft": "# thứ53 chương ham học hỏi tới thần như thế giáo nghĩa chân lý"
   },
   {
     "segment_id": "0002",
-    "draft": "“ đả kích những kia lạc đàn /như thế/đích máu răng giúp thành viên， mặc dù có thể đánh kích their; theirs overweening attitude; threatening manner， nhưng thực ra chúng ta/chúng tôi/chúng tao/chúng tớ không có chạm tới vấn đề bản chất！”"
+    "draft": "“ đả kích những kia lạc đàn như thế máu răng giúp thành viên， mặc dù có thể đánh kích bọn họ như thế phách lối khí diễm， nhưng thực ra chúng ta không có chạm tới vấn đề bản chất！”"
   },
   {
     "segment_id": "0003",
-    "draft": "to cultivate; to earth up đặc biệt phân tích nói：“ bình thường thành viên， đối với máu răng giúp mà nói thực ra muốn bao nhiêu có bao nhiêu。”"
+    "draft": "đắp thêm đặc biệt phân tích nói：“ bình thường thành viên， đối với máu răng giúp mà nói thực ra muốn bao nhiêu có bao nhiêu。”"
   },
   {
     "segment_id": "0004",
@@ -585,51 +586,51 @@ Chapter 36 completed via pipeline.
   },
   {
     "segment_id": "0005",
-    "draft": "“ mấu chốt là， máu răng giúp y nguyên có thể dựa vào lấy bọn họ/chúng nó/bọn chúng/họ đầu nhập vào /như thế/đích ✚[xiéshén] tà thần; quỷ thần gian ác; ác thần tiếp tục một nhóm một nhóm địa chế tạo mới thủ hạ。”"
+    "draft": "“ mấu chốt là， máu răng giúp y nguyên có thể dựa vào lấy bọn họ đầu nhập vào như thế tà thần tiếp tục một nhóm một nhóm địa chế tạo mới thủ hạ。”"
   },
   {
     "segment_id": "0006",
-    "draft": "“ bọn họ/chúng nó/bọn chúng/họ chẳng qua là nghe theo phía trên lão đại mệnh lệnh làm việc。”"
+    "draft": "“ bọn họ chẳng qua là nghe theo phía trên lão đại mệnh lệnh làm việc。”"
   },
   {
     "segment_id": "0007",
-    "draft": "“ nghĩ thật sự giải quyết ✚[xiéshén] tà thần; quỷ thần gian ác; ác thần /như thế/đích uy hiếp， chỉ dựa vào ra sức đánh những thứ này lạc đàn /như thế/đích thằng nhóc là xa xa không đủ。”"
+    "draft": "“ nghĩ thật sự giải quyết tà thần như thế uy hiếp， chỉ dựa vào ra sức đánh những thứ này lạc đàn như thế thằng nhóc là xa xa không đủ。”"
   },
   {
     "segment_id": "0008",
-    "draft": "“ chúng ta/chúng tôi/chúng tao/chúng tớ nhất định phải có đầy đủ lực lượng， thật sự đánh vào máu răng giúp control địa bàn， tiêu diệt với ✚[xiéshén] tà thần; quỷ thần gian ác; ác thần có liên quan nhân vật mấu chốt！”"
+    "draft": "“ chúng ta nhất định phải có đầy đủ lực lượng， thật sự đánh vào máu răng giúp khống chế như thế địa bàn， tiêu diệt với tà thần có liên quan nhân vật mấu chốt！”"
   },
   {
     "segment_id": "0009",
-    "draft": "“ tỉ như—— máu răng giúp /như thế/đích mấy tên đầu mục， còn có thủ lĩnh của bọn hắn đức nghĩ gift; propriety; rite; CL:份[fen4]！”"
+    "draft": "“ tỉ như—— máu răng giúp như thế mấy tên đầu mục， còn có thủ lĩnh của bọn hắn đức nghĩ lễ nghi！”"
   },
   {
     "segment_id": "0010",
-    "draft": "bên cạnh chính luyện tập lấy nhanh chóng cấu trúc【 áo thuật bay đạn】 /như thế/đích đóng ngươi nghe được có hơi phát sầu。"
+    "draft": "bên cạnh chính luyện tập lấy nhanh chóng cấu trúc【 áo thuật bay đạn】 như thế đóng ngươi nghe được có hơi phát sầu。"
   },
   {
     "segment_id": "0011",
-    "draft": "“ đã bình thường thành viên đều có thể có1 giai thực lực， đó/kia/cái đó/cái ấy/cái kia/vậy tiểu đầu mục chỉ sợ ít nhất cũng là2 giai /như thế/đích tiêu chuẩn， lại càng không cần phải nói thủ lĩnh /rồi/sao。”"
+    "draft": "“ đã bình thường thành viên đều có thể có1 giai thực lực， đó tiểu đầu mục chỉ sợ ít nhất cũng là2 giai như thế tiêu chuẩn， lại càng không cần phải nói thủ lĩnh rồi。”"
   },
   {
     "segment_id": "0012",
-    "draft": "“ chúng ta/chúng tôi/chúng tao/chúng tớ bây giờ /như thế/đích trình độ， thật có thể cùng bọn hắn đối kháng chính diện không？”"
+    "draft": "“ chúng ta bây giờ như thế trình độ， thật có thể cùng bọn hắn đối kháng chính diện không？”"
   },
   {
     "segment_id": "0013",
-    "draft": "to cultivate; to earth up đặc biệt đầu tiên là lắc đầu：“ không quá có thể。”"
+    "draft": "đắp thêm đặc biệt đầu tiên là lắc đầu：“ không quá có thể。”"
   },
   {
     "segment_id": "0014",
-    "draft": "ham học hỏi church các tín đồ đả kích bình thường thành viên đều phải moá quần ẩu chiến thuật， nhặt đúng chỗ đan /như thế/đích mềm thị từ mãnh bóp， chính diện với2 giai、3 giai /như thế/đích địch nhân đối đầu， lại không có cách nào vượt lên trước tay đánh lén， thắng tính scarcely; hardly any。"
+    "draft": "ham học hỏi giáo phái như thế các tín đồ đả kích bình thường thành viên đều phải moá quần ẩu chiến thuật， nhặt đúng chỗ đan như thế mềm thị từ mãnh bóp， chính diện với2 giai、3 giai như thế địch nhân đối đầu， lại không có cách nào vượt lên trước tay đánh lén， thắng tính dường như không có。"
   },
   {
     "segment_id": "0015",
-    "draft": "“ chẳng qua……” to cultivate; to earth up đặc biệt lời nói xoay chuyển，“ ta có một cái ý nghĩ。”"
+    "draft": "“ chẳng qua……” đắp thêm đặc biệt lời nói xoay chuyển，“ ta có một cái ý nghĩ。”"
   },
   {
     "segment_id": "0016",
-    "draft": "“ có lẽ nói， ta dường như phỏng đoán at last; finally; in the end; has arrived; when subj. arrives at a location or time vĩ đại /như thế/đích ham học hỏi (possessive particle, literary equivalent of 的); him; her; it ý chỉ của thần。”"
+    "draft": "“ có lẽ nói， ta dường như phỏng đoán đến rồi vĩ đại như thế ham học hỏi tới ý chỉ của thần。”"
   },
   {
     "segment_id": "0017",
@@ -637,15 +638,15 @@ Chapter 36 completed via pipeline.
   },
   {
     "segment_id": "0018",
-    "draft": "【 hoạt động trong lúc đó， chính nghĩa điểm số exchangeable; convertible là tương ứng tri thức điểm số。 với theo hoạt động tiến trình， cung cấp different đổi tỉ lệ。】"
+    "draft": "【 hoạt động trong lúc đó， chính nghĩa điểm số có thể đổi là tương ứng tri thức điểm số。 với theo hoạt động tiến trình， cung cấp khác nhau như thế đổi tỉ lệ。】"
   },
   {
     "segment_id": "0019",
-    "draft": "lần trước to cultivate; to earth up đặc biệt không có nhìn kỹ hoàn chỉnh hoạt động giới thiệu， kết quả với những người khác giống nhau bị nụ na rất khinh bỉ một phen。"
+    "draft": "lần trước đắp thêm đặc biệt không có nhìn kỹ hoàn chỉnh hoạt động giới thiệu， kết quả với những người khác giống nhau bị nụ na rất khinh bỉ một phen。"
   },
   {
     "segment_id": "0020",
-    "draft": "việc khác sau nhưng chuyên môn lại hảo hảo đọc một lần， bởi vậy lưu ý at last; finally; in the end; has arrived; when subj. arrives at a location or time những lời này。"
+    "draft": "việc khác sau nhưng chuyên môn lại hảo hảo đọc một lần， bởi vậy lưu ý đến rồi những lời này。"
   },
   {
     "segment_id": "0021",
@@ -653,31 +654,31 @@ Chapter 36 completed via pipeline.
   },
   {
     "segment_id": "0022",
-    "draft": "“ vĩ đại /như thế/đích ham học hỏi (possessive particle, literary equivalent of 的); him; her; it God; unusual; mysterious; soul; spirit; divine essence; lively; spiritual being; abbr. for 神舟[shen2 zhou1], \"Divine boat\" PRC series of manned spacecraft; CL:個|个[ge4] thực ra already at an earlier time gợi ý chúng ta/chúng tôi/chúng tao/chúng tớ！”"
+    "draft": "“ vĩ đại như thế ham học hỏi tới thần thực ra sớm thì gợi ý chúng ta！”"
   },
   {
     "segment_id": "0023",
-    "draft": "“ trận chiến tranh này không phải moá tiêu diệt a few; several; how many lưu manh có thể kết thúc /như thế/đích， mà là một hồi phần giai đoạn、 có trình tự /như thế/đích đấu tranh！”"
+    "draft": "“ trận chiến tranh này không phải moá tiêu diệt vài cái lưu manh có thể kết thúc như thế， mà là một hồi phần giai đoạn、 có trình tự như thế đấu tranh！”"
   },
   {
     "segment_id": "0024",
-    "draft": "“ chúng ta/chúng tôi/chúng tao/chúng tớ lúc trước làm những kia， thực ra chỉ có thể coi là là chiến tranh /như thế/đích giai đoạn thứ nhất。”"
+    "draft": "“ chúng ta lúc trước làm những kia， thực ra chỉ có thể coi là là chiến tranh như thế giai đoạn thứ nhất。”"
   },
   {
     "segment_id": "0025",
-    "draft": "“ bây giờ， chúng ta/chúng tôi/chúng tao/chúng tớ nên thúc đẩy đến giai đoạn kế tiếp /rồi/sao。”"
+    "draft": "“ bây giờ， chúng ta nên thúc đẩy đến giai đoạn kế tiếp rồi。”"
   },
   {
     "segment_id": "0026",
-    "draft": "nụ na như có điều suy nghĩ nói：“ cho nên， to cultivate; to earth up đặc biệt tiên sinh ý của ngươi là， đả kích lạc đàn máu răng giúp lưu manh /như thế/đích hành động có thể kết thúc， tiếp xuống chúng ta/chúng tôi/chúng tao/chúng tớ muốn khai thác cái khác sách lược？”"
+    "draft": "nụ na như có điều suy nghĩ nói：“ cho nên， đắp thêm đặc biệt tiên sinh ý của ngươi là， đả kích lạc đàn máu răng giúp lưu manh như thế hành động có thể kết thúc， tiếp xuống chúng ta muốn khai thác cái khác sách lược？”"
   },
   {
     "segment_id": "0027",
-    "draft": "to cultivate; to earth up characteristic (feature); trait; feature; CL:個|个[ge4] head; hair style; the top; end; beginning or end; a stub; remnant; chief; boss; side; aspect; first; leading; classifier for pigs or livestock; CL:個|个[ge4] ừ một tiếng：“ không sai。”"
+    "draft": "đắp thêm đặc điểm đầu ừ một tiếng：“ không sai。”"
   },
   {
     "segment_id": "0028",
-    "draft": "“ ta đề nghị， tiếp xuống3 ngày thời gian， mọi người cùng nơi đem đầu tay còn lại chính nghĩa điểm số đều đổi ra đây， đổi lấy tự mình/chính mình/bản thân/mình/nhà cần tri thức， as far as possible đề cao tự mình/chính mình/bản thân/mình/nhà。”"
+    "draft": "“ ta đề nghị， tiếp xuống3 ngày thời gian， mọi người cùng nơi đem đầu tay còn lại chính nghĩa điểm số đều đổi ra đây， đổi lấy tự mình cần tri thức， chi bằng có thể đề cao tự mình。”"
   },
   {
     "segment_id": "0029",
@@ -685,7 +686,7 @@ Chapter 36 completed via pipeline.
   },
   {
     "segment_id": "0030",
-    "draft": "nghe được ở đây， trong tửu quán có người nhịn không được lên tiếng nghi ngờ nói：“ to cultivate; to earth up đặc biệt tiên sinh， ngươi làm sao bảo đảm ngươi đã hiểu /như thế/đích thần linh ý chỉ là surefire đâu？”"
+    "draft": "nghe được ở đây， trong tửu quán có người nhịn không được lên tiếng nghi ngờ nói：“ đắp thêm đặc biệt tiên sinh， ngươi làm sao bảo đảm ngươi đã hiểu như thế thần linh ý chỉ là chính xác như thế đâu？”"
   },
   {
     "segment_id": "0031",
@@ -693,11 +694,11 @@ Chapter 36 completed via pipeline.
   },
   {
     "segment_id": "0032",
-    "draft": "“ vì sao không trực tiếp hướng chủ ta nặc văn cầu nguyện， đề xuất hắn giúp đỡ chúng ta/chúng tôi/chúng tao/chúng tớ giải quyết thực lực không đủ để đối kháng máu răng giúp /như thế/đích vấn đề？”"
+    "draft": "“ vì sao không trực tiếp hướng chủ ta nặc văn cầu nguyện， đề xuất hắn giúp đỡ chúng ta giải quyết thực lực không đủ để đối kháng máu răng giúp như thế vấn đề？”"
   },
   {
     "segment_id": "0033",
-    "draft": "to cultivate; to earth up đặc biệt bình tĩnh giải thích：“ rất đơn giản。”"
+    "draft": "đắp thêm đặc biệt bình tĩnh giải thích：“ rất đơn giản。”"
   },
   {
     "segment_id": "0034",
@@ -705,27 +706,27 @@ Chapter 36 completed via pipeline.
   },
   {
     "segment_id": "0035",
-    "draft": "“ vĩ đại /như thế/đích ham học hỏi (possessive particle, literary equivalent of 的); him; her; it God; unusual; mysterious; soul; spirit; divine essence; lively; spiritual being; abbr. for 神舟[shen2 zhou1], \"Divine boat\" PRC series of manned spacecraft; CL:個|个[ge4]， không như cái khác thần linh như thế， he, it (pronoun used for God) nhưng từ trước đến giờ không có gì cả trực tiếp nhúng tay giải quyết chúng ta/chúng tôi/chúng tao/chúng tớ gặp phải vấn đề。”"
+    "draft": "“ vĩ đại như thế ham học hỏi tới thần， không như cái khác thần linh như thế， tha nhưng từ trước đến giờ không có gì cả trực tiếp nhúng tay giải quyết chúng ta gặp phải vấn đề。”"
   },
   {
     "segment_id": "0036",
-    "draft": "“ he, it (pronoun used for God) nhiều nhất chỉ là cung cấp đề nghị phương pháp， có lẽ， tin tức cần。”"
+    "draft": "“ tha nhiều nhất chỉ là cung cấp đề nghị phương pháp， có lẽ， tin tức cần。”"
   },
   {
     "segment_id": "0037",
-    "draft": "“ thì ngay cả ta nhóm học sẽ chiến kỹ、 ma pháp、 thần thuật， đều là thông qua tự mình/chính mình/bản thân/mình/nhà nỗ lực với theo tương quan tri thức luyện tập mới dùng nắm giữ， cũng không phải là chỉ cần cầu nguyện chủ ta rồi sẽ trực tiếp ban thưởng lực lượng。”      “ như là litany (text of a prayer) trong nói như thế。”"
+    "draft": "“ thì ngay cả ta nhóm học sẽ chiến kỹ、 ma pháp、 thần thuật， đều là thông qua tự mình nỗ lực với theo tương quan tri thức luyện tập mới dùng nắm giữ， cũng không phải là chỉ cần cầu nguyện chủ ta rồi sẽ trực tiếp ban thưởng lực lượng。”      “ như là đảo từ trong nói như thế。”"
   },
   {
     "segment_id": "0038",
-    "draft": "“ he, it (pronoun used for God) /như thế/đích tồn tại， là vì dẫn dắt chúng ta thăm dò không biết /như thế/đích lĩnh vực， chỉ dẫn chúng ta/chúng tôi/chúng tao/chúng tớ go ahead!; foremost; onward; progressional; ongoing phương hướng。”"
+    "draft": "“ tha như thế tồn tại， là vì dẫn dắt chúng ta thăm dò không biết như thế lĩnh vực， chỉ dẫn chúng ta đi tới phương hướng。”"
   },
   {
     "segment_id": "0039",
-    "draft": "“ cùng với tùy thời nói với chúng tôi， chúng ta/chúng tôi/chúng tao/chúng tớ khoảng cách đến chỗ cần đến còn có bao xa。”"
+    "draft": "“ cùng với tùy thời nói với chúng tôi， chúng ta khoảng cách đến chỗ cần đến còn có bao xa。”"
   },
   {
     "segment_id": "0040",
-    "draft": "“ này/đây/cái này ý nghĩa cái gì？” to cultivate; to earth up cố ý vị sâu xa địa dò hỏi。"
+    "draft": "“ này ý nghĩa cái gì？” đắp thêm cố ý vị sâu xa địa dò hỏi。"
   },
   {
     "segment_id": "0041",
@@ -741,19 +742,19 @@ Chapter 36 completed via pipeline.
   },
   {
     "segment_id": "0044",
-    "draft": "“ vĩ đại /như thế/đích ham học hỏi (possessive particle, literary equivalent of 的); him; her; it God; unusual; mysterious; soul; spirit; divine essence; lively; spiritual being; abbr. for 神舟[shen2 zhou1], \"Divine boat\" PRC series of manned spacecraft; CL:個|个[ge4] là hy vọng chúng ta/chúng tôi/chúng tao/chúng tớ có thể nỗ lực own nỗ lực， đi học tập、 thăm dò！”"
+    "draft": "“ vĩ đại như thế ham học hỏi tới thần là hy vọng chúng ta có thể nỗ lực tự mình như thế nỗ lực， đi học tập、 thăm dò！”"
   },
   {
     "segment_id": "0045",
-    "draft": "“ mà không phải mọi chuyện đều trông cậy vào lấy giao cho he, it (pronoun used for God) đi giải quyết！”"
+    "draft": "“ mà không phải mọi chuyện đều trông cậy vào lấy giao cho tha đi giải quyết！”"
   },
   {
     "segment_id": "0046",
-    "draft": "“ he, it (pronoun used for God) lẽ nào không thể trực tiếp dùng thần thuật đem ✚[xiéshén] tà thần; quỷ thần gian ác; ác thần tiêu diệt không？”"
+    "draft": "“ tha lẽ nào không thể trực tiếp dùng thần thuật đem tà thần tiêu diệt không？”"
   },
   {
     "segment_id": "0047",
-    "draft": "“ he, it (pronoun used for God) lẽ nào không thể trực tiếp cho chúng ta/chúng tôi/chúng tao/chúng tớ lực lượng không？”"
+    "draft": "“ tha lẽ nào không thể trực tiếp cho chúng ta lực lượng không？”"
   },
   {
     "segment_id": "0048",
@@ -761,15 +762,15 @@ Chapter 36 completed via pipeline.
   },
   {
     "segment_id": "0049",
-    "draft": "“ nhất định là bởi vì vì cầu mà biết God; unusual; mysterious; soul; spirit; divine essence; lively; spiritual being; abbr. for 神舟[shen2 zhou1], \"Divine boat\" PRC series of manned spacecraft; CL:個|个[ge4] đang dẫn đường lấy chúng ta/chúng tôi/chúng tao/chúng tớ， he, it (pronoun used for God) hy vọng chúng ta/chúng tôi/chúng tao/chúng tớ có thể thông qua own nỗ lực đi surmount difficulties， tiêu diệt demonic; iniquitous; nefarious; evil; unhealthy influences that cause disease (Chinese medicine) ác！”"
+    "draft": "“ nhất định là bởi vì vì cầu mà biết thần đang dẫn đường lấy chúng ta， tha hy vọng chúng ta có thể thông qua tự mình như thế nỗ lực đi vượt qua khó khăn， tiêu diệt không chính đáng ác！”"
   },
   {
     "segment_id": "0050",
-    "draft": "“ với lại， ham học hỏi (possessive particle, literary equivalent of 的); him; her; it God; unusual; mysterious; soul; spirit; divine essence; lively; spiritual being; abbr. for 神舟[shen2 zhou1], \"Divine boat\" PRC series of manned spacecraft; CL:個|个[ge4] thực ra cũng ở đó mỗi giờ mỗi khắc địa chú ý lấy chúng ta/chúng tôi/chúng tao/chúng tớ， he, it (pronoun used for God) lại nói với chúng tôi， hành động của chúng ta có hữu hiệu hay không， chúng ta nỗ lực có phải được đền đáp！”"
+    "draft": "“ với lại， ham học hỏi tới thần thực ra cũng ở đó mỗi giờ mỗi khắc địa chú ý lấy chúng ta， tha lại nói với chúng tôi， hành động của chúng ta có hữu hiệu hay không， chúng ta nỗ lực có phải được đền đáp！”"
   },
   {
     "segment_id": "0051",
-    "draft": "to cultivate; to earth up đặc biệt tán đồng nhẹ gật đầu：“ không sai， ta to believe; to think; to consider; to feel， đây mới là ham học hỏi (possessive particle, literary equivalent of 的); him; her; it God; unusual; mysterious; soul; spirit; divine essence; lively; spiritual being; abbr. for 神舟[shen2 zhou1], \"Divine boat\" PRC series of manned spacecraft; CL:個|个[ge4] muốn afloat giáo nghĩa chân lý！”"
+    "draft": "đắp thêm đặc biệt tán đồng nhẹ gật đầu：“ không sai， ta cho rằng， đây mới là ham học hỏi tới thần muốn truyền bá như thế giáo nghĩa chân lý！”"
   },
   {
     "segment_id": "0052",
@@ -777,15 +778,15 @@ Chapter 36 completed via pipeline.
   },
   {
     "segment_id": "0053",
-    "draft": "thần quốc trong， thời khắc chú ý lấy các tín đồ tình huống nặc văn nghe được đều nhanh không kềm được /rồi/sao。"
+    "draft": "thần quốc trong， thời khắc chú ý lấy các tín đồ tình huống nặc văn nghe được đều nhanh không kềm được rồi。"
   },
   {
     "segment_id": "0054",
-    "draft": "hắn có đó/kia/cái đó/cái ấy/cái kia/vậy yêu một nháy mắt thật /như thế/đích to miss sb; to very much want to dây cót thần dụ xuống dưới， nói cho đám này các tín đồ， các ngươi/các người/các ông/các bà/các anh/các chị/mọi người đừng có quá độ giải đọc， hắn thật không có nghĩ đó/kia/cái đó/cái ấy/cái kia/vậy yêu nhiều！"
+    "draft": "hắn có đó yêu một nháy mắt thật như thế vô cùng nghĩ dây cót thần dụ xuống dưới， nói cho đám này các tín đồ， các ngươi đừng có quá độ giải đọc， hắn thật không có nghĩ đó yêu nhiều！"
   },
   {
     "segment_id": "0055",
-    "draft": "hắn không phải không nghĩ trực tiếp ban thưởng lực lượng giúp các tín đồ problem solving。"
+    "draft": "hắn không phải không nghĩ trực tiếp ban thưởng lực lượng giúp các tín đồ giải quyết vấn đề。"
   },
   {
     "segment_id": "0056",
@@ -793,19 +794,19 @@ Chapter 36 completed via pipeline.
   },
   {
     "segment_id": "0057",
-    "draft": "nếu là hắn thật có cách có thể trực tiếp đem máu răng giúp phía sau /như thế/đích ✚[xiéshén] tà thần; quỷ thần gian ác; ác thần cho dương， nặc văn already at an earlier time gióng trống khua chiêng đất ở dưới thành khu làm trường thanh thế thật lớn thần tích nghi thức /rồi/sao。"
+    "draft": "nếu là hắn thật có cách có thể trực tiếp đem máu răng giúp phía sau như thế tà thần cho dương， nặc văn sớm thì gióng trống khua chiêng đất ở dưới thành khu làm trường thanh thế thật lớn thần tích nghi thức rồi。"
   },
   {
     "segment_id": "0058",
-    "draft": "đến lúc đó， tín đồ còn không phải ào ào /như thế/đích đến？"
+    "draft": "đến lúc đó， tín đồ còn không phải ào ào như thế đến？"
   },
   {
     "segment_id": "0059",
-    "draft": "mấu chốt là， hắn không cách nào này/đây/cái này yêu làm。"
+    "draft": "mấu chốt là， hắn không cách nào này yêu làm。"
   },
   {
     "segment_id": "0060",
-    "draft": "cho tín đồ ban thưởng lực lượng quả thật có thể đem ✚[xiéshén] tà thần; quỷ thần gian ác; ác thần cạo chết không sai， bởi vì hắn nặc văn là another ác hơn /như thế/đích ✚[xiéshén] tà thần; quỷ thần gian ác; ác thần。"
+    "draft": "cho tín đồ ban thưởng lực lượng quả thật có thể đem tà thần cạo chết không sai， bởi vì hắn nặc văn là một cái khác cái ác hơn như thế tà thần。"
   },
   {
     "segment_id": "0061",
@@ -813,11 +814,11 @@ Chapter 36 completed via pipeline.
   },
   {
     "segment_id": "0062",
-    "draft": "tiêu trừ uy hiếp cách là chế tạo một uy hiếp càng lớn hơn， như vậy cái trước thì có vẻ râu ria /rồi/sao là không？"
+    "draft": "tiêu trừ uy hiếp cách là chế tạo một uy hiếp càng lớn hơn， như vậy cái trước thì có vẻ râu ria rồi là không？"
   },
   {
     "segment_id": "0063",
-    "draft": "tin tức tốt， ta tiêu diệt uy hiếp hạ thành khu /như thế/đích ✚[xiéshén] tà thần; quỷ thần gian ác; ác thần。"
+    "draft": "tin tức tốt， ta tiêu diệt uy hiếp hạ thành khu như thế tà thần。"
   },
   {
     "segment_id": "0064",
@@ -829,7 +830,7 @@ Chapter 36 completed via pipeline.
   },
   {
     "segment_id": "0066",
-    "draft": "bây giờ lại bị các tín đồ giải đọc thành đây là vĩ đại /như thế/đích ham học hỏi (possessive particle, literary equivalent of 的); him; her; it God; unusual; mysterious; soul; spirit; divine essence; lively; spiritual being; abbr. for 神舟[shen2 zhou1], \"Divine boat\" PRC series of manned spacecraft; CL:個|个[ge4] cố ý làm ra dẫn đường， là vì để bọn hắn hiểu được dựa vào own nỗ lực đi giải quyết vấn đề。"
+    "draft": "bây giờ lại bị các tín đồ giải đọc thành đây là vĩ đại như thế ham học hỏi tới thần cố ý làm ra dẫn đường， là vì để bọn hắn hiểu được dựa vào tự mình như thế nỗ lực đi giải quyết vấn đề。"
   },
   {
     "segment_id": "0067",
@@ -837,23 +838,23 @@ Chapter 36 completed via pipeline.
   },
   {
     "segment_id": "0068",
-    "draft": "thì là nặc văn square up vừa bắt đầu thời gian hắn có thần lực không nhiều， sợ bị ép buộc dẫn đến ép khô thần lực， lúc này mới gia nhập như vậy một cái quy tắc。"
+    "draft": "thì là nặc văn suy xét đến vừa bắt đầu thời gian hắn có thần lực không nhiều， sợ bị ép buộc dẫn đến ép khô thần lực， lúc này mới gia nhập như vậy một cái quy tắc。"
   },
   {
     "segment_id": "0069",
-    "draft": "lúc kia hắn chỉ là định tìm cái hạ thành khu /như thế/đích đen ác thế lực thanh lý mất， dùng để one's conduct; deed; activity; accomplishment; achievement; to act as; as (in the capacity of); qua; to view as; to look upon (sth as); to take sth to be kinh nghiệm bao， cho own giáo phái áo lót thành lập danh vọng。"
+    "draft": "lúc kia hắn chỉ là định tìm cái hạ thành khu như thế đen ác thế lực thanh lý mất， dùng để hành vi kinh nghiệm bao， cho tự mình như thế giáo phái áo lót thành lập danh vọng。"
   },
   {
     "segment_id": "0070",
-    "draft": "to press; to push down; to keep under (control); pressure với thì không có square up máu răng giúp đã đầu nhập vào /rồi/sao ✚[xiéshén] tà thần; quỷ thần gian ác; ác thần， thực lực tổng hợp tăng nhiều ✚[díqíng] tình hình thực tế huống。"
+    "draft": "ép với thì không có suy xét đến máu răng giúp đã đầu nhập vào rồi tà thần， thực lực tổng hợp tăng nhiều tình hình thực tế huống。"
   },
   {
     "segment_id": "0071",
-    "draft": "phát hiện máu răng giúp với ✚[xiéshén] tà thần; quỷ thần gian ác; ác thần cấu kết lúc， nặc văn còn có chút lo lắng， các tín đồ có thể hay không vì phát hiện thực lực sai biệt trở nên lớn mà cảm thấy e ngại， cái đến bỏ cuộc。"
+    "draft": "phát hiện máu răng giúp với tà thần cấu kết lúc， nặc văn còn có chút lo lắng， các tín đồ có thể hay không vì phát hiện thực lực sai biệt trở nên lớn mà cảm thấy e ngại， cái đến bỏ cuộc。"
   },
   {
     "segment_id": "0072",
-    "draft": "kết quả khi hắn /như thế/đích thần dụ bị giải đọc thành cái gọi là nhắc nhở， là vì nói cho các tín đồ nên với theo tình huống khác nhau， mà khai thác different sách lược ứng đối sau；"
+    "draft": "kết quả khi hắn như thế thần dụ bị giải đọc thành cái gọi là nhắc nhở， là vì nói cho các tín đồ nên với theo tình huống khác nhau， mà khai thác khác nhau như thế sách lược ứng đối sau；"
   },
   {
     "segment_id": "0073",
@@ -861,11 +862,11 @@ Chapter 36 completed via pipeline.
   },
   {
     "segment_id": "0074",
-    "draft": "ngược lại còn càng có động lực /rồi/sao！"
+    "draft": "ngược lại còn càng có động lực rồi！"
   },
   {
     "segment_id": "0075",
-    "draft": "nặc văn cảm thấy vui mừng đồng thời， bởi vì dưới mắt các tín đồ nỗ lực /như thế/đích nhiệt tình đã bị kích phát ra đến， cũng quyết định thuận nước đẩy thuyền， lại cho bọn họ/chúng nó/bọn chúng/họ trợ một phần lực！"
+    "draft": "nặc văn cảm thấy vui mừng đồng thời， bởi vì dưới mắt các tín đồ nỗ lực như thế nhiệt tình đã bị kích phát ra đến， cũng quyết định thuận nước đẩy thuyền， lại cho bọn họ trợ một phần lực！"
   },
   {
     "segment_id": "0076",
