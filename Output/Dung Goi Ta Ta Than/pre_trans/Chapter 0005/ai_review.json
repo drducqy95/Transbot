@@ -1,0 +1,33 @@
+```json
+{
+  "approved": {
+    "names": [],
+    "terms": [
+      "哈达之饥渴"
+    ]
+  },
+  "rejected": {
+    "names": [
+      "严重"
+    ],
+    "terms": [
+      "就能证明这一"
+    ]
+  },
+  "uncertain": {
+    "names": [],
+    "terms": [
+      "法术知识的神"
+    ]
+  }
+}
+```
+
+### Explanation:
+*   **Approved**: 
+    *   `哈达之饥渴` (Hunger of Hada): This is a valid proper term and directly corresponds to `【Cơn Đói Khát của Hada】` in your provided glossary.
+*   **Rejected**:
+    *   `严重` (Severe/Serious): This is a common adjective, not a proper noun or name.
+    *   `就能证明这一` (can prove this...): This is a sentence fragment, not a term.
+*   **Uncertain**:
+    *   `法术知识的神` (God of Magic Knowledge): While this could be a descriptive title for a deity (like Norven, whose domain includes knowledge, or the Goddess of Magic), it reads more like a general descriptive phrase than a fixed proper noun or title. You may need to review the context to see if it should be capitalized as a specific title.

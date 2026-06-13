@@ -1,0 +1,24 @@
+```json
+{
+  "approved": [],
+  "rejected": [
+    "时候",
+    "发动成功！",
+    "往别人兜里塞",
+    "得知对方的姓",
+    "战技。\n现在",
+    "是诺文回应培",
+    "潜行",
+    "状态。\n第一",
+    "的2阶法术。",
+    "的伪装状态，",
+    "的同时，蕾娜",
+    "的时候，俩人",
+    "的练习，最终",
+    "真名知晓",
+    "，在蕾娜的帮"
+  ],
+  "uncertain": [],
+  "reason": "All fragments incomplete/mid-sentence. Need full context phrases for translation approval. Names list contains common word '时候' (when/time), not a proper name. Terms list all sentence fragments with grammar particles, impossible to validate without complete sentences."
+}
+```

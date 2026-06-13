@@ -1,0 +1,311 @@
+{
+  "schema_version": "2.0",
+  "chapter_id": "chapter_0029",
+  "segment_translations": [
+    {
+      "segment_id": "0001",
+      "source": "# 第29章 黑市",
+      "target": "# Chương 29: Chợ đen"
+    },
+    {
+      "segment_id": "0002",
+      "source": "朦胧的夜色悄无声息地吞吐着黑暗，靠近港口的一片废弃仓库区伴随着暮色悄然苏醒。",
+      "target": "Màn đêm mờ ảo lặng lẽ nuốt trọn bóng tối, một khu nhà kho bỏ hoang gần bến cảng lặng lẽ thức giấc cùng hoàng hôn."
+    },
+    {
+      "segment_id": "0003",
+      "source": "这片仓库原本属于一位地精商人，他将这地方承包下来，用来临时存放商船从各地运来的货物。",
+      "target": "Khu nhà kho này vốn thuộc về một thương nhân Địa tinh, hắn ta đã thầu lại nơi này để làm nơi lưu trữ tạm thời hàng hóa do các tàu buôn từ khắp nơi vận chuyển đến."
+    },
+    {
+      "segment_id": "0004",
+      "source": "只不过，地精那天生贪财的性子，让他后来犯了个大错：",
+      "target": "Chẳng qua, bản tính tham tài trời sinh của Địa tinh đã khiến hắn sau này phạm phải một sai lầm lớn:"
+    },
+    {
+      "segment_id": "0005",
+      "source": "为了牟取更多暴利，不惜尝试偷偷运输并在此地私自存储跟邪神有关的违禁品。",
+      "target": "Vì muốn kiếm thêm lợi nhuận kếch xù, hắn không tiếc thử lén lút vận chuyển và lén lút tích trữ tại đây những món hàng cấm liên quan đến Tà Thần."
+    },
+    {
+      "segment_id": "0006",
+      "source": "结果事情走漏消息，直接被竞争对手，同行地精举报。",
+      "target": "Kết quả là tin tức bị lộ, bị đối thủ cạnh tranh, một Địa tinh cùng ngành trực tiếp tố giác."
+    },
+    {
+      "segment_id": "0007",
+      "source": "在处理邪神有关的事务上，各大教会的执法权要大于格林港的执政官员，而且处理方式可以用一句话来形容：",
+      "target": "Trong việc xử lý các vấn đề liên quan đến Tà Thần, quyền chấp pháp của các giáo hội lớn hơn cả quan chấp chính của cảng Green, hơn nữa cách xử lý có thể hình dung bằng một câu:"
+    },
+    {
+      "segment_id": "0008",
+      "source": "宁杀错，莫放过。",
+      "target": "Thà giết nhầm còn hơn bỏ sót."
+    },
+    {
+      "segment_id": "0009",
+      "source": "消息是上午被举报的，仓库是下午被扬了的。",
+      "target": "Tin tức bị tố giác vào buổi sáng, đến buổi chiều nhà kho đã bị san bằng."
+    },
+    {
+      "segment_id": "0010",
+      "source": "没过几个小时，这片仓库就被前来销毁邪神违禁品的教会队伍用各种战技、魔法、神术给炸成一片废墟。",
+      "target": "Chưa đầy vài giờ, khu nhà kho này đã bị đội ngũ giáo hội đến tiêu hủy hàng cấm Tà Thần dùng đủ loại chiến kỹ, ma pháp, thần thuật nổ tung thành một đống đổ nát."
+    },
+    {
+      "segment_id": "0011",
+      "source": "那位犯事的地精倒是嗅觉十分敏锐，察觉到不对的时候，第一时间买了最近一班地精飞艇的至尊贵宾VVVIP票，果断跑路离开格林港，因而没被抓获。",
+      "target": "Tên Địa tinh gây chuyện kia khứu giác lại vô cùng nhạy bén, khi nhận thấy có điều không ổn, ngay lập tức mua vé khách quý tối thượng VVVIP của chuyến khinh khí cầu Địa tinh gần nhất, quyết đoán bỏ trốn khỏi cảng Green, do đó không bị bắt."
+    },
+    {
+      "segment_id": "0012",
+      "source": "但这片隶属于他名下的仓库区的归属权就变成了个烂摊子，地契还在那个跑路的地精手里，因而没人能接手。",
+      "target": "Nhưng quyền sở hữu khu nhà kho đứng tên hắn ta lại biến thành một mớ hỗn độn, khế ước đất đai vẫn nằm trong tay tên Địa tinh đã bỏ trốn kia, do đó không ai có thể tiếp quản."
+    },
+    {
+      "segment_id": "0013",
+      "source": "久而久之，这片区域就被慢慢废弃，逐渐被城市所遗忘。",
+      "target": "Lâu dần, khu vực này từ từ bị bỏ hoang, dần bị thành phố lãng quên."
+    },
+    {
+      "segment_id": "0014",
+      "source": "一片少有人关注的角落，自然会成为各种不法交易者的聚集地。",
+      "target": "Một góc ít người chú ý tới, tự nhiên sẽ trở thành nơi tụ tập của đủ loại người giao dịch bất hợp pháp."
+    },
+    {
+      "segment_id": "0015",
+      "source": "当穿着灰袍的培特和蕾娜踏入废弃仓库区的时候，空气中弥漫着各种奇怪的味道，发霉的谷物，腐烂的果蔬，流浪汉身上的酸臭味，难以名状的刺鼻气味扑面而来。",
+      "target": "Khi Pete và Rena mặc áo choàng xám bước vào khu nhà kho bỏ hoang, trong không khí tràn ngập đủ thứ mùi kỳ lạ: ngũ cốc mốc meo, rau quả thối rữa, mùi chua loét trên người những kẻ lang thang, một mùi hăng hắc khó tả xộc thẳng vào mặt."
+    },
+    {
+      "segment_id": "0016",
+      "source": "如果说蕾娜家酒馆门前那条小路平时的气味仅仅只是有点古怪的话，那么废弃仓库黑市的气味就是会让人产生生理性反胃的程度了。",
+      "target": "Nếu nói mùi vị thường ngày của con đường nhỏ trước quán rượu nhà Rena chỉ là hơi kỳ quái một chút, thì mùi vị của chợ đen nhà kho bỏ hoang này lại đến mức khiến người ta buồn nôn về mặt sinh lý."
+    },
+    {
+      "segment_id": "0017",
+      "source": "培特忍不住干呕了声，急忙给自己和蕾娜都挂了个【净息术】戏法。",
+      "target": "Pete nhịn không được nôn khan một tiếng, vội vàng yểm một phép thuật cơ bản [Tịnh Tức Thuật] cho mình và Rena."
+    },
+    {
+      "segment_id": "0018",
+      "source": "“呕……这地方，他们就不嫌恶心吗！”",
+      "target": "“Ọe... Cái nơi này, bọn họ không thấy tởm sao!”"
+    },
+    {
+      "segment_id": "0019",
+      "source": "干呕了一声将那股气味残留的记忆排出脑海，从未经历过如此场景的培特吐槽道。",
+      "target": "Nôn khan một tiếng để gạt bỏ phần ký ức còn sót lại về thứ mùi kia ra khỏi não bộ, Pete, người chưa từng trải qua cảnh tượng như thế này, oán thán."
+    },
+    {
+      "segment_id": "0020",
+      "source": "下城区的黑市不仅是各种非法交易者的聚集地，还有些失去房产，没有劳动能力的流浪汉在这里居住。",
+      "target": "Chợ đen ở khu Hạ thành không chỉ là nơi tụ tập của đủ loại kẻ giao dịch bất hợp pháp, mà còn có một số kẻ lang thang mất nhà cửa, mất khả năng lao động sinh sống ở đây."
+    },
+    {
+      "segment_id": "0021",
+      "source": "这些流浪汉的存在，让格林港警署失去了管理这片区域的兴趣。",
+      "target": "Sự tồn tại của những kẻ lang thang này khiến sở cảnh sát cảng Green mất đi hứng thú quản lý khu vực này."
+    },
+    {
+      "segment_id": "0022",
+      "source": "比起满街地驱赶乞讨的流浪者，不如让他们就这样聚集到一个地方等死，警署那些混日子的警员自然希望多一事不如少一事。",
+      "target": "So với việc xua đuổi những kẻ lang thang ăn xin khắp các đường phố, chi bằng để bọn họ cứ tụ tập ở một chỗ như vậy rồi chờ chết, những cảnh sát chỉ chực chờ qua ngày ở sở cảnh sát đương nhiên hy vọng bớt đi một việc còn hơn thêm một việc."
+    },
+    {
+      "segment_id": "0023",
+      "source": "这刚好为黑市提供了一层天然的庇护。",
+      "target": "Điều này tình cờ tạo ra một tầng bảo hộ tự nhiên cho chợ đen."
+    },
+    {
+      "segment_id": "0024",
+      "source": "走过黑市外围的流浪汉“防线”，进入黑市真正的交易区域。",
+      "target": "Đi qua “phòng tuyến” của những kẻ lang thang ở rìa ngoài chợ đen, tiến vào khu vực giao dịch thực sự của chợ đen."
+    },
+    {
+      "segment_id": "0025",
+      "source": "人影憧憧，跟培特和蕾娜差不多，人们都穿着破旧的长袍，或者戴着能遮住相貌的宽大兜帽，每个人都在试图隐藏自己的身份和行踪。",
+      "target": "Bóng người thấp thoáng, cũng giống như Pete và Rena, mọi người đều mặc áo choàng cũ nát, hoặc đội chiếc mũ trùm đầu rộng thùng thình có thể che kín khuôn mặt, mỗi người đều đang cố gắng che giấu thân phận và tung tích của mình."
+    },
+    {
+      "segment_id": "0026",
+      "source": "这里不像格林港分割上下城区的贸易集市那样，商贩们会热情地介绍自己的货物，努力招揽路过的潜在顾客，无论什么时候都是人声鼎沸、热火朝天的样子；",
+      "target": "Nơi đây không giống như khu chợ thương mại phân chia khu Thượng và Hạ thành của cảng Green, nơi những người bán hàng rong sẽ nhiệt tình giới thiệu hàng hóa của mình, cố gắng chào mời những khách hàng tiềm năng đi ngang qua, bất kể lúc nào cũng là cảnh tượng ồn ào náo nhiệt, khí thế ngất trời;"
+    },
+    {
+      "segment_id": "0027",
+      "source": "相反，黑市的环境显得很压抑。",
+      "target": "Ngược lại, môi trường của chợ đen lại vô cùng đè nén."
+    },
+    {
+      "segment_id": "0028",
+      "source": "不知身份的商人将打算出售的东西摆在身旁的货布上，如果有人看上了某样物品，就会走过去低声交谈，谈拢价格，一手拿钱，一手交货。",
+      "target": "Những thương nhân không rõ danh tính bày biện những thứ định bán lên tấm vải lót bên cạnh, nếu có người vừa mắt món đồ nào, sẽ bước đến nói chuyện bằng giọng trầm thấp, bàn bạc giá cả, một tay giao tiền, một tay nhận hàng."
+    },
+    {
+      "segment_id": "0029",
+      "source": "具体的交谈内容除了买卖双方之外，不会再被第三个人知道。",
+      "target": "Nội dung cuộc trò chuyện cụ thể ngoại trừ hai bên mua bán ra, sẽ không để người thứ ba biết được."
+    },
+    {
+      "segment_id": "0030",
+      "source": "培特打量着黑市的摊位。",
+      "target": "Pete đánh giá các sạp hàng ở chợ đen."
+    },
+    {
+      "segment_id": "0031",
+      "source": "他和蕾娜都是第一次来黑市。",
+      "target": "Cậu và Rena đều là lần đầu tiên đến chợ đen."
+    },
+    {
+      "segment_id": "0032",
+      "source": "除了各种无法确认真假的武器、防具、艺术品、宝石、材料或者魔法卷轴之类的常规物品。 \n\n 还有有卖信息或者情报的，有代发委托或者承接委托的，有发布悬赏的，甚至，培特还看到了更特别的“商品”：",
+      "target": "Ngoài các mặt hàng thông thường như đủ loại vũ khí, phòng cụ, tác phẩm nghệ thuật, đá quý, vật liệu hoặc cuộn giấy ma pháp không thể xác nhận độ chân giả.\nCòn có nơi bán thông tin hoặc tình báo, có nơi nhận phát hoặc nhận thầu ủy thác, có nơi đăng lệnh truy nã, thậm chí, Pete còn nhìn thấy những “món hàng” đặc biệt hơn:"
+    },
+    {
+      "segment_id": "0033",
+      "source": "黑市的东南角，一片明显被划出来宽敞了不少的区域，三名没有披着长袍的男子或蹲或坐，旁边有个大概1米高、数米长宽的铁笼子。",
+      "target": "Ở góc đông nam của chợ đen, một khu vực rõ ràng được phân chia ra rộng rãi hơn không ít, ba gã đàn ông không mặc áo choàng, kẻ thì ngồi xổm, kẻ thì ngồi bệt, bên cạnh là một cái lồng sắt cao khoảng 1 mét, dài rộng vài mét."
+    },
+    {
+      "segment_id": "0034",
+      "source": "逼仄的笼中，几名年轻女子脖上戴着棕色的皮质项圈，因为笼子高度的限制，不得不维持着低头跪坐的姿势。",
+      "target": "Trong chiếc lồng chật hẹp, vài người phụ nữ trẻ tuổi đeo vòng cổ bằng da màu nâu trên cổ, vì chiều cao của chiếc lồng bị hạn chế nên đành phải duy trì tư thế quỳ gối cúi đầu."
+    },
+    {
+      "segment_id": "0035",
+      "source": "时不时地有人走到那边，与那三名男子交谈几句后，掏出钱袋拿出十数枚铜板，后者便会怪笑着打开笼门，从里面拽出一名女子，在她的项圈上拴一根铁链，然后任由顾客将其牵向铁笼后面光线昏暗的小角落里。",
+      "target": "Thỉnh thoảng lại có người đi tới đó, sau khi nói dăm ba câu với ba gã đàn ông kia thì lấy túi tiền ra móc hơn chục đồng xu đồng, ba gã kia liền cười gở mở cửa lồng, kéo từ bên trong ra một cô gái, buộc một sợi xích sắt vào vòng cổ của cô ta, sau đó để mặc cho khách hàng dắt cô đi về góc nhỏ tối tăm phía sau lồng sắt."
+    },
+    {
+      "segment_id": "0036",
+      "source": "……",
+      "target": "..."
+    },
+    {
+      "segment_id": "0037",
+      "source": "“啐！”",
+      "target": "“Phi!”"
+    },
+    {
+      "segment_id": "0038",
+      "source": "“以前只是听说，没想到血牙帮的人真的这么丧心病狂！”蕾娜愤怒地低声骂道。",
+      "target": "“Trước kia chỉ mới nghe nói, không ngờ người của bang Huyết Nha thực sự mất trí điên rồ đến vậy!” Rena tức giận chửi thầm."
+    },
+    {
+      "segment_id": "0039",
+      "source": "“那些也是血牙帮的人？”培特皱眉。",
+      "target": "“Những kẻ đó cũng là người của bang Huyết Nha sao?” Pete nhíu mày."
+    },
+    {
+      "segment_id": "0040",
+      "source": "在这种人人都在想方设法掩藏身份的黑市里，那几名男子却能大大咧咧地展露身形，那就只有一种可能：",
+      "target": "Trong một chợ đen mà ai ai cũng đang tìm đủ mọi cách để che giấu thân phận, mấy gã đàn ông kia lại có thể ngang nhiên để lộ vóc dáng, vậy thì chỉ có một khả năng:"
+    },
+    {
+      "segment_id": "0041",
+      "source": "对方不怕被人知道自己的真实身份，有恃无恐！",
+      "target": "Đối phương không sợ bị người khác biết được danh tính thực sự của mình, có chỗ dựa nên không sợ gì cả!"
+    },
+    {
+      "segment_id": "0042",
+      "source": "蕾娜轻声嗯道：“那几个人身上纹着血色的獠牙，这是血牙帮特有的标志。”",
+      "target": "Rena khẽ ừ một tiếng: “Trên người mấy gã đó có xăm hình răng nanh màu máu, đó là dấu hiệu đặc trưng của bang Huyết Nha.”"
+    },
+    {
+      "segment_id": "0043",
+      "source": "“那些女人又是怎么回事？”",
+      "target": "“Những người phụ nữ đó lại là chuyện thế nào?”"
+    },
+    {
+      "segment_id": "0044",
+      "source": "“血牙帮在下城区开了不少赌场和会馆，我听说过，里面那些女招待，如果做的不好，业绩没能达标的话，血牙帮会用各种各样的办法惩罚她们。“",
+      "target": "“Bang Huyết Nha mở không ít sòng bạc và hội quán ở khu Hạ thành, tôi từng nghe nói, những nữ tiếp viên ở trong đó, nếu làm không tốt, thành tích không đạt tiêu chuẩn, bang Huyết Nha sẽ dùng đủ mọi cách để trừng phạt bọn họ.“"
+    },
+    {
+      "segment_id": "0045",
+      "source": "“比如说……把她们拖到黑市，强迫让她们服务……”",
+      "target": "“Ví dụ như... kéo họ đến chợ đen, ép buộc họ phải phục vụ...”"
+    },
+    {
+      "segment_id": "0046",
+      "source": "培特懂了。",
+      "target": "Pete đã hiểu."
+    },
+    {
+      "segment_id": "0047",
+      "source": "在格林港，虽然特殊需求方面的交易是合法的，但前提条件是双方都出于自愿。",
+      "target": "Tại cảng Green, mặc dù các giao dịch liên quan đến nhu cầu đặc biệt là hợp pháp, nhưng điều kiện tiên quyết là cả hai bên đều tự nguyện."
+    },
+    {
+      "segment_id": "0048",
+      "source": "那几个戴着项圈的女人，看她们被从铁笼中拽出来时脸上那害怕畏惧的神情，很明显并非自愿。",
+      "target": "Mấy người phụ nữ đeo vòng cổ đó, nhìn vẻ mặt đầy sợ hãi của họ khi bị lôi ra khỏi lồng sắt, rõ ràng là không hề tự nguyện."
+    },
+    {
+      "segment_id": "0049",
+      "source": "“肆无忌惮啊。”",
+      "target": "“Thật không kiêng dè gì cả.”"
+    },
+    {
+      "segment_id": "0050",
+      "source": "培特知道格林港下城区黑帮的威势很大，但没想到血牙帮能作恶到这种程度。",
+      "target": "Pete biết thế lực của các băng đảng ở khu Hạ thành cảng Green rất lớn, nhưng không ngờ bang Huyết Nha lại có thể làm ác đến mức độ này."
+    },
+    {
+      "segment_id": "0051",
+      "source": "在培特家乡的边境镇子，虽然贵族和平民之间有时候也会有些矛盾，但那都是在秩序的范围内。",
+      "target": "Tại thị trấn biên giới quê hương của Pete, mặc dù thỉnh thoảng cũng có mâu thuẫn giữa quý tộc và bình dân, nhưng tất cả đều nằm trong phạm vi của trật tự."
+    },
+    {
+      "segment_id": "0052",
+      "source": "可血牙帮的所作所为，明显已经越过了界线。",
+      "target": "Nhưng những việc làm của bang Huyết Nha, rõ ràng đã vượt quá giới hạn."
+    },
+    {
+      "segment_id": "0053",
+      "source": "血牙帮显然并没怎么把格林港的法条当回事，或者说，在治安混乱，罪恶横行的下城区，他们有一套自己的“规矩”取代了法律。",
+      "target": "Rõ ràng bang Huyết Nha chẳng hề coi trọng luật pháp của cảng Green, hoặc có thể nói, ở khu Hạ thành với an ninh hỗn loạn và tội ác hoành hành, chúng có một bộ “quy củ” riêng để thay thế luật pháp."
+    },
+    {
+      "segment_id": "0054",
+      "source": "培特本来觉得，想解决蕾娜的麻烦，只要在格林港发展求知之神教派，招揽到足够多的人手，有了足够的实力，让血牙帮知道蕾娜背后同样有人，不好招惹，他们自然就不敢再来酒馆闹事。",
+      "target": "Ban đầu Pete nghĩ rằng, muốn giải quyết rắc rối cho Rena, chỉ cần phát triển giáo phái của Thần Cầu Tri ở cảng Green, chiêu mộ đủ nhân thủ, có đủ thực lực, để bang Huyết Nha biết sau lưng Rena cũng có người, không dễ chọc vào, thì tự nhiên bọn chúng sẽ không dám đến quán rượu gây sự nữa."
+    },
+    {
+      "segment_id": "0055",
+      "source": "可是看到血牙帮这无法无天的行事风格，让培特有种预感：",
+      "target": "Nhưng chứng kiến phong cách hành xử vô pháp vô thiên này của bang Huyết Nha, đã mang đến cho Pete một loại dự cảm:"
+    },
+    {
+      "segment_id": "0056",
+      "source": "事情恐怕没法那么轻易解决。",
+      "target": "Sự việc e rằng không thể giải quyết dễ dàng như vậy."
+    },
+    {
+      "segment_id": "0057",
+      "source": "若是换了以前那个混吃等死的躺平培特，意识到事情如此棘手，可能就打退堂鼓准备怂了。",
+      "target": "Nếu đổi lại là cậu Pete buông xuôi, ăn không ngồi rồi chờ chết như trước kia, khi nhận ra mọi chuyện lại nan giải đến thế, có lẽ đã đánh bài chuồn chuẩn bị co vòi rồi."
+    },
+    {
+      "segment_id": "0058",
+      "source": "但现在有求知之神作为后盾，培特有了底气。",
+      "target": "Nhưng bây giờ có Thần Cầu Tri làm hậu thuẫn, Pete đã có đủ tự tin."
+    },
+    {
+      "segment_id": "0059",
+      "source": "培特轻轻牵了下蕾娜：“别急，现在还不是跟他们正面对抗的时候，不要忘了我们来这的目的。”",
+      "target": "Pete nhẹ nhàng kéo Rena một cái: “Đừng vội, bây giờ vẫn chưa phải lúc đối đầu trực diện với bọn chúng, đừng quên mục đích chúng ta đến đây.”"
+    },
+    {
+      "segment_id": "0060",
+      "source": "“等我们发育起来，再去收拾他们！”",
+      "target": "“Đợi chúng ta phát triển lớn mạnh rồi, sẽ quay lại xử lý bọn chúng!”"
+    },
+    {
+      "segment_id": "0061",
+      "source": "……",
+      "target": "..."
+    }
+  ]
+}

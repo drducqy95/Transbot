@@ -1,0 +1,383 @@
+```json
+{
+  "chapter_number": 28,
+  "chapter_title_vi": "Chương 28: Thần Ám Ảnh, Thần Công Chính: Chúng ta không có ý kiến",
+  "segments": [
+    {
+      "segment_id": "0001",
+      "source": "# 第28章 暗影之神，公正之神：我们没意见",
+      "target": "# Chương 28: Thần Ám Ảnh, Thần Công Chính: Chúng ta không có ý kiến"
+    },
+    {
+      "segment_id": "0002",
+      "source": "“咦？”",
+      "target": "\"Hả?\""
+    },
+    {
+      "segment_id": "0003",
+      "source": "虽然一直在用【神之眼】关注着两名信徒的状态，但培特心中的想法是【神之眼】无法探知的。",
+      "target": "Mặc dù luôn dùng [Thần Nhãn] chú ý trạng thái của hai tên tín đồ, nhưng suy nghĩ trong lòng Pete thì [Thần Nhãn] không thể nào dò xét được."
+    },
+    {
+      "segment_id": "0004",
+      "source": "当培特下定决心的那一刻，诺文这里凭空多出了50份神力，由对方突然爆发出的一波信仰转化而成。",
+      "target": "Khoảnh khắc Pete hạ quyết tâm, bên phía Noven bỗng dưng có thêm 50 phần thần lực, được chuyển hóa từ một đợt tín ngưỡng mà đối phương đột nhiên bộc phát ra."
+    },
+    {
+      "segment_id": "0005",
+      "source": "这个数额的信仰之力，以培特的实力，单靠普通的祈祷之类肯定不够。",
+      "target": "Số lượng lực lượng tín ngưỡng này, với thực lực của Pete, chỉ dựa vào cầu nguyện bình thường chắc chắn là không đủ."
+    },
+    {
+      "segment_id": "0006",
+      "source": "需要对方在心态上发生转变，愿意投入更多的信仰，可以理解为，他愿意遵守这位神明的各种教义，希望从浅信徒转化为真信徒！",
+      "target": "Cần đối phương có sự chuyển biến về mặt tâm lý, nguyện ý dâng lên nhiều tín ngưỡng hơn, có thể hiểu là, hắn nguyện ý tuân thủ các loại giáo lý của vị thần minh này, hy vọng từ tín đồ nông cạn chuyển hóa thành tín đồ chân chính!"
+    },
+    {
+      "segment_id": "0007",
+      "source": "凡人可以同时成为数位神明的浅信徒，享受到不同神明的赐福；但只能选择成为一位神明的真信徒。",
+      "target": "Phàm nhân có thể đồng thời trở thành tín đồ nông cạn của nhiều vị thần minh, hưởng thụ sự ban phúc của các thần minh khác nhau; nhưng chỉ có thể lựa chọn trở thành tín đồ chân chính của một vị thần minh."
+    },
+    {
+      "segment_id": "0008",
+      "source": "诺文挠头。",
+      "target": "Noven gãi đầu."
+    },
+    {
+      "segment_id": "0009",
+      "source": "他对这个世界的了解还不够多，并不知道培特在这一晚上的时间里究竟想了些什么。",
+      "target": "Hắn đối với thế giới này còn chưa đủ hiểu rõ, cũng không biết Pete trong một buổi tối này rốt cuộc đã suy nghĩ những gì."
+    },
+    {
+      "segment_id": "0010",
+      "source": "“这家伙是看到蕾娜的修行进度飞快，受到刺激了吗？”",
+      "target": "\"Tên này là nhìn thấy tiến độ tu hành của Rena quá nhanh, nên bị kích thích rồi sao?\""
+    },
+    {
+      "segment_id": "0011",
+      "source": "蕾娜练习使用【潜行】的时候，诺文也在关注着对方的情况。",
+      "target": "Khi Rena luyện tập sử dụng [Tiềm Hành], Noven cũng đang chú ý đến tình huống của đối phương."
+    },
+    {
+      "segment_id": "0012",
+      "source": "当然，他的视角不太一样。",
+      "target": "Đương nhiên, góc nhìn của hắn không giống lắm."
+    },
+    {
+      "segment_id": "0013",
+      "source": "诺文在观察神力层面的变化。",
+      "target": "Noven đang quan sát sự thay đổi ở phương diện thần lực."
+    },
+    {
+      "segment_id": "0014",
+      "source": "结果就被他发现了个神奇的状况！",
+      "target": "Kết quả là hắn phát hiện ra một tình huống thần kỳ!"
+    },
+    {
+      "segment_id": "0015",
+      "source": "先前他给予培特的都是各种魔法，施法过程里，没有需要诺文或魔法女神参与的步骤。",
+      "target": "Trước đó hắn ban cho Pete đều là các loại ma pháp, trong quá trình thi triển, không có bước nào cần Noven hoặc Nữ thần Ma pháp tham gia."
+    },
+    {
+      "segment_id": "0016",
+      "source": "只需要培特按照正确的方法调动起魔网，获得足够构筑法术模型的魔力。",
+      "target": "Chỉ cần Pete dựa theo phương pháp chính xác điều động Ma Võng, thu được đủ ma lực để cấu trúc mô hình phép thuật."
+    },
+    {
+      "segment_id": "0017",
+      "source": "一切顺利的话，就能成功地释放出法术。",
+      "target": "Nếu mọi chuyện thuận lợi, là có thể phóng thích phép thuật thành công."
+    },
+    {
+      "segment_id": "0018",
+      "source": "【潜行】，以及那道公正之神的神术则不同。",
+      "target": "[Tiềm Hành], cùng với đạo thần thuật kia của Thần Công Chính thì lại khác."
+    },
+    {
+      "segment_id": "0019",
+      "source": "前者需要属于暗影之神墨菲掌管的暗影能量，后者则需要公正之神菲尔的公正神力。",
+      "target": "Cái trước cần năng lượng ám ảnh thuộc về Thần Ám Ảnh Murphy nắm giữ, cái sau thì cần thần lực công chính của Thần Công Chính Phil."
+    },
+    {
+      "segment_id": "0020",
+      "source": "在诺文通过他的神职权柄得到的相关知识里，无论是战技还是神术，绕不过去的就是请求对应的神明给予力量！",
+      "target": "Trong những kiến thức liên quan mà Noven có được thông qua quyền bính thần chức của mình, dù là chiến kỹ hay thần thuật, điều không thể tránh khỏi chính là thỉnh cầu thần minh tương ứng ban cho sức mạnh!"
+    },
+    {
+      "segment_id": "0021",
+      "source": "诺文当时还很担心，他的信徒会不会因此而只能学习魔法，无法掌握战技和神术。",
+      "target": "Noven lúc đó còn rất lo lắng, liệu tín đồ của hắn có vì vậy mà chỉ có thể học tập ma pháp, không cách nào nắm giữ chiến kỹ và thần thuật hay không."
+    },
+    {
+      "segment_id": "0022",
+      "source": "神明给予凡人赐福，与凡人交互时是需要消耗神力的，这点毋庸置疑。",
+      "target": "Thần minh ban phúc cho phàm nhân, khi tương tác với phàm nhân là cần tiêu hao thần lực, điều này không thể nghi ngờ."
+    },
+    {
+      "segment_id": "0023",
+      "source": "神力来源是信徒的信仰转化，这点也毋庸置疑。",
+      "target": "Nguồn gốc của thần lực là sự chuyển hóa tín ngưỡng của tín đồ, điều này cũng không thể nghi ngờ."
+    },
+    {
+      "segment_id": "0024",
+      "source": "诺文的神力中掺杂着严重的混乱气息，无论是帮信徒完成法术，还是提供力量都会立刻导致凡人被污染转化。",
+      "target": "Trong thần lực của Noven có pha trộn khí tức hỗn loạn nghiêm trọng, dù là giúp tín đồ hoàn thành phép thuật, hay cung cấp sức mạnh đều sẽ lập tức dẫn đến việc phàm nhân bị ô nhiễm chuyển hóa."
+    },
+    {
+      "segment_id": "0025",
+      "source": "只传授知识，虽然神力消耗最少，几乎等于零成本，但缺点也很明显：",
+      "target": "Chỉ truyền thụ kiến thức, tuy thần lực tiêu hao ít nhất, gần như bằng không, nhưng khuyết điểm cũng rất rõ ràng:"
+    },
+    {
+      "segment_id": "0026",
+      "source": "信徒们没法从诺文这里直接获取力量。",
+      "target": "Các tín đồ không có cách nào trực tiếp nhận được sức mạnh từ chỗ Noven."
+    },
+    {
+      "segment_id": "0027",
+      "source": "其他的神明则没有这个问题，可以直接给凡人加持赐福，或是允许凡人使用自己权柄范围内的力量。",
+      "target": "Các thần minh khác thì không có vấn đề này, có thể trực tiếp gia trì ban phúc cho phàm nhân, hoặc là cho phép phàm nhân sử dụng sức mạnh trong phạm vi quyền bính của mình."
+    },
+    {
+      "segment_id": "0028",
+      "source": "神力消耗最多的是神明完整地帮凡人完成神术、战技、法术，凡人只需要发出请求即可。",
+      "target": "Thần lực tiêu hao nhiều nhất là thần minh hoàn thành trọn vẹn thần thuật, chiến kỹ, phép thuật giúp phàm nhân, phàm nhân chỉ cần phát ra thỉnh cầu là được."
+    },
+    {
+      "segment_id": "0029",
+      "source": "大部分凡人都处在这一阶段，他们并没有真正掌握原理。",
+      "target": "Phần lớn phàm nhân đều ở trong giai đoạn này, bọn họ cũng không có chân chính nắm giữ nguyên lý."
+    },
+    {
+      "segment_id": "0030",
+      "source": "诺文得知的方法，则仅仅只需要神明给凡人提供一个许可。",
+      "target": "Phương pháp mà Noven biết được, thì chỉ cần thần minh cung cấp cho phàm nhân một sự cho phép."
+    },
+    {
+      "segment_id": "0031",
+      "source": "由凡人自己掌握原理和步骤，自己去完成神术、战技、法术的施放。",
+      "target": "Do phàm nhân tự mình nắm giữ nguyên lý và các bước, tự mình đi hoàn thành việc thi triển thần thuật, chiến kỹ, phép thuật."
+    },
+    {
+      "segment_id": "0032",
+      "source": "那么对应神明的神力消耗会少的多。",
+      "target": "Như vậy tiêu hao thần lực của thần minh tương ứng sẽ ít hơn nhiều."
+    },
+    {
+      "segment_id": "0033",
+      "source": "然而，问题在于，如果神明把神力用在不会给自己提供信仰的凡人身上，那就是纯白送，绝对有去无回那种！",
+      "target": "Thế nhưng, vấn đề ở chỗ, nếu như thần minh dùng thần lực lên người phàm nhân không cung cấp tín ngưỡng cho mình, vậy đó chính là dâng không, tuyệt đối là một đi không trở lại!"
+    },
+    {
+      "segment_id": "0034",
+      "source": "正常来说，神明应该不会做这种亏本买卖才对。",
+      "target": "Theo lẽ thường mà nói, thần minh hẳn là sẽ không làm loại mua bán lỗ vốn này mới đúng."
+    },
+    {
+      "segment_id": "0035",
+      "source": "倘若对应的神明不给出许可，那诺文的信徒将战技和神术的知识学习的再全面也没有用，因为前提条件就无法满足！",
+      "target": "Nếu như thần minh tương ứng không đưa ra sự cho phép, vậy tín đồ của Noven học tập kiến thức về chiến kỹ và thần thuật toàn diện đến mấy cũng vô dụng, bởi vì điều kiện tiền đề đã không cách nào thỏa mãn!"
+    },
+    {
+      "segment_id": "0036",
+      "source": "可偏偏诺文能清楚地感知到，在培特使用公正之神的神术，以及蕾娜练习【潜行】时，对应的那两位神明还真就回应了他们！",
+      "target": "Nhưng cố tình Noven lại có thể cảm nhận rõ ràng, khi Pete sử dụng thần thuật của Thần Công Chính, cùng với khi Rena luyện tập [Tiềm Hành], hai vị thần minh tương ứng kia lại thực sự đáp lại bọn họ!"
+    },
+    {
+      "segment_id": "0037",
+      "source": "明明不是那两位神明的信徒，也没有给那两位神明提供信仰，但祂们却愿意给出回应，给予了使用相应神力的许可！ \t\t \t\t这就让诺文有些懵逼了。",
+      "target": "Rõ ràng không phải là tín đồ của hai vị thần minh đó, cũng không cung cấp tín ngưỡng cho hai vị thần minh đó, nhưng bọn họ lại nguyện ý đưa ra sự đáp lại, ban cho sự cho phép sử dụng thần lực tương ứng!\n\nĐiều này khiến Noven có hơi bối rối."
+    },
+    {
+      "segment_id": "0038",
+      "source": "“不是，哥们，你们这么做……图啥啊？”",
+      "target": "\"Không phải, mấy người anh em, các người làm vậy... là mưu đồ cái gì chứ?\""
+    },
+    {
+      "segment_id": "0039",
+      "source": "诺文实在是想不通这两位的思路。",
+      "target": "Noven thật sự là nghĩ không thông luồng suy nghĩ của hai vị này."
+    },
+    {
+      "segment_id": "0040",
+      "source": "在诺文的视角里，大概就是这样一个情况：",
+      "target": "Dưới góc nhìn của Noven, đại khái chính là một tình huống như thế này:"
+    },
+    {
+      "segment_id": "0041",
+      "source": "他将使用战技、神术的方法告知自己的信徒，某种特殊的绑定关系随之建立起来，信徒得到了相关的知识；",
+      "target": "Hắn đem phương pháp sử dụng chiến kỹ, thần thuật báo cho tín đồ của mình, một loại quan hệ ràng buộc đặc thù nào đó theo đó được thiết lập, tín đồ có được những kiến thức liên quan;"
+    },
+    {
+      "segment_id": "0042",
+      "source": "诺文的信徒按照具体的方法，一步步去执行；",
+      "target": "Tín đồ của Noven dựa theo phương pháp cụ thể, từng bước một đi chấp hành;"
+    },
+    {
+      "segment_id": "0043",
+      "source": "等到需要对应神明提供力量的阶段，会自动向祂们发出一道请求；",
+      "target": "Đợi đến giai đoạn cần thần minh tương ứng cung cấp sức mạnh, sẽ tự động phát ra một đạo thỉnh cầu đến bọn họ;"
+    },
+    {
+      "segment_id": "0044",
+      "source": "暗影之神和公正之神：“我们没意见，随便用！”",
+      "target": "Thần Ám Ảnh và Thần Công Chính: \"Chúng ta không có ý kiến, cứ dùng thoải mái!\""
+    },
+    {
+      "segment_id": "0045",
+      "source": "立刻就无条件响应了！",
+      "target": "Lập tức liền hưởng ứng vô điều kiện!"
+    },
+    {
+      "segment_id": "0046",
+      "source": "力量降下，神术和战技的条件被满足，成功释放！",
+      "target": "Sức mạnh giáng xuống, điều kiện của thần thuật và chiến kỹ được thỏa mãn, phóng thích thành công!"
+    },
+    {
+      "segment_id": "0047",
+      "source": "“这是我的信徒吧？怎么感觉这两位神明对待他们的态度比对待自己的信徒还热情啊！”",
+      "target": "\"Đây là tín đồ của ta đi? Sao lại có cảm giác hai vị thần minh này đối xử với bọn họ với thái độ còn nhiệt tình hơn cả đối với tín đồ của mình thế!\""
+    },
+    {
+      "segment_id": "0048",
+      "source": "诺文被搞得都有点不自信了。",
+      "target": "Noven bị làm cho có chút không tự tin luôn rồi."
+    },
+    {
+      "segment_id": "0049",
+      "source": "不过，自己的信徒能够得到其他神明的回应而习得对应的神术、战技，这点对诺文来说，肯定是个天大的好消息。",
+      "target": "Bất quá, tín đồ của mình có thể nhận được sự đáp lại của các thần minh khác mà học được thần thuật, chiến kỹ tương ứng, điều này đối với Noven mà nói, chắc chắn là một tin tức tốt tày trời."
+    },
+    {
+      "segment_id": "0050",
+      "source": "情况比诺文想象的要乐观的多！",
+      "target": "Tình huống lạc quan hơn nhiều so với Noven tưởng tượng!"
+    },
+    {
+      "segment_id": "0051",
+      "source": "虽然他不能直接给予赐福或力量，只能传授知识，需要信徒自己去努力将知识转化为力量。",
+      "target": "Tuy hắn không thể trực tiếp ban phúc hoặc sức mạnh, chỉ có thể truyền thụ kiến thức, cần tín đồ tự mình đi nỗ lực chuyển hóa kiến thức thành sức mạnh."
+    },
+    {
+      "segment_id": "0052",
+      "source": "但他的信徒在努力过程中，似乎不会受到神明信仰的限制，甚至，看这样子，他的信徒比那些神明的信徒更容易得到“许可”！",
+      "target": "Nhưng tín đồ của hắn trong quá trình nỗ lực, dường như sẽ không nhận phải hạn chế bởi tín ngưỡng thần minh, thậm chí, nhìn dáng vẻ này, tín đồ của hắn còn dễ dàng nhận được \"sự cho phép\" hơn cả tín đồ của những vị thần minh kia!"
+    },
+    {
+      "segment_id": "0053",
+      "source": "……",
+      "target": "..."
+    },
+    {
+      "segment_id": "0054",
+      "source": "当天傍晚。",
+      "target": "Chạng vạng tối hôm đó."
+    },
+    {
+      "segment_id": "0055",
+      "source": "格林港，下城区，莫尼兄弟酒馆，二楼，蕾娜的卧室。",
+      "target": "Cảng Green, khu Hạ thành, quán rượu anh em Moni, tầng hai, phòng ngủ của Rena."
+    },
+    {
+      "segment_id": "0056",
+      "source": "培特正苦口婆心地劝说着蕾娜。",
+      "target": "Pete đang dốc lòng khuyên nhủ Rena."
+    },
+    {
+      "segment_id": "0057",
+      "source": "“不要紧张，放心，我都计划妥当了。”",
+      "target": "\"Đừng căng thẳng, yên tâm, tôi đều đã lên kế hoạch thỏa đáng cả rồi.\""
+    },
+    {
+      "segment_id": "0058",
+      "source": "“你只需要换几套衣服，说几句台词就行，你的人设和台词我都告诉你了！”",
+      "target": "\"Cô chỉ cần thay vài bộ quần áo, nói vài câu thoại là được, thiết lập nhân vật và lời thoại của cô tôi đều đã nói cho cô rồi!\""
+    },
+    {
+      "segment_id": "0059",
+      "source": "“一点都不难，真的！”",
+      "target": "\"Một chút cũng không khó, thật đấy!\""
+    },
+    {
+      "segment_id": "0060",
+      "source": "蕾娜满脸抗拒地打量着面前的几套衣服：",
+      "target": "Rena với khuôn mặt đầy vẻ kháng cự đánh giá vài bộ quần áo trước mặt:"
+    },
+    {
+      "segment_id": "0061",
+      "source": "一套能隐藏人身形和相貌的带兜帽长款灰袍；",
+      "target": "Một bộ áo choàng xám dáng dài có mũ trùm đầu có thể che giấu thân hình và dung mạo con người;"
+    },
+    {
+      "segment_id": "0062",
+      "source": "一件教会的修女常穿的象征侍奉神明的黑色修女服，衣领上还有个小小的天平与长剑的图案；",
+      "target": "Một bộ đồ tu nữ màu đen tượng trưng cho việc hầu hạ thần minh mà các tu nữ của giáo hội thường mặc, trên cổ áo còn có một hoa văn hình cán cân và thanh trường kiếm nho nhỏ;"
+    },
+    {
+      "segment_id": "0063",
+      "source": "以及一套被修改过的常服，附带一条白色的面纱，可以挡住自己的相貌。",
+      "target": "Cùng với một bộ thường phục đã được sửa lại, kèm theo một chiếc khăn voan màu trắng, có thể che khuất dung mạo của mình."
+    },
+    {
+      "segment_id": "0064",
+      "source": "“培特先生，我们真的要这样做吗，就没有……别的办法吗？”蕾娜纠结道。",
+      "target": "\"Anh Pete, chúng ta thật sự phải làm như vậy sao, không còn... cách nào khác sao?\" Rena xoắn xuýt nói."
+    },
+    {
+      "segment_id": "0065",
+      "source": "“这是最好的计划了，相信我，只要我们配合的好，很快就能召集到足够的人手！”",
+      "target": "\"Đây là kế hoạch tốt nhất rồi, tin tôi đi, chỉ cần chúng ta phối hợp tốt, rất nhanh là có thể triệu tập đủ nhân thủ!\""
+    },
+    {
+      "segment_id": "0066",
+      "source": "培特提醒道：“可别忘了，上回血牙帮的混混是被我赶走了没错，但事情没完，德思礼还在盯着你家酒馆呢。”",
+      "target": "Pete nhắc nhở: \"Cũng đừng quên, đám lưu manh của bang Huyết Nha lần trước bị tôi đuổi đi là đúng, nhưng sự việc vẫn chưa xong, Dursley vẫn đang chằm chằm nhìn vào quán rượu nhà cô đó.\""
+    },
+    {
+      "segment_id": "0067",
+      "source": "“不想办法提升我们的力量，拿什么打败德思礼！”",
+      "target": "\"Không nghĩ cách nâng cao sức mạnh của chúng ta, thì lấy cái gì để đánh bại Dursley!\""
+    },
+    {
+      "segment_id": "0068",
+      "source": "提到德思礼的名字，蕾娜总算勉强下定了决心。",
+      "target": "Nhắc đến tên Dursley, Rena cuối cùng cũng miễn cưỡng hạ quyết tâm."
+    },
+    {
+      "segment_id": "0069",
+      "source": "“好吧，那我……努力试试看吧。”",
+      "target": "\"Được rồi, vậy tôi... sẽ cố gắng thử xem sao.\""
+    },
+    {
+      "segment_id": "0070",
+      "source": "拿起那件用来隐藏真实形象的灰袍套在身上，蕾娜原本窈窕的身材顿时被遮掩起来。",
+      "target": "Cầm lấy bộ áo choàng xám dùng để che giấu hình tượng thật kia tròng lên người, vóc dáng vốn điệu đà của Rena lập tức bị che đậy lại."
+    },
+    {
+      "segment_id": "0071",
+      "source": "培特收拾起另外两套衣服，掏出怀表看了眼：",
+      "target": "Pete thu dọn hai bộ quần áo còn lại, móc đồng hồ quả quýt ra xem một cái:"
+    },
+    {
+      "segment_id": "0072",
+      "source": "“时间刚好，出发！”",
+      "target": "\"Thời gian vừa vặn, xuất phát!\""
+    },
+    {
+      "segment_id": "0073",
+      "source": "“我们先去下城区黑市，把消息放出去，说有路子帮人进行职业者天赋检测！”",
+      "target": "\"Chúng ta đi chợ đen khu Hạ thành trước, tung tin tức ra ngoài, nói rằng có đường dây giúp người khác tiến hành kiểm tra thiên phú chức nghiệp giả!\""
+    },
+    {
+      "segment_id": "0074",
+      "source": "……",
+      "target": "..."
+    },
+    {
+      "segment_id": "0075",
+      "source": "感谢：书友151108104612182，完美潜行，咕咕今天更新了吗，木召草，天梦幻想s，投出的月票，以及各位投出推荐票的读者朋友，蟹蟹你们！",
+      "target": "Cảm ơn: Thư hữu 151108104612182, Hoàn Mỹ Tiềm Hành, Cốc Cốc Hôm Nay Đã Cập Nhật Chưa, Mộc Triệu Thảo, Thiên Mộng Huyễn Tưởng S, đã bỏ phiếu tháng, cùng với các vị độc giả bằng hữu đã bỏ phiếu đề cử, cảm ơn các bạn!"
+    }
+  ]
+}
+```

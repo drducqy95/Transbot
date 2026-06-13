@@ -1,0 +1,38 @@
+```json
+{
+  "Names": {
+    "approved": [],
+    "rejected": [
+      "方法",
+      "都选择"
+    ],
+    "uncertain": []
+  },
+  "Terms": {
+    "approved": [
+      "潜行"
+    ],
+    "rejected": [
+      "一条一条的",
+      "感知怒气于体",
+      "战技。\n布兰",
+      "深度呼吸，状",
+      "调整强度，依"
+    ],
+    "uncertain": []
+  }
+}
+```
+
+**Reasoning:**
+
+*   **Names:**
+    *   `方法` (Phương pháp / Method): This is a common noun, not a proper name.
+    *   `都选择` (Đều chọn / All choose): This is a phrase/verb, not a name.
+*   **Terms:**
+    *   `潜行` (Tiềm hành / Stealth): This is a standard fantasy/RPG skill or state term, so it is approved.
+    *   `一条一条的` (Từng cái một / One by one): This is a common descriptive phrase, not a specialized term.
+    *   `感知怒气于体` (Cảm nhận nộ khí trong cơ thể): This reads like a descriptive phrase or action rather than a specific, standardized term. 
+    *   `战技。\n布兰` (Chiến kỹ. \nBran): While "战技" (Chiến kỹ) is a valid term and "布兰" (Bran) is a valid name, this specific string is a broken extraction containing punctuation and a newline, so it is rejected.
+    *   `深度呼吸，状` (Hít thở sâu, trạng...): This is a broken sentence fragment.
+    *   `调整强度，依` (Điều chỉnh cường độ, dựa theo...): This is also a broken sentence fragment.

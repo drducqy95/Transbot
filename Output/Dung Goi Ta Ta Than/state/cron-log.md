@@ -198,3 +198,48 @@ Audit: pass
 - 2026-06-12 16:23 | Chapter 2 | completed | Chương 0002 - Chương 2 Khởi đầu nát bét.md
 - 2026-06-12 17:03 | Chapter 3 | completed | Chương 0003 - Chương 3 Pete Chinar.md
 - 2026-06-12 18:06 | Chapter 3 | completed | Chương 0003 - Chương 3 Pete Chinar.md
+- 2026-06-12 20:10 | Chapter 4 | completed | Chương 0004 - Chương 4 Cách làm hoàn toàn khác biệt.md
+- 2026-06-13 03:02 | Chapter 5 | completed | Chương 0005 - Chương 5 Trao người cần câu.md
+- 2026-06-13 03:34 | Chapter 4 | completed | Chương 0004 - Chương 4 Cách làm hoàn toàn khác biệt.md
+- 2026-06-13 03:59 | Chapter 6 | completed | Chương 0006 - Chương 6 Thẩm vấn.md
+- 2026-06-13 04:19 | Chapter 7 | completed | Chương 0007 - Chương 7 Thần Cầu Tri.md
+- 2026-06-13 04:34 | Chapter 8 | completed | Chương 0008 - Chương 8 Bối cảnh toàn dựa vào tự bịa.md
+- 2026-06-13 05:02 | Chapter 9 | completed | Chương 0009 - Chương 9 Biết rõ chân danh.md
+- 2026-06-13 05:18 | Chapter 11 | completed | Chương 0011 - Chương 11 Giới hạn của thần lực.md
+- 2026-06-13 05:39 | Chapter 14 | completed | Chương 0014 - Chương 14 Chuyển biến tâm lý.md
+- 2026-06-13 05:49 | Chapter 15 | completed | Chương 0015 - Chương 15 Xung đột ở quán rượu.md
+- 2026-06-13 06:08 | Chapter 16 | completed | Chương 0016 - Chương 16 Ô phép Đó là thứ gì vậy.md
+- 2026-06-13 06:24 | Chapter 17 | completed | Chương 0017 - Chương 17 Rắc rối nhà Rena.md
+- 2026-06-13 06:44 | Chapter 18 | completed | Chương 0018 - Chương 18 Cô từng nghe nói đến Thần Cầu Tri chưa.md
+- 2026-06-13 07:04 | Chapter 19 | completed | Chương 0019 - Chương 19 Điểm tri thức, cơ chế phần thưởng.md
+- 2026-06-13 07:24 | Chapter 20 | completed | Chương 0020 - Chương 20 Tín đồ thứ hai.md
+- 2026-06-13 07:38 | Chapter 21 | completed | Chương 0021 - Chương 21 Tự tay chế tạo pháp trận kiểm tra.md
+- 2026-06-13 07:59 | Chapter 22 | completed | Chương 0022 - Chương 22 Hợp tác.md
+- 2026-06-13 08:13 | Chapter 21 | completed | Chương 0021 - Chương 21 Tự tay chế tạo pháp trận kiểm tra.md
+- 2026-06-13 08:33 | Chapter 23 | completed | Chương 0023 - Chương 23 Quy tắc kỳ lạ.md
+- 2026-06-13 08:47 | Chapter 26 | completed | Chương 0026 - Chương 26 Cách tu hành có thể nhìn thấy thanh tiến độ.md
+- 2026-06-13 09:11 | Chapter 27 | completed | Chương 0027 - Chương 27 Hạ thấp ngưỡng cửa.md
+- 2026-06-13 09:27 | Chapter 28 | completed | Chương 0028 - Chương 28 Thần Ám Ảnh, Thần Công Chính Chúng ta không có ý kiến.md
+- 2026-06-13 09:48 | Chapter 29 | completed | Chương 0029 - Chương 29 Chợ đen.md
+- 2026-06-13 10:31 | Chapter 30 | completed | Chương 0030 - 0030 连环套.md
+- 2026-06-13 10:49 | Chapter 34 | completed | Chương 0034 - Chương 34 Lứa hạt giống đầu tiên.md
+- 2026-06-13 11:03 | Chapter 30 | completed | Chương 0030 - 0030 连环套.md
+- 2026-06-13 11:16 | Chapter 36 | completed | Chương 0036 - 0036 你知道的，我嘴巴最严实了.md
+- 2026-06-13 11:24 | Chapter 46 | completed | Chương 0046 - 0046 活动技能.md
+- 2026-06-13 11:36 | Chapter 30 | completed | Chương 0030 - 0030 连环套.md
+- 2026-06-13 11:48 | Chapter 36 | completed | Chương 0036 - 0036 你知道的，我嘴巴最严实了.md
+- 2026-06-13 12:02 | Chapter 46 | completed | Chương 0046 - Chương 46 Kỹ năng hoạt động.md
+- 2026-06-13 12:20 | Chapter 30 | completed | Chương 0030 - Chương 30 Cạm bẫy liên hoàn.md
+- 2026-06-13 12:38 | Chapter 30 | completed | Chương 0030 - 0030 连环套.md
+- 2026-06-13 12:46 | Chapter 36 | completed | Chương 0036 - 0036 你知道的，我嘴巴最严实了.md
+- 2026-06-13 12:58 | Chapter 53 | completed | Chương 0053 - 0053 求知之神的教义真谛.md
+- 2026-06-13 13:06 | Chapter 30 | completed | Chương 0030 - 0030 连环套.md
+- 2026-06-13 13:18 | Chapter 36 | completed | Chương 0036 - 0036 你知道的，我嘴巴最严实了.md
+- 2026-06-13 13:26 | Chapter 30 | completed | Chương 0030 - 0030 连环套.md
+- 2026-06-13 13:38 | Chapter 30 | completed | Chương 0030 - 0030 连环套.md
+- 2026-06-13 13:46 | Chapter 36 | completed | Chương 0036 - 0036 你知道的，我嘴巴最严实了.md
+- 2026-06-13 13:52 | Chapter 53 | completed | Chương 0053 - 0053 求知之神的教义真谛.md
+- 2026-06-13 13:55 | Chapter 54 | completed | Chương 0054 - 0054 临时据点.md
+- 2026-06-13 13:58 | Chapter 55 | completed | Chương 0055 - 0055 邪神祭坛？能拆吗？.md
+- 2026-06-13 14:02 | Chapter 30 | completed | Chương 0030 - 0030 连环套.md
+- 2026-06-13 20:53 | Chapter 36 | completed | Chương 0036 - Chương 36 Cậu biết đấy, miệng tôi kín nhất rồi.md

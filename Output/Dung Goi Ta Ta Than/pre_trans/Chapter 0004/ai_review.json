@@ -1,0 +1,39 @@
+```json
+{
+  "approved": [
+    "任务一：调动",
+    "任务二：构筑",
+    "任务三：稳定",
+    "当前进度：0",
+    "当前进度：1",
+    "消灭神孽畸变",
+    "调动魔网"
+  ],
+  "rejected": [
+    "任务二",
+    "任务三",
+    "方法",
+    "能量",
+    "三条任务依",
+    "培根的脑海",
+    "描述：依据法",
+    "描述：通过感",
+    "描述：通过魔",
+    "检测到信徒求",
+    "的字样，不敢",
+    "的步骤教程，",
+    "的进度变成了",
+    "紧绷的神经",
+    "随着三条新"
+  ],
+  "uncertain": [
+    "任务进度已变",
+    "任务：学习法"
+  ]
+}
+```
+
+**Reasoning:**
+- **Approved**: Complete UI string terms (like "任务一：调动", "当前进度：0") and phrases that contain important glossary terms ("魔网" - Ma Võng, "神孽畸变" - Quái vật dị biến thần nghiệt). 
+- **Rejected**: Items in the "Names" list that are clearly not proper names (Task 2, Task 3, Method, Energy), general descriptive phrases ("紧绷的神经"), and heavily truncated sentence fragments that are missing characters (e.g., "描述：通过魔", "的字样，不敢", "随着三条新").
+- **Uncertain**: Strings that might be complete UI/System text but appear possibly truncated or lack context ("任务进度已变" could be missing "化" at the end, "任务：学习法" could be missing "术").

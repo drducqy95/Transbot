@@ -1,0 +1,308 @@
+```json
+{
+  "chapter_number": 21,
+  "chapter_title_vi": "Chương 21: Tự tay chế tạo pháp trận kiểm tra",
+  "segments": [
+    {
+      "segment_id": "0001",
+      "source": "# 第21章 手搓检测法阵",
+      "target": "# Chương 21: Tự tay chế tạo pháp trận kiểm tra"
+    },
+    {
+      "segment_id": "0002",
+      "source": "收到求知之神的回应，蕾娜相当惊喜，可是在看到方法是让她进行一次职业者天赋检测时，本是惊喜的眸子顿时黯淡下来，变得有些失落。",
+      "target": "Nhận được sự hồi đáp của Thần Cầu Tri, Rena vô cùng kinh ngạc và vui mừng. Thế nhưng khi thấy phương pháp là bảo cô đi kiểm tra thiên phú chức nghiệp giả, đôi mắt vốn đang vui sướng lập tức tối sầm lại, trở nên có phần hụt hẫng."
+    },
+    {
+      "segment_id": "0003",
+      "source": "“怎么？”",
+      "target": "\"Sao vậy?\""
+    },
+    {
+      "segment_id": "0004",
+      "source": "察觉到少女的情绪变化，培特开口询问。",
+      "target": "Nhận ra sự thay đổi cảm xúc của thiếu nữ, Pete lên tiếng hỏi."
+    },
+    {
+      "segment_id": "0005",
+      "source": "“求知之神建议我去做一次职业者天赋检测，可是……我付不起做检测的费用。”蕾娜遗憾道。",
+      "target": "\"Thần Cầu Tri đề nghị tôi đi kiểm tra thiên phú chức nghiệp giả một lần, nhưng mà... tôi không trả nổi chi phí kiểm tra.\" Rena tiếc nuối nói."
+    },
+    {
+      "segment_id": "0006",
+      "source": "培特明白过来。",
+      "target": "Pete chợt hiểu ra."
+    },
+    {
+      "segment_id": "0007",
+      "source": "职业者天赋检测，这东西几乎跟普通人家没有什么关系，其测试费用高昂到吓人。",
+      "target": "Kiểm tra thiên phú chức nghiệp giả, thứ này gần như chẳng có liên quan gì đến gia đình bình thường, chi phí kiểm tra của nó đắt đỏ đến mức đáng sợ."
+    },
+    {
+      "segment_id": "0008",
+      "source": "这跟单独测试与某位神明的亲和度不同。",
+      "target": "Nó khác với việc chỉ kiểm tra độ thân hòa với một vị thần minh nào đó."
+    },
+    {
+      "segment_id": "0009",
+      "source": "除了“性情随和”不怎么在乎信徒的魔法女神，愿意放任信徒们来去自由之外，普兰蒂斯大陆上的绝大多数的神其实都有点小心眼的意思。",
+      "target": "Ngoại trừ Nữ thần Ma pháp \"tính tình hòa nhã\", không mấy bận tâm đến tín đồ, sẵn sàng để mặc tín đồ đến đi tự do ra, tuyệt đại đa số các vị thần trên đại lục Plantis thực chất đều có phần hẹp hòi."
+    },
+    {
+      "segment_id": "0010",
+      "source": "凡人需要向某位神明进行初次祈祷，正式献上祈祷建立联系后，才能感知到自己与这位神祇的亲和程度具体如何。",
+      "target": "Phàm nhân cần tiến hành lần cầu nguyện đầu tiên với một vị thần minh nào đó, sau khi chính thức dâng lên lời cầu nguyện thiết lập liên kết, mới có thể cảm nhận được mức độ thân hòa giữa bản thân và vị thần linh này cụ thể ra sao."
+    },
+    {
+      "segment_id": "0011",
+      "source": "倘若亲和度不高，打算弃信“改投他神”，除了会失去现有神明的赐福之外，还会被大部分神明“拉黑”一段时间。",
+      "target": "Giả sử độ thân hòa không cao, định từ bỏ đức tin \"chuyển sang thần khác\", ngoài việc mất đi sự ban phước của vị thần hiện tại, còn bị phần lớn các vị thần \"đưa vào danh sách đen\" một khoảng thời gian."
+    },
+    {
+      "segment_id": "0012",
+      "source": "短则一年，长则数年，甚至更久。",
+      "target": "Ngắn thì một năm, dài thì vài năm, thậm chí là lâu hơn."
+    },
+    {
+      "segment_id": "0013",
+      "source": "在这段时间里，弃信的凡人会成为“神弃者”，不会有神愿意接受他的祈祷，也不能享受到除了魔法女神之外的任何神明的赐福加持。",
+      "target": "Trong khoảng thời gian này, phàm nhân bỏ đạo sẽ trở thành \"kẻ bị thần ruồng bỏ\", sẽ không có vị thần nào nguyện ý chấp nhận lời cầu nguyện của hắn, cũng không thể nhận được bất kỳ sự ban phước gia trì nào từ bất kỳ vị thần minh nào ngoại trừ Nữ thần Ma pháp."
+    },
+    {
+      "segment_id": "0014",
+      "source": "并且，弃信的经历会被神明记住，往后如果想成为真信徒、狂信徒乃至圣灵，越往上，弃信者越难以晋升。",
+      "target": "Hơn nữa, lịch sử bỏ đạo sẽ bị các vị thần ghi nhớ. Sau này nếu muốn trở thành chân tín đồ, cuồng tín đồ hay thậm chí là thánh linh, càng lên cao, kẻ bỏ đạo càng khó thăng tiến."
+    },
+    {
+      "segment_id": "0015",
+      "source": "原因也很好理解。",
+      "target": "Lý do cũng rất dễ hiểu."
+    },
+    {
+      "segment_id": "0016",
+      "source": "神明的视角里，这种在多位神明之间来回横跳的家伙，摆明了就是信仰不坚定的墙头草，既然他能弃信上家，说不定哪天也会因同样的理由再弃信自己。",
+      "target": "Trong góc nhìn của thần minh, cái loại qua lại vắt vẻo giữa nhiều vị thần thế này, rõ ràng là loại gió chiều nào che chiều ấy, tín ngưỡng không kiên định. Đã có thể phản bội nhà trước, nói không chừng ngày nào đó cũng sẽ vì lý do tương tự mà phản bội mình."
+    },
+    {
+      "segment_id": "0017",
+      "source": "这种投机的行为，自然会被神明所不喜。",
+      "target": "Hành vi đầu cơ này, đương nhiên sẽ không được thần minh yêu thích."
+    },
+    {
+      "segment_id": "0018",
+      "source": "因此，选择信仰对凡人来说是件非常重要的事情，需要充分了解对应神明的特性和影响，一旦祈祷过后才发现不合适，大部分人也只能就这么认命了。",
+      "target": "Bởi vậy, việc chọn lựa tín ngưỡng đối với người phàm mà nói là một chuyện vô cùng quan trọng, cần phải tìm hiểu thật kỹ càng đặc tính và ảnh hưởng của vị thần tương ứng. Một khi cầu nguyện xong mới phát hiện không phù hợp, phần lớn mọi người cũng đành chấp nhận số phận."
+    },
+    {
+      "segment_id": "0019",
+      "source": "反正如果不打算成为职业者的话，浅信徒也能享受到最基础的一点微弱的赐福效果，就算改换门庭，区别也没那么大。",
+      "target": "Dù sao thì nếu không định trở thành chức nghiệp giả, tín đồ nông cạn cũng có thể hưởng thụ được một chút hiệu quả ban phước yếu ớt cơ bản nhất. Cho dù có đổi môn phái thì sự khác biệt cũng không quá lớn."
+    },
+    {
+      "segment_id": "0020",
+      "source": "当然，倘若想走上职业者道路的话，最好在一开始就选择最适合自己发展路线的神明。",
+      "target": "Đương nhiên, nếu muốn bước lên con đường của chức nghiệp giả, tốt nhất là ngay từ đầu đã chọn vị thần phù hợp nhất với hướng phát triển của bản thân."
+    },
+    {
+      "segment_id": "0021",
+      "source": "想找到跟自己亲和度最高的神明，需要进行天赋检测仪式。",
+      "target": "Muốn tìm được thần minh có độ thân hòa cao nhất với mình thì cần phải tiến hành nghi thức kiểm tra thiên phú."
+    },
+    {
+      "segment_id": "0022",
+      "source": "真正的天赋检测仪式，需要公正之神菲尔的真信徒作为主持者。",
+      "target": "Nghi thức kiểm tra thiên phú thực sự, cần có chân tín đồ của Thần Công Chính Phil làm người chủ trì."
+    },
+    {
+      "segment_id": "0023",
+      "source": "被测者进入特定的仪式法阵中，菲尔的信徒通过神术请求公正之神降下注视，用祂的无尽伟力，全面的评价被测者与各位神明的亲和度。",
+      "target": "Người được kiểm tra bước vào trong một trận pháp nghi thức đặc thù, tín đồ của Phil thông qua thần thuật thỉnh cầu Thần Công Chính giáng xuống ánh nhìn. Dùng sức mạnh vĩ đại vô tận của Ngài để đánh giá toàn diện độ thân hòa giữa người được kiểm tra và các vị thần."
+    },
+    {
+      "segment_id": "0024",
+      "source": "可是公正之神的真信徒数量十分稀少。",
+      "target": "Thế nhưng số lượng chân tín đồ của Thần Công Chính lại vô cùng ít ỏi."
+    },
+    {
+      "segment_id": "0025",
+      "source": "因为想成为祂的真信徒要求十分苛刻，必须要符合教义，为人行事公平，不偏不倚，不徇私情，不撒谎，不欺诈，恪守承诺和誓言，维护秩序。",
+      "target": "Bởi vì muốn trở thành chân tín đồ của Ngài có yêu cầu vô cùng khắt khe, bắt buộc phải phù hợp với giáo lý: Làm người hành xử công bằng, không thiên vị, không bao che tư tình, không nói dối, không lừa gạt, tuân thủ nghiêm ngặt lời hứa và lời thề, bảo vệ trật tự."
+    },
+    {
+      "segment_id": "0026",
+      "source": "只有很少一部分人能做到这些要求。",
+      "target": "Chỉ có một bộ phận rất nhỏ người có thể đáp ứng được những yêu cầu này."
+    },
+    {
+      "segment_id": "0027",
+      "source": "据培特所知，整个格林港的公正之神真信徒数量屈指可数。",
+      "target": "Theo như Pete biết, số lượng chân tín đồ của Thần Công Chính ở toàn bộ cảng Green đếm trên đầu ngón tay."
+    },
+    {
+      "segment_id": "0028",
+      "source": "想请动其中一位，发动神术来为被测者检测职业者天赋，价格对普通人来说就是个天文数字。",
+      "target": "Muốn mời được một vị trong số họ khởi động thần thuật để kiểm tra thiên phú chức nghiệp giả cho người được kiểm tra, thì cái giá phải trả đối với người bình thường mà nói chính là một con số thiên văn."
+    },
+    {
+      "segment_id": "0029",
+      "source": "培特皱眉：“不对吧，求知之神知道你现在的境况，他应该不会让你去做一件你做不到的事情。”",
+      "target": "Pete nhíu mày: \"Không đúng nhỉ, Thần Cầu Tri biết tình cảnh hiện tại của cô, Ngài ấy hẳn sẽ không bắt cô làm một việc mà cô không làm được đâu.\""
+    },
+    {
+      "segment_id": "0030",
+      "source": "“除了让你做职业者天赋检测，求知之神给你的信息里还说了什么？”",
+      "target": "\"Ngoài việc bảo cô làm kiểm tra thiên phú chức nghiệp giả, trong thông tin Thần Cầu Tri truyền cho cô còn nói gì nữa không?\""
+    },
+    {
+      "segment_id": "0031",
+      "source": "蕾娜迟疑道：“嗯，下面倒是还有一句话，说什么需要我支付5知识点数。” \n\n“培特先生，知识点数是什么意思？”",
+      "target": "Rena chần chừ nói: \"Ưm, bên dưới còn một câu nữa, bảo là cần tôi phải trả 5 điểm tri thức.\" \"Anh Pete, điểm tri thức là có ý gì?\""
+    },
+    {
+      "segment_id": "0032",
+      "source": "培特耐心地解释道：“求知之神告诉我，祂不会无条件的随时帮助我们，而是要我们自己去做出努力。”",
+      "target": "Pete kiên nhẫn giải thích: \"Thần Cầu Tri bảo tôi, Ngài sẽ không giúp đỡ chúng ta mọi lúc vô điều kiện, mà cần chúng ta tự mình cố gắng.\""
+    },
+    {
+      "segment_id": "0033",
+      "source": "“求知之神会注视着祂的信徒，按照教义做事，为祂献上信仰，祂就会给信徒们奖励知识点数。”",
+      "target": "\"Thần Cầu Tri sẽ luôn dõi theo tín đồ của Ngài. Làm việc theo giáo lý, dâng lên đức tin cho Ngài, Ngài sẽ thưởng điểm tri thức cho tín đồ.\""
+    },
+    {
+      "segment_id": "0034",
+      "source": "“不用担心自己和求知之神诺文的亲和度不够高，只要你有足够的知识点数，就可以用来从祂那里换取你需要的东西。”",
+      "target": "\"Không cần lo lắng bản thân có độ thân hòa với Thần Cầu Tri Noven không đủ cao, chỉ cần cô có đủ điểm tri thức, cô có thể dùng nó để đổi lấy những thứ cô cần từ chỗ Ngài.\""
+    },
+    {
+      "segment_id": "0035",
+      "source": "“你现在有多少知识点数？”",
+      "target": "\"Hiện giờ cô có bao nhiêu điểm tri thức?\""
+    },
+    {
+      "segment_id": "0036",
+      "source": "蕾娜沉下心神感受了下。",
+      "target": "Rena tập trung tâm trí cảm nhận một chút."
+    },
+    {
+      "segment_id": "0037",
+      "source": "【当前知识点数：10】",
+      "target": "[Điểm tri thức hiện tại: 10]"
+    },
+    {
+      "segment_id": "0038",
+      "source": "“有10点！似乎是在求知之神接受我的信仰时，说是什么新信徒福利奖励的！”",
+      "target": "\"Có 10 điểm! Hình như là lúc Thần Cầu Tri chấp nhận đức tin của tôi, nói cái gì mà phần thưởng phúc lợi cho tín đồ mới ấy!\""
+    },
+    {
+      "segment_id": "0039",
+      "source": "培特轻啧了一声，先是有点羡慕，毕竟他想办法给蕾娜传教才获得了5点知识点数，结果蕾娜仅仅只是刚刚成为信徒就能有10点的奖励。",
+      "target": "Pete khẽ chép miệng một cái, đầu tiên là hơi ghen tị. Dù sao cậu đã tìm cách truyền đạo cho Rena mới kiếm được 5 điểm tri thức, kết quả là Rena mới chỉ vừa trở thành tín đồ thôi mà đã nhận được hẳn 10 điểm phần thưởng."
+    },
+    {
+      "segment_id": "0040",
+      "source": "不过转念一想，之前在他遇到生命危险的时候，求知之神可是直接给了他一个威力巨大的3阶法术，包括后来在警署，以及击败混混们用的【奥术飞弹】也都是求知之神直接就给他的。",
+      "target": "Tuy nhiên nghĩ lại thì, lúc trước khi cậu gặp nguy hiểm tới tính mạng, Thần Cầu Tri đã trực tiếp ban cho cậu một pháp thuật bậc 3 uy lực khổng lồ. Bao gồm cả việc ở đồn cảnh sát sau đó, và [Ma Tiễn Bí Thuật] dùng để đánh bại đám du côn cũng đều là Thần Cầu Tri trực tiếp ban cho cậu."
+    },
+    {
+      "segment_id": "0041",
+      "source": "这样安慰着自己，培特平衡了起来。",
+      "target": "Cứ tự an ủi mình như thế, Pete thấy tâm lý cân bằng trở lại."
+    },
+    {
+      "segment_id": "0042",
+      "source": "“你试试用掉要求的5个点数，看看求知之神会给你什么办法？”培特建议道。",
+      "target": "\"Cô thử tiêu 5 điểm theo như yêu cầu xem sao, xem Thần Cầu Tri sẽ cho cô cách gì?\" Pete đề nghị."
+    },
+    {
+      "segment_id": "0043",
+      "source": "蕾娜听话地闭上眼睛，尝试着呼唤诺文。",
+      "target": "Rena ngoan ngoãn nhắm mắt lại, thử gọi tên Noven."
+    },
+    {
+      "segment_id": "0044",
+      "source": "念头转过，提示传来：",
+      "target": "Ý nghĩ vừa chuyển, thông báo truyền đến:"
+    },
+    {
+      "segment_id": "0045",
+      "source": "【检测到信徒诉求。】",
+      "target": "[Đã nhận được thỉnh cầu của tín đồ.]"
+    },
+    {
+      "segment_id": "0046",
+      "source": "【你已失去5知识点数。】",
+      "target": "[Bạn đã mất 5 điểm tri thức.]"
+    },
+    {
+      "segment_id": "0047",
+      "source": "【奖励：职业者天赋检测法阵制作原理，基础检测法】",
+      "target": "[Phần thưởng: Nguyên lý chế tạo pháp trận kiểm tra thiên phú chức nghiệp giả, phương pháp kiểm tra cơ bản.]"
+    },
+    {
+      "segment_id": "0048",
+      "source": "蕾娜眼睛顿时惊讶的睁大！",
+      "target": "Rena lập tức mở to đôi mắt đầy kinh ngạc!"
+    },
+    {
+      "segment_id": "0049",
+      "source": "“培特先生！求知之神给了我……一个叫职业者天赋检测法阵制作原理的东西，好像还有配套的检测方法什么的！”",
+      "target": "\"Anh Pete! Thần Cầu Tri đã cho tôi... một thứ gọi là nguyên lý chế tạo pháp trận kiểm tra thiên phú chức nghiệp giả, hình như còn có cả phương pháp kiểm tra đi kèm nữa!\""
+    },
+    {
+      "segment_id": "0050",
+      "source": "一边说着，蕾娜发现提示还可以查看更具体的详细信息。",
+      "target": "Vừa nói, Rena vừa phát hiện có thể xem được thông tin chi tiết cụ thể hơn từ thông báo."
+    },
+    {
+      "segment_id": "0051",
+      "source": "“制作原理里说，需要最少50平米的空旷房间，用经过法师注魔的颜料刻画出对应房间比例的法阵……”",
+      "target": "\"Trong nguyên lý chế tạo có nói, cần một căn phòng trống ít nhất 50 mét vuông, dùng mực vẽ đã được pháp sư phù phép ma lực khắc họa ra pháp trận tương ứng với tỷ lệ của căn phòng...\""
+    },
+    {
+      "segment_id": "0052",
+      "source": "“……准备银质的天平、长剑、以及公正之神菲尔的神像，摆在法阵的三个仪式点，嗯，重量和材质好像也要根据法阵的规模专门计算。”",
+      "target": "\"... Chuẩn bị một cái cân bằng bạc, trường kiếm, cùng với tượng Thần Công Chính Phil, đặt ở ba điểm nghi thức của pháp trận. Ưm, trọng lượng và chất liệu hình như cũng phải tính toán riêng dựa trên quy mô của pháp trận.\""
+    },
+    {
+      "segment_id": "0053",
+      "source": "培特听愣了。",
+      "target": "Pete nghe mà sững sờ."
+    },
+    {
+      "segment_id": "0054",
+      "source": "他在雷亚克王国的时候做过一次职业者天赋检测，当然，检测的结果很差劲，他跟绝大部分职业路线都不怎么合拍，无论选择哪个职业，想晋升到3阶都很难。",
+      "target": "Khi còn ở vương quốc Reyak cậu từng làm kiểm tra thiên phú chức nghiệp giả một lần. Đương nhiên, kết quả kiểm tra rất tệ. Cậu không hề hợp với tuyệt đại đa số các tuyến chức nghiệp, bất luận là chọn chức nghiệp nào, muốn thăng lên bậc 3 đều rất khó."
+    },
+    {
+      "segment_id": "0055",
+      "source": "为了糊弄贵族继承法，最少要在一条战斗职业道路成为3阶，所以培特最后才选择了相对不那么辛苦，而且可以随时弃信的魔法女神，走了法师的职业路线。",
+      "target": "Để lách luật thừa kế của quý tộc, ít nhất phải trở thành bậc 3 ở một con đường chức nghiệp chiến đấu. Vì vậy cuối cùng Pete mới chọn Nữ thần Ma pháp - tương đối không quá vất vả mà lại có thể bỏ đạo bất cứ lúc nào, theo tuyến chức nghiệp pháp sư."
+    },
+    {
+      "segment_id": "0056",
+      "source": "他记得那个时候的天赋检测仪式，当时的法阵里的确就有天平、长剑和神像这些东西！",
+      "target": "Cậu vẫn còn nhớ rõ nghi thức kiểm tra thiên phú dạo đó, trong pháp trận lúc ấy quả thực là có mấy thứ như cân bàn, trường kiếm và tượng thần!"
+    },
+    {
+      "segment_id": "0057",
+      "source": "求知之神诺文提供的这些信息，如果都准确无误的话……",
+      "target": "Nếu những thông tin mà Thần Cầu Tri Noven cung cấp này đều chuẩn xác không chút sai sót nào..."
+    },
+    {
+      "segment_id": "0058",
+      "source": "培特想到了一种让他激动到战栗的可能性：",
+      "target": "Pete nghĩ tới một khả năng khiến cậu kích động đến mức run rẩy:"
+    },
+    {
+      "segment_id": "0059",
+      "source": "他们这些并非公正之神菲尔真信徒的人，该不会也能手搓一套检测法阵出来，完成对职业者天赋的检测吧！",
+      "target": "Những người không phải chân tín đồ của Thần Công Chính Phil như họ, chẳng lẽ cũng có thể tự tay chế tạo ra một bộ pháp trận kiểm tra, hoàn thành việc kiểm tra thiên phú chức nghiệp giả sao!"
+    },
+    {
+      "segment_id": "0060",
+      "source": "……",
+      "target": "..."
+    }
+  ]
+}
+```

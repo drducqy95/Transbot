@@ -1,0 +1,50 @@
+```json
+{
+  "names": {
+    "approved": [],
+    "rejected": [
+      "任务",
+      "方法",
+      "时候",
+      "许多"
+    ],
+    "uncertain": []
+  },
+  "terms": {
+    "approved": [
+      "哈达之饥渴",
+      "法术反制",
+      "真名知晓"
+    ],
+    "rejected": [
+      "“发生什么",
+      "任务已发布。",
+      "任务已完成",
+      "任务：学习法",
+      "任务：对巴哈",
+      "坐在对面的",
+      "法术类似的体",
+      "的法术。\n这",
+      "的经验，这回",
+      "神国中诺文",
+      "魔法的过程很",
+      "，导致这原本"
+    ],
+    "uncertain": [
+      "当前信任程度"
+    ]
+  }
+}
+```
+
+### Explanation:
+**Names:**
+*   **Rejected**: `任务` (Task), `方法` (Method), `时候` (Time), `许多` (Many) are common vocabulary words, not proper names.
+
+**Terms:**
+*   **Approved**: 
+    *   `哈达之饥渴`: Matches the glossary (`【Cơn Đói Khát của Hada】`).
+    *   `法术反制`: Standard magic term (Counterspell).
+    *   `真名知晓`: Standard magic term/ability (Know True Name).
+*   **Rejected**: Most of these are incorrectly extracted sentence fragments, UI texts with punctuation, or cut-off phrases (e.g., `任务：学习法` is likely cut off from `法术`, `神国中诺文` is a phrase combining two different glossary terms `神国` and `诺文`).
+*   **Uncertain**: `当前信任程度` (Current trust level) could be a valid system/UI term depending on the context of the novel (if it has game-like elements), but it is not a traditional lore term.

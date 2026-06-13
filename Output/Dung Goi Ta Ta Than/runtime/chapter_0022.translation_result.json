@@ -1,0 +1,311 @@
+{
+  "schema_version": "2.0",
+  "chapter_id": "chapter_0022",
+  "segment_translations": [
+    {
+      "segment_id": "0001",
+      "source": "# 第22章 合作",
+      "target": "# Chương 22: Hợp tác"
+    },
+    {
+      "segment_id": "0002",
+      "source": "这个想法是如此的疯狂，但却如蔓延的野火般，念头生出后，培特便再也压不下去了。",
+      "target": "Ý tưởng này quá đỗi điên rồ, nhưng nó cứ như ngọn lửa hoang lan rộng, một khi suy nghĩ ấy đã nảy sinh, Pete không thể nào dập tắt được nữa."
+    },
+    {
+      "segment_id": "0003",
+      "source": "因为他觉得求知之神真的能做到！",
+      "target": "Bởi vì anh cảm thấy Thần Cầu Tri thực sự có thể làm được!"
+    },
+    {
+      "segment_id": "0004",
+      "source": "无论是【哈达之饥渴】还是【奥术飞弹】法术，求知之神教给他的施法方式都与魔法女神信徒的那套完全不同，甚至可以说算是绕过了魔法女神的限制，凭借自己调动魔网完成的施法！",
+      "target": "Bất kể là phép thuật [Cơn Đói Của Hadar] hay [Phi Đạn Ma Pháp], cách thức thi triển mà Thần Cầu Tri truyền thụ cho anh đều hoàn toàn khác biệt so với tín đồ của Nữ thần Ma pháp, thậm chí có thể nói là đã lách qua giới hạn của Nữ thần Ma pháp, tự mình điều động Ma Võng để hoàn thành việc thi triển phép thuật!"
+    },
+    {
+      "segment_id": "0005",
+      "source": "这种事情，培特估计他要是说给卡罗恩学院奥法学院的同学的话，肯定不会有人相信，只当他在开什么玩笑。",
+      "target": "Chuyện như thế này, Pete đoán nếu anh mà kể cho bạn học ở Học viện Ma Pháp của Học viện Karon, chắc chắn sẽ chẳng có ai tin, chỉ coi như anh đang đùa cợt mà thôi."
+    },
+    {
+      "segment_id": "0006",
+      "source": "既然求知之神都能绕过魔法女神，那绕过公正之神说不定也可以！",
+      "target": "Thần Cầu Tri đã có thể lách qua Nữ thần Ma pháp, vậy thì lách qua Thần Công Chính biết đâu cũng được!"
+    },
+    {
+      "segment_id": "0007",
+      "source": "保险起见，培特紧张地朝蕾娜确认道：“你仔细看一下，求知之神的方法里，有没有要求必须公正之神的真信徒来主持仪式？”",
+      "target": "Để cho chắc chắn, Pete căng thẳng xác nhận với Rena: \"Cô xem kỹ lại xem, trong phương pháp của Thần Cầu Tri, có yêu cầu bắt buộc phải là chân tín đồ của Thần Công Chính mới được chủ trì nghi thức không?\""
+    },
+    {
+      "segment_id": "0008",
+      "source": "蕾娜花了些时间，将整个检测仪式流程从头到尾认真地看完。",
+      "target": "Rena tốn chút thời gian, cẩn thận xem xong toàn bộ quy trình nghi thức kiểm tra từ đầu đến cuối."
+    },
+    {
+      "segment_id": "0009",
+      "source": "“没有。”",
+      "target": "\"Không có.\""
+    },
+    {
+      "segment_id": "0010",
+      "source": "“除了接受检测的人之外，只需要有另一个人按照格式和流程主持即可，并没有要求主持者的信仰。”",
+      "target": "\"Ngoại trừ người tiếp nhận kiểm tra, chỉ cần một người khác chủ trì theo đúng định dạng và quy trình là được, không hề có yêu cầu gì về tín ngưỡng của người chủ trì.\""
+    },
+    {
+      "segment_id": "0011",
+      "source": "贵族出身带来的眼界和见识，让培特瞬间意识到了求知之神赐给蕾娜的东西究竟有多珍贵！",
+      "target": "Tầm nhìn và kiến thức mang lại từ xuất thân quý tộc giúp Pete lập tức ý thức được thứ mà Thần Cầu Tri ban cho Rena rốt cuộc trân quý đến mức nào!"
+    },
+    {
+      "segment_id": "0012",
+      "source": "为什么职业者天赋检测的费用那么昂贵？",
+      "target": "Tại sao chi phí kiểm tra thiên phú của người có chức nghiệp lại đắt đỏ như vậy?"
+    },
+    {
+      "segment_id": "0013",
+      "source": "还不是因为检测的办法被完全垄断在了公正之神的教会，只有公正之神菲尔的真信徒能使用神术来进行检测。",
+      "target": "Còn chẳng phải vì phương pháp kiểm tra đã bị giáo hội của Thần Công Chính lũng đoạn hoàn toàn sao, chỉ có chân tín đồ của Thần Công Chính Phil mới có thể sử dụng thần thuật để tiến hành kiểm tra."
+    },
+    {
+      "segment_id": "0014",
+      "source": "有的是人排着队等检测，这是纯纯的卖方市场！",
+      "target": "Cả khối người đang xếp hàng chờ kiểm tra, đây hoàn toàn là thị trường của người bán!"
+    },
+    {
+      "segment_id": "0015",
+      "source": "只此一家，爱测不测！",
+      "target": "Độc quyền một nhà, muốn kiểm tra thì kiểm, không kiểm thì thôi!"
+    },
+    {
+      "segment_id": "0016",
+      "source": "公正之神教会开出多高的价码，想测试的人都得捏着鼻子接受。",
+      "target": "Giáo hội Thần Công Chính đưa ra cái giá cao bao nhiêu, những người muốn kiểm tra đều phải nhắm mắt đưa chân mà chấp nhận."
+    },
+    {
+      "segment_id": "0017",
+      "source": "倘若现在有一种办法，可以达到跟公正之神教会的神术相同的效果；",
+      "target": "Giả sử bây giờ có một loại phương pháp, có thể đạt được hiệu quả tương đương với thần thuật của giáo hội Thần Công Chính;"
+    },
+    {
+      "segment_id": "0018",
+      "source": "甚至不需要相同效果，能有一半的效果也可以！",
+      "target": "Thậm chí không cần hiệu quả tương đương, chỉ cần bằng một nửa hiệu quả thôi cũng được!"
+    },
+    {
+      "segment_id": "0019",
+      "source": "如果公布出去，会有大堆的人带着大把大把的金币过来请求测试机会，随随便便就能发家致富。",
+      "target": "Nếu công bố ra ngoài, sẽ có một lượng lớn người mang theo từng đống từng đống tiền vàng đến cầu xin cơ hội kiểm tra, chỉ cần làm tàng tàng cũng đủ phất lên làm giàu."
+    },
+    {
+      "segment_id": "0020",
+      "source": "下一秒，培特又反应过来。",
+      "target": "Giây tiếp theo, Pete lại kịp phản ứng lại."
+    },
+    {
+      "segment_id": "0021",
+      "source": "“不对，不能就这么公布！”",
+      "target": "\"Không đúng, không thể cứ thế mà công bố!\""
+    },
+    {
+      "segment_id": "0022",
+      "source": "“蕾娜现在还只是个普通人，我也只是个小小的2阶法师。”",
+      "target": "\"Rena bây giờ vẫn chỉ là một người bình thường, tôi cũng chỉ là một Pháp sư bậc 2 nhỏ bé.\""
+    },
+    {
+      "segment_id": "0023",
+      "source": "“要是被公正之神教会知道他们的独家神术有了同类替代品，虽然公正之神的信徒们没什么战斗力，但他们有钱，完全可以重金发布委托，雇佣高阶的职业者过来消除隐患，维持他们的垄断。”",
+      "target": "\"Nếu để giáo hội Thần Công Chính biết thần thuật độc quyền của họ đã có sản phẩm thay thế cùng loại, tuy tín đồ của Thần Công Chính không có lực chiến đấu gì mấy, nhưng họ có tiền, hoàn toàn có thể vung tiền tung ra ủy thác, thuê những người có chức nghiệp bậc cao đến trừ khử hiểm họa ngầm, duy trì sự lũng đoạn của họ.\""
+    },
+    {
+      "segment_id": "0024",
+      "source": "“甚至，哪怕不是公正之神教会的人，只要对这个办法眼红的人都会试图挖出秘密，将方法掌握在自己手里。”",
+      "target": "\"Thậm chí, dù không phải là người của giáo hội Thần Công Chính, chỉ cần những kẻ thèm khát phương pháp này đều sẽ tìm cách đào ra bí mật, nắm giữ phương pháp đó trong tay mình.\""
+    },
+    {
+      "segment_id": "0025",
+      "source": "想到这里，培特只觉冷汗都快下来了。",
+      "target": "Nghĩ đến đây, Pete chỉ cảm thấy mồ hôi lạnh sắp tuôn rơi."
+    },
+    {
+      "segment_id": "0026",
+      "source": "这种打破垄断级别的东西，在没有足够的实力守护之前，太过张扬只会让自己死的快。",
+      "target": "Cái thứ thuộc cấp độ phá vỡ thế độc quyền này, trước khi có đủ thực lực để bảo vệ, quá phô trương sẽ chỉ khiến bản thân chết nhanh hơn."
+    },
+    {
+      "segment_id": "0027",
+      "source": "当然，一味地害怕被发现，藏着掖着不敢拿出来用肯定也不是个好的选择。",
+      "target": "Dĩ nhiên, cứ mải lo sợ bị phát hiện, giấu giếm không dám lấy ra dùng chắc chắn cũng không phải là một lựa chọn tốt."
+    },
+    {
+      "segment_id": "0028",
+      "source": "培特心思电转，短短几秒时间里，想到了一个在风险可控的前提下，将收益尽可能扩大的方法：",
+      "target": "Tâm tư Pete nhanh như chớp, chỉ trong vòng vài giây ngắn ngủi, anh đã nghĩ ra một phương pháp để tối đa hóa lợi ích trong điều kiện rủi ro có thể kiểm soát được:"
+    },
+    {
+      "segment_id": "0029",
+      "source": "格林港的下城区虽然环境混乱，治安糟糕，罪恶丛生，但这份无序却先天为各种黑市交易提供了一份优良的掩护。",
+      "target": "Khu Hạ Thành của Cảng Green tuy môi trường hỗn loạn, trị an tồi tệ, tội ác mọc lên như nấm, nhưng sự vô trật tự này lại bẩm sinh cung cấp một lớp ngụy trang tuyệt vời cho các loại giao dịch chợ đen."
+    },
+    {
+      "segment_id": "0030",
+      "source": "各种各样来路不明的违禁品和捕风捉影的情报消息都会在下城区流通，当然，无论是物品还是消息的真实性都很难说。",
+      "target": "Đủ các loại hàng cấm không rõ nguồn gốc và những tin tức tình báo mập mờ đều sẽ lưu thông ở Khu Hạ Thành, tất nhiên, tính chân thực của đồ vật hay tin tức đều rất khó nói."
+    },
+    {
+      "segment_id": "0031",
+      "source": "在这鱼龙混杂的地方，究竟是吃亏上当还是捡漏占便宜，全凭自己的本事。",
+      "target": "Ở cái nơi vàng thau lẫn lộn này, rốt cuộc là chịu thiệt mắc lừa hay vớ bở nhặt nhạnh được món hời, toàn bộ phải dựa vào bản lĩnh của chính mình."
+    },
+    {
+      "segment_id": "0032",
+      "source": "没法明目张胆的搞，但是可以走黑市路线！",
+      "target": "Không có cách nào công khai trắng trợn làm được, nhưng có thể đi theo con đường chợ đen!"
+    },
+    {
+      "segment_id": "0033",
+      "source": "将注意力转到蕾娜，培特十分认真道：",
+      "target": "Chuyển sự chú ý sang Rena, Pete vô cùng nghiêm túc nói:"
+    },
+    {
+      "segment_id": "0034",
+      "source": "“蕾娜，我有个建议。”",
+      "target": "\"Rena, tôi có một đề nghị.\""
+    },
+    {
+      "segment_id": "0035",
+      "source": "“我们合作吧。”      “职业者天赋检测仪式需要的各种材料，对你来说会是一笔不菲的开销，这部分东西我可以帮你搞定，不需要你出钱，仪式我也可以帮助你来主持。”",
+      "target": "\"Chúng ta hợp tác đi.\" \"Các loại vật liệu cần thiết cho nghi thức kiểm tra thiên phú của người có chức nghiệp sẽ là một khoản chi phí không nhỏ đối với cô, phần đồ vật này tôi có thể lo liệu giúp cô, cô không cần phải bỏ tiền, nghi thức tôi cũng có thể giúp cô chủ trì.\""
+    },
+    {
+      "segment_id": "0036",
+      "source": "“作为交换，有关这个仪式的事情，我希望我们能够建立合作。”",
+      "target": "\"Đổi lại, về những chuyện liên quan đến nghi thức này, tôi hy vọng chúng ta có thể thiết lập quan hệ hợp tác.\""
+    },
+    {
+      "segment_id": "0037",
+      "source": "“如果运作的好的话，利用这个仪式，我们应该能在暗中招揽到不少人手，外加赚到一大笔钱。”",
+      "target": "\"Nếu vận hành tốt, lợi dụng nghi thức này, chúng ta hẳn là có thể âm thầm chiêu mộ được không ít nhân thủ, ngoài ra còn kiếm được một món tiền lớn.\""
+    },
+    {
+      "segment_id": "0038",
+      "source": "“到时候，血牙帮德思礼的麻烦自然就有办法解决了。”",
+      "target": "\"Đến lúc đó, rắc rối từ Dursley của Bang Huyết Nha tự nhiên sẽ có cách giải quyết.\""
+    },
+    {
+      "segment_id": "0039",
+      "source": "培特的计划很简单。",
+      "target": "Kế hoạch của Pete rất đơn giản."
+    },
+    {
+      "segment_id": "0040",
+      "source": "只要他也向求知之神祈祷，花费5个知识点数同样能拿到天赋检测仪式相关的方法。",
+      "target": "Chỉ cần anh cũng cầu nguyện với Thần Cầu Tri, tiêu tốn 5 Điểm Tri Thức là cũng có thể lấy được phương pháp liên quan đến nghi thức kiểm tra thiên phú."
+    },
+    {
+      "segment_id": "0041",
+      "source": "他有把握凭借着提供职业者天赋检测的这项“业务”，在格林港下城区的黑市赚上一大笔钱。",
+      "target": "Anh nắm chắc có thể dựa vào \"nghiệp vụ\" cung cấp kiểm tra thiên phú người có chức nghiệp này để kiếm được một món hời lớn ở chợ đen thuộc Khu Hạ Thành của Cảng Green."
+    },
+    {
+      "segment_id": "0042",
+      "source": "但是这件事存在着一定的风险，毕竟这相当于是在掘公正之神教会的摇钱树。",
+      "target": "Nhưng chuyện này vẫn tồn tại một rủi ro nhất định, xét cho cùng thì việc này cũng tương đương với việc đang đập vỡ nồi cơm của giáo hội Thần Công Chính."
+    },
+    {
+      "segment_id": "0043",
+      "source": "他需要推出一个人顶在前面，充当站在“台前”的人，替他承担这其中的危险。",
+      "target": "Anh cần phải đẩy một người lên phía trước làm bình phong, đóng vai trò là người đứng \"ngoài sáng\", thay anh gánh vác sự nguy hiểm trong đó."
+    },
+    {
+      "segment_id": "0044",
+      "source": "刚好，蕾娜就是个现成的不错人选。",
+      "target": "Vừa hay, Rena lại là một ứng cử viên có sẵn không tồi."
+    },
+    {
+      "segment_id": "0045",
+      "source": "培特将合作后可能的收益和风险给蕾娜详细叙述了一遍，给她对比其中的利害关系。",
+      "target": "Pete tường thuật chi tiết cho Rena nghe về những lợi ích và rủi ro có thể gặp phải sau khi hợp tác, so sánh lợi hại trong đó cho cô."
+    },
+    {
+      "segment_id": "0046",
+      "source": "蕾娜几乎没怎么考虑：“我没有意见，我愿意合作。”",
+      "target": "Rena gần như không hề suy nghĩ nhiều: \"Tôi không có ý kiến gì, tôi nguyện ý hợp tác.\""
+    },
+    {
+      "segment_id": "0047",
+      "source": "培特见状忍不住提醒道：“你考虑清楚，虽然走黑市的路线可以尽可能地保护你的信息不被暴露，但一旦消息走漏的话，到时候你真的会面临危险的，那就不是几个普通人混混那么简单了。”",
+      "target": "Thấy vậy, Pete nhịn không được nhắc nhở: \"Cô hãy suy nghĩ cho kỹ, mặc dù đi theo con đường chợ đen có thể cố gắng hết mức để bảo vệ thông tin của cô không bị bại lộ, nhưng một khi tin tức lọt ra ngoài, đến lúc đó cô thực sự sẽ phải đối mặt với nguy hiểm đấy, chuyện đó không chỉ đơn giản là vài tên côn đồ bình thường đâu.\""
+    },
+    {
+      "segment_id": "0048",
+      "source": "蕾娜同样认真地点头道：“培特先生，我考虑清楚了。”",
+      "target": "Rena cũng gật đầu một cách nghiêm túc: \"Anh Pete, tôi đã suy nghĩ kỹ rồi.\""
+    },
+    {
+      "segment_id": "0049",
+      "source": "“我的命是你救下的，如果没有你的话，我可能已经死在那些黑袍人疯子手里了。”",
+      "target": "\"Mạng của tôi là do anh cứu, nếu không có anh, có lẽ tôi đã chết trong tay những tên áo bào đen điên rồ kia rồi.\""
+    },
+    {
+      "segment_id": "0050",
+      "source": "“本来我还在担心找不到合适的方式报答你，因为你是上城区的大法师，我能做到的事情，对你来说可能都没有什么用处。”",
+      "target": "\"Vốn dĩ tôi còn đang lo lắng không tìm được cách nào thích hợp để báo đáp anh, bởi vì anh là Đại Pháp sư của Khu Thượng Thành, những chuyện tôi có thể làm được có lẽ đều chẳng có tác dụng gì đối với anh.\""
+    },
+    {
+      "segment_id": "0051",
+      "source": "“既然现在你需要我站在台前做你的代言人，那我就愿意帮你去做的，危险什么的，我不怕的。”",
+      "target": "\"Nếu hiện tại anh cần tôi đứng ra làm người đại diện cho anh, vậy thì tôi nguyện ý giúp anh làm việc đó, nguy hiểm gì đó, tôi không sợ.\""
+    },
+    {
+      "segment_id": "0052",
+      "source": "听到蕾娜把话说到这份上，培特脸都有点红了。",
+      "target": "Nghe Rena nói đến mức này, mặt Pete có hơi đỏ lên."
+    },
+    {
+      "segment_id": "0053",
+      "source": "他是贵族出身，思维一开始确实下意识地带了点想利用蕾娜的意思。",
+      "target": "Anh xuất thân quý tộc, suy nghĩ lúc đầu đúng là theo bản năng có mang theo chút ý định muốn lợi dụng Rena."
+    },
+    {
+      "segment_id": "0054",
+      "source": "毕竟，他从小被灌输和教育的三观一直在强调：贵族的血脉比平民更高贵，与神明亲和更高，更容易成为职业者。所以如果遇到有危险的事情，贵族的生命更加宝贵，应该让平民先上去试探，而不是贵族亲自以身犯险。",
+      "target": "Dẫu sao, tam quan mà anh được nhồi nhét và giáo dục từ nhỏ luôn nhấn mạnh: Huyết mạch của quý tộc cao quý hơn bình dân, độ thân hòa với thần linh cao hơn, dễ dàng trở thành người có chức nghiệp hơn. Cho nên nếu gặp phải chuyện nguy hiểm, tính mạng của quý tộc quý giá hơn, nên để bình dân tiến lên thăm dò trước, chứ không phải quý tộc tự mình dấn thân vào nguy hiểm."
+    },
+    {
+      "segment_id": "0055",
+      "source": "因为培特自身的天赋并不怎么好，没感觉到自己跟平民比起来优越在哪里，所以这套贵族血统论的说法，他并没有完全的信奉，但肯定还是或多或少的受到了些许的影响。",
+      "target": "Bởi vì thiên phú của bản thân Pete không tốt cho lắm, anh không cảm thấy bản thân ưu việt hơn bình dân ở điểm nào, vì vậy cách nói về thuyết huyết thống quý tộc này, anh không hoàn toàn tin phụng, nhưng chắc chắn vẫn ít nhiều chịu đôi chút ảnh hưởng."
+    },
+    {
+      "segment_id": "0056",
+      "source": "结果蕾娜如此坦诚地表示心甘情愿地被他利用，这反倒有点让培特于心不忍了。",
+      "target": "Kết quả là Rena lại chân thành bày tỏ cam tâm tình nguyện để anh lợi dụng như vậy, điều này ngược lại làm cho Pete cảm thấy có chút không nỡ."
+    },
+    {
+      "segment_id": "0057",
+      "source": "“别这样说，我都跟你解释过了，那个时候我也是自救，我们是共患难的关系，算不得什么救命之恩。”",
+      "target": "\"Đừng nói vậy, tôi đã giải thích với cô rồi, lúc đó tôi cũng là tự cứu mình, chúng ta là quan hệ cùng chung hoạn nạn, không tính là ơn cứu mạng gì đâu.\""
+    },
+    {
+      "segment_id": "0058",
+      "source": "“放心，我不会利用你，我保证我们会是合作伙伴的关系。”",
+      "target": "\"Yên tâm, tôi sẽ không lợi dụng cô, tôi bảo đảm chúng ta sẽ là mối quan hệ đối tác hợp tác.\""
+    },
+    {
+      "segment_id": "0059",
+      "source": "“我会尽可能想办法给你做好掩护，大致的计划我都已经想好了！”",
+      "target": "\"Tôi sẽ cố gắng hết sức tìm cách ngụy trang tốt cho cô, kế hoạch đại khái tôi đều đã suy nghĩ xong xuôi rồi!\""
+    },
+    {
+      "segment_id": "0060",
+      "source": "……",
+      "target": "..."
+    },
+    {
+      "segment_id": "0061",
+      "source": "势力即将开始扩张，求推荐票&amp;月票~蟹蟹",
+      "target": "Thế lực sắp bắt đầu khuếch trương, cầu vé đề cử & vé tháng~ Cảm ơn"
+    }
+  ]
+}

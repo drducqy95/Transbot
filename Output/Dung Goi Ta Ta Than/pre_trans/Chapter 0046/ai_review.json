@@ -1,0 +1,29 @@
+```json
+{
+  "approved": [
+    {
+      "text": "罪恶感知",
+      "reason": "This is highly likely a specific skill, spell, or ability name (e.g., 'Detect Evil' or 'Sin Perception'), which fits perfectly into the established fantasy/magic setting with divine powers and magic spells."
+    }
+  ],
+  "rejected": [
+    {
+      "text": "两个活动期间",
+      "reason": "This is a generic phrase meaning 'during the two events/activities' and does not represent a proper noun or specific terminology."
+    },
+    {
+      "text": "则是如果附近",
+      "reason": "This is a sentence fragment meaning 'then if nearby' and is not a term."
+    },
+    {
+      "text": "可以直接将那",
+      "reason": "This is a sentence fragment meaning 'can directly take that' and is not a term."
+    },
+    {
+      "text": "状态显示",
+      "reason": "This translates to 'status display'. While it might refer to a system interface, it's generally a common phrase rather than a specialized term that needs strict glossary tracking."
+    }
+  ],
+  "uncertain": []
+}
+```

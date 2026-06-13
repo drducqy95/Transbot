@@ -1,0 +1,25 @@
+```json
+{
+  "approved": [
+    {
+      "text": "净息术",
+      "type": "term",
+      "translation": "Tịnh Tức Thuật",
+      "reason": "Matches the glossary entry exactly as a valid skill (Hí pháp)."
+    }
+  ],
+  "rejected": [
+    {
+      "text": "时候",
+      "type": "name",
+      "reason": "Misidentified as a name. '时候' is a common noun meaning 'time' or 'moment'."
+    },
+    {
+      "text": "戏法。\n“呕",
+      "type": "term",
+      "reason": "Extraction error. Contains trailing punctuation and unrelated text. The valid term inside it is '戏法' (Hí pháp)."
+    }
+  ],
+  "uncertain": []
+}
+```

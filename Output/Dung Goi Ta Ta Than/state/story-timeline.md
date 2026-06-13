@@ -493,3 +493,228 @@ Chapter 3 completed via pipeline.
 
 ### Summary
 Chapter 3 completed via pipeline.
+
+## Chapter 0004 - Chương 4: Cách làm hoàn toàn khác biệt
+
+### Summary
+Chapter 4 completed via pipeline.
+
+## Chapter 0005 - Chương 5: Trao người cần câu
+
+### Summary
+Chapter 5 completed via pipeline.
+
+## Chapter 0004 - Chương 4: Cách làm hoàn toàn khác biệt
+
+### Summary
+Chapter 4 completed via pipeline.
+
+## Chapter 0006 - Chương 6: Thẩm vấn
+
+### Summary
+Chapter 6 completed via pipeline.
+
+## Chapter 0007 - Chương 7: Thần Cầu Tri
+
+### Summary
+Chapter 7 completed via pipeline.
+
+## Chapter 0008 - Chương 8: Bối cảnh toàn dựa vào tự bịa
+
+### Summary
+Chapter 8 completed via pipeline.
+
+## Chapter 0009 - Chương 9: Biết rõ chân danh
+
+### Summary
+Chapter 9 completed via pipeline.
+
+## Chapter 0011 - Chương 11: Giới hạn của thần lực
+
+### Summary
+Chapter 11 completed via pipeline.
+
+## Chapter 0014 - Chương 14: Chuyển biến tâm lý
+
+### Summary
+Chapter 14 completed via pipeline.
+
+## Chapter 0015 - Chương 15: Xung đột ở quán rượu
+
+### Summary
+Chapter 15 completed via pipeline.
+
+## Chapter 0016 - Chương 16: Ô phép? Đó là thứ gì vậy
+
+### Summary
+Chapter 16 completed via pipeline.
+
+## Chapter 0017 - Chương 17: Rắc rối nhà Rena
+
+### Summary
+Chapter 17 completed via pipeline.
+
+## Chapter 0018 - Chương 18: Cô từng nghe nói đến Thần Cầu Tri chưa?
+
+### Summary
+Chapter 18 completed via pipeline.
+
+## Chapter 0019 - Chương 19: Điểm tri thức, cơ chế phần thưởng
+
+### Summary
+Chapter 19 completed via pipeline.
+
+## Chapter 0020 - Chương 20: Tín đồ thứ hai
+
+### Summary
+Chapter 20 completed via pipeline.
+
+## Chapter 0021 - Chương 21: Tự tay chế tạo pháp trận kiểm tra
+
+### Summary
+Chapter 21 completed via pipeline.
+
+## Chapter 0022 - Chương 22: Hợp tác
+
+### Summary
+Chapter 22 completed via pipeline.
+
+## Chapter 0021 - Chương 21: Tự tay chế tạo pháp trận kiểm tra
+
+### Summary
+Chapter 21 completed via pipeline.
+
+## Chapter 0023 - Chương 23: Quy tắc kỳ lạ
+
+### Summary
+Chapter 23 completed via pipeline.
+
+## Chapter 0026 - Chương 26: Cách tu hành có thể nhìn thấy thanh tiến độ
+
+### Summary
+Chapter 26 completed via pipeline.
+
+## Chapter 0027 - Chương 27: Hạ thấp ngưỡng cửa
+
+### Summary
+Chapter 27 completed via pipeline.
+
+## Chapter 0028 - Chương 28: Thần Ám Ảnh, Thần Công Chính: Chúng ta không có ý kiến
+
+### Summary
+Chapter 28 completed via pipeline.
+
+## Chapter 0029 - Chương 29: Chợ đen
+
+### Summary
+Chapter 29 completed via pipeline.
+
+## Chapter 0030 - 0030 连环套
+
+### Summary
+Chapter 30 completed via pipeline.
+
+## Chapter 0034 - Chương 34: Lứa hạt giống đầu tiên
+
+### Summary
+Chapter 34 completed via pipeline.
+
+## Chapter 0030 - 0030 连环套
+
+### Summary
+Chapter 30 completed via pipeline.
+
+## Chapter 0036 - 0036 你知道的，我嘴巴最严实了
+
+### Summary
+Chapter 36 completed via pipeline.
+
+## Chapter 0046 - 0046 活动技能
+
+### Summary
+Chapter 46 completed via pipeline.
+
+## Chapter 0030 - 0030 连环套
+
+### Summary
+Chapter 30 completed via pipeline.
+
+## Chapter 0036 - 0036 你知道的，我嘴巴最严实了
+
+### Summary
+Chapter 36 completed via pipeline.
+
+## Chapter 0046 - Chương 46: Kỹ năng hoạt động
+
+### Summary
+Chapter 46 completed via pipeline.
+
+## Chapter 0030 - Chương 30: Cạm bẫy liên hoàn
+
+### Summary
+Chapter 30 completed via pipeline.
+
+## Chapter 0030 - 0030 连环套
+
+### Summary
+Chapter 30 completed via pipeline.
+
+## Chapter 0036 - 0036 你知道的，我嘴巴最严实了
+
+### Summary
+Chapter 36 completed via pipeline.
+
+## Chapter 0053 - 0053 求知之神的教义真谛
+
+### Summary
+Chapter 53 completed via pipeline.
+
+## Chapter 0030 - 0030 连环套
+
+### Summary
+Chapter 30 completed via pipeline.
+
+## Chapter 0036 - 0036 你知道的，我嘴巴最严实了
+
+### Summary
+Chapter 36 completed via pipeline.
+
+## Chapter 0030 - 0030 连环套
+
+### Summary
+Chapter 30 completed via pipeline.
+
+## Chapter 0030 - 0030 连环套
+
+### Summary
+Chapter 30 completed via pipeline.
+
+## Chapter 0036 - 0036 你知道的，我嘴巴最严实了
+
+### Summary
+Chapter 36 completed via pipeline.
+
+## Chapter 0053 - 0053 求知之神的教义真谛
+
+### Summary
+Chapter 53 completed via pipeline.
+
+## Chapter 0054 - 0054 临时据点
+
+### Summary
+Chapter 54 completed via pipeline.
+
+## Chapter 0055 - 0055 邪神祭坛？能拆吗？
+
+### Summary
+Chapter 55 completed via pipeline.
+
+## Chapter 0030 - 0030 连环套
+
+### Summary
+Chapter 30 completed via pipeline.
+
+## Chapter 0036 - Chương 36: Cậu biết đấy, miệng tôi kín nhất rồi
+
+### Summary
+Chapter 36 completed via pipeline.

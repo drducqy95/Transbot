@@ -1,0 +1,308 @@
+```json
+{
+  "chapter_number": 26,
+  "chapter_title_vi": "Chương 26: Cách tu hành có thể nhìn thấy thanh tiến độ",
+  "segments": [
+    {
+      "segment_id": "0001",
+      "source": "# 第26章 能看到进度条的修行方式",
+      "target": "# Chương 26: Cách tu hành có thể nhìn thấy thanh tiến độ"
+    },
+    {
+      "segment_id": "0002",
+      "source": "收到来自蕾娜的祈祷，诺文感知了下。",
+      "target": "Nhận được lời cầu nguyện từ Rena, Noven cảm nhận một chút."
+    },
+    {
+      "segment_id": "0003",
+      "source": "动用权柄消耗的神力在他可接受的范围内，可以回应。",
+      "target": "Thần lực tiêu hao để động dụng quyền bính nằm trong phạm vi hắn có thể chấp nhận được, có thể đáp lại."
+    },
+    {
+      "segment_id": "0004",
+      "source": "建立【知识点数】的奖励机制后，诺文的神力总算不再是只减不增。",
+      "target": "Sau khi thiết lập cơ chế phần thưởng [Điểm tri thức], thần lực của Noven cuối cùng cũng không còn chỉ giảm mà không tăng nữa."
+    },
+    {
+      "segment_id": "0005",
+      "source": "按照诺文的设计，信徒们每向他提供能转化出1份神力的信仰，诺文就会奖励给信徒1点知识点数。",
+      "target": "Theo thiết kế của Noven, mỗi khi tín đồ cung cấp cho hắn lượng tín ngưỡng có thể chuyển hóa thành 1 phần thần lực, Noven sẽ thưởng cho tín đồ 1 điểm tri thức."
+    },
+    {
+      "segment_id": "0006",
+      "source": "1点知识点数，可以在诺文这里兑换需要他消耗1份神力动用权柄获取到的知识或信息。",
+      "target": "1 điểm tri thức có thể dùng ở chỗ Noven để đổi lấy tri thức hoặc thông tin mà hắn phải tiêu hao 1 phần thần lực động dụng quyền bính mới lấy được."
+    },
+    {
+      "segment_id": "0007",
+      "source": "虽然是否回应信徒的主动权完全掌握在诺文手中，他可以将信徒给他提供的神力和他奖励信徒的知识点数比例设定的很高；",
+      "target": "Mặc dù quyền chủ động có đáp lại tín đồ hay không hoàn toàn nằm trong tay Noven, hắn có thể thiết lập tỷ lệ giữa thần lực tín đồ cung cấp và điểm tri thức hắn thưởng ở mức rất cao;"
+    },
+    {
+      "segment_id": "0008",
+      "source": "比如10:1或者100:1，但诺文并没有那样去做。",
+      "target": "Ví dụ như 10:1 hoặc 100:1, nhưng Noven lại không làm như vậy."
+    },
+    {
+      "segment_id": "0009",
+      "source": "敢给出1:1这样完全回馈给信徒的兑换比例，诺文有他的底气和计划。",
+      "target": "Dám đưa ra tỷ lệ quy đổi 1:1 báo đáp hoàn toàn cho tín đồ, Noven có cơ sở và kế hoạch của riêng mình."
+    },
+    {
+      "segment_id": "0010",
+      "source": "因为知识方面的信息，诺文可以重复利用！",
+      "target": "Bởi vì những thông tin liên quan đến tri thức, Noven có thể sử dụng lặp đi lặp lại!"
+    },
+    {
+      "segment_id": "0011",
+      "source": "比如蕾娜祈祷，诺文收回了5点知识点数，消耗5份神力，使用他的权柄，获取到了有关公正之神那道神术的相关知识。",
+      "target": "Ví dụ như lúc Rena cầu nguyện, Noven thu hồi lại 5 điểm tri thức, tiêu hao 5 phần thần lực, sử dụng quyền bính của mình để thu thập được những tri thức liên quan đến đạo thần thuật của Thần Công Lý kia."
+    },
+    {
+      "segment_id": "0012",
+      "source": "对诺文来说，这部分消耗是一次性的。",
+      "target": "Đối với Noven mà nói, phần tiêu hao này chỉ là một lần duy nhất."
+    },
+    {
+      "segment_id": "0013",
+      "source": "动用权柄拿到的信息是永久性的，诺文已然完全掌握了这道神术的一切相关信息。",
+      "target": "Thông tin có được nhờ động dụng quyền bính là vĩnh viễn, Noven đã hoàn toàn nắm giữ mọi thông tin liên quan đến đạo thần thuật này."
+    },
+    {
+      "segment_id": "0014",
+      "source": "即使接下来有其他信徒祈祷想获知这份知识，诺文只需要把他已经掌握的神术知识再用神谕发送一遍就是。",
+      "target": "Cho dù tiếp theo có tín đồ khác cầu nguyện muốn biết được phần tri thức này, Noven chỉ cần gửi lại phần tri thức thần thuật hắn đã nắm giữ thêm một lần thông qua thần dụ là được."
+    },
+    {
+      "segment_id": "0015",
+      "source": "不需要他再耗费一次神力。",
+      "target": "Không cần hắn phải tiêu hao thần lực thêm lần nào nữa."
+    },
+    {
+      "segment_id": "0016",
+      "source": "但对信徒来说，每有一位信徒向诺文祈祷，诺文都能凭借这份知识收回5点知识点数！",
+      "target": "Nhưng đối với tín đồ mà nói, mỗi khi có một tín đồ cầu nguyện với Noven, Noven đều có thể dựa vào phần tri thức này để thu hồi lại 5 điểm tri thức!"
+    },
+    {
+      "segment_id": "0017",
+      "source": "一次投资，理论无上限的回报比例！",
+      "target": "Đầu tư một lần, tỷ lệ hoàn vốn trên lý thuyết là không có giới hạn!"
+    },
+    {
+      "segment_id": "0018",
+      "source": "比例设置的太高，信徒们可能要花费很长时间的努力才能得到足够的知识点数奖励，换而言之，他们成长的速度也会因此而变慢。",
+      "target": "Nếu đặt tỷ lệ quá cao, tín đồ có thể sẽ phải tốn rất nhiều thời gian nỗ lực mới có đủ phần thưởng điểm tri thức, nói cách khác, tốc độ trưởng thành của bọn họ cũng vì thế mà trở nên chậm đi."
+    },
+    {
+      "segment_id": "0019",
+      "source": "这对诺文来说就不划算了，属于因小失大。",
+      "target": "Đối với Noven thì như thế không hề có lợi, thuộc kiểu vì lợi nhỏ mà mất lợi lớn."
+    },
+    {
+      "segment_id": "0020",
+      "source": "他刚刚来到这个世界，需要尽快的扩大势力，只要信徒数量多起来，他能收集转化的神力只会越来越多！",
+      "target": "Hắn vừa mới đến thế giới này, cần phải nhanh chóng khuếch trương thế lực, chỉ cần số lượng tín đồ nhiều lên, thần lực hắn có thể thu thập và chuyển hóa sẽ chỉ ngày càng nhiều thêm!"
+    },
+    {
+      "segment_id": "0021",
+      "source": "至于为什么诺文的信徒可以在并非其他神明信徒的情况下，只要得到诺文给予的知识便能使用对应的神术。",
+      "target": "Còn về việc tại sao tín đồ của Noven dù không phải là tín đồ của vị thần minh khác, nhưng chỉ cần nhận được tri thức do Noven ban cho là có thể sử dụng thần thuật tương ứng."
+    },
+    {
+      "segment_id": "0022",
+      "source": "诺文隐约有种预感，在这片神国空间的灰雾深处，他能找到想要的答案。",
+      "target": "Noven lờ mờ có một loại dự cảm, ở sâu trong lớp sương mù xám xịt của không gian thần quốc này, hắn có thể tìm được đáp án mà mình muốn."
+    },
+    {
+      "segment_id": "0023",
+      "source": "眼下神力不够，没法驱散掉这无边无际的茫茫灰雾，诺文也只能将这部分疑惑暂且压在心底。",
+      "target": "Trước mắt thần lực không đủ, không có cách nào xua tan lớp sương mù xám mênh mông vô bờ bến này, Noven cũng chỉ có thể tạm đè nén phần nghi hoặc này dưới đáy lòng."
+    },
+    {
+      "segment_id": "0024",
+      "source": "……",
+      "target": "..."
+    },
+    {
+      "segment_id": "0025",
+      "source": "【检测到信徒诉求。】",
+      "target": "[Phát hiện yêu cầu của tín đồ.]"
+    },
+    {
+      "segment_id": "0026",
+      "source": "【目标：潜行者修行之路起始，引导暗影能量】",
+      "target": "[Mục tiêu: Điểm khởi đầu trên con đường tu hành của Tiềm Hành Giả, dẫn dắt năng lượng ám ảnh]"
+    },
+    {
+      "segment_id": "0027",
+      "source": "【需求：3知识点数】",
+      "target": "[Yêu cầu: 3 điểm tri thức]"
+    },
+    {
+      "segment_id": "0028",
+      "source": "蕾娜惊喜地抬起头，开心笑道：“培特先生！求知之神回应我了！祂告诉我，可以教给我走上潜行者职业的方法，需要我交给祂3个知识点数。”",
+      "target": "Rena mừng rỡ ngẩng đầu lên, vui vẻ cười nói: \"Anh Pete! Thần Cầu Tri đáp lại tôi rồi! Ngài bảo với tôi rằng, có thể dạy cho tôi phương pháp bước lên chức nghiệp Tiềm Hành Giả, yêu cầu tôi giao cho Ngài 3 điểm tri thức.\""
+    },
+    {
+      "segment_id": "0029",
+      "source": "“嘶！”猜测得到肯定，培特激动：“还等什么，快试试啊！”",
+      "target": "\"Hít sâu một hơi!\" Suy đoán được khẳng định, Pete kích động: \"Còn đợi gì nữa, mau thử xem sao!\""
+    },
+    {
+      "segment_id": "0030",
+      "source": "蕾娜嗯了一声，心思转动，收到失去3点知识点数的提醒后，有关如何去引导暗影能量的相关知识涌入她的脑海。",
+      "target": "Rena ừ một tiếng, tâm tư xoay chuyển, sau khi nhận được nhắc nhở mất đi 3 điểm tri thức, những tri thức liên quan đến cách dẫn dắt năng lượng ám ảnh ùa vào trong đầu cô."
+    },
+    {
+      "segment_id": "0031",
+      "source": "蕾娜尝试着静下心来，感知周围那无所不在的暗影。      此时刚好是深夜时分，夜幕笼罩大地，万事万物披上了影子，暗影能量的活跃度变高了许多。",
+      "target": "Rena thử tĩnh tâm lại, cảm nhận ám ảnh hiện hữu ở khắp mọi nơi xung quanh. Lúc này vừa hay là nửa đêm, màn đêm bao phủ đại địa, vạn vật đều khoác lên mình lớp bóng râm, độ sinh động của năng lượng ám ảnh tăng cao hơn rất nhiều."
+    },
+    {
+      "segment_id": "0032",
+      "source": "照着诺文给予的方法，蕾娜在心中轻声呼唤着暗影，请求它们投入自己的怀抱，帮助自己融身入影。",
+      "target": "Làm theo phương pháp mà Noven ban cho, Rena khe khẽ kêu gọi ám ảnh trong lòng, thỉnh cầu chúng ùa vào vòng tay mình, giúp bản thân hòa mình vào trong bóng tối."
+    },
+    {
+      "segment_id": "0033",
+      "source": "坐在旁边不远处的培特盯着蕾娜，有一瞬间仿佛眼花似的，突然感觉对方的身影好像变得若隐若现。",
+      "target": "Pete đang ngồi cách đó không xa chằm chằm nhìn Rena, trong khoảnh khắc đột nhiên như hoa mắt, cảm thấy bóng dáng của đối phương dường như trở nên thoắt ẩn thoắt hiện."
+    },
+    {
+      "segment_id": "0034",
+      "source": "下一瞬间，蕾娜的身影又恢复了实体，睁开眼睛惋惜地叹了口气：",
+      "target": "Khoảnh khắc tiếp theo, bóng dáng của Rena lại khôi phục thành thực thể, cô mở mắt ra, tiếc nuối thở dài:"
+    },
+    {
+      "segment_id": "0035",
+      "source": "“唔，失败了。”",
+      "target": "\"Ưm, thất bại rồi.\""
+    },
+    {
+      "segment_id": "0036",
+      "source": "“求知之神告诉我说，成为潜行者的第一步是学会借用暗影的力量帮助隐藏自己的身形，获得潜行的伪装效果。”",
+      "target": "\"Thần Cầu Tri nói với tôi rằng, bước đầu tiên để trở thành Tiềm Hành Giả là học cách mượn sức mạnh của ám ảnh để giúp che giấu thân hình, nhận được hiệu quả ngụy trang của tiềm hành.\""
+    },
+    {
+      "segment_id": "0037",
+      "source": "“我犹豫了一下，结果好不容易聚拢的暗影能量就散掉了。”",
+      "target": "\"Tôi hơi do dự một chút, kết quả năng lượng ám ảnh vất vả lắm mới tụ tập được lại tiêu tán mất rồi.\""
+    },
+    {
+      "segment_id": "0038",
+      "source": "“培特先生，我是不是很笨啊？连最开始的第一步都做不好。”",
+      "target": "\"Anh Pete, có phải tôi ngốc lắm không? Ngay cả bước đầu tiên thôi mà cũng làm không tốt.\""
+    },
+    {
+      "segment_id": "0039",
+      "source": "培特闻言宽慰道：“放心吧，这是正常现象。”",
+      "target": "Pete nghe vậy an ủi: \"Yên tâm đi, đây là hiện tượng bình thường.\""
+    },
+    {
+      "segment_id": "0040",
+      "source": "“想成为职业者，第一步的难度其实非常大，我第一次成功跟魔网完成沟通可是花了好几个月的时间。”",
+      "target": "\"Muốn trở thành chức nghiệp giả, độ khó của bước đầu tiên thực ra rất cao, lần đầu tiên tôi thành công kết nối với ma võng đã phải mất tới vài tháng trời.\""
+    },
+    {
+      "segment_id": "0041",
+      "source": "“那时候我经历了各种各样的失败，次数多到我都数不过来。”",
+      "target": "\"Hồi đó tôi đã trải qua đủ loại thất bại, số lần nhiều đến mức tôi đếm cũng không xuể.\""
+    },
+    {
+      "segment_id": "0042",
+      "source": "“职业者的道路就是这样，在你没成功前，连你自己都不知道你距离成功还有多远，只能一次次地去尝试。”",
+      "target": "\"Con đường của chức nghiệp giả là như vậy đấy, trước khi cô thành công, ngay cả chính cô cũng không biết mình còn cách thành công bao xa, chỉ có thể hết lần này tới lần khác đi nỗ lực thử nghiệm.\""
+    },
+    {
+      "segment_id": "0043",
+      "source": "听了培特的安慰，蕾娜脸上的神情有些疑惑：“不知道距离成功还有多远？”",
+      "target": "Nghe Pete an ủi, vẻ mặt Rena có chút nghi hoặc: \"Không biết còn cách thành công bao xa?\""
+    },
+    {
+      "segment_id": "0044",
+      "source": "“对啊，因为职业修行这东西每个人的体验都不一样，”培特解释道：“没有一个统一的标准，你只能隐约感觉到自己目前的状态是毫无头绪，还是有所进展，或者即将成功，顶多也就是这样了。”",
+      "target": "\"Đúng vậy, bởi vì việc tu hành chức nghiệp này thể nghiệm của mỗi người đều không giống nhau.\" Pete giải thích: \"Không có một tiêu chuẩn thống nhất nào cả, cô chỉ có thể lờ mờ cảm giác được trạng thái hiện tại của mình là hoàn toàn mờ mịt, hay là đã có chút tiến triển, hoặc là sắp thành công, cùng lắm cũng chỉ được như vậy mà thôi.\""
+    },
+    {
+      "segment_id": "0045",
+      "source": "“至于究竟具体什么时候能成功掌握，或者说，你是在哪个步骤出现了问题导致失败，这些都没人说得准的。”",
+      "target": "\"Còn về việc rốt cuộc thời điểm cụ thể nào có thể nắm giữ thành công, hay nói cách khác, cô đã gặp vấn đề ở bước nào dẫn đến thất bại, những điều này chẳng ai dám nói chắc cả.\""
+    },
+    {
+      "segment_id": "0046",
+      "source": "蕾娜迟疑地指着自己的脑袋：“可是……培特先生，我知道我失败的原因是什么啊……”",
+      "target": "Rena ngập ngừng chỉ vào đầu mình: \"Nhưng mà... Anh Pete, tôi biết nguyên nhân mình thất bại là gì mà...\""
+    },
+    {
+      "segment_id": "0047",
+      "source": "“？”",
+      "target": "\"?\""
+    },
+    {
+      "segment_id": "0048",
+      "source": "“因为在我尝试的时候，求知之神给了我一个叫练习进度的信息，那上面告诉我说，我这次尝试【潜行】失败了，但已经完成了7%的进度。”",
+      "target": "\"Bởi vì lúc tôi thử nghiệm, Thần Cầu Tri đã cho tôi một thông tin gọi là tiến độ luyện tập, trên đó bảo với tôi là, lần thử [Tiềm hành] này tôi thất bại rồi, nhưng đã hoàn thành được 7% tiến độ.\""
+    },
+    {
+      "segment_id": "0049",
+      "source": "“上面还说，我这次失败的原因是在暗影聚拢时不够专注导致的，需要维持足够的专注度才能推进练习进度条，进入下一个步骤。”",
+      "target": "\"Trên đó còn nói, nguyên nhân tôi thất bại lần này là do lúc ám ảnh tụ tập tôi chưa đủ sự tập trung, cần phải duy trì độ tập trung đầy đủ thì mới có thể thúc đẩy thanh tiến độ luyện tập, bước sang bước tiếp theo.\""
+    },
+    {
+      "segment_id": "0050",
+      "source": "“等到我完成100%进度的时候，就能成功使用【潜行】了”",
+      "target": "\"Đợi đến khi tôi hoàn thành 100% tiến độ, là có thể sử dụng thành công [Tiềm hành] rồi.\""
+    },
+    {
+      "segment_id": "0051",
+      "source": "“不是，我那时候怎么没有这东西？”",
+      "target": "\"Không phải chứ, sao hồi đó tôi lại không có thứ này?\""
+    },
+    {
+      "segment_id": "0052",
+      "source": "蕾娜的描述，让培特已经被震碎数次的世界观这回彻底碎成渣了！",
+      "target": "Lời miêu tả của Rena, khiến thế giới quan vốn đã bị chấn vỡ mấy lần của Pete lần này hoàn toàn vỡ nát bét!"
+    },
+    {
+      "segment_id": "0053",
+      "source": "培特最开始以为诺文是一位普通的外神，拥有一些与魔法相关的神职，赐给他的法术知识只是对方神职范围内的能力，整体的层次是要低于魔法女神这样的主神；",
+      "target": "Ban đầu Pete tưởng Noven là một vị ngoại thần bình thường, sở hữu một số thần chức liên quan đến ma pháp, tri thức pháp thuật ban cho hắn chỉ là năng lực nằm trong phạm vi thần chức của đối phương, đẳng cấp tổng thể hẳn là phải thấp hơn những vị chủ thần như Nữ thần Ma pháp;"
+    },
+    {
+      "segment_id": "0054",
+      "source": "后来，培特逐渐发现情况没有那么简单，如果只是普通外神的话，根本不可能做到赐给信徒其他神明的神术才对！",
+      "target": "Về sau, Pete dần phát hiện ra tình huống không đơn giản như vậy, nếu chỉ là ngoại thần bình thường, căn bản không thể nào làm được chuyện ban thần thuật của thần minh khác cho tín đồ mới đúng!"
+    },
+    {
+      "segment_id": "0055",
+      "source": "现在，看这架势，就连公认的强大主神的力量好像求知之神都能绕过去，无需信仰对应的神明便能成为职业者！",
+      "target": "Hiện tại, xem cái đà này, ngay cả sức mạnh của những vị chủ thần lớn mạnh được công nhận dường như Thần Cầu Tri đều có thể lách qua, không cần tín ngưỡng thần minh tương ứng vẫn có thể trở thành chức nghiệp giả!"
+    },
+    {
+      "segment_id": "0056",
+      "source": "甚至，在引导凡人修行的道路上，还有能看到进度条这种极其离谱的“辅助手段”！",
+      "target": "Thậm chí, trên con đường dẫn dắt phàm nhân tu hành, còn có cả loại \"phương tiện hỗ trợ\" cực kỳ thái quá như có thể nhìn thấy thanh tiến độ thế này nữa!"
+    },
+    {
+      "segment_id": "0057",
+      "source": "培特从来没有这么后悔过自己翘掉了卡罗恩学院的神学通识课，他现在是真的对求知之神产生了巨大的好奇。",
+      "target": "Pete chưa bao giờ hối hận như thế này về việc mình đã cúp tiết kiến thức chung thần học của học viện Caron, bây giờ hắn thật sự nảy sinh lòng hiếu kỳ to lớn đối với Thần Cầu Tri."
+    },
+    {
+      "segment_id": "0058",
+      "source": "“求知之神在上啊，您到底是怎么做到的！”",
+      "target": "\"Lạy Thần Cầu Tri ở trên cao, rốt cuộc Ngài đã làm thế nào vậy!\""
+    },
+    {
+      "segment_id": "0059",
+      "source": "……",
+      "target": "..."
+    },
+    {
+      "segment_id": "0060",
+      "source": "更新投放完成，求推荐票&amp;月票，蟹蟹您",
+      "target": "Bản cập nhật đã được đăng, cầu vé đề cử & vé tháng, cảm ơn các bạn nhiều"
+    }
+  ]
+}
+```

@@ -1,0 +1,443 @@
+```json
+{
+  "chapter_number": 34,
+  "chapter_title_vi": "Chương 34: Lứa hạt giống đầu tiên",
+  "segments": [
+    {
+      "segment_id": "0001",
+      "source": "# 第34章 第一批种子",
+      "target": "# Chương 34: Lứa hạt giống đầu tiên"
+    },
+    {
+      "segment_id": "0002",
+      "source": "布兰登依照蕾娜教的方法，消耗3点知识点数。",
+      "target": "Brandon làm theo phương pháp Rena đã dạy, tiêu hao 3 điểm tri thức."
+    },
+    {
+      "segment_id": "0003",
+      "source": "大量有关如何激发、驾驭、掌控怒气的知识，快速涌入他的脑海。",
+      "target": "Một lượng lớn tri thức về cách kích phát, điều khiển, và kiểm soát nộ khí nhanh chóng tràn vào đầu anh."
+    },
+    {
+      "segment_id": "0004",
+      "source": "【感知怒气于体内的来源，期间保持理智与冷静】",
+      "target": "[Cảm nhận nguồn gốc nộ khí trong cơ thể, trong lúc đó vẫn giữ lý trí và bình tĩnh]"
+    },
+    {
+      "segment_id": "0005",
+      "source": "【深度呼吸，状态平稳，气贯全身，游弋胸腹，将不同强度的内气引导至对应的部位，逐渐转化为可被调动控制的怒气】",
+      "target": "[Hít thở sâu, trạng thái bình ổn, khí quán toàn thân, chạy dọc ngực bụng, dẫn dắt nội khí có cường độ khác nhau đến bộ phận tương ứng, dần chuyển hóa thành nộ khí có thể điều động kiểm soát]"
+    },
+    {
+      "segment_id": "0006",
+      "source": "【调整强度，依照特定的经络通道，便于随时将怒气附着于战技】",
+      "target": "[Điều chỉnh cường độ, đi theo kinh lạc đặc định, để tiện cho việc bất cứ lúc nào cũng có thể gán nộ khí vào chiến kỹ]"
+    },
+    {
+      "segment_id": "0007",
+      "source": "【……】",
+      "target": "[...]"
+    },
+    {
+      "segment_id": "0008",
+      "source": "一条一条的相关训练要点，细化到了每个步骤、每个阶段的目标。",
+      "target": "Từng trọng điểm huấn luyện liên quan được liệt kê rõ, chi tiết đến từng bước đi, từng mục tiêu của mỗi giai đoạn."
+    },
+    {
+      "segment_id": "0009",
+      "source": "就差没手把手帮他修行了！",
+      "target": "Chỉ thiếu nước cầm tay chỉ việc giúp anh tu hành luôn thôi!"
+    },
+    {
+      "segment_id": "0010",
+      "source": "以前的布兰登哪里见过如此全面细致的知识！",
+      "target": "Brandon trước đây làm gì từng được thấy mớ tri thức toàn diện và tỉ mỉ đến thế!"
+    },
+    {
+      "segment_id": "0011",
+      "source": "他到战士公会偷听过，但是那里的教学主打一个大力出奇迹，根本没有什么具体的方法，只说让自己想办法处于怒气勃发的状态，然后什么时候能让这股怒气不消散并可以利用其增加自己的战技的威力，就算战士职业入门了。",
+      "target": "Anh từng đến Công hội Chiến sĩ nghe lén, nhưng cách dạy ở đó chủ yếu là \"đại lực xuất kỳ tích\", căn bản chẳng có phương pháp cụ thể nào. Họ chỉ bảo tự nghĩ cách để bản thân rơi vào trạng thái bùng phát nộ khí, rồi khi nào có thể giữ cho nguồn nộ khí đó không tiêu tán và có thể mượn nó để gia tăng uy lực chiến kỹ của mình thì coi như đã nhập môn chức nghiệp Chiến sĩ."
+    },
+    {
+      "segment_id": "0012",
+      "source": "至于具体该怎么维持不消散？",
+      "target": "Còn cụ thể phải duy trì làm sao để nó không tiêu tán?"
+    },
+    {
+      "segment_id": "0013",
+      "source": "具体该怎么利用怒气增加武技威力？",
+      "target": "Cụ thể phải lợi dụng nộ khí để tăng uy lực vũ kỹ thế nào?"
+    },
+    {
+      "segment_id": "0014",
+      "source": "不好意思，就连已经成为战士职业者的人都说不明白。",
+      "target": "Ngại quá, ngay cả những người đã trở thành Chiến sĩ cũng chẳng giải thích được rõ ràng."
+    },
+    {
+      "segment_id": "0015",
+      "source": "他们只能将其形容为一种感觉，说是感觉到了就会了，然后就会变成一种本能。",
+      "target": "Họ chỉ có thể hình dung nó như một loại cảm giác, nói là cảm nhận được thì sẽ biết làm, rồi nó sẽ biến thành một loại bản năng."
+    },
+    {
+      "segment_id": "0016",
+      "source": "战士公会里经常能看到那种憋气把自己憋的满脸通红，便秘似的家伙。",
+      "target": "Trong Công hội Chiến sĩ thường xuyên có thể nhìn thấy những gã nín thở kìm nén đến mức mặt đỏ tía tai, hệt như bị táo bón."
+    },
+    {
+      "segment_id": "0017",
+      "source": "无他，都在跟自己的怒气较劲呢。",
+      "target": "Chẳng vì gì khác, đều là đang dồn sức đọ sức với nộ khí của chính mình đấy."
+    },
+    {
+      "segment_id": "0018",
+      "source": "这种笼统的方法，绝大部分人都会倒在找到那种“感觉”之前，没法踏过门槛。",
+      "target": "Với phương pháp chung chung này, tuyệt đại đa số mọi người đều gục ngã trước khi tìm thấy loại \"cảm giác\" đó, chẳng có cách nào bước qua ngưỡng cửa."
+    },
+    {
+      "segment_id": "0019",
+      "source": "可是布兰登发现，求知之神给予他的方法里，准确地告诉了他，该如何去找到“感觉”，驾驭怒气！",
+      "target": "Thế nhưng Brandon phát hiện ra, trong phương pháp Thần Cầu Tri ban cho mình đã chỉ rõ cho anh chính xác cách làm thế nào để tìm thấy \"cảm giác\", điều khiển nộ khí!"
+    },
+    {
+      "segment_id": "0020",
+      "source": "有了切实可行的方法，布兰登顿时迸发出无穷的动力！",
+      "target": "Có phương pháp thiết thực khả thi, Brandon lập tức bùng nổ động lực vô tận!"
+    },
+    {
+      "segment_id": "0021",
+      "source": "第一次尝试，进度1%，失败，没能激发稳定的怒气来源；",
+      "target": "Lần thử đầu tiên, tiến độ 1%, thất bại, không thể kích phát nguồn nộ khí ổn định;"
+    },
+    {
+      "segment_id": "0022",
+      "source": "第二次尝试，进度2%，失败，没能激发稳定的怒气来源；",
+      "target": "Lần thử thứ hai, tiến độ 2%, thất bại, không thể kích phát nguồn nộ khí ổn định;"
+    },
+    {
+      "segment_id": "0023",
+      "source": "第三次尝试，进度6%，失败，这回找到了体内的怒气，但情绪出现了些许波动，怒气消散；",
+      "target": "Lần thử thứ ba, tiến độ 6%, thất bại, lần này đã tìm thấy nộ khí trong cơ thể, nhưng cảm xúc lại xuất hiện đôi chút dao động, nộ khí tiêu tán;"
+    },
+    {
+      "segment_id": "0024",
+      "source": "……",
+      "target": "..."
+    },
+    {
+      "segment_id": "0025",
+      "source": "第十七次尝试，进度31%，失败，将怒气引导至胸口位置时，没能控制好速度，怒气消散。",
+      "target": "Lần thử thứ mười bảy, tiến độ 31%, thất bại, khi dẫn dắt nộ khí đến vị trí ngực đã không thể kiểm soát tốt tốc độ, nộ khí tiêu tán."
+    },
+    {
+      "segment_id": "0026",
+      "source": "……",
+      "target": "..."
+    },
+    {
+      "segment_id": "0027",
+      "source": "虽然一次次的努力都以失败告终，全是各种各样的原因导致的失败，但布兰登反倒越来越有劲头！",
+      "target": "Tuy những lần nỗ lực hết lần này đến lần khác đều kết thúc trong thất bại, tất cả đều là do các loại nguyên nhân dẫn đến thất bại, nhưng Brandon ngược lại càng lúc càng hăng hái!"
+    },
+    {
+      "segment_id": "0028",
+      "source": "过去的他不是不努力，他只是找不到努力的方向！",
+      "target": "Trước kia không phải anh không nỗ lực, mà chỉ là không tìm được phương hướng nỗ lực!"
+    },
+    {
+      "segment_id": "0029",
+      "source": "他付出了很多的时间精力却看不到努力的结果，自然会觉得泄气。",
+      "target": "Anh đã bỏ ra rất nhiều thời gian và công sức nhưng lại không nhìn thấy kết quả nỗ lực, đương nhiên sẽ cảm thấy nản lòng."
+    },
+    {
+      "segment_id": "0030",
+      "source": "这回则不一样！",
+      "target": "Nhưng lần này thì khác!"
+    },
+    {
+      "segment_id": "0031",
+      "source": "他能切实地看到，他的每一次努力都是有成果的！",
+      "target": "Anh có thể nhìn thấy một cách chân thực, mỗi một lần nỗ lực của anh đều có thành quả!"
+    },
+    {
+      "segment_id": "0032",
+      "source": "一开始连激发怒气这一最简单的步骤都会失败；",
+      "target": "Lúc đầu, ngay cả bước đơn giản nhất là kích phát nộ khí cũng đều thất bại;"
+    },
+    {
+      "segment_id": "0033",
+      "source": "现在的他已经能维持一段时间怒气的运转，能明显感觉到，自己的体内仿佛有一团火在燃烧。",
+      "target": "Bây giờ anh đã có thể duy trì nộ khí vận chuyển trong một khoảng thời gian, có thể cảm nhận rõ ràng trong cơ thể mình như có một ngọn lửa đang bùng cháy."
+    },
+    {
+      "segment_id": "0034",
+      "source": "那蓬勃的怒气正呼之欲出，想要发挥其中的强大破坏力。",
+      "target": "Nguồn nộ khí hừng hực đó đang chực chờ bùng nổ, muốn phát huy sức mạnh phá hoại to lớn bên trong nó."
+    },
+    {
+      "segment_id": "0035",
+      "source": "几个小时的努力，顶得上他过去十年的摸索！",
+      "target": "Chỉ vài giờ nỗ lực đã bằng cả mười năm tự mày mò của anh trong quá khứ!"
+    },
+    {
+      "segment_id": "0036",
+      "source": "这让他怎么可能不激动。",
+      "target": "Chuyện này làm sao anh có thể không kích động cho được."
+    },
+    {
+      "segment_id": "0037",
+      "source": "天色正在慢慢放亮，日出即将到来。",
+      "target": "Sắc trời đang dần bừng sáng, bình minh sắp đến."
+    },
+    {
+      "segment_id": "0038",
+      "source": "要不是体力因为练习而消耗的差不多了，布兰登恨不得一口气把他的练习进度推进到100%！",
+      "target": "Nếu không phải thể lực đã cạn kiệt vì luyện tập, Brandon chỉ hận không thể đẩy tiến độ luyện tập lên 100% chỉ trong một hơi!"
+    },
+    {
+      "segment_id": "0039",
+      "source": "因为这意味着他将能实现自己的梦想——成为一名战士职业者。",
+      "target": "Bởi vì điều này có nghĩa là anh sẽ có thể thực hiện ước mơ của mình — trở thành một Chiến sĩ."
+    },
+    {
+      "segment_id": "0040",
+      "source": "虽然身体无比疲惫，但布兰登的精神却是无比兴奋的。",
+      "target": "Tuy cơ thể vô cùng mệt mỏi, nhưng tinh thần của Brandon lại cực kỳ phấn khích."
+    },
+    {
+      "segment_id": "0041",
+      "source": "“感谢求知之神！”",
+      "target": "\"Tạ ơn Thần Cầu Tri!\""
+    },
+    {
+      "segment_id": "0042",
+      "source": "“我从未见过您这样伟大的存在，请接受您的信徒最虔诚的感谢！”",
+      "target": "\"Con chưa từng thấy một sự tồn tại vĩ đại nào như Ngài, xin hãy nhận lời cảm tạ thành kính nhất của tín đồ!\""
+    },
+    {
+      "segment_id": "0043",
+      "source": "布兰登恨不得给求知之神磕一个！",
+      "target": "Brandon hận không thể dập đầu bái tạ Thần Cầu Tri một cái!"
+    },
+    {
+      "segment_id": "0044",
+      "source": "此时他再看向地下酒窖周遭的环境和引导他信仰求知之神的蕾娜，感观顿时大变样。",
+      "target": "Lúc này, anh nhìn lại môi trường xung quanh hầm rượu dưới lòng đất và Rena - người đã dẫn dắt anh tín ngưỡng Thần Cầu Tri, cảm quan tức thì thay đổi hoàn toàn."
+    },
+    {
+      "segment_id": "0045",
+      "source": "原本透着阴暗神秘的酒窖，此刻变得无比神圣。",
+      "target": "Hầm rượu vốn mang vẻ u ám thần bí, giờ phút này lại trở nên vô cùng linh thiêng."
+    },
+    {
+      "segment_id": "0046",
+      "source": "这哪是什么秘密集会场所啊！分明是让他能够实现梦想，重获新生的圣地！",
+      "target": "Đây nào phải nơi tụ tập bí mật gì! Rõ ràng là thánh địa giúp anh thực hiện ước mơ, giành lại cuộc đời mới!"
+    },
+    {
+      "segment_id": "0047",
+      "source": "哪有什么身份不明的少女，不知名的诡异教派！",
+      "target": "Làm gì có thiếu nữ không rõ lai lịch, giáo phái quỷ dị vô danh nào!"
+    },
+    {
+      "segment_id": "0048",
+      "source": "这都是他异父异母的兄弟姐妹啊！",
+      "target": "Đây đều là anh chị em khác cha khác mẹ của anh mà!"
+    },
+    {
+      "segment_id": "0049",
+      "source": "尝到甜头，布兰登现在已经成了求知之神最坚定的拥护者。",
+      "target": "Nếm được quả ngọt, Brandon hiện tại đã trở thành người ủng hộ kiên định nhất của Thần Cầu Tri."
+    },
+    {
+      "segment_id": "0050",
+      "source": "…… \n\n  眼看天色放亮，蕾娜按照培特给她准备的“台词”，提醒众人道：",
+      "target": "... \n\nThấy trời đã sáng, Rena nói theo \"lời thoại\" mà Pete đã chuẩn bị sẵn, nhắc nhở mọi người:"
+    },
+    {
+      "segment_id": "0051",
+      "source": "“各位，求知之神是一位特殊而伟大的存在，祂刚从久远的长眠中苏醒，我等便是祂在这个时代的首批信徒，理应传播祂的真理。”",
+      "target": "\"Mọi người, Thần Cầu Tri là một tồn tại đặc biệt và vĩ đại, Ngài vừa thức tỉnh sau giấc ngủ say đằng đẵng. Chúng ta chính là lứa tín đồ đầu tiên của Ngài trong thời đại này, theo lý nên truyền bá chân lý của Ngài.\""
+    },
+    {
+      "segment_id": "0052",
+      "source": "“每个火曜日的午夜，我们都会在这里举行交流集会，欢迎更多的同行者加入我们。”",
+      "target": "\"Vào nửa đêm ngày Hỏa Diệu hằng tuần, chúng ta sẽ tổ chức tụ họp giao lưu ở đây, hoan nghênh có thêm nhiều người đồng hành gia nhập cùng chúng ta.\""
+    },
+    {
+      "segment_id": "0053",
+      "source": "“求知之神给予我们宝贵的知识，请诸位善加利用”",
+      "target": "\"Thần Cầu Tri ban cho chúng ta tri thức quý giá, xin chư vị hãy sử dụng cho tốt.\""
+    },
+    {
+      "segment_id": "0054",
+      "source": "“主在注视。”",
+      "target": "\"Chúa tể đang dõi theo.\""
+    },
+    {
+      "segment_id": "0055",
+      "source": "……",
+      "target": "..."
+    },
+    {
+      "segment_id": "0056",
+      "source": "信徒的数量从2人提高到了6人，诺文十分满意。",
+      "target": "Số lượng tín đồ đã tăng từ 2 lên 6 người, Noven vô cùng hài lòng."
+    },
+    {
+      "segment_id": "0057",
+      "source": "培特和蕾娜这次的传教成功率高达100%。",
+      "target": "Tỷ lệ truyền giáo thành công lần này của Pete và Rena cao tới 100%."
+    },
+    {
+      "segment_id": "0058",
+      "source": "只要是因为纸条而动心来莫尼兄弟酒馆一探究竟的人，在培特的“带动”下，最后都选择了向诺文献上信仰。",
+      "target": "Chỉ cần là những người vì tờ giấy ghi chú mà động tâm, tìm đến quán rượu Anh em Moni để thám thính thực hư, dưới sự \"dẫn dắt\" của Pete, cuối cùng đều lựa chọn dâng hiến tín ngưỡng cho Noven."
+    },
+    {
+      "segment_id": "0059",
+      "source": "四名新人，布兰登选择了战士职业的修行路线。",
+      "target": "Bốn người mới, Brandon chọn tuyến đường tu hành của chức nghiệp Chiến sĩ."
+    },
+    {
+      "segment_id": "0060",
+      "source": "其他3人，无论他们和各个职业者主神的亲和度如何，最后都选择了法师职业。",
+      "target": "Ba người còn lại, bất kể độ thân hòa với Chủ thần của các chức nghiệp ra sao, cuối cùng đều chọn chức nghiệp Pháp sư."
+    },
+    {
+      "segment_id": "0061",
+      "source": "为此诺文花费了些许神力，使用权柄获取了有关的起步修行知识。",
+      "target": "Vì thế, Noven đã tiêu hao chút ít thần lực, sử dụng quyền bính để lấy được kiến thức tu hành khởi bước liên quan."
+    },
+    {
+      "segment_id": "0062",
+      "source": "这样一来，诺文便拥有了三条职业道路的入门知识。",
+      "target": "Như vậy, Noven đã sở hữu kiến thức nhập môn của ba con đường chức nghiệp."
+    },
+    {
+      "segment_id": "0063",
+      "source": "往后如果再有新信徒想成为战士、潜行者或法师，诺文便无需再消耗神力，只需要将他现有的知识复制粘贴一份给对方即可。",
+      "target": "Sau này nếu có tín đồ mới muốn trở thành Chiến sĩ, Tiềm Hành Giả hoặc Pháp sư, Noven sẽ không cần phải tiêu hao thần lực nữa, chỉ cần sao chép và dán một bản kiến thức hiện có cho đối phương là được."
+    },
+    {
+      "segment_id": "0064",
+      "source": "至于为何那3个新信徒都要选择法师？",
+      "target": "Còn về lý do tại sao cả 3 tín đồ mới đó đều chọn Pháp sư?"
+    },
+    {
+      "segment_id": "0065",
+      "source": "原因很简单。",
+      "target": "Nguyên nhân rất đơn giản."
+    },
+    {
+      "segment_id": "0066",
+      "source": "法师算是目前大陆上最吃香的职业。",
+      "target": "Pháp sư được coi là chức nghiệp ăn khách nhất trên đại lục hiện nay."
+    },
+    {
+      "segment_id": "0067",
+      "source": "即使不参与征召去消灭各种被邪神污染的魔物，或者当个冒险者佣兵接受委托；",
+      "target": "Dù không tham gia lệnh chiêu mộ đi tiêu diệt các loại ma vật bị tà thần ô nhiễm, hay không làm lính đánh thuê mạo hiểm giả để nhận ủy thác;"
+    },
+    {
+      "segment_id": "0068",
+      "source": "只要有3阶法师的认证，就能成为不少贵族的魔法顾问，拥有稳定的收入；",
+      "target": "Chỉ cần có chứng nhận Pháp sư bậc 3 là đã có thể trở thành cố vấn ma pháp cho không ít quý tộc, sở hữu một nguồn thu nhập ổn định;"
+    },
+    {
+      "segment_id": "0069",
+      "source": "最不济，当个魔法民工，每天抄写魔法卷轴，也能赚不少钱。",
+      "target": "Tệ nhất là làm một dân công ma pháp, ngày ngày sao chép cuộn giấy ma pháp, cũng có thể kiếm được bộn tiền."
+    },
+    {
+      "segment_id": "0070",
+      "source": "因此当选择的机会摆在面前时，这些普通人的第一反应都是想成为法师。",
+      "target": "Vì thế, khi cơ hội lựa chọn bày ra trước mắt, phản ứng đầu tiên của những người bình thường này đều là muốn trở thành Pháp sư."
+    },
+    {
+      "segment_id": "0071",
+      "source": "当然，诺文很清楚一件事。",
+      "target": "Đương nhiên, Noven rất rõ một chuyện."
+    },
+    {
+      "segment_id": "0072",
+      "source": "他并不能让每个信徒都成为传奇战士或者大法师。",
+      "target": "Hắn không thể khiến mọi tín đồ đều trở thành Chiến sĩ Huyền thoại hay Đại Pháp sư được."
+    },
+    {
+      "segment_id": "0073",
+      "source": "虽说将通过权柄获取的知识给予信徒后，能让他们无需受到信仰的限制，可以自由选择想行走的道路。",
+      "target": "Tuy nói rằng sau khi ban cho tín đồ tri thức lấy được thông qua quyền bính, có thể khiến họ không cần chịu giới hạn của tín ngưỡng, được tự do lựa chọn con đường muốn đi."
+    },
+    {
+      "segment_id": "0074",
+      "source": "但是人的天赋是有区别的。",
+      "target": "Thế nhưng thiên phú của con người lại có sự khác biệt."
+    },
+    {
+      "segment_id": "0075",
+      "source": "比如蕾娜和布兰登。",
+      "target": "Ví dụ như Rena và Brandon."
+    },
+    {
+      "segment_id": "0076",
+      "source": "蕾娜与暗影之神的亲和度非常高。",
+      "target": "Độ thân hòa giữa Rena và Thần Ám Ảnh rất cao."
+    },
+    {
+      "segment_id": "0077",
+      "source": "按照诺文的理解，这说明暗影之神墨菲掌管的暗影力量更加青睐她。",
+      "target": "Theo cách hiểu của Noven, điều này chứng tỏ sức mạnh ám ảnh mà Thần Ám Ảnh Murphy cai quản càng thêm ưu ái cô."
+    },
+    {
+      "segment_id": "0078",
+      "source": "因此在潜行者的入门上，蕾娜仅仅花了一晚上多点的时间，不到10次尝试就能完整的掌握【潜行】战技。",
+      "target": "Do đó, trong việc nhập môn Tiềm Hành Giả, Rena chỉ dành ra hơn một buổi tối, thử nghiệm chưa đến 10 lần đã có thể nắm giữ trọn vẹn chiến kỹ [Tiềm Hành]."
+    },
+    {
+      "segment_id": "0079",
+      "source": "布兰登的天赋就差了不少。",
+      "target": "Thiên phú của Brandon thì kém hơn hẳn."
+    },
+    {
+      "segment_id": "0080",
+      "source": "尝试了十几次，有关驾驭怒气的进度还没到三分之一。",
+      "target": "Thử hơn chục lần, tiến độ về việc điều khiển nộ khí vẫn chưa được một phần ba."
+    },
+    {
+      "segment_id": "0081",
+      "source": "诺文估计着，少说还得2、3天时间，布兰登才有可能成功驾驭怒气，完成战士入门。",
+      "target": "Noven ước tính, ít nhất cũng phải mất hai ba ngày nữa, Brandon mới có khả năng điều khiển thành công nộ khí, hoàn thành nhập môn Chiến sĩ."
+    },
+    {
+      "segment_id": "0082",
+      "source": "后面职业进阶的难度更高，需要花费的时间更多，差距也会更大。",
+      "target": "Độ khó khi thăng cấp chức nghiệp về sau càng cao, thời gian cần tiêu tốn càng nhiều, chênh lệch cũng sẽ càng lớn."
+    },
+    {
+      "segment_id": "0083",
+      "source": "诺文能做的，是告诉他的每一位信徒，该如何去努力，以及——距离成功还有多远。",
+      "target": "Những gì Noven có thể làm, là nói cho mỗi một tín đồ của mình biết, phải nỗ lực thế nào, và — còn bao xa nữa là đến với thành công."
+    },
+    {
+      "segment_id": "0084",
+      "source": "现在有了这批信徒作为“种子”，诺文相信他们很快便会在格林港下城区生根发芽，然后……",
+      "target": "Hiện tại đã có nhóm tín đồ này làm \"hạt giống\", Noven tin rằng họ sẽ nhanh chóng bén rễ nảy mầm ở khu phố dưới của cảng Green, sau đó..."
+    },
+    {
+      "segment_id": "0085",
+      "source": "扩散开来！",
+      "target": "Lan rộng ra khắp nơi!"
+    },
+    {
+      "segment_id": "0086",
+      "source": "……",
+      "target": "..."
+    },
+    {
+      "segment_id": "0087",
+      "source": "感谢：木召草，一条狗竟然，投出的月票。感谢各位投出推荐票的读者，蟹蟹。",
+      "target": "Cảm ơn: Mộc Triệu Thảo, Nhất Điều Cẩu Cảnh Nhiên, đã bỏ phiếu tháng. Cảm ơn các độc giả đã ném phiếu đề cử, cảm ơn nhiều nhé."
+    }
+  ]
+}
+```

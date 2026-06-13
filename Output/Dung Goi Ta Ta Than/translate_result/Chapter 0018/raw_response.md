@@ -1,0 +1,273 @@
+```json
+{
+  "chapter_number": 18,
+  "chapter_title_vi": "Chương 18: Cô từng nghe nói đến Thần Cầu Tri chưa?",
+  "segments": [
+    {
+      "segment_id": "0001",
+      "source": "# 第18章 你听说过求知之神吗",
+      "target": "# Chương 18: Cô từng nghe nói đến Thần Cầu Tri chưa?"
+    },
+    {
+      "segment_id": "0002",
+      "source": "“还不是因为那个该死的德思礼！哦对，还有可恶的狡影·碎石，两个混蛋！”蕾娜苦恼地骂了一句，“他们真该被辉光之神送去地狱！败类！”",
+      "target": "“Còn không phải tại tên Dursley chết tiệt đó sao! Ồ đúng rồi, còn cả cái gã Giảo Ảnh · Toái Thạch đáng ghét nữa, hai tên khốn kiếp!” Rena khổ não chửi thề một câu, “Bọn chúng thật sự nên bị Thần Huy Quang đày xuống địa ngục! Đồ cặn bã!”"
+    },
+    {
+      "segment_id": "0003",
+      "source": "培特第二次听到了德思礼的名字，并且这次还多了个叫狡影·碎石的。",
+      "target": "Pete lần thứ hai nghe thấy cái tên Dursley, hơn nữa lần này còn có thêm một kẻ tên là Giảo Ảnh · Toái Thạch."
+    },
+    {
+      "segment_id": "0004",
+      "source": "后者听起来不像人类，更像是格林港的地精们常见的名字。",
+      "target": "Cái tên sau nghe không giống con người, mà giống những cái tên thường thấy của lũ địa tinh ở cảng Green hơn."
+    },
+    {
+      "segment_id": "0005",
+      "source": "“怎么回事？”",
+      "target": "“Có chuyện gì vậy?”"
+    },
+    {
+      "segment_id": "0006",
+      "source": "蕾娜生气地解释道：“说来话长，事情的起因是这样的。”",
+      "target": "Rena tức giận giải thích: “Chuyện kể ra thì dài, nguyên nhân là như thế này.”"
+    },
+    {
+      "segment_id": "0007",
+      "source": "“我父亲曾经是雷亚克王国石匠协会的成员，王都近些年没有什么大的动工计划，为了找到赚钱的活计，他跟协会的朋友们一起来到格林港这边，打算找找有什么能接的项目。”",
+      "target": "“Cha tôi từng là thành viên của Hiệp hội Thợ đá Vương quốc Reyak, vương đô những năm gần đây không có kế hoạch thi công lớn nào. Để tìm việc kiếm tiền, ông ấy cùng những người bạn trong hiệp hội đến cảng Green này, định tìm xem có dự án nào có thể nhận làm không.”"
+    },
+    {
+      "segment_id": "0008",
+      "source": "“刚到格林港的时候，大家没什么根基，自然而然地抱团取暖，遇到什么困难都会互相帮助。”",
+      "target": "“Khi mới đến cảng Green, mọi người chưa có chỗ đứng, tự nhiên mà tập hợp lại để nương tựa lẫn nhau, gặp khó khăn gì cũng đều giúp đỡ nhau.”"
+    },
+    {
+      "segment_id": "0009",
+      "source": "“为了方便大家交流，父亲牵头在这边组织了个小型的石匠兄弟会。”",
+      "target": "“Để tiện cho việc trao đổi, cha tôi đã đứng ra thành lập một Hội anh em thợ đá quy mô nhỏ ở đây.”"
+    },
+    {
+      "segment_id": "0010",
+      "source": "“前几年，上城区的一位先生打算修缮一下他的庄园，父亲代表石匠兄弟会接下了这项委托，结果在干活的时候不慎出了点意外，被石料砸到了左手。”",
+      "target": "“Mấy năm trước, một vị tiên sinh ở khu Thượng thành định tu sửa lại trang viên của mình, cha tôi đại diện cho Hội anh em thợ đá nhận lấy ủy thác này. Kết quả là trong lúc làm việc không cẩn thận xảy ra chút tai nạn, bị đá tảng đè trúng tay trái.”"
+    },
+    {
+      "segment_id": "0011",
+      "source": "“因为手受伤了，没法再继续干石匠的工作，而且为了请治疗师治伤也花了不少钱。后来也是父亲的朋友们合伙凑钱给他，在这边买下房子开了间小酒馆，招待往来的水手客人。”",
+      "target": "“Vì tay bị thương nên không thể tiếp tục công việc thợ đá nữa, hơn nữa để mời trị liệu sư chữa trị cũng tốn không ít tiền. Sau này cũng là nhờ những người bạn của cha tôi đã cùng nhau gom tiền cho ông ấy, mua lại căn nhà ở đây để mở một quán rượu nhỏ, tiếp đón khách khứa thủy thủ qua lại.”"
+    },
+    {
+      "segment_id": "0012",
+      "source": "培特明白过来：“所以酒馆的招牌叫莫尼兄弟酒馆，意思是这间酒馆算是莫尼先生和他的好兄弟们合伙开的。”",
+      "target": "Pete chợt hiểu ra: “Cho nên bảng hiệu của quán rượu mới gọi là quán rượu Anh em Moni, ý là quán rượu này coi như là do ngài Moni và những người anh em tốt của ông ấy cùng nhau hùn vốn mở.”"
+    },
+    {
+      "segment_id": "0013",
+      "source": "“对，父亲一直说要给其他石匠朋友分红，不过大家都没有收过。”蕾娜十分认真地介绍道：“父亲的朋友们真的都是很好的人。”",
+      "target": "“Đúng vậy, cha tôi luôn nói muốn chia hoa hồng cho những người bạn thợ đá khác, nhưng mọi người chưa từng nhận.” Rena vô cùng nghiêm túc kể: “Những người bạn của cha tôi thật sự đều là người rất tốt.”"
+    },
+    {
+      "segment_id": "0014",
+      "source": "“酒馆刚开起来没什么客人的时候，也是他们特意在收工后专门来酒馆喝上两杯酒，这才慢慢聚拢起人气。”",
+      "target": "“Khi quán rượu mới mở chưa có mấy khách, cũng chính họ đã cất công tới quán rượu uống hai ly sau khi làm xong việc, như vậy mới dần dần thu hút được khách đến.”"
+    },
+    {
+      "segment_id": "0015",
+      "source": "“半年前，兄弟会运气很好，接到了一笔大单子——雷亚克王国的大商人蒙格，打算在格林港这边修一座规模很大的度假庄园。”",
+      "target": "“Nửa năm trước, Hội anh em gặp may mắn lớn, nhận được một đơn đặt hàng lớn —— thương nhân lớn của Vương quốc Reyak là Monger dự định xây dựng một trang viên nghỉ dưỡng quy mô lớn ở khu vực cảng Green.”"
+    },
+    {
+      "segment_id": "0016",
+      "source": "“蒙格委托了一个叫狡影·碎石的地精掮客，让他在格林港招标，最后石匠兄弟会成功拿到了订单，狡影·碎石把从设计到施工的任务都全权委托给了我们。”",
+      "target": "“Monger ủy thác cho một tên cò mồi địa tinh tên là Giảo Ảnh · Toái Thạch để hắn mở thầu ở cảng Green. Cuối cùng Hội anh em thợ đá đã thành công nhận được đơn đặt hàng, Giảo Ảnh · Toái Thạch đã giao toàn quyền ủy thác từ thiết kế đến thi công cho chúng tôi.”"
+    },
+    {
+      "segment_id": "0017",
+      "source": "“那时候大家算过，这个项目做完，平均下来，差不多能有每个人2枚金币多的报酬！”",
+      "target": "“Lúc đó mọi người tính toán qua, làm xong dự án này, tính trung bình ra, mỗi người có thể nhận được thù lao hơn 2 đồng tiền vàng!”"
+    },
+    {
+      "segment_id": "0018",
+      "source": "2枚金币对于普通人来说绝对不是个小数目。",
+      "target": "2 đồng tiền vàng đối với người bình thường mà nói tuyệt đối không phải là một con số nhỏ."
+    },
+    {
+      "segment_id": "0019",
+      "source": "饶是培特这样的雷亚克王国边境小地方的男爵，小半年的食物开销算下来也就是堪堪2枚雷亚克金币。",
+      "target": "Ngay cả nam tước ở một nơi biên giới hẻo lánh của Vương quốc Reyak như Pete, chi tiêu tiền ăn trong nửa năm tính ra cũng chỉ vừa vặn khoảng 2 đồng tiền vàng Reyak."
+    },
+    {
+      "segment_id": "0020",
+      "source": "若是普通人家，省着点花，1枚金币够全家人一整年的食物来源了。",
+      "target": "Nếu là gia đình bình thường, xài tiết kiệm một chút thì 1 đồng tiền vàng là đủ nguồn lương thực cho cả nhà trong nguyên một năm."
+    },
+    {
+      "segment_id": "0021",
+      "source": "“为了完成这个大单，兄弟会的大家都很努力，就连我父亲都帮着规划图纸，好多天都没怎么休息，最后才成功赶在承诺的工期结束前顺利完工。”",
+      "target": "“Để hoàn thành đơn hàng lớn này, mọi người trong Hội anh em đều rất nỗ lực, ngay cả cha tôi cũng giúp phác thảo bản vẽ quy hoạch, nhiều ngày liền không được nghỉ ngơi đàng hoàng, cuối cùng mới thành công hoàn thiện công trình suôn sẻ trước thời hạn đã cam kết.”"
+    },
+    {
+      "segment_id": "0022",
+      "source": "“结果……”说到这里，蕾娜明显变得气愤起来，“那个可恶的地精，他跟德思礼一样，两个坏的流脓的家伙，都该被辉光之神直接净化！”",
+      "target": "“Kết quả là...” Nói đến đây, Rena rõ ràng trở nên tức giận, “Cái tên địa tinh đáng ghét đó, hắn cũng giống hệt Dursley, hai gã khốn kiếp tồi tệ, đều đáng bị Thần Huy Quang trực tiếp thanh tẩy!”"
+    },
+    {
+      "segment_id": "0023",
+      "source": "“石匠兄弟会一直都是按照以前的老传统，在完工前只会收一小笔订金，大家忙活了那么久，找狡影·碎石讨要尾款的时候，他居然开始耍赖！”",
+      "target": "“Hội anh em thợ đá luôn làm theo truyền thống cũ, trước khi thi công xong chỉ thu một khoản tiền cọc nhỏ. Mọi người đã bận rộn lâu như vậy, thế mà lúc tìm Giảo Ảnh · Toái Thạch đòi số tiền còn lại, hắn ta lại bắt đầu giở trò lừa gạt!”"
+    },
+    {
+      "segment_id": "0024",
+      "source": "“先是说什么质量不合格，成品不符合雇主的预期，嚷嚷着要扣掉一半酬金，后来又说他最近手头紧没什么钱，给他点时间去筹钱。”",
+      "target": "“Đầu tiên là nói cái gì mà chất lượng không đạt tiêu chuẩn, thành phẩm không phù hợp với kỳ vọng của người thuê, lu loa đòi trừ đi một nửa thù lao. Sau đó lại nói dạo này hắn đang kẹt tiền, bảo cho hắn chút thời gian để đi gom tiền.”"
+    },
+    {
+      "segment_id": "0025",
+      "source": "“父亲跑去找了这个地精好几趟，一直拿不到钱，格林港的警署又懒得管这些商业纠纷，最后一次找那个地精要钱的时候，他居然请了德思礼那个王八蛋，直接把兄弟会的大家给打了一顿赶出去！”",
+      "target": "“Cha tôi chạy đi tìm tên địa tinh này mấy bận vẫn luôn không lấy được tiền, mà Sở cảnh sát cảng Green lại lười quản mấy cái tranh chấp thương mại này. Lần cuối cùng đi tìm tên địa tinh kia đòi tiền, hắn ta lại thuê tên khốn kiếp Dursley kia đến, trực tiếp đánh mọi người trong Hội anh em một trận rồi đuổi ra ngoài!”"
+    },
+    {
+      "segment_id": "0026",
+      "source": "“德思礼以前是个下城区混帮派的混混，后来不知怎么的，有一天他突然掌握了驾驭怒气的办法，从见习战士成为了一阶战士职业者。”",
+      "target": "“Dursley trước đây là một tên du côn lăn lộn trong băng đảng ở khu Hạ thành. Về sau không biết thế nào, có một ngày hắn đột nhiên nắm vững được cách khống chế Nộ khí, từ chiến binh tập sự trở thành người chức nghiệp Chiến binh bậc 1.”"
+    },
+    {
+      "segment_id": "0027",
+      "source": "“靠着敢打敢拼，要债打人拆房子拉皮条无恶不作，他很快就在那个叫血牙帮的帮派里混出了头，当上了高层。”",
+      "target": "“Nhờ vào việc dám đánh dám liều, đòi nợ, đánh người, phá nhà, dắt mối không chuyện ác nào không làm, hắn rất nhanh đã ngoi lên trong cái băng đảng gọi là băng Huyết Nha kia, lên làm tầng lớp cấp cao.”"
+    },
+    {
+      "segment_id": "0028",
+      "source": "“然后血牙帮的老大就失踪了，德思礼接替成为了血牙帮的新老大。” \t\t \t\t“这些年来，他在下城区开设了好几家赌场和会所，不知道赚了多少钱，实力也从一阶战士晋升到了二阶。”",
+      "target": "“Sau đó thủ lĩnh băng Huyết Nha biến mất, Dursley thay thế trở thành thủ lĩnh mới của băng Huyết Nha.”  “Những năm qua, hắn đã mở mấy sòng bạc và hội sở ở khu Hạ thành, không biết đã kiếm được bao nhiêu tiền, thực lực cũng từ Chiến binh bậc 1 thăng cấp lên bậc 2.”"
+    },
+    {
+      "segment_id": "0029",
+      "source": "“那个地精无赖，他找德思礼来撑腰，摆明了就是打算吞掉这笔酬金！”",
+      "target": "“Tên vô lại địa tinh đó, hắn tìm Dursley đến chống lưng, rõ ràng là định nuốt trọn số thù lao này!”"
+    },
+    {
+      "segment_id": "0030",
+      "source": "“这段时间，德思礼不停的派人来我们这边骚扰，他还专门放出话来警告石匠兄弟会的人，别再想着去要那笔钱，不然的话就不止是砸门骚扰这么简单了。”",
+      "target": "“Khoảng thời gian này, Dursley không ngừng phái người đến chỗ chúng tôi quấy rối. Hắn còn cố ý buông lời cảnh cáo những người trong Hội anh em thợ đá, đừng có nghĩ tới việc đi đòi lại số tiền kia nữa, bằng không thì sẽ không chỉ đơn giản là đập cửa quấy rối như thế này đâu.”"
+    },
+    {
+      "segment_id": "0031",
+      "source": "“两个混蛋，这两个家伙就是同一条臭水沟里的蛆，心都坏透了！”蕾娜越说越生气，恨恨地喝了一大口麦酒。",
+      "target": "“Hai tên khốn kiếp, hai gã này chính là giòi bọ trong cùng một cái mương hôi thối, tâm can đều thối nát hết rồi!” Rena càng nói càng tức giận, hậm hực uống một ngụm lớn bia lúa mạch."
+    },
+    {
+      "segment_id": "0032",
+      "source": "了解完前因后果，培特有点同情蕾娜家的遭遇，来到格林港后连续遇上各种坏事，这糟糕的运气也是没谁了。",
+      "target": "Sau khi hiểu rõ ngọn nguồn câu chuyện, Pete có chút đồng tình với cảnh ngộ nhà Rena, đến cảng Green xong lại liên tiếp gặp phải đủ loại chuyện rủi ro, cái vận xui xẻo này đúng là không ai sánh bằng."
+    },
+    {
+      "segment_id": "0033",
+      "source": "“地精，这些见钱眼开的小绿皮确实没几个好东西，跟地精做生意永远不要寄希望于他们能信守所谓的公平交易。地精是世界上最拿合同条款不当回事的种族。”",
+      "target": "“Địa tinh à, mấy gã da xanh nhỏ bé sáng mắt vì tiền này đúng là chẳng có mấy tên tốt lành gì, làm ăn với địa tinh thì đừng bao giờ đặt hy vọng vào việc bọn chúng sẽ tuân thủ cái gọi là giao dịch công bằng. Địa tinh là chủng tộc trên thế giới này xem nhẹ các điều khoản hợp đồng nhất đấy.”"
+    },
+    {
+      "segment_id": "0034",
+      "source": "蕾娜又喝了口酒，脸上浮现出少许酡红，愤愤地认同道：“培特先生，你说的太对了。”",
+      "target": "Rena lại uống thêm ngụm rượu, trên mặt hiện lên chút ửng đỏ, căm phẫn đồng tình nói: “Ngài Pete, ngài nói quá đúng.”"
+    },
+    {
+      "segment_id": "0035",
+      "source": "“其实这次接到委托的时候我就想提醒父亲，一定要让那个地精先付钱结账再开工，最少也该到格林港银行里做个公证，可是父亲实在太善良了，他还按照以前石匠协会的老传统办事，结果这回吃了大亏！”",
+      "target": "“Thực ra lúc nhận được ủy thác lần này tôi đã muốn nhắc cha rồi, nhất định phải bảo tên địa tinh kia trả tiền thanh toán trước rồi mới thi công, chí ít thì cũng nên đến ngân hàng cảng Green làm một cái công chứng. Thế nhưng cha tôi thật sự quá hiền lành, ông ấy vẫn làm việc theo truyền thống cũ của Hiệp hội Thợ đá trước đây, kết quả lần này phải chịu thiệt thòi lớn!”"
+    },
+    {
+      "segment_id": "0036",
+      "source": "说着，蕾娜又愁苦地叹了口气，眉宇间有着挥之不去的忧色：",
+      "target": "Nói đoạn, Rena lại sầu não thở dài một hơi, giữa hai đầu lông mày lộ rõ vẻ lo âu không thể xua tan:"
+    },
+    {
+      "segment_id": "0037",
+      "source": "“现在该死的德思礼天天派人来骚扰，酒馆几乎没法正常营业。”",
+      "target": "“Bây giờ cái tên Dursley chết tiệt đó ngày nào cũng phái người tới quấy rối, quán rượu gần như không thể kinh doanh bình thường được nữa.”"
+    },
+    {
+      "segment_id": "0038",
+      "source": "“石匠兄弟会的大家都是普通人，可血牙帮里光是1阶职业者就有5个，更不用说还有德思礼这个2阶战士。”",
+      "target": "“Mọi người trong Hội anh em thợ đá đều là người bình thường, nhưng trong băng Huyết Nha chỉ riêng người chức nghiệp bậc 1 thôi đã có tận 5 người rồi, càng đừng nói còn có Dursley là Chiến binh bậc 2 nữa.”"
+    },
+    {
+      "segment_id": "0039",
+      "source": "“如果再这样下去，酒馆没有收入，兄弟会的其他人也不敢出去找新的活计，大家可能就只能放弃这里好不容易打下的基础，去其他地方再想办法另求出路了。”",
+      "target": "“Nếu cứ tiếp tục như vậy, quán rượu không có thu nhập, những người khác trong Hội anh em cũng không dám ra ngoài tìm việc mới. Mọi người có lẽ chỉ đành từ bỏ cơ sở vất vả lắm mới dựng nên được ở đây, đi nơi khác nghĩ cách tìm đường sống khác mà thôi.”"
+    },
+    {
+      "segment_id": "0040",
+      "source": "“唉……要是我也能像培特先生你一样成为强大的法师该多好，那样的话，说不定就有办法把血牙帮的那些混蛋打跑了。”",
+      "target": "“Haiz... Giá như tôi cũng có thể trở thành một pháp sư hùng mạnh như ngài Pete thì tốt biết mấy, nếu được như vậy, nói không chừng sẽ có cách đánh đuổi đám khốn kiếp của băng Huyết Nha kia.”"
+    },
+    {
+      "segment_id": "0041",
+      "source": "说者无心，听者有意。",
+      "target": "Người nói vô tâm, người nghe hữu ý."
+    },
+    {
+      "segment_id": "0042",
+      "source": "培特耳畔倏地响起一声轻响。",
+      "target": "Bên tai Pete chợt vang lên một tiếng động nhẹ."
+    },
+    {
+      "segment_id": "0043",
+      "source": "“叮”",
+      "target": "“Đinh”"
+    },
+    {
+      "segment_id": "0044",
+      "source": "【任务已发布。】",
+      "target": "【Nhiệm vụ đã được phát hành.】"
+    },
+    {
+      "segment_id": "0045",
+      "source": "【任务：吾主的真理普照大地（可重复）】",
+      "target": "【Nhiệm vụ: Chân lý của Thần ta chiếu rọi đại địa (Có thể lặp lại)】"
+    },
+    {
+      "segment_id": "0046",
+      "source": "【目标：招募一名新的信徒，使其信仰求知之神】",
+      "target": "【Mục tiêu: Chiêu mộ một tín đồ mới, khiến người đó tín ngưỡng Thần Cầu Tri】"
+    },
+    {
+      "segment_id": "0047",
+      "source": "【奖励：知识点数5】",
+      "target": "【Phần thưởng: 5 Điểm Tri thức】"
+    },
+    {
+      "segment_id": "0048",
+      "source": "培特沉吟片刻。",
+      "target": "Pete trầm ngâm một lát."
+    },
+    {
+      "segment_id": "0049",
+      "source": "“那个……蕾娜……”",
+      "target": "“À thì... Rena...”"
+    },
+    {
+      "segment_id": "0050",
+      "source": "“怎么了，培特先生？”",
+      "target": "“Sao vậy, ngài Pete?”"
+    },
+    {
+      "segment_id": "0051",
+      "source": "“……你听说过求知之神吗？”",
+      "target": "“...Cô từng nghe nói tới Thần Cầu Tri chưa?”"
+    },
+    {
+      "segment_id": "0052",
+      "source": "……",
+      "target": "..."
+    },
+    {
+      "segment_id": "0053",
+      "source": "信徒即将出现人传人现象，求个推荐票和月票，谢谢～～～",
+      "target": "Tín đồ sắp xuất hiện hiện tượng lây truyền từ người sang người, cầu xin vé đề cử và vé tháng, cảm ơn ~~~"
+    }
+  ]
+}
+```

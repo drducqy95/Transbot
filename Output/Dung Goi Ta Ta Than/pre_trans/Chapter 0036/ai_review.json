@@ -1,0 +1,40 @@
+```json
+{
+  "approved": {
+    "names": [],
+    "terms": [
+      "英勇打击",
+      "这个任务。",
+      "；\n工友成为"
+    ]
+  },
+  "rejected": {
+    "names": [
+      "都没"
+    ],
+    "terms": [
+      "吾主的真理普",
+      "快要攒够了！",
+      "战技的知识！",
+      "的奖励，才只",
+      "目标：战士1",
+      "知识点数",
+      "这个数额的",
+      "需求：15知"
+    ],
+    "reasons": {
+      "都没": "Fragment không hoàn chỉnh, thiếu context",
+      "吾主的真理普": "Cụm bị cắt, không rõ ý",
+      "快要攒够了！": "Thiếu chủ ngữ/ngữ cảnh",
+      "战技的知识！": "Fragment không đầy đủ",
+      "的奖励，才只": "Cụm bị cắt đầu cuối",
+      "目标：战士1": "Không khớp glossary (không có hệ thống chiến binh trong context đã cho)",
+      "知识点数": "Hệ thống game RPG không xuất hiện trong glossary về ma pháp/thần linh",
+      "这个数额的": "Fragment thiếu đầu/cuối",
+      "需求：15知": "Cụm bị cắt"
+    }
+  },
+  "uncertain": [],
+  "notes": "Các term approved là câu hoàn chỉnh/có thể dịch độc lập. Terms rejected chủ yếu là fragment UI game RPG (战士/知识点数/战技) khôngớp với bối cảnh ma pháp học viện trong glossary."
+}
+```

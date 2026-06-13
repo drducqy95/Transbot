@@ -1,0 +1,35 @@
+```json
+{
+  "names": {
+    "approved": [],
+    "rejected": [
+      "时候"
+    ],
+    "uncertain": []
+  },
+  "terms": {
+    "approved": [
+      "奥术飞弹"
+    ],
+    "rejected": [
+      "“嘶……”",
+      "任务：击败混",
+      "的模型轮廓。",
+      "的魔法构建和",
+      "这种正经的一"
+    ],
+    "uncertain": []
+  }
+}
+```
+
+### Explanation of the Review:
+*   **Names**:
+    *   `时候` (shíhòu): Rejected. This translates to "time" or "moment" and is a common noun/adverb of time, not a proper character or location name.
+*   **Terms**:
+    *   `奥术飞弹` (Arcane Missiles): Approved. This is a standard magical spell name and fits perfectly with the magical/fantasy setting established in your glossary (which includes other spells like *Thuật Mạng Nhện*, *Khóa Bí Thuật*, etc.).
+    *   `“嘶……”`: Rejected. This is just a sound effect/onomatopoeia ("hiss..." or taking a sharp breath) and not a glossary term.
+    *   `任务：击败混`: Rejected. This is a cut-off sentence fragment ("Quest: Defeat the chaos...").
+    *   `的模型轮廓。`: Rejected. This is a sentence fragment meaning "...'s model outline."
+    *   `的魔法构建和`: Rejected. Another sentence fragment meaning "...'s magical construct and...".
+    *   `这种正经的一`: Rejected. A cut-off fragment meaning "This kind of serious...".

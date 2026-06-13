@@ -1,0 +1,17 @@
+```json
+{
+  "approved": [
+    "奥术飞弹"
+  ],
+  "rejected": [
+    "时候",
+    "，哪怕职业者"
+  ],
+  "uncertain": []
+}
+```
+
+**Reasoning:**
+- **奥术飞弹 (Arcane Missiles):** Approved. This is a very standard spell name in fantasy settings and fits well alongside the magic system terms (hí pháp, pháp thuật cấp 1, etc.) mentioned in the glossary. 
+- **时候 (Time / moment):** Rejected. This is a common noun/adverb of time in Chinese, not a proper name or specific entity.
+- **，哪怕职业者 (, even if Chức nghiệp giả):** Rejected. While "职业者" (Chức nghiệp giả) is a valid term found in your glossary, the extracted string includes punctuation (，) and common connecting words (哪怕), making it an improperly bounded term.

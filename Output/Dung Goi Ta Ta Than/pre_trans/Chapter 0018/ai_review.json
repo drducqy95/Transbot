@@ -1,0 +1,44 @@
+```json
+{
+  "names": {
+    "approved": [],
+    "rejected": [
+      {
+        "item": "后者",
+        "reason": "Common pronoun meaning 'the latter', not a proper noun or name."
+      },
+      {
+        "item": "时候",
+        "reason": "Common noun meaning 'time' or 'when', not a proper name."
+      }
+    ],
+    "uncertain": []
+  },
+  "terms": {
+    "approved": [],
+    "rejected": [
+      {
+        "item": "任务已发布。",
+        "reason": "This is a complete sentence meaning 'Task has been published.', not a standalone glossary term."
+      },
+      {
+        "item": "任务：吾主的",
+        "reason": "This is an incomplete phrase meaning 'Task: My Lord's...'. It is a fragment, likely from a UI or quest prompt."
+      },
+      {
+        "item": "培特沉吟片",
+        "reason": "This is a sentence fragment meaning 'Pete pondered for a moment'. While 'Pete' (培特) is a valid name (Pete Chinar from the glossary), the phrase itself is not a term."
+      },
+      {
+        "item": "奖励：知识点",
+        "reason": "This is a phrase/UI text meaning 'Reward: Knowledge points'. 'Knowledge points' (知识点) itself might be a valid term, but the entire string is not."
+      },
+      {
+        "item": "目标：招募一",
+        "reason": "This is an incomplete phrase meaning 'Objective: Recruit a...'. It is a fragment."
+      }
+    ],
+    "uncertain": []
+  }
+}
+```

@@ -1,0 +1,291 @@
+{
+  "schema_version": "2.0",
+  "chapter_id": "chapter_0004",
+  "segment_translations": [
+    {
+      "segment_id": "0001",
+      "source": "# 第4章 截然不同的办法",
+      "target": "# Chương 4: Cách làm hoàn toàn khác biệt"
+    },
+    {
+      "segment_id": "0002",
+      "source": "【检测到信徒求助，任务目标已更新！】",
+      "target": "【Phát hiện tín đồ cầu cứu, mục tiêu nhiệm vụ đã cập nhật!】"
+    },
+    {
+      "segment_id": "0003",
+      "source": "培根的脑海中，原本那条学习法术[哈达之饥渴]的任务信息悄然重组，出现了更多更细致的内容：",
+      "target": "Trong đầu Pete, thông tin nhiệm vụ học pháp thuật [Cơn đói khát của Hadar] ban đầu lặng lẽ tái tổ hợp, xuất hiện nhiều nội dung chi tiết hơn:"
+    },
+    {
+      "segment_id": "0004",
+      "source": "【任务一：调动魔网】",
+      "target": "【Nhiệm vụ 1: Điều động ma võng】"
+    },
+    {
+      "segment_id": "0005",
+      "source": "【描述：通过感知周围环境中从魔网逸散的魔法能量，建立与魔网的连接】",
+      "target": "【Mô tả: Thông qua việc cảm nhận năng lượng ma pháp thoát ra từ ma võng trong môi trường xung quanh, thiết lập kết nối với ma võng】"
+    },
+    {
+      "segment_id": "0006",
+      "source": "【当前进度：0%】",
+      "target": "【Tiến độ hiện tại: 0%】"
+    },
+    {
+      "segment_id": "0007",
+      "source": "【任务二：构筑法术模型】",
+      "target": "【Nhiệm vụ 2: Xây dựng mô hình pháp thuật】"
+    },
+    {
+      "segment_id": "0008",
+      "source": "【描述：依据法术特征信息，调用魔网中的能量，完成法术模型构筑】",
+      "target": "【Mô tả: Dựa vào thông tin đặc trưng của pháp thuật, gọi năng lượng trong ma võng, hoàn thành việc xây dựng mô hình pháp thuật】"
+    },
+    {
+      "segment_id": "0009",
+      "source": "【当前进度：0%】",
+      "target": "【Tiến độ hiện tại: 0%】"
+    },
+    {
+      "segment_id": "0010",
+      "source": "【任务三：稳定性维持】",
+      "target": "【Nhiệm vụ 3: Duy trì tính ổn định】"
+    },
+    {
+      "segment_id": "0011",
+      "source": "【描述：通过魔法能量间的共鸣形成稳定场域，结束施法】",
+      "target": "【Mô tả: Thông qua sự cộng hưởng giữa các năng lượng ma pháp để hình thành trường vực ổn định, kết thúc thi pháp】"
+    },
+    {
+      "segment_id": "0012",
+      "source": "【当前进度：0%】",
+      "target": "【Tiến độ hiện tại: 0%】"
+    },
+    {
+      "segment_id": "0013",
+      "source": "随着三条新的任务出现，更加重要的是，这次所谓的“任务信息”里还附带了详细的完成方法，只要培特将精神集中于对应的任务描述上，就能看到详细到具体步骤的相关知识。",
+      "target": "Cùng với sự xuất hiện của ba nhiệm vụ mới, điều quan trọng hơn là, trong \"thông tin nhiệm vụ\" lần này còn kèm theo phương pháp hoàn thành chi tiết, chỉ cần Pete tập trung tinh thần vào mô tả nhiệm vụ tương ứng, cậu sẽ có thể nhìn thấy những kiến thức liên quan chi tiết đến từng bước cụ thể."
+    },
+    {
+      "segment_id": "0014",
+      "source": "仅仅只是在脑海中快速过了一遍【调动魔网】的步骤教程，培特便感觉他这几年来建立的魔法世界观受到了巨大的冲击。",
+      "target": "Chỉ cần lướt nhanh qua hướng dẫn các bước 【Điều động ma võng】 trong đầu, Pete đã cảm thấy thế giới quan ma pháp mà cậu dày công xây dựng trong vài năm qua phải chịu một cú sốc lớn."
+    },
+    {
+      "segment_id": "0015",
+      "source": "“什么？调动魔网还可以这样实现的吗？”",
+      "target": "\"Cái gì? Điều động ma võng còn có thể thực hiện theo cách này sao?\""
+    },
+    {
+      "segment_id": "0016",
+      "source": "不怪培特惊讶，实在是因为这些步骤教程里所传授的方法，与他先前学到的练习魔法的办法差别巨大！",
+      "target": "Không trách được Pete lại ngạc nhiên, thực sự là vì những phương pháp được truyền đạt trong các bước hướng dẫn này khác biệt quá lớn so với cách luyện tập ma pháp mà cậu đã học trước đây!"
+    },
+    {
+      "segment_id": "0017",
+      "source": "正统施法者教学里关于魔网的部分，可以说绝大部分内容都与魔法女神的亲和度有关，在开始释放法术前，要向魔法女神祈祷，得到回应后才能与魔网产生共鸣。",
+      "target": "Trong phần giảng dạy cho người thi pháp chính thống về ma võng, có thể nói phần lớn nội dung đều liên quan đến độ thân hòa với Nữ thần Ma pháp. Trước khi bắt đầu giải phóng pháp thuật, cần phải cầu nguyện Nữ thần Ma pháp, nhận được sự hồi đáp rồi mới có thể sinh ra cộng hưởng với ma võng."
+    },
+    {
+      "segment_id": "0018",
+      "source": "魔网的脾性并不温顺，光是共鸣远远不够，施法者要尝试着与魔网交流沟通，从中找到愿意合作的魔法能量，然后才有机会进行到下个步骤，也就是让能量按特定的规律构筑成模型。",
+      "target": "Tính khí của ma võng vốn không hề hiền hòa, chỉ cộng hưởng thôi là chưa đủ, người thi pháp phải cố gắng giao tiếp với ma võng, từ đó tìm ra năng lượng ma pháp sẵn sàng hợp tác, sau đó mới có cơ hội tiến tới bước tiếp theo, tức là để năng lượng cấu trúc thành mô hình theo những quy luật nhất định."
+    },
+    {
+      "segment_id": "0019",
+      "source": "可是培特脑海中出现的信息，则提供了一种截然不同的方法：",
+      "target": "Thế nhưng, thông tin hiện lên trong đầu Pete lại cung cấp một phương pháp hoàn toàn khác biệt:"
+    },
+    {
+      "segment_id": "0020",
+      "source": "“首先要感知环境中逸散的魔法能量，仔细分辨，能从它们的波动中找到一种独特的特征码？”",
+      "target": "\"Đầu tiên phải cảm nhận được năng lượng ma pháp tản mát trong môi trường, phân biệt thật kỹ, liệu có thể tìm thấy một mã đặc trưng độc đáo từ sự chấn động của chúng không?\""
+    },
+    {
+      "segment_id": "0021",
+      "source": "“按照特定格式，将特征码进行解码，然后再对应法表将解码后的信息转译成密钥？”",
+      "target": "\"Dựa theo định dạng đặc thù, tiến hành giải mã mã đặc trưng, sau đó đối chiếu với bảng pháp thuật để biên dịch thông tin đã giải mã thành khóa mã?\""
+    },
+    {
+      "segment_id": "0022",
+      "source": "“集中精神，使用该密钥呼唤魔网，等待魔网回应并建立起与魔网的临时连接状态？！”",
+      "target": "\"Tập trung tinh thần, sử dụng khóa mã này để gọi ma võng, chờ đợi ma võng phản hồi và thiết lập trạng thái kết nối tạm thời với ma võng?!\""
+    },
+    {
+      "segment_id": "0023",
+      "source": "培特鼓起勇气看了眼正在缓缓逼近的畸变体怪物，尽量让自己不去管洞窟里剩的那几个被吓得哭爹喊娘、彻底失去抵抗想法的倒霉蛋，深深吸了口气。",
+      "target": "Pete lấy hết can đảm liếc nhìn con quái vật dị biến đang từ từ tiến lại gần, cố gắng không bận tâm đến mấy tên xui xẻo còn lại trong hang động đang sợ hãi khóc lóc thảm thiết, hoàn toàn mất đi ý chí phản kháng, cậu hít một hơi thật sâu."
+    },
+    {
+      "segment_id": "0024",
+      "source": "“好吧，好吧，不管这办法是真是假，到底有没有用，现在我也没其他办法了，试一下总比什么都不做就这样等死要强！”",
+      "target": "\"Thôi được, thôi được, mặc kệ phương pháp này là thật hay giả, rốt cuộc có tác dụng hay không, hiện tại mình cũng chẳng còn cách nào khác, thử một chút vẫn tốt hơn là cứ ngồi chờ chết thế này!\""
+    },
+    {
+      "segment_id": "0025",
+      "source": "在这随时可能失去性命的危急时刻，培特的求生本能终于发挥了作用，他几乎是以最快的速度进入了静心感知的状态，成功找到了那些游离在周围环境中没有任何自主意识的零星魔法能量。",
+      "target": "Trong khoảnh khắc nguy cấp có thể mất mạng bất cứ lúc nào này, bản năng sinh tồn của Pete cuối cùng cũng phát huy tác dụng. Gần như với tốc độ nhanh nhất, cậu đã tiến vào trạng thái tĩnh tâm cảm nhận, thành công tìm thấy những năng lượng ma pháp lẻ tẻ đang trôi nổi trong môi trường xung quanh mà không có bất kỳ ý thức tự chủ nào."
+    },
+    {
+      "segment_id": "0026",
+      "source": "培特记得他学过的教材里，曾经有传奇大法师对这些逸散能量下过定义，认为它们是“魔网波动过程中一些巧合导致脱离的能量，无法主动加以利用，但会被施法者的法术吸引而借此被动地回归魔网。”",
+      "target": "Pete nhớ lại trong giáo trình cậu từng học, từng có vị Đại pháp sư Huyền thoại định nghĩa về những năng lượng tản mát này, cho rằng chúng là \"những năng lượng bị tách ra do vài sự trùng hợp ngẫu nhiên trong quá trình ma võng chấn động, không thể chủ động lợi dụng, nhưng sẽ bị pháp thuật của người thi pháp thu hút, qua đó thụ động quay về với ma võng.\""
+    },
+    {
+      "segment_id": "0027",
+      "source": "正常施法的过程中，与魔网建立联系时，亲和度较高的信徒在祈祷后更容易得到回应，那种状态下才能利用魔网完成魔法。",
+      "target": "Trong quá trình thi pháp bình thường, khi thiết lập kết nối với ma võng, những tín đồ có độ thân hòa cao hơn sẽ dễ dàng nhận được hồi đáp sau khi cầu nguyện, chỉ trong trạng thái đó mới có thể sử dụng ma võng để hoàn thành ma pháp."
+    },
+    {
+      "segment_id": "0028",
+      "source": "而那些逸散的魔法能量虽然同样能够建立起联系，可它们回应的波动能让施法者感知到的只有一串串无序的信息。",
+      "target": "Còn những năng lượng ma pháp tản mát kia mặc dù cũng có thể thiết lập mối liên kết, nhưng dao động mà chúng đáp lại chỉ khiến người thi pháp cảm nhận được những chuỗi thông tin lộn xộn, vô trật tự."
+    },
+    {
+      "segment_id": "0029",
+      "source": "培特照着脑海中的步骤，将他收集到的无序信息对应着一一解码，然后转化为一串新的信息，再尝试着小心翼翼地呼唤魔网。      新世界的大门被打开了！",
+      "target": "Pete làm theo các bước trong đầu, đối chiếu giải mã từng thông tin lộn xộn mà cậu thu thập được, sau đó chuyển hóa thành một chuỗi thông tin mới, lại cố gắng cẩn thận hô gọi ma võng. \n\nCánh cửa thế giới mới đã được mở ra!"
+    },
+    {
+      "segment_id": "0030",
+      "source": "他感受到的世界在一瞬间变得无比清晰！",
+      "target": "Thế giới mà cậu cảm nhận được bỗng chốc trở nên vô cùng rõ ràng!"
+    },
+    {
+      "segment_id": "0031",
+      "source": "“魔法女神……不对，这位还不知道叫什么的伟大神明在上啊！这办法居然真的有用！”",
+      "target": "\"Nữ thần Ma pháp... Không đúng, vị thần vĩ đại vẫn chưa biết tên ơi! Cách này vậy mà thật sự có tác dụng!\""
+    },
+    {
+      "segment_id": "0032",
+      "source": "仿佛突然给一个近视的人戴上了度数合适的眼镜，培特从来没有这么清楚地感知到魔网的形状！",
+      "target": "Giống như đột nhiên đeo một chiếc kính đúng độ cho một người cận thị, Pete chưa bao giờ cảm nhận rõ ràng hình dạng của ma võng đến thế!"
+    },
+    {
+      "segment_id": "0033",
+      "source": "“如此明了！如此……不可思议！！”",
+      "target": "\"Rõ ràng như vậy! Thật... không thể tin nổi!!\""
+    },
+    {
+      "segment_id": "0034",
+      "source": "如果说以前的他是求爷爷告奶奶地乞求着魔网大爷，对方就像个高冷女神一样对他爱答不理，那么现在的魔网简直就是在无比热情地回应着培特的诉求！",
+      "target": "Nếu nói trước đây cậu phải khúm núm van xin vị đại gia ma võng này, đối phương lại giống như một nữ thần lạnh lùng kiêu ngạo chẳng thèm đoái hoài gì đến cậu, thì hiện tại ma võng quả thực đang vô cùng nhiệt tình đáp lại những yêu cầu của Pete!"
+    },
+    {
+      "segment_id": "0035",
+      "source": "在培特能感知到的范围内，魔网的每一丝脉络、每一次波动都触手可及！",
+      "target": "Trong phạm vi mà Pete có thể cảm nhận được, từng đường nét, từng chấn động của ma võng đều gần ngay trong tầm tay!"
+    },
+    {
+      "segment_id": "0036",
+      "source": "短短几秒钟时间就建立起了与魔网的联系，这是以前的培特想都不敢想的事情，第一步尝试的成功，让培特信心大增。",
+      "target": "Chỉ trong vài giây ngắn ngủi đã thiết lập được kết nối với ma võng, đây là chuyện mà Pete của trước kia có nằm mơ cũng không dám nghĩ tới. Sự thành công của lần thử nghiệm đầu tiên đã giúp Pete tăng thêm niềm tin mạnh mẽ."
+    },
+    {
+      "segment_id": "0037",
+      "source": "脑海中【任务一：调动魔网】的进度变成了100%，后续两个任务的方法同样与培特过去所学的施法知识截然不同，不过有了第一个步骤成功的鼓励，培特毫不犹豫地选择了继续按着描述的步骤照做！",
+      "target": "Tiến độ của 【Nhiệm vụ 1: Điều động ma võng】 trong đầu cậu chuyển thành 100%. Phương pháp của hai nhiệm vụ tiếp theo cũng hoàn toàn khác biệt so với những kiến thức thi pháp Pete từng học trong quá khứ, nhưng nhờ có sự khích lệ từ thành công của bước đầu tiên, Pete không chút do dự tiếp tục làm theo đúng như các bước mô tả!"
+    },
+    {
+      "segment_id": "0038",
+      "source": "数分钟后。",
+      "target": "Vài phút sau."
+    },
+    {
+      "segment_id": "0039",
+      "source": "【任务二：构筑法术模型】",
+      "target": "【Nhiệm vụ 2: Xây dựng mô hình pháp thuật】"
+    },
+    {
+      "segment_id": "0040",
+      "source": "【当前进度：100%】",
+      "target": "【Tiến độ hiện tại: 100%】"
+    },
+    {
+      "segment_id": "0041",
+      "source": "【任务三：稳定性维持】",
+      "target": "【Nhiệm vụ 3: Duy trì tính ổn định】"
+    },
+    {
+      "segment_id": "0042",
+      "source": "【当前进度：100%】",
+      "target": "【Tiến độ hiện tại: 100%】"
+    },
+    {
+      "segment_id": "0043",
+      "source": "三条任务依次完成，每当一个步骤的进度逐渐提升到100%，都令培特感到莫大的鼓舞，虽然他只是第一次尝试，但培特有种预感，他距离成功完成三阶法术不远了！",
+      "target": "Ba nhiệm vụ lần lượt hoàn thành, mỗi khi tiến độ của một bước dần tăng lên 100%, Pete lại cảm thấy được cổ vũ vô cùng lớn lao. Mặc dù chỉ là lần đầu tiên thử nghiệm, nhưng Pete có dự cảm rằng cậu cách việc thực hiện thành công pháp thuật bậc 3 không còn xa nữa!"
+    },
+    {
+      "segment_id": "0044",
+      "source": "一团充满了漆黑与寒冷气息的球状能量磕磕绊绊地在他的手中成型，培特不得不消耗大量的精神才能勉强维持住其中狂暴能量的稳定性。",
+      "target": "Một khối năng lượng hình cầu tràn ngập khí tức tối tăm và lạnh lẽo lảo đảo hình thành trong tay cậu. Pete buộc phải tiêu hao một lượng tinh thần cực lớn mới có thể miễn cưỡng duy trì được tính ổn định của nguồn năng lượng cuồng bạo bên trong nó."
+    },
+    {
+      "segment_id": "0045",
+      "source": "以二阶施法者的精神强度，强行释放三阶法术，魔法仅仅只是成型了短短几秒钟时间就让培特感到阵阵不适，有种身体被掏空、摇摇欲坠的晕眩感。",
+      "target": "Dùng cường độ tinh thần của người thi pháp bậc 2 để gượng ép giải phóng pháp thuật bậc 3, ma pháp chỉ vừa thành hình vài giây ngắn ngủi đã khiến Pete cảm thấy từng cơn khó chịu ập tới, có cảm giác trống rỗng trong cơ thể, choáng váng như muốn ngã quỵ."
+    },
+    {
+      "segment_id": "0046",
+      "source": "总算看到脑海中出现【任务：学习法术[哈达之饥渴]，当前进度：100%】的字样，不敢再耽搁，培特猛地将手中构筑完成的法术甩向逼近到面前的畸变体！",
+      "target": "Cuối cùng cũng nhìn thấy dòng chữ 【Nhiệm vụ: Học pháp thuật [Cơn đói khát của Hadar], tiến độ hiện tại: 100%】 hiện lên trong đầu, không dám chậm trễ thêm, Pete liền vung mạnh pháp thuật đã cấu trúc xong trong tay về phía sinh vật dị biến đang áp sát ngay trước mặt!"
+    },
+    {
+      "segment_id": "0047",
+      "source": "“怪物！别靠近我！”",
+      "target": "\"Quái vật! Đừng có lại gần ta!\""
+    },
+    {
+      "segment_id": "0048",
+      "source": "一个将畸变怪完全笼罩的寒冷黑暗球状区域猛然张开！",
+      "target": "Một khu vực hình cầu đen tối lạnh lẽo bao trùm hoàn toàn con quái vật dị biến đột ngột mở rộng!"
+    },
+    {
+      "segment_id": "0049",
+      "source": "“嘶呀——！！”",
+      "target": "\"Xuy nha——!!\""
+    },
+    {
+      "segment_id": "0050",
+      "source": "怪物身上所有的口器都在这一刻惨烈地尖叫起来，触手疯狂挥动抽击着四周，显然它正承受着莫大的折磨！只见它身上原本散发着恶臭的腐烂血肉快速变得发青发黑，紧接着，冻疮与酸蚀的痕迹开始在它的躯体上扩散。",
+      "target": "Tất cả các khoang miệng trên thân con quái vật đều gào thét thảm thiết trong khoảnh khắc này, những xúc tu điên cuồng vung vẩy quất vào xung quanh, rõ ràng là nó đang phải chịu sự giằng xé vô cùng đau đớn! Chỉ thấy phần máu thịt thối rữa ban đầu bốc mùi hôi thối trên người nó nhanh chóng chuyển sang màu xanh đen, ngay sau đó, những vết tê cóng và dấu vết bị axit ăn mòn bắt đầu lan rộng trên thân thể nó."
+    },
+    {
+      "segment_id": "0051",
+      "source": "一根一根的触手被寒冷冻伤而完全失去活性，肉瘤和眼球也在魔法的作用下接二连三地爆裂，喷出恶心的黄褐色脓水。畸变怪试图蠕动着脱离这片区域，但仿佛被什么东西束缚住了身体一般，动作无比迟缓，完全无法阻止这无孔不入的伤害侵蚀！",
+      "target": "Từng cái xúc tu bị lạnh đến đóng băng mà hoàn toàn mất đi sức sống, những khối u thịt và nhãn cầu cũng liên tiếp nổ tung dưới tác dụng của ma pháp, phun ra chất mủ màu nâu vàng kinh tởm. Quái vật dị biến cố gắng vặn vẹo cơ thể để trốn khỏi khu vực này, nhưng dường như cơ thể nó đã bị thứ gì đó trói buộc, động tác cực kỳ chậm chạp, hoàn toàn không cách nào ngăn chặn được sự ăn mòn và sát thương không chỗ nào không len lỏi vào này!"
+    },
+    {
+      "segment_id": "0052",
+      "source": "“呼哧……呼哧……”",
+      "target": "\"Phù... Phù...\""
+    },
+    {
+      "segment_id": "0053",
+      "source": "畸变怪的动作越来越迟缓，培特奇纳尔喘着粗气，死死地盯着对方的垂死挣扎，直到他听见脑海中再度响起“叮”的一声。",
+      "target": "Hành động của quái vật dị biến ngày càng chậm chạp. Pete Chinar thở hồng hộc, gắt gao nhìn chằm chằm vào sự giãy giụa hấp hối của đối phương, cho đến khi cậu nghe thấy một tiếng \"ding\" lại vang lên trong tâm trí."
+    },
+    {
+      "segment_id": "0054",
+      "source": "【任务进度已变更。】",
+      "target": "【Tiến độ nhiệm vụ đã thay đổi.】"
+    },
+    {
+      "segment_id": "0055",
+      "source": "【消灭神孽畸变怪，（1/1）】",
+      "target": "【Tiêu diệt quái vật dị biến Thần Nghiệt, (1/1)】"
+    },
+    {
+      "segment_id": "0056",
+      "source": "紧绷的神经骤然放松，精神严重消耗过度，培特眼前一黑，当场晕倒过去。",
+      "target": "Thần kinh đang căng thẳng tột độ đột ngột được thả lỏng, tinh thần tiêu hao quá mức nghiêm trọng, trước mắt Pete tối sầm lại, cậu ngất xỉu ngay tại chỗ."
+    },
+    {
+      "segment_id": "0057",
+      "source": "……",
+      "target": "..."
+    }
+  ]
+}

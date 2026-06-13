@@ -1,0 +1,29 @@
+```json
+{
+  "approved": [
+    "潜行",
+    "目标：潜行者",
+    "知识点数",
+    "需求：3知识"
+  ],
+  "rejected": [
+    "方法",
+    "时候",
+    "有多远",
+    "了”\n“不是",
+    "失败了，但已",
+    "检测到信徒诉",
+    "的奖励机制后",
+    "蕾娜惊喜地"
+  ],
+  "uncertain": []
+}
+```
+
+**Reasoning:**
+
+*   **Approved**: `潜行` (Stealth), `目标：潜行者` (Target: Stalker/Rogue), `知识点数` (Knowledge Points), and `需求：3知识` (Requirement: 3 Knowledge) appear to be valid system interface text, status prompts, or skills common in LitRPG/fantasy genres that should be maintained consistently as terminology.
+*   **Rejected**: 
+    *   `方法` (method), `时候` (time), `有多远` (how far) are generic words and phrases, not proper nouns or names. 
+    *   `了”\n“不是`, `失败了，但已`, `检测到信徒诉`, `的奖励机制后` are clearly sentence fragments and punctuation errors caught by the extraction tool. 
+    *   `蕾娜惊喜地` is a phrase ("Rena was pleasantly surprised"). While `蕾娜` (Rena) is a valid character name, the phrase itself should not be stored as a standalone term.

@@ -1,0 +1,316 @@
+{
+  "schema_version": "2.0",
+  "chapter_id": "chapter_0023",
+  "segment_translations": [
+    {
+      "segment_id": "0001",
+      "source": "# 第23章 奇特的规则",
+      "target": "# Chương 23: Quy tắc kỳ lạ"
+    },
+    {
+      "segment_id": "0002",
+      "source": "数日后，半夜。",
+      "target": "Vài ngày sau, nửa đêm."
+    },
+    {
+      "segment_id": "0003",
+      "source": "莫尼兄弟酒馆，地下酒窖。",
+      "target": "Quán rượu Anh Em Moni, hầm rượu dưới lòng đất."
+    },
+    {
+      "segment_id": "0004",
+      "source": "原本摆满了木酒桶的地下室被蕾娜临时清理了一番，腾出了足够进行仪式的空间，不过空气中还是弥漫着一股醉人的酒香味。",
+      "target": "Tầng hầm vốn chất đầy các thùng rượu gỗ đã được Rena tạm thời dọn dẹp một phen, lấy ra đủ không gian để tiến hành nghi thức, nhưng trong không khí vẫn tràn ngập một mùi hương rượu say lòng người."
+    },
+    {
+      "segment_id": "0005",
+      "source": "提着箱子从后门走进来的培特被熏得有点头晕，努力晃了晃脑袋让自己稍微清醒一点。",
+      "target": "Pete xách rương đi từ cửa sau vào bị hun đến mức hơi choáng váng, cố gắng lắc lắc đầu để bản thân tỉnh táo hơn một chút."
+    },
+    {
+      "segment_id": "0006",
+      "source": "“求知之神真是够大方的，这要换了别的神明，敢在这种场合搞神术，少说得算个渎神之罪。”",
+      "target": "\"Thần Cầu Tri đúng là đủ hào phóng, nếu đổi lại là thần minh khác, dám thi triển thần thuật trong hoàn cảnh thế này, ít nhất cũng bị tính là tội độc thần.\""
+    },
+    {
+      "segment_id": "0007",
+      "source": "打量着周围的环境，培特忍不住吐了句槽。",
+      "target": "Đánh giá hoàn cảnh xung quanh, Pete không nhịn được cất tiếng oán thán."
+    },
+    {
+      "segment_id": "0008",
+      "source": "蕾娜也有点担心：“这样的环境，真的没问题吗？”",
+      "target": "Rena cũng có chút lo lắng: \"Hoàn cảnh thế này, thật sự không có vấn đề gì sao?\""
+    },
+    {
+      "segment_id": "0009",
+      "source": "“应该没问题，我刚刚尝试着冥想向求知之神询问，祂没有表示有什么问题。”",
+      "target": "\"Chắc là không sao, tôi vừa thử thiền định cầu nguyện hỏi Thần Cầu Tri, ngài ấy không biểu thị có vấn đề gì.\""
+    },
+    {
+      "segment_id": "0010",
+      "source": "以前蕾娜也见过各种教会的执事使用神术的场合，但那无一不是在正式的场合，整个过程必须严肃，每个步骤都要一丝不苟。",
+      "target": "Trước đây Rena cũng từng thấy nhiều trường hợp chấp sự của các giáo hội sử dụng thần thuật, nhưng tất cả đều là trong hoàn cảnh trang trọng, toàn bộ quá trình bắt buộc phải nghiêm túc, từng bước đều phải không một chút cẩu thả."
+    },
+    {
+      "segment_id": "0011",
+      "source": "可他们现在的配置呢？",
+      "target": "Còn bố trí của bọn họ bây giờ thì sao?"
+    },
+    {
+      "segment_id": "0012",
+      "source": "场地是酒窖临时腾出来的，甚至都没把酒桶搬出去，而只是先堆放在了墙边；",
+      "target": "Địa điểm là hầm rượu tạm thời dọn ra, thậm chí còn chưa chuyển các thùng rượu ra ngoài, mà chỉ tạm chất đống ở sát tường;"
+    },
+    {
+      "segment_id": "0013",
+      "source": "照明是几乎没有的，地下室里东南角开了个小天窗，但眼下正是接近午夜的时光，月光透过天窗并不能照亮多少空间，更多还是靠着蕾娜从楼上拿来的几根蜡烛充当临时照明。",
+      "target": "Ánh sáng thì gần như không có, góc Đông Nam trong tầng hầm mở một cái giếng trời nhỏ, nhưng lúc này đang là thời điểm gần nửa đêm, ánh trăng xuyên qua giếng trời cũng chẳng chiếu sáng được bao nhiêu không gian, phần lớn vẫn dựa vào mấy cây nến mà Rena lấy từ trên lầu xuống để làm ánh sáng tạm thời."
+    },
+    {
+      "segment_id": "0014",
+      "source": "幽幽的火光摇曳着，临时用蓝色注魔颜料画上的法阵在光线的折射下正散发着神秘的光芒，再配上周遭静谧的氛围，以及神神秘秘碰头的两人……",
+      "target": "Ánh lửa u ám lay động, pháp trận dùng thuốc màu chú ma màu xanh lam tạm thời vẽ nên đang tỏa ra thứ ánh sáng huyền bí dưới sự khúc xạ của ánh sáng, lại kết hợp với bầu không khí tĩnh mịch xung quanh, cùng với hai người gặp nhau một cách thần thần bí bí..."
+    },
+    {
+      "segment_id": "0015",
+      "source": "不知道具体会产生什么效果的神术仪式……",
+      "target": "Nghi thức thần thuật không biết cụ thể sẽ sinh ra hiệu ứng gì..."
+    },
+    {
+      "segment_id": "0016",
+      "source": "试图寻求未知的强大力量……",
+      "target": "Cố gắng tìm kiếm sức mạnh to lớn chưa biết..."
+    },
+    {
+      "segment_id": "0017",
+      "source": "培特总觉得这场面有点莫名的眼熟。",
+      "target": "Pete luôn cảm thấy cảnh tượng này không hiểu sao lại có chút quen mắt."
+    },
+    {
+      "segment_id": "0018",
+      "source": "仔细一回忆。",
+      "target": "Cẩn thận nhớ lại một chút."
+    },
+    {
+      "segment_id": "0019",
+      "source": "这不就跟那批洞窟里的黑袍人疯子一模一样吗！",
+      "target": "Chẳng phải giống hệt đám kẻ điên mặc áo choàng đen trong hang động kia sao!"
+    },
+    {
+      "segment_id": "0020",
+      "source": "有了之前经历的心理阴影，培特总感觉对类似的场面莫名地有点抵触。",
+      "target": "Có bóng ma tâm lý từ trải nghiệm trước kia, Pete luôn cảm thấy không hiểu sao có chút bài xích đối với những cảnh tượng tương tự."
+    },
+    {
+      "segment_id": "0021",
+      "source": "“不慌不慌，求知之神又不是什么邪神，邪神都是没有理智的疯神，求知之神是有理智的，现在只是条件有限，仪式现场看起来有点怪而已！”",
+      "target": "\"Không hoảng, không hoảng, Thần Cầu Tri cũng đâu phải tà thần gì, tà thần đều là những vị thần điên không có lý trí, Thần Cầu Tri là có lý trí, bây giờ chỉ là do điều kiện có hạn, hiện trường nghi thức trông hơi kỳ quái chút thôi!\""
+    },
+    {
+      "segment_id": "0022",
+      "source": "“求知之神这么强大的神明，只要再多点时间，肯定会有很多人愿意信仰的，等信徒多起来应该就会走上正轨了！”",
+      "target": "\"Vị thần minh cường đại như Thần Cầu Tri, chỉ cần thêm chút thời gian, chắc chắn sẽ có rất nhiều người bằng lòng tín ngưỡng, đợi tín đồ nhiều lên chắc là sẽ đi vào quỹ đạo đúng đắn thôi!\""
+    },
+    {
+      "segment_id": "0023",
+      "source": "给自己鼓了鼓劲，培特将他带来的东西依次拿出，按照求知之神提供的信息，依次摆放到了对应的位置。",
+      "target": "Tự cổ vũ bản thân, Pete lần lượt lấy những món đồ hắn mang tới ra, dựa theo thông tin mà Thần Cầu Tri cung cấp, lần lượt đặt vào đúng vị trí tương ứng."
+    },
+    {
+      "segment_id": "0024",
+      "source": "“准备一下，待会就开始仪式！”",
+      "target": "\"Chuẩn bị một chút, lát nữa sẽ bắt đầu nghi thức!\""
+    },
+    {
+      "segment_id": "0025",
+      "source": "“只要你能成功，就代表这个手搓的仪式体系没有问题，我们就能在格林港的地下黑市赚到大钱了！”",
+      "target": "\"Chỉ cần cô thành công, điều đó chứng tỏ hệ thống nghi thức chế tạo thủ công này không có vấn đề gì, chúng ta sẽ có thể kiếm được một khoản tiền lớn trong chợ đen ngầm ở cảng Green!\""
+    },
+    {
+      "segment_id": "0026",
+      "source": "“到时候管他什么德思礼不思礼，统统不会是问题！”",
+      "target": "\"Đến lúc đó quản hắn là Dursley hay không Dursley, tất cả đều sẽ không còn là vấn đề!\""
+    },
+    {
+      "segment_id": "0027",
+      "source": "……",
+      "target": "……"
+    },
+    {
+      "segment_id": "0028",
+      "source": "等待仪式材料凑齐的几天时间里，培特跟蕾娜两人也没闲着，他们进行了几次尝试，发现了一些求知之神没有明确告诉他们，但确实存在的规则：",
+      "target": "Trong mấy ngày chờ đợi gom đủ vật liệu cho nghi thức, hai người Pete và Rena cũng không rảnh rỗi, bọn họ đã tiến hành vài lần thử nghiệm, phát hiện ra một số quy tắc mà Thần Cầu Tri chưa nói rõ cho bọn họ, nhưng lại thực sự tồn tại:"
+    },
+    {
+      "segment_id": "0029",
+      "source": "培特在卡罗恩学院尝试通过书写、口述等方式，将诺文教予他的【奥术飞弹】法术的相关施法方式分享出来，但这些尝试却全部失败了。",
+      "target": "Pete ở học viện Caron cố gắng thông qua các hình thức như viết ra, truyền miệng... chia sẻ phương thức thi triển pháp thuật [Áo Thuật Phi Đạn] có liên quan mà Noven truyền thụ cho hắn ra ngoài, nhưng những nỗ lực này lại đều thất bại toàn tập."
+    },
+    {
+      "segment_id": "0030",
+      "source": "当培特试图分享相关知识时，他就仿佛从这个世界消失了似的，周围的人会自动无视他的存在；",
+      "target": "Khi Pete cố gắng chia sẻ tri thức liên quan, hắn tựa như đã bốc hơi khỏi thế giới này, những người xung quanh sẽ tự động phớt lờ sự tồn tại của hắn;"
+    },
+    {
+      "segment_id": "0031",
+      "source": "记录在载体上的知识也会随着书写变成一团团混乱无序的涂鸦。",
+      "target": "Tri thức được ghi chép trên vật chứa cũng sẽ biến thành từng mớ nét vẽ bậy bạ lộn xộn trong quá trình viết lách."
+    },
+    {
+      "segment_id": "0032",
+      "source": "明明方法就在自己脑子里，培特甚至将【奥术飞弹】从调动魔网到具体法术模型的计算全部的知识都背了下来；",
+      "target": "Rõ ràng phương pháp nằm ngay trong não mình, Pete thậm chí còn học thuộc lòng toàn bộ tri thức của [Áo Thuật Phi Đạn] từ việc điều động ma võng đến tính toán mô hình pháp thuật cụ thể;"
+    },
+    {
+      "segment_id": "0033",
+      "source": "培特甚至怀疑，哪怕这时候他弃信求知之神，应该还是可以凭借这些他脑子里的记忆完成施法，但就是无法分享给他人。      包括有关职业者天赋检测仪式的知识，蕾娜也试过了分享给培特，结果一样是失败。",
+      "target": "Pete thậm chí còn nghi ngờ, dù lúc này hắn từ bỏ đức tin vào Thần Cầu Tri, hẳn là vẫn có thể dựa vào những ký ức trong não này để hoàn thành việc thi pháp, nhưng lại không có cách nào chia sẻ cho người khác được.       Bao gồm cả tri thức liên quan đến nghi thức kiểm tra thiên phú chức nghiệp giả, Rena cũng đã thử chia sẻ cho Pete, kết quả cũng thất bại y như vậy."
+    },
+    {
+      "segment_id": "0034",
+      "source": "这让培特不得不把他那完成【吾主的真理普照大地】任务获得5个知识点数用来同样在求知之神那里换取了一份同样的知识。",
+      "target": "Điều này khiến Pete không thể không lấy 5 điểm tri thức thu được từ việc hoàn thành nhiệm vụ [Chân lý của Thần ta chiếu rọi đại địa] để đổi lấy một bản tri thức giống hệt chỗ Thần Cầu Tri."
+    },
+    {
+      "segment_id": "0035",
+      "source": "至于弃信之后记忆究竟是否还在，能否分享出去，因为弃信的代价实在太大，培特没敢尝试。",
+      "target": "Còn về việc rốt cuộc thì sau khi bỏ đạo trí nhớ còn tồn tại hay không, có thể chia sẻ ra ngoài hay không, bởi vì cái giá phải trả cho việc bỏ đạo thực sự quá lớn, nên Pete không dám thử."
+    },
+    {
+      "segment_id": "0036",
+      "source": "蕾娜那边，则是发现了一些稳定获取知识点数的方法。",
+      "target": "Bên phía Rena, lại phát hiện ra vài phương pháp ổn định để thu được điểm tri thức."
+    },
+    {
+      "segment_id": "0037",
+      "source": "通过每天认真的祈祷，能够拿到1点知识点数，这点是最早被发现的，毕竟她每天也要向辉光之神进行日常的祈祷，现在只不过是多了另一位神明。",
+      "target": "Thông qua việc nghiêm túc cầu nguyện mỗi ngày, có thể nhận được 1 điểm tri thức, điều này là được phát hiện sớm nhất, dù sao mỗi ngày cô cũng cần tiến hành cầu nguyện hàng ngày với Thần Quang Huy, hiện tại chẳng qua là có thêm một vị thần minh nữa mà thôi."
+    },
+    {
+      "segment_id": "0038",
+      "source": "普兰蒂斯大陆的智慧种族普遍都是多神信徒，拜完这个神再拜那个神是很常见的事情。",
+      "target": "Các chủng tộc trí tuệ trên đại lục Plantis phổ biến đều là tín đồ đa thần, bái vị thần này xong lại bái vị thần kia là chuyện rất đỗi bình thường."
+    },
+    {
+      "segment_id": "0039",
+      "source": "除此之外，蕾娜还发现了个特别的获取知识点数的方法：",
+      "target": "Ngoài ra, Rena còn phát hiện một phương pháp đặc biệt để lấy được điểm tri thức:"
+    },
+    {
+      "segment_id": "0040",
+      "source": "当她在自家的酒馆里如往常那样认真地打扫了遍卫生后，触发了一次提示：",
+      "target": "Khi cô dọn dẹp vệ sinh một cách nghiêm túc như mọi khi trong quán rượu của nhà mình, đã kích hoạt một thông báo:"
+    },
+    {
+      "segment_id": "0041",
+      "source": "【完成任务：劳动（日常）（可重复）】",
+      "target": "[Hoàn thành nhiệm vụ: Lao động (Hàng ngày) (Có thể lặp lại)]"
+    },
+    {
+      "segment_id": "0042",
+      "source": "【你获得了1知识点数】",
+      "target": "[Bạn nhận được 1 điểm tri thức]"
+    },
+    {
+      "segment_id": "0043",
+      "source": "蕾娜把这件事情告诉了培特，培特经过尝试，进一步确认了这个方法。",
+      "target": "Rena kể chuyện này cho Pete, Pete sau khi thử nghiệm, đã tiếp tục xác nhận phương pháp này."
+    },
+    {
+      "segment_id": "0044",
+      "source": "当培特进行了一次认真的冥想，向魔法女神祈祷，增强自己与魔网的联系后，他也触发了类似的提示：",
+      "target": "Khi Pete tiến hành một lần thiền định nghiêm túc, cầu nguyện với Nữ thần Ma pháp, tăng cường mối liên hệ của bản thân với ma võng, hắn cũng kích hoạt thông báo tương tự:"
+    },
+    {
+      "segment_id": "0045",
+      "source": "【完成任务：冥想（日常）（可重复）】",
+      "target": "[Hoàn thành nhiệm vụ: Thiền định (Hàng ngày) (Có thể lặp lại)]"
+    },
+    {
+      "segment_id": "0046",
+      "source": "【你获得了1知识点数】",
+      "target": "[Bạn nhận được 1 điểm tri thức]"
+    },
+    {
+      "segment_id": "0047",
+      "source": "不过，当培特像蕾娜那样打扫了一遍卫生，他却没有触发相应的提示。",
+      "target": "Tuy nhiên, khi Pete cũng dọn dẹp vệ sinh một phen giống như Rena, hắn lại không kích hoạt được thông báo tương ứng."
+    },
+    {
+      "segment_id": "0048",
+      "source": "培特初步猜测，这可能跟他们两个的身份不同有关系。",
+      "target": "Pete bước đầu suy đoán, chuyện này có thể liên quan đến việc thân phận của hai bọn họ không giống nhau."
+    },
+    {
+      "segment_id": "0049",
+      "source": "蕾娜还只是个普通人，而培特已经是法师职业者。",
+      "target": "Rena vẫn chỉ là một người bình thường, còn Pete đã là chức nghiệp giả pháp sư."
+    },
+    {
+      "segment_id": "0050",
+      "source": "他们要完成符合自己身份的事情，才能获得知识点数。",
+      "target": "Họ phải hoàn thành những việc phù hợp với thân phận của mình, thì mới có thể nhận được điểm tri thức."
+    },
+    {
+      "segment_id": "0051",
+      "source": "……",
+      "target": "……"
+    },
+    {
+      "segment_id": "0052",
+      "source": "这些被两位信徒摸索出来的规律，神国里的诺文同样相当感兴趣。",
+      "target": "Noven trong thần quốc cũng khá hứng thú với những quy luật được hai tín đồ này mày mò ra."
+    },
+    {
+      "segment_id": "0053",
+      "source": "他在穿越过来的时候，除了意识到自己的神明身份之外，就跟失忆了似的，无论是自己的职能权柄，还是获取信仰的方法，这些都一概不知，全靠摸着信徒过河，需要自己一点点地观察分析和总结。",
+      "target": "Khi hắn xuyên không đến đây, ngoại trừ việc ý thức được thân phận thần minh của mình ra, thì giống như bị mất trí nhớ vậy, bất kể là quyền bính chức năng của bản thân, hay là phương pháp để thu thập tín ngưỡng, tất cả những cái này hắn đều không hề hay biết, hoàn toàn dựa vào việc bám theo tín đồ để dò dẫm qua sông, cần tự mình từng chút một quan sát, phân tích và tổng kết."
+    },
+    {
+      "segment_id": "0054",
+      "source": "比如当蕾娜打扫卫生时，诺文感觉到正有信仰之力从蕾娜身上产生，一点点转化为他的神力。",
+      "target": "Ví dụ như khi Rena dọn dẹp vệ sinh, Noven cảm nhận được đang có sức mạnh tín ngưỡng sinh ra từ trên người Rena, từng chút từng chút chuyển hóa thành thần lực của hắn."
+    },
+    {
+      "segment_id": "0055",
+      "source": "虽然还没弄明白两者间的因果关系是什么，但既然信徒这样做能够给诺文带来更多的神力，诺文便不吝于给出回馈。",
+      "target": "Mặc dù vẫn chưa làm rõ được mối quan hệ nhân quả giữa hai chuyện này là gì, nhưng nếu như tín đồ làm vậy có thể đem tới nhiều thần lực hơn cho Noven, Noven liền không ngần ngại đưa ra sự hồi đáp."
+    },
+    {
+      "segment_id": "0056",
+      "source": "给予知识点数，这样能鼓励信徒更多地去做能让诺文获得更多神力的事情。",
+      "target": "Việc ban cho điểm tri thức, như vậy có thể khích lệ tín đồ đi làm nhiều việc có khả năng khiến Noven thu được nhiều thần lực hơn nữa."
+    },
+    {
+      "segment_id": "0057",
+      "source": "另外，诺文本来还有点担心，他将法术的施法知识直接传授，可能存在被信徒卡BUG的可能性。",
+      "target": "Ngoài ra, vốn dĩ Noven vẫn còn chút lo lắng, việc hắn trực tiếp truyền thụ tri thức thi triển pháp thuật, có khả năng tồn tại việc bị tín đồ lợi dụng bug."
+    },
+    {
+      "segment_id": "0058",
+      "source": "只要有1名信徒通过向他祈祷获得了知识，理论上便可以将其分享给其他人，毕竟，这些法术相关的知识在整个施法过程中并没有他的神力参与，诺文似乎不是必要选项。",
+      "target": "Chỉ cần có 1 tín đồ thông qua việc cầu nguyện với hắn để lấy được tri thức, về mặt lý thuyết thì có thể chia sẻ nó cho người khác, suy cho cùng, những tri thức liên quan tới pháp thuật này trong toàn bộ quá trình thi pháp hoàn toàn không có sự tham gia từ thần lực của hắn, Noven dường như không phải là một sự lựa chọn cần thiết."
+    },
+    {
+      "segment_id": "0059",
+      "source": "结果从信徒培特遇到的情况来看，诺文发现事情似乎没那么简单。",
+      "target": "Kết quả nhìn từ tình hình mà tín đồ Pete gặp phải, Noven phát hiện chuyện này có vẻ không đơn giản như thế."
+    },
+    {
+      "segment_id": "0060",
+      "source": "虽然没有神力参与帮助信徒完成施法，但诺文通过神职权柄获得的知识，在传授给凡人时，似乎会有一种更深层次的绑定关系随之产生。",
+      "target": "Tuy không có thần lực tham gia vào hỗ trợ tín đồ hoàn thành việc thi pháp, nhưng khi tri thức mà Noven thu được thông qua quyền bính thần chức truyền thụ cho người phàm, dường như sẽ có một kiểu quan hệ ràng buộc sâu xa hơn cũng theo đó mà sinh ra."
+    },
+    {
+      "segment_id": "0061",
+      "source": "就仿佛……存在一种识别码，能够随时随地检索到信徒的情况，只有诺文给出许可的信徒，才能拥有并记忆理解这些知识！",
+      "target": "Cứ như thể... tồn tại một loại mã số nhận diện, có thể tùy thời tùy lúc rà soát tình hình của tín đồ, chỉ những tín đồ được Noven cấp phép, thì mới có thể sở hữu cùng với ghi nhớ và thấu hiểu được những tri thức này!"
+    },
+    {
+      "segment_id": "0062",
+      "source": "……",
+      "target": "……"
+    }
+  ]
+}

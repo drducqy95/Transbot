@@ -1,0 +1,283 @@
+```json
+{
+  "chapter_number": 5,
+  "chapter_title_vi": "Chương 5: Trao người cần câu",
+  "segments": [
+    {
+      "segment_id": "0001",
+      "source": "# 第5章 授人以渔",
+      "target": "# Chương 5: Trao người cần câu"
+    },
+    {
+      "segment_id": "0002",
+      "source": "与此同时，远在神国的诺文也长长的舒了一口气。",
+      "target": "Cùng lúc đó, Norven ở tít trong Thần Quốc cũng thở phào một hơi dài."
+    },
+    {
+      "segment_id": "0003",
+      "source": "“果然，我的判断是正确的。”",
+      "target": "\"Quả nhiên, phán đoán của ta là chính xác.\""
+    },
+    {
+      "segment_id": "0004",
+      "source": "培特·奇纳尔脑海凭空中出现的信息自然是由诺文亲手编写提供，目的则是为了验证诺文的一个推测。",
+      "target": "Thông tin đột nhiên xuất hiện trong đầu Pete Chinar đương nhiên là do chính tay Norven biên soạn cung cấp, mục đích là để kiểm chứng một suy đoán của hắn."
+    },
+    {
+      "segment_id": "0005",
+      "source": "至于为什么要弄成一条条任务指引的样子，甚至还像模像样了搞了一声“叮”，则是诺文临时想到的预防手段。",
+      "target": "Còn về lý do tại sao lại làm thành dạng từng dòng hướng dẫn nhiệm vụ, thậm chí còn ra vẻ kêu \"ting\" một tiếng, thì là biện pháp phòng ngừa mà Norven tạm thời nghĩ ra."
+    },
+    {
+      "segment_id": "0006",
+      "source": "毕竟他这明显邪神的神力画风，如果打算正经传教收集信徒的话，最好还是在外面包装一层看起来比较正常的皮肤，让自己在凡人眼里看起来像是个正经的神明。",
+      "target": "Dù sao thì phong cách thần lực sặc mùi tà thần này của hắn, nếu định đàng hoàng truyền giáo thu thập tín đồ, tốt nhất vẫn là bọc một lớp vỏ ngoài trông có vẻ bình thường, để bản thân trong mắt phàm nhân trông giống một vị thần minh đứng đắn."
+    },
+    {
+      "segment_id": "0007",
+      "source": "不然人家还以为自己是被某个邪神盯上了，万一搞个宁死不屈之类的操作，那诺文哭都没地方哭去。",
+      "target": "Nếu không người ta lại tưởng mình bị tà thần nào đó nhắm tới, ngộ nhỡ chơi trò thà chết không khuất phục hay đại loại vậy, thì Norven có muốn khóc cũng chẳng biết khóc ở đâu."
+    },
+    {
+      "segment_id": "0008",
+      "source": "好吧，虽然从某种意义上来说，被诺文选中的凡人确实是被邪神盯上没错；",
+      "target": "Được rồi, mặc dù xét theo một ý nghĩa nào đó, phàm nhân được Norven chọn đúng thật là bị tà thần nhắm tới không sai;"
+    },
+    {
+      "segment_id": "0009",
+      "source": "但诺文觉得他自己应该不算邪神，至少他在尽可能地让自己不那么像个邪神。",
+      "target": "Nhưng Norven cảm thấy bản thân mình hẳn không tính là tà thần, ít nhất hắn đang cố gắng hết sức để khiến bản thân trông bớt giống tà thần đi một chút."
+    },
+    {
+      "segment_id": "0010",
+      "source": "在培特身上进行的测试，最终也取得了让诺文相当满意的成果。",
+      "target": "Thử nghiệm tiến hành trên người Pete rốt cuộc cũng thu được thành quả khiến Norven vô cùng hài lòng."
+    },
+    {
+      "segment_id": "0011",
+      "source": "“确认了！即便是所谓的神明伟力，在这个世界也要遵循某些规律，或者说，规则！”",
+      "target": "\"Xác nhận rồi! Ngay cả thứ gọi là vĩ lực của thần minh, ở thế giới này cũng phải tuân theo một số quy luật, hay nói cách khác, là quy tắc!\""
+    },
+    {
+      "segment_id": "0012",
+      "source": "“一开始我以为所谓的神力会直接将施放法术的能力给予信徒，他们不需要明白这个法术究竟是如何构筑、如何生效，只要消耗加持的神力就能成功释放出来，相当于因果律概念级的力量。”",
+      "target": "\"Lúc đầu ta cứ tưởng thứ gọi là thần lực sẽ trực tiếp ban cho tín đồ khả năng thi triển pháp thuật. Bọn họ không cần hiểu pháp thuật này rốt cuộc được cấu trúc ra sao, phát huy tác dụng thế nào, chỉ cần tiêu hao thần lực gia trì là có thể phóng ra thành công, tương đương với sức mạnh ở cấp độ khái niệm luật nhân quả.\""
+    },
+    {
+      "segment_id": "0013",
+      "source": "“但从测试来看，情况恰恰相反，这个世界其实相当严谨。”",
+      "target": "\"Nhưng nhìn từ thử nghiệm, tình huống lại hoàn toàn ngược lại, thế giới này thực chất vô cùng chặt chẽ.\""
+    },
+    {
+      "segment_id": "0014",
+      "source": "“施法的过程并没有消失，而是在神明响应信徒的请求后，以消耗自身的神力为代价，替代信徒完成了法术。”",
+      "target": "\"Quá trình thi pháp không hề biến mất, mà là sau khi thần minh đáp lại thỉnh cầu của tín đồ, sẽ lấy việc tiêu hao thần lực của bản thân làm cái giá, thay thế tín đồ hoàn thành pháp thuật.\""
+    },
+    {
+      "segment_id": "0015",
+      "source": "“在我的视角里，施法的过程其实是完全透明的，每个步骤需要进行的特定动作、咒语，乃至法术模型的形状细节，如何将魔法能量按照对应的规则进行排布，甚至还有各种各样的进阶性知识。”",
+      "target": "\"Trong góc nhìn của ta, quá trình thi pháp thực ra hoàn toàn minh bạch. Từng động tác đặc thù, câu chú cần tiến hành ở mỗi bước, thậm chí là chi tiết hình dạng của mô hình pháp thuật, cách sắp xếp năng lượng ma pháp theo quy tắc tương ứng ra sao, thậm chí còn có đủ loại kiến thức nâng cao.\""
+    },
+    {
+      "segment_id": "0016",
+      "source": "“这些东西完全与神力无关，它们是最基础的，整个世界都通用的知识！”",
+      "target": "\"Những thứ này hoàn toàn không liên quan gì đến thần lực, chúng là nền tảng cơ bản nhất, là kiến thức thông dụng trên toàn thế giới!\""
+    },
+    {
+      "segment_id": "0017",
+      "source": "“如果一个凡人能够学会这些知识，那么他完全可以绕过向神明献上信仰，接收神力的步骤，凭借自己的努力来施法。”",
+      "target": "\"Nếu một phàm nhân có thể học được những kiến thức này, vậy hắn hoàn toàn có thể bỏ qua các bước dâng hiến tín ngưỡng cho thần minh, tiếp nhận thần lực, mà dựa vào sự nỗ lực của chính mình để thi pháp.\""
+    },
+    {
+      "segment_id": "0018",
+      "source": "“培特成功释放出了【哈达之饥渴】就能证明这一点！”",
+      "target": "\"Việc Pete thành công phóng ra [Cơn Đói Của Hadar] đã chứng minh được điều này!\""
+    },
+    {
+      "segment_id": "0019",
+      "source": "“但——正是因为有了向神明祈祷这种简单便捷的办法，导致凡人根本不需要付出多少努力！”",
+      "target": "\"Nhưng... chính vì có cái cách đơn giản tiện lợi như cầu nguyện thần minh này, dẫn đến việc phàm nhân căn bản không cần phải bỏ ra bao nhiêu nỗ lực!\""
+    },
+    {
+      "segment_id": "0020",
+      "source": "“毕竟他们遇到困难的时候，只要呼唤自己所信仰的神明，然后就能等待神明显灵，去帮他们解决掉困难。”",
+      "target": "\"Dù sao thì khi họ gặp khó khăn, chỉ cần kêu gọi vị thần mà mình tín ngưỡng, sau đó có thể chờ thần minh hiển linh, đi giúp họ giải quyết khó khăn đó.\""
+    },
+    {
+      "segment_id": "0021",
+      "source": "诺文意识到了这个世界在发展上和他前世出现巨大差别的关键。",
+      "target": "Norven nhận ra mấu chốt dẫn đến sự khác biệt to lớn trong sự phát triển của thế giới này so với kiếp trước của mình."
+    },
+    {
+      "segment_id": "0022",
+      "source": "凡人文明的发展本来会遇到许多困难，最早期的部落时代面临的各种自然灾害、凶猛野兽、病毒瘟疫，乃至缺衣少食，这些都是可能给弱小的凡人招致灭顶之灾的严重问题，一个不慎可能就会导致整个部落的灭亡。",
+      "target": "Sự phát triển của nền văn minh phàm nhân vốn dĩ sẽ gặp phải rất nhiều khó khăn, từ thời đại bộ lạc sơ khai nhất phải đối mặt với đủ loại thiên tai, dã thú hung dữ, dịch bệnh lây lan, cho đến cả thiếu ăn thiếu mặc. Những thứ này đều là những vấn đề nghiêm trọng có thể mang đến tai họa ngập đầu cho phàm nhân yếu ớt, chỉ một sơ sẩy là có thể dẫn đến sự diệt vong của cả một bộ lạc."
+    },
+    {
+      "segment_id": "0023",
+      "source": "在诺文原本的世界中，无数前人付出巨大的代价，努力发挥出属于凡人的聪明才智，一点点地总结规律、制造工具，最终才点出了繁茂的科技树，文明得以存续和发展。",
+      "target": "Ở thế giới trước kia của Norven, vô số tiền nhân đã phải trả những cái giá khổng lồ, nỗ lực phát huy trí thông minh tài trí thuộc về phàm nhân, từng chút từng chút đúc kết quy luật, chế tạo công cụ, cuối cùng mới thắp sáng được nhánh cây công nghệ phồn vinh, nền văn minh mới có thể tồn tại và phát triển."
+    },
+    {
+      "segment_id": "0024",
+      "source": "可是在诺文穿越到这个世界里，凡人的发展路线一开始就跑偏了！",
+      "target": "Thế nhưng ở thế giới mà Norven xuyên không đến này, lộ tuyến phát triển của phàm nhân ngay từ đầu đã đi chệch hướng!"
+    },
+    {
+      "segment_id": "0025",
+      "source": "因为遇到任何困难都可以直接求助神明。",
+      "target": "Bởi vì gặp phải bất cứ khó khăn nào cũng có thể trực tiếp cầu cứu thần minh."
+    },
+    {
+      "segment_id": "0026",
+      "source": "而且神明有事是真上！",
+      "target": "Hơn nữa khi có chuyện thần minh ra tay giúp thật!"
+    },
+    {
+      "segment_id": "0027",
+      "source": "那么凡人文明想要发展壮大，最值得研究的，无疑就是如何去更高效、更稳定地获得神明的回应了。",
+      "target": "Vậy thì nền văn minh phàm nhân muốn phát triển lớn mạnh, thứ đáng để nghiên cứu nhất, không nghi ngờ gì chính là làm cách nào để nhận được sự hồi đáp của thần minh một cách hiệu quả hơn, ổn định hơn."
+    },
+    {
+      "segment_id": "0028",
+      "source": "至于研究知识，认识世界？",
+      "target": "Còn về việc nghiên cứu kiến thức, nhận thức thế giới ư?"
+    },
+    {
+      "segment_id": "0029",
+      "source": "明明有捷径可以走，为什么还要费时费力地去做“吃力不讨好”的事情呢？",
+      "target": "Rõ ràng có đường tắt để đi, tại sao lại phải tốn thời gian tốn sức lực đi làm mấy cái việc \"tốn công vô ích\" đó cơ chứ?"
+    },
+    {
+      "segment_id": "0030",
+      "source": "“啧……很难评价两种文明的发展模式究竟谁更优越，不过既然来到了这个世界，而且我的神力有这么大的问题，凡人向我祈祷获得的力量只会让他们被污染成畸变怪，那么留给我的选项也就只有一个了。”",
+      "target": "\"Chậc... Thật khó để đánh giá xem mô hình phát triển của hai nền văn minh này rốt cuộc cái nào ưu việt hơn, nhưng nếu đã tới thế giới này, mà thần lực của ta lại có vấn đề lớn như vậy, phàm nhân cầu nguyện ta để đổi lấy sức mạnh sẽ chỉ khiến họ bị ô nhiễm biến thành quái vật dị biến, vậy thì lựa chọn còn lại cho ta cũng chỉ có một.\""
+    },
+    {
+      "segment_id": "0031",
+      "source": "诺文确定了他的思路。",
+      "target": "Norven xác định được lối suy nghĩ của mình."
+    },
+    {
+      "segment_id": "0032",
+      "source": "“没法授人以鱼，但我可以授人以渔！”",
+      "target": "\"Không có cách nào trao người con cá, nhưng ta có thể trao người cần câu!\""
+    },
+    {
+      "segment_id": "0033",
+      "source": "“只要有信徒向我祈祷，我能获得他们需要的事物的相关知识和信息，然后我可以通过神谕之类的形式，指引凡人，让他们一步步地凭借着自己的努力来亲手完成。”      “而且，我还有一个独特的优势。”",
+      "target": "\"Chỉ cần có tín đồ cầu nguyện ta, ta có thể thu được những kiến thức và thông tin liên quan tới thứ họ cần. Sau đó, ta có thể thông qua hình thức kiểu như thần dụ để chỉ dẫn phàm nhân, để họ từng bước từng bước tự tay hoàn thành bằng nỗ lực của chính mình.\" \n\n\"Hơn nữa, ta còn có một ưu thế độc đáo.\""
+    },
+    {
+      "segment_id": "0034",
+      "source": "“神力！”",
+      "target": "\"Thần lực!\""
+    },
+    {
+      "segment_id": "0035",
+      "source": "“即使是神明也不能无代价无条件地回应每一位祂的信徒的诉求，毕竟神迹需要支付神力才能展现，而神力是凡人的信仰转化而成。”",
+      "target": "\"Ngay cả thần minh cũng không thể đáp lại thỉnh cầu của từng vị tín đồ của Ngài một cách vô điều kiện và không cần trả giá. Dù sao thì thần tích cũng cần phải trả giá bằng thần lực mới có thể hiển hiện, mà thần lực lại là do tín ngưỡng của phàm nhân chuyển hóa mà thành.\""
+    },
+    {
+      "segment_id": "0036",
+      "source": "“凡人在祈祷时能提供的信仰，往往又比神赐时消耗的要少得多。”",
+      "target": "\"Tín ngưỡng mà phàm nhân có thể cung cấp khi cầu nguyện, thường lại ít hơn rất nhiều so với mức độ tiêu hao khi thần minh ban ân.\""
+    },
+    {
+      "segment_id": "0037",
+      "source": "“所以其他神明为了保持一定的‘收支平衡’，祂们没法有求必应，必然要在信徒中划分出三六九等，这才能维持神力和信仰转化的稳定。”",
+      "target": "\"Cho nên những thần minh khác để duy trì sự 'cân bằng thu chi' nhất định, các Ngài không thể cầu gì được nấy, tất nhiên phải chia tín đồ thành dăm bảy loại, như vậy mới có thể duy trì sự ổn định của việc chuyển hóa thần lực và tín ngưỡng.\""
+    },
+    {
+      "segment_id": "0038",
+      "source": "“而我不一样！”",
+      "target": "\"Nhưng ta thì khác!\""
+    },
+    {
+      "segment_id": "0039",
+      "source": "“我所要做的仅仅只是将相关的知识以神谕的形式包装好传达下去，再关注着信徒的状态，根据他们的进展，随时更新神谕的信息。”",
+      "target": "\"Những gì ta phải làm chỉ đơn giản là đóng gói các kiến thức liên quan lại dưới hình thức thần dụ rồi truyền đạt xuống, sau đó theo dõi trạng thái của tín đồ, căn cứ theo tiến trình của họ để cập nhật thông tin thần dụ bất cứ lúc nào.\""
+    },
+    {
+      "segment_id": "0040",
+      "source": "“这个过程需要消耗的神力比起神赐来说要少的多！”",
+      "target": "\"Thần lực cần tiêu hao cho quá trình này so với việc ban ân mà nói là ít hơn rất nhiều!\""
+    },
+    {
+      "segment_id": "0041",
+      "source": "诺文能明确地感知到两者的区别。",
+      "target": "Norven có thể cảm nhận rõ ràng sự khác biệt giữa cả hai."
+    },
+    {
+      "segment_id": "0042",
+      "source": "如果把洞窟里那些黑袍人们一开始集体向他祈祷时提供的信仰之力传化出的神力算作10个单位。",
+      "target": "Nếu coi thần lực được chuyển hóa từ sức mạnh tín ngưỡng do đám người áo đen trong hang động tập thể cầu nguyện hắn lúc ban đầu là 10 đơn vị."
+    },
+    {
+      "segment_id": "0043",
+      "source": "那么第一次降下赐福导致黑袍人畸变的时候就消耗掉了最少30个单位的神力！",
+      "target": "Thì cái lúc hạ xuống thần ân lần đầu tiên dẫn đến việc người áo đen biến dị đó đã tiêu hao mất ít nhất 30 đơn vị thần lực!"
+    },
+    {
+      "segment_id": "0044",
+      "source": "换言之，这次赐予对诺文来说就是纯纯的负收益，信徒祈祷赚来的神力不够，他还得自己往里搭上不少，而且仅仅只让一名凡人获得了“力量”。",
+      "target": "Nói cách khác, lần ban ân này đối với Norven mà nói hoàn toàn là lỗ vốn. Thần lực kiếm được từ việc cầu nguyện của tín đồ không đủ, hắn còn phải tự bù lỗ vào không ít, mà mới chỉ giúp cho một phàm nhân có được \"sức mạnh\"."
+    },
+    {
+      "segment_id": "0045",
+      "source": "可后来给培特·奇纳尔提供有关【哈达之饥渴】法术知识的神谕时，整个过程则仅仅只消耗了大概1点神力，理论上来讲，诺文甚至还有净赚！",
+      "target": "Nhưng sau đó, khi cung cấp thần dụ về kiến thức pháp thuật [Cơn Đói Của Hadar] cho Pete Chinar, toàn bộ quá trình lại chỉ tiêu hao mất vỏn vẹn khoảng 1 điểm thần lực. Xét theo lý thuyết mà nói, Norven thậm chí còn đang lời to!"
+    },
+    {
+      "segment_id": "0046",
+      "source": "“虽然我的信徒没法像其他神明的信徒那样快速获得力量，但我也有自己的独特优点嘛，”诺文满意地点了点头，“我跟其他那些画饼神明不一样，只要信徒们愿意按照我提供的方法去努力，那么他们最终一定会有所回报！”",
+      "target": "\"Mặc dù tín đồ của ta không có cách nào có được sức mạnh nhanh chóng như tín đồ của các vị thần minh khác, nhưng ta cũng có ưu điểm độc đáo của riêng mình mà,\" Norven hài lòng gật gật đầu, \"Ta không giống đám thần minh chỉ biết vẽ bánh vẽ cho người ta ăn kia. Chỉ cần tín đồ bằng lòng nỗ lực theo phương pháp mà ta cung cấp, vậy bọn họ cuối cùng nhất định sẽ nhận được hồi báo xứng đáng!\""
+    },
+    {
+      "segment_id": "0047",
+      "source": "“其他神明是靠着大量祈祷获取信仰，但最终肯定只能从中培养出几个高质量的信徒，因为祂们的神力有限，支撑不起培养更多信徒的消耗，大部分信徒都只能捡点边角料，没法享受到神明的特别关爱。”",
+      "target": "\"Thần minh khác dựa vào lượng lớn lời cầu nguyện để thu thập tín ngưỡng, nhưng cuối cùng chắc chắn chỉ có thể bồi dưỡng ra vài tín đồ chất lượng cao từ đó, bởi vì thần lực của các Ngài có hạn, không gánh nổi mức tiêu hao để bồi dưỡng thêm tín đồ. Đa phần các tín đồ đều chỉ có thể nhặt mót chút đồ thừa, không có cách nào tận hưởng được sự quan tâm đặc biệt của thần minh.\""
+    },
+    {
+      "segment_id": "0048",
+      "source": "“我完全可以开辟一条不同的新赛道！”",
+      "target": "\"Ta hoàn toàn có thể mở ra một con đường hoàn toàn mới!\""
+    },
+    {
+      "segment_id": "0049",
+      "source": "“主打以量取胜！”",
+      "target": "\"Chủ yếu lấy số lượng để chiến thắng!\""
+    },
+    {
+      "segment_id": "0050",
+      "source": "“只要愿意为我提供信仰的，都能从我这里得到他们应得的奖励！”",
+      "target": "\"Chỉ cần bằng lòng dâng lên tín ngưỡng cho ta, thì đều có thể nhận được phần thưởng mà họ xứng đáng có từ chỗ ta!\""
+    },
+    {
+      "segment_id": "0051",
+      "source": "“虽然一开始的效果不像其他神明那么立竿见影，但胜在量大管饱，还足够持久！”",
+      "target": "\"Tuy rằng hiệu quả ban đầu không thể thấy ngay lập tức như thần minh khác, nhưng thắng ở chỗ số lượng nhiều bao no bụng, lại còn đủ bền bỉ!\""
+    },
+    {
+      "segment_id": "0052",
+      "source": "“至于该如何找到更多的信徒嘛……”",
+      "target": "\"Còn về việc làm sao để tìm được nhiều tín đồ hơn ư...\""
+    },
+    {
+      "segment_id": "0053",
+      "source": "诺文缓缓将目光投向了他目前唯一的浅信徒——培特·奇纳尔。",
+      "target": "Norven chậm rãi phóng ánh mắt về phía vị thiển tín đồ duy nhất của mình hiện tại —— Pete Chinar."
+    },
+    {
+      "segment_id": "0054",
+      "source": "……",
+      "target": "..."
+    },
+    {
+      "segment_id": "0055",
+      "source": "推荐票对我真的很重要，如果觉得不错请投个票吧，谢谢您~！",
+      "target": "Phiếu đề cử đối với tôi thực sự rất quan trọng, nếu thấy truyện hay xin hãy bỏ phiếu nhé, cảm ơn các bạn~!"
+    }
+  ]
+}
+```

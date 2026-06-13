@@ -196,11 +196,11 @@
           "title": "Đông phương"
         }
       ],
-      "completed_chapters": 54,
+      "completed_chapters": 56,
       "total_chapters": 968,
-      "latest_chapter": "0030 连环套",
+      "latest_chapter": "Chương 36: Cậu biết đấy, miệng tôi kín nhất rồi",
       "detail": "Tiến độ: 54/968 chương | Mới nhất: 0030 连环套",
-      "updated_at": "2026-06-13T20:00:02.881985+07:00",
+      "updated_at": "2026-06-13T20:53:32+07:00",
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Dung Goi Ta Ta Than/README.md",
       "toc_path": "Output/Dung Goi Ta Ta Than/toc.json"
@@ -971,7 +971,7 @@
     }
   ],
   "metadata": {
-    "generated_at": "2026-06-13T20:08:40+07:00",
+    "generated_at": "2026-06-13T20:53:32+07:00",
     "total_books": 17,
     "source": "Dichtrung/Output"
   },

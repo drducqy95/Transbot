@@ -1,0 +1,29 @@
+```json
+{
+  "approved": [
+    "奥术飞弹"
+  ],
+  "rejected": [
+    "任务",
+    "时候",
+    "任务：击败混",
+    "任务：学习法",
+    "只是个基础的",
+    "叮！",
+    "培特拍了下",
+    "收到信徒祈祷",
+    "法术模型的时",
+    "算是法师最基"
+  ],
+  "uncertain": []
+}
+```
+
+### Reasoning:
+*   **Approved:**
+    *   `奥术飞弹` (Arcane Missile / Bí Thuật Phi Đạn): A standard magical spell name that fits perfectly with the established terminology (like *Hí pháp*, *Tịnh Tức Thuật*).
+*   **Rejected:**
+    *   `任务` (Mission/Task) and `时候` (Time): These are common nouns, not proper names.
+    *   `任务：击败混`, `任务：学习法`: These are incomplete UI/Quest log strings (Task: Defeat [Chaos...], Task: Learn [Magic...]), not standalone glossary terms.
+    *   `只是个基础的`, `培特拍了下`, `收到信徒祈祷`, `法术模型的时`, `算是法师最基`: These are cut-off sentence fragments rather than proper vocabulary terms or names. (Note: *培特* (Pete) and *法术模型* (Spell model) are terms/names, but the provided strings are sentence fragments).
+    *   `叮！`: This is an onomatopoeia (sound effect "Ding!"), not a term.

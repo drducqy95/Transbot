@@ -1,0 +1,16 @@
+{
+  "issues": [
+    {
+      "segment_id": "004",
+      "type": "unatural_vietnamese",
+      "severity": "medium",
+      "fix": "Thấy vẻ mặt Brandon nghiêm túc hết sức, đồng nghiệp lại ngạc nhiên."
+    },
+    {
+      "segment_id": "037",
+      "type": "unatural_vietnamese",
+      "severity": "low",
+      "fix": "Tưởng rằng mọi người đang đùa, ai ngờ Brandon chơi thật!"
+    }
+  ]
+}

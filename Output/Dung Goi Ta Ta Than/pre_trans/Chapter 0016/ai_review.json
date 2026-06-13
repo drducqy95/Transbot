@@ -1,0 +1,100 @@
+```json
+{
+  "names": {
+    "approved": [],
+    "rejected": [
+      {
+        "item": "任务",
+        "reason": "Common word meaning 'task' or 'mission', not a proper name."
+      },
+      {
+        "item": "安全着",
+        "reason": "Phrase/Fragment meaning 'safely' or 'landing safely', not a proper name."
+      }
+    ],
+    "uncertain": []
+  },
+  "terms": {
+    "approved": [
+      {
+        "item": "哈达之饥渴",
+        "translation": "Cơn Đói Khát của Hada",
+        "reason": "Explicitly defined in the glossary as a magic skill."
+      }
+    ],
+    "rejected": [
+      {
+        "item": "他都会变得略",
+        "reason": "Incomplete sentence fragment."
+      },
+      {
+        "item": "任务已完成！",
+        "reason": "Full sentence (system text/dialogue), not a glossary term."
+      },
+      {
+        "item": "任务：击败混",
+        "reason": "Incomplete sentence fragment."
+      },
+      {
+        "item": "凝聚成型！",
+        "reason": "Descriptive phrase/fragment."
+      },
+      {
+        "item": "又是一名混",
+        "reason": "Incomplete sentence fragment."
+      },
+      {
+        "item": "只是个基础的",
+        "reason": "Incomplete sentence fragment."
+      },
+      {
+        "item": "四名手下整",
+        "reason": "Incomplete sentence fragment."
+      },
+      {
+        "item": "成型，他嘴巴",
+        "reason": "Incomplete sentence fragment."
+      },
+      {
+        "item": "的原因？\n答",
+        "reason": "Incomplete sentence fragment."
+      },
+      {
+        "item": "的施法时，他",
+        "reason": "Incomplete sentence fragment."
+      },
+      {
+        "item": "看着不知什",
+        "reason": "Incomplete sentence fragment."
+      },
+      {
+        "item": "还能维持神志",
+        "reason": "Descriptive phrase, not a terminology."
+      },
+      {
+        "item": "那样，一次抽",
+        "reason": "Incomplete sentence fragment."
+      },
+      {
+        "item": "，三枚紫色的",
+        "reason": "Incomplete sentence fragment."
+      },
+      {
+        "item": "，培特依然显",
+        "reason": "Incomplete sentence fragment (though it contains the valid name '培特' - Pete)."
+      },
+      {
+        "item": "，满打满算也",
+        "reason": "Incomplete sentence fragment / idiom."
+      }
+    ],
+    "uncertain": [
+      {
+        "item": "奥术飞弹",
+        "translation": "Áo thuật phi đạn",
+        "reason": "Standard magic skill name (Arcane Missiles). It is likely a valid term but it is not explicitly listed in the provided glossary."
+      }
+    ]
+  }
+}
+```

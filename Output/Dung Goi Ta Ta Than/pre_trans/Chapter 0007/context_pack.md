@@ -1,0 +1,460 @@
+# Translation Context Pack
+
+## Project
+- Branch: Dung Goi Ta Ta Than
+- Title: 
+- Author: 
+- Genre: /
+- Language: zh → vi
+
+## Translation Rules
+### Translation Goal
+Dịch truyện Trung sang tiếng Việt tự nhiên, dễ đọc, đúng nghĩa, đúng mạch truyện, đúng văn cảnh, đúng xưng hô, đúng tên riêng và thuật ngữ.
+Style: văn xuôi tiếng Việt mượt, rõ nghĩa, không máy móc
+Priorities:
+  • đúng nghĩa và đúng văn cảnh
+  • đúng tên riêng
+  • đúng thuật ngữ theo loại và bối cảnh
+  • đúng xưng hô và quan hệ nhân vật
+  • giữ ổn định thuật ngữ/tên riêng/xưng hô đã khóa
+  • tự nhiên trong tiếng Việt
+  • giữ nhịp văn, cảm xúc và giọng kể gốc
+Anti-goals:
+  • không dịch từng chữ máy móc
+  • không Hán Việt hóa tên Nhật, Hàn, phương Tây, fandom, thương hiệu, kỹ thuật
+  • không áp VietPhrase/LuatNhan lên tên riêng đã khóa
+  • không đổi thuật ngữ đã khóa nếu văn cảnh giống nhau
+  • không dùng một bản dịch cứng cho từ đa nghĩa khi văn cảnh khác nhau
+  • không làm lộ thông tin ngoài POV nếu bản gốc chưa tiết lộ
+
+### Output Rules
+  • keep paragraph structure
+  • keep dialogue structure
+  • do not merge paragraphs
+  • do not split paragraphs unnecessarily
+  • preserve punctuation when reasonable
+  • convert chinese quotes to vietnamese
+  • remove unnecessary explanation
+  • output only translation
+  • do not add notes inside translation
+  • mark uncertain items for audit only
+
+### Tone Guidelines
+  • narration: tự nhiên, rõ ràng, có chất truyện
+  • dialogue: phù hợp thân phận, quan hệ, tuổi tác, quyền lực và bối cảnh
+  • ancient_setting: cổ phong vừa phải, không lạm dụng Hán Việt khó hiểu
+  • modern_setting: hiện đại, đời thường, không cổ hóa lời thoại
+  • game_system: rõ ràng, gọn, quen thuộc với văn phong game/system
+  • comedy: giữ nhịp hài nếu có
+  • serious: giữ sắc thái căng thẳng, trang trọng nếu có
+
+### Term Normalization
+Purpose: Chuẩn hóa thuật ngữ theo văn cảnh truyện, bao gồm chiêu thức, nghề nghiệp, chức vị, cảnh giới, kỹ năng, vật phẩm, danh hiệu, tổ chức, hệ thống, khái niệm thế giới quan và cụm cố định lặp lại.
+Core principles:
+  • context first
+  • not word by word
+  • same source can have different translation if context differs
+  • same source same context must be consistent
+  • same term type should keep style consistent
+  • locked translation only applies to matching context
+  • source plus type plus context equals translation
+Decision rules:
+  • Không dịch thuật ngữ chỉ theo mặt chữ.
+  • Một source có thể có nhiều bản dịch nếu văn cảnh khác nhau.
+  • Một bản dịch đã khóa chỉ áp dụng cho đúng loại văn cảnh đã khóa.
+  • Tên chiêu thức, cảnh giới, pháp bảo quan trọng nên dùng dạng Hán Việt chuẩn, viết hoa nếu là danh từ riêng.
+  • Vật phẩm phổ thông không cần Hán Việt hóa quá mức.
+  • Nghề nghiệp phải xét bối cảnh.
+  • Chức vị phải xét hệ thống xã hội.
+  • Nếu cùng source và cùng văn cảnh, phải giữ nhất quán.
+  • Nếu không chắc văn cảnh, đánh dấu audit.
+
+### Engine Rules
+  • use context pack
+  • use previous chapter summary
+  • use character profile
+  • use story timeline
+  • use glossary
+  • use name scan
+  • use segment context
+  • avoid over literal translation
+  • avoid over smoothing that changes meaning
+
+## Characters
+N/A
+
+## Glossary
+N/A
+
+## Story Timeline (latest)
+ tà thần
+
+### Summary
+Chapter 38 completed via pipeline.
+
+## Chapter 0039 - Chương 39: Desley
+
+### Summary
+Chapter 39 completed via pipeline.
+
+## Chapter 0040 - Chương 40: Thông báo giáo phái
+
+### Summary
+Chapter 40 completed via pipeline.
+
+## Chapter 0041 - Chương 41: Bắt đầu sự kiện giới hạn
+
+### Summary
+Chapter 41 completed via pipeline.
+
+## Chapter 0042 - Chương 42: Đụng trúng họng súng rồi
+
+### Summary
+Chapter 42 completed via pipeline.
+
+## Chapter 0043 - Chương 43: Tình hình hoàn toàn khác so với dự đoán
+
+### Summary
+Chapter 43 completed via pipeline.
+
+## Chapter 0044 - Chương 44: Dụ địch vào sâu!
+
+### Summary
+Chapter 44 completed via pipeline.
+
+## Chapter 0045 - Chương 45: Ỷ đông hiếp yếu
+
+### Summary
+Chapter 45 completed via pipeline.
+
+## Chapter 0046 - Chương 46: Kỹ năng sự kiện
+
+### Summary
+Chapter 46 completed via pipeline.
+
+## Chapter 0047 - Chương 47: Giáo Hội Huy Quang không đáng tin cậy
+
+### Summary
+Chapter 47 completed via pipeline.
+
+## Chapter 0048 - Chương 48: Mạnh tay hơn nữa
+
+### Summary
+Chapter 48 completed via pipeline.
+
+## Chapter 0049 - Chương 49: Cơ hội tuyệt hảo
+
+### Summary
+Chapter 49 completed via pipeline.
+
+## Chapter 0050 - Chương 50: Chức nghiệp đắt khách nhất
+
+### Summary
+Chapter 50 completed via pipeline.
+
+## Chapter 0051 - Chương 51: Trổ hết thần thông
+
+### Summary
+Chapter 51 completed via pipeline.
+
+## Chapter 0052 - Chương 52: Evan: Tay sai của ta đâu?
+
+### Summary
+Chapter 52 completed via pipeline.
+
+## Chapter 0053 - Chương 53: Ý nghĩa đích thực trong giáo lý của Thần Cầu Tri
+
+### Summary
+Chapter 53 completed via pipeline.
+
+## Chapter 0054 - Chương 54: Cứ điểm tạm thời
+
+### Summary
+Chapter 54 completed via pipeline.
+
+## Chapter 0055 - Chương 55: Tế đàn tà thần? Có thể phá không?
+
+### Summary
+Chapter 55 completed via pipeline.
+
+## Chapter 0056 - Chương 56: Chuyên tinh và kiêm tu
+
+### Summary
+Chapter 56 completed via pipeline.
+
+## Chapter 0057 - Chương 57: Trình mô phỏng tu hành đã ra mắt!
+
+### Summary
+Chapter 57 completed via pipeline.
+
+## Chapter 0058 - Chương 58: Cấp độ huyền thoại
+
+### Summary
+Chapter 58 completed via pipeline.
+
+## Chapter 0059 - Chương 59: Nữ thần Ma pháp, chó cũng không thèm tin
+
+### Summary
+Chapter 59 completed via pipeline.
+
+## Chapter 0001 - Chương 1: Xuyên không thành tà thần thì phải làm sao
+
+### Summary
+Chapter 1 completed via pipeline.
+
+## Chapter 0002 - Chương 2: Khởi đầu nát bét
+
+### Summary
+Chapter 2 completed via pipeline.
+
+## Chapter 0003 - Chương 3: Pete Chinar
+
+### Summary
+Chapter 3 completed via pipeline.
+
+## Chapter 0003 - Chương 3: Pete Chinar
+
+### Summary
+Chapter 3 completed via pipeline.
+
+## Chapter 0004 - Chương 4: Cách làm hoàn toàn khác biệt
+
+### Summary
+Chapter 4 completed via pipeline.
+
+## Chapter 0005 - Chương 5: Trao người cần câu
+
+### Summary
+Chapter 5 completed via pipeline.
+
+## Chapter 0004 - Chương 4: Cách làm hoàn toàn khác biệt
+
+### Summary
+Chapter 4 completed via pipeline.
+
+## Chapter 0006 - Chương 6: Thẩm vấn
+
+### Summary
+Chapter 6 completed via pipeline.
+
+
+## Source Chapter 7 - 0007 求知之神
+```json
+[
+  {
+    "segment_id": "0001",
+    "text": "# 第7章 求知之神"
+  },
+  {
+    "segment_id": "0002",
+    "text": "三条特征全中。"
+  },
+  {
+    "segment_id": "0003",
+    "text": "培特简直有苦难言。"
+  },
+  {
+    "segment_id": "0004",
+    "text": "为什么所有种族一致同意将邪神的信徒视为文明叛徒，只要有发现就是死刑？近乎完全不考虑对方有改邪归正、弃暗投明的可能性？"
+  },
+  {
+    "segment_id": "0005",
+    "text": "因为邪神最麻烦的地方在于，一旦沾上关系，想摆脱都摆脱不掉！"
+  },
+  {
+    "segment_id": "0006",
+    "text": "正常的神明不会闲着没事去关注信徒的情况，只会在信徒祈祷的时候投下注视，所以如果一位凡人觉得他跟某位神明的亲和度不够高，完全可以改信其他神，弃信受到的最大影响也就是失去对应神明的赐福而已。"
+  },
+  {
+    "segment_id": "0007",
+    "text": "可是邪神不一样，哪怕只成为了浅信徒，只要有了第一次联系，邪神就能够完成锁定，凡人这时候再停止祈祷也来不及了，邪神随时可以主动再建立起联系。"
+  },
+  {
+    "segment_id": "0008",
+    "text": "因此，这个世界成为邪神信徒的凡人根本不存在弃信的选项！无论是有意还是无意，最终的下场几乎一定是被污染成失去理智的怪物，而且这种怪物往往还会具有邪神赐予的力量，很容易造成巨大的危害。"
+  },
+  {
+    "segment_id": "0009",
+    "text": "培特估计他要是现在敢跟这个姓氏很长的男人说实话，搞不好对方下一秒就要把他送去绞刑处死。"
+  },
+  {
+    "segment_id": "0010",
+    "text": "而且，如果他脑海中的信息是真实的话——17%的信任程度，意味着他大概率已经被对方怀疑了。"
+  },
+  {
+    "segment_id": "0011",
+    "text": "“呃……情况其实是这样的，”培特额头冒着虚汗，试图想个借口将真相掩盖过去，“先生您是知道的，我是魔法女神的信徒，嗯……当时那个情况，其实……特别危急，对，特别危险。”"
+  },
+  {
+    "segment_id": "0012",
+    "text": "“然后，因为我是魔法女神的信徒嘛，对吧呵呵呵……我不想死，所以那时候我就特别虔诚地向女神祈祷，希望她能帮我度过这次危机。”"
+  },
+  {
+    "segment_id": "0013",
+    "text": "“结果……结果可能是我的虔诚真的打动了魔法女神，我感觉有一瞬间，我突然特别清晰地感受到魔网在回应我，借着那种感觉，我才完成了那个法术，我自己也不知道我究竟是怎么才做到的！”"
+  },
+  {
+    "segment_id": "0014",
+    "text": "坐在培特对面的男人抬起头来，培特注意到他的瞳孔是金色的，在油灯光芒照射下略显明亮。"
+  },
+  {
+    "segment_id": "0015",
+    "text": "“你的意思是说，生死关头，你突然提高了自己跟魔法女神的亲和度？”男人意味不明地问道。"
+  },
+  {
+    "segment_id": "0016",
+    "text": "培特咬了咬牙，点头确定：“对！我想说的就是这个意思！”"
+  },
+  {
+    "segment_id": "0017",
+    "text": "为了给自己的说辞增加说服力，培特还特意举了个例子。"
+  },
+  {
+    "segment_id": "0018",
+    "text": "“我记得以前有类似的例子吧？曾经有位著名的大法师纲德就是在遇到生命危险的时候，突破了之前困扰他好久的进阶门槛，成功创造出【纲徳之手】这一魔法的吧！”"
+  },
+  {
+    "segment_id": "0019",
+    "text": "“呵呵……”男人轻笑了声，微微点头道，“没错，确实不能排除你跟纲徳大法师出现相同情况的可能性。”"
+  },
+  {
+    "segment_id": "0020",
+    "text": "培特还以为他的解释算是成功地糊弄了过去，可是还没来得及高兴，感知了下脑海中的信息，悬着的心顿时一沉。"
+  },
+  {
+    "segment_id": "0021",
+    "text": "【当前信任程度：13%】"
+  },
+  {
+    "segment_id": "0022",
+    "text": "不增反减！"
+  },
+  {
+    "segment_id": "0023",
+    "text": "很明显，这个叫巴哈姆特的男人的内心压根就没有相信培特给出的解释，信任程度更低了！"
+  },
+  {
+    "segment_id": "0024",
+    "text": "没等培特想出新的借口找补，巴哈姆特右手在空中一划，从不知何处取了个散发着点点星光的精致水晶球出来。"
+  },
+  {
+    "segment_id": "0025",
+    "text": "“如果情况真的跟你所说的那样，你是在关键时刻感觉自己的虔诚打动了魔法女神，那就来测试下你现在跟魔法女神的亲和度吧。”巴哈姆特的声音平静的仿佛没有任何感情色彩。"
+  },
+  {
+    "segment_id": "0026",
+    "text": "培特感觉一滴冷汗正从他的额头滑落。      他没搞错的话，这应该是5阶法术【秘法口袋】，可以将物品储藏到施法者专属的以太位面空间，可以随时取用。"
+  },
+  {
+    "segment_id": "0027",
+    "text": "这意味着巴哈姆特至少是名五阶的施法者。"
+  },
+  {
+    "segment_id": "0028",
+    "text": "“哈哈，哈哈，这房间有点闷呀，我都热出汗了，测试亲和度是吧，对，对，好办法……哈哈。”"
+  },
+  {
+    "segment_id": "0029",
+    "text": "打量着被巴哈姆特推到面前的水晶球，培特尬笑了几声，试图缓解愈发紧张的状态。"
+  },
+  {
+    "segment_id": "0030",
+    "text": "他临时编的那套借口，骗骗别人也就算了，肯定骗不了自己，培特很清楚，他跟魔法女神的亲和度压根没有变高，能成功完成【哈达之饥渴】法术靠的是那个不知名的神明的力量！"
+  },
+  {
+    "segment_id": "0031",
+    "text": "真要让他去测试跟魔法女神的亲和度，那不是妥妥的要露馅！"
+  },
+  {
+    "segment_id": "0032",
+    "text": "“神啊，现在情况就是这么个情况，凭我自己肯定糊弄不过去了，您要还有什么办法，至少让我度过眼前的难关吧！”"
+  },
+  {
+    "segment_id": "0033",
+    "text": "巴哈姆特的目光中怀疑的意味越来越浓，培特几乎被逼到了死路，说实话是死，不说实话也是死，没有办法，他只能将最后的希望寄托在那位不知名的神明——也就是诺文身上。"
+  },
+  {
+    "segment_id": "0034",
+    "text": "就算对方真的是邪神培特也不在乎了！"
+  },
+  {
+    "segment_id": "0035",
+    "text": "能取得巴哈姆特的信任把事情糊弄过去，他至少还能再多活一阵子，但要是撒的谎被当场戳穿的话，那他就死定了！"
+  },
+  {
+    "segment_id": "0036",
+    "text": "……"
+  },
+  {
+    "segment_id": "0037",
+    "text": "另一头，神国里的诺文也意识到了情况比他想象的要更棘手。"
+  },
+  {
+    "segment_id": "0038",
+    "text": "虽然诺文已经找到了避免他那危险的神力影响凡人的方法，但是他现在遇到了新的问题："
+  },
+  {
+    "segment_id": "0039",
+    "text": "他得想办法给自己安排个马甲！不能真的就这样拿他原本的形象去传教！"
+  },
+  {
+    "segment_id": "0040",
+    "text": "否则的话，别说其他凡人了，就像培特一样，连诺文自己的信徒可能都不敢主动向诺文祈祷！"
+  },
+  {
+    "segment_id": "0041",
+    "text": "诺文能通晓的知识或信息并非全知全能，反倒会被他的神力权柄所制约。"
+  },
+  {
+    "segment_id": "0042",
+    "text": "只有当诺文的信徒向他发出祈祷时，他才能获知到相关的各种信息。"
+  },
+  {
+    "segment_id": "0043",
+    "text": "比如先前黑袍人祈祷的是【哈达之饥渴】这一法术，诺文才完全掌握了这个魔法；"
+  },
+  {
+    "segment_id": "0044",
+    "text": "再比如，培特身陷险境的时候发出了祈祷，诺文得到的信息是：消灭那只黑袍人转化成的神孽畸变怪，培特就能脱离危险；"
+  },
+  {
+    "segment_id": "0045",
+    "text": "审讯室里，培特希望能离开的想法被诺文接收到，诺文的神力权柄给他的反馈是：取得巴哈姆特的信任即可。"
+  },
+  {
+    "segment_id": "0046",
+    "text": "反过来说就是，如果诺文被认为是危险的邪神，那时候肯定绝大部分凡人都根本不敢向他祈祷，更不用说提供信仰。"
+  },
+  {
+    "segment_id": "0047",
+    "text": "一旦失去信仰来源，诺文就会进入“睁眼瞎”的状态，可能会永远被困死在白雾弥漫的神国空间中。"
+  },
+  {
+    "segment_id": "0048",
+    "text": "思考着自己的神力特点，诺文开始给自己编造“马甲”身份："
+  },
+  {
+    "segment_id": "0049",
+    "text": "【吾并非邪恶之神，吾乃——求知之神诺文。】"
+  },
+  {
+    "segment_id": "0050",
+    "text": "……"
+  }
+]
+```
+
+## Output Format
+CRITICAL INSTRUCTION: You MUST translate the source text EXACTLY paragraph by paragraph, preserving the original order perfectly. DO NOT skip, drop, merge, or reorder any paragraphs. Each paragraph in the source MUST be translated.
+Return ONLY valid JSON matching this schema:
+{
+  "chapter_number": 7,
+  "chapter_title_vi": "Chương 7: <Vietnamese title>",
+  "segments": [
+    {
+      "segment_id": "XXXX",
+      "source": "...",
+      "target": "..."
+    }
+  ]
+}

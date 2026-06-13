@@ -1,0 +1,27 @@
+```json
+{
+  "approved": [],
+  "rejected": [
+    "后门",
+    "周围",
+    "应该没",
+    "方法",
+    "不过，当培",
+    "从调动魔网到",
+    "任务获得5个",
+    "你获得了1知",
+    "吾主的真理普",
+    "完成任务：冥",
+    "完成任务：劳",
+    "法术的相关施",
+    "蕾娜把这件"
+  ],
+  "uncertain": [
+    "奥术飞弹"
+  ]
+}
+```
+
+**Notes:**
+* **Rejected:** Almost all items provided are either common words (后门 - backdoor, 周围 - surroundings, 方法 - method) or incomplete phrase fragments caused by bad text extraction. They should not be added to the glossary as standalone terms or names. 
+* **Uncertain:** `奥术飞弹` (Arcane Missile) is a valid, complete term for a spell, but since it is not explicitly defined in your current glossary, I've placed it in `uncertain` for you to decide whether to add it.

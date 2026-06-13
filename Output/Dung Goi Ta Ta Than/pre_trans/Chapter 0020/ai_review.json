@@ -1,0 +1,37 @@
+```json
+{
+  "names": {
+    "approved": [],
+    "rejected": [
+      "时候"
+    ],
+    "uncertain": []
+  },
+  "terms": {
+    "approved": [
+      "知识点数"
+    ],
+    "rejected": [
+      "“是的，成",
+      "……\n推荐",
+      "。\n点数不够",
+      "任务：吾主的",
+      "你获得了10",
+      "你获得了5点",
+      "信徒身份已登",
+      "建议策略：进",
+      "新信徒福利已",
+      "检测到信徒诉",
+      "检测到新的信",
+      "的价值所在！",
+      "脑海里突然",
+      "需求：5知识"
+    ],
+    "uncertain": []
+  }
+}
+```
+
+**Reasoning:**
+- **Names**: `时候` translates to "time" or "moment" in English and is a common noun, not a proper name.
+- **Terms**: Most of the items in your list are incomplete sentence fragments or conversational dialogue (e.g., "你获得了10" meaning "You obtained 10...", or "检测到信徒诉" meaning "Detected believer plea..."). The only valid terminology here is `知识点数` ("Knowledge points" / "Điểm tri thức"), which fits as an in-universe or system term, particularly fitting the context of Norven whose domain relates to knowledge.

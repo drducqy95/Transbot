@@ -1,0 +1,500 @@
+# Translation Context Pack
+
+## Project
+- Branch: Dung Goi Ta Ta Than
+- Title: 
+- Author: 
+- Genre: /
+- Language: zh → vi
+
+## Translation Rules
+### Translation Goal
+Dịch truyện Trung sang tiếng Việt tự nhiên, dễ đọc, đúng nghĩa, đúng mạch truyện, đúng văn cảnh, đúng xưng hô, đúng tên riêng và thuật ngữ.
+Style: văn xuôi tiếng Việt mượt, rõ nghĩa, không máy móc
+Priorities:
+  • đúng nghĩa và đúng văn cảnh
+  • đúng tên riêng
+  • đúng thuật ngữ theo loại và bối cảnh
+  • đúng xưng hô và quan hệ nhân vật
+  • giữ ổn định thuật ngữ/tên riêng/xưng hô đã khóa
+  • tự nhiên trong tiếng Việt
+  • giữ nhịp văn, cảm xúc và giọng kể gốc
+Anti-goals:
+  • không dịch từng chữ máy móc
+  • không Hán Việt hóa tên Nhật, Hàn, phương Tây, fandom, thương hiệu, kỹ thuật
+  • không áp VietPhrase/LuatNhan lên tên riêng đã khóa
+  • không đổi thuật ngữ đã khóa nếu văn cảnh giống nhau
+  • không dùng một bản dịch cứng cho từ đa nghĩa khi văn cảnh khác nhau
+  • không làm lộ thông tin ngoài POV nếu bản gốc chưa tiết lộ
+
+### Output Rules
+  • keep paragraph structure
+  • keep dialogue structure
+  • do not merge paragraphs
+  • do not split paragraphs unnecessarily
+  • preserve punctuation when reasonable
+  • convert chinese quotes to vietnamese
+  • remove unnecessary explanation
+  • output only translation
+  • do not add notes inside translation
+  • mark uncertain items for audit only
+
+### Tone Guidelines
+  • narration: tự nhiên, rõ ràng, có chất truyện
+  • dialogue: phù hợp thân phận, quan hệ, tuổi tác, quyền lực và bối cảnh
+  • ancient_setting: cổ phong vừa phải, không lạm dụng Hán Việt khó hiểu
+  • modern_setting: hiện đại, đời thường, không cổ hóa lời thoại
+  • game_system: rõ ràng, gọn, quen thuộc với văn phong game/system
+  • comedy: giữ nhịp hài nếu có
+  • serious: giữ sắc thái căng thẳng, trang trọng nếu có
+
+### Term Normalization
+Purpose: Chuẩn hóa thuật ngữ theo văn cảnh truyện, bao gồm chiêu thức, nghề nghiệp, chức vị, cảnh giới, kỹ năng, vật phẩm, danh hiệu, tổ chức, hệ thống, khái niệm thế giới quan và cụm cố định lặp lại.
+Core principles:
+  • context first
+  • not word by word
+  • same source can have different translation if context differs
+  • same source same context must be consistent
+  • same term type should keep style consistent
+  • locked translation only applies to matching context
+  • source plus type plus context equals translation
+Decision rules:
+  • Không dịch thuật ngữ chỉ theo mặt chữ.
+  • Một source có thể có nhiều bản dịch nếu văn cảnh khác nhau.
+  • Một bản dịch đã khóa chỉ áp dụng cho đúng loại văn cảnh đã khóa.
+  • Tên chiêu thức, cảnh giới, pháp bảo quan trọng nên dùng dạng Hán Việt chuẩn, viết hoa nếu là danh từ riêng.
+  • Vật phẩm phổ thông không cần Hán Việt hóa quá mức.
+  • Nghề nghiệp phải xét bối cảnh.
+  • Chức vị phải xét hệ thống xã hội.
+  • Nếu cùng source và cùng văn cảnh, phải giữ nhất quán.
+  • Nếu không chắc văn cảnh, đánh dấu audit.
+
+### Engine Rules
+  • use context pack
+  • use previous chapter summary
+  • use character profile
+  • use story timeline
+  • use glossary
+  • use name scan
+  • use segment context
+  • avoid over literal translation
+  • avoid over smoothing that changes meaning
+
+## Characters
+N/A
+
+## Glossary
+N/A
+
+## Story Timeline (latest)
+g đáng tin cậy
+
+### Summary
+Chapter 47 completed via pipeline.
+
+## Chapter 0048 - Chương 48: Mạnh tay hơn nữa
+
+### Summary
+Chapter 48 completed via pipeline.
+
+## Chapter 0049 - Chương 49: Cơ hội tuyệt hảo
+
+### Summary
+Chapter 49 completed via pipeline.
+
+## Chapter 0050 - Chương 50: Chức nghiệp đắt khách nhất
+
+### Summary
+Chapter 50 completed via pipeline.
+
+## Chapter 0051 - Chương 51: Trổ hết thần thông
+
+### Summary
+Chapter 51 completed via pipeline.
+
+## Chapter 0052 - Chương 52: Evan: Tay sai của ta đâu?
+
+### Summary
+Chapter 52 completed via pipeline.
+
+## Chapter 0053 - Chương 53: Ý nghĩa đích thực trong giáo lý của Thần Cầu Tri
+
+### Summary
+Chapter 53 completed via pipeline.
+
+## Chapter 0054 - Chương 54: Cứ điểm tạm thời
+
+### Summary
+Chapter 54 completed via pipeline.
+
+## Chapter 0055 - Chương 55: Tế đàn tà thần? Có thể phá không?
+
+### Summary
+Chapter 55 completed via pipeline.
+
+## Chapter 0056 - Chương 56: Chuyên tinh và kiêm tu
+
+### Summary
+Chapter 56 completed via pipeline.
+
+## Chapter 0057 - Chương 57: Trình mô phỏng tu hành đã ra mắt!
+
+### Summary
+Chapter 57 completed via pipeline.
+
+## Chapter 0058 - Chương 58: Cấp độ huyền thoại
+
+### Summary
+Chapter 58 completed via pipeline.
+
+## Chapter 0059 - Chương 59: Nữ thần Ma pháp, chó cũng không thèm tin
+
+### Summary
+Chapter 59 completed via pipeline.
+
+## Chapter 0001 - Chương 1: Xuyên không thành tà thần thì phải làm sao
+
+### Summary
+Chapter 1 completed via pipeline.
+
+## Chapter 0002 - Chương 2: Khởi đầu nát bét
+
+### Summary
+Chapter 2 completed via pipeline.
+
+## Chapter 0003 - Chương 3: Pete Chinar
+
+### Summary
+Chapter 3 completed via pipeline.
+
+## Chapter 0003 - Chương 3: Pete Chinar
+
+### Summary
+Chapter 3 completed via pipeline.
+
+## Chapter 0004 - Chương 4: Cách làm hoàn toàn khác biệt
+
+### Summary
+Chapter 4 completed via pipeline.
+
+## Chapter 0005 - Chương 5: Trao người cần câu
+
+### Summary
+Chapter 5 completed via pipeline.
+
+## Chapter 0004 - Chương 4: Cách làm hoàn toàn khác biệt
+
+### Summary
+Chapter 4 completed via pipeline.
+
+## Chapter 0006 - Chương 6: Thẩm vấn
+
+### Summary
+Chapter 6 completed via pipeline.
+
+## Chapter 0007 - Chương 7: Thần Cầu Tri
+
+### Summary
+Chapter 7 completed via pipeline.
+
+## Chapter 0008 - Chương 8: Bối cảnh toàn dựa vào tự bịa
+
+### Summary
+Chapter 8 completed via pipeline.
+
+## Chapter 0009 - Chương 9: Biết rõ chân danh
+
+### Summary
+Chapter 9 completed via pipeline.
+
+## Chapter 0011 - Chương 11: Giới hạn của thần lực
+
+### Summary
+Chapter 11 completed via pipeline.
+
+## Chapter 0014 - Chương 14: Chuyển biến tâm lý
+
+### Summary
+Chapter 14 completed via pipeline.
+
+## Chapter 0015 - Chương 15: Xung đột ở quán rượu
+
+### Summary
+Chapter 15 completed via pipeline.
+
+## Chapter 0016 - Chương 16: Ô phép? Đó là thứ gì vậy
+
+### Summary
+Chapter 16 completed via pipeline.
+
+## Chapter 0017 - Chương 17: Rắc rối nhà Rena
+
+### Summary
+Chapter 17 completed via pipeline.
+
+## Chapter 0018 - Chương 18: Cô từng nghe nói đến Thần Cầu Tri chưa?
+
+### Summary
+Chapter 18 completed via pipeline.
+
+
+## Source Chapter 19 - 0019 知识点数，奖励机制
+```json
+[
+  {
+    "segment_id": "0001",
+    "text": "# 第19章 知识点数，奖励机制"
+  },
+  {
+    "segment_id": "0002",
+    "text": "对蕾娜家的遭遇，培特本是有心无力的状态。"
+  },
+  {
+    "segment_id": "0003",
+    "text": "说到底，这种事情在格林港其实并不罕见，地精天生是个贪财善变的种族，尤其石匠兄弟会遇到的那个叫狡影·碎石的家伙，还是地精中最为没下限的掮客。"
+  },
+  {
+    "segment_id": "0004",
+    "text": "地精掮客们往往有自己掌握的渠道，在委托方和被委托方之间帮忙牵线搭桥，顺便两头赚钱，既收佣金又拿抽成。"
+  },
+  {
+    "segment_id": "0005",
+    "text": "接掮客手头的活计，他们肯定会想尽各种方法从中克扣、抽减，再不然就是能拖则拖，找各种借口拖延时间，欠钱不还是地精最常见的品质之一。"
+  },
+  {
+    "segment_id": "0006",
+    "text": "更麻烦的是，掮客们往往居无定所，打一枪换一个地方，钱拿到手之后很可能就会包一架最近时间的地精飞艇，跑到普兰蒂斯大陆的另一个地方度假外加避风头，防止被债主上门讨债。"
+  },
+  {
+    "segment_id": "0007",
+    "text": "狡影·碎石更是无耻地精掮客中的佼佼者，因为他做了更加没下限的事："
+  },
+  {
+    "segment_id": "0008",
+    "text": "他没避风头，而是找了德思礼给他当打手，打算“光明正大”地赖掉这一大笔酬金。"
+  },
+  {
+    "segment_id": "0009",
+    "text": "蕾娜家的麻烦想解决，问题的关键自然也就落在了德思礼和他的血牙帮上面。"
+  },
+  {
+    "segment_id": "0010",
+    "text": "不解决掉血牙帮，就没法找狡影要钱。"
+  },
+  {
+    "segment_id": "0011",
+    "text": "血牙帮可不像是培特击败的那几个混混那样不堪一击，他们有自己的地盘，养着数名职业者，无论武力还是财力，都不是石匠兄弟会能比得上的。"
+  },
+  {
+    "segment_id": "0012",
+    "text": "如果要正面对上血牙帮，凭培特一个人肯定不够。"
+  },
+  {
+    "segment_id": "0013",
+    "text": "【哈达之饥渴】之类群体大威力的3阶法术倒是能对血牙帮的职业者造成生命威胁。但问题在于，那种法术用来消灭邪神信徒之类的怪物还行，但在格林港是禁止对正常的智慧种族使用的。"
+  },
+  {
+    "segment_id": "0014",
+    "text": "真要对血牙帮的人使用，大概率会闹出人命。"
+  },
+  {
+    "segment_id": "0015",
+    "text": "那样不但会跟血牙帮不死不休，还会被格林港通缉。"
+  },
+  {
+    "segment_id": "0016",
+    "text": "培特来格林港是打算混个3阶法师证明的，一个月也就1枚金币多的生活费，他不是来跟人玩命的！"
+  },
+  {
+    "segment_id": "0017",
+    "text": "培特：虽然很同情，但我并不想插手，这对我来说划不来。"
+  },
+  {
+    "segment_id": "0018",
+    "text": "诺文：不，你想！"
+  },
+  {
+    "segment_id": "0019",
+    "text": "……"
+  },
+  {
+    "segment_id": "0020",
+    "text": "诺文一直在用【神之眼】通过培特的视角同步观察着，在得知蕾娜的遭遇时，立马意识到，他传教收获新信徒的机会来了。"
+  },
+  {
+    "segment_id": "0021",
+    "text": "蕾娜和她父亲的石匠兄弟会现在最缺的是什么？"
+  },
+  {
+    "segment_id": "0022",
+    "text": "实力！"
+  },
+  {
+    "segment_id": "0023",
+    "text": "他们会被德思礼的骚扰弄的无计可施，还不是因为普通人在职业者面前没什么反抗手段？"
+  },
+  {
+    "segment_id": "0024",
+    "text": "破局的方法说白了也很简单。"
+  },
+  {
+    "segment_id": "0025",
+    "text": "只要能让石匠兄弟会这边也有足够多数量的职业者，自然就能解决血牙帮的威胁！"
+  },
+  {
+    "segment_id": "0026",
+    "text": "诺文表示这他熟的很！"
+  },
+  {
+    "segment_id": "0027",
+    "text": "为了让培特有动力向蕾娜传播“求知之神的福音”，两个人在酒馆里喝酒的时候，神国里的诺文也没闲着。"
+  },
+  {
+    "segment_id": "0028",
+    "text": "结合先前他发现的有关神职权柄消耗相关的信息，诺文决定在现阶段推出一套简单的“奖励体系”在信徒群体中运行。"
+  },
+  {
+    "segment_id": "0029",
+    "text": "诺文并不打算当他信徒们的保姆，如果信徒们真要遇到什么事都靠向他祈祷索求答案，就算诺文的神力消耗再小，也经不住数量巨大祈祷的消耗。"
+  },
+  {
+    "segment_id": "0030",
+    "text": "只有培特一个信徒的时候，诺文没得选，他要是不帮助对方，他就连神力来源都没了。"
+  },
+  {
+    "segment_id": "0031",
+    "text": "但是等到信徒数量随着传教变多，无微不至的照顾并不能让信徒们更加珍惜，大部分人反而会将其当作一种理所当然。"
+  },
+  {
+    "segment_id": "0032",
+    "text": "通过将神明的力量用一种合适的机制作为奖励，才能正确激起信徒的动力。      按照诺文的设计，信徒无论是想从他这里寻求法术、战技的相关知识，还是有关某件事的信息等等，一概需要支付数量不等的【知识点数】。"
+  },
+  {
+    "segment_id": "0033",
+    "text": "想变得更强？想解决困难？"
+  },
+  {
+    "segment_id": "0034",
+    "text": "诺文都能做到，但信徒需要先努力赚取点数，而不是直接躺平等神明相助！"
+  },
+  {
+    "segment_id": "0035",
+    "text": "【知识点数】机制的效果立竿见影："
+  },
+  {
+    "segment_id": "0036",
+    "text": "收到神谕的培特在得知了诺文的“信仰规则”后，果断改变了他本来打算对蕾娜的遭遇袖手旁观的想法！"
+  },
+  {
+    "segment_id": "0037",
+    "text": "他已经尝到了信仰诺文带来的巨大好处！"
+  },
+  {
+    "segment_id": "0038",
+    "text": "原本困扰他许久的3阶法术，求知之神能让他成功学会；"
+  },
+  {
+    "segment_id": "0039",
+    "text": "使他拥有实际战斗能力的1阶法术，求知之神也能教，而且用起来比魔法女神信徒们的那套更顺手，更好用！"
+  },
+  {
+    "segment_id": "0040",
+    "text": "无需低声下气地求着魔网回应，没有那便秘一样的法术位限制！"
+  },
+  {
+    "segment_id": "0041",
+    "text": "只要自己的精神撑得住，他就能像个法术炮台一样，享受真正职业者战斗的快感！"
+  },
+  {
+    "segment_id": "0042",
+    "text": "如果现在告诉培特，这些东西以后他都不能再用了，又要回到以前信仰魔法女神的那种苦日子，他觉得自己肯定会疯掉。"
+  },
+  {
+    "segment_id": "0043",
+    "text": "培特甚至感觉这位求知之神诺文的力量简直就是传说中邪神的诱惑。"
+  },
+  {
+    "segment_id": "0044",
+    "text": "凡人明明知道信仰邪神会有严重的后果，但偏偏就是没法抵抗诱惑！因为它实在太过诱人，一旦沾上就根本戒不掉了，心甘情愿地走向堕落！"
+  },
+  {
+    "segment_id": "0045",
+    "text": "总之，想要继续享受信仰诺文的各种好处，他就得努力去赚到更多的【知识点数】。"
+  },
+  {
+    "segment_id": "0046",
+    "text": "只要向蕾娜传教，想办法拉她向求知之神献上信仰就行，又不是让他现在就去跟血牙帮拼命，这5点知识点数跟白送有什么区别？"
+  },
+  {
+    "segment_id": "0047",
+    "text": "“咳咳！”"
+  },
+  {
+    "segment_id": "0048",
+    "text": "培特清了清嗓子，回忆着他曾经在贵族礼仪课上学的动作："
+  },
+  {
+    "segment_id": "0049",
+    "text": "“蕾娜，请允许我占用你一点时间，我希望能向你介绍一位伟大的存在——求知之神诺文！”"
+  },
+  {
+    "segment_id": "0050",
+    "text": "“如果你愿意向求知之神献上一份信仰，得到祂的回应，我想，你所遇到的问题就有办法解决了。”"
+  },
+  {
+    "segment_id": "0051",
+    "text": "蕾娜眨了眨眼："
+  },
+  {
+    "segment_id": "0052",
+    "text": "“求知之神，我好像没有听说过这位神明？”"
+  },
+  {
+    "segment_id": "0053",
+    "text": "“你没听说很正常，因为求知之神才刚从久远的长眠中苏醒不久，世间早已没多少人还知晓祂的神名，但只要献上信仰，祂的伟力依然能帮助遇到困难的人们。”"
+  },
+  {
+    "segment_id": "0054",
+    "text": "培特直接把先前诺文的那套马甲“神设”给转述了一遍。"
+  },
+  {
+    "segment_id": "0055",
+    "text": "“不瞒你说，在你认识我之前，我其实就是个水货法师，根本没什么战斗能力，是求知之神教予了我真正的魔法奥秘，我才能变成你眼中大法师的样子。”"
+  },
+  {
+    "segment_id": "0056",
+    "text": "突然得知有位从未听说过的神明，只要信仰祂就能够解决她遇到的麻烦，让蕾娜觉得有种天上掉馅饼般的不真实感。"
+  },
+  {
+    "segment_id": "0057",
+    "text": "不过看培特那诚恳的样子，蕾娜心中升起希望："
+  },
+  {
+    "segment_id": "0058",
+    "text": "“我想，培特先生你之前帮我们赶走那些混混，而且，我的命也是你救下来的，你一定不是坏人，所以……我愿意相信你！”"
+  },
+  {
+    "segment_id": "0059",
+    "text": "“求知之神……我要怎么做才能向他献上信仰？”"
+  },
+  {
+    "segment_id": "0060",
+    "text": "……"
+  }
+]
+```
+
+## Output Format
+CRITICAL INSTRUCTION: You MUST translate the source text EXACTLY paragraph by paragraph, preserving the original order perfectly. DO NOT skip, drop, merge, or reorder any paragraphs. Each paragraph in the source MUST be translated.
+Return ONLY valid JSON matching this schema:
+{
+  "chapter_number": 19,
+  "chapter_title_vi": "Chương 19: <Vietnamese title>",
+  "segments": [
+    {
+      "segment_id": "XXXX",
+      "source": "...",
+      "target": "..."
+    }
+  ]
+}

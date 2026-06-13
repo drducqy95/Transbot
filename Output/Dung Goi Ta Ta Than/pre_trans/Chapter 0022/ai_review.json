@@ -1,0 +1,36 @@
+```json
+{
+  "Names": {
+    "approved": [],
+    "rejected": [
+      "充当",
+      "关系",
+      "别这样",
+      "方法"
+    ],
+    "uncertain": []
+  },
+  "Terms": {
+    "approved": [
+      "哈达之饥渴",
+      "奥术飞弹"
+    ],
+    "rejected": [
+      "还是"
+    ],
+    "uncertain": [
+      "法术，求知之"
+    ]
+  }
+}
+```
+
+### Explanation
+**Names**:
+*   `充当` (act as/serve as), `关系` (relationship), `别这样` (don't do this), `方法` (method) are all common words or conversational phrases, not proper names.
+
+**Terms**:
+*   `哈达之饥渴` ("Hunger of Hada"): **Approved**. This perfectly matches the glossary entry `【Cơn Đói Khát của Hada】`.
+*   `奥术飞弹` ("Arcane Missiles"): **Approved**. The glossary strongly implies a D&D-based magic system (Goddess of Magic, Spell slots/Pháp thuật vị, Cantrips/Hí pháp, Level 1-3 spells). *Arcane Missiles/Magic Missile* is a staple spell in this setting. 
+*   `法术，求知之` ("Spell, of seeking knowledge"): **Uncertain**. While it contains "法术" (spell), the comma makes it a fragmented phrase rather than a proper standalone term. It might need contextual adjustment.
+*   `还是` ("still/or"): **Rejected**. This is a common conjunction or adverb, not a specific terminology.

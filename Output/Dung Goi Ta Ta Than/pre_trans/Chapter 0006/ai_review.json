@@ -1,0 +1,34 @@
+```json
+{
+  "names": [
+    {
+      "item": "关注",
+      "status": "rejected",
+      "reason": "Common verb/noun meaning 'attention' or 'follow'. Not a proper name or character."
+    },
+    {
+      "item": "时候",
+      "status": "rejected",
+      "reason": "Common noun meaning 'time' or 'moment'. Not a proper name."
+    }
+  ],
+  "terms": [
+    {
+      "item": "……\n还有",
+      "status": "rejected",
+      "reason": "Fragment consisting of punctuation and a conjunction ('...also/and'). Not a terminology."
+    },
+    {
+      "item": "任务已更新。",
+      "status": "rejected",
+      "reason": "A complete sentence/system message ('Task has been updated.'). It should be translated as regular text rather than added as a glossary term."
+    },
+    {
+      "item": "任务：取得巴",
+      "status": "rejected",
+      "reason": "Incomplete or truncated text ('Task: Obtain Ba...')."
+    },
+    {
+      "item": "当前信任程度",
+      "status": "uncertain",
+      "reason": "Could be a UI element, system attribute, or game-like mechanic ('Current trust level'). ItError: timed out waiting for response
