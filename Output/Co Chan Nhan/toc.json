@@ -35,14 +35,14 @@
     "relative_path": "output/Chương 0008 - Chương 8 Vật thị nhân phi.md"
   },
   {
-    "chapter_number": 10,
-    "title": "Chương 10: Trời có lúc gió mây bất trắc, luyện Cổ muôn vàn gian nan",
-    "relative_path": "output/Chương 0010 - Chương 10 Trời có lúc gió mây bất trắc, luyện Cổ muôn vàn gian nan.md"
-  },
-  {
     "chapter_number": 9,
     "title": "Chương 9: Ngày càng xa cách",
     "relative_path": "output/Chương 0009 - Chương 9 Ngày càng xa cách.md"
+  },
+  {
+    "chapter_number": 10,
+    "title": "Chương 10: Trời có lúc gió mây bất trắc, luyện Cổ muôn vàn gian nan",
+    "relative_path": "output/Chương 0010 - Chương 10 Trời có lúc gió mây bất trắc, luyện Cổ muôn vàn gian nan.md"
   },
   {
     "chapter_number": 11,
@@ -150,14 +150,14 @@
     "relative_path": "output/Chương 0031 - Chương 31 Phương Nguyên, ngươi đại họa lâm đầu rồi!.md"
   },
   {
-    "chapter_number": 33,
-    "title": "Chương 33: Ngươi mắng đi",
-    "relative_path": "output/Chương 0033 - Chương 33 Ngươi mắng đi.md"
-  },
-  {
     "chapter_number": 32,
     "title": "Chương 32: Trêu cợt",
     "relative_path": "output/Chương 0032 - Chương 32 Trêu cợt.md"
+  },
+  {
+    "chapter_number": 33,
+    "title": "Chương 33: Ngươi mắng đi",
+    "relative_path": "output/Chương 0033 - Chương 33 Ngươi mắng đi.md"
   },
   {
     "chapter_number": 34,
@@ -170,18 +170,18 @@
     "relative_path": "output/Chương 0035 - Chương 35 Phân thây làm quà!.md"
   },
   {
-    "chapter_number": 38,
-    "title": "Chương 38: Thương đội Cáp Mô",
-    "relative_path": "output/Chương 0038 - Chương 38 Thương đội Cáp Mô.md"
-  },
-  {
     "chapter_number": 36,
-    "title": "0036 既是妥协又是威胁",
-    "relative_path": "output/Chương 0036 - 0036 既是妥协又是威胁.md"
+    "title": "Chương 36: Vừa là thỏa hiệp, vừa là uy hiếp",
+    "relative_path": "output/Chương 0036 - Chương 36 Vừa là thỏa hiệp, vừa là uy hiếp.md"
   },
   {
     "chapter_number": 37,
     "title": "Chương 37: Ma đầu bước trong ánh sáng",
     "relative_path": "output/Chương 0037 - Chương 37 Ma đầu bước trong ánh sáng.md"
+  },
+  {
+    "chapter_number": 38,
+    "title": "Chương 38: Thương đội Cáp Mô",
+    "relative_path": "output/Chương 0038 - Chương 38 Thương đội Cáp Mô.md"
   }
 ]

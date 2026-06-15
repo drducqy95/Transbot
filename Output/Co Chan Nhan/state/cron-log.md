@@ -57,3 +57,4 @@
 - 2026-06-13 13:58 | Chapter 41 | completed | Chương 0041 - 0041 竟然真的开出了蛊？！.md
 - 2026-06-13 14:02 | Chapter 36 | completed | Chương 0036 - 0036 既是妥协又是威胁.md
 - 2026-06-13 20:08 | Chapter 37 | completed | Chương 0037 - Chương 37 Ma đầu bước trong ánh sáng.md
+- 2026-06-15 20:54 | Chapter 36 | completed | Chương 0036 - Chương 36 Vừa là thỏa hiệp, vừa là uy hiếp.md

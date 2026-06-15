@@ -278,3 +278,8 @@ Chapter 36 completed via pipeline.
 
 ### Summary
 Chapter 37 completed via pipeline.
+
+## Chapter 0036 - Chương 36: Vừa là thỏa hiệp, vừa là uy hiếp
+
+### Summary
+Chapter 36 completed via pipeline.

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-14T00:00:06.155766+07:00",
+  "updated_at": "2026-06-14T07:00:05.147757+07:00",
   "books": [
     {
       "branch": "Chu Than Dai Dao",
@@ -14,7 +14,7 @@
       "ongoing": true,
       "completed_chapters": 38,
       "total_chapters": 1602,
-      "latest_chapter": "0037 玲珑妖 ，玄黄塔！",
+      "latest_chapter": "Chương 37",
       "genre": "eastern_fiction",
       "sub_genre": "unlimited_flow",
       "style_tags": [
@@ -63,7 +63,7 @@
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Chu Than Dai Dao/README.md",
       "toc_path": "Output/Chu Than Dai Dao/toc.json",
-      "updated_at": "2026-06-14T00:00:03.105102+07:00"
+      "updated_at": "2026-06-14T07:00:02.867957+07:00"
     },
     {
       "branch": "Chu Than Quat Khoi",
@@ -111,9 +111,9 @@
       ],
       "completed_chapters": 32,
       "total_chapters": 852,
-      "latest_chapter": "0031 清点",
+      "latest_chapter": "Chương 31",
       "detail": "Tiến độ: 32/852 chương | Mới nhất: 0031 清点",
-      "updated_at": "2026-06-14T00:00:03.292257+07:00",
+      "updated_at": "2026-06-14T07:00:03.032544+07:00",
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Chu Than Quat Khoi/README.md",
       "toc_path": "Output/Chu Than Quat Khoi/toc.json"
@@ -168,11 +168,11 @@
           "title": "Cổ trùng"
         }
       ],
-      "completed_chapters": 37,
+      "completed_chapters": 39,
       "total_chapters": 1915,
-      "latest_chapter": "Chương 37: Ma đầu bước trong ánh sáng",
+      "latest_chapter": "Chương 36: Vừa là thỏa hiệp, vừa là uy hiếp",
       "detail": "Tiến độ: 37/1915 chương | Mới nhất: Chương 37: Ma đầu bước trong ánh sáng",
-      "updated_at": "2026-06-14T00:00:03.660960+07:00",
+      "updated_at": "2026-06-15T20:54:47+07:00",
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Co Chan Nhan/README.md",
       "toc_path": "Output/Co Chan Nhan/toc.json"
@@ -196,11 +196,11 @@
           "title": "Đông phương"
         }
       ],
-      "completed_chapters": 57,
+      "completed_chapters": 56,
       "total_chapters": 968,
       "latest_chapter": "Chương 53: Chân đế giáo nghĩa của Thần Cầu Tri",
-      "detail": "Tiến độ: 55/968 chương | Mới nhất: Chương 36: Cậu biết đấy, miệng tôi kín nhất rồi",
-      "updated_at": "2026-06-14T00:58:50+07:00",
+      "detail": "Tiến độ: 56/968 chương | Mới nhất: Chương 53: Chân đế giáo nghĩa của Thần Cầu Tri",
+      "updated_at": "2026-06-14T07:00:03.509256+07:00",
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Dung Goi Ta Ta Than/README.md",
       "toc_path": "Output/Dung Goi Ta Ta Than/toc.json"
@@ -216,9 +216,9 @@
       "status": "in_progress",
       "status_label": "Đang ra",
       "ongoing": true,
-      "completed_chapters": 40,
+      "completed_chapters": 41,
       "total_chapters": 3381,
-      "latest_chapter": "0038 天生符篆（三）",
+      "latest_chapter": "Chương 38: Thiên Sinh Phù Triện (3)",
       "genre": "eastern_fiction",
       "sub_genre": "xianxia",
       "style_tags": [
@@ -267,7 +267,7 @@
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Phi Pham Hong Hoang/README.md",
       "toc_path": "Output/Phi Pham Hong Hoang/toc.json",
-      "updated_at": "2026-06-14T00:00:04.473276+07:00"
+      "updated_at": "2026-06-15T20:54:31+07:00"
     },
     {
       "branch": "Ta Te Bao Nguc Giam",
@@ -290,9 +290,9 @@
       ],
       "completed_chapters": 30,
       "total_chapters": 2169,
-      "latest_chapter": "0030 世界（上）",
+      "latest_chapter": "Chương 30",
       "detail": "Tiến độ: 30/2169 chương | Mới nhất: 0030 世界（上）",
-      "updated_at": "2026-06-14T00:00:04.841259+07:00",
+      "updated_at": "2026-06-14T07:00:04.113883+07:00",
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Ta Te Bao Nguc Giam/README.md",
       "toc_path": "Output/Ta Te Bao Nguc Giam/toc.json"
@@ -349,9 +349,9 @@
       ],
       "completed_chapters": 31,
       "total_chapters": 1135,
-      "latest_chapter": "0031 降神术",
+      "latest_chapter": "Chương 31",
       "detail": "Tiến độ: 31/1135 chương | Mới nhất: 0031 降神术",
-      "updated_at": "2026-06-14T00:00:05.039747+07:00",
+      "updated_at": "2026-06-14T07:00:04.229404+07:00",
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Thai Nhat Dao Qua/README.md",
       "toc_path": "Output/Thai Nhat Dao Qua/toc.json"
@@ -369,7 +369,7 @@
       "ongoing": true,
       "completed_chapters": 36,
       "total_chapters": 1187,
-      "latest_chapter": "0036 强化",
+      "latest_chapter": "Chương 36",
       "genre": "eastern_fiction",
       "sub_genre": "fanfic, system, infinite_worlds",
       "style_tags": [
@@ -418,7 +418,7 @@
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han/README.md",
       "toc_path": "Output/Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han/toc.json",
-      "updated_at": "2026-06-14T00:00:05.320693+07:00"
+      "updated_at": "2026-06-14T07:00:04.353413+07:00"
     },
     {
       "branch": "Tieu Dao Mong Duong",
@@ -443,7 +443,7 @@
       "total_chapters": 1184,
       "latest_chapter": "Chương 39: Hạ sát",
       "detail": "Tiến độ: 40/1184 chương | Mới nhất: Chương 39: Hạ sát",
-      "updated_at": "2026-06-14T00:00:05.544073+07:00",
+      "updated_at": "2026-06-14T07:00:04.507216+07:00",
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Tieu Dao Mong Duong/README.md",
       "toc_path": "Output/Tieu Dao Mong Duong/toc.json"
@@ -516,7 +516,7 @@
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Tu Chan Bon Van Nam/README.md",
       "toc_path": "Output/Tu Chan Bon Van Nam/toc.json",
-      "updated_at": "2026-06-14T00:00:06.155572+07:00"
+      "updated_at": "2026-06-14T07:00:05.147491+07:00"
     },
     {
       "branch": "Hong Hoang Lich_Zhttty",
@@ -968,10 +968,19 @@
       "readme_path": "Output/Ac Linh Quoc Gia/README.md",
       "toc_path": "Output/Ac Linh Quoc Gia/toc.json",
       "updated_at": "2026-06-05T00:23:03+07:00"
+    },
+    {
+      "branch": "Rap Chieu Phim Dia Nguc",
+      "title": "Rap Chieu Phim Dia Nguc",
+      "completed_chapters": 0,
+      "total_chapters": 1882,
+      "ongoing": true,
+      "status": "ongoing",
+      "updated_at": "2026-06-14T19:51:32+07:00"
     }
   ],
   "metadata": {
-    "generated_at": "2026-06-14T00:58:50+07:00",
+    "generated_at": "2026-06-15T20:54:47+07:00",
     "total_books": 17,
     "source": "Dichtrung/Output"
   },
@@ -1251,9 +1260,9 @@
     },
     "Dung Goi Ta Ta Than": {
       "display_title": "Đừng Gọi Ta Tà Thần - Dung Goi Ta Ta Than",
-      "current_chapter": 55,
+      "current_chapter": 56,
       "total_chapters": 968,
-      "completed_chapters": 55,
+      "completed_chapters": 56,
       "last_updated": "2026-06-14"
     },
     "Phi Pham Hong Hoang": {

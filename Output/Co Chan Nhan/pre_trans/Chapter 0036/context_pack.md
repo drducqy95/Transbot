@@ -86,18 +86,11 @@ N/A
 ## Glossary
 N/A
 
+## Known Entities (đã duyệt — BẮT BUỘC giữ đúng bản dịch này)
+  • 高碗 → Cao Uyển (person)
+
 ## Story Timeline (latest)
-ày?
-
-### Summary
-Chapter 21 completed via pipeline.
-
-## Chapter 0022 - Chương 22: Nguyệt Nhẫn bay múa
-
-### Summary
-Chapter 22 completed via pipeline.
-
-## Chapter 0023 - Chương 23: Nuôi Cổ giống như nuôi tình nhân
+ổ giống như nuôi tình nhân
 
 ### Summary
 Chapter 23 completed via pipeline.
@@ -256,6 +249,16 @@ Chapter 40 completed via pipeline.
 
 ### Summary
 Chapter 41 completed via pipeline.
+
+## Chapter 0036 - 0036 既是妥协又是威胁
+
+### Summary
+Chapter 36 completed via pipeline.
+
+## Chapter 0037 - Chương 37: Ma đầu bước trong ánh sáng
+
+### Summary
+Chapter 37 completed via pipeline.
 
 
 ## Source Chapter 36 - 0036 既是妥协又是威胁
@@ -492,8 +495,254 @@ Chapter 41 completed via pipeline.
 ]
 ```
 
+## Machine Draft (dictionary pre-translation, coverage ~1.0)
+Đây là bản dịch máy thô theo từ điển (Hán-Việt/VietPhrase). HÃY TINH CHỈNH thành văn xuôi tiếng Việt tự nhiên, đúng văn phong, GIỮ thuật ngữ đã khóa trong Glossary; CHỈ sửa chỗ sai/thô. KHÔNG dịch lại từ đầu nếu bản thô đã đúng nghĩa.
+```json
+[
+  {
+    "segment_id": "0001",
+    "draft": "# thứ 37 tiết： đã là thỏa hiệp lại là uy hiếp"
+  },
+  {
+    "segment_id": "0002",
+    "draft": "mà lúc này， đang mạc gia đình。"
+  },
+  {
+    "segment_id": "0003",
+    "draft": "“ ta dặn dò qua ngươi gì？ xem ra ngươi làm chuyện tốt！” trong thư phòng， cổ nguyệt mạc bụi vỗ mặt bàn， đang đại phát Lôi Đình。"
+  },
+  {
+    "segment_id": "0004",
+    "draft": "mạc nhan thì đứng ở lão nhân này đối diện， cúi đầu， đôi mắt trung lưu lộ ra đã giật mình lại phẫn nộ tình cảm。 nàng cũng là vừa mới hiểu rõ tin tức này， Cao Uyển thế mà bị phương nguyên giết！"
+  },
+  {
+    "segment_id": "0005",
+    "draft": "cái đó 15 tuổi thiếu niên， lại có thủ đoạn như vậy và tâm chí。 Cao Uyển nhưng ta đường đường mạc gia đình gia nô， phương nguyên giết hắn， quả thực là không đem mạc gia đình để ở trong mắt！"
+  },
+  {
+    "segment_id": "0006",
+    "draft": "“ gia gia， ngài không cần nổi giận。 này Cao Uyển chẳng qua là cái gia nô， chết rồi còn chưa tính， dù sao hắn lại không họ Cổ nguyệt。 ngược lại là cái đó phương nguyên， lá gan quá lớn， đánh chó cũng phải nhìn xem chủ nhân。 hắn không chỉ đánh chúng ta mạc gia đình chó， còn 1 xem đem chó đánh chết！” mạc nhan tức giận bất bình nói。"
+  },
+  {
+    "segment_id": "0007",
+    "draft": "cổ nguyệt mạc bụi gầm thét lên：“ ngươi còn không biết xấu hổ nói！ ngươi là cánh cứng cáp rồi， không đem lời ta nói để ở trong lòng， đúng hay không？ ta khuyên bảo qua ngươi gì， ngươi cũng quên 1 làm 2 tịnh！”"
+  },
+  {
+    "segment_id": "0008",
+    "draft": "“ cháu gái không dám。” mạc nhan sợ hãi 1 shock， thế mới biết gia gia là thật nổi giận， vội vã quỳ xuống đến。"
+  },
+  {
+    "segment_id": "0009",
+    "draft": "cổ nguyệt mạc bụi tay chỉ ngoài cửa sổ， khiển trách：“ hừ， kia cái gì gia nô chết rồi còn chưa tính， nhưng ngươi bây giờ còn chằm chằm vào phương nguyên không tha， thực sự là tầm nhìn hạn hẹp， không biết nặng nhẹ！ ngươi biết ngươi cử động lần này ý nghĩa không？ tiểu bối tranh đấu， là chuyện của bọn hắn tình cảm。 chúng ta làm trưởng bối， đừng đi nhúng tay。 đây là quy củ！ bây giờ ngươi tìm phương nguyên phiền phức， đúng thế phá hư quy củ。 bây giờ không biết có bao nhiêu người ở bên ngoài， lạnh mắt thấy chúng ta mạc gia đình chê cười đâu！”"
+  },
+  {
+    "segment_id": "0010",
+    "draft": "“ gia gia xin bớt giận， nộ khí thương thân。 là mạc nhan không tốt， liên lụy mạc gia đình。 gia gia khiến mạc nhan làm thế nào， mạc nhan liền làm như thế đó！ chỉ là cháu gái thực sự nuốt không trôi một hơi này， cái đó phương nguyên thực sự quá ghê tởm， quá vô sỉ。 hắn đầu tiên là lừa gạt ta， bước vào học đường。 sau đó lại trốn ở trong túc xá， mặc cho ta 10000 chửi rủa， đều không ra đến。 ta 1 đi， hắn liền giết Cao Uyển。 thật sự là âm hiểm vô sỉ đến cực điểm！” mạc nhan bẩm báo nói。"
+  },
+  {
+    "segment_id": "0011",
+    "draft": "“ a， là như thế này？” cổ nguyệt mạc bụi mày nhíu lại 1 hạ， hắn hay là lần đầu nghe được tin tức này， trong mắt không khỏi hiện lên 1 xóa tinh quang。"
+  },
+  {
+    "segment_id": "0012",
+    "draft": "hắn hít sâu 1 khẩu khí， đè xuống lửa giận trong lòng， vuốt râu trầm ngâm lên：“ cái này phương nguyên ta cũng đã được nghe nói 1 chút ít， sớm mấy năm làm qua thơ ca， có sớm trí。 không nghĩ tư chất lại là cấp C， khó xử đại dụng， bởi vậy bỏ cuộc đối với mời chào của hắn。 hiện tại xem ra， ngược lại là có chút ý tứ。”"
+  },
+  {
+    "segment_id": "0013",
+    "draft": "dừng 1 ĐỐN， cổ nguyệt mạc bụi dùng ngón tay gõ gõ mặt bàn：“ người tới， đem cái hộp kia cầm qua đến。”"
+  },
+  {
+    "segment_id": "0014",
+    "draft": "ngoài cửa tự có người hầu hạ。 rất nhanh thì nâng đi vào 1 cái cái rương。 hộp không lớn không nhỏ， nhưng có hơi chìm， người làm trong nhà dùng 2 con tay nâng nhìn， đứng ở bên bàn đọc sách。"
+  },
+  {
+    "segment_id": "0015",
+    "draft": "“ gia gia， đây là gì？” mạc nhan nhìn thấy này hộp gỗ， nghi hoặc mà hỏi thăm。"
+  },
+  {
+    "segment_id": "0016",
+    "draft": "“ ngươi sao không mở ra xem ra？” cổ nguyệt mạc bụi híp hai mắt， ngữ khí có hơi phức tạp。"
+  },
+  {
+    "segment_id": "0017",
+    "draft": "mạc nhan đứng dậy， xốc lên nắp gỗ， hướng bên trong 1 nhìn xem。"
+  },
+  {
+    "segment_id": "0018",
+    "draft": "lập tức， sắc mặt nàng đột biến， đồng tử mạnh co lại thành to bằng mũi kim， nhịn không được rút lui 1 nhanh chân， trong miệng phát ra 1 âm thanh khó mà ức chế kinh hô。 trong tay nắp gỗ cũng thất thủ rơi trên mặt đất。"
+  },
+  {
+    "segment_id": "0019",
+    "draft": "không có nắp gỗ， hộp gỗ bên trong thứ gì đó liền hiện ra ở trước mặt mọi người。"
+  },
+  {
+    "segment_id": "0020",
+    "draft": "đúng là 1 đống huyết nhục！"
+  },
+  {
+    "segment_id": "0021",
+    "draft": "những thứ này huyết nhục， hiển nhiên là bị người chẻ thành 1 từng mảnh， 1 đồng đồng， chứa vào trong hộp。 huyết dịch đỏ thắm tiền tích góp ở bên trong， có nhiều trắng bệch da thịt， có nhiều dài mảnh bụng， trong đó còn kèm theo 12 đồng xương cốt， không phải xương đùi có lẽ đúng thế xương sườn。 xung quanh góc vũng máu trong， còn nổi 2 cây ngón tay， nửa cái ngón chân。"
+  },
+  {
+    "segment_id": "0022",
+    "draft": "ọe……"
+  },
+  {
+    "segment_id": "0023",
+    "draft": "mạc nhan hoa dung thất sắc， lại rót lui 1 nhanh chân， bụng 1 trận (từ dùng trong chiến thuật, chỉ hàng lối hoặc phương thức bố trí quân lính tác chiến) sôi trào， kém chút tại chỗ thì phun ra đến。"
+  },
+  {
+    "segment_id": "0024",
+    "draft": "nàng mặc dù là 2 chuyển cổ thầy， lịch luyện qua 1 phiên， cũng từng giết người， nhưng hay là lần đầu nhìn thấy như thế buồn nôn biến thái 1 màn。"
+  },
+  {
+    "segment_id": "0025",
+    "draft": "này trong hộp huyết nhục， hiển nhiên là người thi thể bị cắt nát， sau đó nhét vào trong。"
+  },
+  {
+    "segment_id": "0026",
+    "draft": "1 cỗ trùng thiên mùi huyết tinh， lập tức tràn ngập ra， tràn ngập tất cả phòng làm việc。"
+  },
+  {
+    "segment_id": "0027",
+    "draft": "bưng hộp gia nô， hai tay đều đang run， sắc mặt 1 phiến trắng bệch。 mặc dù lúc trước đã nhìn qua cái hộp này， cũng nôn qua， nhưng mà bây giờ bưng nó， như cũ cảm thấy 1 trận trận hồi hộp và buồn nôn。"
+  },
+  {
+    "segment_id": "0028",
+    "draft": "trong thư phòng 3 người， chỉ có gia đình lão Cổ nguyệt mạc bụi mặt không đổi sắc， hắn nhàn nhạt quét 1 mắt này hộp huyết nhục， đối với mạc nhan chậm rãi nói：“ cái hộp này， đúng thế phương nguyên sáng nay bày ra đang nhà ta nơi cửa sau。”"
+  },
+  {
+    "segment_id": "0029",
+    "draft": "“ gì， thật là hắn？！” mạc nhan David kinh ngạc， trong đầu nhịn không được hiện ra phương nguyên hình tượng。"
+  },
+  {
+    "segment_id": "0030",
+    "draft": "nàng thứ 1 lần nhìn thấy phương nguyên， là đang khách sạn。"
+  },
+  {
+    "segment_id": "0031",
+    "draft": "khi đó， phương nguyên ngồi ở bên cửa sổ， lẳng lặng địa đang ăn cơm rau。 hắn khuôn mặt bình thường， hai mắt đen chìm， thân thể hình gầy gò， màu da mang theo 1 loại thiếu niên đặc biệt tái nhợt。"
+  },
+  {
+    "segment_id": "0032",
+    "draft": "rõ ràng là 1 cái như thế bình thường yên tĩnh thiếu niên， lại làm ra như thế biến thái cử động điên cuồng！"
+  },
+  {
+    "segment_id": "0033",
+    "draft": "hoảng sợ sau đó đúng thế cuồng nộ， mạc nhan hét lớn：“ cái này phương nguyên quá càn rỡ， ăn gan hùm mật gấu！ lại dám làm như thế， này là đúng chúng ta mạc gia đình khiêu khích a！ ta này thì đi qua， đem hắn áp đến hỏi tội！！” nói muốn đi ra ngoài。"
+  },
+  {
+    "segment_id": "0034",
+    "draft": "“ đồ hỗn trướng， ngươi đứng lại đó cho ta！” cổ nguyệt mạc bụi so với nàng giận quá， tiện tay bắt lấy trên bàn sách 1 đồng nghiên mực， thì vung tay ném ra ngoài。"
+  },
+  {
+    "segment_id": "0035",
+    "draft": "cứng rắn nặng nề nghiên mực đánh vào mạc nhan trên bờ vai， lại phanh 1 âm thanh， rơi trên mặt đất。"
+  },
+  {
+    "segment_id": "0036",
+    "draft": "“ gia gia！” mạc nhan che bả vai， kinh hô 1 âm thanh。"
+  },
+  {
+    "segment_id": "0037",
+    "draft": "cổ nguyệt mạc bụi đứng dậy， tay chỉ nhà mình cháu gái， ngữ khí vô cùng kích động：“ nhìn tới những năm này ngươi là bạch bạch lịch luyện， ngươi thật là khiến ta thất vọng！ đối phó 1 cái nho nhỏ 1 chuyển sơ giai cổ thầy， ngươi lao sư động chúng không nói， còn 1 thẳng bị đối phương nắm mũi dẫn đi。 bây giờ lại bị phẫn nộ làm choáng váng đầu óc， đến bây giờ ngươi còn đã hiểu phương nguyên cử động lần này hàm nghĩa không？”"
+  },
+  {
+    "segment_id": "0038",
+    "draft": "“ gì hàm nghĩa？” mạc nhan không hiểu chút nào。"
+  },
+  {
+    "segment_id": "0039",
+    "draft": "cổ nguyệt mạc bụi hừ 1 âm thanh：“ phương nguyên nếu là 1 thầm nghĩ muốn tìm hấn， đem việc này làm lớn chuyện， sao không đem cái rương này đặt ở người đến người đi cửa chính， ngược lại đặt ở ít ai lui tới cửa sau？”"
+  },
+  {
+    "segment_id": "0040",
+    "draft": "“ lẽ nào hắn là muốn hoà giải？ không đúng， đã hoà giải， ở trước mặt bồi tội không phải tốt hơn， tại sao muốn đưa cái rương này phần vụn thi thể。 này căn bản đúng thế khiêu khích！” mạc nhan nói。"
+  },
+  {
+    "segment_id": "0041",
+    "draft": "cổ nguyệt mạc bụi lắc đầu， lại gật đầu：“ hắn là muốn cùng minh bạch， lại quả thực đang gây hấn với。 hắn đem hộp gỗ đặt ở cửa sau， là muốn cùng minh bạch。 đang trong hộp gỗ trang phần vụn thi thể， là đang gây hấn với。”"
+  },
+  {
+    "segment_id": "0042",
+    "draft": "“ ngươi nhìn xem。” lão nhân chỉ vào hộp，“ này cái hộp gỗ cũng không lớn， giả không được 1 cỗ hoàn chỉnh thi thể。 cho nên bên trong chỉ là 1 bộ phần phần vụn thi thể。 hắn là muốn nói cho chúng ta， hắn không muốn làm lớn chuyện việc này， muốn dàn xếp ổn thỏa。 nhưng mà như chúng ta mạc gia đình còn muốn bắt lấy việc này không tha， hắn rồi sẽ đem còn lại phần vụn thi thể rơi vãi đang cửa chính， triệt để làm lớn chuyện việc này。 đến lúc đó， đúng thế 2 thua câu thương。 toàn tộc đều sẽ hiểu rõ， chúng ta mạc gia đình trước phá hủy quy củ， chúng ta mạc gia đình tương lai người cầm quyền， thế mà yếu đuối đến cần trưởng bối như thế cưng chiều và giữ gìn。”"
+  },
+  {
+    "segment_id": "0043",
+    "draft": "mạc nhan nghe lời nói này， 1 thời gian đều có chút trợn mắt hốc mồm。 nàng chưa bao giờ ngờ tới， phương nguyên cử động lần này lại có như thế thâm ý。"
+  },
+  {
+    "segment_id": "0044",
+    "draft": "“ thủ đoạn này thực sự là cao minh a。” cổ nguyệt mạc bụi cảm khái nói，“ chỉ là 1 cái cử động， thì cương nhu cùng tồn tại， tiến thối có theo。 cái này thật đơn giản hộp gỗ， đã biểu thị ra phương nguyên ý thỏa hiệp， lại là hắn nhằm vào chúng ta mạc gia đình uy hiếp。 hết lần này tới lần khác chúng ta mạc gia đình， còn thật bị hắn nắm uy hiếp。 mạc gia đình danh dự nếu là bởi vậy bị hao tổn， tiếp theo mà đến， đúng thế đỏ gia đình nổi lên， tộc trưởng 1 mạch (động mạch, tĩnh mạch) đả kích。”"
+  },
+  {
+    "segment_id": "0045",
+    "draft": "mạc nhan không tin tà nói：“ gia gia， ngươi có phải quá đề cao hắn？ chỉ bằng hắn， hắn chẳng qua mới 15 tuổi mà thôi。”"
+  },
+  {
+    "segment_id": "0046",
+    "draft": "“ xem trọng？” mạc bụi không vui nhìn cháu gái 1 mắt，“ nhìn tới ngươi những năm này xuôi gió xuôi nước quen rồi， dưỡng thành tự đại khuyết điểm， có hơi thấy không rõ sự thật。 này phương nguyên đầu tiên là gặp nguy không loạn， lừa gạt ngươi bước vào học đường。 sau đó cái khó ló cái khôn， đang ký túc xá tránh họa。 tiếp lấy mặc cho ngươi nhục mạ lại không cậy mạnh， đây là ẩn nhẫn bình tĩnh。 ngươi sau khi đi hắn ngay lập tức giết Cao Uyển， là kiên nghị dũng cảm。 bây giờ lại đưa tới cái rương này， rõ ràng là trí kế mưu tính。 ngươi nói ta đúng hay không xem trọng hắn？”"
+  },
+  {
+    "segment_id": "0047",
+    "draft": "mạc nhan nghe được trợn mắt hốc mồm， nàng thực sự không ngờ rằng gia gia cư nhiên như thế thưởng thức phương nguyên， lúc này không phục nói：“ gia gia， hắn chẳng qua chỉ là cái cấp C thôi。”"
+  },
+  {
+    "segment_id": "0048",
+    "draft": "cổ nguyệt mạc bụi vuốt râu thở dài：“ đúng vậy a， hắn chỉ là cái cấp C。 có như thế tâm trí， lại chỉ là cấp C tư chất， thật sự là đáng tiếc。 chỉ cần tư chất lại cao hơn 1 tầng， là cấp B， hắn chắc chắn là ta cổ nguyệt 1 tộc tương lai phong vân lộng triều nhân。 đáng tiếc là cấp C a。”"
+  },
+  {
+    "segment_id": "0049",
+    "draft": "lão nhân thở dài trong， tràn đầy cảm khái。 dường như đang tiếc nuối， lại như đang may mắn。"
+  },
+  {
+    "segment_id": "0050",
+    "draft": "mạc nhan trầm mặc không nói， trong đầu của nàng không khỏi lần nữa hiện ra phương nguyên hình tượng。 đang tâm lý của nàng tác dụng dưới， phương nguyên đó trước kia văn nhược khuôn mặt， lúc này lại bao phủ 1 tầng quỷ bí hung hiểm bóng tối。"
+  },
+  {
+    "segment_id": "0051",
+    "draft": "“ cái này sự việc， là ngươi 1 tay tạo thành。 ngươi cảm thấy sao xử lý？” cổ nguyệt mạc bụi đột nhiên đánh vỡ trầm mặc， bắt đầu khảo giác mạc nhan。"
+  },
+  {
+    "segment_id": "0052",
+    "draft": "mạc nhan trầm tư 1 một lát， mới mang theo lạnh lùng giọng nói：“ Cao Uyển 1 cái nô tài， chết rồi coi như xong。 phương nguyên chẳng qua là cái cấp C， cũng chỉ là việc nhỏ。 mấu chốt là phải giữ gìn ta mạc gia đình danh dự。 vì lắng lại việc này， không ngại đem Cao Uyển cả nhà lão tiểu đều giết， hướng toàn tộc cho thấy chúng ta giữ gìn quy củ thái độ。”"
+  },
+  {
+    "segment_id": "0053",
+    "draft": "“ hửm， ngươi có thể dùng đại cục xuất phát， tạm thời vứt bỏ cá nhân cảm tình， giữ gìn lợi ích của gia tộc， này chút rất tốt。 chẳng qua cái này xử lý thủ đoạn hay là thiếu sót。” cổ nguyệt mạc bụi vuốt râu lời bình nói。"
+  },
+  {
+    "segment_id": "0054",
+    "draft": "“ còn xin gia gia huấn hạ。” mạc nhan hành lễ。"
+  },
+  {
+    "segment_id": "0055",
+    "draft": "cổ nguyệt mạc bụi trầm ngâm nói：“ việc này do ngươi mà lên， gia gia thì phạt ngươi cấm đoán 7 trời， từ nay về sau đừng lại tìm phương nguyên phiền phức。 Cao Uyển phạm thượng， 1 giới nô bộc mạo phạm chủ tử， chết tiệt， tội lỗi đáng chém！ bởi vì hắn là mạc gia đình gia nô， mạc gia đình cũng có quản giáo không nghiêm trách nhiệm， thì bồi thường đó phương nguyên 30 đồng nguyên thạch đi。 về phần Cao Uyển người nhà， cho bọn họ 50 đồng nguyên thạch phụ cấp， lại đem bọn họ đều trục xuất phủ đi。”"
+  },
+  {
+    "segment_id": "0056",
+    "draft": "dừng 1 ĐỐN， hắn lại nói“ 7 thiên chi trong， ngươi hảo hảo ở nhà nghỉ ngơi， đừng đi ra ngoài。 đồng thời cũng hảo hảo nghĩ， gia gia như thế xử trí thâm ý。”"
+  },
+  {
+    "segment_id": "0057",
+    "draft": "“ là， gia gia。”"
+  }
+]
+```
+
+
+## Yêu cầu chất lượng (BẮT BUỘC)
+Bạn là dịch giả tiểu thuyết chuyên nghiệp, KHÔNG phải máy dịch. Mục tiêu: bản dịch HAY, MƯỢT, tự nhiên như văn học Việt.
+- Văn xuôi: câu chữ trôi chảy, đúng nhịp, giàu hình ảnh; KHÔNG dịch từng chữ máy móc, KHÔNG để cấu trúc câu Hán lộ ra.
+- Đối thoại: lời thoại phải sống động, đúng thân phận/tuổi tác/quan hệ/quyền lực của nhân vật; xưng hô nhất quán với quan hệ đã thiết lập (ta/ngươi/hắn/nàng/lão phu/tại hạ...). Cổ trang dùng cổ phong vừa phải, hiện đại dùng lời đời thường.
+- DẤU CÂU ĐỐI THOẠI: BẮT BUỘC giữ dấu ngoặc kép "..." cho MỌI lời thoại có trong bản gốc (bản gốc dùng “...”). KHÔNG được bỏ dấu ngoặc kép, KHÔNG để lời thoại trộn lẫn vào văn kể. Mỗi câu nói của nhân vật phải nằm trong "..." như bản gốc.
+- Tên riêng & thuật ngữ: PHẢI dùng đúng bản dịch trong "Known Entities" và Glossary đã khóa; giữ tuyệt đối nhất quán xuyên suốt. KHÔNG tự đổi cách dịch một cái tên đã xuất hiện.
+- KHÔNG Hán-Việt hóa tên Nhật/Hàn/phương Tây/thương hiệu/thuật ngữ kỹ thuật.
+- Giữ trọn cảm xúc, giọng kể và sắc thái (căng thẳng, hài, bi) của bản gốc.
+- Nếu có "Machine Draft", chỉ dùng làm gợi ý nghĩa; viết lại cho hay, đừng bê nguyên.
+
 ## Output Format
-CRITICAL INSTRUCTION: You MUST translate the source text EXACTLY paragraph by paragraph, preserving the original order perfectly. DO NOT skip, drop, merge, or reorder any paragraphs. Each paragraph in the source MUST be translated.
+CRITICAL INSTRUCTION: You MUST translate the source text EXACTLY paragraph by paragraph, preserving the original order perfectly. DO NOT skip, drop, merge, or reorder any paragraphs. Each paragraph in the source MUST be translated. Do NOT repeat the chapter title inside the segments — the title goes only in "chapter_title_vi".
 Return ONLY valid JSON matching this schema:
 {
   "chapter_number": 36,

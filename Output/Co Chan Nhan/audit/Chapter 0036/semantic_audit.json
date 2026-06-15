@@ -1,0 +1,94 @@
+{
+  "issues": [
+    {
+      "segment_id": "0003",
+      "type": "unnatural_vietnamese",
+      "severity": "medium",
+      "fix": "\"Thế mà ta có dặn dò gì không? Nhìn xem việc tốt gì mà cậu đã làm!\""
+    },
+    {
+      "segment_id": "0005",
+      "type": "unnatural_vietnamese",
+      "severity": "medium",
+      "fix": "...quả là xem thường gia tộc Mạc chúng ta hoàn toàn!"
+    },
+    {
+      "segment_id": "0006",
+      "type": "unnatural_vietnamese",
+      "severity": "medium",
+      "fix": "...Đánh chó cũng phải nhìn chủ. Hắn không chỉ đánh chó của gia tộc Mạc chúng ta, còn một phát giết chết luôn!"
+    },
+    {
+      "segment_id": "0007",
+      "type": "unnatural_vietnamese",
+      "severity": "medium",
+      "fix": "\"Cứ thế mà nói sao? Cánh đã cứng rồi phải không? Không nghe lời ông nữa rồi? Ông dặn dò gì, cậu quên sạch hết rồi cơ đấy!\""
+    },
+    {
+      "segment_id": "0009",
+      "type": "unnatural_vietnamese",
+      "severity": "medium",
+      "fix": "...quả là cơm cháy canh chuẩn, không biết đánh giá! ...Ai mà biết bao nhiêu người ở bên ngoài đang chế giễu gia tộc Mạc chúng ta!"
+    },
+    {
+      "segment_id": "0010",
+      "type": "unnatural_vietnamese",
+      "severity": "medium",
+      "fix": "...Trước hết hắn lừa dối cháu, dụ cháu vào học đường. Rồi lại trốn trong ký túc xá, mặc cho cháu chửi rủa thế nào cũng không chịu ra."
+    },
+    {
+      "segment_id": "0012",
+      "type": "unnatural_vietnamese",
+      "severity": "medium",
+      "fix": "...Không ngờ tư chất lại là hạng C, không xứng dùng, nên ông từng bỏ ý định mời hắn vào. Mà bây giờ xem ra, khá thú vị."
+    },
+    {
+      "segment_id": "0033",
+      "type": "unnatural_vietnamese",
+      "severity": "medium",
+      "fix": "...Phương Nguyên này quá điên cuồng, dám nuốt gan báo đốc! Dám làm thế, đây là thách thức gia tộc Mạc chúng ta! Cháu đi bắt hắn lại để hỏi tội!!"
+    },
+    {
+      "segment_id": "0034",
+      "type": "unnatural_vietnamese",
+      "severity": "medium",
+      "fix": "...tay nhanh chộp lấy một cái nghiên mực trên bàn, vung ra."
+    },
+    {
+      "segment_id": "0035",
+      "type": "unnatural_vietnamese",
+      "severity": "medium",
+      "fix": "Cái nghiên mực cứng nặng đập vào vai Mạc Nhan, rồi phụt một tiếng, rơi xuống."
+    },
+    {
+      "segment_id": "0037",
+      "type": "unnatural_vietnamese",
+      "severity": "medium",
+      "fix": "\"Thấy ra những năm nay cậu đã rèn luyện vô ích! ...Để đối phó một thầy Cổ nhất chuyển sơ kỳ nhỏ bé, cậu không chỉ huy động quân địch, còn bị hắn dắt mũi...\""
+    },
+    {
+      "segment_id": "0042",
+      "type": "unnatural_vietnamese",
+      "severity": "medium",
+      "fix": "...chứa không hết một cái xác hoàn chỉnh. Nên bên trong chỉ có một phần xác người vụn. ...người sẽ nắm quyền gia tộc Mạc chúng ta, lại yếu đuối đến mức cần trưởng bối cưng chiều và bảo vệ như thế.\""
+    },
+    {
+      "segment_id": "0044",
+      "type": "unnatural_vietnamese",
+      "severity": "medium",
+      "fix": "...chi lạc tộc trưởng sẽ đả kích.\""
+    },
+    {
+      "segment_id": "0046",
+      "type": "unnatural_vietnamese",
+      "severity": "medium",
+      "fix": "\"Xem cao? Thấy ra những năm nay cậu vận may liên tục, dành cho chính mình tật tự đại, có chút không thấy rõ sự thật. ...Sau khi cậu đi, hắn ngay lập tức giết Cao Uyển, là kiên định dũng cảm. Bây giờ lại gửi hộp này, rõ ràng là trí kế mưu tính.\""
+    },
+    {
+      "segment_id": "0050",
+      "type": "unnatural_vietnamese",
+      "severity": "medium",
+      "fix": "...khuôn mặt văn nhược ban đầu của Phương Nguyên, giờ đây lại phủ lên một bóng tối quỷ quyệt hung dữ."
+    }
+  ]
+}
