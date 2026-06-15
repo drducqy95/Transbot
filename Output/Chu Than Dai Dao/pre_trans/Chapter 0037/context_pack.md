@@ -1,0 +1,602 @@
+# Translation Context Pack
+
+## Project
+- Branch: Chu Than Dai Dao
+- Title: 
+- Author: 
+- Genre: /
+- Language: zh → vi
+
+## Translation Rules
+### Translation Goal
+Dịch truyện Trung sang tiếng Việt tự nhiên, dễ đọc, đúng nghĩa, đúng mạch truyện, đúng văn cảnh, đúng xưng hô, đúng tên riêng và thuật ngữ.
+Style: văn xuôi tiếng Việt mượt, rõ nghĩa, không máy móc
+Priorities:
+  • đúng nghĩa và đúng văn cảnh
+  • đúng tên riêng
+  • đúng thuật ngữ theo loại và bối cảnh
+  • đúng xưng hô và quan hệ nhân vật
+  • giữ ổn định thuật ngữ/tên riêng/xưng hô đã khóa
+  • tự nhiên trong tiếng Việt
+  • giữ nhịp văn, cảm xúc và giọng kể gốc
+Anti-goals:
+  • không dịch từng chữ máy móc
+  • không Hán Việt hóa tên Nhật, Hàn, phương Tây, fandom, thương hiệu, kỹ thuật
+  • không áp VietPhrase/LuatNhan lên tên riêng đã khóa
+  • không đổi thuật ngữ đã khóa nếu văn cảnh giống nhau
+  • không dùng một bản dịch cứng cho từ đa nghĩa khi văn cảnh khác nhau
+  • không làm lộ thông tin ngoài POV nếu bản gốc chưa tiết lộ
+
+### Output Rules
+  • keep paragraph structure
+  • keep dialogue structure
+  • do not merge paragraphs
+  • do not split paragraphs unnecessarily
+  • preserve punctuation when reasonable
+  • convert chinese quotes to vietnamese
+  • remove unnecessary explanation
+  • output only translation
+  • do not add notes inside translation
+  • mark uncertain items for audit only
+
+### Tone Guidelines
+  • narration: tự nhiên, rõ ràng, có chất truyện
+  • dialogue: phù hợp thân phận, quan hệ, tuổi tác, quyền lực và bối cảnh
+  • ancient_setting: cổ phong vừa phải, không lạm dụng Hán Việt khó hiểu
+  • modern_setting: hiện đại, đời thường, không cổ hóa lời thoại
+  • game_system: rõ ràng, gọn, quen thuộc với văn phong game/system
+  • comedy: giữ nhịp hài nếu có
+  • serious: giữ sắc thái căng thẳng, trang trọng nếu có
+
+### Term Normalization
+Purpose: Chuẩn hóa thuật ngữ theo văn cảnh truyện, bao gồm chiêu thức, nghề nghiệp, chức vị, cảnh giới, kỹ năng, vật phẩm, danh hiệu, tổ chức, hệ thống, khái niệm thế giới quan và cụm cố định lặp lại.
+Core principles:
+  • context first
+  • not word by word
+  • same source can have different translation if context differs
+  • same source same context must be consistent
+  • same term type should keep style consistent
+  • locked translation only applies to matching context
+  • source plus type plus context equals translation
+Decision rules:
+  • Không dịch thuật ngữ chỉ theo mặt chữ.
+  • Một source có thể có nhiều bản dịch nếu văn cảnh khác nhau.
+  • Một bản dịch đã khóa chỉ áp dụng cho đúng loại văn cảnh đã khóa.
+  • Tên chiêu thức, cảnh giới, pháp bảo quan trọng nên dùng dạng Hán Việt chuẩn, viết hoa nếu là danh từ riêng.
+  • Vật phẩm phổ thông không cần Hán Việt hóa quá mức.
+  • Nghề nghiệp phải xét bối cảnh.
+  • Chức vị phải xét hệ thống xã hội.
+  • Nếu cùng source và cùng văn cảnh, phải giữ nhất quán.
+  • Nếu không chắc văn cảnh, đánh dấu audit.
+
+### Engine Rules
+  • use context pack
+  • use previous chapter summary
+  • use character profile
+  • use story timeline
+  • use glossary
+  • use name scan
+  • use segment context
+  • avoid over literal translation
+  • avoid over smoothing that changes meaning
+
+## Characters
+N/A
+
+## Glossary
+N/A
+
+## Known Entities (đã duyệt — BẮT BUỘC giữ đúng bản dịch này)
+  • 党胖子 → Đảng Phì Tử (person)
+  • 党起志 → Đảng Khởi Chí (person)
+  • 姬诚 → Cơ Thành (person)
+
+## Story Timeline (latest)
+
+
+### Summary
+Chapter 22 completed via pipeline.
+
+## Chapter 0023 - Chương 23: Lấy sức một người bẩy cả thế giới!
+
+### Summary
+Chapter 23 completed via pipeline.
+
+## Chapter 0024 - Chương 24: Cha và mẹ
+
+### Summary
+Chapter 24 completed via pipeline.
+
+## Chapter 0025 - Chương 25: Khởi đầu của sự kiện lớn
+
+### Summary
+Chapter 25 completed via pipeline.
+
+## Chapter 0026 - Chương 26: Nhiệm vụ, nhiệm vụ
+
+### Summary
+Chapter 26 completed via pipeline.
+
+## Chapter 0027 - Chương 27: Cuộc chiến của Kỵ sĩ
+
+### Summary
+Chapter 27 completed via pipeline.
+
+## Chapter 0028 - Chương 28: Liên quân tập kết
+
+### Summary
+Chapter 28 completed via pipeline.
+
+## Chapter 0029 - Chương 29: Hình ảnh thu nhỏ của chiến trường
+
+### Summary
+Chapter 29 completed via pipeline.
+
+## Chapter 0030 - Chương 30: Trong màn kịch và ngoài màn kịch
+
+### Summary
+Chapter 30 completed via pipeline.
+
+## Chapter 0031 - Chương 31: Vĩnh Hằng Kiêu Dương, Lưu Quang Kỵ Sĩ
+
+### Summary
+Chapter 31 completed via pipeline.
+
+## Chapter 0032 - Chương 32: Vài chuyện của Cục An ninh Quốc gia
+
+### Summary
+Chapter 32 completed via pipeline.
+
+## Chapter 0033 - Chương 33: Kế hoạch bổ toàn thế giới
+
+### Summary
+Chapter 33 completed via pipeline.
+
+## Chapter 0034 - Chương 34: Động thái của quốc gia
+
+### Summary
+Chapter 34 completed via pipeline.
+
+## Chapter 0035 - Chương 35: Thuyết phục, cách của đại gia
+
+### Summary
+Chapter 35 completed via pipeline.
+
+## Chapter 0035 - Chương 35: Thuyết phục, cách của đại gia
+
+### Summary
+Chapter 35 completed via pipeline.
+
+## Chapter 0036 - 0036 战力集结！
+
+### Summary
+Chapter 36 completed via pipeline.
+
+## Chapter 0037 - 0037 玲珑妖 ，玄黄塔！
+
+### Summary
+Chapter 37 completed via pipeline.
+
+## Chapter 0038 - 0038 皇天！后土！
+
+### Summary
+Chapter 38 completed via pipeline.
+
+## Chapter 0036 - 0036 战力集结！
+
+### Summary
+Chapter 36 completed via pipeline.
+
+## Chapter 0037 - 0037 玲珑妖 ，玄黄塔！
+
+### Summary
+Chapter 37 completed via pipeline.
+
+## Chapter 0038 - Chương 38: Hoàng Thiên! Hậu Thổ!
+
+### Summary
+Chapter 38 completed via pipeline.
+
+## Chapter 0036 - Chương 36: Tập kết chiến lực!
+
+### Summary
+Chapter 36 completed via pipeline.
+
+## Chapter 0037 - 0037 玲珑妖 ，玄黄塔！
+
+### Summary
+Chapter 37 completed via pipeline.
+
+## Chapter 0039 - 0039 现实的现状
+
+### Summary
+Chapter 39 completed via pipeline.
+
+## Chapter 0037 - 0037 玲珑妖 ，玄黄塔！
+
+### Summary
+Chapter 37 completed via pipeline.
+
+## Chapter 0039 - 0039 现实的现状
+
+### Summary
+Chapter 39 completed via pipeline.
+
+## Chapter 0037 - 0037 玲珑妖 ，玄黄塔！
+
+### Summary
+Chapter 37 completed via pipeline.
+
+## Chapter 0037 - 0037 玲珑妖 ，玄黄塔！
+
+### Summary
+Chapter 37 completed via pipeline.
+
+## Chapter 0039 - 0039 现实的现状
+
+### Summary
+Chapter 39 completed via pipeline.
+
+## Chapter 0040 - 0040 补丁
+
+### Summary
+Chapter 40 completed via pipeline.
+
+## Chapter 0041 - 0041 无限的触手，慢慢的包围
+
+### Summary
+Chapter 41 completed via pipeline.
+
+## Chapter 0042 - 0042 信仰，美利坚的选择
+
+### Summary
+Chapter 42 completed via pipeline.
+
+## Chapter 0037 - 0037 玲珑妖 ，玄黄塔！
+
+### Summary
+Chapter 37 completed via pipeline.
+
+
+## Source Chapter 37 - 0037 玲珑妖 ，玄黄塔！
+```json
+[
+  {
+    "segment_id": "0001",
+    "text": "# 第37章 玲珑妖 ，玄黄塔！"
+  },
+  {
+    "segment_id": "0002",
+    "text": "苍茫的大草原上郁郁葱葱，无一不在彰显着神祗的伟力。那在草原某一块不起眼的地方，一个人造的小太阳正在这片小区域内，挥洒着柔和的光辉。"
+  },
+  {
+    "segment_id": "0003",
+    "text": "“大家注意了，那亡灵巫师就在这地底下。现在这片区域已经被我们人为的改造成了光属性的剧集地，这对那巫师的伤害非常大，他一定会出现制止的！”党起志满是肉痛地看着那些人手里的神符。"
+  },
+  {
+    "segment_id": "0004",
+    "text": "一级太阳神符，一阶奇物，光明与太阳神殿的特产，能在一刻钟内照射出带有轻微治疗的光辉，对邪恶力量有一定的克制，不可重复使用。价值六枚神币！"
+  },
+  {
+    "segment_id": "0005",
+    "text": "“哎如果不是，在那神殿里我们实在是没有高级别玩家，我有何苦用数量来代替。”"
+  },
+  {
+    "segment_id": "0006",
+    "text": "正想着呢，只见这片草原的绿色正以肉眼可见的速度飞快的变得漆黑腐烂，一股极为恶心的腐臭味扑面而来。"
+  },
+  {
+    "segment_id": "0007",
+    "text": "“所有人都以保住自身生命为第一目标，现在就地隐藏。”党起志飞速的下达命令。"
+  },
+  {
+    "segment_id": "0008",
+    "text": "紧接着他就从上衣口袋里，掏出来一张有着神明云隶文字的符篆，“凌翔你们几个都过来，我来给你们加个状态呀。”姬诚几个刚到他身边，就见符篆上奇光闪过，只见姬诚六人身上隐隐有一层光膜覆盖。"
+  },
+  {
+    "segment_id": "0009",
+    "text": "六丁六甲符，四阶奇物，出自“僵尸先生”世界，能使六人在十分钟之内攻击与防御皆提升一个等级，最高不超过五级！价值三百七十枚神币。"
+  },
+  {
+    "segment_id": "0010",
+    "text": "这枚道符，是国家以不菲的代价才从僵尸先生世界里带出来的，其实这枚道符最应该是由六位四级的战力来使用，才是利益最大化，只可惜以现在的形式别说是四级了，就是三级，他们都没有找到，只能以二级的来凑数！"
+  },
+  {
+    "segment_id": "0011",
+    "text": "“现在能给你们加的都加了，记住你们的任务，无论怎么样都要撑过五分钟。”党起志说话的功夫，就有密密麻麻的骷髅，僵尸，亡灵等一系列的不死生物从地下爬了出来，将他们牢牢的围住了。"
+  },
+  {
+    "segment_id": "0012",
+    "text": "“我去，不是说这些不死生物都已经被神祗给清场了吗？那这些是从那里找出来的。”谷佳佳瞪大了眼，不由的说道。“白痴了吧，既然是亡灵巫师，那他制造亡灵的能力肯定的一等一的，这都好几天的功夫了，他能不造出些亡灵大军来护身吗。”"
+  },
+  {
+    "segment_id": "0013",
+    "text": "就这点时间，这几个人就已经和亡灵大军正面撞上了，就好像虎入羊群，几个人就像切菜砍瓜一样，没有任何一个亡灵是他们的一合之敌！“痛快啊，我终于体会到这无双割草的感觉了。”那个叫蒋齐的大叔仰天长笑，挥剑之间，颇有那无双武将的风范。"
+  },
+  {
+    "segment_id": "0014",
+    "text": "“不对，情况不对。”这时候，那一直没怎么说话的姚旭，皱着眉说道“那个亡灵巫师呢？他到哪去了。现在的这些亡灵分明就是一堆炮灰。都这种情况了，他怎么可能还不出现。”"
+  },
+  {
+    "segment_id": "0015",
+    "text": "“当然是要让把你们这群小虫子，一网打尽了。”一道音符以一种极为漠视生命的语气，在他们的不远处响起。"
+  },
+  {
+    "segment_id": "0016",
+    "text": "“不好，他就在我们旁边，大家注意看。”“晚了，魔法-黑暗天幕”"
+  },
+  {
+    "segment_id": "0017",
+    "text": "一道黑漆色的光环瞬间从他们只有十几步远的地方扩散开来，黑环里，光明不在，黑暗才是永恒！"
+  },
+  {
+    "segment_id": "0018",
+    "text": "只是眨眼的功夫，他们眼前的一切就完全被黑暗所笼罩，所有的光辉都被排除在外！隐约听见光环外传来几声痛苦的斯吟声，可以想象党起志花了大代价才弄出来的人造光明，不到一分钟就失败了。"
+  },
+  {
+    "segment_id": "0019",
+    "text": "“完蛋了，这反派人物竟然不话多，直接就干起来了，这不科学啊。”“别哔哔了，赶紧想办法，要不然咱们还得死一回。”"
+  },
+  {
+    "segment_id": "0020",
+    "text": "“有什么好想了，直接就上不就行了？”姬诚冷哼了一声，猛的一跺脚，整个人就向这这片黑暗里气息最强大的生物冲去。“咦，竟然还有小虫子敢进我的身？”那漠然的冷声好像在几人耳边响起。"
+  },
+  {
+    "segment_id": "0021",
+    "text": "“去你娘的，应该是你怎么敢让我进你的身，你这个纯法师！”姬诚一声怒吼，一道充斥的阳刚气血的气浪，直接就在那巫师身边炸开！"
+  },
+  {
+    "segment_id": "0022",
+    "text": "好像雷霆直接降在了这片黑暗里，气浪直接就将那黑暗天幕给撕开了，阳光又一次照了进来。那巫师直接就迎面撞上姬诚向他呼啸而来的阳刚气血，就是如他这样的人物也在瞬息间被冲的呆了一下！这就是机会，姬诚的气血在这时非但没有回落，反而又向上沸腾了一个台阶！"
+  },
+  {
+    "segment_id": "0023",
+    "text": "汹涌的气血如同长江大浪，一波接着一波，一浪盖过一浪，澎湃不休，顺着姬诚的拳印，向亡灵巫师体内涌去，瞬间那巫师就被好几十块烧得通红的铁块给烙在身上！"
+  },
+  {
+    "segment_id": "0024",
+    "text": "巫师的身体受到了创伤！他明显感到这个武者的力量，竟隐隐能沟通被他封印在体内的太阳神的神力！他强忍住创痛，伸手向姬诚一挥，一道白骨箭，直接在空中形成，以超星赶月的速度向姬诚射去！正是亡灵魔法-白骨箭！"
+  },
+  {
+    "segment_id": "0025",
+    "text": "如此近的距离，姬诚哪能躲得过？就见他刚刚将身体偏过了一点，那白骨箭就已经射中了他，并带着他直接冲出了几十米开外！"
+  },
+  {
+    "segment_id": "0026",
+    "text": "可还没等巫师将姬诚给他的创伤压下，就见闪耀着不同光辉的长剑直接向他砍来。长剑的光辉各有不同，却又同出一辙，相互之间，光辉彼此呼应，直接就连成一片！"
+  },
+  {
+    "segment_id": "0027",
+    "text": "这正是凌翔他们五个在那护送任务中得到的奖励！虽然在此之前，他们联手的那一次连那位一招都过不去，堪称是扑到死了。"
+  },
+  {
+    "segment_id": "0028",
+    "text": "可是现在这巫师可是与那位传奇强者有着天壤之别，而他们因为“六丁六甲符”的帮助，实力明显又上升了一个层次！两者一减一加，差别可就大了去了。"
+  },
+  {
+    "segment_id": "0029",
+    "text": "五柄长剑不分先后，分别斩在了那巫师身上不同的地方。光辉烙印，在他身上闪现，痛呼不断隐现。"
+  },
+  {
+    "segment_id": "0030",
+    "text": "“你们几个都给我死去！”黑漆的魔力完全从巫师的身体中炸开，犹如实质的魔力直接就将他们五人砸的挂在了半空中，亡灵魔力在瞬息之间就腐蚀掉了他们的五脏六腑，周身骨骼！"
+  },
+  {
+    "segment_id": "0031",
+    "text": "啪的几声，几个人的尸体就落在了草丛之上。几个人的动作兔起鹘落，敏捷异常。短短几分钟就已经分出了胜负！看的在最后边的党起志都快站不住脚了。"
+  },
+  {
+    "segment_id": "0032",
+    "text": "“怎么可能会这样？不应该啊。”“喂，党胖子，你还有什么招赶紧使出来，要不我们都得玩完。”一旁的王康使劲地抓着党起志的脖子，用力说道。"
+  },
+  {
+    "segment_id": "0033",
+    "text": "“有办法，还有一个办法。”党起志连忙挣开王康的手，几步快跑，就来到了那个小女孩的面前，以非常谦恭地语气说道“小祖宗，只要你能让你的魔宠出手，你要什么都行。”"
+  },
+  {
+    "segment_id": "0034",
+    "text": "“这可是你说的。”女孩听了，眼睛都笑成了一个小月牙，“你可不要反悔哦”"
+  },
+  {
+    "segment_id": "0035",
+    "text": "“不会，不会，小祖宗，你就赶快出手吧。你看那家伙现在就已经来了。”"
+  },
+  {
+    "segment_id": "0036",
+    "text": "女孩见状深深的吸了口气，大声喊到“玲珑，你快出来呀，有东西欺负我了！”"
+  },
+  {
+    "segment_id": "0037",
+    "text": "话音未落，只见女孩的身体里浮出一个闪烁着七彩光芒的球状生物。那生物在空中滴溜溜的直转，在看到这里的场景后，虚空一跃，就出现再了那亡灵巫师的上空，它身躯变幻竟便做了一座三十三层的玄黄色的小塔，刹那间好像整个空间都弥漫出一片氤氲弥漫的玄黄二气，那容纳天地，包罗万有，幽幽暗暗，恍恍惚惚，诸邪辟易，万法不侵的大意境在宝塔之上运转不休！"
+  },
+  {
+    "segment_id": "0038",
+    "text": "“我曰，党胖子，你们竟还真有藏着这样的大杀器！竟然真是七彩玲珑妖！”"
+  }
+]
+```
+
+## Machine Draft (dictionary pre-translation, coverage ~1.0)
+Đây là bản dịch máy thô theo từ điển (Hán-Việt/VietPhrase). HÃY TINH CHỈNH thành văn xuôi tiếng Việt tự nhiên, đúng văn phong, GIỮ thuật ngữ đã khóa trong Glossary; CHỈ sửa chỗ sai/thô. KHÔNG dịch lại từ đầu nếu bản thô đã đúng nghĩa.
+```json
+[
+  {
+    "segment_id": "0001",
+    "draft": "# thứ 37 chương linh lung yêu quái， màu đen hoàng tháp！"
+  },
+  {
+    "segment_id": "0002",
+    "draft": "mênh mông trên đại thảo nguyên xanh um tươi tốt， không 1 đi vắng hiện lộ rõ ràng thần chi vĩ lực。 đó đang thảo nguyên nào đó 1 đồng không đáng chú ý chỗ， 1 cái nhân tạo mặt trời nhỏ đang này khu cư xá vực nội， huy sái nhìn ánh sáng nhu hòa。"
+  },
+  {
+    "segment_id": "0003",
+    "draft": "“ mọi người chú ý， đó vong linh vu sư thì tại đây dưới nền đất。 bây giờ phiến khu vực này đã bị chúng ta cố ý cải tạo thành ánh sáng thuộc tính kịch tập địa， chuyện này đối với đó phù thuỷ làm hại phi thường lớn， hắn 1 chắc chắn xuất hiện ngăn lại！” Đảng Khởi Chí tràn đầy đau lòng nhìn những người kia trong tay thần phù。"
+  },
+  {
+    "segment_id": "0004",
+    "draft": "1 cấp mặt trời thần phù， 1 giai đơn vật， quang minh và thái dương thần điện đặc sản， có thể đang 1 khắc đồng hồ trong chiếu xạ ra mang theo rất nhỏ chữa trị quang huy， đối với tà ác lực lượng có 1 định khắc chế， không thể lặp lại sử dụng。 giá trị 6 mai thần tệ！"
+  },
+  {
+    "segment_id": "0005",
+    "draft": "“ haizz nếu không phải， ở chỗ nào trong thần điện chúng ta thật sự là không có cấp bậc cao người chơi， ta có gì khổ dùng số lượng để thay thế。”"
+  },
+  {
+    "segment_id": "0006",
+    "draft": "đang nghĩ ngợi đâu， chỉ thấy mảnh này thảo nguyên màu xanh lá chính lấy tốc độ mà mắt thường cũng có thể thấy được thật nhanh trở nên đen nhánh hư thối， 1 cỗ cực là buồn nôn mùi hôi thối đập vào mặt。"
+  },
+  {
+    "segment_id": "0007",
+    "draft": "“ tất cả mọi người dùng bảo trụ tự thân mạng sống là thứ 1 mục tiêu， bây giờ ngay tại chỗ ẩn tàng。” Đảng Khởi Chí phi tốc ra lệnh。"
+  },
+  {
+    "segment_id": "0008",
+    "draft": "đúng lúc này hắn thì theo trong túi áo trên， lấy ra đến 1 tấm có thần linh mây lệ văn tự phù triện，“ lăng liệng mấy người các ngươi đều đến， ta tới cấp cho các ngươi thêm cái trạng thái nha。” Cơ Thành vài cái vừa tới hắn bên cạnh， thì thấy phù triện lên kỳ quang hiện lên， chỉ thấy Cơ Thành 6 người trên người ẩn ẩn có 1 tầng màng ánh sáng bao trùm。"
+  },
+  {
+    "segment_id": "0009",
+    "draft": "6 đinh 6 giáp phù， 4 giai đơn vật， xuất từ“ cương thi tiên sinh” thế giới， có thể dùng 6 người đang 10 phút trong công kích và phòng ngự đều tăng lên 1 cái đẳng cấp， tối cao không vượt qua 5 cấp！ giá trị 370 mai thần tệ。"
+  },
+  {
+    "segment_id": "0010",
+    "draft": "này mai đạo phù， là đất nước dùng không ít giá phải trả mới từ cương thi tiên sinh thế giới bên trong mang ra tới， thực ra này mai đạo phù tối hẳn là do 6 vị 4 cấp chiến lực đến sử dụng， mới là lợi ích tối đại hóa， chỉ tiếc dùng bây giờ hình thức đừng nói là 4 cấp， đúng thế 3 cấp， bọn họ đều không có tìm được， chỉ có thể dùng 2 cấp đến góp đủ số！"
+  },
+  {
+    "segment_id": "0011",
+    "draft": "“ bây giờ có thể cho các ngươi thêm đều tăng thêm， nhớ kỹ nhiệm vụ của các ngươi， bất kể như thế nào đều muốn chống nổi 5 phút。” Đảng Khởi Chí nói chuyện công phu， thì có lít nha lít nhít bộ xương khô， cương thi， vong linh chờ 1 hệ liệt bất tử sinh vật từ dưới đất bò lên ra đây， đem bọn hắn một mực vây quanh。"
+  },
+  {
+    "segment_id": "0012",
+    "draft": "“ ta đi， không phải nói những thứ này bất tử sinh vật đều đã bị thần chi cho thanh tràng không？ đó những này là theo chỗ nào tìm ra tới。” cốc tốt tốt trừng lớn mắt， không khỏi nói。“ ngu ngốc rồi đi， nếu là vong linh vu sư， vậy hắn chế tạo vong linh khả năng khẳng định 1 chờ 1， này đều vài ngày công phu， hắn có thể không tạo ra chút ít vong linh đại quân đến hộ thân không。”"
+  },
+  {
+    "segment_id": "0013",
+    "draft": "thì này chút thời gian， mấy cái này người liền đã và vong linh đại quân chính diện đụng phải， thật giống như hổ vào bầy dê， mấy người dường như dừng rau chặt drama 1 hình dáng， không có bất kỳ cái gì 1 cái vong linh là bọn họ 1 hợp tới địch！“ thống khoái a， ta cuối cùng cảm nhận được này Vô Song cắt cỏ cảm giác。” cái đó gọi tưởng đủ đại thúc ngửa mặt lên trời cười dài， huy kiếm trong lúc đó， rất có đó Vô Song võ tướng phong phạm。"
+  },
+  {
+    "segment_id": "0014",
+    "draft": "“ không đúng， tình huống không đúng。” lúc này， đó 1 cắm thẳng làm sao nói chuyện diêu húc， cau mày nói“ cái đó vong linh vu sư đâu？ hắn đi nơi nào。 bây giờ những vong linh này rõ ràng đúng thế 1 đống bia đỡ đạn。 đều kiểu này tình huống， hắn làm sao có thể có thể trả không xuất hiện。”"
+  },
+  {
+    "segment_id": "0015",
+    "draft": "“ đương nhiên là muốn khiến đem các ngươi bọn này tiểu côn trùng， 1 lưới đánh tan。” 1 đạo âm phù dùng 1 loại cực là coi thường mạng sống ngữ khí， đang cách đó không xa của bọn họ vang lên。"
+  },
+  {
+    "segment_id": "0016",
+    "draft": "“ không tốt， hắn thì đang chúng ta bên cạnh， mọi người chú ý nhìn xem。”“ muộn， ma pháp- tối tăm màn trời”"
+  },
+  {
+    "segment_id": "0017",
+    "draft": "1 đạo nước sơn đen sắc quang hoàn trong nháy mắt theo bọn họ chỉ có 10 xa mấy bước chỗ khuếch tán ra đến， đen vòng trong， quang minh đi vắng， tối tăm mới là vĩnh hằng！"
+  },
+  {
+    "segment_id": "0018",
+    "draft": "chỉ là thời gian trong nháy mắt， bọn họ trước mắt 1 dừng thì hoàn toàn bị tối tăm bao phủ， tất cả ánh sáng huy cũng bị bài trừ bên ngoài！ mơ hồ nghe quang hoàn ngoại truyện đến vài tiếng đau khổ tư tiếng rên， có thể tưởng tượng Đảng Khởi Chí tốn lớn giá phải trả mới làm ra nhân tạo quang minh， không đến 1 phút thì thất bại。"
+  },
+  {
+    "segment_id": "0019",
+    "draft": "“ chết chắc rồi， này nhân vật phản diện nhân vật lại không nói gì nhiều， trực tiếp thì làm đi lên， này không khoa học a。”“ đừng tất tất， vội vàng nghĩ cách， bằng không chúng ta còn phải qua đời 1 về。”"
+  },
+  {
+    "segment_id": "0020",
+    "draft": "“ có cái gì tốt suy nghĩ， trực tiếp liền lên không được sao？” Cơ Thành hừ lạnh 1 âm thanh， đột nhiên 1 dậm chân， cả người thì hướng này mảnh này trong bóng tối hơi thở sinh vật mạnh mẽ nhất phóng đi。“ a， lại còn có tiểu côn trùng dám vào thân thể của ta？” đó hờ hững lạnh giọng hình như đang mấy người vang lên bên tai。"
+  },
+  {
+    "segment_id": "0021",
+    "draft": "“ mẹ ngươi chứ， hẳn là ngươi làm sao dám để cho ta tiến thân thể của ngươi， ngươi cái này thuần pháp sư！” Cơ Thành 1 tiếng rống giận， 1 đạo tràn ngập dương cương khí huyết khí lãng， trực tiếp thì ở chỗ nào phù thuỷ bên cạnh oanh tạc！"
+  },
+  {
+    "segment_id": "0022",
+    "draft": "hình như Lôi Đình trực tiếp hàng đang mảnh này trong bóng tối， khí lãng trực tiếp liền đem đó tối tăm màn trời cho xé mở， ánh nắng lại 1 lần soi đi vào。 đó phù thuỷ trực tiếp thì đối diện đụng vào Cơ Thành hướng hắn gào thét mà đến dương cương khí huyết， đúng thế thích hợp nhân vật như hắn cũng trong nháy mắt bị xông ngây người 1 hạ！ là cái này cơ hội， Cơ Thành khí huyết tại lúc này không những không có hạ xuống， ngược lại lại hướng lên sôi trào 1 cái bậc thềm！"
+  },
+  {
+    "segment_id": "0023",
+    "draft": "mãnh liệt khí huyết như là Trường Giang sóng lớn， 1 sóng tiếp lấy 1 sóng， 1 sóng che lại 1 sóng， bành trướng không ngớt， theo Cơ Thành quyền ấn， hướng vong linh vu sư thể nội dũng mãnh lao tới， trong nháy mắt đó phù thuỷ thì bị mấy 10 đồng thiêu đến đỏ bừng khối sắt cho in dấu mang theo lên！"
+  },
+  {
+    "segment_id": "0024",
+    "draft": "phù thuỷ cơ thể nhận lấy thương tích！ hắn rõ ràng cảm thấy cái võ giả này lực lượng， lại ẩn ẩn có thể câu thông bị hắn phong ấn tại thể nội mặt trời thần thần lực！ hắn cố nén đau vì bị thương， đưa tay hướng Cơ Thành 1 vung， 1 đạo xương trắng tiễn， trực tiếp trên không trung hình thành， dùng siêu tinh đuổi nguyệt tốc độ hướng Cơ Thành vọt tới！ đúng vậy vong linh ma pháp- xương trắng tiễn！"
+  },
+  {
+    "segment_id": "0025",
+    "draft": "khoảng cách gần như thế， Cơ Thành sao có thể trốn được？ thì thấy hắn vừa mới đem cơ thể nghiêng 1 giờ， đó xương trắng tiễn liền đã bắn trúng hắn， cũng mang theo hắn vọt thẳng ra mấy 10 gạo có hơn！"
+  },
+  {
+    "segment_id": "0026",
+    "draft": "còn không chờ phù thuỷ đem Cơ Thành cho hắn thương tích đè xuống， thì thấy lóng lánh khác nhau quang huy trường kiếm trực tiếp hướng hắn bổ tới。 trường kiếm quang huy đều có khác nhau， nhưng lại đồng xuất 1 triệt， tương hỗ trong lúc đó， quang huy lẫn nhau hô ứng， trực tiếp liền nối liền thành 1 phiến！"
+  },
+  {
+    "segment_id": "0027",
+    "draft": "đây chính là lăng liệng bọn họ 5 cái ở chỗ nào hộ tống nhiệm vụ bên trong đạt được ban thưởng！ mặc dù trước đó， bọn họ liên thủ đó 1 lần ngay cả vị kia 1 chiêu đều không qua được， có thể nói là bổ nhào vào chết rồi。"
+  },
+  {
+    "segment_id": "0028",
+    "draft": "nhưng là bây giờ này phù thuỷ nhưng và vị kia truyền kỳ cường giả có cách biệt một trời， mà bọn họ vì“ 6 đinh 6 giáp phù” giúp đỡ， thực lực rõ ràng lại tăng lên 1 cái cấp độ！ 2 người 1 giảm 1 thêm， khác biệt nhưng lớn lắm đi。"
+  },
+  {
+    "segment_id": "0029",
+    "draft": "5 thanh trường kiếm không phân tuần tự， phân biệt trảm tại đó phù thuỷ trên người khác nhau chỗ。 quang huy lạc ấn， đang hắn trên người thoáng hiện， kêu đau không ngừng ẩn hiện。"
+  },
+  {
+    "segment_id": "0030",
+    "draft": "“ mấy người các ngươi đều chết cho ta đi！” nước sơn đen ma lực đầy đủ theo phù thuỷ trong thân thể oanh tạc， giống như thực chất ma lực trực tiếp liền đem bọn họ 5 người đập treo tại trong giữa không trung， vong linh ma lực đang chớp mắt trong lúc đó thì ăn mòn rụng mất bọn họ 5 bẩn 6 phủ， quanh thân xương cốt！"
+  },
+  {
+    "segment_id": "0031",
+    "draft": "tách vài tiếng， mấy người thi thể thì rơi vào bụi cỏ phía trên。 mấy người động tác động tác mau lẹ， nhanh nhẹn dị thường。 ngắn ngủi mấy phút sau liền đã phân ra được thắng bại！ nhìn xem đang tối phía sau Đảng Khởi Chí đều nhanh chân đứng không vững。"
+  },
+  {
+    "segment_id": "0032",
+    "draft": "“ làm sao lại như vậy？ không nên nên a。”“ uy， Đảng Phì Tử， ngươi còn có cái gì chiêu vội vàng sử xuất đến， nếu không chúng ta đều phải chơi xong。” 1 bên cạnh vương khang dùng sức địa tóm lấy Đảng Khởi Chí cổ， dùng sức nói。"
+  },
+  {
+    "segment_id": "0033",
+    "draft": "“ có cách， còn có 1 cái cách。” Đảng Khởi Chí vội vã tránh ra vương khang tay， mấy bước chạy mau， liền đi tới tiểu nữ hài kia trước mặt， dùng rất khiêm cung địa ngữ khí nói“ tiểu tổ tông， chỉ cần ngươi có thể khiến cho ma sủng của ngươi ra tay， ngươi muốn cái gì đều được。”"
+  },
+  {
+    "segment_id": "0034",
+    "draft": "“ này nhưng ngươi nói。” cô gái nghe， con mắt đều cười đã thành 1 cái tiểu nguyệt răng，“ ngươi cũng không muốn đổi ý a”"
+  },
+  {
+    "segment_id": "0035",
+    "draft": "“ sẽ không， sẽ không， tiểu tổ tông， ngươi liền mau ra tay đi。 ngươi nhìn xem tên kia bây giờ liền đã đến rồi。”"
+  },
+  {
+    "segment_id": "0036",
+    "draft": "cô gái thấy thế hít một hơi thật sâu， lớn tiếng thét lên“ linh lung， ngươi nhanh đến ra đây nha， có thứ bắt nạt ta！”"
+  },
+  {
+    "segment_id": "0037",
+    "draft": "lời còn chưa dứt， chỉ thấy cô gái trong thân thể trồi lên 1 cái lóe ra 7 thải quang mang hình cầu sinh vật。 đó sinh vật trên không trung quay tròn trực chuyển， đang nhìn đến nơi này tràng cảnh sau， hư không 1 vọt， thì xuất hiện lại đó vong linh vu sư vùng trời， nó thân thể biến ảo lại liền làm 1 tòa 33 tầng màu đen màu vàng tiểu tháp， trong chốc lát hình như tất cả không gian đều tràn ngập ra 1 phiến mờ mịt tràn ngập màu đen hoàng 2 giận dữ， đó dung nạp đất trời， bao quát 10000 có， yếu ớt âm thầm， hốt hoảng， chư tà lui tránh， 10000 pháp bất xâm chủ quan cảnh đang bảo tháp phía trên không ngừng vận chuyển！"
+  },
+  {
+    "segment_id": "0038",
+    "draft": "“ ta nói， Đảng Phì Tử， các ngươi lại vẫn thật có cất giấu dạng này đại sát khí！ lại thực sự là 7 màu linh lung yêu quái！”"
+  }
+]
+```
+
+
+## Yêu cầu chất lượng (BẮT BUỘC)
+Bạn là dịch giả tiểu thuyết chuyên nghiệp, KHÔNG phải máy dịch. Mục tiêu: bản dịch HAY, MƯỢT, tự nhiên như văn học Việt.
+- Văn xuôi: câu chữ trôi chảy, đúng nhịp, giàu hình ảnh; KHÔNG dịch từng chữ máy móc, KHÔNG để cấu trúc câu Hán lộ ra.
+- Đối thoại: lời thoại phải sống động, đúng thân phận/tuổi tác/quan hệ/quyền lực của nhân vật; xưng hô nhất quán với quan hệ đã thiết lập (ta/ngươi/hắn/nàng/lão phu/tại hạ...). Cổ trang dùng cổ phong vừa phải, hiện đại dùng lời đời thường.
+- DẤU CÂU ĐỐI THOẠI: BẮT BUỘC giữ dấu ngoặc kép "..." cho MỌI lời thoại có trong bản gốc (bản gốc dùng “...”). KHÔNG được bỏ dấu ngoặc kép, KHÔNG để lời thoại trộn lẫn vào văn kể. Mỗi câu nói của nhân vật phải nằm trong "..." như bản gốc.
+- Tên riêng & thuật ngữ: PHẢI dùng đúng bản dịch trong "Known Entities" và Glossary đã khóa; giữ tuyệt đối nhất quán xuyên suốt. KHÔNG tự đổi cách dịch một cái tên đã xuất hiện.
+- KHÔNG Hán-Việt hóa tên Nhật/Hàn/phương Tây/thương hiệu/thuật ngữ kỹ thuật.
+- Giữ trọn cảm xúc, giọng kể và sắc thái (căng thẳng, hài, bi) của bản gốc.
+- Nếu có "Machine Draft", chỉ dùng làm gợi ý nghĩa; viết lại cho hay, đừng bê nguyên.
+
+## Output Format
+CRITICAL INSTRUCTION: You MUST translate the source text EXACTLY paragraph by paragraph, preserving the original order perfectly. DO NOT skip, drop, merge, or reorder any paragraphs. Each paragraph in the source MUST be translated. Do NOT repeat the chapter title inside the segments — the title goes only in "chapter_title_vi".
+Return ONLY valid JSON matching this schema:
+{
+  "chapter_number": 37,
+  "chapter_title_vi": "Chương 37: <Vietnamese title>",
+  "segments": [
+    {
+      "segment_id": "XXXX",
+      "source": "...",
+      "target": "..."
+    }
+  ]
+}

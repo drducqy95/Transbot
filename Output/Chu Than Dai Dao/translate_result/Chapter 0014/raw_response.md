@@ -1,0 +1,88 @@
+```json
+{
+  "chapter_number": 14,
+  "chapter_title_vi": "Chương 14: Đã là vô hạn thì sao có thể thiếu Resident Evil chứ?",
+  "segments": [
+    {
+      "segment_id": "0001",
+      "source": "# 第14章 身为无限怎么可能没有生化危机？",
+      "target": "# Chương 14: Đã là vô hạn thì sao có thể thiếu Resident Evil chứ?"
+    },
+    {
+      "segment_id": "0002",
+      "source": "又是一天晚上，姬诚早早的坐在床上，正修炼二级武技黑铁之躯!在他获得的俩种武技中重击是完全的攻击法门，而黑铁之躯则是真正的修炼法门，按照国术里的说法，这就是打法与练法的区别。原本黑铁之躯的修炼需要见习骑士以顽强的意志不断以重物击打肉体，在配合独有的呼吸法门，不断壮大自身的肉体与意志。最后以不可思议的意志从肉体之中压榨出属于自己的超凡灵光!",
+      "target": "Lại là một buổi tối, Cơ Thành đã sớm ngồi trên giường, đang tu luyện võ kỹ cấp hai - Thân Thể Hắc Thiết! Trong hai loại võ kỹ hắn nhận được, Trọng Kích hoàn toàn là pháp môn tấn công, còn Thân Thể Hắc Thiết mới thực sự là pháp môn tu luyện. Theo cách nói trong quốc thuật, đây chính là sự khác biệt giữa đấu pháp và luyện pháp. Vốn dĩ, việc tu luyện Thân Thể Hắc Thiết đòi hỏi kỵ sĩ tập sự phải có ý chí ngoan cường, không ngừng dùng vật nặng đánh vào thân thể, phối hợp với pháp môn hô hấp độc đáo để không ngừng củng cố cả thân thể lẫn ý chí. Cuối cùng, dùng ý chí khó tin đó ép ra linh quang siêu phàm thuộc về riêng mình từ trong thể xác!"
+    },
+    {
+      "segment_id": "0003",
+      "source": "本来这一过程是极奇煎熬与痛苦的。可姬诚凭借着乾元换骨丹，直接就将他的身体脱胎换骨，身体内纯净的好像刚出生的婴儿一般!“乾元换骨丹，不愧是仙葫是世界里的中品灵丹，我只服用的三分之一，就有这样的效果，最起码省下我俩年的时间。”姬诚想到这里，心里不觉有些可惜，乾元换骨丹毕竟是仙道灵丹，它对西方魔幻类的力量作用并没有想象中那么大，“可惜啊，如果我有修仙类的功法的话，我现在起码也可以说是练气期了。”姬诚感受着身体内那隐隐要喷薄而出，却又无法抓住的超凡力量，不禁有些头疼。对照黑铁之躯的描述，他明白这就是他的意志无法跟的上肉体的进步，无法压榨出超凡灵光的体现!乾元换骨丹虽然给了他完美的肉体，但却无法加强他的意志，所以想要突破二阶，还是要靠自己啊。",
+      "target": "Lẽ ra quá trình này vô cùng dày vò và đau đớn. Nhưng Cơ Thành dựa vào Càn Nguyên Hoán Cốt Đan, trực tiếp làm cho thân thể lột xác, độ thuần khiết bên trong hệt như đứa trẻ sơ sinh! \"Càn Nguyên Hoán Cốt Đan, quả không hổ là trung phẩm linh đan trong thế giới Tiên Hồ, ta chỉ mới dùng một phần ba mà đã có hiệu quả thế này, ít nhất cũng giúp ta tiết kiệm được hai năm thời gian.\" Nghĩ đến đây, Cơ Thành bất giác cảm thấy hơi tiếc nuối. Càn Nguyên Hoán Cốt Đan dù sao cũng là linh đan của tiên đạo, tác dụng của nó đối với sức mạnh của hệ ma huyễn phương Tây không lớn như trong tưởng tượng. \"Đáng tiếc thật, nếu ta có công pháp loại tu tiên, bây giờ ít nhất cũng có thể nói là đang ở kỳ Luyện Khí rồi.\" Cơ Thành cảm nhận được luồng sức mạnh siêu phàm mờ ảo như sắp phun trào nhưng lại không thể nắm bắt được trong cơ thể, không khỏi cảm thấy đau đầu. Đối chiếu với mô tả của Thân Thể Hắc Thiết, hắn hiểu đây chính là biểu hiện cho việc ý chí không theo kịp sự tiến bộ của thể xác, không cách nào ép ra được linh quang siêu phàm! Càn Nguyên Hoán Cốt Đan tuy mang đến cho hắn một thân thể hoàn mỹ, nhưng lại không thể củng cố ý chí của hắn, thế nên muốn đột phá lên bậc hai, hắn vẫn phải tự dựa vào chính mình thôi."
+    },
+    {
+      "segment_id": "0004",
+      "source": "正想着耳边传来系统声“请玩家主意，无限游戏以开启，是否进入？”“进入!”说话间，姬诚的意识又穿越了时空。这一次姬诚并没有经历命运主神那一遭，刚一睁眼，就看见铁塔壮汉哈特卡斯就站在他的面前。",
+      "target": "Đang suy nghĩ thì bên tai vang lên tiếng hệ thống: \"Xin người chơi chú ý, Trò Chơi Vô Hạn đã mở, có tiến vào không?\" \"Tiến vào!\" Vừa dứt lời, ý thức của Cơ Thành lại xuyên qua không gian và thời gian. Lần này Cơ Thành không phải trải qua màn của Vận Mệnh Chủ Thần nữa, vừa mở mắt ra, hắn đã thấy gã tráng hán cao to như tháp sắt Hartkas đứng ngay trước mặt mình."
+    },
+    {
+      "segment_id": "0005",
+      "source": "“咦，怎么一天不见，你的力量涨的这么快？”哈特卡斯说着朝姬诚遥遥点出一指，呼吸之间，姬诚只感觉一股浓的化不开的血腥味，带着骑士的冲锋声，向他冲来!姬诚恍惚觉得自己又到了昨天那平原战场之上，条件反射，他一个冲拳就迎了上去，正是一级武技——重击。聚集他全身力量在此一击!“没意思，也太弱了吧。”姬诚耳边传来哈特卡斯浑厚的声音，再看过去，哪有什么血腥味，骑士的冲锋声？只有他一个人摆出一个挥拳的动作立在哈特卡斯的不远处。“你的意志太薄弱了，随便一个精神冲击下去，就把你吓成这样，也太对不起你这么强的力量吧？”哈特卡斯背着手指点道“肉体与意志应该是齐头并进的，否则会对你进阶二阶造成极大的干扰的。不过也没什么，毕竟你才一阶，有的是机会弥补。”“那我该怎么做呢。”姬诚十分虚心的问道。自己的情况自己清楚，这种有力无处使得感觉简直太难受了。",
+      "target": "\"Hửm, sao mới một ngày không gặp mà sức mạnh của ngươi đã tăng nhanh như vậy?\" Hartkas vừa nói vừa chỉ tay về phía Cơ Thành từ xa. Trong khoảnh khắc, Cơ Thành chỉ cảm thấy một mùi máu tanh nồng nặc không thể xua tan, mang theo tiếng xung phong của kỵ sĩ lao về phía mình! Cơ Thành bàng hoàng có cảm giác như mình lại quay trở về chiến trường trên bình nguyên ngày hôm qua. Theo phản xạ có điều kiện, hắn vung ra một cú đấm lao tới nghênh đón, chính là võ kỹ cấp một - Trọng Kích. Toàn bộ sức mạnh của hắn đều tụ tập ở đòn này! \"Chán thật, yếu quá đi mất.\" Bên tai Cơ Thành vang lên giọng nói trầm đục của Hartkas. Hắn nhìn sang, làm gì có mùi máu tanh hay tiếng xung phong của kỵ sĩ nào chứ? Chỉ có một mình hắn đang bày ra tư thế vung quyền đứng cách Hartkas không xa. \"Ý chí của ngươi quá yếu ớt, chỉ một đòn xung kích tinh thần tùy tiện đã dọa ngươi sợ thành thế này, như vậy cũng quá có lỗi với sức mạnh lớn như thế của ngươi rồi nhỉ?\" Hartkas chắp tay sau lưng chỉ điểm: \"Thể xác và ý chí nên song hành cùng nhau, nếu không sẽ tạo thành cản trở rất lớn cho việc ngươi thăng cấp lên bậc hai. Nhưng cũng chẳng sao, dù gì ngươi mới ở bậc một, có đầy cơ hội để bù đắp.\" \"Vậy ta nên làm thế nào đây?\" Cơ Thành vô cùng khiêm tốn hỏi. Tình trạng của mình bản thân hắn rõ nhất, cái cảm giác có sức mạnh mà không có chỗ dùng này quả thực quá khó chịu."
+    },
+    {
+      "segment_id": "0006",
+      "source": "“很简单，就一句话。”哈特卡斯语气凝重了许多，”那就是战斗，不停得战斗！战斗到你精疲力尽，战斗到你突破极限！”哈特卡斯指了指学院，“自从你完成试炼后，我们艾奇泰克骑士学院的骑士任务就已经向你开放了，如果你有时间可以多看看，里面可是有很多适合你的任务哦。要知道你们在骑士学院所学习的每一个武技都需要神币来购买的，没有神币，你们将寸步难行！而获得神币最简单的办法就是完成我们的骑士任务，甚至有些任务，你完成的好的话，不仅能获得神币，还能获得你能想象的一切物品！所以加油吧，少年！”",
+      "target": "\"Rất đơn giản, chỉ một câu thôi.\" Giọng điệu của Hartkas trở nên nghiêm trọng hơn nhiều: \"Đó là chiến đấu, không ngừng chiến đấu! Chiến đấu đến khi ngươi kiệt sức, chiến đấu đến khi ngươi phá vỡ giới hạn!\" Hartkas chỉ tay về phía học viện: \"Từ sau khi ngươi hoàn thành thí luyện, nhiệm vụ kỵ sĩ của Học viện Kỵ sĩ Aiqitaike chúng ta đã mở ra cho ngươi rồi. Nếu có thời gian, ngươi có thể xem thử, trong đó có rất nhiều nhiệm vụ phù hợp với ngươi đấy. Phải biết rằng, mỗi một võ kỹ mà các ngươi học được trong Học viện Kỵ sĩ đều cần dùng thần tệ để mua, không có thần tệ, các ngươi sẽ nửa bước khó đi! Mà cách đơn giản nhất để kiếm được thần tệ là hoàn thành nhiệm vụ kỵ sĩ của chúng ta. Thậm chí một số nhiệm vụ, nếu ngươi hoàn thành tốt, không chỉ nhận được thần tệ, mà còn có thể nhận được mọi vật phẩm mà ngươi có thể tưởng tượng ra! Cho nên cố lên nhé, thiếu niên!\""
+    },
+    {
+      "segment_id": "0007",
+      "source": "哈特卡斯说话间，渐行渐远，声音逐渐消失不见。“这个B装的，我给一百分。”姬诚看着哈特卡斯的背影在心中默默吐槽道。虽然哈特卡斯装B不止，但他说的的确是实话，自己确实需要用战斗来磨合体内的力量。他默问道：“系统，艾奇泰克骑士学院的骑士任务能显示出来吗？”一个念头，眼前就出现了一道光幕。",
+      "target": "Hartkas vừa nói vừa dần đi xa, giọng nói cũng nhỏ dần rồi biến mất. \"Pha làm màu này, ta cho một trăm điểm.\" Cơ Thành nhìn bóng lưng Hartkas mà thầm châm chọc trong lòng. Mặc dù Hartkas thích ra vẻ, nhưng những gì gã nói đều là sự thật, bản thân hắn quả thực cần dùng chiến đấu để mài giũa sức mạnh trong cơ thể. Hắn thầm hỏi: \"Hệ thống, nhiệm vụ kỵ sĩ của Học viện Kỵ sĩ Aiqitaike có thể hiển thị ra không?\" Ý nghĩ vừa dứt, một màn hình ánh sáng liền hiện ra trước mắt."
+    },
+    {
+      "segment_id": "0008",
+      "source": "光幕的最上方就是无限奇物榜几个大字，在下面就是艾奇泰克骑士学院的字样，而骑士任务就出现在艾奇泰克骑士学院的分支中。想了想，姬诚随手点开了无限奇物榜，心中妄想道“我是虽然只有15枚神币，可万一能买到好东西，那不赚大了？”可现实与幻想的差距实在是有点大，姬诚只看了一眼，就觉一口老血卡在喉咙口不吐不快。",
+      "target": "Nằm ở phần trên cùng của màn hình là mấy chữ to \"Bảng Kỳ Vật Vô Hạn\", phía dưới là dòng chữ \"Học viện Kỵ sĩ Aiqitaike\", còn nhiệm vụ kỵ sĩ thì xuất hiện trong nhánh của Học viện Kỵ sĩ Aiqitaike. Ngẫm nghĩ một chút, Cơ Thành tiện tay mở Bảng Kỳ Vật Vô Hạn lên, trong lòng mơ mộng ảo tưởng: \"Tuy mình chỉ có 15 thần tệ, nhưng ngộ nhỡ mua được đồ tốt, thế chẳng phải là hời to rồi sao?\" Thế nhưng, khoảng cách giữa hiện thực và ảo tưởng quả thực hơi lớn. Cơ Thành chỉ liếc mắt nhìn qua, đã cảm thấy một búng máu già nghẹn ở cổ họng, không nhổ không được."
+    },
+    {
+      "segment_id": "0009",
+      "source": "排在第一的不在是蓬莱药，而是——盘古幡！盘古幡十五级奇物，持着可破灭大千，再塑乾坤！出自洪荒世界，价值十亿神币！",
+      "target": "Đứng ở vị trí số một không còn là Bồng Lai Dược nữa, mà là... Bàn Cổ Phiên! Bàn Cổ Phiên, kỳ vật cấp mười lăm, người cầm nó có thể phá diệt đại thiên, đắp nặn lại càn khôn! Xuất xứ từ thế giới Hồng Hoang, giá trị một tỷ thần tệ!"
+    },
+    {
+      "segment_id": "0010",
+      "source": "“我靠啊！”在看到的一瞬间，不知道有多少人的老血喷在了光幕之上。“开什么玩笑，这种大杀器，无限游戏怎么敢拿出来，他就不怕玩脱了吗！”姬诚在心中疯狂的咆哮，未尝没有对这件十五级奇物的占用欲！“我要努力，我要奋斗，我要买盘古幡！！”",
+      "target": "\"Đệch!\" Trong khoảnh khắc nhìn thấy nó, không biết đã có bao nhiêu người phun máu lên màn hình. \"Đùa kiểu gì thế, loại đại sát khí cỡ này mà Trò Chơi Vô Hạn cũng dám lôi ra, nó không sợ chơi ngu lấy tiếng à!\" Cơ Thành điên cuồng gào thét trong lòng, chưa hẳn đã là không có ham muốn chiếm đoạt đối với kiện kỳ vật cấp mười lăm này! \"Mình phải nỗ lực, mình phải phấn đấu, mình muốn mua Bàn Cổ Phiên!!!\""
+    },
+    {
+      "segment_id": "0011",
+      "source": "再看往下的奇物，全是十级以上的，价值最起码都在一万神币以上，根本就不是姬诚能参与的。看到最后姬诚是彻底绝了购买奇物的欲望。",
+      "target": "Nhìn xuống những kỳ vật tiếp theo, tất cả đều từ cấp mười trở lên, giá trị bèo nhất cũng hơn một vạn thần tệ, căn bản không phải thứ mà Cơ Thành có thể với tới. Xem đến cuối cùng, Cơ Thành đã triệt để dập tắt khao khát mua sắm kỳ vật."
+    },
+    {
+      "segment_id": "0012",
+      "source": "再次点开骑士任务，顿时一连串的信息刷新了出来，姬诚看了一下，发现骑士任务分为两种，一种是现实任务，比如说“二级任务，道尔城外出现一群野狼，道尔城主请求清除狼群。任务完成奖励--20枚神币。备注：野狼群种有头狼存在，估计有二阶实力，请诸位骑士量力而行。”而现实任务最上层的奖励则吓得姬诚眼珠子都快掉了。“十四级任务，毁灭主神于世界之外创造出了世界的毁灭者---域外天魔！命运主神请求有人能找到域外天魔的诞生世界，并毁灭他们！任务完成奖励---十四级强大神格一枚，神职自选，神币9千万！备注：域外天魔是毁灭主神的宠儿，必要时刻能召唤出毁灭主神的化身，拥有十五级伟大神力，请诸位量力而行！”“我靠，这又是只能看，不能做的。”姬诚嘴里喃喃自语，显然有些意动。",
+      "target": "Bấm mở nhiệm vụ kỵ sĩ thêm lần nữa, ngay lập tức một loạt thông tin được làm mới hiện ra. Cơ Thành liếc sơ qua, phát hiện nhiệm vụ kỵ sĩ được chia làm hai loại. Một loại là nhiệm vụ hiện thực, ví dụ như: \"Nhiệm vụ cấp hai, ngoài thành Doyle xuất hiện một bầy sói hoang, thành chủ Doyle yêu cầu tiêu diệt bầy sói. Phần thưởng hoàn thành nhiệm vụ: 20 thần tệ. Chú thích: Trong bầy sói hoang có sự tồn tại của sói đầu đàn, ước tính có thực lực bậc hai, xin các vị kỵ sĩ lượng sức mà làm.\" Còn phần thưởng cao nhất của nhiệm vụ hiện thực lại khiến Cơ Thành sợ tới mức suýt rớt con mắt ra ngoài. \"Nhiệm vụ cấp mười bốn, Hủy Diệt Chủ Thần đã tạo ra kẻ hủy diệt thế giới ở bên ngoài thế giới... Vực Ngoại Thiên Ma! Vận Mệnh Chủ Thần thỉnh cầu có người tìm được thế giới nơi Vực Ngoại Thiên Ma ra đời, và tiêu diệt chúng! Phần thưởng hoàn thành nhiệm vụ: Một viên thần cách cường đại cấp mười bốn, tự chọn thần chức, chín mươi triệu thần tệ! Chú thích: Vực Ngoại Thiên Ma là sủng nhi của Hủy Diệt Chủ Thần, khi cần thiết có thể triệu hồi hóa thân của Hủy Diệt Chủ Thần, sở hữu vĩ đại thần lực cấp mười lăm, xin các vị lượng sức mà làm!\" \"Vãi lúa, cái này lại là chỉ được nhìn chứ không được làm rồi.\" Cơ Thành lẩm bẩm trong miệng, rõ ràng là có hơi xao xuyến."
+    },
+    {
+      "segment_id": "0013",
+      "source": "而第二种，则是超时空任务，是通过命运主神的命运图卷前往各个异时空去完成任务，不过需要交纳一定的神币作为传送费，任务越高，需要的传送费用越多！排在最顶端的，是由艾奇泰克骑士学院的院长发布的“九级任务，年轻的骑士们哟，在一个名为艾泽拉斯的大陆上，有一名被魔剑诅咒的骑士--阿尔萨斯，你的任务就是帮助骑士找到他的光明！任务完成奖励---九级奇物一件，神币一万！备注：巫妖王的实力，大家都清楚。请诸位量力而行！”",
+      "target": "Còn loại thứ hai, chính là nhiệm vụ xuyên thời không. Đó là thông qua Cuộn Thư Vận Mệnh của Vận Mệnh Chủ Thần để đi đến các dị thời không khác nhau nhằm hoàn thành nhiệm vụ. Tuy nhiên, người chơi cần phải nộp một lượng thần tệ nhất định làm phí dịch chuyển, cấp độ nhiệm vụ càng cao thì phí dịch chuyển cần thiết càng nhiều! Xếp ở vị trí trên cùng, là nhiệm vụ do Viện trưởng Học viện Kỵ sĩ Aiqitaike ban bố: \"Nhiệm vụ cấp chín, hỡi các kỵ sĩ trẻ tuổi, trên một lục địa có tên là Azeroth, có một kỵ sĩ bị ma kiếm nguyền rủa... Arthas, nhiệm vụ của ngươi là giúp kỵ sĩ ấy tìm được ánh sáng của mình! Phần thưởng hoàn thành nhiệm vụ: Một kiện kỳ vật cấp chín, một vạn thần tệ! Chú thích: Thực lực của Lich King, mọi người đều rõ. Xin các vị lượng sức mà làm!\""
+    },
+    {
+      "segment_id": "0014",
+      "source": "“我靠，这要是进了魔兽世界，那就是要团灭的节奏啊。”魔兽世界啊，那赤，裸，裸的高魔世界啊，弄不好随便来个怪物，就能让他进轮回，这可不是说笑！",
+      "target": "\"Khỉ thật, thế này mà bước vào thế giới Warcraft, thì chẳng khác gì nhịp điệu bay màu cả đám.\" Thế giới Warcraft đấy, một thế giới ma pháp bậc cao hàng thật giá thật. Nếu không khéo thì vớ vẩn con quái vật nào xuất hiện cũng đủ tống hắn vào luân hồi rồi, chuyện này không phải trò đùa đâu!"
+    },
+    {
+      "segment_id": "0015",
+      "source": "姬诚继续往下看去，有迎接骑士王--阿尔托莉雅.潘德拉贡的八级任务任务。有进入十字军东征，与怪物搏杀的七级任务。有进入真.三国无双世界进行武技试炼的五级任务。林林总总就是没有能适合姬诚这种一级小虾米的任务。姬诚一直把任务拉到了最低层，总算看到了一个适合他的。“二级任务，年轻的骑士们哟，在一个叫浣熊市的地方出现了一种极为恐怖的生化病毒，你的任务是从源头阻止这一切的发生，任务奖励40点神币。备注：任务难度可能随时提高，最高可有五级！请诸位量力而行！”",
+      "target": "Cơ Thành tiếp tục nhìn xuống, có nhiệm vụ cấp tám nghênh đón Kỵ sĩ vương - Artoria Pendragon. Có nhiệm vụ cấp bảy tham gia Thập Tự Chinh, liều mạng chém giết quái vật. Có nhiệm vụ cấp năm bước vào thế giới Shin Sangokumusou (Dynasty Warriors) để tiến hành thí luyện võ kỹ. Đủ loại nhưng chẳng có lấy một nhiệm vụ nào phù hợp với con tôm tép cấp một như Cơ Thành. Cơ Thành kéo lướt danh sách nhiệm vụ xuống tận dưới cùng, rốt cuộc cũng tìm thấy một nhiệm vụ phù hợp với mình. \"Nhiệm vụ cấp hai, hỡi các kỵ sĩ trẻ tuổi, tại một nơi tên là thành phố Raccoon đã xuất hiện một loại virus sinh hóa cực kỳ đáng sợ, nhiệm vụ của ngươi là ngăn chặn tất cả những chuyện này phát sinh từ tận gốc rễ. Phần thưởng nhiệm vụ: 40 thần tệ. Chú thích: Độ khó của nhiệm vụ có thể tăng lên bất cứ lúc nào, cao nhất có thể đạt cấp năm! Xin các vị lượng sức mà làm!\""
+    },
+    {
+      "segment_id": "0016",
+      "source": "姬诚摸了摸下巴，”我感觉去那里正合适，反正我有不会真死，怕啥呢。”想到这儿，姬诚用力一拍手心“就他了，生化危机！”。。。。",
+      "target": "Cơ Thành xoa cằm: \"Ta cảm thấy đến nơi đó thật quá vừa vặn, dù sao ta có chết thật đâu, sợ gì chứ.\" Nghĩ tới đây, Cơ Thành dùng sức vỗ tay một cái: \"Chọn nó thôi, Resident Evil!\"..."
+    }
+  ]
+}
+```

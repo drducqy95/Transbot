@@ -1,0 +1,17 @@
+```json
+{
+  "approved": [
+    "大力牛魔拳",
+    "阳神"
+  ],
+  "rejected": [
+    "几个字就印到",
+    "的网络小说里"
+  ],
+  "uncertain": []
+}
+```
+
+**Reasoning:**
+- **`大力牛魔拳` (Vigorous Bull Demon Fist)** and **`阳神` (Yang God / Yang Shen)** are specific proper nouns (a martial arts technique and a novel title/concept respectively) that are highly suitable for a translation glossary.
+- **`几个字就印到`** (a few words printed on) and **`的网络小说里`** (in the web novel) are sentence fragments rather than specific glossary terms, so they have been rejected.

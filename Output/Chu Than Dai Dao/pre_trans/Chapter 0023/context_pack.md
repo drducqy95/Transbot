@@ -1,0 +1,319 @@
+# Translation Context Pack
+
+## Project
+- Branch: Chu Than Dai Dao
+- Title: 
+- Author: 
+- Genre: /
+- Language: zh → vi
+
+## Translation Rules
+### Translation Goal
+Dịch truyện Trung sang tiếng Việt tự nhiên, dễ đọc, đúng nghĩa, đúng mạch truyện, đúng văn cảnh, đúng xưng hô, đúng tên riêng và thuật ngữ.
+Style: văn xuôi tiếng Việt mượt, rõ nghĩa, không máy móc
+Priorities:
+  • đúng nghĩa và đúng văn cảnh
+  • đúng tên riêng
+  • đúng thuật ngữ theo loại và bối cảnh
+  • đúng xưng hô và quan hệ nhân vật
+  • giữ ổn định thuật ngữ/tên riêng/xưng hô đã khóa
+  • tự nhiên trong tiếng Việt
+  • giữ nhịp văn, cảm xúc và giọng kể gốc
+Anti-goals:
+  • không dịch từng chữ máy móc
+  • không Hán Việt hóa tên Nhật, Hàn, phương Tây, fandom, thương hiệu, kỹ thuật
+  • không áp VietPhrase/LuatNhan lên tên riêng đã khóa
+  • không đổi thuật ngữ đã khóa nếu văn cảnh giống nhau
+  • không dùng một bản dịch cứng cho từ đa nghĩa khi văn cảnh khác nhau
+  • không làm lộ thông tin ngoài POV nếu bản gốc chưa tiết lộ
+
+### Output Rules
+  • keep paragraph structure
+  • keep dialogue structure
+  • do not merge paragraphs
+  • do not split paragraphs unnecessarily
+  • preserve punctuation when reasonable
+  • convert chinese quotes to vietnamese
+  • remove unnecessary explanation
+  • output only translation
+  • do not add notes inside translation
+  • mark uncertain items for audit only
+
+### Tone Guidelines
+  • narration: tự nhiên, rõ ràng, có chất truyện
+  • dialogue: phù hợp thân phận, quan hệ, tuổi tác, quyền lực và bối cảnh
+  • ancient_setting: cổ phong vừa phải, không lạm dụng Hán Việt khó hiểu
+  • modern_setting: hiện đại, đời thường, không cổ hóa lời thoại
+  • game_system: rõ ràng, gọn, quen thuộc với văn phong game/system
+  • comedy: giữ nhịp hài nếu có
+  • serious: giữ sắc thái căng thẳng, trang trọng nếu có
+
+### Term Normalization
+Purpose: Chuẩn hóa thuật ngữ theo văn cảnh truyện, bao gồm chiêu thức, nghề nghiệp, chức vị, cảnh giới, kỹ năng, vật phẩm, danh hiệu, tổ chức, hệ thống, khái niệm thế giới quan và cụm cố định lặp lại.
+Core principles:
+  • context first
+  • not word by word
+  • same source can have different translation if context differs
+  • same source same context must be consistent
+  • same term type should keep style consistent
+  • locked translation only applies to matching context
+  • source plus type plus context equals translation
+Decision rules:
+  • Không dịch thuật ngữ chỉ theo mặt chữ.
+  • Một source có thể có nhiều bản dịch nếu văn cảnh khác nhau.
+  • Một bản dịch đã khóa chỉ áp dụng cho đúng loại văn cảnh đã khóa.
+  • Tên chiêu thức, cảnh giới, pháp bảo quan trọng nên dùng dạng Hán Việt chuẩn, viết hoa nếu là danh từ riêng.
+  • Vật phẩm phổ thông không cần Hán Việt hóa quá mức.
+  • Nghề nghiệp phải xét bối cảnh.
+  • Chức vị phải xét hệ thống xã hội.
+  • Nếu cùng source và cùng văn cảnh, phải giữ nhất quán.
+  • Nếu không chắc văn cảnh, đánh dấu audit.
+
+### Engine Rules
+  • use context pack
+  • use previous chapter summary
+  • use character profile
+  • use story timeline
+  • use glossary
+  • use name scan
+  • use segment context
+  • avoid over literal translation
+  • avoid over smoothing that changes meaning
+
+## Characters
+N/A
+
+## Glossary
+N/A
+
+## Story Timeline (latest)
+
+## Chapter 0001 - Chương 1: Thiên giáng kỳ duyên
+
+### Summary
+Chapter 1 completed via pipeline.
+
+## Chapter 0001 - Chương 1: Thiên giáng kỳ duyên
+
+### Summary
+Chapter 1 completed via pipeline.
+
+## Chapter 0001 - Chương 1: Thiên giáng kỳ duyên
+
+### Summary
+Chapter 1 completed via pipeline.
+
+## Chapter 0002 - Chương 2: Sức tưởng tượng của người Trái Đất há đám thổ dân kia có thể sánh bằng!
+
+### Summary
+Chapter 2 completed via pipeline.
+
+## Chapter 0003 - Chương 3: Khai thiên lập địa, tiểu thiên thế giới
+
+### Summary
+Chapter 3 completed via pipeline.
+
+## Chapter 0004 - Chương 4: Nghề nghiệp truyền kỳ cũng phải xem hoàn cảnh chứ
+
+### Summary
+Chapter 4 completed via pipeline.
+
+## Chapter 0005 - Chương 5: Mọi thứ đã sẵn sàng, chỉ chờ phong thần
+
+### Summary
+Chapter 5 completed via pipeline.
+
+## Chapter 0006 - Chương 6: Thần Văn học Deneir
+
+### Summary
+Chapter 6 completed via pipeline.
+
+## Chapter 0007 - Chương 7: Phong thần! Phong thần!
+
+### Summary
+Chapter 7 completed via pipeline.
+
+## Chapter 0008 - Chương 8: Tin vui lan truyền, chúc mừng Trò Chơi Vô Hạn chính thức mở server!
+
+### Summary
+Chapter 8 completed via pipeline.
+
+## Chapter 0009 - Chương 9: Khảo nghiệm
+
+### Summary
+Chapter 9 completed via pipeline.
+
+## Chapter 0010 - Chương 10: Kỵ sĩ! Võ tăng!
+
+### Summary
+Chapter 10 completed via pipeline.
+
+## Chapter 0010 - Chương 10: Kỵ sĩ! Võ tăng!
+
+### Summary
+Chapter 10 completed via pipeline.
+
+## Chapter 0010 - Chương 10: Kỵ sĩ! Võ tăng!
+
+### Summary
+Chapter 10 completed via pipeline.
+
+## Chapter 0011 - Chương 11: Kế hoạch của thủ lĩnh ẩn sau
+
+### Summary
+Chapter 11 completed via pipeline.
+
+## Chapter 0011 - Chương 11: Kế hoạch của thủ lĩnh ẩn sau
+
+### Summary
+Chapter 11 completed via pipeline.
+
+## Chapter 0012 - Chương 12: Sóng ngầm trong hiện thực
+
+### Summary
+Chapter 12 completed via pipeline.
+
+## Chapter 0013 - Chương 13
+
+### Summary
+Chapter 13 completed via pipeline.
+
+## Chapter 0013 - Chương 13
+
+### Summary
+Chapter 13 completed via pipeline.
+
+## Chapter 0014 - Chương 14: Đã là vô hạn thì sao có thể thiếu Resident Evil chứ?
+
+### Summary
+Chapter 14 completed via pipeline.
+
+## Chapter 0015 - Chương 15: Long Tượng Đại Lực giáng thế nơi tận cùng!
+
+### Summary
+Chapter 15 completed via pipeline.
+
+## Chapter 0016 - Chương 16: Lực! Lực! Lực! Càn quét hết thảy mới là lực!
+
+### Summary
+Chapter 16 completed via pipeline.
+
+## Chapter 0017 - Chương 17: Đàn ông không được hèn, cứ thế mà chiến!
+
+### Summary
+Chapter 17 completed via pipeline.
+
+## Chapter 0018 - Chương 18: Kế hoạch nhỏ của quốc gia
+
+### Summary
+Chapter 18 completed via pipeline.
+
+## Chapter 0019 - Chương 19: Vận Mệnh và Hủy Diệt
+
+### Summary
+Chapter 19 completed via pipeline.
+
+## Chapter 0020 - Chương 20: Sóng ngầm
+
+### Summary
+Chapter 20 completed via pipeline.
+
+## Chapter 0021 - Chương 21: Sóng ngầm
+
+### Summary
+Chapter 21 completed via pipeline.
+
+## Chapter 0022 - Chương 22: Sóng to gió lớn chỉ tại một người!
+
+### Summary
+Chapter 22 completed via pipeline.
+
+
+## Source Chapter 23 - 0023 以一人之力撬动世界！
+```json
+[
+  {
+    "segment_id": "0001",
+    "text": "# 第23章 以一人之力撬动世界！"
+  },
+  {
+    "segment_id": "0002",
+    "text": "国安局，办公室，党为国正在闭目养神，这是他在这段时间里为数不多的一个休闲了，无他，事情太多，早已经轮不到他认真休息了。“砰！”他办公室的门被人用力给推开了，“局长，不好了，出大事了。”吴秘书，一脸慌张地快步跑了进来，连门都忘敲了。"
+  },
+  {
+    "segment_id": "0003",
+    "text": "“怎么了，吴秘书。”党为国皱了皱眉，“难道，营救赵院士的行动失败了？”“不，局长，比那件事严重多了！”吴秘书咽了咽口水，努力恢复平静，“局长，就在刚才，无限游戏的官网发了新通知。他说一个星期之后，将吸收全世界的人进入游戏！”"
+  },
+  {
+    "segment_id": "0004",
+    "text": "“什么！！！”党为国猛地站立起来，脸色完全变了一个样。自从无限游戏开始后，国家一直没有停止对它的研究，虽然敌友不明，虽然意义不大，但是仅仅从里面流出了几件奇物，就已经让国家的实力上升了好几个层次。这还不算流落到民间的那些奇物，根据专家推算，国家到目前为止最多只收容的不超过三成的奇物！也就是说现在起码有七十多件奇物下落不明。不过即使是这样，国家对外的语气和腰板也都硬了许多。原因无他，眼光层次已经超出之前不以道计，又怎么能看的上那群土鳖？"
+  },
+  {
+    "segment_id": "0005",
+    "text": "然而这一切全都在被限游戏的这则通告给打破了！这下全世界都站在一个起跑线上，甚至因为国家之前之后超过半个月的提前快跑，已经隐隐的将华国推向全世界的对立面！这可是要命的大问题！谁能负责任？"
+  },
+  {
+    "segment_id": "0006",
+    "text": "党为国深深吸了口气，努力压制下心中的不安，吩咐道:“快，通知整个国安局所以处以上干部，全部集中，随时准备待命！”说话间，他就已经拿起外套，向外面跑去。这种捅破天大的大事又怎么可能是他一个人能抹平的，他也必须有被开会的心里准备了，果不其然，他刚迈出办公室，他的手机就响了，党为国接着电话听了一会儿，就挂断了。“小吴，告诉那群家伙，一个小时后准备开会。不过在这一个小时里随时待命，不准有任何的私自活动，严禁外出，知道了吗！”“保证完成任务！”"
+  },
+  {
+    "segment_id": "0007",
+    "text": "………………"
+  },
+  {
+    "segment_id": "0008",
+    "text": "就在党为国在位赵奇作出的决定心急上火时，在大洋遥远的彼岸，那个美利坚众合国，也在为这件天大的事在议论。“啪啪啪。”美利坚总统看着眼前如菜市场一样混乱的大厅用力拍着桌子，努力把声音压下。待声音小下来后，他指着中情局的局长:“虽然我想大家对这件事都有所了解，但是葛丹，你还是把事情再说一下吧。”"
+  },
+  {
+    "segment_id": "0009",
+    "text": "“好的，总统先生。”四十几岁的葛丹略显有些虚胖，他站了起来，先擦了擦脸上的汗水，向着总统点了点头，说道:“这件事的开端，经过我们的分析应该是从十天之前凌晨十二点以后开始的。”他点开了众人眼前的大屏幕，上面密密麻麻的都是人名，“这些就是经过我们这些天的努力，才找到的游戏玩家。正是经过他们，我们才能确定，华国那天晚上经历了群体穿越事件，而且已经可以肯定他们穿越的就是一个完整的魔幻世界，里面有神灵，有魔鬼，有一切我们能幻想的物品！”"
+  },
+  {
+    "segment_id": "0010",
+    "text": "葛丹这时的声音充满的狂热，这件事如果不是亲眼看到，谁会相信是真的。只可惜在场的人虽然眼露激动，但都很是平稳。他们都是手眼通天的人物，这些事都已经过去这么长的时间了，又怎么可能不被他们了解？甚至他们大多数人都是无限游戏官网的常客！"
+  },
+  {
+    "segment_id": "0011",
+    "text": "“咳咳！”葛丹环顾四周，继续说道:“事件发生后，我们立刻与那个官网进行联系，可惜无论用什么办法，那个官网都没有回应，就像我们不存在一样。所以我们当时就怀疑无限游戏的背后有华国人，至少有一位是华国人！”葛丹的这句话，听的在场的人一个个都在翻白眼，这不是废话吗，但就无限游戏只选择华国人这一点，就已经很能说明问题了。如果不是华国人何必对他们这么好？整整十七天的独立发展啊！这能创出多少奇迹？上帝真是没有保佑美利坚。"
+  },
+  {
+    "segment_id": "0012",
+    "text": "“葛丹，说说，别的吧。”总统的黑皮肤上也闪过一丝的不甘，如果无限游戏在美利坚该有多好，可惜没有如果。“好的。”葛丹点点头，面露兴奋地说道“先生们，就在三十分钟之前，无限游戏已经发出了通告，七天之后将全世界选人进入游戏！这说明我们将也有机会进入那个异世界，成神将不是梦想！”这句话彻底将会议推向高峰！长生不老，成就神明，这些愿望都有机会实现了！还有什么比这个更好的？"
+  },
+  {
+    "segment_id": "0013",
+    "text": "“砰砰砰。”黑脸总统用力拍打桌子，向众人泼了一一大盆的冷水，“先生们，你们不要忘了，华国已经在进行了十天的游戏了，未来他们还有七天。之后才会轮到我们啊，难道你们认为华国会给我们发展的机会？别开玩笑了。”"
+  },
+  {
+    "segment_id": "0014",
+    "text": "“那你想怎么办，总统阁下？”坐在他不远处的一位中年女士问道。“联合，我们要和全世界联合在一起，向华国施压！不仅如此我们自己也要联合，我知道你们都在隐秘的收购神币，还有奇物。”总统说道这儿，目光转了一圈，发现所有人都目光坦然，一脸的总统你在说什么的疑惑表情。“都是一群老狐狸。”总统的面皮抽了好几下，继续说道“我希望，你们能把资源集中在一起，努力创造出一位强者，这样才能在异世界站住脚啊！”“呵呵。”“呵呵。”“总统你说笑了”“就是就是，我们连神币是什么都不知道。”“就是，就是，顶上面的。”…………就这样一场讨论，又变成了扯皮……"
+  },
+  {
+    "segment_id": "0015",
+    "text": "俄国，克林姆林宫，两位硬汉元首也在讨论这件事的发展，毕竟另一个世界的诱惑，不是任何人能抵挡的，可还没等他们讨论出什么所以然来，一通专线电话就打来了。他们相互看了看对方，不约而同的笑了，“看来我们的老朋友，在关键时候，还是想到我们啊。”“呵呵，他们也只能这么做了。”"
+  },
+  {
+    "segment_id": "0016",
+    "text": "英国，伦敦。法国，巴黎。德国，柏林…………。一个个的国家都在仔细的讨论着，因为这就是另一场大航海，大开拓的时代！谁能把握的住，谁就能一跃而上！这谁不眼红？只是可惜这么一块蛋糕，已经有人吃了十天了，未来还将继续吃上七天！想到这所有国家眼睛都绿了！"
+  },
+  {
+    "segment_id": "0017",
+    "text": "而造成这一切的赵奇也不好过，应为，赵爸赵妈今天过来了！"
+  }
+]
+```
+
+## Output Format
+CRITICAL INSTRUCTION: You MUST translate the source text EXACTLY paragraph by paragraph, preserving the original order perfectly. DO NOT skip, drop, merge, or reorder any paragraphs. Each paragraph in the source MUST be translated.
+Return ONLY valid JSON matching this schema:
+{
+  "chapter_number": 23,
+  "chapter_title_vi": "Chương 23: <Vietnamese title>",
+  "segments": [
+    {
+      "segment_id": "XXXX",
+      "source": "...",
+      "target": "..."
+    }
+  ]
+}

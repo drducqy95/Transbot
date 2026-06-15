@@ -1,0 +1,315 @@
+# Translation Context Pack
+
+## Project
+- Branch: Chu Than Dai Dao
+- Title: 
+- Author: 
+- Genre: /
+- Language: zh → vi
+
+## Translation Rules
+### Translation Goal
+Dịch truyện Trung sang tiếng Việt tự nhiên, dễ đọc, đúng nghĩa, đúng mạch truyện, đúng văn cảnh, đúng xưng hô, đúng tên riêng và thuật ngữ.
+Style: văn xuôi tiếng Việt mượt, rõ nghĩa, không máy móc
+Priorities:
+  • đúng nghĩa và đúng văn cảnh
+  • đúng tên riêng
+  • đúng thuật ngữ theo loại và bối cảnh
+  • đúng xưng hô và quan hệ nhân vật
+  • giữ ổn định thuật ngữ/tên riêng/xưng hô đã khóa
+  • tự nhiên trong tiếng Việt
+  • giữ nhịp văn, cảm xúc và giọng kể gốc
+Anti-goals:
+  • không dịch từng chữ máy móc
+  • không Hán Việt hóa tên Nhật, Hàn, phương Tây, fandom, thương hiệu, kỹ thuật
+  • không áp VietPhrase/LuatNhan lên tên riêng đã khóa
+  • không đổi thuật ngữ đã khóa nếu văn cảnh giống nhau
+  • không dùng một bản dịch cứng cho từ đa nghĩa khi văn cảnh khác nhau
+  • không làm lộ thông tin ngoài POV nếu bản gốc chưa tiết lộ
+
+### Output Rules
+  • keep paragraph structure
+  • keep dialogue structure
+  • do not merge paragraphs
+  • do not split paragraphs unnecessarily
+  • preserve punctuation when reasonable
+  • convert chinese quotes to vietnamese
+  • remove unnecessary explanation
+  • output only translation
+  • do not add notes inside translation
+  • mark uncertain items for audit only
+
+### Tone Guidelines
+  • narration: tự nhiên, rõ ràng, có chất truyện
+  • dialogue: phù hợp thân phận, quan hệ, tuổi tác, quyền lực và bối cảnh
+  • ancient_setting: cổ phong vừa phải, không lạm dụng Hán Việt khó hiểu
+  • modern_setting: hiện đại, đời thường, không cổ hóa lời thoại
+  • game_system: rõ ràng, gọn, quen thuộc với văn phong game/system
+  • comedy: giữ nhịp hài nếu có
+  • serious: giữ sắc thái căng thẳng, trang trọng nếu có
+
+### Term Normalization
+Purpose: Chuẩn hóa thuật ngữ theo văn cảnh truyện, bao gồm chiêu thức, nghề nghiệp, chức vị, cảnh giới, kỹ năng, vật phẩm, danh hiệu, tổ chức, hệ thống, khái niệm thế giới quan và cụm cố định lặp lại.
+Core principles:
+  • context first
+  • not word by word
+  • same source can have different translation if context differs
+  • same source same context must be consistent
+  • same term type should keep style consistent
+  • locked translation only applies to matching context
+  • source plus type plus context equals translation
+Decision rules:
+  • Không dịch thuật ngữ chỉ theo mặt chữ.
+  • Một source có thể có nhiều bản dịch nếu văn cảnh khác nhau.
+  • Một bản dịch đã khóa chỉ áp dụng cho đúng loại văn cảnh đã khóa.
+  • Tên chiêu thức, cảnh giới, pháp bảo quan trọng nên dùng dạng Hán Việt chuẩn, viết hoa nếu là danh từ riêng.
+  • Vật phẩm phổ thông không cần Hán Việt hóa quá mức.
+  • Nghề nghiệp phải xét bối cảnh.
+  • Chức vị phải xét hệ thống xã hội.
+  • Nếu cùng source và cùng văn cảnh, phải giữ nhất quán.
+  • Nếu không chắc văn cảnh, đánh dấu audit.
+
+### Engine Rules
+  • use context pack
+  • use previous chapter summary
+  • use character profile
+  • use story timeline
+  • use glossary
+  • use name scan
+  • use segment context
+  • avoid over literal translation
+  • avoid over smoothing that changes meaning
+
+## Characters
+N/A
+
+## Glossary
+N/A
+
+## Story Timeline (latest)
+dân kia có thể sánh bằng!
+
+### Summary
+Chapter 2 completed via pipeline.
+
+## Chapter 0003 - Chương 3: Khai thiên lập địa, tiểu thiên thế giới
+
+### Summary
+Chapter 3 completed via pipeline.
+
+## Chapter 0004 - Chương 4: Nghề nghiệp truyền kỳ cũng phải xem hoàn cảnh chứ
+
+### Summary
+Chapter 4 completed via pipeline.
+
+## Chapter 0005 - Chương 5: Mọi thứ đã sẵn sàng, chỉ chờ phong thần
+
+### Summary
+Chapter 5 completed via pipeline.
+
+## Chapter 0006 - Chương 6: Thần Văn học Deneir
+
+### Summary
+Chapter 6 completed via pipeline.
+
+## Chapter 0007 - Chương 7: Phong thần! Phong thần!
+
+### Summary
+Chapter 7 completed via pipeline.
+
+## Chapter 0008 - Chương 8: Tin vui lan truyền, chúc mừng Trò Chơi Vô Hạn chính thức mở server!
+
+### Summary
+Chapter 8 completed via pipeline.
+
+## Chapter 0009 - Chương 9: Khảo nghiệm
+
+### Summary
+Chapter 9 completed via pipeline.
+
+## Chapter 0010 - Chương 10: Kỵ sĩ! Võ tăng!
+
+### Summary
+Chapter 10 completed via pipeline.
+
+## Chapter 0010 - Chương 10: Kỵ sĩ! Võ tăng!
+
+### Summary
+Chapter 10 completed via pipeline.
+
+## Chapter 0010 - Chương 10: Kỵ sĩ! Võ tăng!
+
+### Summary
+Chapter 10 completed via pipeline.
+
+## Chapter 0011 - Chương 11: Kế hoạch của thủ lĩnh ẩn sau
+
+### Summary
+Chapter 11 completed via pipeline.
+
+## Chapter 0011 - Chương 11: Kế hoạch của thủ lĩnh ẩn sau
+
+### Summary
+Chapter 11 completed via pipeline.
+
+## Chapter 0012 - Chương 12: Sóng ngầm trong hiện thực
+
+### Summary
+Chapter 12 completed via pipeline.
+
+## Chapter 0013 - Chương 13
+
+### Summary
+Chapter 13 completed via pipeline.
+
+## Chapter 0013 - Chương 13
+
+### Summary
+Chapter 13 completed via pipeline.
+
+## Chapter 0014 - Chương 14: Đã là vô hạn thì sao có thể thiếu Resident Evil chứ?
+
+### Summary
+Chapter 14 completed via pipeline.
+
+## Chapter 0015 - Chương 15: Long Tượng Đại Lực giáng thế nơi tận cùng!
+
+### Summary
+Chapter 15 completed via pipeline.
+
+## Chapter 0016 - Chương 16: Lực! Lực! Lực! Càn quét hết thảy mới là lực!
+
+### Summary
+Chapter 16 completed via pipeline.
+
+## Chapter 0017 - Chương 17: Đàn ông không được hèn, cứ thế mà chiến!
+
+### Summary
+Chapter 17 completed via pipeline.
+
+## Chapter 0018 - Chương 18: Kế hoạch nhỏ của quốc gia
+
+### Summary
+Chapter 18 completed via pipeline.
+
+## Chapter 0019 - Chương 19: Vận Mệnh và Hủy Diệt
+
+### Summary
+Chapter 19 completed via pipeline.
+
+## Chapter 0020 - Chương 20: Sóng ngầm
+
+### Summary
+Chapter 20 completed via pipeline.
+
+## Chapter 0021 - Chương 21: Sóng ngầm
+
+### Summary
+Chapter 21 completed via pipeline.
+
+## Chapter 0022 - Chương 22: Sóng to gió lớn chỉ tại một người!
+
+### Summary
+Chapter 22 completed via pipeline.
+
+## Chapter 0023 - Chương 23: Lấy sức một người bẩy cả thế giới!
+
+### Summary
+Chapter 23 completed via pipeline.
+
+## Chapter 0024 - Chương 24: Cha và mẹ
+
+### Summary
+Chapter 24 completed via pipeline.
+
+## Chapter 0025 - Chương 25: Khởi đầu của sự kiện lớn
+
+### Summary
+Chapter 25 completed via pipeline.
+
+## Chapter 0026 - Chương 26: Nhiệm vụ, nhiệm vụ
+
+### Summary
+Chapter 26 completed via pipeline.
+
+
+## Source Chapter 27 - 0027 骑士的战争
+```json
+[
+  {
+    "segment_id": "0001",
+    "text": "# 第27章 骑士的战争"
+  },
+  {
+    "segment_id": "0002",
+    "text": "艾奇泰克骑士学院，高耸入云的骑士高塔之上，四位传奇骑士正一脸恭敬地听着面前，那成半透明状的身影的训话，“这一次的幽冥入侵事件，如果我没猜错的话，应该是三位至高神对我们进行的考验。毁灭主神会失手？这个笑话真是够冷的。”“那院长大人，我们学院这一次应该怎么办，需要我们参加吗”老态龙钟的流光骑士卡尔，询问道。"
+  },
+  {
+    "segment_id": "0003",
+    "text": "“参加啊，这样是大事件，我们怎么可能不参加，不仅要参加，而且还有要把我们的有生力量都拉出去，好好让其他学院，其他的种族看看，我们骑士学院的力量。”那有些虚幻的身影，非常肯定的回答道。“这一次，由哈特卡斯和寇拉斯带队，卡尔你随时待命。齐拉你就在学院守护吧。”"
+  },
+  {
+    "segment_id": "0004",
+    "text": "“院长你呢，你不带队吗？“我不行。”虚幻的身影摇了摇头，“我的骑士与守护双重神格已经快要解析道最后阶段了，实在是分不开身，要不然我也不会分出这道身影与你们见面啊。不过你们放心，我已经和我的好友奥秘的探索者西维-卡祺斯大过招呼了，他应该会保住你们的安全的。”身影说完，就慢慢淡去了，“如果没有别的事，那就准备出发吧。”“是，遵从您的命令！”四人弯身行礼，恭送院长离开。"
+  },
+  {
+    "segment_id": "0005",
+    "text": "“走吧，哈特卡斯，我们这就召集人吧。”光辉的开拓者寇拉斯露出灿烂如阳光的笑容。“嗯，我来召集人马，你来准备传送阵吧。”黑铁壮汉点了点头，就迈步走下骑士高塔。“这家伙，还是这么认真。”寇拉斯笑了笑，“卡尔，要做出直接传送到幽冥之地的传送阵，还需要你的帮助，你就留下来帮忙吧。”老头点点头，就留下来，准备给他搭把手。“那我先离开了，过一会儿，你们都不在了，我要先把学院的魔法阵再检查一下。”漆黑壁垒者-齐拉，依旧穿着他那全身装的漆黑铠甲，瓮声瓮气地边说边离开了这里。“这两个家伙。”寇拉斯看着两人的身影，很是无奈。…………"
+  },
+  {
+    "segment_id": "0006",
+    "text": "依旧是那巨大的操场之上，姬诚与他的小伙伴们已经在这里等了一段时间了。“我去，这是要战争啊。”看着源源不断地从各处赶来的骑士，姬诚旁边的小伙伴忍不住发出赞叹声。就在刚刚一会儿，他们已经看到十几为骑士化身长虹，连人带坐骑落到操场的最前方。姬诚他们心里都清楚，能化身长虹的至少也是八阶以上的实力，换句话说骑士学院现在至少已经有十来位八阶骑士赶来了，而五阶以下的骑士更是不计其数，姬诚都懒的计数了。"
+  },
+  {
+    "segment_id": "0007",
+    "text": "又过去了一会儿，在又赶来了几位骑士之后，他们的教官哈特卡斯终于与一位英俊无比的骑士一起带来。就见那英俊骑士走到架好的高台之上对着眼前黑压压一片的骑士说道:“既然大家都已经来这儿了，那我想具体的事情，你们都已经知道了，那我也就不多说了，大家准备好，我们立刻出发，争取在别的学院到来之前，先清理出一片安全的领地出来。”说话间，他的手虚空一扬，顿时。整个操场被一片乱流所覆盖，刹那间，姬诚就有一种平时穿越到异世界的感觉。“不会吧，竟然这么大的手笔，直接传送这么多人？，这简直就是核弹级的法术了。”看到如此的大手笔，姬诚不由的啧啧称奇。"
+  },
+  {
+    "segment_id": "0008",
+    "text": "不知过去了多久，传送的感觉终于停了下来。“好了，看样子因该是到了。”就见骑士拔出随身长剑，耀眼的光辉直冲汉霄，“诸位骑士，听我号令，上马，备甲，列阵！”"
+  },
+  {
+    "segment_id": "0009",
+    "text": "伴随着骑士命令，诸位骑士依言而上，铠甲的碰撞声与战马的嘶鸣声交织在了一起，浩荡而又磅礴的气势在军阵之中缓缓酝酿。看到如此情景，姬诚忍不住握紧手中长枪。他现在不过是一名不起眼的二阶骑士，现在还没有资格拥有坐骑，所以他的任务就只有跟在高阶骑士身后压阵，进行扫荡工作。“总有一天，我也要站在最前方。”如此伟大的战役，他竟然就只能进行最后期的扫荡，这简直太让他丧气了。"
+  },
+  {
+    "segment_id": "0010",
+    "text": "光辉的开拓者现在可没有时间来感应一个小虾米的想法，他握住长剑，遥遥一挥，顿时空间被劈出了一个巨大的口子，露出外面充满死寂的空间。“全员准备，随我冲击！”长剑震荡，无风自明，骑士长啸一声，便身先士卒的冲了出去！无数的骑士好像一道道巨大的钢铁洪流，冲散了任何敢于挡在他们身前的任何物体！"
+  },
+  {
+    "segment_id": "0011",
+    "text": "骷髅兵团，还没来得及展开，就被踩成一片骨末，幽暗魔狼，刚刚冲出，就被踩踏的血肉纷飞，也就只有亡灵骑士才能稍微阻挡一下。“给我滚开，你们这些恶心的不死生物！”寇拉斯浑身光辉四溅，无数的光辉构成小天使围着他唱着不知名的赞美诗歌，直似光辉神祗降临世间！"
+  },
+  {
+    "segment_id": "0012",
+    "text": "手中长剑挥舞间，无数或强或弱的不死生物一个个皆被净化成虚无，无一活口！“你太放肆了，不知名的骑士！”遥远的另一端，传来一气急败坏地怒吼声，就见无穷无尽的幽冥气息在空中凝成实体，化作一个无比巨大的白骨手掌向骑士团压下！而另一边，一声洪亮的兽吼声也传来，遥遥一看，只见一道遮天蔽日的巨大白骨龙兽也向这里飞快的扑来！"
+  },
+  {
+    "segment_id": "0013",
+    "text": "“抱歉了，此路不通！”一道铁塔一样的身影挡在的骑士团的上空，正是钢铁领主-哈特卡斯！他手一顿，一面其貌不扬的盾牌出现在他手上，“砰”的一声巨响，白骨手掌与盾牌重重地撞在一起，只在一瞬间，白骨手掌就被撞成了一片虚无。然后他大喝一声，盾牌瞬间变得硕大无朋，紧接着就狠狠地向着白骨龙兽砸去！就见一个蘑菇型的灰尘埃缓缓升起。而那个白骨龙兽被砸入深坑之中，全身骨骼散了一地，眼看是活不成了。"
+  },
+  {
+    "segment_id": "0014",
+    "text": "慢慢地，天空变的更加阴沉了，姬诚不经意的看了一眼，就吓的浑身一抖，只见无数的骨鸟，腐烂飞龙，白骨飞鹰，这些生物已经把天空完全侵占了，甚至再大后方，数十条幽冥骨龙也在那儿盘旋着。就靠哈特卡斯一人，再加上十几位能够飞行的骑士，根本就是捉肩见肘，防不过来啊。"
+  },
+  {
+    "segment_id": "0015",
+    "text": "“我们就缺少空中部队啊。”姬诚心中暗叹。“不哦，小兄弟，我们的空中霸主来了。”他旁边一位胡子拉渣的中年骑士看着遥远的天外的一个黑点，怀恋的说道。"
+  }
+]
+```
+
+## Output Format
+CRITICAL INSTRUCTION: You MUST translate the source text EXACTLY paragraph by paragraph, preserving the original order perfectly. DO NOT skip, drop, merge, or reorder any paragraphs. Each paragraph in the source MUST be translated.
+Return ONLY valid JSON matching this schema:
+{
+  "chapter_number": 27,
+  "chapter_title_vi": "Chương 27: <Vietnamese title>",
+  "segments": [
+    {
+      "segment_id": "XXXX",
+      "source": "...",
+      "target": "..."
+    }
+  ]
+}

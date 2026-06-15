@@ -1,0 +1,22 @@
+```json
+{
+  "names": {
+    "approved": [],
+    "rejected": [],
+    "uncertain": []
+  },
+  "terms": {
+    "approved": [
+      "生化危机"
+    ],
+    "rejected": [
+      "的电影版与游"
+    ],
+    "uncertain": []
+  }
+}
+```
+
+**Reasoning:**
+- **生化危机**: Approved. This is a complete and recognizable term ("Resident Evil" / "Biohazard").
+- **的电影版与游**: Rejected. This is an incomplete sentence fragment ("the movie version and ga[me]") rather than a standalone term, and it includes grammatical particles like "的" and "与".

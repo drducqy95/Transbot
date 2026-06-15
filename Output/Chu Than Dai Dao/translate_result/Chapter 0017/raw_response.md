@@ -1,0 +1,78 @@
+```json
+{
+  "chapter_number": 17,
+  "chapter_title_vi": "Chương 17: Đàn ông không được hèn, cứ thế mà chiến!",
+  "segments": [
+    {
+      "segment_id": "0001",
+      "source": "# 第17章 男人不要怂，就要干！",
+      "target": "# Chương 17: Đàn ông không được hèn, cứ thế mà chiến!"
+    },
+    {
+      "segment_id": "0002",
+      "source": "其实生化危机世界按照力量等级分类的话，可以分为电影版，动画版，漫画版还有游戏版，里面力量差距更是天差地别，不以道计！要知道《生化危机》的电影版与游戏版有着很大的区别，电影版中t病毒发明时间很短，是亚西福特博士为了治疗有家族遗传病的爱女安吉拉而发明的，多不过十年时间。而游戏版的t病毒则是源于保护伞公司三名创始人进行古生物研究时从女王蚁的基因中发现一种古代病毒，即始祖病毒，研究的历史极长，而且此过程中已经制成了几种极为犀利的半成熟型生化武器，如追踪者、暴君、伊万、塔罗斯之类的大杀器。",
+      "target": "Thực ra thế giới Resident Evil nếu phân loại theo cấp độ sức mạnh thì có thể chia thành bản điện ảnh, bản anime, bản manga và bản game. Chênh lệch sức mạnh bên trong đúng là một trời một vực, không thể đo đếm bằng đạo lý thông thường! Phải biết rằng bản điện ảnh và bản game của \"Resident Evil\" có sự khác biệt rất lớn. Thời gian phát minh ra virus T trong bản điện ảnh rất ngắn, do Tiến sĩ Ashford phát minh ra để chữa trị cho cô con gái yêu Angela mắc bệnh di truyền của gia tộc, nhiều nhất cũng không quá mười năm. Còn virus T trong bản game thì bắt nguồn từ khi ba người sáng lập tập đoàn Umbrella tiến hành nghiên cứu sinh vật cổ đại, họ phát hiện ra một loại virus cổ đại từ gen của kiến chúa, đó là virus Thủy Tổ. Lịch sử nghiên cứu cực kỳ dài, hơn nữa trong quá trình này đã chế tạo ra được mấy loại vũ khí sinh học bán trưởng thành cực kỳ đáng sợ, ví dụ như những đại sát khí như Nemesis, Tyrant, Ivan, Talos."
+    },
+    {
+      "segment_id": "0003",
+      "source": "不过命运所开辟的这个副本，不过是他开辟的无量副本中的其中一个，而且还属于先天不足型的。因为赵奇知道真正的中型，大型，甚至是超大型副本都还在孕育之中。比如说那些让众多玩家嗷嗷直叫，恨不得现在就投身进去的型月世界，魔兽世界，阳神世界，乃至这个生化危机世界的游戏版世界，其实都只是在胚胎阶段，想要瓜熟蒂落，除了不停地吸收众生的精神力外，赵奇也要每天不间断的往里面投入创造神力，只有这样才能让它们真实的显化出来。现在出现的副本都不过是以一个小故事，一个地区，甚至是以一个小时间段为蓝本的。根本不像大型，超大型副本那种跨越多个大陆，世界。实力上限高。时间线成百上千年那样恐怖。",
+      "target": "Nhưng phó bản mà Vận Mệnh khai mở này cũng chỉ là một trong vô lượng phó bản hắn đã mở ra, hơn nữa còn thuộc loại thiếu hụt bẩm sinh. Bởi vì Triệu Kỳ biết những phó bản cỡ trung, cỡ lớn, thậm chí là cỡ siêu lớn thực sự đều vẫn đang trong quá trình thai nghén. Ví dụ như những thế giới khiến vô số người chơi gào thét, hận không thể lập tức dấn thân vào như thế giới Type-Moon, thế giới Warcraft, thế giới Dương Thần, thậm chí là phiên bản game của thế giới Resident Evil này, thực chất đều chỉ đang ở giai đoạn phôi thai. Muốn dưa chín cuống rụng, ngoài việc không ngừng hấp thu tinh thần lực của chúng sinh, mỗi ngày Triệu Kỳ cũng phải liên tục rót Thần lực Sáng tạo vào trong đó, chỉ có như vậy mới có thể khiến chúng thực sự hiển hóa ra ngoài. Những phó bản xuất hiện bây giờ đều chỉ lấy một câu chuyện nhỏ, một khu vực, hoặc thậm chí là một khoảng thời gian nhỏ làm kịch bản gốc. Hoàn toàn không giống phó bản cỡ lớn, cỡ siêu lớn trải dài qua nhiều đại lục, nhiều thế giới. Giới hạn sức mạnh lại cao. Dòng thời gian kéo dài hàng trăm hàng ngàn năm vô cùng đáng sợ."
+    },
+    {
+      "segment_id": "0004",
+      "source": "就像这个生化世界，因为先天的不足，所以里面是基本是以电影为版本，以浣熊市为背景的。以核爆为终局，一次又一次的轮回，朝生暮死，形如蚍蜉！这些事赵奇心知肚明，不足以与外人道哉。“既然是如此频繁的轮回，又怎么可能诞生出什么超凡生命？”赵奇心中默想，便带着姬诚向市中心前进。无论怎么样，他来到这个副本之后，浑身的气血与那冥冥之中的因果，就会疯狂地吸引着这个世界的强大个体向他袭来。他只要接受挑战就行了。",
+      "target": "Giống như thế giới Resident Evil này, vì sự thiếu hụt bẩm sinh, nên bên trong cơ bản là lấy bản điện ảnh làm khuôn mẫu, lấy thành phố Raccoon làm bối cảnh. Lấy vụ nổ hạt nhân làm kết cục, luân hồi hết lần này đến lần khác, sáng nở tối tàn, nhỏ bé tựa phù du! Những việc này Triệu Kỳ đều biết rõ trong lòng, nhưng không đáng để nói với người ngoài. \"Đã luân hồi thường xuyên như vậy, thì làm sao có thể sinh ra sinh mệnh siêu phàm nào được cơ chứ?\" Triệu Kỳ thầm nghĩ trong lòng, liền dẫn theo Cơ Thành tiến về phía trung tâm thành phố. Dù thế nào đi nữa, sau khi hắn đến phó bản này, khí huyết trên toàn thân và nhân quả trong chốn tăm tối kia sẽ điên cuồng thu hút những cá thể cường đại của thế giới này lao tới tấn công hắn. Hắn chỉ cần tiếp nhận khiêu chiến là được."
+    },
+    {
+      "segment_id": "0005",
+      "source": "宽阔的街道上，密密麻麻的丧尸如潮水将他们两人掩埋。赵奇双手或点，或扫，或推。犹若定海神针一般将所有的丧尸挡在的四尺之外！那些丧尸虽然拼了命的向前挤，可这四尺距离却如天堑，无论怎样都突破不进去！而在赵奇的身后基础，姬诚则是对被赵奇放过的几处死角，这几处死角，不时间有丧尸从中爬出。比起赵奇的气定神闲，姬诚这里就手忙脚乱的多了。毕竟在这个无限游戏里可没有经验一说，根本不会有什么打着打着，忽然就升级了，然后所有状态全部刷新，立刻就生龙活虎了。在这里一切实力的提升，只能依靠自己或是自己想出的提升办法，而游戏系统是不会给予他们任何帮助的。",
+      "target": "Trên con phố rộng lớn, những thây ma dày đặc như thủy triều định nhấn chìm hai người bọn họ. Hai tay Triệu Kỳ khi thì điểm, khi thì quét, khi thì đẩy. Giống hệt như Định Hải Thần Châm cản lại toàn bộ thây ma ở khoảng cách bốn thước bên ngoài! Đám thây ma kia mặc dù liều mạng chen chúc về phía trước, nhưng khoảng cách bốn thước này lại giống như rãnh trời, dù có làm cách nào cũng không thể đột phá vào được! Mà ở phía sau Triệu Kỳ, Cơ Thành lại phải đối phó với mấy điểm mù mà Triệu Kỳ cố tình bỏ qua, ở những điểm mù này, thỉnh thoảng lại có thây ma bò ra. So với vẻ mặt ung dung bình tĩnh của Triệu Kỳ, Cơ Thành bên này lại luống cuống tay chân hơn nhiều. Suy cho cùng, trong trò chơi vô hạn này không hề có chuyện điểm kinh nghiệm, hoàn toàn không có chuyện đánh đánh một lúc rồi đột nhiên thăng cấp, sau đó toàn bộ trạng thái đều được làm mới, ngay lập tức tràn đầy sinh lực. Ở đây mọi sự tăng trưởng về thực lực đều chỉ có thể dựa vào chính mình hoặc là nghĩ ra cách nâng cao của riêng mình, chứ hệ thống trò chơi sẽ không giúp đỡ họ bất cứ điều gì."
+    },
+    {
+      "segment_id": "0006",
+      "source": "说到底，姬诚也自己不过是一个一阶骑士，根本没有什么超凡力量，只能依靠肉体的力量。虽说他的肉体因为乾元换骨丹的缘故，有了脱胎换骨的变化，但如此强度的战斗显然快要达到他的极限了。“呼，，呼，，呼，，”姬诚机械的挥着拳头，向着那些丧尸挥出他唯一会的一级武技，重击！挥动间身体本能的反应开来，全身肌肉从脚到腰再到肩膀，最后在手中汇聚，一拳捣出，正中一个丧尸的头颅。眨眼间丧尸的头颅就像被砸烂的西瓜一般，崩裂开来。血花伴随着脑浆喷了他一脸，顷刻间，那丧尸特有的腐臭气味就冲进了他的鼻腔中。姬诚狠狠的抹了把脸，用力喘了口气，又准备冲上去。没想一道黑红色的身影如幽灵般从他背后扑了过来，“砰！”还没等姬诚反应过来，就觉一道让他汗毛直竖的拳劲从他耳边笔直的冲了过去，一下子那个舔食者就被打出了四五米远，再翻身却怎么也爬不起来了。姬诚快步上去，一个重击就将舔食者的头打穿了。“怎么感觉舔食者就像没骨头似的一打就穿？”姬诚心中愣了愣，再看看舔食者的模样，这才发现，赵奇的那道拳劲早已经已经将这舔食者的全身骨骼给震成粉末了！",
+      "target": "Nói cho cùng, bản thân Cơ Thành cũng chỉ là một Kỵ sĩ bậc 1, hoàn toàn không có lực lượng siêu phàm nào, chỉ có thể dựa vào sức mạnh của cơ thể. Tuy nói thân thể của hắn nhờ có Càn Nguyên Hoán Cốt Đan mà đã có sự thay đổi thoát thai hoán cốt, nhưng với cường độ chiến đấu thế này hiển nhiên cũng sắp chạm tới giới hạn của hắn rồi. \"Phù... phù... phù...\" Cơ Thành máy móc vung nắm đấm, tung ra võ kỹ cấp một duy nhất mà hắn biết - Trọng Kích - về phía những thây ma kia! Trong lúc vung quyền, cơ thể hắn phản ứng theo bản năng, cơ bắp toàn thân từ chân truyền lên eo rồi tới bả vai, cuối cùng tụ lại trong tay, một quyền nện ra trúng ngay giữa đầu một con thây ma. Trong nháy mắt, đầu của thây ma giống như quả dưa hấu bị đập nát, vỡ tung tóe. Hoa máu cùng với óc bắn đầy lên mặt hắn, chỉ trong chớp mắt, mùi hôi thối thối rữa đặc trưng của thây ma đã xộc thẳng vào khoang mũi hắn. Cơ Thành hung hăng lau mặt một cái, ra sức thở hổn hển, lại chuẩn bị xông lên. Không ngờ một bóng người đỏ đen tựa như bóng ma từ phía sau lưng hắn vồ tới. \"Bịch!\" Còn chưa đợi Cơ Thành kịp phản ứng, hắn đã cảm thấy một luồng quyền kình khiến hắn sởn gai ốc phóng vút qua ngay sát tai hắn, trong nháy mắt con Licker đó liền bị đánh văng ra xa chừng bốn năm mét, lộn một vòng nhưng rồi không tài nào bò dậy nổi nữa. Cơ Thành rảo bước đi tới, tung một đòn Trọng Kích đánh thủng đầu Licker. \"Sao cảm giác Licker này giống như không có xương vậy, đánh một cái là xuyên qua luôn?\" Trong lòng Cơ Thành ngẩn ra, nhìn lại bộ dạng của con Licker mới phát hiện, luồng quyền kình kia của Triệu Kỳ từ sớm đã chấn nát toàn bộ xương cốt toàn thân của Licker thành bột phấn rồi!"
+    },
+    {
+      "segment_id": "0007",
+      "source": "再看看赵奇，他仍站在前面，一步也不离，牢牢地将丧尸挡在四尺之外，姬诚算了算时间，赵奇维持这样的战斗已经有超过两小时了，可他仍然有余力照顾到他，显然如此战斗远没到他的极限。想到这，姬诚不由地叹了口气，虽然对于赵奇的实力，姬诚已经有了非常大的想象，毕竟之前他那如神佛在世，晃动大千的力量可是毫不做假的。可是赵奇依然一次次的刷新他的上限！他不仅力量撼天动地，而且耐力也是如此悠长，这简直就是一个披着人皮的远古凶兽！他真的只有五阶吗？姬诚表示深深的怀疑。“我说，赵哥，你的实力都快突破天际了，那你来这低级的世界干嘛呢，难道你想泡女主角爱丽丝？”姬诚一屁股坐在地上，对着前面的赵奇问道。",
+      "target": "Nhìn lại Triệu Kỳ, hắn vẫn đứng ở phía trước, một bước cũng không dời, vững vàng cản đám thây ma ở khoảng cách bốn thước bên ngoài. Cơ Thành nhẩm tính thời gian, Triệu Kỳ duy trì kiểu chiến đấu như vậy đã hơn hai tiếng đồng hồ rồi, nhưng hắn vẫn còn dư lực để chiếu cố đến mình, rõ ràng kiểu chiến đấu như vậy còn lâu mới tới giới hạn của hắn. Nghĩ đến đây, Cơ Thành bất giác thở dài một hơi. Tuy rằng đối với thực lực của Triệu Kỳ, Cơ Thành đã có sự tưởng tượng rất lớn, dù sao thì sức mạnh giống như Thần Phật giáng thế, làm rung chuyển cả đại thiên thế giới trước đó của hắn đâu phải là giả. Thế nhưng Triệu Kỳ vẫn hết lần này đến lần khác phá vỡ giới hạn thượng tầng trong nhận thức của hắn! Hắn chẳng những sức mạnh có thể rung trời chuyển đất, mà sức bền còn dẻo dai đến như vậy, đây quả thực là một con hung thú thời viễn cổ đội lốt người mà! Hắn thực sự chỉ ở bậc 5 thôi sao? Cơ Thành tỏ vẻ nghi ngờ sâu sắc. \"Tôi nói này anh Triệu, thực lực của anh sắp đột phá chân trời rồi, vậy anh tới thế giới cấp thấp này làm gì, chẳng lẽ anh định tán tỉnh nữ chính Alice à?\" Cơ Thành ngồi phịch xuống đất, lớn tiếng hỏi Triệu Kỳ ở phía trước."
+    },
+    {
+      "segment_id": "0008",
+      "source": "“我来这里当然是有原因的，至于是什么，就不能告诉你了。”赵奇笑了笑，用力一震身子，手结金刚印，遥遥向虚空拍去，刹那间气浪滚滚，如滔滔长江，把眼前的一切都卷了进去！等到姬诚再看时，整个街道空空荡荡，什么东西都没有了。“我去，你这是全屏攻击，没有死角啊。”姬诚看的眼珠子都快瞪下来了，敢情刚才你一直没认真啊，兄弟我们还能一起愉快的玩耍吗？",
+      "target": "\"Tôi tới đây đương nhiên là có lý do, còn về lý do là gì thì không thể nói cho cậu biết được.\" Triệu Kỳ cười cười, dùng sức chấn động cơ thể một cái, tay kết Kim Cương Ấn, đánh từ xa vào không trung. Trong chớp mắt sóng khí cuồn cuộn, tựa như Trường Giang cuồn cuộn chảy xiết, cuốn sạch mọi thứ trước mắt vào trong! Đợi đến khi Cơ Thành nhìn lại lần nữa, cả con phố đã trống rỗng thênh thang, chẳng còn lại thứ gì. \"Vãi chưởng, của anh là đòn tấn công toàn màn hình, không hề có góc chết luôn.\" Cơ Thành nhìn mà tròng mắt suýt rớt cả ra ngoài, hóa ra nãy giờ anh vẫn luôn không hề nghiêm túc à, thế này thì anh em chúng ta còn có thể vui vẻ chơi đùa cùng nhau được nữa không?"
+    },
+    {
+      "segment_id": "0009",
+      "source": "赵奇也没管他这一印的效果，他走到姬诚身边，也坐了下来。说道”“我们在这个浣熊市都快三四个小时了，你就没有发现什么异常吗？还主角爱丽丝，你就没发现我们到现在一个活人都没看见吗？”",
+      "target": "Triệu Kỳ cũng chẳng quan tâm đến hiệu quả một ấn này của mình, hắn đi đến bên cạnh Cơ Thành, cũng ngồi xuống. Lên tiếng nói: \"Chúng ta ở trong thành phố Raccoon này đã sắp ba bốn tiếng rồi, cậu không phát hiện ra điều gì bất thường sao? Còn đòi nữ chính Alice gì chứ, cậu không nhận ra chúng ta cho tới giờ vẫn chưa hề thấy một người sống nào à?\""
+    },
+    {
+      "segment_id": "0010",
+      "source": "“是啊。”姬诚蹭的一声吓得站了起来，的确，他们走到现在，闹出了这么打的动静，怎么可能一个人都不出来看看！这里是生化危机不错，可看着浣熊市还在，应该还没被核爆啊，那怎么一个活人都不出现，毕竟他们玩的可不是单机游戏！",
+      "target": "\"Đúng rồi.\" Cơ Thành \"xoát\" một tiếng sợ hãi đứng bật dậy. Đúng vậy, bọn họ đi đến tận bây giờ, gây ra động tĩnh lớn thế này, làm sao có thể không một ai đi ra xem thử! Nơi này đúng là Resident Evil, nhưng nhìn thấy thành phố Raccoon vẫn còn, đáng lẽ là chưa bị nổ hạt nhân mới phải, vậy sao một người sống nào cũng không xuất hiện, dẫu sao thì cái mà bọn họ đang chơi cũng không phải là game offline!"
+    },
+    {
+      "segment_id": "0011",
+      "source": "想到这里，姬诚心乱如麻，无数的心思在心中鼓荡。“别想了，他们过来了。”赵奇站直了身子，放目望去，只见街道的另一头慢慢走来了三个“人”。一男，一女，一女童！",
+      "target": "Nghĩ đến đây, tâm trí Cơ Thành rối bời, vô số suy tư cuộn trào trong lòng. \"Đừng nghĩ nữa, bọn họ qua đây rồi.\" Triệu Kỳ đứng thẳng người dậy, phóng mắt nhìn tới, chỉ thấy ở đầu kia của con phố có ba \"người\" đang chậm rãi đi tới. Một nam, một nữ, và một bé gái!"
+    },
+    {
+      "segment_id": "0012",
+      "source": "“怎么回事，怎么是他们？他们怎么走到一起了！”姬诚的声音一声比一声大，显出他内心的不平静。生化危机这个系列的电影姬诚全部看完过，这三人他都知道是谁，男的是生化危机里的大反派阿尔伯特威斯克。女的则是生化系列当之无愧的主角爱丽丝。而女童则是是亚西福特博士爱女安吉拉，也就是电影版生化危机始作俑者的爱女！",
+      "target": "\"Chuyện gì thế này, sao lại là bọn họ? Sao bọn họ lại đi cùng nhau chứ!\" Giọng của Cơ Thành càng ngày càng lớn, cho thấy nội tâm của hắn không hề bình tĩnh. Series phim điện ảnh Resident Evil này Cơ Thành đã xem hết toàn bộ, ba người này hắn đều biết là ai. Người đàn ông kia là đại phản diện trong Resident Evil - Albert Wesker. Người phụ nữ kia lại là nhân vật chính xứng đáng không cần bàn cãi của series Resident Evil - Alice. Còn bé gái thì là Angela con gái yêu của Tiến sĩ Ashford, cũng chính là ái nữ của kẻ đầu têu trong phiên bản điện ảnh Resident Evil!"
+    },
+    {
+      "segment_id": "0013",
+      "source": "“真是不容易，我打了两个小时的酱油，总算是把你们给引出来了。”赵奇揉动着手腕，看着他们一脸的微笑“看来之前那一群有一群的丧尸都是你们引出来的吧。”“嗯。”威斯克看着他们，他那如大理石一样刻出来的冰冷面庞露出极为厌恶的神情，他也不说话，用力一挣，顷刻间他就在众人面前变成了一个巨大的怪物！那怪物用仇恨的眼神死盯着赵奇，就向他冲去。",
+      "target": "\"Đúng là không dễ dàng gì, tôi nhởn nhơ suốt hai tiếng đồng hồ, cuối cùng cũng dụ được mấy người ra đây rồi.\" Triệu Kỳ xoa xoa cổ tay, mỉm cười nhìn bọn họ: \"Xem ra từng bầy thây ma lúc nãy đều là do mấy người dẫn ra đây nhỉ.\" \"Hừ.\" Wesker nhìn bọn họ, gương mặt lạnh lùng như được tạc từ đá cẩm thạch lộ ra vẻ cực kỳ chán ghét, gã cũng không nói lời nào, dùng sức vặn mình một cái, trong tích tắc, gã liền biến thành một con quái vật khổng lồ ngay trước mặt mọi người! Con quái vật đó dùng ánh mắt đầy hận thù chằm chằm nhìn Triệu Kỳ, lao thẳng về phía hắn."
+    },
+    {
+      "segment_id": "0014",
+      "source": "“所以说，只要解决了你们，我的任务就算完成了吧。”赵奇哈哈大笑，也向他冲去，战斗而已。男人不要怂，就要干，有什么好在意的！",
+      "target": "\"Cho nên nói, chỉ cần giải quyết xong mấy người, nhiệm vụ của tôi coi như hoàn thành rồi nhỉ.\" Triệu Kỳ cười ha hả, cũng xông về phía gã, chỉ là chiến đấu thôi mà. Đàn ông không được hèn, cứ thế mà chiến, có gì đáng để tâm đâu!"
+    }
+  ]
+}
+```

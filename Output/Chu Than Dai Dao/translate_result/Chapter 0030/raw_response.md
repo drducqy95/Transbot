@@ -1,0 +1,128 @@
+```json
+{
+  "chapter_number": 30,
+  "chapter_title_vi": "Chương 30: Trong màn kịch và ngoài màn kịch",
+  "segments": [
+    {
+      "segment_id": "0001",
+      "source": "# 第30章 戏里与戏外",
+      "target": "# Chương 30: Trong màn kịch và ngoài màn kịch"
+    },
+    {
+      "segment_id": "0002",
+      "source": "无穷高处威严，至高，至大，好像充塞整个虚无的神殿之中，三位至高法则缠绕的神祗正对着一卷神图反复讨论。而图卷上显示的正是幽冥之地正在进行的大战。",
+      "target": "Tại thần điện uy nghiêm, chí cao, chí đại ở một nơi cao vô tận, dường như lấp đầy cả không gian hư vô, ba vị thần linh được pháp tắc chí cao quấn quanh đang vây quanh một cuộn thần đồ để thảo luận liên tục. Mà hình ảnh hiển thị trên cuộn đồ lúc này chính là cuộc đại chiến đang diễn ra ở vùng đất U Minh."
+    },
+    {
+      "segment_id": "0003",
+      "source": "“我说，吾主，我的那一杖估计打的太深了点了吧，你看，那些被我封印在冥界下层的魔神都有好些探出头了。我看事情有些不对，要不我再打上一权杖？”身披毁灭神文交织而出的神袍，呼吸间似有无数的时空在他四周缓缓寂灭，就见那神祗一脸探究，低声向正中间的那位建议道。",
+      "target": "\"Ta nói này Ngô Chủ, một trượng kia của ta phỏng chừng đánh hơi sâu quá rồi thì phải. Ngài xem, những ma thần bị ta phong ấn ở tầng dưới của Minh Giới có không ít tên đã thò đầu ra rồi kìa. Ta thấy chuyện có chút không ổn, hay là ta đập thêm một quyền trượng nữa nhé?\" Khoác trên mình Thần Bào được dệt từ Thần Văn Hủy Diệt, trong từng nhịp thở dường như có vô số thời không đang từ từ tĩnh mịch và tan biến xung quanh hắn. Chỉ thấy vị thần linh đó mang vẻ mặt dò xét, thấp giọng đề nghị với vị đang ngồi ở vị trí chính giữa."
+    },
+    {
+      "segment_id": "0004",
+      "source": "“开什么玩笑，你那一下下去，我估计主尊就要想着怎么重新创世了，你之前的那一下，已经很让我心惊肉跳了。”在他旁边的一位神祗一边说着话，一边把手伸到图卷之中挑动着双方的命运之线，编织着他们的命运，偶然有几根丝线被他不经意地挑断，图卷之中，相对应的那人随之陨落，死的真是不明不白！”再说了，迪奈尔，如果不把那群精神病放出来和六位元素神打擂台，让他们相互制约。就凭那幽冥之地的那群歪瓜裂枣，估计早就被平推了不知多少趟了。”",
+      "target": "\"Đùa gì vậy, ngươi mà phang thêm một cú nữa, ta đoán Chủ Tôn lại phải tính cách sáng thế lại từ đầu đấy. Cú lúc nãy của ngươi đã làm ta đủ kinh hồn bạt vía rồi.\" Vị thần linh ở bên cạnh hắn vừa nói chuyện, vừa vươn tay vào trong cuộn đồ gảy những sợi tơ Vận Mệnh của hai bên, dệt nên số phận của họ. Thỉnh thoảng có vài sợi tơ bị hắn vô tình gảy đứt, trong cuộn đồ, người tương ứng cũng theo đó mà ngã xuống, chết thật là lãng xẹt! \"Hơn nữa, Deneir này, nếu không thả đám thần kinh đó ra để chúng lên lôi đài với sáu vị Nguyên Tố Thần, để bọn họ kiềm chế lẫn nhau, thì chỉ dựa vào đám nhãi nhép ở vùng đất U Minh kia, chắc chắn đã bị san phẳng không biết bao nhiêu lần rồi.\""
+    },
+    {
+      "segment_id": "0005",
+      "source": "“好啊，命运，我说呢，怎么那群家伙就突然窜了出来，原来是你搞得鬼啊！”迪奈尔听闻之后，气的胡子都翘起来了，毁灭的原力随着他的愤怒，在神殿之中起伏，鼓荡。“呵呵。”命运把头甩到一边，没理睬迪奈尔的咆哮。",
+      "target": "\"Được lắm Vận Mệnh, ta đã thắc mắc sao đám đó lại đột nhiên chui ra, hóa ra là do ngươi giở trò!\" Deneir nghe xong, tức giận đến mức râu ria cũng dựng ngược cả lên, nguyên lực Hủy Diệt men theo cơn thịnh nộ của hắn mà sục sôi, cuộn trào trong thần điện. \"He he.\" Vận Mệnh quay đầu sang một bên, làm lơ tiếng gầm gừ của Deneir."
+    },
+    {
+      "segment_id": "0006",
+      "source": "就在这时，坐在正中位置的赵奇忽然身体轻轻莫名弹了一下，不由地轻咦地一声。“怎么了，主尊？”“发生了什么事，吾主？”周围两神关心地问道。",
+      "target": "Đúng lúc này, cơ thể của Triệu Kỳ đang ngồi ở vị trí chính giữa đột nhiên khẽ run lên một cách khó hiểu, khiến hắn không khỏi khẽ \"Ồ\" lên một tiếng. \"Sao vậy Chủ Tôn?\" \"Có chuyện gì xảy ra thế Ngô Chủ?\" Hai vị thần xung quanh quan tâm hỏi."
+    },
+    {
+      "segment_id": "0007",
+      "source": "赵奇神力涌动，瞬息间扫过整个三界，“没什么，只是有人在召唤我的力量罢了。”他伸手一点，命运图卷上的景象就变了样子。显示的正是姬诚用“落星辰”狂砸亡灵的景象。“落星辰”本质其实就相当于神降术，就是呼唤大威大力龙象菩萨上身，施展龙象大力，抓落星斗，屠戮众生的神通。这乃是实打实的法武合一的极招。",
+      "target": "Thần lực của Triệu Kỳ dâng trào, trong nháy mắt lướt qua toàn bộ Tam Giới: \"Không có gì, chỉ là có người đang triệu hoán sức mạnh của ta mà thôi.\" Hắn vươn tay điểm một cái, cảnh tượng trên cuộn đồ Vận Mệnh liền thay đổi. Hình ảnh hiển thị lúc này chính là cảnh Cơ Thành đang dùng chiêu \"Lạc Tinh Thần\" điên cuồng nện bọn vong linh. Bản chất của \"Lạc Tinh Thần\" thực ra cũng tương đương với Thần Giáng Thuật, chính là hô hoán Đại Uy Đại Lực Long Tượng Bồ Tát nhập thể, thi triển Long Tượng Đại Lực, vươn tay bắt sao, tàn sát chúng sinh. Đây là một tuyệt chiêu pháp võ hợp nhất hàng thật giá thật."
+    },
+    {
+      "segment_id": "0008",
+      "source": "不过这个世界到哪里找那位龙象菩萨？有的只有将“大威天龙菩萨观”练到快有大成的赵奇了，自然而然，姬诚就寻着那一点气息的共鸣，向赵奇借到了一丝的力量。“毕竟是认识的人啊。还是稍微帮下忙吧。”赵奇眼看图卷里两人快要陷入绝境，不由的屈指一弹，一点散发着力量之上的神光，就通过图卷落入了姬诚的识海之中。“也是你求的是我，换了别的不认识的人，我连理都不理。”再一动念，图卷的又恢复到之前的场景，而姬诚的事随即抛掷脑后。",
+      "target": "Nhưng ở thế giới này đi đâu tìm vị Long Tượng Bồ Tát kia chứ? Chỉ có Triệu Kỳ là người đã luyện \"Đại Uy Thiên Long Bồ Tát Quan\" sắp đến mức đại thành, nên theo lẽ tự nhiên, Cơ Thành đã nương theo sự cộng hưởng khí tức mỏng manh đó mà mượn được một tia sức mạnh từ hắn. \"Dù sao cũng là người quen, vẫn nên giúp một chút vậy.\" Triệu Kỳ thấy hai người trong cuộn đồ sắp lâm vào tuyệt cảnh, không khỏi búng ngón tay một cái. Một đốm thần quang tản ra sức mạnh chí cao thông qua cuộn đồ rơi thẳng vào trong thức hải của Cơ Thành. \"Cũng may người ngươi cầu là ta, đổi lại là kẻ khác không quen biết, ta thèm vào mà để ý.\" Lại động niệm, cuộn đồ khôi phục lại cảnh tượng như trước, còn chuyện của Cơ Thành cũng lập tức bị hắn ném ra sau đầu."
+    },
+    {
+      "segment_id": "0009",
+      "source": "“你们刚才都在吵什么呢，我们继续吧。”赵奇稍微正了正身子，听到他们对话，不由有些头大，赶紧转移话题，“命运，七天的时间已经过去三天了，你的那个计划准备的怎么样了。”“还行吧，那几个人，我看看都到哪儿了。”命运果然被转移了注意力，他的图卷一转，就又显出了另一幅画面。",
+      "target": "\"Vừa rồi các ngươi cãi nhau cái gì đấy, chúng ta tiếp tục đi.\" Triệu Kỳ hơi ngồi thẳng người lại, nghe được đoạn đối thoại của bọn họ liền không khỏi đau đầu, vội vàng chuyển chủ đề: \"Vận Mệnh, thời hạn bảy ngày đã trôi qua ba ngày rồi, kế hoạch kia của ngươi chuẩn bị đến đâu rồi?\" \"Cũng ổn rồi, mấy người kia, để ta xem đã đi đến đâu rồi.\" Quả nhiên Vận Mệnh bị dời đi sự chú ý, cuộn đồ của hắn chuyển động, lại hiện ra một bức tranh khác."
+    },
+    {
+      "segment_id": "0010",
+      "source": "灰蒙，压抑，沉闷的幽冥之地，被大大小小数十个战场完全分割。数以亿记的亡灵在这大地上不知疲倦的游荡着，当闻到活人的气息时便疯涌而至，将那气息生生浇灭！这时，从远方慢慢走来一个六人的小队，只见着六人身上披着黑色斗篷，不时的与那些亡灵擦肩而过，斗篷上淡白色的神文若隐若现，隔绝着他们的一切气息，让那些亡灵对他们直接视而不见。",
+      "target": "Vùng đất U Minh xám xịt, áp bức và nặng nề, đã bị chia cắt hoàn toàn bởi hàng chục chiến trường lớn nhỏ. Hàng tỷ vong linh không biết mệt mỏi lang thang trên mảnh đất này, khi ngửi thấy khí tức của người sống, chúng liền điên cuồng ùa tới, tàn nhẫn dập tắt đi chút sinh khí kia! Lúc này, từ phía xa có một tiểu đội sáu người chậm rãi đi tới. Chỉ thấy cả sáu người đều khoác trên mình áo choàng đen, thỉnh thoảng sượt qua những vong linh kia. Thần văn màu trắng nhạt trên áo choàng lúc ẩn lúc hiện, cách ly toàn bộ khí tức của họ, khiến đám vong linh hoàn toàn ngó lơ mà lướt qua."
+    },
+    {
+      "segment_id": "0011",
+      "source": "“我说，姚旭，我们就这样一路走到幽冥通道那里，连个战斗都没有，这任务也太简单了吧。”一悦耳的女声从一个斗篷里传来出来。",
+      "target": "\"Ta nói này Diêu Húc, chúng ta cứ thế đi một mạch đến thông đạo U Minh mà không có lấy một trận chiến nào sao, nhiệm vụ này cũng quá đơn giản rồi chứ.\" Một giọng nữ êm tai vang lên từ trong một chiếc áo choàng."
+    },
+    {
+      "segment_id": "0012",
+      "source": "“切，女人就是胸大无脑，而且你的胸还不大呢，怎么脑容量也这么小呢。”一中学生的嘲笑声在她一旁出现。“你说什么呢，凌翔。”女孩的声音显得有些气急败坏。",
+      "target": "\"Xì, phụ nữ đúng là ngực to không có não, mà ngực của cô cũng có to đâu, sao não lượng cũng nhỏ xíu vậy.\" Tiếng cười nhạo của một nam sinh trung học vang lên bên cạnh cô. \"Cậu nói cái gì hả Lăng Tường.\" Giọng nói của cô gái lộ rõ vẻ thẹn quá hóa giận."
+    },
+    {
+      "segment_id": "0013",
+      "source": "“都别说了，难道你们不知道吗，这斗篷的气息遮断只能最大限度的遮蔽我们的气息，如果我们的动作太大的话，很容易被他们察觉的，所以我们现在最好少说话。”四十多岁的中年男声从他们的最后面小声的传了过来。",
+      "target": "\"Đừng cãi nhau nữa. Lẽ nào hai người không biết sao, áo choàng này chỉ có thể che giấu khí tức của chúng ta ở mức tối đa thôi. Nếu chúng ta hành động quá trớn thì rất dễ bị bọn chúng phát hiện, thế nên bây giờ tốt nhất là bớt nói lại đi.\" Một giọng nam trung niên độ tuổi bốn mươi nho nhỏ truyền đến từ phía cuối đội hình."
+    },
+    {
+      "segment_id": "0014",
+      "source": "“就是就是，大家都听蒋大叔的吧，我可不想倒在黎明的前一刻，我算了算，离幽冥通道也就剩下不到半天的路程了，大家伙一定要小心！”倒数第二位的朱文阳好心的提醒道。",
+      "target": "\"Đúng thế, đúng thế, mọi người cứ nghe lời chú Tưởng đi. Cháu không muốn phải gục ngã ngay trước bình minh đâu. Cháu đã tính toán rồi, cách thông đạo U Minh chỉ còn chưa đến nửa ngày đường, mọi người nhất định phải cẩn thận!\" Chu Văn Dương đi ở vị trí áp chót tốt bụng nhắc nhở."
+    },
+    {
+      "segment_id": "0015",
+      "source": "正说着呢，就见一位骑着鬼火白骨马，身着狰狞的全身重甲的白骨骑士，从那亡灵堆中践踏而来，呼吸之间就踩出了一条死亡通道！“大家小心！这是六阶的亡灵生物-恐惧骑士！大家隐蔽起来，以斗篷的能力，他应该发现不了我们。”",
+      "target": "Đang nói chuyện thì thấy một tên kỵ sĩ bạch cốt cưỡi ngựa bạch cốt ma trơi, khoác trên mình bộ trọng giáp toàn thân dữ tợn đạp lên đám vong linh mà đi tới, chỉ trong vài nhịp thở đã giẫm ra một lối đi tử vong! \"Mọi người cẩn thận! Đây là sinh vật vong linh bậc sáu - Khủng Cụ Kỵ Sĩ! Mọi người mau nấp đi, với khả năng của áo choàng, chắc hắn không phát hiện ra chúng ta đâu.\""
+    },
+    {
+      "segment_id": "0016",
+      "source": "走在最前方的斗篷里传出了一声苍老的声音，他正是姚旭他们几个玩家所要保护的对象，光明与太阳之神的祭祀-赛特。众人听完，就轻车熟路的各自找了一个隐蔽的地点隐藏起来。",
+      "target": "Giọng nói già nua vang lên từ chiếc áo choàng đi đầu. Ông ta chính là đối tượng mà nhóm người chơi Diêu Húc phải bảo vệ: Tế tư của Thần Ánh Sáng và Mặt Trời - Set. Mọi người nghe xong, ai nấy đều quen đường quen nẻo tìm cho mình một chỗ nấp kín đáo."
+    },
+    {
+      "segment_id": "0017",
+      "source": "这三天下来，他们别的没学，可这隐藏的技能绝对是点的很高了。就在眨眼的功夫，这几个就已经消失不见了。",
+      "target": "Trong ba ngày qua, bọn họ chẳng học được gì khác, nhưng kỹ năng ẩn nấp thì tuyệt đối đã được cày lên mức rất cao rồi. Chỉ trong nháy mắt, mấy người này đã biến mất không còn tăm hơi."
+    },
+    {
+      "segment_id": "0018",
+      "source": "本以为，那恐惧骑士不过是路过的，很快就会离开。可没想到，他竟然就在不远处就勒住了白骨马的缰绳。白骨脸上，本应该是眼睛的部位，两团幽蓝色的灵魂火焰熊熊燃烧。他的头微微转了几下，白骨脸上竟露出了几分疑似嘲笑的神色。",
+      "target": "Cứ tưởng tên Khủng Cụ Kỵ Sĩ kia chỉ đi ngang qua rồi sẽ rời đi rất nhanh. Không ngờ hắn lại ghìm cương ngựa ngay cách đó không xa. Trên khuôn mặt xương xẩu, ở vị trí đáng ra phải là đôi mắt thì lại có hai ngọn lửa linh hồn màu xanh lam đang bốc cháy hừng hực. Đầu hắn khẽ xoay vài vòng, trên khuôn mặt đầy xương đó thế mà lại hiện ra vài phần thần sắc giễu cợt."
+    },
+    {
+      "segment_id": "0019",
+      "source": "“快走啊，你还留在这里干嘛呢，这里又没有什么好东西。”几人心中狂喊，但恐惧骑士却抽出了他腰间的白骨长剑。“完蛋了，被发现了。”这时一声青年男声在恐惧骑士身旁响起，“大家全力动手，尽量把他留在这里。”",
+      "target": "\"Mau đi đi, ngươi còn ở lại đây làm gì chứ, chỗ này có thứ gì tốt đâu.\" Vài người điên cuồng gào thét trong lòng, nhưng Khủng Cụ Kỵ Sĩ lại rút thanh trường kiếm bằng xương trắng bên hông ra. \"Toang rồi, bị phát hiện rồi.\" Lúc này, một giọng nam thanh niên vang lên bên cạnh Khủng Cụ Kỵ Sĩ: \"Mọi người dốc toàn lực ra tay đi, cố gắng giữ hắn lại đây.\""
+    },
+    {
+      "segment_id": "0020",
+      "source": "随着话语，一道如朝阳初升的光芒在他的手中缓缓升起！刹那间就彻底照亮了周围的天空，幽冥之地再一次出现了太阳的光辉！这正是姚旭从光明与太阳神殿里选择的武器——初旭。“明白了。”几声男女声一齐大喝，或耀眼，或炽热，或灿烂，或昏暗的光辉同时显出，向着恐惧骑士冲去。“五件被神明祝福的武器，纵容只有四级，那也不是你一个六阶亡灵能抵挡的。”几人心中同时闪过这个念头。",
+      "target": "Dứt lời, một tia sáng tựa như mặt trời mới mọc từ từ dâng lên trong tay hắn! Tích tắc sau đã thắp sáng hoàn toàn bầu trời xung quanh, ánh vinh quang của mặt trời một lần nữa xuất hiện ở vùng đất U Minh! Đây chính là vũ khí mà Diêu Húc đã chọn từ Thần Điện Ánh Sáng Và Mặt Trời —— Sơ Húc. \"Hiểu rồi.\" Vài tiếng nam nữ đồng thanh hô to, những luồng ánh sáng chói lòa, rực rỡ, xán lạn hay u ám đồng loạt xuất hiện, lao thẳng về phía Khủng Cụ Kỵ Sĩ. \"Năm món vũ khí được thần linh chúc phúc, cho dù chỉ mới bậc bốn thì cũng chẳng phải thứ mà một tên vong linh bậc sáu như ngươi có thể chống lại được.\" Ý nghĩ này đồng thời lóe lên trong đầu mấy người họ."
+    },
+    {
+      "segment_id": "0021",
+      "source": "恐惧骑士的嘲笑神情依然没有散去，他轻轻抖了抖白骨长剑，就见无以量记的幽魂骑士从中呼啸而出，短短一瞬间，就将五人的光辉彻底熄灭，又过了一瞬间，幽魂散去，露出了那五位就差一口气就要进轮回的玩家。“他究竟是什么啊。”几人只是感觉眼前一花，自己就变成这个样子了，“这完全不是对手啊，该怎么破。”",
+      "target": "Vẻ giễu cợt của Khủng Cụ Kỵ Sĩ vẫn chưa hề tan đi, hắn nhẹ nhàng vung bạch cốt trường kiếm, liền thấy vô số u hồn kỵ sĩ từ bên trong gào thét lao ra. Chỉ trong một khoảnh khắc ngắn ngủi đã dập tắt hoàn toàn ánh sáng của năm người. Lại thêm một khoảnh khắc nữa, u hồn tản đi, để lộ ra năm người chơi đang ngắc ngoải, chỉ còn thiếu một hơi nữa là sẽ bước vào luân hồi. \"Rốt cuộc hắn là thứ gì vậy.\" Mấy người họ chỉ thấy hoa mắt một cái, bản thân đã biến thành bộ dạng này rồi. \"Thế này thì hoàn toàn không phải đối thủ rồi, phải làm sao bây giờ.\""
+    },
+    {
+      "segment_id": "0022",
+      "source": "这时神明祭祀_赛特慢慢走了出来，几人眼里顿时露出希望的光芒。这位祭祀一身实力深不可测，应该能敌的过那恐惧骑士吧？老人慢慢伸出右手，对着那恐惧骑士一脸慎重地说道:“我投降！！！”",
+      "target": "Lúc này, Tế tư thần linh Set chậm rãi bước ra, trong mắt mọi người lập tức lộ ra tia hy vọng. Vị tế tư này có thực lực sâu không lường được, chắc hẳn có thể chống lại tên Khủng Cụ Kỵ Sĩ kia nhỉ? Ông lão từ từ giơ tay phải lên, nhìn Khủng Cụ Kỵ Sĩ với vẻ mặt vô cùng thận trọng, nói: \"Ta đầu hàng!!!\""
+    },
+    {
+      "segment_id": "0023",
+      "source": "“噗！”“噗！”“噗！”。。。几人同时一口老血喷了出来！",
+      "target": "\"Phụt!\" \"Phụt!\" \"Phụt!\"... Mấy người đồng loạt tức đến hộc máu!"
+    },
+    {
+      "segment_id": "0024",
+      "source": "…………",
+      "target": "…………"
+    }
+  ]
+}
+```

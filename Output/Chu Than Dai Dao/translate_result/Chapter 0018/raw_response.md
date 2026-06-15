@@ -1,0 +1,68 @@
+```json
+{
+  "chapter_number": 18,
+  "chapter_title_vi": "Chương 18: Kế hoạch nhỏ của quốc gia",
+  "segments": [
+    {
+      "segment_id": "0001",
+      "source": "# 第18章 国家的小计划",
+      "target": "Chương 18: Kế hoạch nhỏ của quốc gia"
+    },
+    {
+      "segment_id": "0002",
+      "source": "赵奇轻吟一声，往前踏出一步，霎那间空间震荡，发出了不堪重负的挤压声。这时姬诚耳边系统的声音急促地传来：“由于未知原因，该副本出现强大的偏移，本次任务强制结束，五秒内传送出去。请玩家注意，本次任务强制失败，但没有任何惩罚，现在倒计时开始，五，。。。。。二，一。传送结束！”根本没来得及反应，等姬诚再睁眼时自己又站在骑士学院里了。“谁能告诉我怎么我就出来了？？”姬诚愣了好久不由地发出声来。",
+      "target": "Triệu Kỳ khẽ ngâm một tiếng, bước tới một bước, trong chớp mắt không gian chấn động, phát ra âm thanh dồn ép không chịu nổi gánh nặng. Lúc này, bên tai Cơ Thành, giọng nói của hệ thống dồn dập vang lên: \"Do nguyên nhân chưa xác định, phó bản này xuất hiện độ lệch lạc mạnh mẽ, nhiệm vụ lần này cưỡng chế kết thúc, trong vòng năm giây sẽ truyền tống ra ngoài. Xin người chơi chú ý, nhiệm vụ lần này cưỡng chế thất bại, nhưng không có bất kỳ trừng phạt nào, đếm ngược bắt đầu, năm... hai, một. Truyền tống kết thúc!\" Hoàn toàn không kịp phản ứng, đợi đến khi Cơ Thành mở mắt ra lần nữa, hắn đã đứng lại trong Học viện Kỵ sĩ. \"Ai có thể cho ta biết sao ta lại ra ngoài rồi không??\" Cơ Thành ngơ ngẩn hồi lâu mới buột miệng nói."
+    },
+    {
+      "segment_id": "0003",
+      "source": "而另一边，党起志他们那一伙，在听到系统提示声时，他们正在一个幽深的地下实验室中，他们中的一人正满头虚汗，小心翼翼地拆着一块主板，而党起志他们正全神贯注地警戒，以防任何意外的发生。当听到系统声时，所有人脸色狂变，他们花了不知多少代价，才暂时重启的这个人工智能“火焰女皇”，好不容易快要得手了。现在系统玩这一出，那他们之前的投入全得打水漂！“来不及了。。”拆的那人一脸绝望，手里的动作也停了下来。“给我闪开。”党起志大喊一声，一把就把那人推开，伸手抓住主板狠狠的一拽，顿时拽出了四分之三大小的部件，还没说话，就见光芒闪过，他们又回到了初始的地方。。。。。。。。",
+      "target": "Còn ở một bên khác, nhóm người Đảng Khởi Chí khi nghe thấy âm thanh nhắc nhở của hệ thống, họ đang ở trong một phòng thí nghiệm dưới lòng đất sâu thẳm, một người trong số họ đang đổ đầy mồ hôi hột, cẩn thận tháo một khối bo mạch chủ, còn nhóm Đảng Khởi Chí đang tập trung tinh thần cảnh giới, đề phòng bất kỳ sự cố nào xảy ra. Khi nghe thấy giọng nói của hệ thống, sắc mặt tất cả mọi người biến đổi dữ dội, họ đã bỏ ra không biết bao nhiêu cái giá, mới tạm thời khởi động lại được trí tuệ nhân tạo \"Nữ Hoàng Đỏ\" này, vất vả lắm mới sắp đắc thủ. Bây giờ hệ thống lại giở trò này, vậy thì toàn bộ sự đầu tư trước đó của họ đều đổ sông đổ biển hết! \"Không kịp nữa rồi...\" Người đang tháo gỡ mang vẻ mặt tuyệt vọng, động tác trên tay cũng dừng lại. \"Tránh ra cho ta.\" Đảng Khởi Chí hét lớn một tiếng, lập tức đẩy người kia ra, đưa tay tóm lấy bo mạch chủ ra sức kéo mạnh, lập tức kéo ra được linh kiện lớn cỡ ba phần tư, còn chưa kịp nói chuyện, đã thấy ánh sáng lóe lên, bọn họ lại quay về nơi bắt đầu..."
+    },
+    {
+      "segment_id": "0004",
+      "source": "世界最高处，一位浑身神光环绕，身影好像笼罩整个世界的神祗正盘坐在虚空之中，头顶其大无边，其深无计的神图正缓慢缩放，好像另一位神祗在沉睡，在呼吸！神图中无量的命运之力在当中编织，交融，消逝，共同组成了一道浩浩荡荡的命运长河！这时神图忽然疯狂乱颤，整个命运长河都在咆哮，震荡甚至有被拦腰截断的趋势！只见那神祗命运神力直冲神图，准备尽全力稳住它。",
+      "target": "Tại nơi cao nhất của thế giới, một vị thần linh toàn thân được thần quang bao quanh, thân ảnh như bao phủ cả thế giới đang ngồi xếp bằng trong hư không, trên đỉnh đầu là thần đồ to lớn vô biên, thâm thúy không đếm xuể đang chậm rãi thu phóng, giống như một vị thần linh khác đang say ngủ, đang hô hấp! Vô lượng sức mạnh vận mệnh trong thần đồ đang đan xen, hòa quyện, tiêu tán bên trong, cùng nhau tạo thành một dòng sông Vận Mệnh Trường Hà cuồn cuộn! Lúc này thần đồ chợt điên cuồng run rẩy, toàn bộ Vận Mệnh Trường Hà đều đang gầm thét, chấn động thậm chí có xu hướng bị cắt ngang lưng! Chỉ thấy thần lực vận mệnh của vị thần linh kia lao thẳng vào thần đồ, chuẩn bị dốc toàn lực ổn định nó."
+    },
+    {
+      "segment_id": "0005",
+      "source": "忽然间神图之中命运深藏，却露出了另一幅画面。如恒河沙数一般计量的星辰在当中组成无数的星系星座，星阵，星图正在缓慢旋转运行。只见其中有一个十几的小星星组成的散发着血腥，残暴，贪婪，疯狂等诸多负面意志的小星系忽然大放光明，尤其是里面一颗不起眼的小星星，更是直接炸成了碎片。",
+      "target": "Đột nhiên vận mệnh ẩn sâu bên trong thần đồ lại lộ ra một bức tranh khác. Những vì sao có số lượng hằng hà sa số đan kết thành vô số tinh hệ chòm sao, tinh trận, tinh đồ đang chậm rãi xoay chuyển vận hành. Chỉ thấy bên trong đó có một tinh hệ nhỏ gồm mười mấy ngôi sao tạo thành đang tản ra các loại ý chí tiêu cực như máu tanh, tàn bạo, tham lam, điên cuồng đột nhiên tỏa sáng rực rỡ, nhất là một ngôi sao nhỏ bé không đáng chú ý ở trong đó, càng trực tiếp nổ tung thành mảnh vỡ."
+    },
+    {
+      "segment_id": "0006",
+      "source": "只见一位神光璀璨，伟岸无比的身影从里面迈步而出！他伸手在碎片之中一捞，捞出来三个快要泯灭的光点，屈指一弹，三个光点就飞入了极极远处，一个由数百个星辰所组成的巨大星系之中。“都好好做人吧，下辈子别做怪物了。”声音震荡整个宇宙，似祝福，也似警告。",
+      "target": "Chỉ thấy một bóng hình thần quang rực rỡ, vô cùng vĩ đại từ bên trong sải bước đi ra! Hắn vươn tay vớt vào giữa những mảnh vỡ, vớt ra ba điểm sáng sắp sửa tan biến, rồi búng tay một cái, ba điểm sáng liền bay vào một tinh hệ khổng lồ được tạo thành từ hàng trăm vì sao ở nơi cực kỳ xa xôi. \"Đều làm người cho tốt đi, kiếp sau đừng làm quái vật nữa.\" Âm thanh chấn động cả vũ trụ, tựa như chúc phúc, cũng tựa như cảnh cáo."
+    },
+    {
+      "segment_id": "0007",
+      "source": "身影再迈一步，就从图卷中走了出来。神光收敛，出来的这是赵奇！“怎么回事，主尊？一个生化危机世界还用不到这么大的阵势吧？”命运也从虚空中站了起来，走到赵奇身旁，好奇的问道。“别说了。”赵奇一脸的晦气，好像出门踩到了****，虽然不致命，但也够恶心的。“你是不知道，生化危机里的三个人不知怎么的感染的始祖病毒，并于那无意识的始祖病毒产生交融，通过始祖病毒竟然将之前所有轮回的记忆都觉醒的，这下子心神失守，完全被病毒侵占，都成了怪物。所以啊，我最讨厌这种事了。”赵奇撇了撇嘴，无奈道:“那个世界算是彻底没救了，就算再格式化，再重启，再轮回，还要还有始祖病毒这东西，他们还会觉醒了，所以，我只能将世界毁灭了。”赵奇一摊手，实在是很无奈。",
+      "target": "Bóng hình lại tiến thêm một bước, liền đi ra từ trong bức tranh cuộn. Thần quang hội tụ lại, người bước ra chính là Triệu Kỳ! \"Chuyện gì vậy, chủ tôn? Một thế giới Resident Evil đâu cần dùng đến trận thế lớn thế này chứ?\" Vận Mệnh cũng đứng lên từ hư không, đi đến bên cạnh Triệu Kỳ, tò mò hỏi. \"Đừng nói nữa.\" Vẻ mặt Triệu Kỳ đầy xui xẻo, giống như ra cửa giẫm phải phân, tuy không chí mạng nhưng cũng đủ buồn nôn. \"Ngươi không biết đâu, ba người trong Resident Evil không biết làm sao lại lây nhiễm virus Progenitor, đồng thời sinh ra sự hòa quyện với con virus Progenitor vô ý thức kia, thông qua virus Progenitor mà lại thức tỉnh toàn bộ ký ức của những lần luân hồi trước đó, cục diện này khiến tâm thần thất thủ, hoàn toàn bị virus chiếm đóng, đều biến thành quái vật. Cho nên a, ta ghét nhất là mấy loại chuyện này.\" Triệu Kỳ bĩu môi, bất đắc dĩ nói: \"Thế giới kia coi như đã hết cứu nổi thật rồi, cho dù format lại lần nữa, khởi động lại lần nữa, luân hồi lần nữa, mà vẫn còn thứ virus Progenitor này, thì bọn họ sẽ lại thức tỉnh, thế nên ta đành phải hủy diệt thế giới đó.\" Triệu Kỳ dang hai tay, thực sự rất bất đắc dĩ."
+    },
+    {
+      "segment_id": "0008",
+      "source": "命运认真思考了一下，“还好主尊你发现了这个问题，看来我们还得对这些副本世界进行深度的修改，改造。这样的事不能再出现了。”“理应如此。”赵奇十分赞同的点点头。出现这样的事，对当事人来说就是一种折磨，尤其是这种恐怖类的副本，一旦出现这种情况，那就是让人在崩溃的路上一路狂奔，停都停不下来。与其如此，还不如一开始就在源头把它掐死。当然像神话世界内那种可以自由轮回，随意转世的又另当别论了。",
+      "target": "Vận Mệnh nghiêm túc suy nghĩ một chút: \"May mà chủ tôn ngài đã phát hiện ra vấn đề này, xem ra chúng ta còn phải tiến hành sửa đổi, cải tạo sâu sắc những thế giới phó bản này. Chuyện như vậy không thể xuất hiện nữa.\" \"Đáng ra phải thế.\" Triệu Kỳ cực kỳ tán đồng mà gật đầu. Xảy ra loại chuyện này, đối với người trong cuộc mà nói chính là một sự tra tấn, nhất là loại phó bản mang tính kinh dị này, một khi xuất hiện tình huống đó, thì chính là bắt người ta chạy điên cuồng trên con đường sụp đổ, muốn dừng cũng không dừng được. Tương đương với thế, còn không bằng ngay từ đầu đã bóp chết nó từ tận ngọn nguồn. Tất nhiên, loại như thế giới Thần thoại có thể tự do luân hồi, tùy ý chuyển thế lại là chuyện khác."
+    },
+    {
+      "segment_id": "0009",
+      "source": "这是智脑的声音响起，“主人，现在有人准备兑换能带入现实的物品了。”“咦，这么快？这才两天吧？谁这么土豪，能兑换的起奇物榜里的东西？”赵奇大奇。“主人，那人不是兑换奇物榜里奇物，他是从副本内带出了物品，请求带入现实。”“那是什么物品？”“已经破损的火焰女皇主板。”智脑说话间，就投影出了大屏幕，将那人获得火焰女皇主板的经历显示了出来。“果然，就是那党胖子！”赵奇看到那人，就知道党起志那群人去生化危机干什么去了。“真不愧是国家的人，竟然直指根本。”赵奇大赞道。火焰女皇主板可以说是这个生化世界最有价值的物品了，有了火焰女皇主板，国家的软实力起码要提升二三十年，毕竟这是保护伞公司几十年的研究经验与成果啊。",
+      "target": "Lúc này, giọng nói của Trí Não vang lên: \"Chủ nhân, hiện tại có người đang chuẩn bị đổi vật phẩm có thể mang vào hiện thực.\" \"Ủa, nhanh vậy sao? Mới được hai ngày thôi mà? Ai lại đại gia như thế, có thể đổi nổi đồ trong bảng kỳ vật?\" Triệu Kỳ vô cùng ngạc nhiên. \"Chủ nhân, người đó không phải đổi kỳ vật trong bảng kỳ vật, hắn lấy ra vật phẩm từ trong phó bản, thỉnh cầu mang vào hiện thực.\" \"Đó là vật phẩm gì?\" \"Bo mạch chủ Nữ Hoàng Đỏ đã bị hỏng.\" Trong lúc Trí Não nói chuyện, liền chiếu ra màn hình lớn, hiển thị toàn bộ quá trình người kia đoạt được bo mạch chủ Nữ Hoàng Đỏ. \"Quả nhiên, chính là tên mập Đảng đó!\" Triệu Kỳ nhìn thấy người kia, liền biết đám người Đảng Khởi Chí đến Resident Evil để làm gì. \"Quả không hổ là người của quốc gia, lại có thể nhằm thẳng vào gốc rễ.\" Triệu Kỳ lớn tiếng khen ngợi. Bo mạch chủ Nữ Hoàng Đỏ có thể nói là vật phẩm có giá trị nhất thế giới sinh hóa này, có bo mạch chủ Nữ Hoàng Đỏ, quyền lực mềm của quốc gia ít nhất phải được nâng cao thêm hai ba mươi năm, dù sao đây cũng là kinh nghiệm và thành quả nghiên cứu suốt mấy chục năm của Tập đoàn Umbrella."
+    },
+    {
+      "segment_id": "0010",
+      "source": "“智脑，你扫描一下，这个破损的主板有修复的可能吗？”赵奇问道。“扫描结果，以现有国家的能力，有17%的可能修复完成。”“是这样啊。”赵奇摸了摸下巴，“算了，就当是给他们一个念想吧。智脑按原价卖给他们吧。”“是主人！”。。。。。",
+      "target": "\"Trí Não, ngươi quét thử xem, khối bo mạch chủ bị hỏng này có khả năng khôi phục không?\" Triệu Kỳ hỏi. \"Kết quả quét: Với năng lực của quốc gia hiện tại, có 17% khả năng sửa chữa hoàn tất.\" \"Ra là vậy a.\" Triệu Kỳ sờ sờ cằm: \"Thôi bỏ đi, cứ coi như là cho bọn họ một tia hy vọng vậy. Trí Não, cứ dựa theo giá gốc mà bán cho bọn họ đi.\" \"Rõ, chủ nhân!\"..."
+    },
+    {
+      "segment_id": "0011",
+      "source": "于此同时，党起志他们也正坐立不安的等待系统的答复。火焰女皇主板不比其他，经过国安局的专家分析，主板里就算没有始祖病毒，C病毒，G病毒这些恐怖病毒的资料，但起码里面关于T病毒的资料肯定的齐全的，这对他们加快研究超人血清会有极大的帮助。如果运气好的话，他们甚至能在里面找到关于人工智能这方面资料。这简直是一本万利的好事！不要说什么T病毒是极为邪恶的这些话了，到了国家的层面上，哪有什么绝对的善与恶？",
+      "target": "Cùng lúc đó, nhóm Đảng Khởi Chí cũng đang đứng ngồi không yên, chờ đợi câu trả lời từ hệ thống. Bo mạch chủ Nữ Hoàng Đỏ không giống những thứ khác, trải qua chuyên gia của Cục An ninh quốc gia phân tích, trong bo mạch chủ cho dù không có tư liệu về những virus khủng khiếp như virus Progenitor, C-virus, G-virus, nhưng ít nhất tài liệu liên quan đến T-virus chắc chắn là cực kỳ đầy đủ, điều này sẽ mang lại trợ giúp cực lớn đối với việc bọn họ đẩy nhanh nghiên cứu huyết thanh siêu nhân. Nếu vận khí tốt, bọn họ thậm chí có thể tìm được tài liệu về mảng trí tuệ nhân tạo ở bên trong. Đây quả thực là chuyện tốt một vốn bốn lời! Đừng nói những lời kiểu như T-virus là vô cùng tà ác này nọ, đã ở trên phương diện quốc gia, thì làm gì có thiện và ác tuyệt đối?"
+    },
+    {
+      "segment_id": "0012",
+      "source": "现在唯一能制约他们的就是无限游戏是否允许他们把它带到现实了。就在此时，系统声传来“如果想要将主板带入现实，请支付五百点神币。！”“太好了。”党起志暗暗握紧拳头，马上支付的神币，并请求回归现实。“是否回归现实？”“确定！”光芒闪过，党起志一群人就带着足以搅动世界风云的物品回归现实了。当然前提是他们能将主板修复，否则的话，还不如一开始就没有呢，至少不会那么心痛。。。。。。。",
+      "target": "Bây giờ thứ duy nhất có thể chế ước bọn họ chính là Trò Chơi Vô Hạn có cho phép họ mang nó vào hiện thực hay không. Ngay tại lúc này, giọng nói của hệ thống truyền đến: \"Nếu muốn mang bo mạch chủ vào hiện thực, vui lòng thanh toán năm trăm điểm thần tệ!\" \"Tốt quá rồi.\" Đảng Khởi Chí thầm nắm chặt nắm đấm, lập tức thanh toán thần tệ, đồng thời yêu cầu trở về hiện thực. \"Có chắc chắn trở về hiện thực?\" \"Xác nhận!\" Ánh sáng lóe qua, nhóm Đảng Khởi Chí đã mang theo vật phẩm đủ sức khuấy động phong vân thế giới trở về hiện thực. Đương nhiên, tiền đề là bọn họ phải có thể sửa xong được bo mạch chủ này, bằng không, còn chẳng bằng ngay từ đầu đã không có, ít nhất sẽ không đau lòng đến thế..."
+    }
+  ]
+}
+```

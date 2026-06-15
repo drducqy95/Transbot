@@ -15,3 +15,47 @@
 - 2026-06-12 18:24 | Chapter 11 | completed | Chương 0011 - Chương 11 Kế hoạch của thủ lĩnh ẩn sau.md
 - 2026-06-12 18:47 | Chapter 11 | completed | Chương 0011 - Chương 11 Kế hoạch của thủ lĩnh ẩn sau.md
 - 2026-06-12 19:19 | Chapter 12 | completed | Chương 0012 - Chương 12 Sóng ngầm trong hiện thực.md
+- 2026-06-12 19:59 | Chapter 13 | completed | Chương 0013 - Chương 13.md
+- 2026-06-13 03:04 | Chapter 13 | completed | Chương 0013 - Chương 13.md
+- 2026-06-13 03:22 | Chapter 14 | completed | Chương 0014 - Chương 14 Đã là vô hạn thì sao có thể thiếu Resident Evil chứ.md
+- 2026-06-13 03:53 | Chapter 15 | completed | Chương 0015 - Chương 15 Long Tượng Đại Lực giáng thế nơi tận cùng!.md
+- 2026-06-13 04:12 | Chapter 16 | completed | Chương 0016 - Chương 16 Lực! Lực! Lực! Càn quét hết thảy mới là lực!.md
+- 2026-06-13 04:33 | Chapter 17 | completed | Chương 0017 - Chương 17 Đàn ông không được hèn, cứ thế mà chiến!.md
+- 2026-06-13 04:52 | Chapter 18 | completed | Chương 0018 - Chương 18 Kế hoạch nhỏ của quốc gia.md
+- 2026-06-13 05:17 | Chapter 19 | completed | Chương 0019 - Chương 19 Vận Mệnh và Hủy Diệt.md
+- 2026-06-13 05:32 | Chapter 20 | completed | Chương 0020 - Chương 20 Sóng ngầm.md
+- 2026-06-13 05:47 | Chapter 21 | completed | Chương 0021 - Chương 21 Sóng ngầm.md
+- 2026-06-13 05:56 | Chapter 22 | completed | Chương 0022 - Chương 22 Sóng to gió lớn chỉ tại một người!.md
+- 2026-06-13 06:22 | Chapter 23 | completed | Chương 0023 - Chương 23 Lấy sức một người bẩy cả thế giới!.md
+- 2026-06-13 06:31 | Chapter 24 | completed | Chương 0024 - Chương 24 Cha và mẹ.md
+- 2026-06-13 07:02 | Chapter 25 | completed | Chương 0025 - Chương 25 Khởi đầu của sự kiện lớn.md
+- 2026-06-13 07:12 | Chapter 26 | completed | Chương 0026 - Chương 26 Nhiệm vụ, nhiệm vụ.md
+- 2026-06-13 07:37 | Chapter 27 | completed | Chương 0027 - Chương 27 Cuộc chiến của Kỵ sĩ.md
+- 2026-06-13 07:53 | Chapter 28 | completed | Chương 0028 - Chương 28 Liên quân tập kết.md
+- 2026-06-13 08:12 | Chapter 29 | completed | Chương 0029 - Chương 29 Hình ảnh thu nhỏ của chiến trường.md
+- 2026-06-13 08:27 | Chapter 30 | completed | Chương 0030 - Chương 30 Trong màn kịch và ngoài màn kịch.md
+- 2026-06-13 08:46 | Chapter 31 | completed | Chương 0031 - Chương 31 Vĩnh Hằng Kiêu Dương, Lưu Quang Kỵ Sĩ.md
+- 2026-06-13 08:57 | Chapter 32 | completed | Chương 0032 - Chương 32 Vài chuyện của Cục An ninh Quốc gia.md
+- 2026-06-13 09:27 | Chapter 33 | completed | Chương 0033 - Chương 33 Kế hoạch bổ toàn thế giới.md
+- 2026-06-13 09:42 | Chapter 34 | completed | Chương 0034 - Chương 34 Động thái của quốc gia.md
+- 2026-06-13 10:23 | Chapter 35 | completed | Chương 0035 - Chương 35 Thuyết phục, cách của đại gia.md
+- 2026-06-13 10:41 | Chapter 35 | completed | Chương 0035 - Chương 35 Thuyết phục, cách của đại gia.md
+- 2026-06-13 11:03 | Chapter 36 | completed | Chương 0036 - 0036 战力集结！.md
+- 2026-06-13 11:12 | Chapter 37 | completed | Chương 0037 - 0037 玲珑妖 ，玄黄塔！.md
+- 2026-06-13 11:23 | Chapter 38 | completed | Chương 0038 - 0038 皇天！后土！.md
+- 2026-06-13 11:32 | Chapter 36 | completed | Chương 0036 - 0036 战力集结！.md
+- 2026-06-13 11:48 | Chapter 37 | completed | Chương 0037 - 0037 玲珑妖 ，玄黄塔！.md
+- 2026-06-13 11:57 | Chapter 38 | completed | Chương 0038 - Chương 38 Hoàng Thiên! Hậu Thổ!.md
+- 2026-06-13 12:17 | Chapter 36 | completed | Chương 0036 - Chương 36 Tập kết chiến lực!.md
+- 2026-06-13 12:47 | Chapter 37 | completed | Chương 0037 - 0037 玲珑妖 ，玄黄塔！.md
+- 2026-06-13 12:53 | Chapter 39 | completed | Chương 0039 - 0039 现实的现状.md
+- 2026-06-13 13:07 | Chapter 37 | completed | Chương 0037 - 0037 玲珑妖 ，玄黄塔！.md
+- 2026-06-13 13:13 | Chapter 39 | completed | Chương 0039 - 0039 现实的现状.md
+- 2026-06-13 13:27 | Chapter 37 | completed | Chương 0037 - 0037 玲珑妖 ，玄黄塔！.md
+- 2026-06-13 13:35 | Chapter 37 | completed | Chương 0037 - 0037 玲珑妖 ，玄黄塔！.md
+- 2026-06-13 13:46 | Chapter 39 | completed | Chương 0039 - 0039 现实的现状.md
+- 2026-06-13 13:52 | Chapter 40 | completed | Chương 0040 - 0040 补丁.md
+- 2026-06-13 13:55 | Chapter 41 | completed | Chương 0041 - 0041 无限的触手，慢慢的包围.md
+- 2026-06-13 13:58 | Chapter 42 | completed | Chương 0042 - 0042 信仰，美利坚的选择.md
+- 2026-06-13 14:03 | Chapter 37 | completed | Chương 0037 - 0037 玲珑妖 ，玄黄塔！.md
+- 2026-06-15 21:14 | Chapter 37 | completed | Chương 0037 - Chương 37 Linh Lung Yêu, Huyền Hoàng Tháp!.md

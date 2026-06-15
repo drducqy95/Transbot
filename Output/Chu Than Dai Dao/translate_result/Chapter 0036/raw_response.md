@@ -1,0 +1,188 @@
+```json
+{
+  "chapter_number": 36,
+  "chapter_title_vi": "Chương 36: Tập kết chiến lực!",
+  "segments": [
+    {
+      "segment_id": "0001",
+      "source": "# 第36章 战力集结！",
+      "target": "# Chương 36: Tập kết chiến lực!"
+    },
+    {
+      "segment_id": "0002",
+      "source": "一夜无话，姬诚整天都在那演武场中，哪里都没有出去，无形而又凛然生威，震动大千的气息时刻地将这里所笼罩，拒绝任何人的进入！",
+      "target": "Một đêm không có chuyện gì xảy ra, Cơ Thành ở lì trong diễn võ trường suốt cả ngày, chẳng đi đâu cả. Khí tức vô hình nhưng lại uy nghiêm lẫm liệt, chấn động đại thiên lúc nào cũng bao trùm nơi này, từ chối bất kỳ ai bước vào!"
+    },
+    {
+      "segment_id": "0003",
+      "source": "“怎么还不出来，眼瞅着，就快要到集合的时间了啊。”门外的王康有些紧张的在门口走来走去。他的实力不足，就算跟着姬诚修炼人仙武道，到现在也刚刚在内壮肉身的阶段打转，就是加上骑士的修为也不过刚刚摸到一级。所以这一次的任务，党起志压根就没想邀请他。",
+      "target": "“Sao vẫn chưa ra nhỉ, nhìn xem, sắp đến giờ tập hợp rồi đây này.” Vương Khang ở ngoài cửa có chút căng thẳng đi qua đi lại. Thực lực của cậu ta không đủ, cho dù theo Cơ Thành tu luyện Nhân Tiên Võ Đạo, đến tận bây giờ cũng mới chỉ quanh quẩn ở giai đoạn nội tráng nhục thân, dù có cộng thêm tu vi Kỵ sĩ thì cũng mới vừa chạm tới cấp một. Vì vậy nhiệm vụ lần này, Đảng Khởi Chí vốn dĩ không hề nghĩ đến việc mời cậu ta."
+    },
+    {
+      "segment_id": "0004",
+      "source": "就在王康在门口碎碎念的时候。姬诚终于从演武场了走出来了。他浑身上下气血运转不休，随着他的脚步一下的跳动不止，犹如第二个心脏一般。而他的身体也闪现出一种淡淡地黑青色，行走之间，一种无形有质的力量慢慢的压迫着他周身一尺见方的空间，这明显是二阶的骑士技“黑铁之躯”修炼到了极限，才有的特征！",
+      "target": "Đúng lúc Vương Khang đang lẩm bẩm ở cửa thì Cơ Thành rốt cuộc cũng từ trong diễn võ trường bước ra. Khí huyết trên toàn thân hắn vận chuyển không ngừng, men theo nhịp bước chân của hắn mà đập lên liên hồi, giống hệt như một trái tim thứ hai vậy. Mà trên cơ thể hắn cũng ánh lên một màu đen xanh nhàn nhạt, khi bước đi, một cỗ sức mạnh vô hình có chất đang chậm rãi áp bách không gian chừng một thước vuông quanh người hắn, đây rõ ràng là đặc trưng chỉ có được khi kỹ năng Kỵ sĩ bậc hai \"Hắc Thiết Chi Khu\" tu luyện đến cực hạn!"
+    },
+    {
+      "segment_id": "0005",
+      "source": "“怎么样？你突破了？”王康看到这样的异象哪会不知道姬诚的实力大进？",
+      "target": "“Sao rồi? Cậu đột phá rồi à?” Nhìn thấy dị tượng như vậy, Vương Khang làm sao lại không biết thực lực của Cơ Thành đã tăng tiến lớn chứ?"
+    },
+    {
+      "segment_id": "0006",
+      "source": "“嗯，侥幸而已，在最后时刻骑士修为终于突破了。”姬诚点了点头，算是肯定了王康的想法。",
+      "target": "“Ừ, may mắn thôi, vào thời khắc cuối cùng tu vi Kỵ sĩ rốt cuộc cũng đột phá.” Cơ Thành gật đầu, coi như đã khẳng định suy nghĩ của Vương Khang."
+    },
+    {
+      "segment_id": "0007",
+      "source": "“真是太好了。”王康忍不住直搓手掌，脸上的兴奋不已言表“没想到，我王康现在也有天下第一的高手做兄弟了，呵呵，不敢想象啊。”",
+      "target": "“Tuyệt quá rồi.” Vương Khang nhịn không được xoa xoa hai bàn tay, sự phấn khích trên mặt hiện rõ ra ngoài: “Không ngờ Vương Khang tôi bây giờ cũng có cao thủ đệ nhất thiên hạ làm anh em rồi, ha ha, đúng là không dám tưởng tượng nổi.”"
+    },
+    {
+      "segment_id": "0008",
+      "source": "“别天真了，你真以为这个游戏里找不到三级以上的玩家？呵呵，华夏大地卧虎藏龙，什么情况不会发生？就是现在猛的窜出个五级以上的强者，我都不惊讶。”姬诚翻了一下眼皮，开口打击道。",
+      "target": "“Đừng ngây thơ nữa, cậu thực sự nghĩ rằng trong trò chơi này không tìm được người chơi nào từ cấp ba trở lên sao? Ha ha, vùng đất Hoa Hạ ngọa hổ tàng long, tình huống nào mà chẳng thể xảy ra chứ? Dù bây giờ có bất thình lình lao ra một cường giả trên cấp năm, tôi cũng chẳng hề ngạc nhiên đâu.” Cơ Thành trợn mắt, mở miệng đả kích."
+    },
+    {
+      "segment_id": "0009",
+      "source": "“别用这么严肃的神情说这么荒诞的事，好不好，说的好像你真见过五级的强者似的。”",
+      "target": "“Đừng dùng vẻ mặt nghiêm túc như vậy để nói ra chuyện hoang đường đến thế có được không, làm như thể cậu thực sự từng gặp cường giả cấp năm rồi vậy.”"
+    },
+    {
+      "segment_id": "0010",
+      "source": "“你怎么知道我没见过？”姬诚的心里一阵恍惚，顿时又想起了赵奇那如神佛降世的宏伟力量。说话间的功夫就走出来好远的距离，“走吧，党起志那胖子估计是等了一段时间了，你虽然实力不够，但在一旁打打酱油还是可以的。”",
+      "target": "“Sao cậu biết tôi chưa từng gặp?” Trong lòng Cơ Thành chợt hoảng hốt, lập tức nhớ tới lực lượng hùng vĩ như Thần Phật giáng thế kia của Triệu Kỳ. Trong lúc nói chuyện, hắn đã đi được một đoạn khá xa, “Đi thôi, tên béo Đảng Khởi Chí đó đoán chừng đã đợi một lúc rồi, thực lực của cậu tuy không đủ, nhưng đứng một bên hóng hớt cho vui thì vẫn được.”"
+    },
+    {
+      "segment_id": "0011",
+      "source": "“喂，你倒是说清楚啊，别说一半留一半好不好？难道你真的见过五级的玩家？”王康大步向前，好不容易才赶到姬诚的身边。",
+      "target": "“Này, cậu nói rõ ràng ra xem nào, đừng có nói một nửa giữ một nửa như vậy có được không? Lẽ nào cậu thực sự từng gặp người chơi cấp năm rồi sao?” Vương Khang bước những bước dài, khó khăn lắm mới đuổi kịp tới bên cạnh Cơ Thành."
+    },
+    {
+      "segment_id": "0012",
+      "source": "“呵呵呵。。。。。。”",
+      "target": "“Ha ha ha......”"
+    },
+    {
+      "segment_id": "0013",
+      "source": "………………",
+      "target": "………………"
+    },
+    {
+      "segment_id": "0014",
+      "source": "一路上王康都在旁敲侧击，询问那位强者的事情，不过姬诚对此却避而不谈，直接就无视那些话语。",
+      "target": "Dọc đường đi Vương Khang luôn vòng vo dò hỏi chuyện về vị cường giả kia, nhưng Cơ Thành đối với chuyện này lại tránh không nhắc tới, trực tiếp ngó lơ những lời đó."
+    },
+    {
+      "segment_id": "0015",
+      "source": "当走到学院的公用传送阵前时，果然党起志早就在那儿等着了。“我的天啊，姬诚兄弟你可是到了。”看到了姬诚的身影，党起志几步就来到了他的身边，嘴上虽然抱怨，但姬诚他们却没有听出生气的语调。",
+      "target": "Khi đi đến trước trận pháp truyền tống công cộng của học viện, quả nhiên Đảng Khởi Chí đã đợi sẵn ở đó từ lâu. “Trời ơi, anh em Cơ Thành cậu cuối cùng cũng đến rồi.” Nhìn thấy bóng dáng của Cơ Thành, Đảng Khởi Chí bước vài bước đi tới bên cạnh hắn, ngoài miệng tuy phàn nàn, nhưng bọn Cơ Thành lại không nghe ra được giọng điệu tức giận."
+    },
+    {
+      "segment_id": "0016",
+      "source": "“实在是对不住了，刚刚出现了一点事，刚刚家里突然发生了点事，我刚处理好的。”姬诚眼睛眨都没眨，就把谎话说了出来。",
+      "target": "“Thật sự là xin lỗi quá, ban nãy vừa có chút chuyện, vừa rồi ở nhà đột nhiên xảy ra chút việc, tôi vừa mới xử lý xong.” Cơ Thành mắt không thèm chớp, cứ thế nói dối."
+    },
+    {
+      "segment_id": "0017",
+      "source": "“没关系，没关系，人来就行，那我们现在就走吧？”党起志也没客套，直接就准备前往目的地。看了党起志这里是真的有些急了，对此姬诚他们并无二意，几人直接就迈进了传送阵。",
+      "target": "“Không sao, không sao, người đến là được rồi, vậy chúng ta đi bây giờ luôn nhé?” Đảng Khởi Chí cũng không khách sáo, trực tiếp chuẩn bị tiến tới đích đến. Nhìn Đảng Khởi Chí có vẻ thực sự có chút sốt ruột, đối với chuyện này bọn Cơ Thành cũng không có ý kiến gì khác, mấy người đi thẳng vào trận pháp truyền tống."
+    },
+    {
+      "segment_id": "0018",
+      "source": "…………",
+      "target": "…………"
+    },
+    {
+      "segment_id": "0019",
+      "source": "在一个一眼望不到边的大草原上，姬诚他们就出现在了这里。“这是哪呢，我们不是要去幽冥之地吗？怎么到这儿了？”姬诚看着眼前的景色不禁问道。",
+      "target": "Trên một thảo nguyên lớn rộng vô bờ bến, bọn Cơ Thành đã xuất hiện ở đây. “Đây là đâu vậy, không phải chúng ta muốn đi đến Vùng Đất U Minh sao? Sao lại tới đây rồi?” Cơ Thành nhìn cảnh sắc trước mắt, không kìm được hỏi."
+    },
+    {
+      "segment_id": "0020",
+      "source": "“这你就不知道了吧。”王康在一旁向姬诚解释道“这里就是幽冥之地。前几天在两位伟大神的分身过来清场后，这方圆几百里就太阳与光明之神被烧成了一片白地。这时候，在一旁的大地与自然之神就出手了，短短几分钟直接就把这里变成的一个大草原。你这几天是练功连疯魔了，要不然随便走出来，就能知道这件事了。”",
+      "target": "“Cái này cậu không biết rồi.” Vương Khang ở bên cạnh giải thích với Cơ Thành: “Nơi này chính là Vùng Đất U Minh. Mấy ngày trước sau khi phân thân của hai vị Thần vĩ đại đến dọn dẹp, vài trăm dặm quanh đây đã bị Thần Mặt Trời và Ánh Sáng thiêu rụi thành một vùng đất trống. Lúc này, Thần Đại Địa và Tự Nhiên ở bên cạnh đã ra tay, chỉ trong vài phút ngắn ngủi đã biến nơi này thành một đại thảo nguyên. Mấy ngày nay cậu luyện công đến nhập ma rồi, nếu không chỉ cần đi ra ngoài là có thể biết được chuyện này.”"
+    },
+    {
+      "segment_id": "0021",
+      "source": "“的确是这样。”党起志也在一旁搭腔说道“而你们还不知道，自从这位大地与自然之神出手的视频在现实里曝光后，现在现实里的那个世界环保组织都已经在公开表示在信仰他了。”",
+      "target": "“Quả thực là như vậy.” Đảng Khởi Chí cũng ở bên cạnh xen vào nói: “Hơn nữa các cậu còn không biết đâu, kể từ khi video vị Thần Đại Địa và Tự Nhiên này ra tay bị lộ ra ngoài đời thực, giờ tổ chức bảo vệ môi trường thế giới ngoài đời đã công khai bày tỏ việc tín ngưỡng ngài ấy rồi.”"
+    },
+    {
+      "segment_id": "0022",
+      "source": "“真的假的？这么厉害？”“是啊，神祗的伟力，谁不惊羡？谁不想再靠近一些，以获得他们的恩赐？”党起志嘴上虽然说话有些轻浮，但眼里却凝重异常。",
+      "target": "“Thật hay giả vậy? Lợi hại đến thế cơ á?”\n“Đúng vậy, sức mạnh to lớn của thần linh, có ai mà không ngưỡng mộ chứ? Ai lại không muốn đến gần thêm một chút, để nhận được ân tứ của họ?” Đảng Khởi Chí ngoài miệng tuy nói có chút cợt nhả, nhưng trong mắt lại vô cùng ngưng trọng."
+    },
+    {
+      "segment_id": "0023",
+      "source": "有些事他是没法和两人细说的，这位大地与自然之神在现实里还只是小问题，真正能引起轩然大波的是那位光明神！要知道他的权柄与位格可是和西方世界信仰了几千年的上帝又七成以上的重叠，这才是真正要了命的大事！",
+      "target": "Có vài chuyện anh ta không thể nói rõ với hai người họ, vị Thần Đại Địa và Tự Nhiên này ngoài đời thực mới chỉ là vấn đề nhỏ, người thực sự có thể gây ra sóng to gió lớn phải là vị Quang Minh Thần kia! Phải biết rằng quyền bính và vị cách của ngài ấy lại trùng lặp đến hơn bảy phần với Thượng Đế mà thế giới phương Tây đã tín ngưỡng hàng ngàn năm, đây mới là chuyện lớn thực sự chí mạng!"
+    },
+    {
+      "segment_id": "0024",
+      "source": "几个人毕竟都有超凡力量在身，就算是最差的王康，真正跑起来，那也是快的没话说。就这几句话的功夫，几个人就已经窜出好几里开外了，再过了一小会儿，就见一个上百人的大队伍就已经出现在了他们面前。",
+      "target": "Mấy người rốt cuộc đều có siêu phàm lực lượng trong mình, cho dù là Vương Khang kém cỏi nhất, khi thực sự chạy lên thì tốc độ cũng nhanh khỏi bàn. Mới nói được dăm ba câu, mấy người đã chạy ra xa tận mấy dặm rồi, đợi thêm một lúc sau, đã thấy một đội ngũ lớn chừng hơn trăm người xuất hiện trước mặt bọn họ."
+    },
+    {
+      "segment_id": "0025",
+      "source": "“二代兄，你可算来了，你知道我们在这里等了多久了吗？”在看到姬诚三人赶到的身影，一位无论身材还是面容都是中学生的男孩，就已经走过来迎接他们了。",
+      "target": "“Nhị Đại huynh, cuối cùng anh cũng tới, anh có biết bọn tôi đã đợi ở đây bao lâu rồi không?” Khi nhìn thấy bóng dáng ba người Cơ Thành chạy tới, một cậu nhóc dù là vóc dáng hay khuôn mặt đều là của học sinh trung học đã tiến lại đón bọn họ."
+    },
+    {
+      "segment_id": "0026",
+      "source": "“哈哈，我这不也是在找帮手吗。你看，这不找到了。”党起志哈哈一笑，指着那中学生说道，“大家认识一下，这是我们国安的第一高手凌翔，别看他年纪小，他可是游戏里为数不多的二级高手。”“呵呵”“呵呵”姬诚两人对视了一眼发出了一声一意不明笑声。",
+      "target": "“Ha ha, tôi chẳng phải cũng đang đi tìm viện trợ sao. Cậu xem, chẳng phải tìm được rồi đây à.” Đảng Khởi Chí cười ha hả, chỉ vào cậu học sinh trung học kia nói, “Mọi người làm quen chút đi, đây là cao thủ đệ nhất Quốc An của chúng ta, Lăng Tường, đừng thấy cậu nhóc này còn nhỏ tuổi, cậu ta chính là một trong số ít cao thủ cấp hai trong trò chơi đấy.”\n“Ha ha” “Ha ha” Hai người Cơ Thành nhìn nhau, phát ra một tiếng cười đầy ẩn ý."
+    },
+    {
+      "segment_id": "0027",
+      "source": "“幸会幸会，我是姬诚，在这请多关照。”“我是王康，见过见过。”两人同时向凌翔打了声招呼。“好说好说，只要我在这儿，一定会保住你们的命的。”凌翔拍了拍两人的肩膀，向两人许诺道。",
+      "target": "“Hân hạnh hân hạnh, tôi là Cơ Thành, ở đây xin được giúp đỡ nhiều hơn.”\n“Tôi là Vương Khang, hân hạnh.”\nHai người đồng thời chào hỏi Lăng Tường.\n“Dễ nói dễ nói, chỉ cần tôi còn ở đây, nhất định sẽ giữ được mạng cho hai người.” Lăng Tường vỗ vai hai người, hứa hẹn với họ."
+    },
+    {
+      "segment_id": "0028",
+      "source": "“切，还保住别人的命，我看你上场就得扑街。”一个分外好听的女声，在他们身后传来，“你说是不是啊，姚旭。”“死八婆，你又拆我的台！”凌翔对着身后的少女，怒目而视。“大家都少说俩句吧，眼看着，咱们又是要团灭的结局，都省省力气吧。”“大叔，现在没你说话的份！”",
+      "target": "“Xì, còn đòi giữ mạng cho người khác, tôi thấy cậu vừa ra sân là đã tạch rồi.” Một giọng nữ vô cùng êm tai vang lên từ phía sau họ, “Anh nói có đúng không, Diêu Húc.”\n“Bà tám chết tiệt, chị lại bóc mẽ tôi!” Lăng Tường trừng mắt giận dữ nhìn thiếu nữ phía sau.\n“Mọi người bớt tranh cãi vài câu đi, xem chừng, kết cục của chúng ta lại là bị diệt đoàn rồi, tiết kiệm sức lực đi thì hơn.”\n“Ông chú, bây giờ không có phần cho ông nói chuyện đâu!”"
+    },
+    {
+      "segment_id": "0029",
+      "source": "姬诚，王康“…………”",
+      "target": "Cơ Thành, Vương Khang: “…………”"
+    },
+    {
+      "segment_id": "0030",
+      "source": "党起志看着眼前的乱象，脸皮不由的抽搐了好几下，对着姬诚二人干笑道“真是见笑了。其实他们实力真的是很可以的。”“可以理解。”",
+      "target": "Đảng Khởi Chí nhìn cảnh tượng hỗn loạn trước mắt, da mặt không khỏi co giật mấy cái, cười gượng với hai người Cơ Thành: “Đúng là chê cười rồi. Thật ra thực lực của họ đúng là rất khá.”\n“Có thể hiểu được.”"
+    },
+    {
+      "segment_id": "0031",
+      "source": "这时，党起志又带着姬诚走到一位只有十几岁的小女孩跟前，小女孩怯生生的看着他们话都不敢说。“我说，国家难道是没人了吗，就这么小的孩子都要上战场？”",
+      "target": "Lúc này, Đảng Khởi Chí lại dẫn Cơ Thành đi đến trước mặt một bé gái chỉ tầm mười mấy tuổi, bé gái nhút nhát nhìn họ, đến nói cũng không dám nói. “Tôi nói này, lẽ nào quốc gia hết người rồi sao, đứa trẻ nhỏ thế này cũng phải ra chiến trường ư?”"
+    },
+    {
+      "segment_id": "0032",
+      "source": "“话不可不能这么说。”看着小女孩的目光，党起志也很是无奈，“这位可真的是了不得，我可以对天发誓，就算是在场的人都死光了，估计，这小女孩都不会伤到一根毫发。毕竟她的奇物潜力之高，超乎在场所有人的想象！而且，我们把她带过来也是为了加上一道保险罢了，根本就不会让她下场的。”",
+      "target": "“Không thể nói như vậy được.” Nhìn ánh mắt của bé gái, Đảng Khởi Chí cũng rất bất đắc dĩ, “Cô bé này thực sự rất ghê gớm đấy, tôi có thể thề với trời, cho dù tất cả những người có mặt ở đây đều chết sạch, phỏng chừng cô bé này cũng sẽ không bị xước một sợi tóc nào. Rốt cuộc thì tiềm năng kỳ vật của cô bé quá cao, vượt xa sức tưởng tượng của tất cả những người có mặt ở đây! Hơn nữa, chúng tôi đưa cô bé tới đây cũng chỉ là để thêm một lớp bảo hiểm mà thôi, căn bản là sẽ không để cô bé phải ra trận đâu.”"
+    },
+    {
+      "segment_id": "0033",
+      "source": "“那我们现在怎么办？”",
+      "target": "“Vậy bây giờ chúng ta phải làm sao?”"
+    },
+    {
+      "segment_id": "0034",
+      "source": "“当然是撸胳膊，直接上啊！”党起志右手一挥，一百多位壮汉同时拿出一块神符，直接就大声咏唱起来。",
+      "target": "“Tất nhiên là xắn tay áo, xông lên luôn chứ sao!” Đảng Khởi Chí vung tay phải lên, hơn một trăm người đàn ông lực lưỡng đồng loạt lấy ra một khối thần phù, trực tiếp lớn tiếng xướng tụng."
+    },
+    {
+      "segment_id": "0035",
+      "source": "“SongForTheLord（赞美我主)！太阳与光明之神！”",
+      "target": "“Song For The Lord (Ngợi ca Chúa tể của ta)! Thần Mặt Trời và Ánh Sáng!”"
+    },
+    {
+      "segment_id": "0036",
+      "source": "柔和的光辉尽情在这片草原挥洒开来！",
+      "target": "Ánh sáng dịu nhẹ thỏa sức lan tỏa trên khắp vùng thảo nguyên này!"
+    }
+  ]
+}
+```

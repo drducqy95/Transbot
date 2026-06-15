@@ -1,0 +1,34 @@
+{
+  "issues": [
+    {
+      "segment_id": "0008",
+      "type": "term_translated_word_by_word_wrongly",
+      "severity": "high",
+      "fix": "Ngay sau đó, ông ta rút từ túi áo ra một tấm phù triện khắc chữ Vân Triện thần bí, \"Lăng Tường, mấy đứa qua đây, ta buff trạng thái cho.\" Đám người Cơ Thành vừa tới gần, phù triện đã lóe lên kỳ quang, phủ lên người sáu người một lớp màng ánh sáng mờ ảo."
+    },
+    {
+      "segment_id": "0013",
+      "type": "game_term_mistranslation",
+      "severity": "medium",
+      "fix": "\"Đã quá, cuối cùng ta cũng được trải nghiệm cảm giác cắt cỏ vô song này rồi.\" Đại thúc tên Tưởng Tề ngửa mặt cười dài, mỗi đường kiếm vung ra đều mang phong thái của một võ tướng vô song."
+    },
+    {
+      "segment_id": "0016",
+      "type": "term_translated_word_by_word_wrongly",
+      "severity": "medium",
+      "fix": "\"Hỏng rồi, hắn ở ngay bên cạnh, mọi người chú ý!\" \"Muộn rồi, Ma pháp - Hắc Ám Thiên Mạc!\""
+    },
+    {
+      "segment_id": "0021",
+      "type": "unnatural_vietnamese",
+      "severity": "low",
+      "fix": "\"Mẹ kiếp, phải là sao ngươi dám để ta áp sát mới đúng, tên thuần pháp sư này!\" Cơ Thành gầm lên, một luồng khí lãng tràn đầy dương cương khí huyết nổ tung ngay cạnh tên pháp sư!"
+    },
+    {
+      "segment_id": "0031",
+      "type": "unnatural_vietnamese",
+      "severity": "low",
+      "fix": "Những tiếng \"bịch bịch\" vang lên, thi thể của họ rơi xuống thảm cỏ. Động tác của mấy người nhanh như chớp, chỉ trong vài phút ngắn ngủi đã phân thắng bại! Đảng Khởi Chí đứng ở phía sau cùng mà run cả chân."
+    }
+  ]
+}

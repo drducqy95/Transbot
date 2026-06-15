@@ -12,9 +12,9 @@
       "status": "in_progress",
       "status_label": "Đang ra",
       "ongoing": true,
-      "completed_chapters": 37,
+      "completed_chapters": 39,
       "total_chapters": 1602,
-      "latest_chapter": "Chương 38: Hoàng Thiên! Hậu Thổ!",
+      "latest_chapter": "Chương 37: Linh Lung Yêu, Huyền Hoàng Tháp!",
       "genre": "eastern_fiction",
       "sub_genre": "unlimited_flow",
       "style_tags": [
@@ -63,7 +63,7 @@
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Chu Than Dai Dao/README.md",
       "toc_path": "Output/Chu Than Dai Dao/toc.json",
-      "updated_at": "2026-06-15T21:00:03.313673+07:00"
+      "updated_at": "2026-06-15T21:14:57+07:00"
     },
     {
       "branch": "Chu Than Quat Khoi",
@@ -1030,7 +1030,7 @@
     }
   ],
   "metadata": {
-    "generated_at": "2026-06-15T21:08:03+07:00",
+    "generated_at": "2026-06-15T21:14:57+07:00",
     "total_books": 18,
     "source": "Dichtrung/Output"
   },

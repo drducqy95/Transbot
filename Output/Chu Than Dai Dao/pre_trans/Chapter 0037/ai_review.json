@@ -1,0 +1,14 @@
+```json
+{
+  "names": {
+    "approved": [
+      {"source": "党胖子", "target": "Đảng Phì Tử", "type": "person"},
+      {"source": "党起志", "target": "Đảng Khởi Chí", "type": "person"},
+      {"source": "姬诚", "target": "Cơ Thành", "type": "person"}
+    ]
+  },
+  "terms": {
+    "approved": []
+  }
+}
+```

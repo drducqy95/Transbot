@@ -1,0 +1,83 @@
+```json
+{
+  "chapter_number": 27,
+  "chapter_title_vi": "Chương 27: Cuộc chiến của Kỵ sĩ",
+  "segments": [
+    {
+      "segment_id": "0001",
+      "source": "# 第27章 骑士的战争",
+      "target": "# Chương 27: Cuộc chiến của Kỵ sĩ"
+    },
+    {
+      "segment_id": "0002",
+      "source": "艾奇泰克骑士学院，高耸入云的骑士高塔之上，四位传奇骑士正一脸恭敬地听着面前，那成半透明状的身影的训话，“这一次的幽冥入侵事件，如果我没猜错的话，应该是三位至高神对我们进行的考验。毁灭主神会失手？这个笑话真是够冷的。”“那院长大人，我们学院这一次应该怎么办，需要我们参加吗”老态龙钟的流光骑士卡尔，询问道。",
+      "target": "Học viện Kỵ sĩ Ectec, trên đỉnh tháp kỵ sĩ cao chọc trời, bốn vị kỵ sĩ truyền kỳ đang tỏ vẻ cung kính lắng nghe bóng người bán trong suốt trước mặt huấn thoại.\n“Sự kiện U Minh xâm lấn lần này, nếu ta đoán không lầm, chắc hẳn là một bài khảo nghiệm mà ba vị Chí Cao Thần dành cho chúng ta. Hủy Diệt Chủ Thần sẽ sơ suất sao? Trò đùa này thật sự quá nhạt nhẽo.”\n“Vậy thưa Viện trưởng đại nhân, học viện chúng ta lần này nên làm thế nào, có cần tham gia không?” Kỵ sĩ Lưu Quang Carl với vẻ ngoài già nua, lụ khụ cất lời hỏi."
+    },
+    {
+      "segment_id": "0003",
+      "source": "“参加啊，这样是大事件，我们怎么可能不参加，不仅要参加，而且还有要把我们的有生力量都拉出去，好好让其他学院，其他的种族看看，我们骑士学院的力量。”那有些虚幻的身影，非常肯定的回答道。“这一次，由哈特卡斯和寇拉斯带队，卡尔你随时待命。齐拉你就在学院守护吧。”",
+      "target": "“Tham gia chứ, một sự kiện lớn như vậy, sao chúng ta có thể không tham gia được. Không chỉ tham gia, mà còn phải dốc hết toàn bộ lực lượng tinh nhuệ ra, để cho các học viện khác, các chủng tộc khác thấy rõ sức mạnh của Học viện Kỵ sĩ chúng ta.” Bóng người có phần hư ảo kia vô cùng quả quyết đáp lại. “Lần này, Hartkas và Coras sẽ dẫn đội, Carl ông tùy thời chờ lệnh. Kira, ngươi cứ ở lại canh gác học viện đi.”"
+    },
+    {
+      "segment_id": "0004",
+      "source": "“院长你呢，你不带队吗？“我不行。”虚幻的身影摇了摇头，“我的骑士与守护双重神格已经快要解析道最后阶段了，实在是分不开身，要不然我也不会分出这道身影与你们见面啊。不过你们放心，我已经和我的好友奥秘的探索者西维-卡祺斯大过招呼了，他应该会保住你们的安全的。”身影说完，就慢慢淡去了，“如果没有别的事，那就准备出发吧。”“是，遵从您的命令！”四人弯身行礼，恭送院长离开。",
+      "target": "“Còn Viện trưởng thì sao, ngài không dẫn đội à?”\n“Ta không được.” Bóng người hư ảo lắc đầu, “Thần cách kép Kỵ Sĩ và Thủ Hộ của ta đã sắp phân tích đến giai đoạn cuối cùng rồi, thực sự không thể phân tâm được, nếu không ta đã chẳng phải tách ra một đạo hư ảnh thế này để gặp các ngươi. Tuy nhiên các ngươi cứ yên tâm, ta đã chào hỏi người bạn cũ của mình là Kẻ Khám Phá Bí Ẩn Sylvie Kakis rồi, ông ấy hẳn sẽ bảo vệ sự an toàn cho các ngươi.”\nBóng người nói xong liền từ từ mờ đi, “Nếu không còn việc gì khác, vậy thì chuẩn bị xuất phát đi.”\n“Vâng, tuân theo mệnh lệnh của ngài!” Bốn người khom lưng hành lễ, cung tiễn Viện trưởng rời đi."
+    },
+    {
+      "segment_id": "0005",
+      "source": "“走吧，哈特卡斯，我们这就召集人吧。”光辉的开拓者寇拉斯露出灿烂如阳光的笑容。“嗯，我来召集人马，你来准备传送阵吧。”黑铁壮汉点了点头，就迈步走下骑士高塔。“这家伙，还是这么认真。”寇拉斯笑了笑，“卡尔，要做出直接传送到幽冥之地的传送阵，还需要你的帮助，你就留下来帮忙吧。”老头点点头，就留下来，准备给他搭把手。“那我先离开了，过一会儿，你们都不在了，我要先把学院的魔法阵再检查一下。”漆黑壁垒者-齐拉，依旧穿着他那全身装的漆黑铠甲，瓮声瓮气地边说边离开了这里。“这两个家伙。”寇拉斯看着两人的身影，很是无奈。…………",
+      "target": "“Đi thôi, Hartkas, chúng ta đi triệu tập người ngay.” Kẻ Tiên Phong Quang Huy Coras nở nụ cười rạng rỡ như ánh mặt trời.\n“Ừm, ta sẽ đi triệu tập nhân mã, ngươi đi chuẩn bị trận pháp dịch chuyển đi.” Người đàn ông vạm vỡ như khối sắt đen gật đầu, sau đó sải bước đi xuống tháp kỵ sĩ.\n“Tên này, vẫn luôn nghiêm túc như vậy.” Coras mỉm cười, “Carl, muốn tạo ra trận pháp truyền tống thẳng đến vùng đất U Minh thì vẫn cần ông giúp một tay, ông cứ ở lại phụ giúp đi.” Lão già gật đầu, ở lại để phụ giúp hắn.\n“Vậy ta đi trước đây, lát nữa các ngươi đi hết, ta phải kiểm tra lại ma pháp trận của học viện một lượt nữa.” Bích Lũy Đen Tối Kira, vẫn mặc trên người bộ áo giáp đen kịt kín mít, giọng nói ồm ồm vang lên rồi rời khỏi.\n“Hai cái tên này.” Coras nhìn theo bóng lưng hai người, tỏ vẻ hết sức bất lực.\n…………"
+    },
+    {
+      "segment_id": "0006",
+      "source": "依旧是那巨大的操场之上，姬诚与他的小伙伴们已经在这里等了一段时间了。“我去，这是要战争啊。”看着源源不断地从各处赶来的骑士，姬诚旁边的小伙伴忍不住发出赞叹声。就在刚刚一会儿，他们已经看到十几为骑士化身长虹，连人带坐骑落到操场的最前方。姬诚他们心里都清楚，能化身长虹的至少也是八阶以上的实力，换句话说骑士学院现在至少已经有十来位八阶骑士赶来了，而五阶以下的骑士更是不计其数，姬诚都懒的计数了。",
+      "target": "Vẫn là thao trường rộng lớn ấy, Cơ Thành và đám bạn nhỏ của cậu đã đợi ở đây một lúc lâu.\n“Đệt, đây là muốn có chiến tranh sao.” Nhìn những kỵ sĩ từ khắp nơi không ngừng đổ về, người bạn bên cạnh Cơ Thành nhịn không được lên tiếng cảm thán.\nChỉ trong một lát vừa rồi, họ đã nhìn thấy mười mấy vị kỵ sĩ hóa thành luồng cầu vồng dài, cả người lẫn thú cưỡi giáng xuống phía trên cùng của thao trường. Nhóm Cơ Thành đều hiểu rõ trong lòng, người có thể hóa thành luồng sáng chí ít cũng phải có thực lực từ bậc tám trở lên. Nói cách khác, Học viện Kỵ sĩ lúc này đã có ít nhất mười mấy vị kỵ sĩ bậc tám chạy tới, còn kỵ sĩ dưới bậc năm thì nhiều vô số kể, Cơ Thành cũng lười đếm."
+    },
+    {
+      "segment_id": "0007",
+      "source": "又过去了一会儿，在又赶来了几位骑士之后，他们的教官哈特卡斯终于与一位英俊无比的骑士一起带来。就见那英俊骑士走到架好的高台之上对着眼前黑压压一片的骑士说道:“既然大家都已经来这儿了，那我想具体的事情，你们都已经知道了，那我也就不多说了，大家准备好，我们立刻出发，争取在别的学院到来之前，先清理出一片安全的领地出来。”说话间，他的手虚空一扬，顿时。整个操场被一片乱流所覆盖，刹那间，姬诚就有一种平时穿越到异世界的感觉。“不会吧，竟然这么大的手笔，直接传送这么多人？，这简直就是核弹级的法术了。”看到如此的大手笔，姬诚不由的啧啧称奇。",
+      "target": "Lại một lát sau, khi có thêm vài vị kỵ sĩ nữa chạy đến, vị huấn luyện viên Hartkas của bọn họ cuối cùng cũng tới cùng với một kỵ sĩ vô cùng tuấn tú.\nChỉ thấy kỵ sĩ tuấn tú nọ bước lên đài cao đã được dựng sẵn, lớn tiếng nói với đám đông kỵ sĩ đen nghịt trước mắt: “Nếu tất cả mọi người đã tập trung ở đây, ta nghĩ chuyện cụ thể thì các vị cũng đã rõ, vậy ta cũng không nói nhiều nữa. Mọi người chuẩn bị sẵn sàng, chúng ta lập tức xuất phát, tranh thủ dọn dẹp ra một vùng lãnh địa an toàn trước khi các học viện khác kịp đến.”\nTrong lúc nói, tay hắn vung lên trong hư không. Tức thì, toàn bộ thao trường bị một vùng dòng chảy nhiễu loạn bao phủ. Trong khoảnh khắc ấy, Cơ Thành có cảm giác giống như lúc cậu xuyên không đến dị giới vậy.\n“Không thể nào, ra tay hào phóng đến thế sao, truyền tống thẳng một lúc bao nhiêu người thế này? Đây quả thực là pháp thuật cấp độ bom hạt nhân rồi.” Thấy thủ bút lớn như vậy, Cơ Thành không khỏi chép miệng tấm tắc kêu kỳ lạ."
+    },
+    {
+      "segment_id": "0008",
+      "source": "不知过去了多久，传送的感觉终于停了下来。“好了，看样子因该是到了。”就见骑士拔出随身长剑，耀眼的光辉直冲汉霄，“诸位骑士，听我号令，上马，备甲，列阵！”",
+      "target": "Không biết đã trôi qua bao lâu, cảm giác truyền tống cuối cùng cũng dừng lại.\n“Được rồi, xem ra là đến nơi rồi.” Chỉ thấy kỵ sĩ rút thanh trường kiếm tùy thân ra, ánh sáng chói lọi phóng thẳng lên tận trời cao, “Các vị kỵ sĩ, nghe lệnh ta, lên ngựa, mặc giáp, dàn trận!”"
+    },
+    {
+      "segment_id": "0009",
+      "source": "伴随着骑士命令，诸位骑士依言而上，铠甲的碰撞声与战马的嘶鸣声交织在了一起，浩荡而又磅礴的气势在军阵之中缓缓酝酿。看到如此情景，姬诚忍不住握紧手中长枪。他现在不过是一名不起眼的二阶骑士，现在还没有资格拥有坐骑，所以他的任务就只有跟在高阶骑士身后压阵，进行扫荡工作。“总有一天，我也要站在最前方。”如此伟大的战役，他竟然就只能进行最后期的扫荡，这简直太让他丧气了。",
+      "target": "Cùng với mệnh lệnh của kỵ sĩ, các vị kỵ sĩ răm rắp làm theo. Tiếng áo giáp va chạm và tiếng chiến mã hí vang đan xen vào nhau, khí thế cuồn cuộn, oai hùng từ từ tích tụ bên trong quân trận.\nThấy cảnh tượng này, Cơ Thành nhịn không được nắm chặt cây trường thương trong tay. Hiện tại cậu chẳng qua chỉ là một kỵ sĩ bậc hai không mấy nổi bật, vẫn chưa có tư cách sở hữu thú cưỡi, thế nên nhiệm vụ của cậu chỉ là đi theo yểm trợ phía sau các kỵ sĩ cấp cao, tiến hành công việc càn quét.\n“Sẽ có một ngày, ta cũng phải đứng ở hàng đầu tiên.” Một chiến dịch vĩ đại như vậy, cậu lại chỉ có thể làm công việc càn quét tàn cuộc ở phía sau, điều này quả thật khiến cậu quá đỗi chán nản."
+    },
+    {
+      "segment_id": "0010",
+      "source": "光辉的开拓者现在可没有时间来感应一个小虾米的想法，他握住长剑，遥遥一挥，顿时空间被劈出了一个巨大的口子，露出外面充满死寂的空间。“全员准备，随我冲击！”长剑震荡，无风自明，骑士长啸一声，便身先士卒的冲了出去！无数的骑士好像一道道巨大的钢铁洪流，冲散了任何敢于挡在他们身前的任何物体！",
+      "target": "Kẻ Tiên Phong Quang Huy lúc này làm gì có thời gian để ý tới suy nghĩ của một con tôm tép nhỏ bé, hắn nắm chặt trường kiếm, vung mạnh từ xa. Tức thì, không gian bị chém ra một cái lỗ hổng khổng lồ, lộ ra không gian bên ngoài tràn ngập sự tĩnh lặng chết chóc.\n“Toàn viên chuẩn bị, theo ta xông lên!” Thanh trường kiếm rung động, không có gió mà tự phát sáng. Vị kỵ sĩ hét dài một tiếng, liền dẫn đầu xông ra ngoài! Vô số kỵ sĩ hệt như những dòng nước lũ bằng thép khổng lồ, cuốn phăng mọi vật thể dám ngáng đường phía trước mặt họ!"
+    },
+    {
+      "segment_id": "0011",
+      "source": "骷髅兵团，还没来得及展开，就被踩成一片骨末，幽暗魔狼，刚刚冲出，就被踩踏的血肉纷飞，也就只有亡灵骑士才能稍微阻挡一下。“给我滚开，你们这些恶心的不死生物！”寇拉斯浑身光辉四溅，无数的光辉构成小天使围着他唱着不知名的赞美诗歌，直似光辉神祗降临世间！",
+      "target": "Binh đoàn khô lâu, còn chưa kịp dàn trận đã bị giẫm nát thành bột xương. U Ám Ma Lang, vừa mới xông ra đã bị dẫm đạp đến mức máu thịt be bét. Có lẽ chỉ có Vong Linh Kỵ Sĩ mới có thể ngăn cản đôi chút.\n“Cút ngay cho ta, lũ sinh vật bất tử gớm ghiếc này!” Cả người Coras bắn ra hào quang tứ phía, vô số tia sáng cấu tạo thành những tiểu thiên sứ vây quanh hắn ngâm nga những bài thánh ca ca ngợi không tên, hệt như Quang Huy Thần Chích giáng lâm trần thế!"
+    },
+    {
+      "segment_id": "0012",
+      "source": "手中长剑挥舞间，无数或强或弱的不死生物一个个皆被净化成虚无，无一活口！“你太放肆了，不知名的骑士！”遥远的另一端，传来一气急败坏地怒吼声，就见无穷无尽的幽冥气息在空中凝成实体，化作一个无比巨大的白骨手掌向骑士团压下！而另一边，一声洪亮的兽吼声也传来，遥遥一看，只见一道遮天蔽日的巨大白骨龙兽也向这里飞快的扑来！",
+      "target": "Trường kiếm trong tay vung vẩy, vô số những sinh vật bất tử dù mạnh hay yếu đều lần lượt bị thanh tẩy thành hư vô, không một ai sống sót!\n“Ngươi quá ngông cuồng rồi, tên kỵ sĩ vô danh kia!”\nTừ một đầu xa xăm truyền đến một tiếng rống giận dữ hổn hển, chỉ thấy khí tức U Minh vô cùng vô tận trên không trung ngưng tụ thành thực thể, hóa thành một bàn tay xương trắng khổng lồ vô song ấn xuống phía kỵ sĩ đoàn!\nCòn ở một phía khác, một tiếng thú rống lớn cũng vang lên, nhìn từ xa, chỉ thấy một con bạch cốt long thú khổng lồ che khuất bầu trời cũng đang lao nhanh về phía này!"
+    },
+    {
+      "segment_id": "0013",
+      "source": "“抱歉了，此路不通！”一道铁塔一样的身影挡在的骑士团的上空，正是钢铁领主-哈特卡斯！他手一顿，一面其貌不扬的盾牌出现在他手上，“砰”的一声巨响，白骨手掌与盾牌重重地撞在一起，只在一瞬间，白骨手掌就被撞成了一片虚无。然后他大喝一声，盾牌瞬间变得硕大无朋，紧接着就狠狠地向着白骨龙兽砸去！就见一个蘑菇型的灰尘埃缓缓升起。而那个白骨龙兽被砸入深坑之中，全身骨骼散了一地，眼看是活不成了。",
+      "target": "“Xin lỗi nhé, đường này không thông!” Một bóng người như tòa tháp sắt chắn ngay trên không trung của kỵ sĩ đoàn, đó chính là Lãnh chúa Thép Hartkas!\nHắn vừa phất tay, một tấm khiên với vẻ ngoài bình thường hiện ra trong tay hắn. Một tiếng \"bang\" thật lớn vang lên, bàn tay bạch cốt va chạm kịch liệt với tấm khiên. Chỉ trong chớp mắt, bàn tay bạch cốt đã bị va đập đến mức tan thành hư vô.\nSau đó hắn hét lớn một tiếng, tấm khiên thoáng chốc trở nên to lớn không gì sánh kịp, ngay sau đó liền đập mạnh về phía bạch cốt long thú! Chỉ thấy một đám bụi hình nấm từ từ bốc lên. Còn con bạch cốt long thú kia thì bị đập lún xuống một cái hố sâu, toàn thân xương cốt tản mác rải rác trên mặt đất, nhìn qua là thấy không sống nổi nữa."
+    },
+    {
+      "segment_id": "0014",
+      "source": "慢慢地，天空变的更加阴沉了，姬诚不经意的看了一眼，就吓的浑身一抖，只见无数的骨鸟，腐烂飞龙，白骨飞鹰，这些生物已经把天空完全侵占了，甚至再大后方，数十条幽冥骨龙也在那儿盘旋着。就靠哈特卡斯一人，再加上十几位能够飞行的骑士，根本就是捉肩见肘，防不过来啊。",
+      "target": "Dần dần, bầu trời trở nên âm u hơn, Cơ Thành lơ đãng liếc mắt nhìn một cái, lập tức sợ tới mức cả người run lên bần bật. Chỉ thấy vô số chim xương, phi long thối rữa, bạch cốt phi ưng, những sinh vật này đã hoàn toàn xâm chiếm bầu trời. Thậm chí ở phía sau xa hơn, có hàng chục con U Minh Cốt Long cũng đang bay lượn ở đó.\nChỉ dựa vào một mình Hartkas, cộng thêm mười mấy vị kỵ sĩ có khả năng bay lượn, căn bản là giật gấu vá vai, phòng thủ không nổi."
+    },
+    {
+      "segment_id": "0015",
+      "source": "“我们就缺少空中部队啊。”姬诚心中暗叹。“不哦，小兄弟，我们的空中霸主来了。”他旁边一位胡子拉渣的中年骑士看着遥远的天外的一个黑点，怀恋的说道。",
+      "target": "“Chúng ta thiếu hụt lực lượng trên không.” Cơ Thành thầm thở dài trong lòng.\n“Không đâu, người anh em nhỏ bé à, bá chủ trên không của chúng ta đến rồi.” Một kỵ sĩ trung niên râu ria xồm xoàm bên cạnh cậu nhìn một chấm đen nơi chân trời xa xăm, giọng đầy hoài niệm nói."
+    }
+  ]
+}
+```

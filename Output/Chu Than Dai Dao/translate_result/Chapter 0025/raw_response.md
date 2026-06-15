@@ -1,0 +1,108 @@
+```json
+{
+  "chapter_number": 25,
+  "chapter_title_vi": "Chương 25: Khởi đầu của sự kiện lớn",
+  "segments": [
+    {
+      "segment_id": "0001",
+      "source": "# 第25章 大事件的开端",
+      "target": "# Chương 25: Khởi đầu của sự kiện lớn"
+    },
+    {
+      "segment_id": "0002",
+      "source": "在无尽的罪孽深处，赵奇身环创造神光在里面缓缓迈步，黑红的罪孽有如有意识一般或变成深渊魔龙，或变成幽冥死凤，或就干脆是不规则的触手怪死死的将赵奇缠绕，赵奇也不在意，创造神光轻轻一次闪耀，就不知荡灭了多少罪孽意识。继续向前走出，黑红的颜色慢慢淡去，却经常遇到一些奇怪的东西，比如刚才，迎面就有一只七彩玲珑妖圆润的从他眼前滚过，再比如，又有一只太素白鱼从他眼前欢快地游过，“呵呵，看来迪奈尔的天魔计划快要成功了。”",
+      "target": "Trong sâu thẳm tội nghiệt vô tận, Triệu Kỳ được Thần Quang Sáng Tạo bao quanh chậm rãi bước đi. Tội nghiệt đỏ đen như có ý thức, khi thì hóa thành Thâm Uyên Ma Long, khi thì biến thành U Minh Tử Phượng, hoặc dứt khoát thành con quái vật xúc tu với hình thù dị hợm quấn chặt lấy Triệu Kỳ. Triệu Kỳ cũng chẳng bận tâm, Thần Quang Sáng Tạo khẽ lóe lên một cái đã quét sạch không biết bao nhiêu ý thức tội nghiệt. Tiếp tục bước tới, màu đen đỏ dần nhạt đi, nhưng lại thường xuyên bắt gặp vài thứ kỳ quái. Chẳng hạn như ban nãy, có một con Thất Thải Linh Lung Yêu tròn trịa lăn qua trước mặt hắn, hay lại có một con Thái Tố Bạch Ngư vui vẻ bơi ngang qua. \"Ha ha, xem ra kế hoạch Thiên Ma của Deneir sắp thành công rồi.\""
+    },
+    {
+      "segment_id": "0003",
+      "source": "赵奇呵呵两声，也没多言直接走到一处地方，轻轻敲击虚空，发出“砰砰”敲门声，“喂，迪奈尔在吗，快开门，我找你有事。”",
+      "target": "Triệu Kỳ cười ha ha hai tiếng, cũng không nói nhiều mà đi thẳng tới một chỗ, khẽ gõ vào hư không, phát ra tiếng gõ cửa \"cộc cộc\": \"Này, Deneir có nhà không, mau mở cửa, ta tìm ngươi có việc.\""
+    },
+    {
+      "segment_id": "0004",
+      "source": "“吾主，别敲了，我在你刚来的时候，就已经出来了。”迪奈尔笑的声音在不远处传来，“哈哈，，我今天来是有事找你的。”“我知道，走吧吾主，到我的神国去商量吧。”迪奈尔说话间随手撕开一道空间裂缝，带着赵奇又到了当初赵奇为他创造的副本世界之中。",
+      "target": "“Ngô chủ, đừng gõ nữa, từ lúc ngài mới đến, ta đã ra ngoài rồi.” Giọng nói mang ý cười của Deneir truyền tới từ cách đó không xa. “Ha ha, hôm nay ta đến là có việc tìm ngươi.” “Ta biết, đi thôi Ngô chủ, đến thần quốc của ta rồi bàn bạc.” Trong lúc nói chuyện, Deneir tiện tay xé rách một khe nứt không gian, dẫn Triệu Kỳ quay lại thế giới phó bản mà ban đầu Triệu Kỳ đã tạo ra cho hắn."
+    },
+    {
+      "segment_id": "0005",
+      "source": "看着那一排排，一望无边的书架，赵奇感慨道“每次来这都是这种场景，我说，你能不能换个桌面啊。”赵奇随手拿出一本书，果然这书连个封面都没有，就是一个白本子。“呵呵吾主，这我可不能，毕竟我这个神国的本质可是很高的，我可舍不得把它给换了”迪奈尔得意地笑了笑，这件事说到底还是当初赵奇业务不熟练的成果。当初赵奇可是用了足足三十点的神力来创造这个副本世界，比起主世界那三点神力的粗制滥造，这个副本才是真正的精品。可惜没卵用，由于上限，这个副本连一点神力都没反馈给他，白白便宜了迪奈尔。为此命运没少数落赵奇。",
+      "target": "Nhìn những giá sách xếp thành hàng dài vô tận, Triệu Kỳ cảm thán: \"Lần nào đến đây cũng là cảnh tượng này, ta nói này, ngươi không thể đổi giao diện khác được à.\" Triệu Kỳ tiện tay rút một cuốn sách ra, quả nhiên cuốn sách này đến cái bìa cũng chẳng có, chỉ là một cuốn vở trắng tinh. \"Ha ha Ngô chủ, điều này thì ta không thể làm được. Dù sao thì bản chất thần quốc này của ta cũng rất cao, ta không nỡ đổi nó đâu.\" Deneir đắc ý cười cười. Xét cho cùng thì chuyện này là hệ quả từ sự thiếu chuyên nghiệp lúc đầu của Triệu Kỳ. Hồi đó Triệu Kỳ đã tiêu tốn trọn ba mươi điểm thần lực để tạo ra thế giới phó bản này, so với sản phẩm chế tạo thô sơ chỉ tốn ba điểm thần lực của thế giới chính, phó bản này mới là tinh phẩm thực sự. Đáng tiếc là chẳng có tác dụng gì, do giới hạn, phó bản này chẳng phản hồi cho hắn được một điểm thần lực nào, thành ra để Deneir hưởng lợi không. Vì chuyện này mà Vận Mệnh đã trách móc Triệu Kỳ không ít lần."
+    },
+    {
+      "segment_id": "0006",
+      "source": "赵奇来这里也不是为了回忆黑历史的。他话一转，就把话题拐到别的地方了。“我昨天发的通告，你都知道了吧。”“嗯，这么大的事，我怎么可能不知道，怎么了吾主，你难道想反悔？”迪奈尔好奇道。“当然不是，我还没有这么不讲规矩。”赵奇摇了摇头“不过毕竟是我的祖国，多少还是要给些外挂的，要不然，再来一场那啥几国联军的给弄跪了，那我还不丢死人了。”",
+      "target": "Triệu Kỳ đến đây cũng chẳng phải để ôn lại lịch sử đen tối. Hắn chuyển hướng, lái câu chuyện sang một vấn đề khác: \"Thông báo ngày hôm qua ta phát đi, ngươi đều biết cả rồi chứ.\" \"Vâng, chuyện lớn như vậy, sao ta có thể không biết. Sao thế Ngô chủ, lẽ nào ngài muốn đổi ý?\" Deneir tò mò hỏi. \"Đương nhiên là không, ta vẫn chưa đến mức không biết giữ luật như vậy.\" Triệu Kỳ lắc đầu, \"Nhưng dù sao đó cũng là tổ quốc của ta, ít nhiều vẫn phải cấp cho chút hack, nếu không, lỡ như lại có thêm màn liên quân mấy nước đến quỳ xuống, lúc đó ta còn chẳng mất mặt chết đi được.\""
+    },
+    {
+      "segment_id": "0007",
+      "source": "“那吾主你的意思呢，直接送神器怎么样？”迪奈尔试着提了一个建议。“不怎么样。”赵奇忍不住翻了个白眼，难怪，他在诸神世界跪的那么惨，就冲着情商，不跪都难。“本来我是没什么想法的，不过刚才我从罪孽之地出来，就有想法了。”说话间，他就弹出一点创造神光，在半空中创造出一副图画，赵奇指着画笑道“怎么样，我的想法不错吧。”",
+      "target": "“Vậy ý của Ngô chủ là, tặng thẳng thần khí thì sao?” Deneir thử đưa ra một gợi ý. “Chẳng ra sao cả.” Triệu Kỳ không nhịn được mà trợn trắng mắt, hèn gì ở thế giới Chư Thần hắn lại thảm hại đến vậy, chỉ với cái EQ này, không quỳ mới lạ. “Vốn dĩ ta cũng chưa có ý tưởng gì, nhưng lúc nãy từ vùng đất tội nghiệt đi ra, ta đã nghĩ ra rồi.” Vừa nói, hắn vừa bắn ra một tia Thần Quang Sáng Tạo, tạo thành một bức tranh giữa không trung. Triệu Kỳ chỉ vào bức tranh, cười hỏi: “Thế nào, ý tưởng của ta không tồi chứ.”"
+    },
+    {
+      "segment_id": "0008",
+      "source": "迪奈尔看着画，闭上眼在心中模拟了一下，脸上有些迟疑“这样的话，虽然对他们都有好处，可影响就太大了，吾主你收的住尾吗，可别搞砸了。而且这事还是命运主神那里点头，命运主神怎么说？”",
+      "target": "Deneir nhìn bức tranh, nhắm mắt lại mô phỏng trong đầu một chút, vẻ mặt có chút do dự: \"Nếu như vậy, mặc dù đều có lợi cho họ, nhưng sức ảnh hưởng quá lớn, Ngô chủ ngài có thể dọn dẹp tàn cuộc không, đừng để mọi chuyện hỏng bét đấy. Hơn nữa chuyện này còn cần Chủ thần Vận Mệnh gật đầu, Chủ thần Vận Mệnh nói sao?\""
+    },
+    {
+      "segment_id": "0009",
+      "source": "正说着，就见赵奇对着天空大喊“嘿，命运，你偷窥够了没有。你感觉这件事怎么样？”虚空裂开，只见命运身伴无始无终的命运长河，走到两人面前，一脸纠结地对赵奇说道:“主尊，你怎么能说的这么难听呢，我这叫随时监控世界的一举一动，防患于未然。”“呵呵！”“呵呵！”两位主神面露冷笑，都没接他的话。话说命运的脸皮也厚的可以，他见俩人不搭话，便自顾自地说道:“我觉的本尊的计划很好啊，一举数得，既能让那些玩家整体水平上一个台阶，又能看看我们创造出的传奇职业具体出力怎么样，甚至可能得话，也可以看看那六位主神的立场是什么，当真以为我不会换人吗？简直可笑。”",
+      "target": "Đang nói dở, đã thấy Triệu Kỳ hét lớn về phía bầu trời: \"Này, Vận Mệnh, ngươi nhìn trộm đủ chưa. Ngươi thấy chuyện này thế nào?\" Hư không nứt ra, chỉ thấy Vận Mệnh mang theo dòng sông Vận Mệnh vô thủy vô chung đi đến trước mặt hai người, vẻ mặt băn khoăn nói với Triệu Kỳ: \"Chủ tôn, sao ngài lại nói khó nghe như vậy, ta đây gọi là luôn giám sát nhất cử nhất động của thế giới, phòng ngừa rắc rối khi chưa xảy ra.\" \"Ha ha!\" \"Ha ha!\" Hai vị chủ thần ngoài mặt cười lạnh, đều không tiếp lời hắn. Phải nói da mặt của Vận Mệnh cũng dày thật, thấy hai người không đáp lời, hắn liền tự cố tự nói: \"Ta cảm thấy kế hoạch của bản tôn rất tốt, một mũi tên trúng nhiều đích, vừa có thể giúp trình độ tổng thể của những người chơi kia nâng lên một bậc, vừa có thể xem sức mạnh cụ thể của chức nghiệp truyền kỳ mà chúng ta tạo ra như thế nào. Thậm chí nếu được, cũng có thể xem lập trường của sáu vị chủ thần kia là gì, tưởng ta không biết thay người thật sao? Thật nực cười.\""
+    },
+    {
+      "segment_id": "0010",
+      "source": "命运说着说着就眼露寒光，显然有些神已经进入他的目光了。对此，赵奇与迪奈尔都没说什么，都是他的人，他们插什么手？",
+      "target": "Vận Mệnh càng nói trong mắt càng lộ ra tia sáng lạnh lẽo, rõ ràng là có vị thần nào đó đã lọt vào tầm ngắm của hắn. Về điều này, Triệu Kỳ và Deneir đều không nói gì, đều là người của hắn, bọn họ xen vào làm gì?"
+    },
+    {
+      "segment_id": "0011",
+      "source": "“既然，你们都这么说了，那我可就开始了。出了事，可要你们来补救的。”“这是自然。”“你就放心好了”见俩人都没阻挡，迪奈尔也没多说。只见他右手虚空一抓，毁灭的具现，罪孽的集合，一切的终点——毁灭权杖就出现在他手上。他手握权杖，重重地朝虚空探去。",
+      "target": "“Nếu các ngươi đều đã nói như vậy, thế thì ta bắt đầu đây. Xảy ra chuyện, các ngươi phải ra tay cứu vãn đấy.” “Đó là lẽ đương nhiên.” “Ngươi cứ yên tâm đi.” Thấy hai người đều không ngăn cản, Deneir cũng không nói nhiều thêm. Chỉ thấy tay phải hắn chộp vào hư không, hiện thân của sự hủy diệt, tập hợp của tội lỗi, điểm kết thúc của mọi thứ —— Quyền trượng Hủy Diệt liền xuất hiện trong tay hắn. Hắn nắm chặt quyền trượng, hung hăng đâm thẳng về phía hư không."
+    },
+    {
+      "segment_id": "0012",
+      "source": "就见三界上空，一根无法想象其粗细的通天巨柱慢慢向下压去，犹如灭世！刚到天空，这个世界的六位伟大神力就已经感觉到了，六神合力，一道无以伦比的神光，笔直的向巨柱冲去，“闪开。”虚空之上威严的声音响起，就见那神光撞在巨柱之上，好像一个美丽的泡沫，转瞬即灭，根本没有给它带来任何的伤害。就见巨柱余力不减，直接从天空撞到了大地之下，直接就将冥界给惯通了！漆黑色的幽冥之气如黑色的泉水咕噜咕噜的往外冒，不多时，就将这里污染成了冥界一般的存在，无数的阴暗意识在里面蠢蠢欲动，更有不下神明的恶魔与魔鬼在里面疯狂的咆哮！直欲冲出地面杀戮无算！",
+      "target": "Chỉ thấy trên bầu trời tam giới, một cột trụ khổng lồ không thể tưởng tượng nổi độ lớn đang từ từ đè xuống, tựa như hủy diệt thế giới! Vừa mới xuất hiện trên không trung, sáu vị thần lực vĩ đại của thế giới này đã cảm nhận được, sáu vị thần hợp sức, một tia thần quang vô song lao thẳng về phía cột trụ khổng lồ. \"Tránh ra.\" Một giọng nói uy nghiêm vang lên trên hư không. Chỉ thấy thần quang kia va vào cột trụ khổng lồ, giống như một bong bóng xà phòng tuyệt đẹp, chớp mắt liền vỡ tan, căn bản không mảy may mang đến chút thương tổn nào cho nó. Cột trụ khổng lồ không hề giảm bớt lực đạo, trực tiếp từ bầu trời đâm thẳng xuống dưới lòng đất, xuyên thủng luôn cả Minh giới! Tử khí u minh đen kịt sủi bọt ùng ục trào ra ngoài tựa như suối nước đen, chẳng mấy chốc đã làm ô nhiễm nơi này thành một nơi tồn tại hệt như Minh giới. Vô số ý thức u ám đang rục rịch động đậy ở bên trong, thậm chí còn có cả ác quỷ và ma quỷ với sức mạnh không kém gì thần linh đang điên cuồng gào thét! Trực tiếp muốn lao ra khỏi mặt đất để tàn sát vô số người!"
+    },
+    {
+      "segment_id": "0013",
+      "source": "赵奇看了一眼，“迪奈尔，别在往下了，在往下，弄不好就真的要灭世了。”迪奈尔点点头，右手轻轻一顿，那通天巨柱刹那间就停下了。",
+      "target": "Triệu Kỳ nhìn lướt qua: \"Deneir, đừng ép xuống nữa, ép xuống nữa là diệt thế thật đấy.\" Deneir gật đầu, tay phải khẽ khựng lại, cột trụ chọc trời đó liền dừng lại ngay lập tức."
+    },
+    {
+      "segment_id": "0014",
+      "source": "“智脑，发全服通告吧。”“是，主人！”",
+      "target": "“Trí Não, gửi thông báo toàn server đi.” “Rõ, thưa chủ nhân!”"
+    },
+    {
+      "segment_id": "0015",
+      "source": "………………。。",
+      "target": ".................."
+    },
+    {
+      "segment_id": "0016",
+      "source": "阿宝其卡尔城，全服玩家最多的主城！不过短短的十来天，这里如雨后的春笋一般密密麻麻的冒出了大大小小好几百个玩家佣兵团！在这个主城的佣兵工会，无数的玩家在里面进进出出，寻找着适合自己的佣兵任务。当然何凯也是其中一员，自从他被创造主神送到这个主城之后，他就已经在这个地方讨生活，只可惜这里的人太多了，他这一个一阶刚到的战士在这里实在是太不起眼了。",
+      "target": "Thành A Bảo Kỳ Tạp Nhĩ, thành chính có nhiều người chơi nhất toàn server! Chỉ trong hơn chục ngày ngắn ngủi, nơi đây mọc lên chi chít như măng mọc sau mưa với hàng trăm đoàn lính đánh thuê người chơi lớn nhỏ! Tại công hội lính đánh thuê của thành chính này, vô số người chơi ra ra vào vào, tìm kiếm những nhiệm vụ lính đánh thuê phù hợp với bản thân. Đương nhiên Hà Khải cũng là một trong số đó. Kể từ khi được Chủ thần Sáng Tạo đưa đến thành chính này, hắn đã bám trụ lại đây để kiếm sống, chỉ tiếc là nơi này quá đông người, một chiến binh vừa mới đạt bậc một như hắn ở đây thực sự quá mức mờ nhạt."
+    },
+    {
+      "segment_id": "0017",
+      "source": "“唉，就这点神币，我什么时候才能兑换到好一点的装备啊。”何凯看着自己交上任务，就得到的几枚神币，不由的叹了口气。在这个地方，好一点的任务早就被那些佣兵团给包圆了，哪有他们阿机会啊。",
+      "target": "“Haizz, chỉ với chút thần tệ này, bao giờ mình mới đổi được trang bị tốt một chút đây.” Hà Khải nhìn mấy đồng thần tệ nhận được sau khi giao nhiệm vụ, không khỏi thở dài. Ở nơi này, những nhiệm vụ ngon lành từ lâu đã bị các đoàn lính đánh thuê thầu hết, làm gì đến lượt bọn họ có cơ hội chứ."
+    },
+    {
+      "segment_id": "0018",
+      "source": "这是他的耳边系统的声音疯狂的乱闪“请玩家注意，请玩家注意，由于毁灭主神的失误，一道通往冥界的通道被半永久性的打开了，里面无数的魔物将蜂拥而至，进行灭世的举动。请玩家拿起武器，努力消灭这些魔物吧。特殊任务，无评级。全大陆通用！请玩家注意，消灭任何一只魔物都能获得奖励，具体奖励依魔物的实力而定，最高的将能获得神格奖励！”",
+      "target": "Lúc này, bên tai hắn tiếng hệ thống nhấp nháy điên cuồng: \"Xin người chơi chú ý, xin người chơi chú ý, do sai sót của Chủ thần Hủy Diệt, một đường hầm thông đến Minh giới đã bị mở ra theo dạng bán vĩnh viễn. Vô số ma vật bên trong sẽ đổ xô tới, tiến hành hành động diệt thế. Xin người chơi hãy cầm lấy vũ khí, nỗ lực tiêu diệt những ma vật này. Nhiệm vụ đặc biệt, không xếp hạng. Thông dụng trên toàn đại lục! Xin người chơi chú ý, tiêu diệt bất kỳ một con ma vật nào đều có thể nhận được phần thưởng, phần thưởng cụ thể tùy theo thực lực của ma vật, mức cao nhất sẽ nhận được phần thưởng Thần cách!\""
+    },
+    {
+      "segment_id": "0019",
+      "source": "于此同时，佣兵工会的主屏幕上也在滚动播放这则任务！瞬息间工会的声音就安静了下来，然后又爆发出更大更激动的声音！只要能多杀魔物。那么他们就能获得他们想要的一切！“干了。”何凯看着任务，咬了咬牙，一跺脚就接了这个任务。“人死鸟朝天，不死万万年。我就拼了！更何况我们有不会真死，有什么好怕的。”",
+      "target": "Cùng lúc đó, trên màn hình chính của công hội lính đánh thuê cũng đang cuộn chạy dòng thông báo nhiệm vụ này! Trong chớp mắt, công hội trở nên im bặt, rồi sau đó lại bùng nổ ra những âm thanh lớn hơn và kích động hơn! Chỉ cần có thể giết nhiều ma vật, vậy thì bọn họ có thể giành được tất cả những gì mình muốn! \"Chơi luôn.\" Hà Khải nhìn nhiệm vụ, cắn răng, dậm chân cái rầm liền nhận lấy nhiệm vụ này. \"Người chết chim chổng lên trời, bất tử sống vạn vạn năm. Liều thôi! Huống hồ gì chúng ta cũng đâu chết thật, có gì mà phải sợ.\""
+    },
+    {
+      "segment_id": "0020",
+      "source": "有如何凯一样的身影在各个主城到处上演，他们都疯狂的向幽冥之地集中，来赢取他们的未来……。。",
+      "target": "Những bóng hình y hệt như Hà Khải đang không ngừng diễn ra khắp các thành chính, tất cả bọn họ đều điên cuồng tập trung về phía u minh, để giành lấy tương lai của chính mình......"
+    }
+  ]
+}
+```
