@@ -1,0 +1,268 @@
+```json
+{
+  "chapter_number": 13,
+  "chapter_title_vi": "Chương 13: Cương phong lôi hỏa chia chín tầng, tinh không vô tận có đất trời",
+  "segments": [
+    {
+      "segment_id": "0001",
+      "source": "# 第十三章 罡风雷火分九层，星空无尽有天地()",
+      "target": "# Chương 13: Cương phong lôi hỏa chia chín tầng, tinh không vô tận có đất trời"
+    },
+    {
+      "segment_id": "0002",
+      "source": "这变化的发生快得有如电光火石一般，几乎只是一转眼之间，整个场面的情况便发生了翻天覆地的改变。",
+      "target": "Biến hóa này diễn ra nhanh như chớp giật, gần như chỉ trong nháy mắt, tình hình toàn cục đã xảy ra thay đổi nghiêng trời lệch đất."
+    },
+    {
+      "segment_id": "0003",
+      "source": "大自在天魔极其宝座消失在天地之间后，这罡风雷火层两千里深处重新化为一派祥和景象。那不周山之上所散发出来的苍茫不屈气息依然那般浓郁，充斥天地之间，宛如之前没有任何事发生一般。",
+      "target": "Sau khi Đại Tự Tại Thiên Ma cùng ngai báu của hắn biến mất giữa đất trời, vùng sâu hai ngàn dặm trong tầng cương phong lôi hỏa này một lần nữa trở lại khung cảnh tường hòa tĩnh lặng. Khí tức thương mang bất khuất tỏa ra từ trên núi Bất Chu vẫn nồng đậm như trước, tràn ngập giữa đất trời, như thể chưa từng xảy ra chuyện gì."
+    },
+    {
+      "segment_id": "0004",
+      "source": "那一股玄之又玄的能量在罗帆身上的血肉重新补回来之后，猛然一缩，便已经缩回了罗帆的体内。",
+      "target": "Luồng năng lượng huyền diệu vô cùng kia, sau khi huyết nhục trên người La Phàm được hồi phục đầy đủ, đột ngột co rút lại, trở về trong cơ thể hắn."
+    },
+    {
+      "segment_id": "0005",
+      "source": "随着这能量缩回，罗帆身体表面停止了变化，这罡风雷火层也同样停止了变化。",
+      "target": "Theo luồng năng lượng này thu hồi, bề mặt cơ thể La Phàm ngừng biến hóa, tầng cương phong lôi hỏa này cũng đồng thời ngừng biến hóa."
+    },
+    {
+      "segment_id": "0006",
+      "source": "过了不知多久，也许是一瞬，也许是数年。",
+      "target": "Không biết đã qua bao lâu, có lẽ chỉ là một thoáng, cũng có lẽ là vài năm."
+    },
+    {
+      "segment_id": "0007",
+      "source": "罗帆心神恍恍惚惚，似乎前所未有的清醒，能够看清世间一切奥秘。又似乎迷迷糊糊，毫无意识，连自身的存在都不敢确定。",
+      "target": "Tâm thần La Phàm mơ mơ màng màng, dường như tỉnh táo chưa từng có, có thể nhìn thấu mọi bí ẩn trên thế gian, lại như mơ hồ mông lung, không chút ý thức, ngay cả sự tồn tại của bản thân cũng không dám khẳng định."
+    },
+    {
+      "segment_id": "0008",
+      "source": "双眼之中射出似乎是明悟，又似乎是迷惘的神色。",
+      "target": "Trong đôi mắt bắn ra tia thần sắc dường như là giác ngộ, lại dường như là mê mang."
+    },
+    {
+      "segment_id": "0009",
+      "source": "……",
+      "target": "..."
+    },
+    {
+      "segment_id": "0010",
+      "source": "之前，他意念之中所看到的，感受到的那无穷无尽的美妙事物，无不针对他内心的弱点，无不针对于他内心深处最为渴望的所在，针对他内心深处那些曾经出现过的妄想！这种针对性，让他的心神渐渐沉沦在其中，越来越无法自拔。",
+      "target": "Trước đó, những sự vật tuyệt mỹ vô cùng vô tận mà ý niệm của hắn nhìn thấy và cảm nhận được, hết thảy đều nhằm vào điểm yếu trong lòng hắn, nhằm vào nơi hắn khao khát nhất sâu trong nội tâm, nhằm vào những ảo tưởng từng xuất hiện sâu trong đáy lòng hắn! Sự nhắm vào có chủ đích này khiến tâm thần hắn dần chìm đắm vào trong đó, ngày càng không thể tự thoát ra."
+    },
+    {
+      "segment_id": "0011",
+      "source": "待到泥丸宫之中那些混沌云层所凝聚成的丝线停止了流转，停滞在收缩到泥丸宫开辟出来虚空一半体积的瞬间，他的心神已经沉沦到了谷底。",
+      "target": "Cho đến khi những sợi tơ ngưng tụ từ tầng mây hỗn độn trong bùn hoàn cung dừng lưu chuyển, trì trệ ở khoảnh khắc co rút lại bằng một nửa thể tích không gian hư vô được khai mở trong bùn hoàn cung, tâm thần của hắn đã chìm xuống đáy vực."
+    },
+    {
+      "segment_id": "0012",
+      "source": "只要再加上一点力，他的心神便可能转眼间被那无穷的yu望所吞噬！",
+      "target": "Chỉ cần thêm một chút lực nữa, tâm thần của hắn có thể sẽ bị dục vọng vô tận kia nuốt chửng trong nháy mắt!"
+    },
+    {
+      "segment_id": "0013",
+      "source": "若是到了那时，他的意念将消散，他的形体更将被天魔吞噬一空，进而形神俱灭！",
+      "target": "Nếu đến lúc đó, ý niệm của hắn sẽ tiêu tán, hình thể lại càng bị thiên ma cắn nuốt sạch sẽ, tiến tới hình thần câu diệt!"
+    },
+    {
+      "segment_id": "0014",
+      "source": "就在那生死一瞬的瞬间，宛如生命的本能爆发出来，一种莫名的明悟出现在他的心中。",
+      "target": "Ngay trong khoảnh khắc sinh tử tơ kẽ tóc ấy, dường như bản năng sinh mệnh bộc phát, một niềm minh ngộ mơ hồ xuất hiện trong lòng hắn."
+    },
+    {
+      "segment_id": "0015",
+      "source": "“这些，就是我所追求的么？难道我的产生，我的出现，就是为了追求这无穷的享乐么？”这点疑惑的念头，徘徊于他的意念之中。",
+      "target": "“Những thứ này chính là điều ta theo đuổi sao? Chẳng lẽ sự sinh ra, sự xuất hiện của ta chỉ là để theo đuổi sự hưởng lạc vô tận này?” Ý nghĩ nghi hoặc này quanh quẩn trong ý niệm của hắn."
+    },
+    {
+      "segment_id": "0016",
+      "source": "随着这点疑惑的出现，他意念之中原本出现的那些让他沉迷不已的极乐感觉渐渐变得有些虚幻，那原本不断沉沦，已经快要消散的意念停止了沉沦，停止了消散。",
+      "target": "Cùng với sự xuất hiện của mối nghi hoặc này, những cảm giác cực lạc vốn khiến hắn đắm chìm trong ý niệm dần trở nên hư ảo, ý niệm vốn không ngừng chìm đắm và sắp sửa tiêu tán kia đã dừng lại."
+    },
+    {
+      "segment_id": "0017",
+      "source": "“这种快乐，真的存在于世间么？”",
+      "target": "“Loại khoái lạc này thật sự tồn tại trên thế gian sao?”"
+    },
+    {
+      "segment_id": "0018",
+      "source": "“这……真的是快乐么……”",
+      "target": "“Đây... thực sự là khoái lạc sao...”"
+    },
+    {
+      "segment_id": "0019",
+      "source": "“没有痛苦，心想事成……这种人生，难道真的存在……”",
+      "target": "“Không có đau khổ, tâm tưởng sự thành... Cuộc sống như thế này há lại thực sự tồn tại...”"
+    },
+    {
+      "segment_id": "0020",
+      "source": "“真的？假的？”",
+      "target": "“Là thật? Hay giả?”"
+    },
+    {
+      "segment_id": "0021",
+      "source": "随着他的一声声质疑，他意念之中好似真实存在的一切美妙光影、声音组成的世界渐渐的布满了无数裂缝……",
+      "target": "Theo từng câu chất vấn của hắn, thế giới được cấu thành từ vô số quang ảnh cùng âm thanh tuyệt diệu tưởng như chân thực tồn tại trong ý niệm kia dần dần rạn nứt ra vô số vết nứt..."
+    },
+    {
+      "segment_id": "0022",
+      "source": "“我……想起来了……我正在洪荒世界借不周山寻找功法突破的契机……这是……劫！”随着他这番醒悟，那宛如真实存在的极乐世界瞬间崩溃！",
+      "target": "“Ta... nhớ ra rồi... Ta đang ở thế giới Hồng Hoang mượn núi Bất Chu để tìm kiếm cơ hội đột phá công pháp... Đây là... kiếp!” Cùng với sự tỉnh ngộ này, thế giới cực lạc tưởng chừng như có thật kia lập tức sụp đổ!"
+    },
+    {
+      "segment_id": "0023",
+      "source": "他的心神，他的意念，瞬间脱离了那极乐世界……",
+      "target": "Tâm thần của hắn, ý niệm của hắn, trong nháy mắt đã thoát khỏi thế giới cực lạc kia..."
+    },
+    {
+      "segment_id": "0024",
+      "source": "脱离了他内心编织出来的，他最为向往的场景！",
+      "target": "Thoát khỏi cảnh tượng mà hắn khao khát nhất do chính nội tâm mình dệt nên!"
+    },
+    {
+      "segment_id": "0025",
+      "source": "整个过程，丝毫不拖泥带水，没有一丝一毫的犹豫。",
+      "target": "Toàn bộ quá trình dứt khoát vô cùng, không hề có một chút do dự nào."
+    },
+    {
+      "segment_id": "0026",
+      "source": "“我已经再不是以前的罗帆！以前的极乐，以前的追求已经再不是我的追求！我，求的是道！”罗帆心中呐喊着。",
+      "target": "“Ta đã không còn là La Phàm của trước kia nữa! Cực lạc trước kia, truy cầu trước kia đã không còn là truy cầu của ta nữa rồi! Thứ ta cầu, là Đạo!” La Phàm gào thét trong lòng."
+    },
+    {
+      "segment_id": "0027",
+      "source": "随着他的呐喊，他的意念重新回归他的身体。",
+      "target": "Cùng với tiếng gào thét của hắn, ý niệm của hắn một lần nữa trở về cơ thể."
+    },
+    {
+      "segment_id": "0028",
+      "source": "随着意念的回归，他泥丸宫之中那不断流转收缩的，神魂化开形成的混沌云团凝结而成的无数丝线开始了比起之前更加快速的收缩！",
+      "target": "Theo ý niệm trở về, vô số sợi tơ ngưng tụ từ đám mây hỗn độn do thần hồn hóa ra trong bùn hoàn cung của hắn đang không ngừng xoay chuyển co rút, bắt đầu co rút với tốc độ nhanh hơn trước!"
+    },
+    {
+      "segment_id": "0029",
+      "source": "而同时，他也感到了自己身体各处传来的那种怪异感觉。",
+      "target": "Đồng thời, hắn cũng cảm nhận được cảm giác kỳ lạ truyền đến từ khắp nơi trên cơ thể mình."
+    },
+    {
+      "segment_id": "0030",
+      "source": "那种好似整个身体的血肉完全脱离了自己，自己只剩下骨骼的怪异感觉。同时，全身上下均有一种怪异能量不断侵入，不断同化的感觉！酥软酸麻，飘飘欲仙……",
+      "target": "Cảm giác kỳ lạ đó giống như huyết nhục toàn thân hoàn toàn rời bỏ hắn, hắn chỉ còn trơ lại bộ xương cốt. Cùng lúc đó, khắp toàn thân có một luồng năng lượng kỳ lạ không ngừng xâm nhập, không ngừng đồng hóa! Bủn rủn tê dại, lâng lâng như muốn hóa tiên..."
+    },
+    {
+      "segment_id": "0031",
+      "source": "随着这感觉而来的是那大自在天魔那悠然叹息的话语！",
+      "target": "Đi kèm với cảm giác này chính là lời thở dài thong thả của Đại Tự Tại Thiên Ma!"
+    },
+    {
+      "segment_id": "0032",
+      "source": "随着这句话与进入脑海，无尽的信息从他的脑海深处冒出，瞬间淹没了他的整个心神意念。那些信息，瞬间便让他明白了这叹息的到底是什么，瞬间他便明白了方才的一切情况。",
+      "target": "Khi câu nói này đi vào trong óc, vô số thông tin hiện ra từ sâu trong trí óc của hắn, lập tức nhấn chìm toàn bộ tâm thần ý niệm của hắn. Những thông tin đó ngay lập tức giúp hắn hiểu rõ tiếng thở dài kia rốt cuộc là có ý gì, và cũng hiểu ra toàn bộ tình huống vừa rồi."
+    },
+    {
+      "segment_id": "0033",
+      "source": "“原来是洪荒天地之外的域外天魔……原来之前的所见所闻，都是我内心深处的魔障，是我求道的阻碍……原来如此……原来如此……”一种莫名的明悟出现在他的心中。",
+      "target": "“Hóa ra là Vực Ngoại Thiên Ma bên ngoài đất trời Hồng Hoang... Hóa ra những gì mắt thấy tai nghe trước đó đều là ma chướng sâu trong nội tâm ta, là chướng ngại trên con đường cầu đạo của ta... Hóa ra là vậy... Hóa ra là vậy...” Một niềm minh ngộ mơ hồ xuất hiện trong lòng hắn."
+    },
+    {
+      "segment_id": "0034",
+      "source": "随着这种明悟出现，那数万年前，他体悟不周山所体悟出来的那无名功法在他的脑海深处快速运转起来。",
+      "target": "Theo sự minh ngộ này xuất hiện, bộ vô danh công pháp mà hắn ngộ ra khi cảm nhận núi Bất Chu từ mấy vạn năm trước bắt đầu vận chuyển nhanh chóng trong sâu thẳm trí óc hắn."
+    },
+    {
+      "segment_id": "0035",
+      "source": "原本艰涩难懂的文字在那一瞬间仿佛一派简单明了之极的画卷一般在他面前展开，原本完全找不到的突破契机，原本完全不了解的前进方向在这一瞬间显得那般的清楚，那般的直白。",
+      "target": "Những văn tự vốn gian nan khó hiểu trong khoảnh khắc ấy dường như hóa thành một bức họa vô cùng đơn giản và rõ ràng trải ra trước mắt hắn. Cơ duyên đột phá vốn không tài nào tìm thấy, phương hướng tiến lên vốn hoàn toàn mờ mịt, tại thời khắc này lại hiện lên rõ ràng và trực quan đến vậy."
+    },
+    {
+      "segment_id": "0036",
+      "source": "“盘古开天，我为脊梁，顶天立地，我为不周……”这十六个字猛然涌上心头，让他不由自主的便开口用一种十分玄奥的语调将之吐出（只有这十六个字是用玄奥的语调吐出，前面那些使用的是普通语调）。",
+      "target": "“Bàn Cổ khai thiên, ta làm cột sống, đỉnh thiên lập địa, ta là Bất Chu...” Mười sáu chữ này đột ngột dâng lên trong lòng, khiến hắn không tự chủ được mà mở miệng thốt ra bằng một chất giọng vô cùng huyền bí (chỉ có mười sáu chữ này được thốt ra bằng giọng điệu huyền bí, những lời phía trước đều dùng giọng điệu bình thường)."
+    },
+    {
+      "segment_id": "0037",
+      "source": "而这十六个字似乎拥有着某种神秘的力量，或者这种玄奥的语调拥有某种神秘的作用。",
+      "target": "Mà mười sáu chữ này dường như sở hữu một thứ sức mạnh thần bí nào đó, hoặc giả giọng điệu huyền bí kia có một tác dụng thần bí nào đó."
+    },
+    {
+      "segment_id": "0038",
+      "source": "随着这十六个字吐出，他脑海之中原本已经流转收缩成为一个亮点的混沌丝线猛然一爆，再度爆开成为那混沌云团，充斥他泥丸宫之中那四百九十里直径的虚空。",
+      "target": "Theo mười sáu chữ này được thốt ra, những sợi tơ hỗn độn vốn đã xoay chuyển co rút thành một điểm sáng trong đầu hắn đột nhiên nổ tung, một lần nữa bung ra thành đám mây hỗn độn, tràn ngập khoảng không gian hư vô có đường kính bốn trăm chín mươi dặm trong bùn hoàn cung của hắn."
+    },
+    {
+      "segment_id": "0039",
+      "source": "再接着，这些混沌云团重新凝成比起之前更加纤细，更加坚韧的混沌丝线，重新流转收缩，缩回那细小混沌亮点的状态。",
+      "target": "Tiếp đó, đám mây hỗn độn này lại ngưng tụ thành những sợi tơ hỗn độn mảnh mai hơn, dẻo dai hơn trước, một lần nữa chuyển động co rút, trở về trạng thái điểm sáng hỗn độn nhỏ bé."
+    },
+    {
+      "segment_id": "0040",
+      "source": "再在一瞬间之后再度爆开，再收缩……如此循环，足有八十一次！",
+      "target": "Rồi trong nháy mắt lại nổ tung một lần nữa, lại co rút... Cứ tuần hoàn như vậy đủ tám mươi mốt lần!"
+    },
+    {
+      "segment_id": "0041",
+      "source": "而每一次爆开再收缩，那凝成的混沌丝线都会纤细一点，坚韧一分，八十一次循环过后，那些丝线已经纤细得宛如蛛网，坚韧得百倍于钻石，于那四百九十里直径的球形虚空之中一不小心便会将之忽略！",
+      "target": "Mà mỗi một lần nổ tung rồi co rút, những sợi tơ hỗn độn được ngưng tụ lại sẽ mảnh hơn một chút, dẻo dai hơn một phần. Sau tám mươi mốt lần tuần hoàn, những sợi tơ kia đã mảnh mai như mạng nhện, dẻo dai gấp trăm lần kim cương, nếu không cẩn thận quan sát trong khoảng hư không hình cầu có đường kính bốn trăm chín mươi dặm kia thì sẽ rất dễ bỏ qua chúng!"
+    },
+    {
+      "segment_id": "0042",
+      "source": "这些纤细到极致，坚韧到极致的混沌丝线在最后一次收缩之时却没有像之前八十次一般收缩成为一个细小无比的混沌亮点。",
+      "target": "Những sợi tơ hỗn độn mảnh mai đến cực hạn, dẻo dai đến cực hạn này, trong lần co rút cuối cùng lại không hề giống như tám mươi lần trước đó, co rút thành một điểm sáng hỗn độn cực kỳ nhỏ bé."
+    },
+    {
+      "segment_id": "0043",
+      "source": "而是宛如蚕丝编织蚕茧一般，在那泥丸宫四百九十里直径的球形虚空正中央编织出一个小小的，宛如拇指那般大小的不周山！",
+      "target": "Mà lại giống như tơ tằm dệt kén, ngay chính giữa khoảng hư không hình cầu có đường kính bốn trăm chín mươi dặm của bùn hoàn cung dệt ra một ngọn núi Bất Chu nhỏ bé cỡ chừng ngón tay cái!"
+    },
+    {
+      "segment_id": "0044",
+      "source": "随着这小小的不周山成型，他身上所散发出来的那一股苍茫不屈的气息瞬间暴涨十倍！甚至超过了周围笼罩住的，那不周山所散发出来的气息！",
+      "target": "Cùng với việc ngọn núi Bất Chu nhỏ bé này thành hình, luồng khí tức thương mang bất khuất phát ra từ trên người hắn lập tức tăng vọt gấp mười lần! Thậm chí còn vượt qua cả khí tức của núi Bất Chu thật đang bao phủ xung quanh!"
+    },
+    {
+      "segment_id": "0045",
+      "source": "而在这段时间里面，他体内那玄之又玄的能量已经自动的将所有的九彩能量驱逐一空，那玄之又玄的超强修复能力更是让他的身体血肉重新补充完整。",
+      "target": "Còn trong khoảng thời gian này, luồng năng lượng huyền diệu vô cùng trong cơ thể hắn đã tự động trục xuất toàn bộ năng lượng chín màu ra ngoài, năng lượng phục hồi siêu cường huyền diệu vô cùng kia lại càng giúp huyết nhục trên người hắn được tái tạo hoàn chỉnh."
+    },
+    {
+      "segment_id": "0046",
+      "source": "在这小小的不周山成型之后，一阵明悟出现在罗帆意念之中，他不由自主的用那种玄奥的语调开口将这种明悟阐述而出。",
+      "target": "Sau khi ngọn núi Bất Chu nhỏ bé này thành hình, một niềm minh ngộ xuất hiện trong ý niệm của La Phàm, hắn không tự chủ được mà dùng giọng điệu huyền bí kia cất tiếng diễn giải niềm minh ngộ này."
+    },
+    {
+      "segment_id": "0047",
+      "source": "“我只求真实，我只求逍遥，我只求看尽洪荒演化，我只求看尽世界尽头，我只求以自我之力顶出天地，我只求以自我之心化尽一切魔障……”",
+      "target": "“Ta chỉ cầu chân thực, ta chỉ cầu tiêu dao, ta chỉ cầu nhìn thấu Hồng Hoang diễn hóa, ta chỉ cầu nhìn thấu tận cùng thế giới, ta chỉ cầu dùng sức mạnh bản thân nâng đỡ đất trời, ta chỉ cầu dùng tâm trí bản thân hóa giải hết thảy ma chướng...”"
+    },
+    {
+      "segment_id": "0048",
+      "source": "随着这种阐述，整个大自在天魔所化出的世界猛然崩溃！大自在天魔自身更因此而离开洪荒天地！",
+      "target": "Theo lời diễn giải này, toàn bộ thế giới do Đại Tự Tại Thiên Ma biến hóa ra đột ngột đổ vỡ! Bản thân Đại Tự Tại Thiên Ma cũng vì vậy mà phải rời khỏi đất trời Hồng Hoang!"
+    },
+    {
+      "segment_id": "0049",
+      "source": "接着，瞬息间，那原本笼罩在罗帆身体之上那玄之又玄的能量猛然回收，顺着无名功法的路线转眼间涌入他泥丸宫之中，直冲入那泥丸宫虚空正中央的不周山内部！",
+      "target": "Tiếp đó, chỉ trong nháy mắt, luồng năng lượng huyền diệu vô cùng vốn bao phủ trên cơ thể La Phàm đột ngột thu hồi, men theo lộ tuyến của vô danh công pháp, chớp mắt đã tràn vào trong bùn hoàn cung của hắn, lao thẳng vào bên trong ngọn núi Bất Chu ở ngay chính giữa khoảng hư không của bùn hoàn cung!"
+    },
+    {
+      "segment_id": "0050",
+      "source": "随着这玄之又玄的能量涌入，整座小小的不周山忽然变得无比沉重，直直落到这球形虚空的底部，再猛的暴涨而起，转眼间便涨大到顶住球形虚空上方的边界！",
+      "target": "Theo luồng năng lượng huyền diệu vô cùng này tràn vào, cả ngọn núi Bất Chu nhỏ bé bỗng chốc trở nên nặng trĩu, rơi thẳng xuống đáy của khoảng hư không hình cầu này, rồi lại đột nhiên tăng vọt lên, trong chớp mắt đã phình to tới mức chống đỡ lấy ranh giới phía trên của khoảng hư không hình cầu!"
+    },
+    {
+      "segment_id": "0051",
+      "source": "至此，那不周山的变化却依然没有停止，而是依然不断涨大，继续往上撑去！嚟啦一声，宛如开天辟地一般，将周围那灰蒙蒙的屏障撑开，将这球形虚空撑得越来越高，越来越大！",
+      "target": "Đến đây, biến hóa của núi Bất Chu vẫn chưa dừng lại, mà vẫn tiếp tục phình to không ngừng, tiếp tục chống đỡ hướng lên trên! Rắc một tiếng, tựa như khai thiên lập địa, phá vỡ bình chướng xám xịt xung quanh, chống đỡ cho khoảng hư không hình cầu này ngày càng cao hơn, ngày càng lớn hơn!"
+    },
+    {
+      "segment_id": "0052",
+      "source": "第十四章 成道体，化不周(一)",
+      "target": "Chương 14: Thành đạo thể, hóa Bất Chu (1)"
+    }
+  ]
+}
+```

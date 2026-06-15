@@ -1,0 +1,26 @@
+```json
+{
+  "approved": {
+    "names": [],
+    "terms": [
+      "顶天立地诀"
+    ]
+  },
+  "rejected": {
+    "names": [],
+    "terms": [
+      "之中的心法口",
+      "虽是一部提升"
+    ]
+  },
+  "uncertain": {
+    "names": [],
+    "terms": []
+  }
+}
+```
+
+### Review Notes:
+* **`顶天立地诀` (Approved):** This is a complete and valid proper term, likely referring to a specific cultivation technique, art, or mantra (ending in 诀 - Jué). 
+* **`之中的心法口` (Rejected):** This is a sentence fragment. It appears to be cut off, likely originally meant to be "之中的心法口诀" (the mental cultivation chant/formula within...).
+* **`虽是一部提升` (Rejected):** This is clearly a sentence fragment translating to "Although it is a [book/method] that improves...".

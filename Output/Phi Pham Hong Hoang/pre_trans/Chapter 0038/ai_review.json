@@ -1,0 +1,209 @@
+```json
+{
+  "names": {
+    "approved": [
+      {
+        "source": "云朵之",
+        "target": "Vân Đoá Chi",
+        "type": "person",
+        "description": ""
+      },
+      {
+        "source": "和之",
+        "target": "Hòa Chi",
+        "type": "person",
+        "description": ""
+      },
+      {
+        "source": "水浪卷",
+        "target": "Thủy Lãng Quyển",
+        "type": "person",
+        "description": ""
+      },
+      {
+        "source": "罗帆",
+        "target": "La Phàm",
+        "type": "person",
+        "description": ""
+      },
+      {
+        "source": "罗帆之",
+        "target": "La Phàm Chi",
+        "type": "person",
+        "description": ""
+      },
+      {
+        "source": "罗帆叹",
+        "target": "La Phàm Thán",
+        "type": "person",
+        "description": ""
+      },
+      {
+        "source": "罗帆扑",
+        "target": "La Phàm Phốc",
+        "type": "person",
+        "description": ""
+      },
+      {
+        "source": "罗帆眼",
+        "target": "La Phàm Nhãn",
+        "type": "person",
+        "description": ""
+      },
+      {
+        "source": "罗帆苦",
+        "target": "La Phàm Khổ",
+        "type": "person",
+        "description": ""
+      },
+      {
+        "source": "罗帆身",
+        "target": "La Phàm Thân",
+        "type": "person",
+        "description": ""
+      },
+      {
+        "source": "罗帆透",
+        "target": "La Phàm Thấu",
+        "type": "person",
+        "description": ""
+      },
+      {
+        "source": "罗帆面",
+        "target": "La Phàm Diện",
+        "type": "person",
+        "description": ""
+      }
+    ]
+  },
+  "terms": {
+    "approved": [
+      {
+        "source": "力士召唤诀",
+        "target": "khẩu quyết triệu hồi lực sĩ",
+        "type": "term"
+      },
+      {
+        "source": "阴阳测算法",
+        "target": "phép tính toán âm dương",
+        "type": "term"
+      },
+      {
+        "source": "顶天立地诀",
+        "target": "khẩu quyết đỉnh thiên lập địa",
+        "type": "term"
+      },
+      {
+        "source": "淮南子天文训",
+        "target": "Hoài Nam Tử - Thiên Văn Huấn",
+        "type": "term"
+      },
+      {
+        "source": "乃是鸿钧回忆",
+        "target": "vốn là hồi ức của Hồng Quân",
+        "type": "term"
+      },
+      {
+        "source": "之中的心法口",
+        "target": "tâm pháp khẩu quyết ở trong đó",
+        "type": "term"
+      },
+      {
+        "source": "内含十八种应",
+        "target": "bên trong chứa mười tám loại ứng",
+        "type": "term"
+      },
+      {
+        "source": "原本是他开识",
+        "target": "nguyên bản là do anh ta khai thức",
+        "type": "term"
+      },
+      {
+        "source": "可以说是一种",
+        "target": "có thể nói là một loại",
+        "type": "term"
+      },
+      {
+        "source": "成型之后，他",
+        "target": "sau khi định hình, anh ta",
+        "type": "term"
+      },
+      {
+        "source": "所炼制出来的",
+        "target": "được luyện chế ra",
+        "type": "term"
+      },
+      {
+        "source": "是相当的精妙",
+        "target": "là khá tinh diệu",
+        "type": "term"
+      },
+      {
+        "source": "有言，“昔者",
+        "target": "có lời nói, “ngày xưa",
+        "type": "term"
+      },
+      {
+        "source": "的心法口诀与",
+        "target": "tâm pháp khẩu quyết và",
+        "type": "term"
+      },
+      {
+        "source": "的心法口诀在",
+        "target": "tâm pháp khẩu quyết ở",
+        "type": "term"
+      },
+      {
+        "source": "的心法口诀，",
+        "target": "tâm pháp khẩu quyết,",
+        "type": "term"
+      },
+      {
+        "source": "的性质创出来",
+        "target": "tính chất sáng tạo ra",
+        "type": "term"
+      },
+      {
+        "source": "的精微奥秘，",
+        "target": "tinh vi huyền diệu,",
+        "type": "term"
+      },
+      {
+        "source": "的行功路线在",
+        "target": "đường hành công ở",
+        "type": "term"
+      },
+      {
+        "source": "的行功路线快",
+        "target": "đường hành công nhanh",
+        "type": "term"
+      },
+      {
+        "source": "虽是一部提升",
+        "target": "tuy là một bộ đề thăng",
+        "type": "term"
+      },
+      {
+        "source": "这种测算天机",
+        "target": "cách tính toán thiên cơ này",
+        "type": "term"
+      },
+      {
+        "source": "！\n因为天地",
+        "target": "! Bởi vì trời đất",
+        "type": "term"
+      },
+      {
+        "source": "！\n这些玄奥",
+        "target": "! Những huyền diệu này",
+        "type": "term"
+      },
+      {
+        "source": "，这十数万年",
+        "target": ", mười mấy vạn năm này",
+        "type": "term"
+      }
+    ]
+  }
+}
+```

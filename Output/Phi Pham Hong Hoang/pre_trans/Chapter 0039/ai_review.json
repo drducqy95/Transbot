@@ -1,0 +1,20 @@
+```json
+{
+  "approved": [],
+  "rejected": [
+    "可以说是一种",
+    "吧。"罗帆睁",
+    "成型之后，他",
+    "的行功路线快"
+  ],
+  "uncertain": [
+    "力士召唤诀"
+  ]
+}
+```
+
+**Reasoning:**
+- `力士召唤诀` - Uncertain. Proper term (technique/skill name). Needs context: cultivation technique? Spell name? Should likely preserve/transliterate.
+- Others - Rejected. Sentence fragments, not standalone terms. Missing context → untranslatable as isolated units.
+
+Need: full sentences or paragraph context for proper translation.

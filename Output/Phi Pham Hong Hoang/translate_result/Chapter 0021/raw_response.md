@@ -1,0 +1,218 @@
+```json
+{
+  "chapter_number": 21,
+  "chapter_title_vi": "Chương 21: Tiên thiên bất diệt linh quang (2)",
+  "segments": [
+    {
+      "segment_id": "0001",
+      "source": "# 第二十一章 先天不灭灵光（二）",
+      "target": "# Chương 21: Tiên thiên bất diệt linh quang (2)"
+    },
+    {
+      "segment_id": "0002",
+      "source": "罗帆微微一滞，却很快就想明白了。鸿钧居然能将一个好好的先天道体化成这般畸形，想必对于修行方面的知识了解少到极点，甚至连先天道体都不知具体是何种样式，自然而已不会知道先天灵宝方面的知识了……",
+      "target": "La Phàm hơi khựng lại, nhưng rất nhanh đã hiểu ra. Hồng Quân lại có thể biến một Tiên thiên đạo thể tốt đẹp thành bộ dạng dị dạng thế này, hẳn là sự hiểu biết về kiến thức tu hành ít ỏi đến cực điểm, thậm chí ngay cả Tiên thiên đạo thể có hình dạng cụ thể ra sao cũng không biết, đương nhiên cũng sẽ không biết được kiến thức về Tiên thiên linh bảo..."
+    },
+    {
+      "segment_id": "0003",
+      "source": "因此，他也就不以为忤，解释道：“先天灵宝，乃先天不灭灵光演化而成的一种物事，永世长存，永不损毁。天地间先天不灭灵光有数，先天灵宝更是有数，故先天灵宝珍贵至极。各种不同的先天灵宝有着各种不同的威能，具体却是视灵光之演化而定。但其中有一种威能却是每一种先天灵宝都具有的，那便是炼化后可与神魂融合一体，给予神魂永不磨损之守护。且若欲证得混元道果，先天灵宝却有大用。”",
+      "target": "Do đó, hắn cũng không lấy làm phật lòng, giải thích: \"Tiên thiên linh bảo là một loại vật chất do Tiên thiên bất diệt linh quang diễn hóa mà thành, trường tồn mãi mãi, không bao giờ hư hao. Tiên thiên bất diệt linh quang trong thiên địa có giới hạn, Tiên thiên linh bảo lại càng có giới hạn, cho nên Tiên thiên linh bảo vô cùng trân quý. Các loại Tiên thiên linh bảo khác nhau mang những uy năng khác nhau, cụ thể phải xem sự diễn hóa của linh quang mà định. Nhưng trong đó có một loại uy năng mà mỗi loại Tiên thiên linh bảo đều có, đó là sau khi luyện hóa có thể dung hợp làm một với thần hồn, trao cho thần hồn sự bảo hộ vĩnh viễn không bị mài mòn. Hơn nữa, nếu muốn chứng được Hỗn Nguyên đạo quả, Tiên thiên linh bảo lại có công dụng rất lớn.\""
+    },
+    {
+      "segment_id": "0004",
+      "source": "鸿钧双目发光——罗帆的话语好似向他开启了一个全新的世界，修行的世界！",
+      "target": "Hai mắt Hồng Quân sáng rực lên — những lời của La Phàm dường như đã mở ra cho y một thế giới hoàn toàn mới, thế giới của tu hành!"
+    },
+    {
+      "segment_id": "0005",
+      "source": "“敢问师尊，何为混元道果？”对于不懂的东西鸿钧绝对没有任何装懂的意思，直接便将自己不明白的东西问出来。",
+      "target": "\"Dám hỏi sư tôn, thế nào là Hỗn Nguyên đạo quả?\" Đối với những thứ không hiểu, Hồng Quân tuyệt đối không hề có ý giấu dốt, trực tiếp hỏi ngay những gì mình chưa rõ."
+    },
+    {
+      "segment_id": "0006",
+      "source": "罗帆微微一笑，抬手将一朵侵入方圆百里范围之内的金色云朵拍归本源，道：“何为混元道果？这为师如何得知？为师如今也只是证得地仙道果，连之上的太乙道果，大罗道果都未证得，如何懂得再上之混元道果？修行不到，自是无法明了。且为师就算懂得，也不可为你言说，道果需证不可讲，此言你需记在心中，不可须臾忘却。”",
+      "target": "La Phàm mỉm cười, đưa tay đánh một đám mây vàng xâm nhập vào phạm vi trăm dặm trở về bản nguyên, nói: \"Thế nào là Hỗn Nguyên đạo quả? Chuyện này vi sư làm sao mà biết được? Vi sư hiện giờ cũng chỉ mới chứng được Địa Tiên đạo quả, ngay cả Thái Ất đạo quả, Đại La đạo quả ở trên còn chưa chứng được, làm sao hiểu được Hỗn Nguyên đạo quả ở mức cao hơn? Tu hành chưa tới, tự nhiên sẽ không thể sáng tỏ. Hơn nữa, cho dù vi sư có hiểu thì cũng không thể nói cho ngươi biết, đạo quả cần chứng chứ không thể giảng, lời này ngươi phải ghi nhớ trong lòng, không được quên dù chỉ trong khoảnh khắc.\""
+    },
+    {
+      "segment_id": "0007",
+      "source": "鸿钧凛然，连忙称是。",
+      "target": "Hồng Quân chấn động, vội vàng đáp vâng."
+    },
+    {
+      "segment_id": "0008",
+      "source": "罗帆见鸿钧听教，大为满意，笑道：“如何？可曾想好如何利用这先天不灭灵光？”",
+      "target": "La Phàm thấy Hồng Quân ngoan ngoãn nghe dạy bảo thì vô cùng hài lòng, cười nói: \"Thế nào? Đã nghĩ kỹ cách lợi dụng đạo Tiên thiên bất diệt linh quang này chưa?\""
+    },
+    {
+      "segment_id": "0009",
+      "source": "鸿钧迟疑了一下，恭敬的道：“徒儿已想清楚，愿助此道灵光演化先天灵宝！”",
+      "target": "Hồng Quân chần chừ một chút, cung kính nói: \"Đồ nhi đã nghĩ rõ, nguyện giúp đạo linh quang này diễn hóa thành Tiên thiên linh bảo!\""
+    },
+    {
+      "segment_id": "0010",
+      "source": "罗帆微微一笑，夸奖道：“不错，此方为求取大道之行！”",
+      "target": "La Phàm mỉm cười, khen ngợi: \"Không tồi, đây mới là hành động để cầu lấy đại đạo!\""
+    },
+    {
+      "segment_id": "0011",
+      "source": "“谢师尊夸奖！”鸿钧得了罗帆夸奖，却是兴奋非常。",
+      "target": "\"Đa tạ sư tôn khen ngợi!\" Hồng Quân được La Phàm khen, cảm thấy vô cùng phấn khích."
+    },
+    {
+      "segment_id": "0012",
+      "source": "罗帆点点头，心神一动，脚下祥云一震，拖着他与鸿钧似缓实快的向着不周山飞去，口中道：“无须迟疑，可依诀行事。”",
+      "target": "La Phàm gật gật đầu, tâm thần khẽ động, đám tường vân dưới chân rung lên, chở hắn và Hồng Quân bay về phía Bất Chu sơn với tốc độ nhìn thì chậm nhưng thực tế lại rất nhanh, miệng nói: \"Không cần chần chừ, có thể làm theo pháp quyết.\""
+    },
+    {
+      "segment_id": "0013",
+      "source": "鸿钧兴奋的应了一声，开始将罗帆之前传授的法诀开始对着那一道灰蒙蒙的先天不灭灵光施展。",
+      "target": "Hồng Quân phấn khích vâng lời, bắt đầu thi triển pháp quyết mà La Phàm truyền thụ lúc trước lên đạo Tiên thiên bất diệt linh quang xám xịt kia."
+    },
+    {
+      "segment_id": "0014",
+      "source": "这道先天不灭灵光虽没有被鸿钧炼化，但毕竟已经和鸿钧在一起不知多少年时间了。却已经初步拥有了鸿钧的烙印，因此不需控制，便紧紧的跟在他身边，随他一起前进。",
+      "target": "Đạo Tiên thiên bất diệt linh quang này tuy chưa bị Hồng Quân luyện hóa, nhưng dù sao cũng đã ở cùng Hồng Quân không biết bao nhiêu năm rồi. Nó đã bước đầu sở hữu dấu ấn của Hồng Quân, cho nên không cần khống chế cũng vẫn bám chặt lấy y, cùng y tiến tới."
+    },
+    {
+      "segment_id": "0015",
+      "source": "鸿钧被罗帆安置在自己的左后侧，那先天不灭灵光凝成伸缩不定的一团摆在他的面前，缓缓的沉浮着，仿佛海面上的浮标一般。",
+      "target": "Hồng Quân được La Phàm sắp xếp ở phía sau bên trái mình, đạo Tiên thiên bất diệt linh quang kia ngưng tụ thành một đoàn không ngừng co giãn đặt trước mặt y, chậm rãi chìm nổi, tựa như một chiếc phao trên mặt biển."
+    },
+    {
+      "segment_id": "0016",
+      "source": "鸿钧深吸几口气后，张开嘴巴，一道灰色光芒从他的口中冲出，急剧压缩，凝成一道灰色的光绳，接着，这道灰色光绳宛如灵蛇一般，极速的扭曲纠缠，转眼间化为一个无比玄奥的立体符篆瞬间印入那伸缩不定的先天不灭灵光之中。",
+      "target": "Hồng Quân hít sâu vài hơi rồi há miệng, một đạo ánh sáng màu xám từ trong miệng lao ra, bị nén lại mạnh mẽ, ngưng tụ thành một sợi dây thừng ánh sáng xám, tiếp đó, sợi dây này tựa như linh xà, vặn vẹo quấn quýt với tốc độ cực nhanh, trong chớp mắt hóa thành một bức phù triện không gian ba chiều vô cùng huyền ảo, nháy mắt in vào trong đạo Tiên thiên bất diệt linh quang đang không ngừng co giãn kia."
+    },
+    {
+      "segment_id": "0017",
+      "source": "随着这玄奥的立体符篆印入其中，这先天不灭灵光产生了某种微妙的变化，其表面更是出现了数十个细小的符篆，形成粗陋的符篆网裹住灵光。",
+      "target": "Cùng với việc bức phù triện không gian ba chiều huyền ảo này in vào, Tiên thiên bất diệt linh quang đã sinh ra biến hóa vi diệu nào đó, trên bề mặt càng xuất hiện hàng chục phù triện nhỏ bé, hình thành một mạng lưới phù triện thô sơ bao bọc lấy linh quang."
+    },
+    {
+      "segment_id": "0018",
+      "source": "鸿钧并没有就此住手，而是张嘴喷出一道又一道的灰色光芒，在半空中凝成了一个又一个无比玄奥的立体符篆，再印入那先天不灭灵光之中。",
+      "target": "Hồng Quân không dừng tay ở đó, mà há miệng phun ra từng đạo ánh sáng xám, ngưng tụ giữa không trung thành từng bức phù triện ba chiều vô cùng huyền ảo, rồi lại in vào trong Tiên thiên bất diệt linh quang kia."
+    },
+    {
+      "segment_id": "0019",
+      "source": "每一个立体符篆印入，这先天不灭灵光表面那符篆网便密集些许，而每一个符篆出现，鸿钧的脸色便白上一丝。",
+      "target": "Mỗi bức phù triện ba chiều in vào, mạng lưới phù triện trên bề mặt Tiên thiên bất diệt linh quang liền dày đặc thêm đôi chút, và mỗi khi một bức phù triện xuất hiện, sắc mặt Hồng Quân lại tái nhợt đi một phần."
+    },
+    {
+      "segment_id": "0020",
+      "source": "等到地八十一个符篆出现并印入先天不灭灵光之中的时候，鸿钧已经是面如白纸，全身颤抖，大汗淋漓，显然已经是消耗过大了。",
+      "target": "Cho đến khi bức phù triện thứ tám mươi mốt xuất hiện và in vào trong Tiên thiên bất diệt linh quang, mặt Hồng Quân đã trắng bệch như giấy, toàn thân run rẩy, mồ hôi nhễ nhại, rõ ràng là đã tiêu hao quá lớn."
+    },
+    {
+      "segment_id": "0021",
+      "source": "而这时，那先天不灭灵光表面已经布满了无数玄奥莫测，不断游弋，明灭不定的符篆，宛如一块细密的丝绸一般，将这先天不灭灵光紧紧的罩住。",
+      "target": "Lúc này, trên bề mặt Tiên thiên bất diệt linh quang đã phủ kín vô số phù triện huyền ảo khó lường, không ngừng bơi lội, lúc sáng lúc tối, giống như một tấm lụa mịn màng, bao trùm chặt lấy Tiên thiên bất diệt linh quang."
+    },
+    {
+      "segment_id": "0022",
+      "source": "鸿钧虽然狼狈，但眼中却现出兴奋的神采，张嘴一吸，那已经被无数符篆罩住的先天不灭灵光便猛地一冲，冲入他的嘴巴，被他直吞入腹中。",
+      "target": "Hồng Quân tuy nhếch nhác, nhưng trong mắt lại hiện lên vẻ phấn khích, há miệng hít một hơi, Tiên thiên bất diệt linh quang đã bị vô số phù triện bao phủ kia liền lao mạnh vào miệng y, bị y nuốt thẳng vào bụng."
+    },
+    {
+      "segment_id": "0023",
+      "source": "“可惜，若是能够一次凝成三百六十五个符篆的话，便能够将这先天不灭灵光收入识海了，现在却只能收入丹田。”罗帆虽然在前方，但他的感知却将鸿钧的这一番作为完全看在眼里，心中暗暗可惜。",
+      "target": "\"Đáng tiếc, nếu có thể một lần ngưng tụ thành ba trăm sáu mươi lăm bức phù triện, thì đã có thể thu đạo Tiên thiên bất diệt linh quang này vào thức hải rồi, hiện tại lại chỉ có thể thu vào đan điền.\" La Phàm tuy ở phía trước, nhưng cảm nhận của hắn lại thấy rõ mồn một từng hành động này của Hồng Quân, trong lòng thầm tiếc nuối."
+    },
+    {
+      "segment_id": "0024",
+      "source": "同时，他也知道了鸿钧之前修炼功法是多么的粗陋……",
+      "target": "Đồng thời, hắn cũng biết được công pháp tu luyện trước kia của Hồng Quân thô sơ đến mức nào..."
+    },
+    {
+      "segment_id": "0025",
+      "source": "盘古元灵根据自己脑海的“感悟”创造出来的法诀原本只需要抬手发出一道能量，然后按照法诀能够将这能量凝成一个符篆印入不灭灵光之中。但鸿钧居然连用手发出能量这点都做不到，只能张嘴借助嘴巴这种天生沟通身体内外的器官才勉强将能量发出。",
+      "target": "Pháp quyết mà Bàn Cổ nguyên linh căn cứ vào \"cảm ngộ\" trong đầu mình sáng tạo ra vốn chỉ cần giơ tay phát ra một đạo năng lượng, sau đó chiếu theo pháp quyết là có thể ngưng tụ năng lượng này thành một bức phù triện rồi in vào trong bất diệt linh quang. Thế nhưng Hồng Quân vậy mà ngay cả việc dùng tay phát ra năng lượng cũng không làm được, chỉ có thể há miệng mượn nhờ cái miệng là khí quan bẩm sinh giao tiếp trong ngoài cơ thể này mới miễn cưỡng phát ra được năng lượng."
+    },
+    {
+      "segment_id": "0026",
+      "source": "而且，他所发出的能量甚至还只是稍稍精粹过的混沌元气——连当初罗帆在证得地仙道果之前拥有的那种玄之又玄的能量都比不上……",
+      "target": "Hơn nữa, năng lượng y phát ra thậm chí còn chỉ là Hỗn Độn nguyên khí mới được tinh luyện đôi chút — ngay cả loại năng lượng huyền chi hựu huyền mà La Phàm sở hữu trước khi chứng được Địa Tiên đạo quả lúc ban đầu cũng không sánh bằng..."
+    },
+    {
+      "segment_id": "0027",
+      "source": "“看来想要调教好鸿钧，可是一个很大很大的工程啊……”罗帆心中对自己的今后的幸苦有了更深的认识。",
+      "target": "\"Xem ra muốn điều giáo tốt Hồng Quân, sẽ là một công trình rất rất lớn đây...\" La Phàm trong lòng có nhận thức sâu sắc hơn về sự vất vả sau này của mình."
+    },
+    {
+      "segment_id": "0028",
+      "source": "罗帆在这里想着这些，那边的鸿钧却已经是满脸的激动。",
+      "target": "La Phàm ở bên này suy nghĩ những điều đó, còn Hồng Quân ở bên kia thì đã đầy mặt kích động."
+    },
+    {
+      "segment_id": "0029",
+      "source": "经过方才那一番动作，先天不灭灵光已经进入了他的下腹丹田之中。",
+      "target": "Trải qua một phen hành động vừa rồi, Tiên thiên bất diệt linh quang đã tiến vào trong đan điền dưới bụng y."
+    },
+    {
+      "segment_id": "0030",
+      "source": "那明灭不定的先天不灭灵光在他的丹田内部沉浮着，围绕着一大团灰蒙蒙、几乎近似黑色的气团不断的旋转着，就宛如行星绕着恒星一般。",
+      "target": "Tiên thiên bất diệt linh quang lúc sáng lúc tối kia chìm nổi bên trong đan điền của y, vây quanh một khối khí lớn xám xịt, gần như xấp xỉ màu đen không ngừng xoay vòng, giống hệt như hành tinh xoay quanh ngôi sao."
+    },
+    {
+      "segment_id": "0031",
+      "source": "这一大团灰蒙蒙的，几近黑色的气团，正是经过压缩的混沌元气。也是鸿钧这十多万年以来修行的成果。",
+      "target": "Khối khí lớn xám xịt gần như đen kịt này chính là Hỗn Độn nguyên khí đã qua nén. Đó cũng là thành quả tu hành hơn mười vạn năm nay của Hồng Quân."
+    },
+    {
+      "segment_id": "0032",
+      "source": "那不灭灵光不断旋转着，每旋转一圈，便有一丝混沌元气从那气团之中溢出，融入那灵光表面密集得如丝绸一般的符篆之中，让那符篆流转速度加快一丝丝……",
+      "target": "Bất diệt linh quang không ngừng xoay vòng, cứ mỗi một vòng, lại có một luồng Hỗn Độn nguyên khí trào ra từ khối khí đó, dung nhập vào trong những bức phù triện dày đặc như lụa trên bề mặt linh quang, khiến tốc độ lưu chuyển của phù triện nhanh hơn một chút xíu..."
+    },
+    {
+      "segment_id": "0033",
+      "source": "“鸿钧。”罗帆已然知道鸿钧身上几乎没有什么是拿得出手的，心中起了好好调教的心思，前进了大约百万里之后，轻声呼道。",
+      "target": "\"Hồng Quân.\" La Phàm đã biết trên người Hồng Quân hầu như không có gì lấy ra được, trong lòng nảy sinh ý định điều giáo tử tế, sau khi tiến lên khoảng một triệu dặm, khẽ gọi."
+    },
+    {
+      "segment_id": "0034",
+      "source": "“徒儿在。”鸿钧虽然激动当中，但对于罗帆当真是如天般敬仰，连忙应了一声。",
+      "target": "\"Có đồ nhi.\" Hồng Quân tuy đang kích động, nhưng đối với La Phàm quả thực kính ngưỡng như trời, vội vàng đáp lại."
+    },
+    {
+      "segment_id": "0035",
+      "source": "“你化形至今有十多万年，可曾下过不周山？”罗帆问道。",
+      "target": "\"Ngươi hóa hình tới nay đã hơn mười vạn năm, đã từng xuống Bất Chu sơn chưa?\" La Phàm hỏi."
+    },
+    {
+      "segment_id": "0036",
+      "source": "“这……徒儿惭愧，却是不曾下过不周山……”鸿钧低头，有些惭愧的道。",
+      "target": "\"Chuyện này... Đồ nhi hổ thẹn, vẫn chưa từng xuống Bất Chu sơn...\" Hồng Quân cúi đầu, có chút xấu hổ nói."
+    },
+    {
+      "segment_id": "0037",
+      "source": "“原来如此，看来这次乃是你第一次离开不周山了，也罢，为师便带你看看洪荒大地吧。”罗帆回头扫了鸿钧一眼，道。",
+      "target": "\"Ra là vậy, xem ra lần này là lần đầu tiên ngươi rời khỏi Bất Chu sơn, cũng được, vi sư sẽ dẫn ngươi đi xem Hồng Hoang đại địa.\" La Phàm quay đầu lướt nhìn Hồng Quân một cái, nói."
+    },
+    {
+      "segment_id": "0038",
+      "source": "“多谢师尊。”鸿钧虽然不知罗帆何意，但还是躬身谢道。",
+      "target": "\"Đa tạ sư tôn.\" Hồng Quân tuy không hiểu ý La Phàm, nhưng vẫn khom lưng cảm tạ."
+    },
+    {
+      "segment_id": "0039",
+      "source": "罗帆摇了摇头，心神一动，这一朵祥云便改变方向，从原本水平前行改为往斜下方飞去，转眼间便撕开了罡风雷火层第二层与第三层的屏障，在几乎所有云朵状生命没有反应过来之前，便撕开第一层与第二层的屏障，入了罡风雷火层的第一层。",
+      "target": "La Phàm lắc lắc đầu, tâm thần khẽ động, đóa tường vân này liền chuyển hướng, từ chỗ bay thẳng theo chiều ngang đổi thành bay xéo xuống dưới, trong chớp mắt đã xé toạc rào chắn giữa tầng thứ hai và tầng thứ ba của tầng cương phong lôi hỏa, ngay trước khi hầu hết những sinh mệnh hình đám mây chưa kịp phản ứng, lại xé toạc rào chắn giữa tầng thứ nhất và tầng thứ hai, tiến vào tầng thứ nhất của tầng cương phong lôi hỏa."
+    },
+    {
+      "segment_id": "0040",
+      "source": "进入第一层之后，罗帆抬手一挥，这祥云周围宛如形成了一个罩子一般，将一切的罡风、雷、火隔绝，让其毫不受任何攻击的便冲过罡风雷火层的第一层，重归洪荒天地间。",
+      "target": "Sau khi tiến vào tầng thứ nhất, La Phàm vung tay lên, xung quanh đóa tường vân giống như hình thành một chiếc lồng chụp, cách ly toàn bộ cương phong, lôi, hỏa, giúp nó lao qua tầng thứ nhất của tầng cương phong lôi hỏa mà không phải chịu bất kỳ đòn tấn công nào, trở về lại giữa thiên địa Hồng Hoang."
+    },
+    {
+      "segment_id": "0041",
+      "source": "蔚蓝的天空，飘荡的白云，无尽的大地印入眼帘。",
+      "target": "Bầu trời trong xanh, mây trắng bồng bềnh, đại địa vô tận đập vào mắt."
+    },
+    {
+      "segment_id": "0042",
+      "source": "第二十二章 鸿钧大法，顶天立地(一)",
+      "target": "Chương 22: Hồng Quân đại pháp, đỉnh thiên lập địa (1)"
+    }
+  ]
+}
+```

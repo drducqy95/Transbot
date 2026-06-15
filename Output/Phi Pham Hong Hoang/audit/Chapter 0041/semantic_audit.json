@@ -1,0 +1,82 @@
+{
+  "issues": [
+    {
+      "segment_id": "0003",
+      "type": "unnatural_vietnamese",
+      "severity": "medium",
+      "fix": "Cánh rừng này rộng khoảng ngàn dặm, không phải quá bao la, nhưng những cây cổ thụ cao hàng trăm ngàn trượng mọc khắp nơi. Nhìn xa, chỉ thấy những thân cây khổng lồ, hai người ôm không xuể, sừng sững chọc trời."
+    },
+    {
+      "segment_id": "0004",
+      "type": "meaning_drift",
+      "severity": "low",
+      "fix": "Trong số những cổ thụ chọc trời này, dù không có cây nào sánh bằng quái thụ có linh thức, nhưng có rất nhiều cây hơi kém hơn, thấp hơn một chút. Dù kích thước hay chiều cao có gần bằng quái thụ, vẫn không có cây nào sở hữu linh thức."
+    },
+    {
+      "segment_id": "0006",
+      "type": "pronoun_inconsistency",
+      "severity": "low",
+      "fix": "Trước đó, khi dùng Hư Không Vô Cực Cung cảm nhận vị trí này, La Phàm đã biết rõ nguyên nhân, nên lúc này nhìn thấy cảnh tượng này hắn cũng không hề ngạc nhiên."
+    },
+    {
+      "segment_id": "0010",
+      "type": "meaning_drift",
+      "severity": "medium",
+      "fix": "Thảm thực vật trên đại địa Hồng Hoang, dù là hoa cỏ hay cây cối, dù là thiên tài địa bảo quý giá đến đâu, phần lớn đều do các loại Mộc chi tinh hoa (như Giáp Mộc chi tinh, Ất Mộc chi tinh) kết hợp với tinh hoa của các hành khác trong Ngũ hành, sau đó hấp thu Tiên Thiên nguyên khí và chuyển hóa thành."
+    },
+    {
+      "segment_id": "0014",
+      "type": "meaning_drift",
+      "severity": "low",
+      "fix": "Những loài thực vật này nhìn bề ngoài không khác gì thực vật tự sinh từ Hỗn Độn nguyên khí, nhưng lại có một nhược điểm chí mạng."
+    },
+    {
+      "segment_id": "0016",
+      "type": "meaning_drift",
+      "severity": "low",
+      "fix": "Vùng rừng viễn cổ trước mắt La Phàm do Giáp Mộc chi tinh thuần túy hấp thu Tiên Thiên nguyên khí và chuyển hóa, nên thuộc loại thực vật do tinh hoa Ngũ hành tạo thành."
+    },
+    {
+      "segment_id": "0021",
+      "type": "unnatural_vietnamese",
+      "severity": "medium",
+      "fix": "La Phàm khẽ động tâm niệm, thân hình lao thẳng xuống dưới. Khi sắp chạm đất, trong đầu hắn vận chuyển một đạo tâm pháp khẩu quyết, khiến cơ thể hơi biến hóa, như một hư ảnh xuyên thẳng vào lòng đất, suốt quá trình không gặp bất kỳ cản trở nào."
+    },
+    {
+      "segment_id": "0026",
+      "type": "meaning_drift",
+      "severity": "low",
+      "fix": "Đó là một không gian hình cầu có đường kính một trăm năm mươi trượng."
+    },
+    {
+      "segment_id": "0030",
+      "type": "meaning_drift",
+      "severity": "low",
+      "fix": "So sánh với kích thước của không gian hình cầu, La Phàm biết rằng ban đầu đoàn Giáp Mộc chi tinh này có đường kính một trăm năm mươi trượng và toàn bộ là tinh thể rắn."
+    },
+    {
+      "segment_id": "0035",
+      "type": "unnatural_vietnamese",
+      "severity": "medium",
+      "fix": "Khi tiếp cận Giáp Mộc chi tinh, đơn vị pháp lực vốn nhỏ như hạt bụi nay đã biến thành một phù triện lập thể cao mười trượng, hình dáng giống như núi Bất Chu."
+    },
+    {
+      "segment_id": "0040",
+      "type": "meaning_drift",
+      "severity": "low",
+      "fix": "Đây là một phương pháp trữ vật mà La Phàm đã nghiên cứu từ lâu. Lần này là lần thử nghiệm đầu tiên, và kết quả rõ ràng rất viên mãn."
+    },
+    {
+      "segment_id": "0044",
+      "type": "dialogue_tone_error",
+      "severity": "low",
+      "fix": "“Xin lỗi nhé...” La Phàm thầm thở trong lòng."
+    },
+    {
+      "segment_id": "0050",
+      "type": "meaning_drift",
+      "severity": "medium",
+      "fix": "“Khối Giáp Mộc chi tinh này chắc hẳn chịu được ba mươi sáu tầng cấm chế. Nếu dùng nó để luyện chế Hoàng Cân Lực Sĩ, chắc chắn sẽ tạo ra Hoàng Cân Lực Sĩ cấp cao nhất… rồi bố trí thêm một vài thủ đoạn, đủ để làm bảo vật độ kiếp cho Hồng Quân.” La Phàm thầm tính toán."
+    }
+  ]
+}

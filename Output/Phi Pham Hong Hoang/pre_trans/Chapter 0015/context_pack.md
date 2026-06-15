@@ -1,0 +1,379 @@
+# Translation Context Pack
+
+## Project
+- Branch: Phi Pham Hong Hoang
+- Title: 
+- Author: 
+- Genre: /
+- Language: zh → vi
+
+## Translation Rules
+### Translation Goal
+Dịch truyện Trung sang tiếng Việt tự nhiên, dễ đọc, đúng nghĩa, đúng mạch truyện, đúng văn cảnh, đúng xưng hô, đúng tên riêng và thuật ngữ.
+Style: văn xuôi tiếng Việt mượt, rõ nghĩa, không máy móc
+Priorities:
+  • đúng nghĩa và đúng văn cảnh
+  • đúng tên riêng
+  • đúng thuật ngữ theo loại và bối cảnh
+  • đúng xưng hô và quan hệ nhân vật
+  • giữ ổn định thuật ngữ/tên riêng/xưng hô đã khóa
+  • tự nhiên trong tiếng Việt
+  • giữ nhịp văn, cảm xúc và giọng kể gốc
+Anti-goals:
+  • không dịch từng chữ máy móc
+  • không Hán Việt hóa tên Nhật, Hàn, phương Tây, fandom, thương hiệu, kỹ thuật
+  • không áp VietPhrase/LuatNhan lên tên riêng đã khóa
+  • không đổi thuật ngữ đã khóa nếu văn cảnh giống nhau
+  • không dùng một bản dịch cứng cho từ đa nghĩa khi văn cảnh khác nhau
+  • không làm lộ thông tin ngoài POV nếu bản gốc chưa tiết lộ
+
+### Output Rules
+  • keep paragraph structure
+  • keep dialogue structure
+  • do not merge paragraphs
+  • do not split paragraphs unnecessarily
+  • preserve punctuation when reasonable
+  • convert chinese quotes to vietnamese
+  • remove unnecessary explanation
+  • output only translation
+  • do not add notes inside translation
+  • mark uncertain items for audit only
+
+### Tone Guidelines
+  • narration: tự nhiên, rõ ràng, có chất truyện
+  • dialogue: phù hợp thân phận, quan hệ, tuổi tác, quyền lực và bối cảnh
+  • ancient_setting: cổ phong vừa phải, không lạm dụng Hán Việt khó hiểu
+  • modern_setting: hiện đại, đời thường, không cổ hóa lời thoại
+  • game_system: rõ ràng, gọn, quen thuộc với văn phong game/system
+  • comedy: giữ nhịp hài nếu có
+  • serious: giữ sắc thái căng thẳng, trang trọng nếu có
+
+### Term Normalization
+Purpose: Chuẩn hóa thuật ngữ theo văn cảnh truyện, bao gồm chiêu thức, nghề nghiệp, chức vị, cảnh giới, kỹ năng, vật phẩm, danh hiệu, tổ chức, hệ thống, khái niệm thế giới quan và cụm cố định lặp lại.
+Core principles:
+  • context first
+  • not word by word
+  • same source can have different translation if context differs
+  • same source same context must be consistent
+  • same term type should keep style consistent
+  • locked translation only applies to matching context
+  • source plus type plus context equals translation
+Decision rules:
+  • Không dịch thuật ngữ chỉ theo mặt chữ.
+  • Một source có thể có nhiều bản dịch nếu văn cảnh khác nhau.
+  • Một bản dịch đã khóa chỉ áp dụng cho đúng loại văn cảnh đã khóa.
+  • Tên chiêu thức, cảnh giới, pháp bảo quan trọng nên dùng dạng Hán Việt chuẩn, viết hoa nếu là danh từ riêng.
+  • Vật phẩm phổ thông không cần Hán Việt hóa quá mức.
+  • Nghề nghiệp phải xét bối cảnh.
+  • Chức vị phải xét hệ thống xã hội.
+  • Nếu cùng source và cùng văn cảnh, phải giữ nhất quán.
+  • Nếu không chắc văn cảnh, đánh dấu audit.
+
+### Engine Rules
+  • use context pack
+  • use previous chapter summary
+  • use character profile
+  • use story timeline
+  • use glossary
+  • use name scan
+  • use segment context
+  • avoid over literal translation
+  • avoid over smoothing that changes meaning
+
+## Characters
+N/A
+
+## Glossary
+N/A
+
+## Story Timeline (latest)
+
+## Chapter 0001 - Chương 1: Thiên địa sơ khai có Tỳ Hưu
+
+### Summary
+Chapter 1 completed via pipeline.
+
+## Chapter 0002 - Chương 2: Quan Bất Chu ngộ công pháp
+
+### Summary
+Chapter 2 completed via pipeline.
+
+## Chapter 0001 - Chương 1: Thiên địa sơ khai có Tỳ Hưu
+
+### Summary
+Chapter 1 completed via pipeline.
+
+## Chapter 0002 - Chương 2: Quan Bất Chu ngộ công pháp
+
+### Summary
+Chapter 2 completed via pipeline.
+
+## Chapter 0003 - Chương 3: Quan Bất Chu ngộ công pháp
+
+### Summary
+Chapter 3 completed via pipeline.
+
+## Chapter 0004 - Chương 4: Quan Bất Chu ngộ công pháp
+
+### Summary
+Chapter 4 completed via pipeline.
+
+## Chapter 0005 - Chương 5: Vô danh công pháp thành
+
+### Summary
+Chapter 5 completed via pipeline.
+
+## Chapter 0006 - Chương 6: Vô danh công pháp thành
+
+### Summary
+Chapter 6 completed via pipeline.
+
+## Chapter 0007 - Chương 7: Lên đường ba năm
+
+### Summary
+Chapter 7 completed via pipeline.
+
+## Chapter 0008 - Chương 8: Căng phong lôi hỏa rèn xác thể (3)
+
+### Summary
+Chapter 8 completed via pipeline.
+
+## Chapter 0009 - Chương 9: Đỉnh thiên lập địa Bất Chu sơn
+
+### Summary
+Chapter 9 completed via pipeline.
+
+## Chapter 0010 - Chương 10: Vực ngoại có Thiên Ma (1)
+
+### Summary
+Chapter 10 completed via pipeline.
+
+## Chapter 0011 - Chương 11: Vực ngoại có Thiên Ma (2)
+
+### Summary
+Chapter 11 completed via pipeline.
+
+## Chapter 0012 - Chương 12: Vực ngoại có Thiên Ma (3)
+
+### Summary
+Chapter 12 completed via pipeline.
+
+## Chapter 0013 - Chương 13: Cương phong lôi hỏa chia chín tầng, tinh không vô tận có đất trời
+
+### Summary
+Chapter 13 completed via pipeline.
+
+## Chapter 0014 - Chương 14: Thành đạo thể, hóa Bất Chu (1)
+
+### Summary
+Chapter 14 completed via pipeline.
+
+
+## Source Chapter 15 - 0015 成道体，化不周（二）()
+```json
+[
+  {
+    "segment_id": "0001",
+    "text": "# 第十五章 成道体，化不周（二）()"
+  },
+  {
+    "segment_id": "0002",
+    "text": "星空无尽，却在垂直方向上统统映照在罗帆的意念之中，被他以某种玄妙的方式所感知到。"
+  },
+  {
+    "segment_id": "0003",
+    "text": "只是，也仅仅是如此而已了。在垂直方向上用玄妙的感知将整个星空裹在其中之后，无论他的感知能力如何进步，所感知的范围却再没有任何一丝丝的提升，就那么停滞在那里！"
+  },
+  {
+    "segment_id": "0004",
+    "text": "即使是他脑海之中那穹庐似的识海在垂直方向上的厚度已经达到了三千里，能够映照在他意念之中的景象也提升到了三万里之多，那映照在他意念之中的景象也仅仅是到达这星空的尽头，再往上一丝丝到底是什么情况，是否还是无尽的星空，是否有是一片天地，或者干脆是一片虚无，甚而是无穷世界，皆是一无所知。"
+  },
+  {
+    "segment_id": "0005",
+    "text": "这种怪异而玄妙的情况虽然蕴含了无穷的奥秘，若是真正搞清楚，定然能够让他的修为有一个极大的进步，但此时却并非时候。"
+  },
+  {
+    "segment_id": "0006",
+    "text": "别忘了，此时罗帆泥丸宫之中可是在发生翻天覆地的变化！"
+  },
+  {
+    "segment_id": "0007",
+    "text": "那神魂所化的不周山不断膨胀着，不断的绞散周围那灰蒙蒙的物质，壮大这穹庐形状识海大小。"
+  },
+  {
+    "segment_id": "0008",
+    "text": "嚟啦……嚟啦……嗤嗤……嗤嗤……"
+  },
+  {
+    "segment_id": "0009",
+    "text": "声声脆响越来越大的传入他的意念之中，将那越来越广大的映照景象轰成无数碎片，让他在无法保持那种神秘的感知，整个心神意念渐渐被这种种越来越巨大，越来越频繁的声响所充满了。"
+  },
+  {
+    "segment_id": "0010",
+    "text": "整个思想也因此而渐渐变得空白起来。"
+  },
+  {
+    "segment_id": "0011",
+    "text": "不知过了多长时间，整个天地似乎发生了一阵剧烈的震荡。"
+  },
+  {
+    "segment_id": "0012",
+    "text": "思想之中那一片无穷无尽的空白在这一阵剧烈的震荡之下渐渐的崩溃粉碎。"
+  },
+  {
+    "segment_id": "0013",
+    "text": "粉碎那种空白之后，他只感觉自己已经变化成为一个无比强大的存在，一种苍茫不屈的气息在内心深处涌动着，似乎只要一举手，一投足，都能够粉碎天地，粉碎虚空！"
+  },
+  {
+    "segment_id": "0014",
+    "text": "细细一感觉，他心中顿时充满了无穷的震撼。"
+  },
+  {
+    "segment_id": "0015",
+    "text": "“原来，这无名功法的真正功效居然是如此！”罗帆心中只有这么一个宛如雷鸣般的念头在涌动着。"
+  },
+  {
+    "segment_id": "0016",
+    "text": "因为，此时此刻，他感觉自己已经化身不周山！非是那外界洪荒天地之中的西北天柱不周山，而是他神魂所化的，在识海虚空之中的不周山！"
+  },
+  {
+    "segment_id": "0017",
+    "text": "这不周山就宛如他的身体一般耸立在识海虚空的正中央。"
+  },
+  {
+    "segment_id": "0018",
+    "text": "而这个识海虚空不知什么时候已经变成了一个世界，变成一个面积有四万九千里方圆，高度足有四千九百里的，天圆地方的世界！或者说，一个穹庐般形状的世界！"
+  },
+  {
+    "segment_id": "0019",
+    "text": "在这世界之中，他的神魂，化身成为不周山的形状耸立在正中央。山底稳立地面，和整个地面每一寸空间牢牢的结合在一起。"
+  },
+  {
+    "segment_id": "0020",
+    "text": "山顶顶住这个世界的天空，宛如擎天之柱一般，成为整个天地的支撑。"
+  },
+  {
+    "segment_id": "0021",
+    "text": "无穷无尽的压力从上下两个方向向他挤压过来，那一股压力之强，就宛如无数座大山从万里高空轰然掉落一般，沉重得无法想象。"
+  },
+  {
+    "segment_id": "0022",
+    "text": "但这些，却无法对他造成什么影响！"
+  },
+  {
+    "segment_id": "0023",
+    "text": "他的心神之中，充斥着那一股苍茫不屈的气息，一股天塌下来我也要将他顶回去的豪情！"
+  },
+  {
+    "segment_id": "0024",
+    "text": "这上下两个方向向他袭来的恐怖压力在这种苍茫不屈的气息之下，在这一股顶住天地的豪情之中，反而是恰到好处，没有让他感到有力无处使，也没有让他感到无法承受！"
+  },
+  {
+    "segment_id": "0025",
+    "text": "“盘古开天，我为脊梁，顶天立地，我为不周……这十六个字……原来是这般意思……”在刚刚那个也念头之后，又有一个念头出现在他的心神意念之中。"
+  },
+  {
+    "segment_id": "0026",
+    "text": "用不周山的视角观察整个天地，天地的一切尽在眼中。"
+  },
+  {
+    "segment_id": "0027",
+    "text": "地面凹凸不平，起伏不定，看似杂乱，却拥有某种十分玄奥的规律，和整座不周山结合在一起，就宛如一片真正的大地一般。"
+  },
+  {
+    "segment_id": "0028",
+    "text": "天空，却是灰蒙蒙的一片，宛如就在自己的眼前，翻涌着，粉碎着，就仿佛无穷无尽的云层遮掩了整个天空一般。"
+  },
+  {
+    "segment_id": "0029",
+    "text": "如此天空，如此大地，让整个天地显得无比的荒凉……"
+  },
+  {
+    "segment_id": "0030",
+    "text": "只是，事情的发展却没有留给罗帆太多时间去感应这如此荒凉，如此奇异的识海世界。"
+  },
+  {
+    "segment_id": "0031",
+    "text": "忽然间，他神魂所化的不周山一阵狂震，无穷无尽的虚影从这不周山之中好似冲锋枪的子弹一般迸发而出！"
+  },
+  {
+    "segment_id": "0032",
+    "text": "这些虚影在离开神魂所化的不周山之后瞬间缩小，从原本的顶天立地转眼间化为米粒大小的微粒。"
+  },
+  {
+    "segment_id": "0033",
+    "text": "这虚影的喷出持续了许久，喷出的虚影数量超过亿万方才停止下来。"
+  },
+  {
+    "segment_id": "0034",
+    "text": "这亿万虚影不断的凝聚，最终化为了一道山石般灰褐色的气流，在这识海开辟出来的世界之中有如一道细小的丝线一般，显得那般的微不足道。"
+  },
+  {
+    "segment_id": "0035",
+    "text": "“符篆！”罗帆心头大为惊异，同时更是大为喜悦。"
+  },
+  {
+    "segment_id": "0036",
+    "text": "因为他感觉到，这些不周山虚影是由一个个复杂得让人普通人一看便会精神崩溃的立体符篆所化，那不周山的虚影，只是这符篆的其形状罢了！"
+  },
+  {
+    "segment_id": "0037",
+    "text": "而组成这些符篆的，却都是一种无比玄妙的能量！其精纯程度，凝聚程度，比起以前在罗帆体内那种玄之又玄的能量都要强上百倍以上！"
+  },
+  {
+    "segment_id": "0038",
+    "text": "这一道由亿万符篆所组成的气流在这识海世界之中游荡着，宛如一道活生生的生灵一般，无比灵活，无比飘逸。而且更是完全处于罗帆的控制之下，那控制程度甚至深入到了每一个符篆的地步。"
+  },
+  {
+    "segment_id": "0039",
+    "text": "随着对着气流控制的加深，忽然间，他的脑海猛然一动，又有一段信息从脑海深处迸出。所使用的文字依然是记载无名功法的那种复杂无比，却又蕴含无尽信息的文字。"
+  },
+  {
+    "segment_id": "0040",
+    "text": "“这就是所谓的‘法力’么……”他瞬间产生如此明悟。"
+  },
+  {
+    "segment_id": "0041",
+    "text": "随着这明悟出现，这一道法力猛然一震，涌入这识海世界之中一个十分神秘的位置，瞬间消失在这识海世界之中。"
+  },
+  {
+    "segment_id": "0042",
+    "text": "罗帆对于这识海世界的一切都十分清楚，瞬间明白那神秘的位置正是这识海与身体的连接点。意念一冲，也顺着那神秘的位置，冲出识海，进入了他的身体，整个身体的感觉，身体内部、外部的情况瞬间涌入他的意念之中。"
+  },
+  {
+    "segment_id": "0043",
+    "text": "那一道法力在这时已经涌入了他那碗口大小的经脉之中。"
+  },
+  {
+    "segment_id": "0044",
+    "text": "这一道法力虽然细小，简直比起头发丝大不了多少，但威力却无比恐怖。这碗口大小的经脉在这法力进入之后，居然无法承受，瞬间便片片崩溃，丝丝粉碎！"
+  },
+  {
+    "segment_id": "0045",
+    "text": "接着，更有一股无比强大的吸引力从他身上产生，撕扯着周围的一切能量，将这些能量不断的吸入他的身体内部。"
+  },
+  {
+    "segment_id": "0046",
+    "text": "他此时所在的位置乃是在罡风雷火层第三层。这一股如此恐怖的撕扯力量出现，瞬间整个罡风雷火层便做出了反应，一头又一头各种颜色的云朵状生命体好似发现了目标一般，疯狂地向着他猛冲过来！"
+  },
+  {
+    "segment_id": "0047",
+    "text": "第十六章 成道体，化不周(三)"
+  }
+]
+```
+
+## Output Format
+CRITICAL INSTRUCTION: You MUST translate the source text EXACTLY paragraph by paragraph, preserving the original order perfectly. DO NOT skip, drop, merge, or reorder any paragraphs. Each paragraph in the source MUST be translated.
+Return ONLY valid JSON matching this schema:
+{
+  "chapter_number": 15,
+  "chapter_title_vi": "Chương 15: <Vietnamese title>",
+  "segments": [
+    {
+      "segment_id": "XXXX",
+      "source": "...",
+      "target": "..."
+    }
+  ]
+}

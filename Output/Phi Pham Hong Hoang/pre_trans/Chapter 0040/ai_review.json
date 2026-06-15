@@ -1,0 +1,21 @@
+```json
+{
+  "names": {
+    "approved": [],
+    "rejected": [],
+    "uncertain": []
+  },
+  "terms": {
+    "approved": [
+      "力士召唤诀",
+      "阴阳测算法"
+    ],
+    "rejected": [
+      "所炼制出来的",
+      "是相当的精妙",
+      "！\n因为天地"
+    ],
+    "uncertain": []
+  }
+}
+```

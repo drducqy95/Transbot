@@ -1,0 +1,203 @@
+```json
+{
+  "chapter_number": 12,
+  "chapter_title_vi": "Chương 12: Vực ngoại có Thiên Ma (3)",
+  "segments": [
+    {
+      "segment_id": "0001",
+      "source": "# 第十二章 域外有天魔（三）()",
+      "target": "# Chương 12: Vực ngoại có Thiên Ma (3)"
+    },
+    {
+      "segment_id": "0002",
+      "source": "只听得这话音刚毕，那大自在天魔宛如貔貅的身躯猛地一震，轰然爆开，重新化为一团浓郁无比的黑雾。",
+      "target": "Chỉ nghe thấy lời này vừa dứt, thân thể giống hệt Tỳ Hưu của Đại Tự Tại Thiên Ma kia mãnh liệt chấn động, ầm ầm nổ tung, một lần nữa hóa thành một đám hắc vụ vô cùng nồng đậm."
+    },
+    {
+      "segment_id": "0003",
+      "source": "只是，和之前第一次出现的黑雾有所不同的是，此时的黑雾之中，包含了两道九彩光芒在正中央不断的伸缩着，于黑雾之中若隐若现。",
+      "target": "Chỉ là, có điểm khác biệt so với hắc vụ xuất hiện lần đầu tiên trước đó, bên trong hắc vụ lúc này có chứa hai đạo quang mang cửu thải đang không ngừng co duỗi ở ngay chính giữa, lúc ẩn lúc hiện trong hắc vụ."
+    },
+    {
+      "segment_id": "0004",
+      "source": "接着，只是呼吸间，这团黑雾极速收缩，化为一个身高近两米的人影！",
+      "target": "Tiếp đó, chỉ trong lúc hít thở, đám hắc vụ này cực tốc co rút lại, hóa thành một đạo nhân ảnh cao gần hai mét!"
+    },
+    {
+      "segment_id": "0005",
+      "source": "没错，便是一个“人”影。一个除了眼现九彩，其他完全和后世的“人”形象差不多的“人”影！",
+      "target": "Không sai, chính là một đạo \"nhân\" ảnh. Một đạo \"nhân\" ảnh ngoại trừ đôi mắt hiện ra cửu thải, những thứ khác hoàn toàn tương tự hình tượng \"người\" của đời sau!"
+    },
+    {
+      "segment_id": "0006",
+      "source": "这人影渐渐清晰，黑色褪去，色彩渐渐丰富。却是一似男非男似女非女的人体。如此形象本来应当是十分别扭，十分让人厌恶的，但此时这种形象出现在这“人”身上，却一点没有显得别扭，一点没有让人觉得难看！反而拥有一种无比神秘，无比迷人的魅力！让人一望之下，便会不由自主的沉迷其中，让人不由自主的便会被其吸引心神！",
+      "target": "Nhân ảnh này dần dần rõ nét, màu đen phai đi, màu sắc dần dần phong phú. Lại là một thân thể giống nam mà không phải nam, giống nữ mà không phải nữ. Hình tượng như vậy vốn dĩ phải vô cùng kỳ quặc, vô cùng khiến người ta chán ghét, nhưng lúc này hình tượng này xuất hiện trên người \"người\" này, lại không hề có vẻ gì là kỳ quặc, một chút cũng không khiến người ta cảm thấy khó coi! Ngược lại còn sở hữu một loại mị lực vô cùng thần bí, vô cùng mê người! Khiến người ta vừa nhìn thấy, liền sẽ không tự chủ được mà chìm đắm trong đó, khiến người ta không tự chủ được mà bị thu hút tâm thần!"
+    },
+    {
+      "segment_id": "0007",
+      "source": "“这里，便是传承中的盘古世界、洪荒天地么……果然神妙呢……”一声悠然的叹息声从这眼现九彩的人影口中传出。",
+      "target": "“Nơi này, chính là Bàn Cổ thế giới, Hồng Hoang thiên địa trong truyền thừa sao... Quả nhiên thần diệu nhỉ...” Một tiếng thở dài ung dung từ trong miệng đạo nhân ảnh đôi mắt hiện cửu thải này truyền ra."
+    },
+    {
+      "segment_id": "0008",
+      "source": "这声音虽然能够听出是说出之前那十分威严话语的一把声音，但这话语的语气，声调却已经和之前完全不同，似男非男，似女非女，飘忽无常，变幻不定。",
+      "target": "Thanh âm này tuy có thể nghe ra chính là cái giọng nói đã thốt ra những lời vô cùng uy nghiêm lúc trước, thế nhưng ngữ khí, âm điệu của lời này lại hoàn toàn khác biệt so với trước đó, giống nam không phải nam, giống nữ không phải nữ, trôi nổi vô thường, biến ảo bất định."
+    },
+    {
+      "segment_id": "0009",
+      "source": "这“人”，正是洪荒域外，他化自在天之天主，大自在天魔！",
+      "target": "\"Người\" này, chính là Hồng Hoang vực ngoại, thiên chủ của Tha Hóa Tự Tại Thiên, Đại Tự Tại Thiên Ma!"
+    },
+    {
+      "segment_id": "0010",
+      "source": "昔者盘古开天，其力量波动激荡混沌，自有无穷世界于其中伴随洪荒天地而生，自然演化，自成无数天地，有无穷生灵生于其中。他化自在天，便是这无数天地之一。大自在天魔，正是大自在天之天主！",
+      "target": "Ngày xưa Bàn Cổ khai thiên, lực lượng chấn động của ngài khuấy đảo hỗn độn, tự có vô cùng thế giới ở trong đó nương theo Hồng Hoang thiên địa mà sinh ra, tự nhiên diễn hóa, tự thành vô số thiên địa, có vô cùng sinh linh sinh ra trong đó. Tha Hóa Tự Tại Thiên, chính là một trong vô số thiên địa này. Đại Tự Tại Thiên Ma, chính là thiên chủ của Đại Tự Tại Thiên!"
+    },
+    {
+      "segment_id": "0011",
+      "source": "这些天地，这些世界，乃是盘古开天力量之余波激荡混沌而成，其结构及其不稳定，其大小自也远远及不上洪荒天地。",
+      "target": "Những thiên địa này, những thế giới này, chính là do dư ba của lực lượng Bàn Cổ khai thiên khuấy đảo hỗn độn mà thành, kết cấu của chúng cực kỳ không ổn định, độ lớn tự nhiên cũng xa xa không bằng Hồng Hoang thiên địa."
+    },
+    {
+      "segment_id": "0012",
+      "source": "只是，因他们与洪荒天地皆是由盘古开辟而成（虽一个有心，其他乃是无意），却与洪荒天地有着千丝万缕的联系。故而，在某种极其特殊的情况下，其他天地之强悍生灵可通过极其特殊的手段降临洪荒天地。",
+      "target": "Chỉ là, bởi vì chúng và Hồng Hoang thiên địa đều là do Bàn Cổ khai bách mà thành (tuy một cái là cố ý, những cái khác là vô tình), nên lại có mối liên hệ thiên ti vạn lũ với Hồng Hoang thiên địa. Bởi vậy, trong một số tình huống cực kỳ đặc thù, sinh linh cường hãn của thiên địa khác có thể thông qua thủ đoạn cực kỳ đặc thù để giáng lâm Hồng Hoang thiên địa."
+    },
+    {
+      "segment_id": "0013",
+      "source": "这大自在天魔，便是借助罗帆突破那一瞬间引起的某种玄妙变化，依靠罗帆的力量而降临！",
+      "target": "Đại Tự Tại Thiên Ma này, chính là mượn nhờ một loại biến hóa huyền diệu nào đó sinh ra trong nháy mắt La Phàm đột phá, dựa vào lực lượng của La Phàm mà giáng lâm!"
+    },
+    {
+      "segment_id": "0014",
+      "source": "这大自在天魔面上似笑非笑，神色变幻无常，一股慑人心神的气息从其身上透出。",
+      "target": "Trên mặt Đại Tự Tại Thiên Ma này mang vẻ như cười như không, thần sắc biến ảo vô thường, một luồng khí tức nhiếp nhân tâm thần từ trên người hắn tỏa ra."
+    },
+    {
+      "segment_id": "0015",
+      "source": "随着那句话语，这大自在天魔方圆千里范围的世界瞬间改变。",
+      "target": "Cùng với câu nói kia, thế giới trong phạm vi phương viên ngàn dặm của Đại Tự Tại Thiên Ma này trong nháy mắt cải biến."
+    },
+    {
+      "segment_id": "0016",
+      "source": "原本一片虚无的空间，变成了一个云雾袅绕，天花从天而降，迷人芬芳沁人心脾的小天地。",
+      "target": "Không gian vốn dĩ là một mảng hư vô, biến thành một cái tiểu thiên địa mây mù lượn lờ, thiên hoa từ trên trời giáng xuống, hương thơm say người thấm vào ruột gan."
+    },
+    {
+      "segment_id": "0017",
+      "source": "这小天地之中，无数英俊无比的男子，无数美绝人寰的女子，无数晃动人心的宝贝，无数迷人五感的声色随生随灭，变幻不定，摄人心神……",
+      "target": "Bên trong tiểu thiên địa này, vô số nam tử vô cùng anh tuấn, vô số nữ tử đẹp tuyệt trần gian, vô số bảo bối lay động lòng người, vô số thanh âm sắc màu mê hoặc ngũ quan theo đó sinh ra rồi biến mất, biến ảo bất định, nhiếp nhân tâm thần..."
+    },
+    {
+      "segment_id": "0018",
+      "source": "接着，在大自在天魔的身后，出现了一个靠背有五米高，大气而威严，雕刻着无数世间美妙事物景象的宝座。",
+      "target": "Tiếp đó, ở phía sau lưng Đại Tự Tại Thiên Ma, xuất hiện một cái bảo tọa có lưng tựa cao năm mét, khí phái mà uy nghiêm, điêu khắc cảnh tượng vô số sự vật mỹ diệu trên thế gian."
+    },
+    {
+      "segment_id": "0019",
+      "source": "大自在天魔缓缓坐在宝座之上，一股无比威严，掌控一切的气息随即透出，充斥方圆千里范围的这小天地内部任何一个角落。使得，这方圆千里大小的小天地在这一瞬间好似被某个存在握在手中一般，所有的一切都被人所掌控。",
+      "target": "Đại Tự Tại Thiên Ma chậm rãi ngồi lên trên bảo tọa, một luồng khí tức vô cùng uy nghiêm, chưởng khống hết thảy lập tức tỏa ra, tràn ngập bất kỳ ngóc ngách nào bên trong tiểu thiên địa rộng phương viên ngàn dặm này. Khiến cho tiểu thiên địa lớn cỡ phương viên ngàn dặm này trong nháy mắt này giống như bị một tồn tại nào đó nắm ở trong tay vậy, tất cả mọi thứ đều bị người khống chế."
+    },
+    {
+      "segment_id": "0020",
+      "source": "此时的罗帆身躯已经宛如骨架，因为大自在天魔选择位置的缘故，其却刚好便在那宝座之前。形象狼狈，看起来却好似正在向那宝座之上的大自在天魔顶礼膜拜一般。",
+      "target": "Thân thể La Phàm lúc này đã giống hệt khung xương, bởi vì duyên cớ Đại Tự Tại Thiên Ma chọn lựa vị trí, hắn lại vừa vặn ở ngay phía trước bảo tọa kia. Hình tượng chật vật, trông lại giống như đang đảnh lễ cúng bái Đại Tự Tại Thiên Ma ở trên bảo tọa kia vậy."
+    },
+    {
+      "segment_id": "0021",
+      "source": "“此灵实力甚弱，却为我降临铺就道路，也罢，便渡之为吾他化自在天之魔将罢。”大自在天魔闪着九彩光芒的双眼漠然的望着下方宛如骨架的罗帆，口中吐出似男非男，似女非女的话语。",
+      "target": "“Thực lực của sinh linh này rất yếu, nhưng lại dọn đường cho ta giáng lâm, thôi vậy, liền độ hắn làm ma tướng của Tha Hóa Tự Tại Thiên ta đi.” Đôi mắt lấp lóe quang mang cửu thải của Đại Tự Tại Thiên Ma hờ hững nhìn La Phàm giống như khung xương ở bên dưới, trong miệng nhả ra lời nói giống nam không phải nam, giống nữ không phải nam."
+    },
+    {
+      "segment_id": "0022",
+      "source": "接着，它抬起纤细柔腻，有如白玉一般的手掌，虚虚向着罗帆的身体罩下去。",
+      "target": "Tiếp đó, hắn giơ lên bàn tay mảnh khảnh mềm mịn, tựa như bạch ngọc, hư không che xuống thân thể La Phàm."
+    },
+    {
+      "segment_id": "0023",
+      "source": "随着这一罩，一股九彩光芒在罗帆周围凭空而生，将罗帆身躯罩住，并不断往他的身躯内部渗入，转眼间将他的身躯表面染成九彩颜色。",
+      "target": "Cùng với cái che lại này, một luồng quang mang cửu thải lăng không sinh ra ở xung quanh La Phàm, che phủ thân thể La Phàm, đồng thời không ngừng thấm vào bên trong thân thể hắn, trong chớp mắt nhuộm bề mặt thân thể hắn thành màu sắc cửu thải."
+    },
+    {
+      "segment_id": "0024",
+      "source": "“一切，都是假的……原来，一切都是假的……盘古开天，我为脊梁，顶天立地，我为不周……”便在那九彩光芒充满罗帆整个骨架，眼看就要完全渗入骨髓将身体每一寸位置从里到外完全染成九彩颜色的瞬间，一声悠然苍茫的话语宛如从虚空各处传出，威严宏大，有如雷鸣，但听起来却又温婉平和，有如斜风细雨一般，浸润心灵……",
+      "target": "“Tất cả, đều là giả... Thì ra, tất cả đều là giả... Bàn Cổ khai thiên, ta làm cột sống, đỉnh thiên lập địa, ta là Bất Chu...” Đúng vào khoảnh khắc quang mang cửu thải kia tràn ngập toàn bộ khung xương của La Phàm, mắt thấy sắp sửa thấm hoàn toàn vào tủy xương nhuộm hoàn toàn từng tấc vị trí trên thân thể từ trong ra ngoài thành màu sắc cửu thải, một lời nói ung dung thương mang giống như truyền ra từ khắp nơi trong hư không, uy nghiêm to lớn, tựa như tiếng sấm, nhưng nghe lại ôn uyển bình hòa, giống như gió nhẹ mưa lất phất vậy, thấm ướt cõi lòng..."
+    },
+    {
+      "segment_id": "0025",
+      "source": "“汝何必挣扎？又何必反抗？……天地万灵，自有yu望，长生、权势、快感、富贵……凡此种种，无穷无尽，非处我大自在天域，如何能得满足？”大自在天魔悠然叹息。",
+      "target": "“Ngươi cớ gì phải giãy giụa? Lại cớ gì phải phản kháng?... Thiên địa vạn linh, tự có dục vọng, trường sinh, quyền thế, khoái cảm, phú quý... Phàm là những loại này, vô cùng vô tận, nếu không ở Đại Tự Tại Thiên Vực của ta, làm sao có thể được thỏa mãn?” Đại Tự Tại Thiên Ma ung dung thở dài."
+    },
+    {
+      "segment_id": "0026",
+      "source": "“我只求真实，我只求逍遥，我只求看尽洪荒演化，我只求看尽世界尽头，我只求以自我之力顶出天地，我只求以自我之心化尽一切魔障……”那从虚空之中凭空而生的声音每说一句便洪亮一分，每说一句，便威严一分，道最后说到化尽一切魔障之时，已经有如九天之雷，震荡方圆万里之天地，响彻云霄！",
+      "target": "“Ta chỉ cầu chân thực, ta chỉ cầu tiêu dao, ta chỉ cầu nhìn thấu Hồng Hoang diễn hóa, ta chỉ cầu nhìn tận cùng thế giới, ta chỉ cầu dùng sức của bản ngã nâng đỡ thiên địa, ta chỉ cầu dùng tâm của bản ngã hóa giải hết thảy ma chướng...” Thanh âm lăng không sinh ra từ trong hư không kia mỗi nói một câu liền hồng lượng thêm một phần, mỗi nói một câu, liền uy nghiêm thêm một phần, đến lúc cuối cùng nói tới hóa giải hết thảy ma chướng, đã giống như sấm sét trên cửu thiên, chấn động thiên địa phương viên vạn dặm, vang dội tầng mây!"
+    },
+    {
+      "segment_id": "0027",
+      "source": "随着这声音的持续，那大自在天魔所化生出来的小天地宛如被剧烈晃动的图片一般，开始产生剧烈的震荡起来。",
+      "target": "Cùng với sự tiếp diễn của thanh âm này, tiểu thiên địa do Đại Tự Tại Thiên Ma kia hóa sinh ra tựa như bức ảnh bị rung lắc kịch liệt vậy, bắt đầu sinh ra chấn động kịch liệt."
+    },
+    {
+      "segment_id": "0028",
+      "source": "随着这震荡，罗帆那宛如骨架一般的身躯渐渐涌出一股混混沌沌的，玄之又玄的能量！",
+      "target": "Cùng với chấn động này, thân thể tựa như khung xương của La Phàm dần dần trào ra một cỗ năng lượng hỗn hỗn độn độn, huyền chi lại huyền!"
+    },
+    {
+      "segment_id": "0029",
+      "source": "这一股能量的出现，有如注入空井的温泉一般，让罗帆原本好似骨架一般的身躯以肉眼可见的速度快速丰满。",
+      "target": "Sự xuất hiện của cỗ năng lượng này, tựa như suối nước nóng rót vào giếng cạn vậy, khiến thân thể vốn dĩ giống như khung xương của La Phàm nhanh chóng đầy đặn lại với tốc độ mắt thường có thể nhìn thấy."
+    },
+    {
+      "segment_id": "0030",
+      "source": "那些之前被黑雾之中的怪物啃噬掉的血肉在呼吸间便完全被补了回来。",
+      "target": "Những huyết nhục bị quái vật trong hắc vụ gặm nhấm mất trước đó, chỉ trong hô hấp liền hoàn toàn được bù đắp lại."
+    },
+    {
+      "segment_id": "0031",
+      "source": "而这时，整个大自在天魔演化出来的小天地已然是震荡到了极限，无数好似立体蜘蛛网一般的裂缝布满了这方圆千里范围的小天地。",
+      "target": "Mà lúc này, toàn bộ tiểu thiên địa do Đại Tự Tại Thiên Ma diễn hóa ra đã chấn động đến cực hạn, vô số vết nứt giống như mạng nhện lập thể phủ đầy tiểu thiên địa rộng phương viên ngàn dặm này."
+    },
+    {
+      "segment_id": "0032",
+      "source": "“顶出天地，化尽魔障么……”大自在天魔对于自己演化出来的小天地发生的变化毫不在意，只是叹了一声，那声音十分的悠远，听起来宛如情人在耳边倾述，又宛如仇敌在眼前漫骂……",
+      "target": "“Nâng đỡ thiên địa, hóa giải ma chướng sao...” Đại Tự Tại Thiên Ma đối với sự biến hóa phát sinh ở tiểu thiên địa do mình diễn hóa ra chẳng hề bận tâm, chỉ là thở dài một tiếng, âm thanh kia vô cùng xa xăm, nghe như người tình thì thầm bên tai, lại tựa như cừu địch chửi rủa ngay trước mắt..."
+    },
+    {
+      "segment_id": "0033",
+      "source": "“盘古之灵果然不同凡响，看来此时非我降临之时呢……也罢也罢，此时不适，自有合适之时……”大自在天魔说话声听起来和之前并没有多少区别。",
+      "target": "“Bàn Cổ chi linh quả nhiên không tầm thường, xem ra lúc này không phải thời điểm ta giáng lâm rồi... Thôi vậy thôi vậy, lúc này không thích hợp, tự có lúc thích hợp...” Giọng nói của Đại Tự Tại Thiên Ma nghe ra không có bao nhiêu khác biệt so với trước đó."
+    },
+    {
+      "segment_id": "0034",
+      "source": "话音说毕，它所构造出来的整个小天地之中的裂缝已然是布满了这方圆千里的小天地中每一寸区域，其大小也扩大到能够透过这裂缝看到外面景象的地步。",
+      "target": "Dứt lời, vết nứt trong toàn bộ tiểu thiên địa do hắn cấu tạo ra đã trải rộng mỗi một tấc khu vực trong tiểu thiên địa phương viên ngàn dặm này, kích cỡ của nó cũng mở rộng đến mức có thể xuyên thấu qua vết nứt nhìn thấy cảnh tượng bên ngoài."
+    },
+    {
+      "segment_id": "0035",
+      "source": "“嚓嚓嚓……”",
+      "target": "“Răng rắc răng rắc...”"
+    },
+    {
+      "segment_id": "0036",
+      "source": "声声诡异的轻响响起，整个大自在天魔构造出来的小天地化为无数块碎片，轰然散开，渐渐消散在天地之间。",
+      "target": "Từng tiếng vang nhỏ quỷ dị vang lên, toàn bộ tiểu thiên địa do Đại Tự Tại Thiên Ma cấu tạo ra hóa thành vô số mảnh vỡ, ầm ầm tản ra, dần dần tiêu tán giữa thiên địa."
+    },
+    {
+      "segment_id": "0037",
+      "source": "随着这小天地的消散，大自在天魔连同其宝座周围的空间发生强烈的扭曲。",
+      "target": "Theo tiểu thiên địa này tiêu tán, Đại Tự Tại Thiên Ma cùng với không gian xung quanh bảo tọa của hắn phát sinh vặn vẹo mãnh liệt."
+    },
+    {
+      "segment_id": "0038",
+      "source": "扭曲过后，大自在天魔及其宝座已是消失无踪，宛若从未出现。",
+      "target": "Sau khi vặn vẹo qua đi, Đại Tự Tại Thiên Ma và bảo tọa của hắn đã biến mất không tung tích, tựa như chưa từng xuất hiện."
+    },
+    {
+      "segment_id": "0039",
+      "source": "第十三章 罡风雷火分九层，星空无尽有天地",
+      "target": "Chương 13: Cương phong lôi hỏa phân cửu tầng, tinh không vô tận có thiên địa"
+    }
+  ]
+}
+```

@@ -1,0 +1,203 @@
+```json
+{
+  "chapter_number": 27,
+  "chapter_title_vi": "Chương 27: Pháp khí chi uy, Hỗn Độn nguyên thạch",
+  "segments": [
+    {
+      "segment_id": "0001",
+      "source": "# 第二十七章 法器之威，混沌元石",
+      "target": "# Chương 27: Pháp khí chi uy, Hỗn Độn nguyên thạch"
+    },
+    {
+      "segment_id": "0002",
+      "source": "“虚空无极宫殿术”自成的这方虚空，也可以算是罗帆开辟出来的，因此，罗帆在这虚空之中，便是至高无上的存在，甚至可比盘古于洪荒天地一般。即是说，在这虚空之中，罗帆几乎无所不能！",
+      "target": "Phương hư không tự hình thành từ \"Hư Không Vô Cực Cung Điện Thuật\" này, cũng có thể coi là do La Phàm khai mưu ra, do đó, La Phàm ở trong phương hư không này chính là tồn tại chí cao vô thượng, thậm chí có thể so với Bàn Cổ trong trời đất Hồng Hoang vậy. Nói cách khác, trong phương hư không này, La Phàm gần như không gì không làm được!"
+    },
+    {
+      "segment_id": "0003",
+      "source": "心神一动，没有使用任何神通，虚空自动挪移，罗帆便已经出现在雷池边缘，弯腰伸手轻抚，一种清凉柔腻的感觉从手中传来，就宛如所抚mo的是真正的清水一般。",
+      "target": "Tâm thần khẽ động, không sử dụng bất kỳ thần thông nào, hư không tự động dịch chuyển, La Phàm đã xuất hiện ở rìa lôi trì, khom lưng đưa tay nhẹ nhàng vuốt ve, một cảm giác mát mẻ mềm mịn truyền đến từ trong tay, giống hệt như đang chạm vào nước trong thật sự vậy."
+    },
+    {
+      "segment_id": "0004",
+      "source": "只是，这些雷水毕竟是神雷所凝，在罗帆手掌进入之后，便慢慢往他的手掌内部渗透，让他产生一种似乎手掌渐渐融入雷水的感觉，又似乎是雷水在从里到外洗涤着他的手掌的感觉。",
+      "target": "Chỉ là, những nước sấm sét này rốt cuộc là do thần lôi ngưng tụ thành, sau khi bàn tay La Phàm tiến vào, liền chầm chậm thẩm thấu vào bên trong tay hắn, khiến hắn nảy sinh một loại cảm giác tựa như bàn tay đang dần hòa làm một với lôi thủy, lại tựa như lôi thủy đang tẩy rửa bàn tay hắn từ trong ra ngoài."
+    },
+    {
+      "segment_id": "0005",
+      "source": "“原来控制枢纽转移到了这里。”罗帆抚mo了一下，心神一动，已经明白了这雷池相对于这虚空无极宫的重要性。",
+      "target": "\"Thì ra trung khu điều khiển đã dời đến đây.\" La Phàm vuốt ve một chút, tâm thần khẽ động, đã hiểu rõ tầm quan trọng của lôi trì này đối với Hư Không Vô Cực Cung."
+    },
+    {
+      "segment_id": "0006",
+      "source": "虚空无极宫，乃是一个临时洞府，自然便有一个控制枢纽，之前他做看右看都没有发现，此时双手接触到这雷水，才发现这雷水的深处隐藏着一个玄妙的存在。方才知道这枢纽居然已经转移到了这里，被镇压在雷池深处。",
+      "target": "Hư Không Vô Cực Cung vốn là một động phủ tạm thời, tự nhiên sẽ có một trung khu điều khiển. Trước đó hắn nhìn trái ngó phải đều không phát hiện ra, lúc này hai tay chạm vào lôi thủy, mới nhận ra sâu trong lôi thủy ẩn giấu một tồn tại huyền diệu. Từ đó mới biết trung khu này lại chuyển đến nơi này, bị trấn áp dưới đáy lôi trì."
+    },
+    {
+      "segment_id": "0007",
+      "source": "抬手一招，一块一米长，半米宽，二十公分厚的长方体从那雷池深处缓缓浮起，转眼间来到了罗帆的手中。",
+      "target": "Đưa tay vẫy một cái, một khối hình hộp chữ nhật dài một mét, rộng nửa mét, dày hai mươi phân từ sâu trong lôi trì từ từ nổi lên, chớp mắt đã bay đến trong tay La Phàm."
+    },
+    {
+      "segment_id": "0008",
+      "source": "这块长方体物体表面篆刻着亿万个无比玄奥的符篆，宛如流水一般不停的流转着，闪着淡淡的黄紫色光芒。",
+      "target": "Trên bề mặt khối hình hộp chữ nhật này khắc hàng tỉ phù triện vô cùng huyền ảo, lưu chuyển không ngừng tựa như nước chảy, tỏa ra ánh sáng màu vàng tím nhàn nhạt."
+    },
+    {
+      "segment_id": "0009",
+      "source": "手一接触这一块长方体，一种十分玄妙的感觉出现。一瞬间，他似乎变成了这虚空无极宫一般，方圆十万里范围的一切猛地映照在他心神意念之中，纤毫毕现，无所遗漏。在这映照范围之内，就连最细小的沙石，都完全无法脱离他的感知，那上方九万里之上的九层罡风雷火层更是清晰无比。",
+      "target": "Tay vừa chạm vào khối hình hộp chữ nhật này, một cảm giác hết sức huyền diệu xuất hiện. Trong nháy mắt, hắn dường như biến thành Hư Không Vô Cực Cung này vậy, hết thảy vạn vật trong phạm vi mười vạn dặm đột ngột phản chiếu vào trong tâm trí hắn, hiện lên rõ mồn một, không sót thứ gì. Trong phạm vi phản chiếu này, ngay cả hạt cát hòn đá nhỏ nhất cũng hoàn toàn không thể thoát khỏi cảm nhận của hắn, chín tầng cương phong lôi hỏa ở trên cao chín vạn dặm lại càng rõ ràng vô cùng."
+    },
+    {
+      "segment_id": "0010",
+      "source": "罗帆原本的感知能力，已经十分广大，足有方圆两万里范围之多。",
+      "target": "Năng lực cảm nhận ban đầu của La Phàm vốn đã vô cùng rộng lớn, lên tới phạm vi hai vạn dặm."
+    },
+    {
+      "segment_id": "0011",
+      "source": "而借助这虚空无极宫的控制枢纽，这感知能力居然扩大了足足五倍！",
+      "target": "Mà nhờ vào trung khu điều khiển của Hư Không Vô Cực Cung này, năng lực cảm nhận đó lại mở rộng ra đủ năm lần!"
+    },
+    {
+      "segment_id": "0012",
+      "source": "“只是极品法器级别便有五倍的增幅，若是虚空无极宫成就法宝，那增幅岂不是会更加巨大？！”罗帆心中惊喜莫名。",
+      "target": "\"Chỉ mới cấp bậc cực phẩm pháp khí mà đã có mức tăng gấp năm lần, nếu như Hư Không Vô Cực Cung trở thành pháp bảo, vậy thì độ tăng cường đó chẳng phải sẽ càng to lớn hơn sao?!\" Trong lòng La Phàm mừng rỡ khó tả."
+    },
+    {
+      "segment_id": "0013",
+      "source": "他忽然间觉得自己装了一脑袋的宝藏，一种捡到宝的感觉让他心情变得无法自已。",
+      "target": "Hắn chợt cảm thấy mình mang cả một đầu chứa đầy bảo tàng, cảm giác nhặt được bảo vật khiến tâm trạng hắn không cách nào kiềm chế được."
+    },
+    {
+      "segment_id": "0014",
+      "source": "这“虚空无极宫殿术”只是那盘古元灵所创出来无数法诀之中，不算高深的一种而已，但就这，便已经是如此玄妙了，那其中更加高深的，岂不是更加不可思议？！",
+      "target": "\"Hư Không Vô Cực Cung Điện Thuật\" này chỉ là một loại pháp quyết không tính là cao thâm trong vô số pháp quyết do Bàn Cổ nguyên linh sáng tạo ra mà thôi. Nhưng chỉ nhiêu đây đã huyền diệu đến nhường này, vậy những thứ cao thâm hơn trong đó chẳng phải sẽ càng không thể tưởng tượng nổi sao?!"
+    },
+    {
+      "segment_id": "0015",
+      "source": "这时，刚好正是鸿钧重炼完那先天不灭灵光的时候，罗帆抬手一招，虚空无极宫猛然扩大百倍。从原本的拳头大小变得宛如一间小房间一般。",
+      "target": "Lúc này, vừa hay đúng lúc Hồng Quân vừa tế luyện lại xong đạo tiên thiên bất diệt linh quang kia, La Phàm vung tay một cái, Hư Không Vô Cực Cung đột ngột mở rộng gấp trăm lần. Từ kích cỡ to bằng nắm đấm ban đầu biến thành lớn như một căn phòng nhỏ."
+    },
+    {
+      "segment_id": "0016",
+      "source": "接着，这宫殿的正门轰然打开，产生一股强烈无比的吸力。",
+      "target": "Tiếp đó, cửa chính của cung điện ầm ầm mở ra, sinh ra một lực hút mãnh liệt vô cùng."
+    },
+    {
+      "segment_id": "0017",
+      "source": "鸿钧在这一股吸力的作用下，没有丝毫抵抗能力的被吸入正门，通过某种神秘之极的方式在罗帆身边出现。",
+      "target": "Dưới tác động của lực hút này, Hồng Quân hoàn toàn không có chút sức phản kháng nào, bị hút vào cửa chính, thông qua một phương thức cực kì thần bí xuất hiện bên cạnh La Phàm."
+    },
+    {
+      "segment_id": "0018",
+      "source": "而虚空无极宫在吞入鸿钧之后，再度缩小，转眼间变成了之前那拳头大小的模样。悬浮在虚空中，微微沉浮着，宛如什么事都没有发生过一般。",
+      "target": "Mà Hư Không Vô Cực Cung sau khi nuốt chửng Hồng Quân vào, lại lần nữa thu nhỏ, chớp mắt đã biến về hình dáng bằng nắm đấm như trước. Nó lơ lửng giữa hư không, hơi bồng bềnh nhấp nhô, tựa như chưa từng có chuyện gì xảy ra."
+    },
+    {
+      "segment_id": "0019",
+      "source": "鸿钧望着周围，眼中满是震惊。",
+      "target": "Hồng Quân ngơ ngác nhìn xung quanh, trong mắt ngập tràn vẻ khiếp sợ."
+    },
+    {
+      "segment_id": "0020",
+      "source": "“没想到师尊居然如此强大，开天辟地，这可是盘古大神才有的神通啊……”鸿钧心中的震撼让他神色都变得呆滞了。",
+      "target": "\"Không ngờ sư tôn lại cường đại đến thế, khai thiên lập địa, đây chính là thần thông mà chỉ Bàn Cổ đại thần mới có a...\" Sự rung động trong lòng khiến sắc mặt của Hồng Quân trở nên ngốc trệ."
+    },
+    {
+      "segment_id": "0021",
+      "source": "对于观看过盘古顶天立地的鸿钧来说，盘古，便是他所见到最为强大、最为崇高的存在。",
+      "target": "Đối với Hồng Quân từng tận mắt chứng kiến Bàn Cổ đỉnh thiên lập địa mà nói, Bàn Cổ chính là tồn tại cường đại nhất, cao thượng nhất mà y từng thấy."
+    },
+    {
+      "segment_id": "0022",
+      "source": "罗帆所开辟出来的虚空虽然和洪荒天地有着无法形容的差距，但凭借鸿钧的见识却根本无法分辨出他们之间那种本质的不同。只是认为这虚空和洪荒天地的差别只是大小而已……盘古因为开天辟地而身陨，师尊却轻轻松松的就开辟了这么一方虚空，两人的差距似乎并不大呢……",
+      "target": "Hư không do La Phàm khai m辟 ra tuy rằng có chênh lệch không thể diễn tả nổi so với trời đất Hồng Hoang, nhưng dựa vào kiến thức của Hồng Quân thì hoàn toàn không cách nào phân biệt được sự khác nhau về bản chất giữa chúng. Y chỉ cho rằng sự khác biệt giữa hư không này và Hồng Hoang thiên địa chỉ là độ lớn nhỏ mà thôi... Bàn Cổ vì khai thiên lập địa mà bỏ mình, còn sư tôn lại nhẹ nhàng mở ra một phương hư không như thế này, chênh lệch giữa hai người dường như cũng không lớn lắm..."
+    },
+    {
+      "segment_id": "0023",
+      "source": "罗帆虽然是鸿钧的师尊，比鸿钧强大了百千倍，但却根本无法知晓鸿钧心中的想法，只认为鸿钧是因为第一次看到如此奇妙的虚空而心中震撼，根本没想到自己在一转眼间就被鸿钧提升到盘古大神那个高度……",
+      "target": "Tuy La Phàm là sư tôn của Hồng Quân, mạnh hơn y cả trăm ngàn lần, nhưng lại hoàn toàn không cách nào biết được suy nghĩ trong lòng y. Hắn chỉ cho rằng Hồng Quân khiếp sợ là do lần đầu tiên nhìn thấy một hư không kì diệu như vậy, căn bản không ngờ tới bản thân mình trong nháy mắt đã được Hồng Quân nâng lên độ cao của Bàn Cổ đại thần..."
+    },
+    {
+      "segment_id": "0024",
+      "source": "“这先天不灭灵光的玄妙还胜过为师的估计，看来你的神魂如今已能承受补足能量的冲击了，如此也好，为师先带你去一处位置好好吸收补足能量吧。”罗帆打量了鸿钧一下，点点头道。",
+      "target": "\"Sự huyền diệu của tiên thiên bất diệt linh quang này còn vượt xa sự đánh giá của vi sư, xem ra thần hồn của ngươi hiện giờ đã có thể chịu đựng được sự xung kích khi bổ sung năng lượng rồi. Như thế cũng tốt, vi sư trước hết đưa ngươi đến một vị trí để hấp thu năng lượng bổ sung cho thật tốt đi.\" La Phàm đánh giá Hồng Quân một lát rồi gật đầu nói."
+    },
+    {
+      "segment_id": "0025",
+      "source": "鸿钧对罗帆的认知有了本质的改变，此时变得无比恭敬，无比拘谨，躬身道：“但凭师尊做主。”",
+      "target": "Nhận thức của Hồng Quân về La Phàm đã có sự thay đổi về bản chất, lúc này trở nên vô cùng cung kính, cẩn trọng khom người nói: \"Toàn bằng sư tôn làm chủ.\""
+    },
+    {
+      "segment_id": "0026",
+      "source": "罗帆对鸿钧的态度微微一奇，但也没有想太多，只是点点头，心神一动，这虚空无极宫便化为一道黄紫色的长虹，直往八万里之外的一个混沌元气源冲去。",
+      "target": "La Phàm hơi kinh ngạc trước thái độ của Hồng Quân, nhưng cũng không suy nghĩ nhiều, chỉ gật đầu. Tâm thần hắn khẽ động, Hư Không Vô Cực Cung liền hóa thành một đạo cầu vồng dài màu vàng tím, lao thẳng về phía một nguồn Hỗn Độn nguyên khí cách đó tám vạn dặm."
+    },
+    {
+      "segment_id": "0027",
+      "source": "八万里之外那个混沌元气源的源头是在地下十里，其周围有着十多道隧道连通那源头，四通八达的让散发出去的混沌元气向着十多个方向发散出去，流向不知多远的远方，但却只有极少极少的混沌元气能够发散到地面上。",
+      "target": "Đầu nguồn của Hỗn Độn nguyên khí ở cách tám vạn dặm đó nằm dưới lòng đất mười dặm. Xung quanh nó có hơn mười đường hầm nối liền với cội nguồn, thông suốt các hướng khiến Hỗn Độn nguyên khí tỏa ra tản mạn về hơn mười hướng, chảy đến phương xa không biết bao xa, nhưng chỉ có một lượng vô cùng ít Hỗn Độn nguyên khí có thể phát tán lên trên mặt đất."
+    },
+    {
+      "segment_id": "0028",
+      "source": "正是因为这个原因，所以虽然这混沌元气源包含的混沌元气量十分巨大，甚至比起罗帆上次所呆的那个混沌元气源的混沌元气量还要多，但罗帆却离得这么近还没有发觉。",
+      "target": "Chính vì nguyên nhân này, cho nên dù lượng Hỗn Độn nguyên khí mà nguồn nguyên khí Hỗn Độn này bao hàm vô cùng khổng lồ, thậm chí còn nhiều hơn cả lượng Hỗn Độn nguyên khí ở nơi La Phàm dừng lại lần trước, nhưng La Phàm ở gần như vậy vẫn chưa phát hiện ra."
+    },
+    {
+      "segment_id": "0029",
+      "source": "若不是刚刚他试了试这虚空无极宫对感知的增幅作用，巧合之下发现了这混沌元气源，说不定已经将它错过。",
+      "target": "Nếu không phải vừa nãy hắn thử tác dụng tăng phúc khả năng cảm nhận của Hư Không Vô Cực Cung này, vô tình phát hiện ra nguồn Hỗn Độn nguyên khí đó, nói không chừng đã bỏ lỡ nó rồi."
+    },
+    {
+      "segment_id": "0030",
+      "source": "虚空无极宫的飞行能力比起罗帆腾云驾雾快了差不多五倍，十数个呼吸之后，便已经来到了这混沌元气源所在的位置。",
+      "target": "Năng lực bay của Hư Không Vô Cực Cung nhanh hơn thuật đằng vân giá vụ của La Phàm xấp xỉ năm lần. Hơn mười nhịp thở sau, nó đã đến vị trí của nguồn Hỗn Độn nguyên khí này."
+    },
+    {
+      "segment_id": "0031",
+      "source": "罗帆抬手轻压，这虚空无极宫宛如虚影一般往下便沉，转眼间已经沉入地底十里深。来到那混沌元气源的正上方。",
+      "target": "La Phàm vươn tay khẽ ấn xuống, Hư Không Vô Cực Cung lập tức chìm xuống dưới giống hệt như một bóng mờ, chớp mắt đã lặn sâu mười dặm dưới lòng đất, đến ngay phía trên nguồn Hỗn Độn nguyên khí kia."
+    },
+    {
+      "segment_id": "0032",
+      "source": "这混沌元气源十分巨大，初步估计直径怕是有百里，因为混沌元气的浓度太大，已经变得漆黑如墨，甚至看起来宛如实质一般。",
+      "target": "Nguồn Hỗn Độn nguyên khí này cực kì to lớn, ước tính ban đầu đường kính e rằng phải lên đến cả trăm dặm. Do nồng độ Hỗn Độn nguyên khí quá đặc nên nó đã trở nên đen kịt như mực, thậm chí trông giống hệt như có thực thể vậy."
+    },
+    {
+      "segment_id": "0033",
+      "source": "或许因为混沌元气源的存在，这地下十里之处却出现了一个巨大的空间，那十多道隧道最小的直径都有三四里，最大的直径甚至达到三四十里之多。这些隧道连通这巨大的空间，显得十分的壮观。",
+      "target": "Có lẽ vì sự tồn tại của nguồn Hỗn Độn nguyên khí, mà dưới lòng đất mười dặm này lại xuất hiện một không gian khổng lồ. Hơn mười đường hầm kia đường kính nhỏ nhất cũng từ ba đến bốn dặm, lớn nhất thậm chí đạt đến tận ba bốn mươi dặm. Những đường hầm này nối liền không gian khổng lồ đó, trông vô cùng hùng vĩ."
+    },
+    {
+      "segment_id": "0034",
+      "source": "“好运好运，居然有一块混沌元石在里面！”罗帆控制着虚空无极宫接触到这混沌元气源，心中一喜。",
+      "target": "\"May mắn thay, trong này lại có một khối Hỗn Độn nguyên thạch!\" La Phàm điều khiển Hư Không Vô Cực Cung tiếp xúc với nguồn Hỗn Độn nguyên khí, trong lòng vui vẻ."
+    },
+    {
+      "segment_id": "0035",
+      "source": "透过虚空无极宫，他已经感应到，这混沌元气源的正中央有着一块直径三丈，呈不规则球形的混沌元石！",
+      "target": "Thông qua Hư Không Vô Cực Cung, hắn đã cảm ứng được, chính giữa nguồn Hỗn Độn nguyên khí này có một khối Hỗn Độn nguyên thạch hình cầu không theo quy tắc đường kính khoảng ba trượng!"
+    },
+    {
+      "segment_id": "0036",
+      "source": "混沌元石，是一种混沌元气凝缩而成的石头，由于混沌元气的玄妙作用，产生了某种神秘的变化，既拥有混沌元气具有的威能，又拥有其所不具有的特性。其中，最大的特性便是它蕴含了微弱的灵性，若是用来炼器，那即使用最为粗浅的炼器法诀，炼制出来的也绝对是法宝级别的存在。",
+      "target": "Hỗn Độn nguyên thạch là một loại đá do Hỗn Độn nguyên khí ngưng tụ mà thành. Do tác dụng huyền diệu của Hỗn Độn nguyên khí mà sinh ra một loại biến hóa thần bí nào đó, nó vừa có uy năng của Hỗn Độn nguyên khí, lại mang những đặc tính mà nguyên khí không có. Trong đó, đặc tính lớn nhất chính là nó ẩn chứa linh tính yếu ớt. Nếu như dùng để luyện khí, thì dẫu dùng pháp quyết luyện khí thô thiển nhất, món đồ được luyện chế ra cũng tuyệt đối là sự tồn tại ngang với cấp bậc pháp bảo."
+    },
+    {
+      "segment_id": "0037",
+      "source": "这已经是一种相当了不得的特性了。",
+      "target": "Đây đã là một loại đặc tính tương đối phi thường."
+    },
+    {
+      "segment_id": "0038",
+      "source": "要知道，此时的虚空无极宫已经是如此玄妙了，却也只不过是极品法器级别而已……",
+      "target": "Phải biết rằng, Hư Không Vô Cực Cung lúc này đã huyền diệu đến vậy rồi, thế nhưng cũng chỉ mới dừng ở cấp bậc cực phẩm pháp khí mà thôi..."
+    },
+    {
+      "segment_id": "0039",
+      "source": "第二十八章 法宝之能(一)",
+      "target": "Chương 28: Pháp bảo chi năng (1)"
+    }
+  ]
+}
+```

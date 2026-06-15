@@ -1,0 +1,17 @@
+```json
+{
+  "approved": [
+    "顶天立地诀"
+  ],
+  "rejected": [
+    "原本是他开识",
+    "！\n这些玄奥"
+  ],
+  "uncertain": []
+}
+```
+
+**Reasoning:**
+*   **`顶天立地诀` (Approved):** This is a clear name of a martial art, technique, or cultivation method (indicated by the suffix 诀), which makes it a proper term for a glossary.
+*   **`原本是他开识` (Rejected):** This is a sentence fragment ("Originally it was him opening his consciousness/knowledge") rather than a specific proper noun or distinct term.
+*   **`！\n这些玄奥` (Rejected):** This includes punctuation and a newline, and is just a fragment ("!... these profound mysteries"), making it invalid as a glossary term.

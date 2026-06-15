@@ -1,0 +1,243 @@
+```json
+{
+  "chapter_number": 15,
+  "chapter_title_vi": "Chương 15: Thành đạo thể, hóa Bất Chu (2)",
+  "segments": [
+    {
+      "segment_id": "0001",
+      "source": "# 第十五章 成道体，化不周（二）()",
+      "target": "# Chương 15: Thành đạo thể, hóa Bất Chu (2)"
+    },
+    {
+      "segment_id": "0002",
+      "source": "星空无尽，却在垂直方向上统统映照在罗帆的意念之中，被他以某种玄妙的方式所感知到。",
+      "target": "Tinh không vô tận, nhưng theo chiều dọc lại hoàn toàn in bóng vào trong ý niệm của La Phàm, được hắn cảm nhận qua một phương thức huyền diệu nào đó."
+    },
+    {
+      "segment_id": "0003",
+      "source": "只是，也仅仅是如此而已了。在垂直方向上用玄妙的感知将整个星空裹在其中之后，无论他的感知能力如何进步，所感知的范围却再没有任何一丝丝的提升，就那么停滞在那里！",
+      "target": "Chỉ là, cũng chỉ đến thế mà thôi. Sau khi dùng cảm nhận huyền diệu bao trùm lấy toàn bộ tinh không theo chiều dọc, bất kể năng lực cảm nhận của hắn có tiến bộ ra sao, phạm vi cảm nhận lại không tăng lên được dù chỉ một chút, cứ thế đình trệ ở đó!"
+    },
+    {
+      "segment_id": "0004",
+      "source": "即使是他脑海之中那穹庐似的识海在垂直方向上的厚度已经达到了三千里，能够映照在他意念之中的景象也提升到了三万里之多，那映照在他意念之中的景象也仅仅是到达这星空的尽头，再往上一丝丝到底是什么情况，是否还是无尽的星空，是否有是一片天地，或者干脆是一片虚无，甚而是无穷世界，皆是一无所知。",
+      "target": "Cho dù độ dày thức hải dạng khung vòm trong đầu hắn theo chiều dọc đã đạt tới ba ngàn dặm, cảnh tượng có thể in bóng trong ý niệm cũng tăng lên tới ba vạn dặm, thì những hình ảnh đó cũng chỉ chạm đến điểm tận cùng của tinh không này. Tiến lên thêm một chút nữa rốt cuộc là tình huống gì, liệu vẫn là tinh không vô tận, hay là một vùng trời đất, hoặc dứt khoát là một vùng hư vô, thậm chí là vô cùng thế giới, tất cả đều hoàn toàn không biết."
+    },
+    {
+      "segment_id": "0005",
+      "source": "这种怪异而玄妙的情况虽然蕴含了无穷的奥秘，若是真正搞清楚，定然能够让他的修为有一个极大的进步，但此时却并非时候。",
+      "target": "Tình huống kỳ dị mà huyền diệu này tuy ẩn chứa vô cùng huyền bí, nếu thực sự làm rõ được, chắc chắn có thể khiến tu vi của hắn có một bước tiến bộ cực lớn, nhưng lúc này lại không phải thời điểm thích hợp."
+    },
+    {
+      "segment_id": "0006",
+      "source": "别忘了，此时罗帆泥丸宫之中可是在发生翻天覆地的变化！",
+      "target": "Đừng quên, lúc này trong Nê Hoàn cung của La Phàm đang xảy ra biến hóa nghiêng trời lệch đất!"
+    },
+    {
+      "segment_id": "0007",
+      "source": "那神魂所化的不周山不断膨胀着，不断的绞散周围那灰蒙蒙的物质，壮大这穹庐形状识海大小。",
+      "target": "Bất Chu sơn do thần hồn hóa thành không ngừng bành trướng, liên tục đánh tan vật chất xám xịt xung quanh, làm lớn mạnh kích thước của thức hải dạng khung vòm này."
+    },
+    {
+      "segment_id": "0008",
+      "source": "嚟啦……嚟啦……嗤嗤……嗤嗤……",
+      "target": "Xoẹt xoẹt… Xoẹt xoẹt… Xì xì… Xì xì…"
+    },
+    {
+      "segment_id": "0009",
+      "source": "声声脆响越来越大的传入他的意念之中，将那越来越广大的映照景象轰成无数碎片，让他在无法保持那种神秘的感知，整个心神意念渐渐被这种种越来越巨大，越来越频繁的声响所充满了。",
+      "target": "Những tiếng vang lanh lảnh truyền vào trong ý niệm của hắn ngày càng lớn, đánh nát cảnh tượng phản chiếu ngày một rộng lớn kia thành vô số mảnh vụn, khiến hắn không thể nào duy trì loại cảm nhận thần bí đó nữa, toàn bộ tâm thần ý niệm dần dần bị những âm thanh ngày một to lớn và dồn dập này lấp đầy."
+    },
+    {
+      "segment_id": "0010",
+      "source": "整个思想也因此而渐渐变得空白起来。",
+      "target": "Toàn bộ tư tưởng cũng vì thế mà dần dần trở nên trống rỗng."
+    },
+    {
+      "segment_id": "0011",
+      "source": "不知过了多长时间，整个天地似乎发生了一阵剧烈的震荡。",
+      "target": "Không biết đã qua bao lâu, toàn bộ đất trời dường như xảy ra một trận chấn động kịch liệt."
+    },
+    {
+      "segment_id": "0012",
+      "source": "思想之中那一片无穷无尽的空白在这一阵剧烈的震荡之下渐渐的崩溃粉碎。",
+      "target": "Khoảng trống vô cùng vô tận trong tư tưởng dưới chấn động kịch liệt này đã dần dần sụp đổ vỡ vụn."
+    },
+    {
+      "segment_id": "0013",
+      "source": "粉碎那种空白之后，他只感觉自己已经变化成为一个无比强大的存在，一种苍茫不屈的气息在内心深处涌动着，似乎只要一举手，一投足，都能够粉碎天地，粉碎虚空！",
+      "target": "Sau khi khoảng trống ấy vỡ nát, hắn chỉ cảm thấy bản thân đã hóa thành một tồn tại mạnh mẽ tột cùng, một loại khí tức tang thương bất khuất trào dâng từ sâu trong nội tâm, tựa hồ chỉ cần giơ tay nhấc chân là đều có thể nghiền nát đất trời, nghiền nát hư không!"
+    },
+    {
+      "segment_id": "0014",
+      "source": "细细一感觉，他心中顿时充满了无穷的震撼。",
+      "target": "Tỉ mỉ cảm nhận một chút, trong lòng hắn lập tức tràn ngập sự chấn động vô cùng."
+    },
+    {
+      "segment_id": "0015",
+      "source": "“原来，这无名功法的真正功效居然是如此！”罗帆心中只有这么一个宛如雷鸣般的念头在涌动着。",
+      "target": "\"Thì ra, công hiệu thực sự của vô danh công pháp này lại là như vậy!\" Trong lòng La Phàm chỉ có một ý nghĩ duy nhất đang cuộn trào như sấm rền."
+    },
+    {
+      "segment_id": "0016",
+      "source": "因为，此时此刻，他感觉自己已经化身不周山！非是那外界洪荒天地之中的西北天柱不周山，而是他神魂所化的，在识海虚空之中的不周山！",
+      "target": "Bởi vì, ngay giờ phút này, hắn cảm giác mình đã hóa thân thành Bất Chu sơn! Không phải là cột chống trời Tây Bắc Bất Chu sơn trong thiên địa Hồng Hoang bên ngoài, mà là Bất Chu sơn do thần hồn hắn hóa thành trong hư không của thức hải!"
+    },
+    {
+      "segment_id": "0017",
+      "source": "这不周山就宛如他的身体一般耸立在识海虚空的正中央。",
+      "target": "Bất Chu sơn này sừng sững ở ngay chính giữa hư không thức hải, hệt như cơ thể của hắn vậy."
+    },
+    {
+      "segment_id": "0018",
+      "source": "而这个识海虚空不知什么时候已经变成了一个世界，变成一个面积有四万九千里方圆，高度足有四千九百里的，天圆地方的世界！或者说，一个穹庐般形状的世界！",
+      "target": "Còn hư không thức hải này chẳng biết từ bao giờ đã biến thành một thế giới, biến thành một thế giới trời tròn đất vuông có phương viên bốn vạn chín ngàn dặm, độ cao chừng bốn ngàn chín trăm dặm! Hoặc nói cách khác, là một thế giới có hình dạng như khung vòm!"
+    },
+    {
+      "segment_id": "0019",
+      "source": "在这世界之中，他的神魂，化身成为不周山的形状耸立在正中央。山底稳立地面，和整个地面每一寸空间牢牢的结合在一起。",
+      "target": "Trong thế giới này, thần hồn của hắn hóa thân thành hình dáng Bất Chu sơn, sừng sững ở chính giữa. Chân núi đứng vững trên mặt đất, kết hợp vô cùng chặt chẽ với từng tấc không gian của toàn bộ mặt đất."
+    },
+    {
+      "segment_id": "0020",
+      "source": "山顶顶住这个世界的天空，宛如擎天之柱一般，成为整个天地的支撑。",
+      "target": "Đỉnh núi chống đỡ bầu trời của thế giới này, tựa như cột chống trời, trở thành vật chống đỡ cho toàn bộ thiên địa."
+    },
+    {
+      "segment_id": "0021",
+      "source": "无穷无尽的压力从上下两个方向向他挤压过来，那一股压力之强，就宛如无数座大山从万里高空轰然掉落一般，沉重得无法想象。",
+      "target": "Áp lực vô cùng vô tận từ hai hướng trên dưới dồn ép về phía hắn, luồng áp lực ấy mạnh đến mức tựa như vô số ngọn núi lớn từ độ cao vạn dặm ầm ầm đổ ụp xuống, nặng nề đến mức không thể tưởng tượng nổi."
+    },
+    {
+      "segment_id": "0022",
+      "source": "但这些，却无法对他造成什么影响！",
+      "target": "Thế nhưng, những thứ này lại không cách nào gây ra bất cứ ảnh hưởng gì đối với hắn!"
+    },
+    {
+      "segment_id": "0023",
+      "source": "他的心神之中，充斥着那一股苍茫不屈的气息，一股天塌下来我也要将他顶回去的豪情！",
+      "target": "Trong tâm thần hắn tràn ngập khí tức tang thương bất khuất kia, một cỗ hào tình trời có sập xuống ta cũng phải chống lên!"
+    },
+    {
+      "segment_id": "0024",
+      "source": "这上下两个方向向他袭来的恐怖压力在这种苍茫不屈的气息之下，在这一股顶住天地的豪情之中，反而是恰到好处，没有让他感到有力无处使，也没有让他感到无法承受！",
+      "target": "Áp lực khủng khiếp ập tới từ hai hướng trên dưới này dưới khí tức tang thương bất khuất kia, trong cỗ hào tình chống đỡ thiên địa này, ngược lại lại vừa vặn ổn thỏa, không khiến hắn cảm thấy có sức mà không có chỗ dùng, cũng không khiến hắn cảm thấy không thể gánh vác!"
+    },
+    {
+      "segment_id": "0025",
+      "source": "“盘古开天，我为脊梁，顶天立地，我为不周……这十六个字……原来是这般意思……”在刚刚那个也念头之后，又有一个念头出现在他的心神意念之中。",
+      "target": "\"Bàn Cổ khai thiên, ngã vi tích lương, đính thiên lập địa, ngã vi Bất Chu… Mười sáu chữ này… Thì ra là có ý nghĩa như vậy…\" Ngay sau ý nghĩ vừa rồi, lại có một ý nghĩ khác hiện lên trong tâm thần ý niệm của hắn."
+    },
+    {
+      "segment_id": "0026",
+      "source": "用不周山的视角观察整个天地，天地的一切尽在眼中。",
+      "target": "Dùng góc nhìn của Bất Chu sơn để quan sát toàn bộ thiên địa, vạn vật trong đất trời đều thu trọn vào tầm mắt."
+    },
+    {
+      "segment_id": "0027",
+      "source": "地面凹凸不平，起伏不定，看似杂乱，却拥有某种十分玄奥的规律，和整座不周山结合在一起，就宛如一片真正的大地一般。",
+      "target": "Mặt đất gồ ghề lởm chởm, nhấp nhô liên tục, nhìn như lộn xộn, nhưng lại sở hữu một loại quy luật vô cùng huyền ảo nào đó, kết hợp với toàn bộ Bất Chu sơn, giống như một vùng đại địa thực sự vậy."
+    },
+    {
+      "segment_id": "0028",
+      "source": "天空，却是灰蒙蒙的一片，宛如就在自己的眼前，翻涌着，粉碎着，就仿佛无穷无尽的云层遮掩了整个天空一般。",
+      "target": "Bầu trời lại là một mảng xám xịt, tựa như ở ngay trước mắt mình, đang cuộn trào, vỡ vụn, tựa hồ như có vô vàn tầng mây che khuất toàn bộ bầu trời."
+    },
+    {
+      "segment_id": "0029",
+      "source": "如此天空，如此大地，让整个天地显得无比的荒凉……",
+      "target": "Bầu trời như vậy, mặt đất như thế, khiến toàn bộ thiên địa tỏ ra hoang lương tột cùng…"
+    },
+    {
+      "segment_id": "0030",
+      "source": "只是，事情的发展却没有留给罗帆太多时间去感应这如此荒凉，如此奇异的识海世界。",
+      "target": "Chỉ là, diễn biến sự việc lại không để lại cho La Phàm quá nhiều thời gian để cảm nhận thế giới thức hải hoang lương và kỳ dị này."
+    },
+    {
+      "segment_id": "0031",
+      "source": "忽然间，他神魂所化的不周山一阵狂震，无穷无尽的虚影从这不周山之中好似冲锋枪的子弹一般迸发而出！",
+      "target": "Đột nhiên, Bất Chu sơn do thần hồn hắn hóa thành chấn động dữ dội, vô vàn hư ảnh từ trong Bất Chu sơn tựa như đạn súng tiểu liên bắn vọt ra ngoài!"
+    },
+    {
+      "segment_id": "0032",
+      "source": "这些虚影在离开神魂所化的不周山之后瞬间缩小，从原本的顶天立地转眼间化为米粒大小的微粒。",
+      "target": "Những hư ảnh này sau khi rời khỏi Bất Chu sơn do thần hồn hóa thành liền nháy mắt thu nhỏ lại, từ dáng vẻ đội trời đạp đất ban đầu chớp mắt biến thành những hạt vi trần chỉ bằng hạt gạo."
+    },
+    {
+      "segment_id": "0033",
+      "source": "这虚影的喷出持续了许久，喷出的虚影数量超过亿万方才停止下来。",
+      "target": "Quá trình phun trào hư ảnh này kéo dài rất lâu, số lượng hư ảnh phun ra vượt qua hàng ức vạn mới chịu dừng lại."
+    },
+    {
+      "segment_id": "0034",
+      "source": "这亿万虚影不断的凝聚，最终化为了一道山石般灰褐色的气流，在这识海开辟出来的世界之中有如一道细小的丝线一般，显得那般的微不足道。",
+      "target": "Hàng ức vạn hư ảnh này không ngừng ngưng tụ, cuối cùng hóa thành một luồng khí lưu màu xám nâu như đất đá, ở trong thế giới do thức hải khai mở ra trông giống như một sợi tơ nhỏ bé, có vẻ vô cùng nhỏ nhoi không đáng kể."
+    },
+    {
+      "segment_id": "0035",
+      "source": "“符篆！”罗帆心头大为惊异，同时更是大为喜悦。",
+      "target": "\"Phù triện!\" Trong lòng La Phàm vô cùng kinh ngạc, đồng thời càng thêm phần mừng rỡ."
+    },
+    {
+      "segment_id": "0036",
+      "source": "因为他感觉到，这些不周山虚影是由一个个复杂得让人普通人一看便会精神崩溃的立体符篆所化，那不周山的虚影，只是这符篆的其形状罢了！",
+      "target": "Bởi vì hắn cảm giác được, những hư ảnh Bất Chu sơn này là do từng đạo phù triện lập thể phức tạp đến mức người bình thường nhìn một cái sẽ tinh thần sụp đổ hóa thành. Hư ảnh Bất Chu sơn kia, chẳng qua chỉ là hình dạng của loại phù triện này mà thôi!"
+    },
+    {
+      "segment_id": "0037",
+      "source": "而组成这些符篆的，却都是一种无比玄妙的能量！其精纯程度，凝聚程度，比起以前在罗帆体内那种玄之又玄的能量都要强上百倍以上！",
+      "target": "Mà thứ cấu tạo nên những phù triện này, lại đều là một loại năng lượng vô cùng huyền diệu! Mức độ tinh thuần và ngưng tụ của nó, so với loại năng lượng huyền chi hựu huyền lúc trước trong cơ thể La Phàm đều phải mạnh hơn gấp trăm lần trở lên!"
+    },
+    {
+      "segment_id": "0038",
+      "source": "这一道由亿万符篆所组成的气流在这识海世界之中游荡着，宛如一道活生生的生灵一般，无比灵活，无比飘逸。而且更是完全处于罗帆的控制之下，那控制程度甚至深入到了每一个符篆的地步。",
+      "target": "Luồng khí lưu được tạo thành từ hàng ức vạn phù triện này du đãng trong thế giới thức hải, giống như một sinh linh sống sờ sờ, vô cùng linh hoạt, vô cùng phiêu dật. Hơn nữa nó còn hoàn toàn nằm dưới sự kiểm soát của La Phàm, mức độ kiểm soát đó thậm chí còn đi sâu đến tận từng đạo phù triện."
+    },
+    {
+      "segment_id": "0039",
+      "source": "随着对着气流控制的加深，忽然间，他的脑海猛然一动，又有一段信息从脑海深处迸出。所使用的文字依然是记载无名功法的那种复杂无比，却又蕴含无尽信息的文字。",
+      "target": "Cùng với sự kiểm soát luồng khí lưu này càng thêm sâu sắc, đột nhiên, trong đầu hắn chấn động mãnh liệt, lại có một đoạn thông tin tuôn ra từ sâu trong óc. Văn tự được sử dụng vẫn là loại văn tự vô cùng phức tạp nhưng lại chứa đựng vô tận tin tức dùng để ghi chép vô danh công pháp kia."
+    },
+    {
+      "segment_id": "0040",
+      "source": "“这就是所谓的‘法力’么……”他瞬间产生如此明悟。",
+      "target": "\"Đây chính là thứ gọi là 'pháp lực' sao…\" Trong nháy mắt, hắn nảy sinh niềm minh ngộ như thế."
+    },
+    {
+      "segment_id": "0041",
+      "source": "随着这明悟出现，这一道法力猛然一震，涌入这识海世界之中一个十分神秘的位置，瞬间消失在这识海世界之中。",
+      "target": "Đi cùng sự minh ngộ này, luồng pháp lực kia bỗng nhiên chấn động, tràn vào một vị trí mười phần thần bí trong thế giới thức hải này, rồi lập tức biến mất giữa thế giới thức hải."
+    },
+    {
+      "segment_id": "0042",
+      "source": "罗帆对于这识海世界的一切都十分清楚，瞬间明白那神秘的位置正是这识海与身体的连接点。意念一冲，也顺着那神秘的位置，冲出识海，进入了他的身体，整个身体的感觉，身体内部、外部的情况瞬间涌入他的意念之中。",
+      "target": "La Phàm vô cùng hiểu rõ mọi thứ về thế giới thức hải này, nháy mắt hiểu ra vị trí thần bí đó chính là điểm kết nối giữa thức hải và cơ thể. Ý niệm xông tới, cũng men theo vị trí thần bí kia, lao ra khỏi thức hải, tiến vào trong cơ thể hắn. Cảm giác của toàn thân, tình trạng bên trong và bên ngoài cơ thể lập tức ùa vào trong ý niệm của hắn."
+    },
+    {
+      "segment_id": "0043",
+      "source": "那一道法力在这时已经涌入了他那碗口大小的经脉之中。",
+      "target": "Luồng pháp lực kia lúc này đã tràn vào trong kinh mạch to bằng miệng bát của hắn."
+    },
+    {
+      "segment_id": "0044",
+      "source": "这一道法力虽然细小，简直比起头发丝大不了多少，但威力却无比恐怖。这碗口大小的经脉在这法力进入之后，居然无法承受，瞬间便片片崩溃，丝丝粉碎！",
+      "target": "Đạo pháp lực này tuy nhỏ bé, quả thực chẳng lớn hơn sợi tóc là bao, nhưng uy lực lại vô cùng khủng khiếp. Kinh mạch to cỡ miệng bát này sau khi pháp lực tràn vào lại không thể chịu đựng nổi, nháy mắt đã từng mảng sụp đổ, từng tấc vỡ nát!"
+    },
+    {
+      "segment_id": "0045",
+      "source": "接着，更有一股无比强大的吸引力从他身上产生，撕扯着周围的一切能量，将这些能量不断的吸入他的身体内部。",
+      "target": "Tiếp đó, lại có một lực hấp dẫn mạnh mẽ tột cùng phát sinh từ trên người hắn, xé rách mọi năng lượng xung quanh, không ngừng hút những năng lượng này vào sâu trong cơ thể hắn."
+    },
+    {
+      "segment_id": "0046",
+      "source": "他此时所在的位置乃是在罡风雷火层第三层。这一股如此恐怖的撕扯力量出现，瞬间整个罡风雷火层便做出了反应，一头又一头各种颜色的云朵状生命体好似发现了目标一般，疯狂地向着他猛冲过来！",
+      "target": "Vị trí hắn đang đứng lúc này chính là tầng thứ ba của Cương phong lôi hỏa tầng. Lực xé rách đáng sợ như vậy vừa xuất hiện, trong nháy mắt toàn bộ Cương phong lôi hỏa tầng liền sinh ra phản ứng, từng sinh mệnh thể hình đám mây đủ mọi màu sắc giống như đã phát hiện ra mục tiêu, điên cuồng lao thẳng về phía hắn!"
+    },
+    {
+      "segment_id": "0047",
+      "source": "第十六章 成道体，化不周(三)",
+      "target": "Chương 16: Thành đạo thể, hóa Bất Chu (3)"
+    }
+  ]
+}
+```

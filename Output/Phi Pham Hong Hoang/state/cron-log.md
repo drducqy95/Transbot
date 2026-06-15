@@ -11,3 +11,49 @@
 - 2026-06-12 18:04 | Chapter 9 | completed | Chương 0009 - Chương 9 Đỉnh thiên lập địa Bất Chu sơn.md
 - 2026-06-12 18:37 | Chapter 10 | completed | Chương 0010 - Chương 10 Vực ngoại có Thiên Ma (1).md
 - 2026-06-12 18:57 | Chapter 11 | completed | Chương 0011 - Chương 11 Vực ngoại có Thiên Ma (2).md
+- 2026-06-12 19:37 | Chapter 12 | completed | Chương 0012 - Chương 12 Vực ngoại có Thiên Ma (3).md
+- 2026-06-12 20:06 | Chapter 13 | completed | Chương 0013 - Chương 13 Cương phong lôi hỏa chia chín tầng, tinh không vô tận có đất trời.md
+- 2026-06-13 03:02 | Chapter 14 | completed | Chương 0014 - Chương 14 Thành đạo thể, hóa Bất Chu (1).md
+- 2026-06-13 03:16 | Chapter 15 | completed | Chương 0015 - Chương 15 Thành đạo thể, hóa Bất Chu (2).md
+- 2026-06-13 03:32 | Chapter 16 | completed | Chương 0016 - Chương 16 Thành đạo thể, hóa Bất Chu (3).md
+- 2026-06-13 04:02 | Chapter 17 | completed | Chương 0017 - Chương 17 Thành đạo thể, hóa Bất Chu (4).md
+- 2026-06-13 04:17 | Chapter 18 | completed | Chương 0018 - Chương 18 Tiên thiên đạo thể, Bàn Cổ nguyên linh.md
+- 2026-06-13 04:42 | Chapter 19 | completed | Chương 0019 - Chương 19 Địa Tiên đạo quả, vô lượng thần thông.md
+- 2026-06-13 05:02 | Chapter 20 | completed | Chương 0020 - Chương 20 Tiên thiên bất diệt linh quang (1).md
+- 2026-06-13 05:27 | Chapter 21 | completed | Chương 0021 - Chương 21 Tiên thiên bất diệt linh quang (2).md
+- 2026-06-13 05:38 | Chapter 22 | completed | Chương 0022 - Chương 22 Hồng Quân đại pháp, đỉnh thiên lập địa (1).md
+- 2026-06-13 05:54 | Chapter 23 | completed | Chương 0023 - Chương 23 Hồng Quân đại pháp, đỉnh thiên lập địa (2).md
+- 2026-06-13 06:09 | Chapter 23 | completed | Chương 0023 - Chương 23 Hồng Quân đại pháp, đỉnh thiên lập địa (2).md
+- 2026-06-13 06:27 | Chapter 24 | completed | Chương 0024 - Chương 24 Hồng Quân đại pháp, đỉnh thiên lập địa (3).md
+- 2026-06-13 06:42 | Chapter 25 | completed | Chương 0025 - Chương 25 Hư Không Vô Cực Cung Điện Thuật (1).md
+- 2026-06-13 07:07 | Chapter 26 | completed | Chương 0026 - Chương 26 Hư Không Vô Cực Cung Điện Thuật (2).md
+- 2026-06-13 07:23 | Chapter 27 | completed | Chương 0027 - Chương 27 Pháp khí chi uy, Hỗn Độn nguyên thạch.md
+- 2026-06-13 07:47 | Chapter 28 | completed | Chương 0028 - Chương 28 Năng lực của pháp bảo (1).md
+- 2026-06-13 07:58 | Chapter 29 | completed | Chương 0029 - Chương 29 Năng lực của pháp bảo (2).md
+- 2026-06-13 08:21 | Chapter 30 | completed | Chương 0030 - Chương 30 Năng lực của pháp bảo (3).md
+- 2026-06-13 08:32 | Chapter 31 | completed | Chương 0031 - Chương 31 Năng lực của pháp bảo (4).md
+- 2026-06-13 08:52 | Chapter 32 | completed | Chương 0032 - Chương 32 Năng lực của pháp bảo (5).md
+- 2026-06-13 09:07 | Chapter 33 | completed | Chương 0033 - Chương 33 Năng lực của pháp bảo (6).md
+- 2026-06-13 09:33 | Chapter 34 | completed | Chương 0034 - Chương 34 Nhục thân hành tẩu.md
+- 2026-06-13 09:48 | Chapter 35 | completed | Chương 0035 - Chương 35 Ba ngàn sáu trăm năm mươi năm.md
+- 2026-06-13 10:36 | Chapter 36 | completed | Chương 0036 - Chương 36 Thiên sinh phù triện (1).md
+- 2026-06-13 10:48 | Chapter 37 | completed | Chương 0037 - Chương 37 Thiên sinh phù triện (2).md
+- 2026-06-13 11:07 | Chapter 38 | completed | Chương 0038 - 0038 天生符篆（三）.md
+- 2026-06-13 11:15 | Chapter 39 | completed | Chương 0039 - 0039 力士召唤诀.md
+- 2026-06-13 11:28 | Chapter 40 | completed | Chương 0040 - 0040 九劫临头（一）.md
+- 2026-06-13 11:36 | Chapter 38 | completed | Chương 0038 - 0038 天生符篆（三）.md
+- 2026-06-13 11:53 | Chapter 39 | completed | Chương 0039 - Chương 39 Lực Sĩ Triệu Hoán Quyết.md
+- 2026-06-13 12:01 | Chapter 40 | completed | Chương 0040 - Chương 40 Cửu kiếp lâm đầu (1).md
+- 2026-06-13 12:32 | Chapter 38 | completed | Chương 0038 - 0038 天生符篆（三）.md
+- 2026-06-13 12:37 | Chapter 41 | completed | Chương 0041 - 0041 九劫临头（二）.md
+- 2026-06-13 12:51 | Chapter 42 | completed | Chương 0042 - 0042 九劫临头（三）.md
+- 2026-06-13 12:58 | Chapter 43 | completed | Chương 0043 - 0043 九劫临头（四）.md
+- 2026-06-13 13:10 | Chapter 38 | completed | Chương 0038 - 0038 天生符篆（三）.md
+- 2026-06-13 13:18 | Chapter 41 | completed | Chương 0041 - 0041 九劫临头（二）.md
+- 2026-06-13 13:32 | Chapter 38 | completed | Chương 0038 - 0038 天生符篆（三）.md
+- 2026-06-13 13:38 | Chapter 41 | completed | Chương 0041 - 0041 九劫临头（二）.md
+- 2026-06-13 13:50 | Chapter 42 | completed | Chương 0042 - 0042 九劫临头（三）.md
+- 2026-06-13 13:54 | Chapter 43 | completed | Chương 0043 - 0043 九劫临头（四）.md
+- 2026-06-13 14:06 | Chapter 38 | completed | Chương 0038 - 0038 天生符篆（三）.md
+- 2026-06-15 20:54 | Chapter 38 | completed | Chương 0038 - Chương 38 Thiên Sinh Phù Triện (3).md
+- 2026-06-15 21:36 | Chapter 41 | completed | Chương 0041 - Chương 41 Cửu kiếp lâm đầu (2).md

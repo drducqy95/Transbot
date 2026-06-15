@@ -1,0 +1,17 @@
+```json
+{
+  "approved": [
+    {
+      "term": "顶天立地诀",
+      "reason": "Appears to be a proper noun for a specific technique, art, or formula (诀)."
+    }
+  ],
+  "rejected": [
+    {
+      "term": "的心法口诀，",
+      "reason": "This is a sentence fragment containing a possessive particle (的) and trailing punctuation (，). A better glossary term would just be '心法口诀' (mental cultivation formulas/chants)."
+    }
+  ],
+  "uncertain": []
+}
+```

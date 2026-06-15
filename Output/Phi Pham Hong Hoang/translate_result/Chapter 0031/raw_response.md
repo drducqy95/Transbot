@@ -1,0 +1,238 @@
+```json
+{
+  "chapter_number": 31,
+  "chapter_title_vi": "Chương 31: Năng lực của pháp bảo (4)",
+  "segments": [
+    {
+      "segment_id": "0001",
+      "source": "# 第三十一章 法宝之能（四）",
+      "target": "# Chương 31: Năng lực của pháp bảo (4)"
+    },
+    {
+      "segment_id": "0002",
+      "source": "百年时间里面，这一个百里直径的混沌元气源之中有大半是被虚空无极宫所吞噬，剩下的又有九成多——也即是总体的四成多，被罗帆所吸收，再剩下的，方才是被鸿钧所用。",
+      "target": "Trong vòng trăm năm, hơn phân nửa nguồn hỗn độn nguyên khí có đường kính trăm dặm này đã bị Hư Không Vô Cực cung nuốt chửng, hơn chín phần của phần còn lại - tức là hơn bốn phần của tổng thể, bị La Phàm hấp thu, phần còn lại sau đó nữa mới được Hồng Quân sử dụng."
+    },
+    {
+      "segment_id": "0003",
+      "source": "吸收了这一团混沌元气源四成多的量，罗帆只感到自己体内那一道头发丝般大小的法力似乎充实了一些，壮大了一些，不再像百年之前那般空虚。",
+      "target": "Hấp thu hơn bốn phần lượng của đoàn hỗn độn nguyên khí này, La Phàm chỉ cảm thấy một luồng pháp lực to bằng sợi tóc trong cơ thể mình dường như dồi dào hơn một chút, lớn mạnh hơn một chút, không còn trống rỗng như trăm năm trước."
+    },
+    {
+      "segment_id": "0004",
+      "source": "但，也仅此而已……",
+      "target": "Nhưng, cũng chỉ có vậy mà thôi..."
+    },
+    {
+      "segment_id": "0005",
+      "source": "洪荒天地的时间是不值钱的，恐怕只有按照元会来计算的时间（一元会十二万九千六百年）方才算是一段比较长的时间，百年时间根本算不了什么。",
+      "target": "Thời gian trong thiên địa Hồng Hoang vốn không đáng giá, e rằng chỉ có thời gian tính bằng nguyên hội (một nguyên hội bằng mười hai vạn chín ngàn sáu trăm năm) mới được coi là một khoảng thời gian tương đối dài, thời gian trăm năm căn bản không đáng là gì."
+    },
+    {
+      "segment_id": "0006",
+      "source": "而罗帆所悟出的无名功法乃是基于他对不周山的领悟而创，其最初始的，便是神魂化身不周山，这级别之高，已经达到了一个无法想象的境地了。",
+      "target": "Mà vô danh công pháp La Phàm ngộ ra vốn được sáng tạo dựa trên sự lĩnh ngộ của hắn đối với Bất Chu sơn, bước sơ khởi nhất của nó chính là thần hồn hóa thân thành Bất Chu sơn, đẳng cấp này cao đến mức đã đạt tới một cảnh giới không thể tưởng tượng nổi."
+    },
+    {
+      "segment_id": "0007",
+      "source": "这一部功法每一步进步都需要无尽量的能量来推动。整个混沌元气源对他来说，却也只相当于小小的点心罢了。",
+      "target": "Mỗi một bước tiến bộ của bộ công pháp này đều cần một lượng năng lượng vô tận để thúc đẩy. Toàn bộ nguồn hỗn độn nguyên khí đối với hắn mà nói, lại cũng chỉ tương đương với một món điểm tâm nhỏ bé mà thôi."
+    },
+    {
+      "segment_id": "0008",
+      "source": "但这小点心对罗帆也有着无尽的好处。别看法力只是充盈一些而已，但他的实力却至少提升三倍！",
+      "target": "Nhưng món điểm tâm nhỏ này đối với La Phàm cũng có vô vàn lợi ích. Đừng thấy pháp lực chỉ dồi dào hơn một chút, thực lực của hắn lại chí ít nâng cao gấp ba lần!"
+    },
+    {
+      "segment_id": "0009",
+      "source": "证得地仙道果之后有三个境界，分别是：道果初成之时的散仙境界，道果圆满之后的真仙境界，道果化虚之后的金仙境界。",
+      "target": "Sau khi chứng được Địa Tiên đạo quả có ba cảnh giới, phân biệt là: Tán Tiên cảnh giới khi đạo quả mới thành, Chân Tiên cảnh giới sau khi đạo quả viên mãn, Kim Tiên cảnh giới sau khi đạo quả hóa hư."
+    },
+    {
+      "segment_id": "0010",
+      "source": "这三个境界之间的鸿沟宽阔得几乎无法想象，想要跨越一个境界都需要千百元会时间来堆积，需要无尽量的能量来推动。",
+      "target": "Khoảng cách giữa ba cảnh giới này rộng lớn đến mức gần như không thể tưởng tượng, muốn vượt qua một cảnh giới đều cần thời gian ngàn vạn nguyên hội để tích lũy, cần năng lượng vô lượng để thúc đẩy."
+    },
+    {
+      "segment_id": "0011",
+      "source": "若是按照实力来分，一个初成散仙之修士和资深散仙之间的差距，最大的甚至可能有百倍之多。",
+      "target": "Nếu dựa theo thực lực để phân chia, chênh lệch giữa một tu sĩ Tán Tiên mới thành và Tán Tiên thâm niên, mức lớn nhất thậm chí có thể lên tới gấp trăm lần."
+    },
+    {
+      "segment_id": "0012",
+      "source": "猛地，罗帆心神一动。",
+      "target": "Đột nhiên, tâm thần La Phàm khẽ động."
+    },
+    {
+      "segment_id": "0013",
+      "source": "感到下方那只剩下十丈直径的混沌元气源震荡愈加强烈，有一种不稳，一种就要崩溃的感觉从身下传入他的感知之中。",
+      "target": "Cảm thấy nguồn hỗn độn nguyên khí chỉ còn lại đường kính mười trượng ở phía dưới chấn động càng thêm mãnh liệt, có một loại không ổn định, một loại cảm giác sắp sụp đổ từ dưới thân truyền vào trong cảm nhận của hắn."
+    },
+    {
+      "segment_id": "0014",
+      "source": "心中明白此时已经到了最后阶段，那虚空无极宫成就法宝之后的第一次变化，第一种布局调整就要结束，抬腿一跨，毫无任何烟火气息的，就到了数十里之外，来到鸿钧所在的那条隧道入口之处。",
+      "target": "Trong lòng hiểu rõ lúc này đã đến giai đoạn cuối cùng, lần biến hóa đầu tiên, lần điều chỉnh bố cục đầu tiên của Hư Không Vô Cực cung sau khi thành tựu pháp bảo sắp kết thúc, hắn nhấc chân bước một bước, không vương chút khói lửa nhân gian, đã đến cách đó mấy chục dặm, đi tới cửa vào đường hầm nơi Hồng Quân đang ở."
+    },
+    {
+      "segment_id": "0015",
+      "source": "此时，鸿钧身外已然没有任何异状出现。",
+      "target": "Lúc này, bên ngoài cơ thể Hồng Quân đã không còn bất kỳ dị trạng nào xuất hiện."
+    },
+    {
+      "segment_id": "0016",
+      "source": "那巨大的漩涡已然消失，他却全身赤裸，神色平和的盘膝坐在那处位置，体内玄之又玄的能量充盈经脉之间，汩汩流转，有如流水一般。",
+      "target": "Vòng xoáy khổng lồ kia đã biến mất, hắn lại trần truồng toàn thân, thần sắc bình thản ngồi xếp bằng tại vị trí đó, năng lượng huyền diệu dồi dào chảy giữa các kinh mạch, róc rách lưu chuyển, giống như dòng nước."
+    },
+    {
+      "segment_id": "0017",
+      "source": "定睛一看，罗帆双眼神光一闪，瞬间看透了鸿钧的泥丸宫，望见了他的识海。",
+      "target": "Ngưng mắt nhìn kỹ, hai mắt La Phàm lóe lên thần quang, nháy mắt nhìn thấu Nê Hoàn cung của Hồng Quân, nhìn thấy thức hải của hắn."
+    },
+    {
+      "segment_id": "0018",
+      "source": "只见此时鸿钧的识海依然是如之前那般，有如足球场一样宽阔，而他的神魂在这识海的正中央盘膝而坐，双目紧闭。神魂全身蒸腾着黑色雾气，不断飘起，没入他头顶那一个被无数透明符篆裹得如丝茧一般的先天不灭灵光之中。",
+      "target": "Chỉ thấy lúc này thức hải của Hồng Quân vẫn rộng lớn như sân bóng đá hệt như trước đây, mà thần hồn của hắn ngồi xếp bằng ở ngay chính giữa thức hải này, hai mắt nhắm nghiền. Toàn thân thần hồn bốc lên sương mù màu đen, không ngừng bay lên, chìm vào trong luồng tiên thiên bất diệt linh quang bị vô số bùa chú trong suốt bao bọc như cái kén tằm trên đỉnh đầu hắn."
+    },
+    {
+      "segment_id": "0019",
+      "source": "一股股异力充盈整个识海，这些异力无形无质，从无数个神秘的所在凭空而生，不断的向他的神魂冲过来。",
+      "target": "Từng luồng dị lực tràn ngập toàn bộ thức hải, những dị lực này vô hình vô chất, sinh ra từ hư không ở vô số chốn thần bí, không ngừng xông về phía thần hồn của hắn."
+    },
+    {
+      "segment_id": "0020",
+      "source": "只是，这神魂之上的先天不灭灵光拥有极强的威能，仿佛有着无形的力场从其身上发出，并罩住神魂的全身上下一般，只要接近他神魂身体周围三尺范围的异力，便会被这灵光吞噬一空。但只要是异力脱离他身体三尺范围之外，这灵光便丝毫不管。",
+      "target": "Chỉ là, tiên thiên bất diệt linh quang phía trên thần hồn này nắm giữ uy năng cực mạnh, dường như có một lực trường vô hình từ trên đó phát ra, và bao phủ toàn thân trên dưới thần hồn, chỉ cần dị lực tiếp cận phạm vi ba thước quanh cơ thể thần hồn của hắn, liền sẽ bị luồng linh quang này nuốt chửng sạch sẽ. Nhưng chỉ cần dị lực thoát khỏi phạm vi ba thước quanh cơ thể hắn, luồng linh quang này liền mặc kệ."
+    },
+    {
+      "segment_id": "0021",
+      "source": "那异力无穷无尽，绝无断绝，不断的向着他的神魂所在冲击，不断的进入他身体周围三尺范围，再不断的被那道灵光吞噬，整个过程便宛如灵光通过他的身体为媒介疯狂吸收周围的异力一般。",
+      "target": "Dị lực kia vô cùng vô tận, tuyệt đối không đứt đoạn, không ngừng trùng kích về phía chỗ thần hồn của hắn, không ngừng tiến vào phạm vi ba thước xung quanh thân thể hắn, lại không ngừng bị luồng linh quang kia nuốt chửng, toàn bộ quá trình liền giống như linh quang thông qua thân thể hắn làm môi giới điên cuồng hấp thu dị lực xung quanh vậy."
+    },
+    {
+      "segment_id": "0022",
+      "source": "罗帆观察了一下，暗自点了点头。",
+      "target": "La Phàm quan sát một chút, âm thầm gật đầu."
+    },
+    {
+      "segment_id": "0023",
+      "source": "他已经知道，这些异力，正是因为他体内力量欲转化为法力而不得，所以会对他神魂产生无穷的冲击力所化。它们随着鸿钧体内的力量运转而产生，只要能量运转不停息便永无断绝。但却也无法被一切存在利用，即便是先天不灭灵光将异力吸收，那异力也会在进入灵光之内的瞬间归于无形。",
+      "target": "Hắn đã biết, những dị lực này, chính là vì sức mạnh trong cơ thể hắn muốn hóa thành pháp lực mà không được, cho nên đã tạo ra sức trùng kích vô cùng đối với thần hồn hắn mà biến thành. Chúng nó sinh ra nương theo sự vận chuyển sức mạnh trong cơ thể Hồng Quân, chỉ cần năng lượng vận chuyển không ngừng nghỉ liền mãi không đứt đoạn. Nhưng lại cũng không cách nào bị tất cả tồn tại lợi dụng, cho dù là tiên thiên bất diệt linh quang hấp thu dị lực, dị lực kia cũng sẽ ở khoảnh khắc tiến vào trong linh quang mà quy về vô hình."
+    },
+    {
+      "segment_id": "0024",
+      "source": "“先天不灭灵光……当真玄妙，怪不得能够演化先天灵宝……”罗帆忍不住暗自赞叹起来，心中更有一丝丝的羡慕。",
+      "target": "\"Tiên thiên bất diệt linh quang... quả thật huyền diệu, thảo nào có thể diễn hóa thành tiên thiên linh bảo...\" La Phàm không nhịn được thầm tán thán, trong lòng càng có một chút hâm mộ."
+    },
+    {
+      "segment_id": "0025",
+      "source": "又细细观察了一番，发现鸿钧体内情况好得惊人，此时正体悟着《顶天立地诀》的精微奥秘，心头满意，也不打扰，转而向着那数十里之外的混沌元气源望过去。",
+      "target": "Lại cẩn thận quan sát một phen, phát hiện tình hình bên trong cơ thể Hồng Quân tốt đến mức kinh người, lúc này đang thể ngộ sự ảo diệu tinh vi của \"Đỉnh Thiên Lập Địa Quyết\", trong lòng hài lòng, cũng không quấy rầy, quay lại nhìn về phía nguồn hỗn độn nguyên khí cách đó mấy chục dặm."
+    },
+    {
+      "segment_id": "0026",
+      "source": "这里乃是地下实力之下一个直径百里的球形空间，周围连接着数十道或大或小的隧道通往四面八方。",
+      "target": "Nơi này chính là một không gian hình cầu đường kính trăm dặm nằm ở sâu dưới lòng đất, xung quanh kết nối với mấy chục đường hầm lớn nhỏ thông ra bốn phương tám hướng."
+    },
+    {
+      "segment_id": "0027",
+      "source": "换句话说，这里，根本没有任何光源存在，完全是一片黑暗。",
+      "target": "Nói cách khác, nơi này, căn bản không có bất cứ nguồn sáng nào tồn tại, hoàn toàn là một màu đen kịt."
+    },
+    {
+      "segment_id": "0028",
+      "source": "罗帆不受影响，是因为他已经证得地仙道果成就散仙位业，实力惊人之极，黑暗无能对其造成阻隔。鸿钧没有证得道果，所以差了许多，虽然依然能够看到一些，但却只是模模糊糊的而已。",
+      "target": "La Phàm không bị ảnh hưởng, là bởi vì hắn đã chứng được Địa Tiên đạo quả thành tựu quả vị Tán Tiên, thực lực kinh người tột bậc, bóng tối không thể tạo thành cản trở đối với hắn. Hồng Quân không chứng được đạo quả, cho nên kém hơn nhiều, tuy vẫn có thể nhìn thấy một chút, nhưng lại chỉ mờ mờ ảo ảo mà thôi."
+    },
+    {
+      "segment_id": "0029",
+      "source": "这么一个巨大的球形黑暗虚空之中，一团十丈大小的，透出几丝紫色、金色、黄色光芒的黑色球体悬浮在正中央。",
+      "target": "Trong một hư không đen kịt hình cầu khổng lồ như vậy, một quả cầu màu đen cỡ chừng mười trượng, lộ ra vài tia sáng màu tím, màu vàng kim, màu vàng lơ lửng ngay chính giữa."
+    },
+    {
+      "segment_id": "0030",
+      "source": "这黑色的球体伸缩着，颤动着，旋转着，震荡着，显现出其内部的剧烈反应。",
+      "target": "Quả cầu màu đen này co giãn, run rẩy, xoay tròn, chấn động, hiển hiện ra phản ứng kịch liệt bên trong nó."
+    },
+    {
+      "segment_id": "0031",
+      "source": "随着时间的推移，那黑色球体的裂缝越来越大，从其中透出的光芒越来越明亮。",
+      "target": "Cùng với thời gian trôi qua, vết nứt của quả cầu màu đen kia ngày càng lớn, ánh sáng lộ ra từ trong đó ngày càng sáng chói."
+    },
+    {
+      "segment_id": "0032",
+      "source": "渐渐的，这些透出的丝丝光芒扩大成为无数光束，这些光束宛如一道道激光一般，射穿了那黑色球体的阻隔，射向四面八方。",
+      "target": "Dần dần, những tia sáng này mở rộng biến thành vô số chùm sáng, những chùm sáng này tựa như từng tia laser, bắn xuyên qua vách ngăn của quả cầu màu đen kia, bắn về bốn phương tám hướng."
+    },
+    {
+      "segment_id": "0033",
+      "source": "射出的光芒虽不甚强烈，但在这一片黑暗之中，却十分显眼，转眼间便让整个巨大的空间笼罩上一层蒙蒙的光亮之中。",
+      "target": "Ánh sáng bắn ra tuy không quá mạnh mẽ, nhưng trong không gian tối tăm này, lại vô cùng chói mắt, trong nháy mắt liền khiến cho không gian khổng lồ được bao phủ trong một tầng ánh sáng mờ mịt."
+    },
+    {
+      "segment_id": "0034",
+      "source": "那光芒越来越强，转眼间，已经连成一片。那灰色的球体所在的位置被一片夹杂着紫色、黄色的金云所取代——那硕果仅存的混沌元气源完全被吞噬一空！",
+      "target": "Ánh sáng kia càng ngày càng mạnh, trong nháy mắt, đã nối liền thành một dải. Vị trí của quả cầu màu xám kia bị thay thế bởi một đám mây vàng xen lẫn màu tím và màu vàng - chút nguồn hỗn độn nguyên khí ít ỏi còn sót lại kia đã hoàn toàn bị nuốt chửng sạch sành sanh!"
+    },
+    {
+      "segment_id": "0035",
+      "source": "这剩下的金云不断的翻滚着，凝缩着。",
+      "target": "Đám mây vàng còn lại này không ngừng cuồn cuộn, cô đọng lại."
+    },
+    {
+      "segment_id": "0036",
+      "source": "吞吸了大半混沌元气源之后，其外表看起来根本没有丝毫变化，完全是和之前一般无二的模样。",
+      "target": "Sau khi nuốt lấy hơn phân nửa nguồn hỗn độn nguyên khí, bề ngoài của nó thoạt nhìn căn bản không có chút biến hóa nào, hoàn toàn là bộ dạng giống hệt như trước đây."
+    },
+    {
+      "segment_id": "0037",
+      "source": "和其成就法宝之时相比，也只不过是少了其中的无数立体符篆罢了。",
+      "target": "So với lúc thành tựu pháp bảo, cũng chỉ là ít đi vô số bùa chú lập thể bên trong mà thôi."
+    },
+    {
+      "segment_id": "0038",
+      "source": "罗帆面色平淡的望着这金云，心神没有任何波动。",
+      "target": "La Phàm nét mặt bình thản nhìn đám mây vàng này, tâm thần không có bất kỳ gợn sóng nào."
+    },
+    {
+      "segment_id": "0039",
+      "source": "他早已经炼化了虚空无极宫，虽然此时无法感知到那金云之中的变化，但还是能够感觉到调整过程十分的顺利，自然也就不需要担忧了。",
+      "target": "Hắn đã sớm luyện hóa Hư Không Vô Cực cung, tuy lúc này không cách nào cảm nhận được biến hóa bên trong đám mây vàng kia, nhưng vẫn có thể cảm nhận được quá trình điều chỉnh vô cùng thuận lợi, tự nhiên cũng không cần lo lắng nữa."
+    },
+    {
+      "segment_id": "0040",
+      "source": "猛地，一圈肉眼可见的空间涟漪从那金云所在的位置向着四面八方扩散开来。",
+      "target": "Đột nhiên, một vòng gợn sóng không gian có thể thấy bằng mắt thường từ vị trí của đám mây vàng kia khuếch tán ra bốn phương tám hướng."
+    },
+    {
+      "segment_id": "0041",
+      "source": "那金云瞬间一缩，凝成了一个拳头大小，古朴简陋以至于显得有些残破的方形宫殿。",
+      "target": "Đám mây vàng kia nháy mắt co lại, ngưng tụ thành một tòa cung điện hình vuông lớn cỡ nắm tay, mộc mạc đơn sơ đến mức có vẻ hơi rách nát."
+    },
+    {
+      "segment_id": "0042",
+      "source": "这宫殿成型之后，猛然一涨，转眼间化为了一间高达百丈的巨大宫殿。一闪，速度快得有如瞬移般来到了罗帆身前。",
+      "target": "Sau khi cung điện này thành hình, đột nhiên phình to, trong nháy mắt hóa thành một tòa cung điện khổng lồ cao tới trăm trượng. Lóe lên một cái, tốc độ nhanh tựa như dịch chuyển tức thời đã đến trước mặt La Phàm."
+    },
+    {
+      "segment_id": "0043",
+      "source": "这宫殿是拳头大小之时，显得古朴简陋，但当其扩大到如今这般百丈高下的时候，却有一股极其宏伟威严的气息从其身上散发出来，仰头看着它，便会产生一种自身十分渺小的错觉出来。",
+      "target": "Cung điện này khi to bằng nắm tay, trông mộc mạc đơn sơ, nhưng khi nó mở rộng đến trăm trượng như hiện giờ, lại có một luồng khí tức cực kỳ hùng vĩ uy nghiêm phát ra từ trên người nó, ngẩng đầu nhìn nó, liền sẽ sinh ra một loại ảo giác bản thân vô cùng nhỏ bé."
+    },
+    {
+      "segment_id": "0044",
+      "source": "那巨大的宫殿正门轰然打开，一个金色童子的身形出现在门口，粉妆玉琢，可爱非常，正是无极童子。",
+      "target": "Cửa chính của tòa cung điện khổng lồ kia ầm ầm mở ra, thân hình của một đồng tử màu vàng kim xuất hiện ở cửa, đẹp như ngọc tạc, vô cùng đáng yêu, chính là Vô Cực đồng tử."
+    },
+    {
+      "segment_id": "0045",
+      "source": "“启禀主人，虚空无极宫已然调整完毕，恭请主人巡视。”无极童子出现之后，面无表情，声音机械的躬身道。",
+      "target": "\"Khởi bẩm chủ nhân, Hư Không Vô Cực cung đã điều chỉnh hoàn tất, cung thỉnh chủ nhân tuần sát.\" Sau khi Vô Cực đồng tử xuất hiện, mặt không biểu tình, giọng nói cứng nhắc khom người thưa."
+    },
+    {
+      "segment_id": "0046",
+      "source": "第三十二章 法宝之能(五)",
+      "target": "Chương 32: Năng lực của pháp bảo (5)"
+    }
+  ]
+}
+```

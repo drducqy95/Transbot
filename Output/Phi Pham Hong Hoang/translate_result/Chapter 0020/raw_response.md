@@ -1,0 +1,223 @@
+```json
+{
+  "chapter_number": 20,
+  "chapter_title_vi": "Chương 20: Tiên thiên bất diệt linh quang (1)",
+  "segments": [
+    {
+      "segment_id": "0001",
+      "source": "# 第二十章 先天不灭灵光（一）()",
+      "target": "# Chương 20: Tiên thiên bất diệt linh quang (1)"
+    },
+    {
+      "segment_id": "0002",
+      "source": "“鸿……鸿钧……”罗帆这次真的被雷到了。",
+      "target": "“Hồng… Hồng Quân…” Lần này La Phàm thật sự bị chấn động."
+    },
+    {
+      "segment_id": "0003",
+      "source": "难道这么一只眼睛大入铜铃一只眼睛小如小指，鼻孔朝天，头颅扁如盘子，龅牙，一手长一手短，甚至还背驼如弓的畸形男就是传说中的圣人之师、天地之师——鸿钧？！",
+      "target": "Lẽ nào gã đàn ông dị dạng một mắt to như chuông đồng, một mắt nhỏ bằng ngón út, lỗ mũi hếch lên trời, đầu dẹt như cái mâm, răng hô, tay dài tay ngắn, thậm chí lưng còn gù như cây cung này chính là người thầy của thánh nhân, người thầy của đất trời trong truyền thuyết —— Hồng Quân sao?!"
+    },
+    {
+      "segment_id": "0004",
+      "source": "这，难道老天爷在和我开玩笑？可是，这一点也不好笑……",
+      "target": "Cái này, chẳng lẽ ông trời đang đùa với ta sao? Nhưng mà, trò đùa này một chút cũng không buồn cười…"
+    },
+    {
+      "segment_id": "0005",
+      "source": "“求大仙收小子为徒！”那疑似鸿钧之人磕头不断，声音哀婉恳切。",
+      "target": "“Cầu đại tiên nhận tiểu tử làm đồ đệ!” Người bị nghi là Hồng Quân kia liên tục dập đầu, giọng nói bi ai khẩn thiết."
+    },
+    {
+      "segment_id": "0006",
+      "source": "“你真是鸿钧？”罗帆安慰自己，一定是重名了。",
+      "target": "“Ngươi thật sự là Hồng Quân?” La Phàm tự an ủi bản thân, chắc chắn là trùng tên rồi."
+    },
+    {
+      "segment_id": "0007",
+      "source": "那畸形男疑惑的道：“小子生于盘古发间，得盘古大神命名，是为鸿钧，至今已有十三万七千八三十六年，绝无不敢欺瞒大仙。小子万分仰慕大仙之姿，求大仙慈悲，收小子为徒！”",
+      "target": "Gã dị dạng kia nghi hoặc nói: “Tiểu tử sinh ra ở kẽ tóc Bàn Cổ, được Bàn Cổ đại thần ban tên là Hồng Quân, đến nay đã được mười ba vạn bảy ngàn tám trăm ba mươi sáu năm, tuyệt đối không dám lừa gạt đại tiên. Tiểu tử muôn phần ngưỡng mộ phong thái của đại tiên, cầu đại tiên từ bi, nhận tiểu tử làm đồ đệ!”"
+    },
+    {
+      "segment_id": "0008",
+      "source": "说着，这畸形男鸿钧又再度磕头不断。",
+      "target": "Nói rồi, gã dị dạng Hồng Quân này lại tiếp tục dập đầu không ngừng."
+    },
+    {
+      "segment_id": "0009",
+      "source": "罗帆心神一动，生于盘古发间，莫非是盘古身上的虱子？有了这种想法，再看这畸形男的形象，可不活脱脱的就是一只虱子的形象？可是，传说中鸿钧不应该是蛐蟮（类似蚯蚓）成道？",
+      "target": "Trong lòng La Phàm khẽ động, sinh ra ở kẽ tóc Bàn Cổ, lẽ nào là con rận trên người Bàn Cổ? Có suy nghĩ này, nhìn lại hình dáng của gã dị dạng này, chẳng phải sống động y hệt hình dáng của một con rận sao? Thế nhưng, trong truyền thuyết Hồng Quân không phải là do khúc thiện (giống giun đất) đắc đạo sao?"
+    },
+    {
+      "segment_id": "0010",
+      "source": "不过管他呢！不管怎说，这“人”都是先天神祇，资质决不会太差。既然送上门来给自己当徒弟，还承诺终身侍奉，永不背叛。嗯，有句话怎么说来着？天与不取，反受其咎……",
+      "target": "Nhưng quan tâm làm gì! Dù nói thế nào đi nữa, \"người\" này cũng là tiên thiên thần linh, tư chất tuyệt đối sẽ không quá tệ. Đã tự dâng tới cửa xin làm đồ đệ, lại còn hứa hẹn chung thân hầu hạ, vĩnh viễn không phản bội. Ừm, có câu nói như thế nào nhỉ? Trời cho mà không lấy, ắt sẽ chuốc lấy tai họa..."
+    },
+    {
+      "segment_id": "0011",
+      "source": "于是，他点点头道：“起来吧，既然你求道之心如此坚定，我便收下你吧。”",
+      "target": "Thế là, hắn gật đầu nói: “Đứng lên đi, nếu trái tim cầu đạo của ngươi đã kiên định như thế, ta liền nhận ngươi vậy.”"
+    },
+    {
+      "segment_id": "0012",
+      "source": "畸形男鸿钧惊喜得全身颤抖，眼泪鼻涕一起流，连磕十几个头，再抬起满脸液体的脸庞道：“多谢师尊慈悲！徒儿斗胆，敢问师尊名讳。”",
+      "target": "Gã dị dạng Hồng Quân kinh hỉ tới mức toàn thân run rẩy, nước mắt nước mũi tèm lem, dập đầu liên tiếp mười mấy cái, rồi mới ngẩng khuôn mặt giàn giụa chất lỏng lên nói: “Đa tạ sư tôn từ bi! Đồ nhi to gan, dám hỏi danh húy của sư tôn.”"
+    },
+    {
+      "segment_id": "0013",
+      "source": "名讳？罗帆心头一动。",
+      "target": "Danh húy? Trong lòng La Phàm khẽ động."
+    },
+    {
+      "segment_id": "0014",
+      "source": "“我要不要也起一个什么鸿蒙道人、道玄真君、玄天大尊之类的，让人一听就知道是高人的名号出来？”",
+      "target": "“Ta có nên đặt bừa một cái danh hiệu nào đó như Hồng Mông đạo nhân, Đạo Huyền chân quân, Huyền Thiên đại tôn linh tinh, khiến người ta vừa nghe đã biết là cao nhân hay không?”"
+    },
+    {
+      "segment_id": "0015",
+      "source": "想了一下，他还是决定算了。鸿钧鸿钧，这个名字单单看字面的话，也没有什么特别的，不过是因为鸿钧最后成了圣人之师、天地之师，这个名字方才显得那般玄妙，似乎蕴含无穷奥秘。如今我为鸿钧之师……那我即便是叫做垃圾，日后垃圾这个名字也定然是显得玄妙无方，奥秘无穷……",
+      "target": "Nghĩ một chút, hắn vẫn quyết định bỏ đi. Hồng Quân Hồng Quân, cái tên này nếu chỉ nhìn mặt chữ thì cũng chẳng có gì đặc biệt, chỉ vì Hồng Quân cuối cùng đã trở thành người thầy của thánh nhân, người thầy của đất trời, cái tên này mới có vẻ huyền diệu đến vậy, dường như ẩn chứa vô vàn bí ẩn. Nay ta đã là sư tôn của Hồng Quân… vậy thì cho dù ta có tên là Rác Rưởi, sau này cái tên Rác Rưởi kia nhất định cũng sẽ trở nên huyền diệu vô song, bí ẩn vô cùng…"
+    },
+    {
+      "segment_id": "0016",
+      "source": "想定，罗帆微微一笑，道：“为师名为罗帆，你可记清了，莫要日后他人问起说不出来。”",
+      "target": "Nghĩ xong, La Phàm mỉm cười, nói: “Vi sư tên là La Phàm, ngươi hãy nhớ cho kỹ, đừng để ngày sau người khác hỏi tới lại không trả lời được.”"
+    },
+    {
+      "segment_id": "0017",
+      "source": "畸形男鸿钧一听，似乎若有所悟：“网中有隹（音：追）曰罗，随风张幔曰帆，师尊之名讳寓意深远，包罗天下，徒儿敬仰万分！”",
+      "target": "Gã dị dạng Hồng Quân vừa nghe, dường như có chút giác ngộ: “Trong lưới có chim (đọc là: truy) gọi là La, thuận gió căng buồm gọi là Phàm, danh húy của sư tôn mang ngụ ý sâu xa, bao la khắp thiên hạ, đồ nhi vạn phần kính ngưỡng!”"
+    },
+    {
+      "segment_id": "0018",
+      "source": "罗帆嘴巴微微张开，心中苦笑。",
+      "target": "La Phàm hơi hé miệng, trong lòng cười khổ."
+    },
+    {
+      "segment_id": "0019",
+      "source": "果然正如自己所料……",
+      "target": "Quả nhiên đúng như mình dự liệu..."
+    },
+    {
+      "segment_id": "0020",
+      "source": "不过他也没什么心思纠缠于这名字的问题，抬手一抓，便将鸿钧抓起放在自己的祥云之上。",
+      "target": "Nhưng hắn cũng không có tâm tư vướng bận vấn đề cái tên này, vung tay vồ một cái, liền xách Hồng Quân lên đặt trên đám tường vân của mình."
+    },
+    {
+      "segment_id": "0021",
+      "source": "这祥云有三米直径，托住两个人却是绰绰有余了，甚至还显得十分的宽阔。",
+      "target": "Đám tường vân này có đường kính ba mét, đỡ hai người thật sự là dư dả, thậm chí còn có vẻ vô cùng rộng rãi."
+    },
+    {
+      "segment_id": "0022",
+      "source": "“此乃……先天不灭灵光？！”忽然，罗帆心神一动，两只眼睛紧紧盯着鸿钧脚下那团灰蒙蒙的灰云。",
+      "target": "“Đây là… tiên thiên bất diệt linh quang?!” Đột nhiên, trong lòng La Phàm khẽ động, hai mắt nhìn chằm chằm vào đám mây xám xịt dưới chân Hồng Quân."
+    },
+    {
+      "segment_id": "0023",
+      "source": "方才他只是以为这灰云是类似腾云驾雾之类的神通，并没有在意，此时抓起鸿钧，才发觉这灰云居然十分的不简单，在鸿钧离开之后并不消散，而是凝成一团，伸缩不定，不断的变幻形态，宛如活物！",
+      "target": "Lúc nãy hắn chỉ nghĩ đám mây xám này là thần thông loại như đằng vân giá vũ, nên không thèm để ý, lúc này nhấc Hồng Quân lên mới phát hiện đám mây xám này thế mà lại không hề đơn giản. Sau khi Hồng Quân rời đi, nó không tan biến mà ngưng tụ thành một đoàn, co giãn bất định, không ngừng biến ảo hình thái, hệt như vật sống!"
+    },
+    {
+      "segment_id": "0024",
+      "source": "这绝不是普通的祥云！",
+      "target": "Đây tuyệt đối không phải tường vân bình thường!"
+    },
+    {
+      "segment_id": "0025",
+      "source": "罗帆在脑海中无尽的信息里面搜索了一番，那盘古元灵之中冒出来的信息瞬间让他知晓，这东西，赫然便是洪荒天地有数的存在——先天不灭灵光！",
+      "target": "La Phàm tìm kiếm một phen trong vô tận tin tức ở não hải, luồng thông tin trào ra từ Bàn Cổ nguyên linh trong nháy mắt giúp hắn nhận ra, thứ này, rõ ràng chính là một tồn tại hiếm hoi trong trời đất Hồng Hoang —— tiên thiên bất diệt linh quang!"
+    },
+    {
+      "segment_id": "0026",
+      "source": "先天不灭灵光是一种十分神秘，更十分玄妙的存在。在盘古元灵最后迸出的信息之中并没有对其下一个具体的定义。",
+      "target": "Tiên thiên bất diệt linh quang là một loại tồn tại vô cùng thần bí, lại vô cùng huyền diệu. Trong những thông tin cuối cùng được Bàn Cổ nguyên linh truyền tới, không hề có một định nghĩa cụ thể về nó."
+    },
+    {
+      "segment_id": "0027",
+      "source": "但，那些信息中却透漏出一些关于先天不灭灵光的功用！",
+      "target": "Thế nhưng, những thông tin đó lại tiết lộ một vài công dụng của tiên thiên bất diệt linh quang!"
+    },
+    {
+      "segment_id": "0028",
+      "source": "正是这种功用，让罗帆对鸿钧拥有先天不灭灵光如此的惊讶。因为从这些功用上来看，对任何修士来说，先天不灭灵光都是整个洪荒天地中最为珍贵的宝物！只要得到了一道先天不灭灵光，就相当于生命得到了永恒不灭的生命！",
+      "target": "Chính vì những công dụng này, nên La Phàm mới kinh ngạc như vậy khi Hồng Quân sở hữu tiên thiên bất diệt linh quang. Bởi vì xét từ những công dụng này, đối với bất kỳ tu sĩ nào, tiên thiên bất diệt linh quang đều là bảo vật trân quý nhất trong toàn bộ trời đất Hồng Hoang! Chỉ cần nhận được một tia tiên thiên bất diệt linh quang, cũng tương đương với việc nhận được sinh mệnh vĩnh hằng bất diệt!"
+    },
+    {
+      "segment_id": "0029",
+      "source": "先天不灭灵光，先天而生，后天无损，永不消散，永不毁灭。非证得混元道果之士，就算实力再强也只能将之封印镇压，绝无法将之损毁。",
+      "target": "Tiên thiên bất diệt linh quang, sinh ra từ tiên thiên, hậu thiên không thể tổn hại, vĩnh viễn không tan biến, vĩnh viễn không hủy diệt. Trừ phi là nhân sĩ chứng được Hỗn Nguyên đạo quả, nếu không cho dù thực lực có mạnh đến đâu cũng chỉ có thể phong ấn trấn áp, chứ tuyệt đối không cách nào phá hủy nó."
+    },
+    {
+      "segment_id": "0030",
+      "source": "若是将不灭灵光炼入神魂，那神魂将得到这不灭灵光的特性，获得几乎永恒不灭的生命。",
+      "target": "Nếu như luyện hóa bất diệt linh quang vào thần hồn, thần hồn đó sẽ có được đặc tính của bất diệt linh quang, thu được sinh mệnh gần như vĩnh hằng bất diệt."
+    },
+    {
+      "segment_id": "0031",
+      "source": "而这，还只是一个小小的作用。不灭灵光最大的功效，是经过漫长的时间，渐渐演化出各种先天灵宝！这种先天灵宝，不单单拥有不灭灵光的特性，炼化之后能够让修士获得几乎永恒不灭的生命，还拥有各种不可思议的威能，能让修士某些方面的实力提升百倍、千倍，甚至是万倍！",
+      "target": "Mà cái này, vẫn chỉ là một công dụng nhỏ xíu. Hiệu quả lớn nhất của bất diệt linh quang là trải qua thời gian đằng đẵng, dần dần diễn hóa ra đủ loại tiên thiên linh bảo! Loại tiên thiên linh bảo này, không những sở hữu đặc tính của bất diệt linh quang, sau khi luyện hóa có thể giúp tu sĩ thu được sinh mệnh gần như vĩnh hằng bất diệt, mà còn mang theo vô vàn uy năng không thể tưởng tượng nổi, có thể giúp tu sĩ nâng cao thực lực về phương diện nào đó lên gấp trăm lần, ngàn lần, thậm chí là vạn lần!"
+    },
+    {
+      "segment_id": "0032",
+      "source": "“师尊，不灭灵光是何物？难道如此珍贵？”鸿钧听罗帆望着他脚下的灰云说是不灭灵光，不有惊讶万分，十分坦诚的问道。",
+      "target": "“Sư tôn, bất diệt linh quang là vật gì? Lẽ nào trân quý đến thế?” Hồng Quân nghe La Phàm nhìn đám mây xám dưới chân mình và gọi nó là bất diệt linh quang, không khỏi kinh ngạc vạn phần, vô cùng thẳng thắn đặt câu hỏi."
+    },
+    {
+      "segment_id": "0033",
+      "source": "罗帆既已收鸿钧为徒，自然不会对他有所隐瞒，用简单的语言将不灭灵光的功用说了出来。",
+      "target": "La Phàm đã nhận Hồng Quân làm đồ đệ, tự nhiên sẽ không giấu giếm hắn, bèn dùng ngôn ngữ đơn giản nói ra công dụng của bất diệt linh quang."
+    },
+    {
+      "segment_id": "0034",
+      "source": "听到这一道他不知道得到多久的宝贝居然如此珍贵，拥有如此威能，鸿钧整个呆在了那里，神色变幻不定，有些惊喜，有些迟疑，有些难以置信。",
+      "target": "Nghe thấy tia bảo bối mà mình không biết đã nhận được từ lúc nào này lại trân quý đến vậy, còn mang uy năng như thế, cả người Hồng Quân ngây ra tại chỗ, sắc mặt biến ảo bất định, có phần kinh hỉ, có chút chần chừ, lại có phần khó có thể tin được."
+    },
+    {
+      "segment_id": "0035",
+      "source": "最后，却转为坚定，对着罗帆恭敬的道：“此不灭灵光实在太过珍贵，徒儿根本无法发挥其功用，愿献于师尊。”",
+      "target": "Cuối cùng, lại chuyển sang kiên định, cung kính nói với La Phàm: “Bất diệt linh quang này quả thực quá đỗi trân quý, đồ nhi hoàn toàn không cách nào phát huy được công dụng của nó, nguyện dâng lên cho sư tôn.”"
+    },
+    {
+      "segment_id": "0036",
+      "source": "罗帆对于不灭灵光虽然很眼红，但怎么落得下面子来贪取自己徒弟的东西？摇摇头，神色淡然的道：“为师自有打算，这道先天不灭灵光你自己留着用就是。嗯，为师看你并无将其炼化，也无帮助其演化，可是不知方法？”",
+      "target": "Tuy La Phàm cũng rất đỏ mắt với bất diệt linh quang, nhưng sao có thể hạ mình đi tham lam đoạt lấy đồ vật của đồ đệ? Lắc lắc đầu, vẻ mặt bình thản nói: “Vi sư tự có tính toán, tia tiên thiên bất diệt linh quang này ngươi cứ tự giữ lại mà dùng. Ừm, vi sư thấy ngươi chưa hề luyện hóa nó, cũng không trợ giúp nó diễn hóa, lẽ nào là không biết cách?”"
+    },
+    {
+      "segment_id": "0037",
+      "source": "“徒儿惭愧……”鸿钧一脸羞愧。",
+      "target": "“Đồ nhi hổ thẹn…” Vẻ mặt Hồng Quân ngượng ngùng."
+    },
+    {
+      "segment_id": "0038",
+      "source": "罗帆点点头，抬手一指，一点灵光从手指迸出直冲向鸿钧，转眼间没入他的眉心。",
+      "target": "La Phàm gật đầu, giơ tay chỉ một cái, một đốm linh quang từ đầu ngón tay bắn ra phóng thẳng về phía Hồng Quân, trong chớp mắt chìm vào mi tâm hắn."
+    },
+    {
+      "segment_id": "0039",
+      "source": "在灵光入体之后，鸿钧只觉得无数光影在脑海之中闪过，转眼间，脑海中便多了两道法诀。",
+      "target": "Sau khi linh quang nhập thể, Hồng Quân chỉ cảm thấy vô số luồng sáng xẹt qua não hải, đảo mắt, trong đầu liền có thêm hai đạo pháp quyết."
+    },
+    {
+      "segment_id": "0040",
+      "source": "“此乃炼化以及演化先天不灭灵光的法诀，你可依诀将灵光炼化，也可依诀助其演化为先天灵宝，可缩短百倍灵光演化时间。若是直接炼化灵光，这道不灭灵光将与你神魂融合一体，永不分离，你将拥有几乎不灭之生命，但这道灵光便会消失。若是助其演化，好处便是能在日后得到一件先天灵宝，拥有无穷威能。坏处便是这先天不灭灵光至少需要数个元会方才能够演化成功。且那先天灵宝有少许几率会被剥夺。如何选择，你可自行斟酌。”罗帆淡淡的道。",
+      "target": "“Đây là pháp quyết luyện hóa và diễn hóa tiên thiên bất diệt linh quang, ngươi có thể dựa theo pháp quyết để luyện hóa linh quang, cũng có thể nương theo đó trợ giúp nó diễn hóa thành tiên thiên linh bảo, có thể rút ngắn gấp trăm lần thời gian diễn hóa của linh quang. Nếu như trực tiếp luyện hóa linh quang, tia bất diệt linh quang này sẽ dung hợp làm một thể với thần hồn của ngươi, vĩnh viễn không chia lìa, ngươi sẽ có được sinh mệnh gần như bất diệt, thế nhưng đạo linh quang này sẽ biến mất. Còn nếu trợ giúp nó diễn hóa, chỗ tốt là sau này có thể nhận được một kiện tiên thiên linh bảo, sở hữu vô cùng uy năng. Chỗ xấu là tia tiên thiên bất diệt linh quang này ít nhất phải cần tới mấy cái nguyên hội mới có thể diễn hóa thành công. Hơn nữa tiên thiên linh bảo đó có xác suất nhỏ bị tước đoạt. Chọn thế nào, ngươi cứ tự mình châm chước.” La Phàm thản nhiên nói."
+    },
+    {
+      "segment_id": "0041",
+      "source": "他在地球上二十多年时间的幻想、狂想念头之多，绝对是天文数字。那盘古元灵依据他的种种幻想、狂想创出的功法，即使除去一些太过无稽的，那数量也多到一个无法想象的地步。这种炼化先天不灭灵光与加快其演化先天灵宝速度的法诀自然是存在的。",
+      "target": "Hơn hai mươi năm sống ở Trái Đất, những suy nghĩ huyễn tưởng, cuồng tưởng của hắn nhiều tới mức tuyệt đối là một con số thiên văn. Những công pháp mà Bàn Cổ nguyên linh dựa vào đủ loại huyễn tưởng, cuồng tưởng của hắn sáng tạo ra, cho dù loại bỏ đi một vài thứ quá sức vô căn cứ, thì số lượng đó vẫn nhiều tới mức vô pháp tưởng tượng. Loại pháp quyết luyện hóa tiên thiên bất diệt linh quang và gia tăng tốc độ diễn hóa thành tiên thiên linh bảo này tự nhiên là có tồn tại."
+    },
+    {
+      "segment_id": "0042",
+      "source": "“敢问师尊，先天灵宝是何物？”鸿钧一脸茫然。",
+      "target": "“Dám hỏi sư tôn, tiên thiên linh bảo là vật gì?” Vẻ mặt Hồng Quân mờ mịt."
+    },
+    {
+      "segment_id": "0043",
+      "source": "第二十一章 先天不灭灵光(二)",
+      "target": "Chương 21: Tiên thiên bất diệt linh quang (2)"
+    }
+  ]
+}
+```

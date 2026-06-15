@@ -216,9 +216,9 @@
       "status": "in_progress",
       "status_label": "Đang ra",
       "ongoing": true,
-      "completed_chapters": 40,
+      "completed_chapters": 42,
       "total_chapters": 3381,
-      "latest_chapter": "Chương 40: Cửu kiếp lâm đầu (1)",
+      "latest_chapter": "Chương 41: Cửu kiếp lâm đầu (2)",
       "genre": "eastern_fiction",
       "sub_genre": "xianxia",
       "style_tags": [
@@ -267,7 +267,7 @@
       "cover_relative_path": "illustrations/cover/cover.png",
       "readme_path": "Output/Phi Pham Hong Hoang/README.md",
       "toc_path": "Output/Phi Pham Hong Hoang/toc.json",
-      "updated_at": "2026-06-15T21:00:06.051822+07:00"
+      "updated_at": "2026-06-15T21:36:45+07:00"
     },
     {
       "branch": "Rap Chieu Phim Dia Nguc",
@@ -1030,7 +1030,7 @@
     }
   ],
   "metadata": {
-    "generated_at": "2026-06-15T21:29:40+07:00",
+    "generated_at": "2026-06-15T21:36:45+07:00",
     "total_books": 18,
     "source": "Dichtrung/Output"
   },
