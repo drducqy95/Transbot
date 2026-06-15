@@ -1,0 +1,418 @@
+# Translation Context Pack
+
+## Project
+- Branch: Tu Chan Bon Van Nam
+- Title: 
+- Author: 
+- Genre: /
+- Language: zh → vi
+
+## Translation Rules
+### Translation Goal
+Dịch truyện Trung sang tiếng Việt tự nhiên, dễ đọc, đúng nghĩa, đúng mạch truyện, đúng văn cảnh, đúng xưng hô, đúng tên riêng và thuật ngữ.
+Style: văn xuôi tiếng Việt mượt, rõ nghĩa, không máy móc
+Priorities:
+  • đúng nghĩa và đúng văn cảnh
+  • đúng tên riêng
+  • đúng thuật ngữ theo loại và bối cảnh
+  • đúng xưng hô và quan hệ nhân vật
+  • giữ ổn định thuật ngữ/tên riêng/xưng hô đã khóa
+  • tự nhiên trong tiếng Việt
+  • giữ nhịp văn, cảm xúc và giọng kể gốc
+Anti-goals:
+  • không dịch từng chữ máy móc
+  • không Hán Việt hóa tên Nhật, Hàn, phương Tây, fandom, thương hiệu, kỹ thuật
+  • không áp VietPhrase/LuatNhan lên tên riêng đã khóa
+  • không đổi thuật ngữ đã khóa nếu văn cảnh giống nhau
+  • không dùng một bản dịch cứng cho từ đa nghĩa khi văn cảnh khác nhau
+  • không làm lộ thông tin ngoài POV nếu bản gốc chưa tiết lộ
+
+### Output Rules
+  • keep paragraph structure
+  • keep dialogue structure
+  • do not merge paragraphs
+  • do not split paragraphs unnecessarily
+  • preserve punctuation when reasonable
+  • convert chinese quotes to vietnamese
+  • remove unnecessary explanation
+  • output only translation
+  • do not add notes inside translation
+  • mark uncertain items for audit only
+
+### Tone Guidelines
+  • narration: tự nhiên, rõ ràng, có chất truyện
+  • dialogue: phù hợp thân phận, quan hệ, tuổi tác, quyền lực và bối cảnh
+  • ancient_setting: cổ phong vừa phải, không lạm dụng Hán Việt khó hiểu
+  • modern_setting: hiện đại, đời thường, không cổ hóa lời thoại
+  • game_system: rõ ràng, gọn, quen thuộc với văn phong game/system
+  • comedy: giữ nhịp hài nếu có
+  • serious: giữ sắc thái căng thẳng, trang trọng nếu có
+
+### Term Normalization
+Purpose: Chuẩn hóa thuật ngữ theo văn cảnh truyện, bao gồm chiêu thức, nghề nghiệp, chức vị, cảnh giới, kỹ năng, vật phẩm, danh hiệu, tổ chức, hệ thống, khái niệm thế giới quan và cụm cố định lặp lại.
+Core principles:
+  • context first
+  • not word by word
+  • same source can have different translation if context differs
+  • same source same context must be consistent
+  • same term type should keep style consistent
+  • locked translation only applies to matching context
+  • source plus type plus context equals translation
+Decision rules:
+  • Không dịch thuật ngữ chỉ theo mặt chữ.
+  • Một source có thể có nhiều bản dịch nếu văn cảnh khác nhau.
+  • Một bản dịch đã khóa chỉ áp dụng cho đúng loại văn cảnh đã khóa.
+  • Tên chiêu thức, cảnh giới, pháp bảo quan trọng nên dùng dạng Hán Việt chuẩn, viết hoa nếu là danh từ riêng.
+  • Vật phẩm phổ thông không cần Hán Việt hóa quá mức.
+  • Nghề nghiệp phải xét bối cảnh.
+  • Chức vị phải xét hệ thống xã hội.
+  • Nếu cùng source và cùng văn cảnh, phải giữ nhất quán.
+  • Nếu không chắc văn cảnh, đánh dấu audit.
+
+### Engine Rules
+  • use context pack
+  • use previous chapter summary
+  • use character profile
+  • use story timeline
+  • use glossary
+  • use name scan
+  • use segment context
+  • avoid over literal translation
+  • avoid over smoothing that changes meaning
+
+## Characters
+N/A
+
+## Glossary
+N/A
+
+## Story Timeline (latest)
+
+## Chapter 0001 - Chương 1: Nghĩa địa pháp bảo
+
+### Summary
+Chapter 1 completed via pipeline.
+
+## Chapter 0002 - Chương 2: Quang mạc nghi
+
+### Summary
+Chapter 2 completed via pipeline.
+
+## Chapter 0003 - Chương 3: Dị mộng
+
+### Summary
+Chapter 3 completed via pipeline.
+
+## Chapter 0004 - Chương 4: Yêu Đao Bành Hải
+
+### Summary
+Chapter 4 completed via pipeline.
+
+## Chapter 0001 - Chương 1: Nghĩa địa pháp bảo
+
+### Summary
+Chapter 1 completed via pipeline.
+
+## Chapter 0002 - 0002 光幕仪
+
+### Summary
+Chapter 2 completed via pipeline.
+
+## Chapter 0003 - Chương 3: Dị mộng
+
+### Summary
+Chapter 3 completed via pipeline.
+
+## Chapter 0005 - Chương 5: Thi thử đại học
+
+### Summary
+Chapter 5 completed via pipeline.
+
+## Chapter 0006 - Chương 6: Thời đại Đại Hắc Ám
+
+### Summary
+Chapter 6 completed via pipeline.
+
+## Chapter 0007 - Chương 7: Nữ thần Nhị Trung
+
+### Summary
+Chapter 7 completed via pipeline.
+
+## Chapter 0008 - Chương 8: Sửa chữa tinh não
+
+### Summary
+Chapter 8 completed via pipeline.
+
+## Chapter 0002 - 0002 光幕仪
+
+### Summary
+Chapter 2 completed via pipeline.
+
+## Chapter 0002 - Chương 2: Quang mạc nghi
+
+### Summary
+Chapter 2 completed via pipeline.
+
+## Chapter 0002 - Chương 2: Quang mạc nghi
+
+### Summary
+Chapter 2 completed via pipeline.
+
+## Chapter 0009 - Chương 9: Cá muối và giày
+
+### Summary
+Chapter 9 completed via pipeline.
+
+## Chapter 0010 - Chương 10: Âm hồn nhập thể
+
+### Summary
+Chapter 10 completed via pipeline.
+
+## Chapter 0011 - 0011 宛若梦幻
+
+### Summary
+Chapter 11 completed via pipeline.
+
+## Chapter 0011 - Chương 11: Như trong mộng
+
+### Summary
+Chapter 11 completed via pipeline.
+
+## Chapter 0012 - Chương 12: Sướng đến bay người
+
+### Summary
+Chapter 12 completed via pipeline.
+
+
+## Source Chapter 13 - 0013 饿鬼投胎
+```json
+[
+  {
+    "segment_id": "0001",
+    "text": "# 第13章 饿鬼投胎"
+  },
+  {
+    "segment_id": "0002",
+    "text": "李耀像个陡然而富的暴发户，兴奋到了极点，满脑子都是各种不堪入目的**画面，一把撩开被子跳下床来，冷不防两腿一软，“啪嗒”摔了个四仰八叉，只觉四肢空空荡荡，提不起半丝力量，仿佛贼去楼空，连门都给他卸掉了！"
+  },
+  {
+    "segment_id": "0003",
+    "text": "黑翼剑听到声音，从外屋飞了进来，急得吱吱乱叫，“嗖”一声，又飞出去，捧来一面洗脸镜，往李耀身上一照。"
+  },
+  {
+    "segment_id": "0004",
+    "text": "“怎么会这样！”李耀大吃一惊。"
+  },
+  {
+    "segment_id": "0005",
+    "text": "他像是在大沙漠中苟延残喘了好几个月，瘦得皮包骨头，光是一对深陷的眼窝就占据了半张脸，浑身上下根本没半两肉，淡紫色的血管有气无力地耷拉在骨架上，如同晒干的蚯蚓，皮肤都变成了灰色，活脱脱一具僵尸。"
+  },
+  {
+    "segment_id": "0006",
+    "text": "这一惊不要紧，敏锐的五感、超卓的记忆力、晶脑般的计算分析能力，都在瞬间烟消云散，李耀几乎被打回原形，只比过去提升了一点点。"
+  },
+  {
+    "segment_id": "0007",
+    "text": "几乎同时，他的胃里好似塞了一团火，一团不断爆炸蔓延的火！"
+  },
+  {
+    "segment_id": "0008",
+    "text": "李耀仿佛听到周身上下每一个细胞，都在凄厉地嚎叫：“饿啊！饿啊！饿啊！”"
+  },
+  {
+    "segment_id": "0009",
+    "text": "甚至连脑域深处的万千神念，都饿到极致，互相吞噬起来！"
+  },
+  {
+    "segment_id": "0010",
+    "text": "“快，小黑，快给我吃的！”"
+  },
+  {
+    "segment_id": "0011",
+    "text": "李耀从来没想到饿到极点，会像毒瘾发作一样难受，他满地打滚，冲黑翼剑大叫起来。"
+  },
+  {
+    "segment_id": "0012",
+    "text": "黑翼剑“吱吱”叫了两声，不满主人的态度，却还是飞到外屋，很快拎回来两罐五斤装的“星空巨兽”肉罐头。"
+  },
+  {
+    "segment_id": "0013",
+    "text": "这“星空巨兽”名字听起来十分高档奢华霸气，实际上却是修真宗派用秘药调制，将普通的肉猪和大笨象杂交，在三个月时间里催生成的重达十吨的人造肉畜，属于速生品，制成的罐头非常油腻，口感极差，普通市民阶层都很少买来吃。"
+  },
+  {
+    "segment_id": "0014",
+    "text": "不过这种混合了骨头和下水的肉罐头售价便宜，十五块钱就能买到一大罐整整五斤，算是贫民阶层难得的美食，也是李耀平素主要的肉食来源，家里随时储藏了三五十罐。"
+  },
+  {
+    "segment_id": "0015",
+    "text": "此刻，李耀见了星空巨兽肉罐头，就像是饿了三天的野狼见到剥洗干净撒上香料的羊羔，眼冒红光，喉咙里发出“呼噜呼噜”的声响，不知哪儿生出一股力气，整个人跳了起来，将一听肉罐头抱在怀里，张开血盆大口，不顾三七二十一啃了过去。"
+  },
+  {
+    "segment_id": "0016",
+    "text": "“咔嚓咔嚓！咔嚓咔嚓！”牙齿碰撞的声音，就像两台绞肉机互相撞击，锯齿间撞出火星。"
+  },
+  {
+    "segment_id": "0017",
+    "text": "星空巨兽肉罐头，极咸、极腥、极油腻，平时李耀就着薄薄一小片，能扒下三大碗白米饭，这会儿，他却像是吃到了世间罕有的珍馐佳肴，如饕餮附体，狼吞虎咽，一分钟就吞完了整整一听五斤装的肉罐头。"
+  },
+  {
+    "segment_id": "0018",
+    "text": "唇齿间一片麻木，腹腔中却是鼓胀无比，星空巨兽肉罐头高度压缩，遇水膨胀，最多能膨胀十几倍大小。"
+  },
+  {
+    "segment_id": "0019",
+    "text": "李耀脑域深处，念头一动，跳出一副画面，是在南柯一梦中，百炼宗低级杂役总教头“巨灵神”的一段话："
+  },
+  {
+    "segment_id": "0020",
+    "text": "“吸星吞月，辟谷修真，直接吞噬天地灵能——那是高阶修士才能运用的玄妙法门，不是你们这些废物能够尝试的！”"
+  },
+  {
+    "segment_id": "0021",
+    "text": "“对你们这些废物来说，食物就是唯一的灵能来源，一切修炼的基础，就是一个‘吃’字，学会‘吃饭’，是成为修真者的第一步！”"
+  },
+  {
+    "segment_id": "0022",
+    "text": "“下面，我会传授给你们《鲸吞大法》，这是专门教你们怎么吃饭的功法，能够帮你们鲸吞海塞，吸收食物中蕴藏的能量！”"
+  },
+  {
+    "segment_id": "0023",
+    "text": "“修炼到极致时，肠胃蠕动能力提升百倍，可以日吞兽肉八百斤，连最坚固的灵兽头骨都碾成粉末，完全吸收，转化成最基本的灵能，瞬间充盈四肢百骸，令人血脉贲张，力大无穷！”"
+  },
+  {
+    "segment_id": "0024",
+    "text": "“记住，《一百零八手披风乱锤法》修炼不到家，尚有一丝补救余地，可是这门《鲸吞大法》要是练不好，永远是凡人一个，不要想踏上修真之路！”"
+  },
+  {
+    "segment_id": "0025",
+    "text": "“欧冶明，你先给老子上来，把这两百斤臭鱼统统吃下去，老子先教你这门百炼宗镇山秘法《鲸吞大法》！”"
+  },
+  {
+    "segment_id": "0026",
+    "text": "……"
+  },
+  {
+    "segment_id": "0027",
+    "text": "李耀的双眼忽然瞪得圆鼓鼓的，从他的腹腔中，传来“轰隆轰隆”的声音，似乎有一部强劲的机器骤然发动！"
+  },
+  {
+    "segment_id": "0028",
+    "text": "一瞬间，他的肚子里，就像是有好几头怪兽乱窜，腹部的皮肤被拉伸到近乎透明！"
+  },
+  {
+    "segment_id": "0029",
+    "text": "他的胃肠道正在以超越常人几十倍的效率高速蠕动，将星空巨兽肉飞快地消化、分解，转化成最基础的能量，源源不断供给到干涸的四肢百骸，奇经八脉之中！"
+  },
+  {
+    "segment_id": "0030",
+    "text": "星空巨兽肉遇水膨胀的速度，怎么都比不过消化吸收的速度，凸起的腹部很快平复下去，甚至又重新凹陷。"
+  },
+  {
+    "segment_id": "0031",
+    "text": "“不行，还是饿，快，再来一罐！”"
+  },
+  {
+    "segment_id": "0032",
+    "text": "李耀吃得口滑，三两口将第二罐星空巨兽肉罐头啃了个一干二净，兀自不满足，拍着地板让黑翼剑继续拿肉。"
+  },
+  {
+    "segment_id": "0033",
+    "text": "三罐，五罐，二十罐……"
+  },
+  {
+    "segment_id": "0034",
+    "text": "短短一个钟头，他黏皮带骨吞下了整整三十一听星空巨兽肉罐头，喝光了满满一桶饮用水，把家里的存货都吃干抹净，这才意犹未尽地打了个饱嗝。"
+  },
+  {
+    "segment_id": "0035",
+    "text": "“吱吱，吱吱？”"
+  },
+  {
+    "segment_id": "0036",
+    "text": "黑翼剑有些担忧地看着主人——它从来没见过这么疯狂吃星空巨兽肉罐头的人，不知道主人出了什么毛病，不由关切询问。"
+  },
+  {
+    "segment_id": "0037",
+    "text": "李耀砸吧着嘴，用舌头剔出一缕肉丝，细细回味着：“我好像还没吃饱，还能再吃三五罐。”"
+  },
+  {
+    "segment_id": "0038",
+    "text": "“……”黑翼剑一阵无语，如果它有眼睛，此刻一定大翻白眼。"
+  },
+  {
+    "segment_id": "0039",
+    "text": "“总算，又活过来了！”李耀十分满足地舒了一口气，握紧拳头，仔细打量自己的手臂，体会着骨髓深处涌动的力量。"
+  },
+  {
+    "segment_id": "0040",
+    "text": "随着一听听星空巨兽肉罐头嗑下去，在《鲸吞大法》的疯狂消化吸收下，他的身体也发生了翻天覆地的变化。"
+  },
+  {
+    "segment_id": "0041",
+    "text": "兽肉转化成了最纯粹的灵能，有了丰沛灵能的浸润，干涸的血管重新充盈，枯萎的肌肉再度鼓胀，骨骼如同钢筋，变得异常坚韧。"
+  },
+  {
+    "segment_id": "0042",
+    "text": "在镜子里，他的脸色仍旧有些灰黄，和以前比起来，身形也略显瘦弱，但是在黯淡的皮肤下面，却隐藏着紧实的肌肉，稍稍一用力就突显出来，如同一股股粗大的钢索。"
+  },
+  {
+    "segment_id": "0043",
+    "text": "李耀攥紧拳头，往胸肌上不轻不重锤了两拳，发出沉闷的声响，胸口如同垫了七八层晒干的皮革，根本感觉不到痛楚。"
+  },
+  {
+    "segment_id": "0044",
+    "text": "“嗖！嗖！”手臂一甩，随意刺出七八拳，虚空中顿时出现三五道残影，发出拳风破空之声。"
+  },
+  {
+    "segment_id": "0045",
+    "text": "“拳力起码增强了15%，拳速至少提升了20%，《鲸吞大法》果然是一个字——真他娘的霸道！”"
+  },
+  {
+    "segment_id": "0046",
+    "text": "意识到南柯一梦中的记忆碎片，竟然能在现实世界中应用，李耀不由欣喜若狂，犹如捡到了天降横财的流浪汉。"
+  },
+  {
+    "segment_id": "0047",
+    "text": "不过，当他有意识去回忆梦中欧冶子遗留的庞大记忆库时，却发现和所有梦境一样，前一秒还清晰无比的记忆，下一秒就变得朦朦胧胧，斑斑驳驳，无法利用。"
+  },
+  {
+    "segment_id": "0048",
+    "text": "“如果有办法回想起梦境的每一个细节就好了，哪怕只是被我偷学到欧冶子这老小子一成本事，成为联邦第一炼器大师，都是易如反掌！到时候我就金山银海，香车美女，受万人敬仰，成为风靡亿万青少年的偶像人物……”"
+  },
+  {
+    "segment_id": "0049",
+    "text": "李耀嘿嘿奸笑，尽情畅想。"
+  },
+  {
+    "segment_id": "0050",
+    "text": "黑翼剑十分不屑地冷哼一声，扭着剑柄飞走了。"
+  },
+  {
+    "segment_id": "0051",
+    "text": "就在这时，晶脑忽然发出“滴滴”一声响，光幕右下方飞出一只虚拟纸鹤，绕着李耀的脑袋飞了三圈，“啪”一声爆开，化作一条冷冰冰的信息："
+  },
+  {
+    "segment_id": "0052",
+    "text": "“你今天没来学校？”"
+  },
+  {
+    "segment_id": "0053",
+    "text": "后面还跟着一个圆滚滚的黄色小人，小人眉毛倒竖，满脸质疑，是司佳雪。"
+  }
+]
+```
+
+## Output Format
+CRITICAL INSTRUCTION: You MUST translate the source text EXACTLY paragraph by paragraph, preserving the original order perfectly. DO NOT skip, drop, merge, or reorder any paragraphs. Each paragraph in the source MUST be translated.
+Return ONLY valid JSON matching this schema:
+{
+  "chapter_number": 13,
+  "chapter_title_vi": "Chương 13: <Vietnamese title>",
+  "segments": [
+    {
+      "segment_id": "XXXX",
+      "source": "...",
+      "target": "..."
+    }
+  ]
+}

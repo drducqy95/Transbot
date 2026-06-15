@@ -1,0 +1,228 @@
+```json
+{
+  "chapter_number": 20,
+  "chapter_title_vi": "Chương 20: Gã tập thể dục",
+  "segments": [
+    {
+      "segment_id": "0001",
+      "source": "# 第20章 体操男",
+      "target": "# Chương 20: Gã tập thể dục"
+    },
+    {
+      "segment_id": "0002",
+      "source": "“有点意思，在普通武者里算是抗击打能力一流，比你修炼馆里这些弱鸡强上十倍。”彭海也站起来，慢吞吞地活动关节，一束束肌肉如万千毒蛇，在洁白如玉的皮肤下面流窜，灵动无比。",
+      "target": "\"Hơi thú vị đấy, trong số võ giả bình thường thì khả năng chịu đòn coi như hạng nhất, mạnh hơn gấp mười lần lũ gà mờ trong tu luyện quán của anh.\" Bành Hải cũng đứng dậy, chậm chạp hoạt động các khớp xương, từng bó cơ bắp như hàng vạn con rắn độc chạy trốn dưới lớp da trắng trẻo như ngọc, cực kỳ linh động."
+    },
+    {
+      "segment_id": "0003",
+      "source": "“那当然，人家专业嘛！你先去格斗室准备吧，别忘了用‘纹面符’，不要让人发现你的真实身份。”光头纹面男一边说着，推开门，走进力量训练房。",
+      "target": "\"Đương nhiên rồi, người ta là dân chuyên nghiệp mà! Cậu cứ đến phòng cách đấu chuẩn bị trước đi, đừng quên dùng 'Văn Diện Phù', đừng để người ta phát hiện thân phận thật của cậu.\" Gã đầu trọc xăm mặt vừa nói, vừa đẩy cửa bước vào phòng huấn luyện sức mạnh."
+    },
+    {
+      "segment_id": "0004",
+      "source": "打沙袋的壮汉对他道：“赵馆长，这位先生找你。”",
+      "target": "Gã lực lưỡng đang đấm bao cát nói với hắn: \"Triệu quán trưởng, vị tiên sinh này tìm anh.\""
+    },
+    {
+      "segment_id": "0005",
+      "source": "光头纹面男点了点头，扫了一眼李耀脸上的蜘蛛花纹，笑道：“来了？价钱什么的都清楚，没问题吧？”",
+      "target": "Gã đầu trọc xăm mặt gật đầu, liếc nhìn hoa văn con nhện trên mặt Lý Diệu, cười nói: \"Đến rồi à? Giá cả các thứ đều đã rõ rồi chứ, không có vấn đề gì chứ?\""
+    },
+    {
+      "segment_id": "0006",
+      "source": "“都清楚，没问题，咱们直接交易吧。”李耀冷冷说，装出一副经验丰富的老江湖模样。",
+      "target": "\"Đều rõ, không có vấn đề, chúng ta trực tiếp giao dịch đi.\" Lý Diệu lạnh lùng nói, làm ra vẻ lão giang hồ dày dạn kinh nghiệm."
+    },
+    {
+      "segment_id": "0007",
+      "source": "“那就好，跟我来。”光头纹面男在前面带路，穿过一条走廊，把李耀带到了一间百来个平方的格斗室。",
+      "target": "\"Vậy thì tốt, đi theo tôi.\" Gã đầu trọc xăm mặt dẫn đường phía trước, đi qua một hành lang, đưa Lý Diệu đến một phòng cách đấu rộng chừng trăm mét vuông."
+    },
+    {
+      "segment_id": "0008",
+      "source": "格斗室的环境比较简陋，四周的墙壁上挂满了厚实的草垫作为缓冲，地面直接就是粗糙的水泥地，大概是用的久了，坑坑洼洼，遍布着横七竖八的裂缝。",
+      "target": "Không gian phòng cách đấu khá đơn sơ, trên tường xung quanh treo đầy những tấm đệm rơm dày để làm vật đệm, mặt đất trực tiếp là nền xi măng thô ráp, có lẽ vì dùng lâu rồi nên lồi lõm, chằng chịt những vết nứt ngang dọc."
+    },
+    {
+      "segment_id": "0009",
+      "source": "光头纹面男从角落里捧出一件用九层牛皮缝制的防护服和全套护具，示意李耀穿上。",
+      "target": "Gã đầu trọc xăm mặt bưng ra từ trong góc một bộ đồ bảo hộ được may bằng chín lớp da bò và toàn bộ hộ cụ, ra hiệu cho Lý Diệu mặc vào."
+    },
+    {
+      "segment_id": "0010",
+      "source": "“大家都是圈里人，也不用我多啰嗦，反正只要你撑过三分钟，就能拿到一万块，不过若是撑不到三分钟，那就半毛钱没有——天哥说，你在不少武馆都干过，是金牌陪练，这些都是行规，没问题吧？”",
+      "target": "\"Mọi người đều là người trong giới, cũng không cần tôi nói nhiều, nói chung chỉ cần cậu trụ qua ba phút, là có thể lấy được một vạn tệ, nhưng nếu trụ không nổi ba phút, thì nửa xu cũng không có —— Anh Thiên nói, cậu từng làm ở không ít võ quán, là bồi luyện kim bài, đây đều là luật trong nghề, không có vấn đề gì chứ?\""
+    },
+    {
+      "segment_id": "0011",
+      "source": "“三分钟？金牌陪练？”李耀眨巴着眼睛，意识到对方认错人了。",
+      "target": "\"Ba phút? Bồi luyện kim bài?\" Lý Diệu chớp chớp mắt, nhận ra đối phương nhận nhầm người rồi."
+    },
+    {
+      "segment_id": "0012",
+      "source": "纹面符的花纹并不是随机的，总计一千三百多种样式，偶尔也会出现两个人脸上花纹相同的情况，被称为“撞脸”。",
+      "target": "Hoa văn của Văn Diện Phù không phải là ngẫu nhiên, tổng cộng có hơn một ngàn ba trăm kiểu dáng, thỉnh thoảng cũng sẽ xuất hiện tình huống hai người có hoa văn trên mặt giống nhau, được gọi là \"đụng hàng\"."
+    },
+    {
+      "segment_id": "0013",
+      "source": "这个老板大概在等另外一个脸上绘制着蜘蛛花纹的“金牌陪练”，却把自己误认成了对方。",
+      "target": "Vị ông chủ này có lẽ đang đợi một \"bồi luyện kim bài\" khác cũng vẽ hoa văn hình nhện trên mặt, nhưng lại nhận nhầm cậu thành đối phương."
+    },
+    {
+      "segment_id": "0014",
+      "source": "“不好意思——”李耀下意识就要解释，心中忽然一动。",
+      "target": "\"Ngại quá——\" Lý Diệu theo bản năng định giải thích, trong lòng chợt động."
+    },
+    {
+      "segment_id": "0015",
+      "source": "这位光头大叔刚才说什么来着？撑过三分钟，就能拿一万块？当陪练竟然这么赚钱？",
+      "target": "Vị đại thúc đầu trọc này ban nãy nói gì nhỉ? Trụ qua ba phút, là có thể lấy được một vạn tệ? Làm bồi luyện vậy mà kiếm tiền dễ thế sao?"
+    },
+    {
+      "segment_id": "0016",
+      "source": "李耀有些眼热了。",
+      "target": "Lý Diệu có chút đỏ mắt thèm thuồng."
+    },
+    {
+      "segment_id": "0017",
+      "source": "他在法宝坟墓里拼死拼活，辛辛苦苦一个月也才能赚万儿八千，虽然这一次痛宰了司佳雪一刀，赚了十万块，可这种肥羊也不是随便就能遇上的，眼下只要三分钟就能再赚一万块，足够多买十几支强化药剂，何乐而不为呢？",
+      "target": "Cậu liều sống liều chết trong nghĩa địa pháp bảo, vất vả cả tháng cũng chỉ kiếm được độ tám chín ngàn, một vạn, mặc dù lần này hung hăng chém Tư Giai Tuyết một nhát, kiếm được mười vạn tệ, nhưng con cừu béo như thế này đâu phải tùy tiện là gặp được, trước mắt chỉ cần ba phút là có thể kiếm thêm một vạn tệ, đủ để mua thêm mười mấy ống thuốc cường hóa, cớ sao lại không làm chứ?"
+    },
+    {
+      "segment_id": "0018",
+      "source": "自己的身体可是刚刚经过异变，和过去相比，抗击打能力有了大幅提升，称得上皮糙肉厚！",
+      "target": "Cơ thể mình dù sao cũng vừa mới trải qua dị biến, so với trước kia, khả năng chịu đòn đã tăng lên đáng kể, hoàn toàn có thể gọi là da dày thịt béo!"
+    },
+    {
+      "segment_id": "0019",
+      "source": "而会来这种档次的修炼馆里锻炼的会员，大多是业余级别，说不定刚刚下班，等会儿还要去买菜呢，能有多少力气？",
+      "target": "Mà những hội viên tới rèn luyện ở cái tu luyện quán cấp bậc này, đa số đều là dân nghiệp dư, nói không chừng vừa mới tan tầm, lát nữa còn phải đi mua thức ăn nữa, thì có thể có bao nhiêu sức lực chứ?"
+    },
+    {
+      "segment_id": "0020",
+      "source": "这么想着，李耀朝对面望去，差点没笑出声来。",
+      "target": "Nghĩ vậy, Lý Diệu nhìn về phía đối diện, suýt chút nữa bật cười thành tiếng."
+    },
+    {
+      "segment_id": "0021",
+      "source": "格斗室的角落里，站着一个身材高瘦的男人，裸露在外的上半身没多少肌肉，皮肤也显得有些惨白，此君脸上也施加了“纹面符”，红色和黑色的花纹交织成了一副笑眯眯的小丑模样。",
+      "target": "Trong góc phòng cách đấu, có một người đàn ông dáng người cao gầy đang đứng, nửa thân trên lộ ra bên ngoài chẳng có bao nhiêu cơ bắp, làn da cũng có vẻ hơi nhợt nhạt, trên mặt gã này cũng thi triển \"Văn Diện Phù\", những hoa văn màu đỏ và đen đan xen vào nhau tạo thành hình dạng một chú hề tủm tỉm cười."
+    },
+    {
+      "segment_id": "0022",
+      "source": "给人的感觉，这人普普通通，稀松平常，毫无半点高手的气势。",
+      "target": "Cảm giác mang lại cho người ta là, người này hết sức bình thường, nhạt nhòa, không có nửa điểm khí thế của cao thủ."
+    },
+    {
+      "segment_id": "0023",
+      "source": "令李耀忍俊不禁的是，他进来时，此君正在十分认真地热身，做的却是联邦最基础的“第五套健身体操”！",
+      "target": "Điều khiến Lý Diệu không nhịn được cười là, lúc cậu bước vào, gã này đang khởi động vô cùng nghiêm túc, nhưng bài tập gã đang làm lại là \"bài tập thể dục thứ năm\" cơ bản nhất của Liên bang!"
+    },
+    {
+      "segment_id": "0024",
+      "source": "这套健身体操，是联邦的修炼专家研发出来给普通人健身、放松用的，所有联邦公民从幼儿园就开始学习，根本谈不上是什么武技功法，就是最简单的活动手脚，舒展筋骨而已。",
+      "target": "Bài tập thể dục này là do các chuyên gia tu luyện của Liên bang nghiên cứu chế tạo ra để cho người bình thường rèn luyện sức khỏe, thư giãn, tất cả công dân Liên bang đều bắt đầu học từ lúc mẫu giáo, căn bản không nói lên được là công pháp võ kỹ gì, chỉ là hoạt động tay chân, giãn gân giãn cốt đơn giản nhất mà thôi."
+    },
+    {
+      "segment_id": "0025",
+      "source": "如今，经过一次次升级，已经发展出了动作复杂、略带武技套路的“第九套健身体操”，而十分简单的“第五套健身体操”，只有小学生还拿来当课间操做。",
+      "target": "Hiện nay, trải qua hết lần này đến lần khác nâng cấp, đã phát triển ra \"bài tập thể dục thứ chín\" với các động tác phức tạp, mang chút bài bản võ kỹ, còn \"bài tập thể dục thứ năm\" vô cùng đơn giản kia, chỉ còn học sinh tiểu học mới dùng làm bài thể dục giữa giờ mà thôi."
+    },
+    {
+      "segment_id": "0026",
+      "source": "明明是小学生的课间操，这个笑脸小丑却做得规规矩矩，一丝不苟，每一个动作都伸展到极限，就像是在修炼什么惊天动地的盖世神功。",
+      "target": "Rõ ràng là bài thể dục giữa giờ của học sinh tiểu học, tên hề mặt cười này lại làm rất quy củ, tỉ mỉ cẩn thận, mỗi một động tác đều vươn đến cực hạn, cứ như là đang tu luyện môn cái thế thần công kinh thiên động địa nào vậy."
+    },
+    {
+      "segment_id": "0027",
+      "source": "“这一万块简直像是白捡，如果不捡，老天爷都要拿雷劈我！”李耀心中狂叫。",
+      "target": "\"Một vạn tệ này quả thực giống như nhặt được miễn phí, nếu không nhặt, ông trời cũng sẽ lấy sét đánh chết mình mất!\" Lý Diệu gào thét trong lòng."
+    },
+    {
+      "segment_id": "0028",
+      "source": "光头纹身男把全套牛皮护具都披挂到他身上，皱眉道：“有什么问题？”",
+      "target": "Gã đầu trọc xăm mặt khoác trọn bộ hộ cụ bằng da bò lên người cậu, cau mày nói: \"Có vấn đề gì sao?\""
+    },
+    {
+      "segment_id": "0029",
+      "source": "“呃——”李耀沉吟片刻，问道，“我只能挨打？能不能还手？”",
+      "target": "\"Ờ...\" Lý Diệu trầm ngâm một lát, hỏi, \"Tôi chỉ có thể chịu đòn thôi sao? Có thể đánh trả không?\""
+    },
+    {
+      "segment_id": "0030",
+      "source": "光头纹身男一愣，表情似笑非笑，仿佛听到了世界上最幽默的笑话，他又从角落的一个装备箱里取来大把的铁制插板和强化陶瓷插片，插到牛皮护具表面的特殊口袋里。",
+      "target": "Gã đầu trọc xăm mặt sửng sốt, vẻ mặt như cười như không, dường như nghe được câu chuyện cười hài hước nhất trên thế giới, hắn lại lấy ra một đống những tấm ván sắt và những tấm gốm sứ cường hóa từ một hòm trang bị trong góc, nhét vào những chiếc túi đặc biệt trên bề mặt bộ hộ cụ da bò."
+    },
+    {
+      "segment_id": "0031",
+      "source": "这样，李耀身上就有了三重保护——强化陶瓷插片、铁制插板和九层牛皮。",
+      "target": "Cứ như vậy, trên người Lý Diệu đã có ba tầng bảo vệ —— tấm gốm sứ cường hóa, ván sắt và chín lớp da bò."
+    },
+    {
+      "segment_id": "0032",
+      "source": "光头纹身男道：“只要你高兴，尽管还手好啦，不过我劝你还是先全力以赴挡住他的攻击再说，好啦，你们慢慢玩，三分钟之后我再进来，希望——”",
+      "target": "Gã đầu trọc xăm mặt nói: \"Chỉ cần cậu thích, cứ việc đánh trả là được, có điều tôi khuyên cậu vẫn nên dốc toàn lực để cản lại công kích của hắn trước đã, được rồi, hai người cứ từ từ chơi đùa, ba phút sau tôi sẽ lại vào, hy vọng...\""
+    },
+    {
+      "segment_id": "0033",
+      "source": "他收住了话头，用一种“一切尽在不言中”的眼神看了李耀一眼，在他肩膀上不轻不重地拍了一下，退出格斗室，关上了门。",
+      "target": "Hắn dừng lời, dùng một ánh mắt \"mọi điều không nói cũng hiểu\" nhìn Lý Diệu một cái, vỗ không nhẹ không mạnh lên vai cậu một cái, lùi ra khỏi phòng cách đấu, đóng cửa lại."
+    },
+    {
+      "segment_id": "0034",
+      "source": "“真是业余级别的修炼馆，不过是三分钟的格斗训练而已，有必要穿得这么严严实实吗？”李耀试着跳了两下，又抡了一套王八拳，感知着护具对身体的影响。",
+      "target": "\"Đúng là tu luyện quán cấp nghiệp dư, chẳng qua chỉ là huấn luyện cách đấu ba phút mà thôi, có cần thiết phải mặc kín mít như vậy không?\" Lý Diệu thử nhảy hai cái, lại vung vẩy một bộ Vương Bát quyền, cảm nhận ảnh hưởng của bộ hộ cụ đối với cơ thể."
+    },
+    {
+      "segment_id": "0035",
+      "source": "他发现这套护具制作得十分精巧，虽然加装了铁板和强化陶瓷插片之后重达数十斤，却没有影响四肢的活动，除了把他的速度稍稍降低一些之外，并不影响进攻和招架的能力。",
+      "target": "Cậu phát hiện bộ hộ cụ này được chế tạo rất tinh xảo, mặc dù sau khi gắn thêm ván sắt và tấm gốm sứ cường hóa thì nặng đến mấy chục cân, nhưng lại không hề ảnh hưởng đến hoạt động của tứ chi, ngoài việc khiến tốc độ của cậu hơi giảm xuống một chút ra, hoàn toàn không ảnh hưởng đến khả năng tấn công và chống đỡ."
+    },
+    {
+      "segment_id": "0036",
+      "source": "而他的对手还在慢条斯理地热身，刚刚从第四节“伸展运动”做到第六节“扩胸运动”，如果李耀没有记错，后面还有五个小节呢！",
+      "target": "Mà đối thủ của cậu vẫn đang chậm rãi khởi động, vừa mới tập từ động tác thứ tư \"động tác vươn vai\" đến động tác thứ sáu \"động tác vươn ngực\", nếu Lý Diệu nhớ không lầm, phía sau vẫn còn năm động tác nhỏ nữa cơ!"
+    },
+    {
+      "segment_id": "0037",
+      "source": "“这位大哥，从我进来你就在热身，难道一定要把全套健身操都做完？要不要这么认真？”李耀忍不住道。",
+      "target": "\"Vị đại ca này, từ lúc tôi vào là anh đã đang khởi động rồi, chẳng lẽ nhất định phải tập xong toàn bộ bài thể dục mới được sao? Có cần phải nghiêm túc như vậy không?\" Lý Diệu không nhịn được nói."
+    },
+    {
+      "segment_id": "0038",
+      "source": "笑脸小丑正保持在跨步开弓，胸膛张开的状态，听了这话，也不继续动作，慢吞吞地说：“你不需要热一下身吗？”",
+      "target": "Tên hề mặt cười đang duy trì ở tư thế sải bước giương cung, lồng ngực mở rộng, nghe thấy lời này, liền không tiếp tục cử động nữa, chậm chạp nói: \"Cậu không cần khởi động một chút sao?\""
+    },
+    {
+      "segment_id": "0039",
+      "source": "“不用了，真正的战场上，哪有那么多时间给你热身！”李耀有些不耐烦地说，他在法宝坟墓中挣扎求生，从来都是说打就打，说跑就跑，肥龙、野狼……这些王八蛋，谁会给他时间热身？",
+      "target": "\"Không cần đâu, trên chiến trường thực sự, làm gì có nhiều thời gian cho anh khởi động như vậy!\" Lý Diệu hơi mất kiên nhẫn nói, cậu vùng vẫy cầu sinh trong nghĩa địa pháp bảo, xưa nay luôn là nói đánh là đánh, nói chạy là chạy, Phì Long, Dã Lang... những tên khốn kiếp này, ai sẽ cho cậu thời gian khởi động chứ?"
+    },
+    {
+      "segment_id": "0040",
+      "source": "笑脸小丑歪着脑袋，轻轻“咦”了一声，似乎没料到李耀能说出这么有道理的话，思索片刻，点头道：“你说的对，准备好了，三分钟——计时开始！”",
+      "target": "Tên hề mặt cười nghiêng đầu, nhẹ nhàng \"Ồ\" một tiếng, dường như không ngờ Lý Diệu có thể nói ra câu chí lý như vậy, suy tư chốc lát, gật đầu nói: \"Cậu nói đúng, chuẩn bị xong chưa, ba phút —— bắt đầu tính giờ!\""
+    },
+    {
+      "segment_id": "0041",
+      "source": "“唰！”",
+      "target": "\"Vèo!\""
+    },
+    {
+      "segment_id": "0042",
+      "source": "几乎在“开始”二字还未传到李耀耳朵里时，一道刺耳的破风声就贯穿了他的耳膜，前一刹那笑脸小丑还在十几米外箭步开弓做着扩胸运动，下一刹那却彻底消失！",
+      "target": "Gần như ngay khi hai chữ \"bắt đầu\" còn chưa truyền đến tai Lý Diệu, một tiếng xé gió chói tai đã xuyên thủng màng nhĩ của cậu, khoảnh khắc trước tên hề mặt cười vẫn còn ở cách xa mười mấy mét bước chân giương cung làm động tác vươn ngực, khoảnh khắc tiếp theo đã hoàn toàn biến mất!"
+    },
+    {
+      "segment_id": "0043",
+      "source": "李耀根本无法看穿笑脸小丑的运动轨迹，只感觉到整个胸口都传来针扎般的刺痛，似乎有一只无形的手在瞬间洞穿了三重防护，直插胸膛，狠狠攥住了他的心脏！",
+      "target": "Lý Diệu căn bản không thể nhìn thấu quỹ đạo di chuyển của tên hề mặt cười, chỉ cảm thấy toàn bộ trước ngực đều truyền đến cơn đau nhói như kim đâm, dường như có một bàn tay vô hình ngay lập tức xuyên thủng ba tầng phòng hộ, cắm thẳng vào lồng ngực, hung hăng tóm chặt lấy trái tim cậu!"
+    },
+    {
+      "segment_id": "0044",
+      "source": "“——什么鬼！”",
+      "target": "\"——Cái quỷ gì vậy!\""
+    }
+  ]
+}
+```

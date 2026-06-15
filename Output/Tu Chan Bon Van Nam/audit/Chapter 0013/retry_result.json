@@ -1,0 +1,275 @@
+Here is the corrected translation with the CJK leftovers (including Chinese double-angle book brackets `《` / `》`, double em-dashes `——`, and double ellipses `……`) resolved into standard Vietnamese punctuation, along with minor typo corrections (e.g., `Đúg` corrected to `Đúng` in segment 0051).
+
+```json
+{
+  "chapter_number": 13,
+  "chapter_title_vi": "Chương 13: Ngạ quỷ đầu thai",
+  "segments": [
+    {
+      "segment_id": "0001",
+      "source": "# 第13章 饿鬼投胎",
+      "target": "# Chương 13: Ngạ quỷ đầu thai"
+    },
+    {
+      "segment_id": "0002",
+      "source": "李耀像个陡然而富的暴发户，兴奋到了极点，满脑子都是各种不堪入目的**画面，一把撩开被子跳下床来，冷不防两腿一软，“啪嗒”摔了个四仰八叉，只觉四肢空空荡荡，提不起半丝力量，仿佛贼去楼空，连门都给他卸掉了！",
+      "target": "Lý Diệu giống như một tên nhà giàu mới nổi đột ngột phát tài, hưng phấn đến cực điểm, trong đầu toàn là những cảnh tượng không đứng đắn, hắn liền tung chăn nhảy xuống giường. Không ngờ hai chân vừa tiếp đất đã nhũn ra, 'bạch' một tiếng ngã chổng vó, chỉ cảm thấy tứ chi trống rỗng, không nhấc nổi nửa phần sức lực, như thể trộm đột nhập dọn sạch nhà, đến cả cánh cửa cũng bị dỡ đi mất!"
+    },
+    {
+      "segment_id": "0003",
+      "source": "黑翼剑听到声音，从外屋飞了进来，急得吱吱乱叫，“嗖”一声，又飞出去，捧来一面洗脸镜，往李耀身上一照。",
+      "target": "Hắc Dực Kiếm nghe thấy tiếng động liền từ phòng ngoài bay vào, cuống cuồng kêu chí chí, 'vút' một tiếng lại bay ra ngoài, mang về một chiếc gương soi mặt, soi lên người Lý Diệu."
+    },
+    {
+      "segment_id": "0004",
+      "source": "“怎么会这样！”李耀大吃一惊。",
+      "target": "“Sao lại thế này!” Lý Diệu kinh hãi."
+    },
+    {
+      "segment_id": "0005",
+      "source": "he像是在大沙漠中苟延残喘了好几个月，瘦得皮包骨头，光是一对深陷的眼窝就占据了半张脸，浑身上下根本没半两肉，淡紫色的血管有气无力地耷拉在骨架上，如同晒干的蚯蚓，皮肤都变成了灰色，活脱脱一具僵尸。",
+      "target": "Hắn trông giống như kẻ thoi thóp lết trong đại sa mạc suốt mấy tháng trời, gầy trơ xương, chỉ riêng đôi hốc mắt trũng sâu đã chiếm mất nửa khuôn mặt, khắp người chẳng có nổi nửa lạng thịt. Những mạch máu màu tím nhạt uể oải bám dọc trên khung xương trông như mấy con giun đất phơi khô, làn da chuyển sang màu xám xịt, chẳng khác nào một con cương thi sống."
+    },
+    {
+      "segment_id": "0006",
+      "source": "这一惊不要紧，敏锐的五感、超卓的记忆力、晶脑般的计算分析能力，都在瞬间烟消云散，李耀几乎被打回原形，只比过去提升了一点点。",
+      "target": "Cơn kinh hoàng này lập tức khiến năm giác quan nhạy bén, trí nhớ siêu phàm cùng khả năng tính toán phân tích như tinh não của hắn tan biến sạch sẽ trong nháy mắt. Lý Diệu gần như bị đánh trở lại nguyên hình, chỉ tốt hơn trước kia một chút."
+    },
+    {
+      "segment_id": "0007",
+      "source": "几乎同时， his的胃里好似塞了一团火，一团不断爆炸蔓延的火！",
+      "target": "Gần như cùng lúc đó, trong dạ dày hắn như thể bị nhét một ngọn lửa, một ngọn lửa liên tục bùng nổ và lan rộng!"
+    },
+    {
+      "segment_id": "0008",
+      "source": "李耀仿佛听到周身上下每一个细胞，都在凄厉地嚎叫：“饿啊！饿啊！饿啊！”",
+      "target": "Lý Diệu dường như nghe thấy từng tế bào trên khắp cơ thể mình đang gào thét thảm thiết: “Đói quá! Đói quá! Đói quá!”"
+    },
+    {
+      "segment_id": "0009",
+      "source": "甚至连脑域深处的万千神念，都饿到极致，互相吞噬起来！",
+      "target": "Ngay cả vạn ngàn thần niệm trong sâu thẳm não vực cũng đói đến cực điểm, bắt đầu cắn nuốt lẫn nhau!"
+    },
+    {
+      "segment_id": "0010",
+      "source": "“快，小黑，快给我吃的！”",
+      "target": "“Nhanh, Tiểu Hắc, mau kiếm đồ ăn cho ta!”"
+    },
+    {
+      "segment_id": "0011",
+      "source": "李耀从来没想到饿到极点，会像毒瘾发作一样难受，他满地打滚，冲黑翼剑大叫起来。",
+      "target": "Lý Diệu chưa bao giờ nghĩ rằng đói đến cực hạn lại khó chịu như lên cơn nghiện, hắn lăn lộn trên mặt đất, hét lớn với Hắc Dực Kiếm."
+    },
+    {
+      "segment_id": "0012",
+      "source": "黑翼剑“吱吱”叫了两声，不满主人的态度，却还是飞到外屋，很快拎回来两罐五斤装的“星空巨兽”肉罐头。",
+      "target": "Hắc Dực Kiếm “chí chí” hai tiếng tỏ vẻ không hài lòng with thái độ của chủ nhân, nhưng vẫn bay ra phòng ngoài, nhanh chóng xách về hai hộp thịt đóng hộp “Tinh Không Cự Thú” loại năm cân."
+    },
+    {
+      "segment_id": "0013",
+      "source": "这“星空巨兽”名字听起来十分高档奢华霸气，实际上却是修真宗派用秘药调制，将普通的肉猪和大笨象杂交，在三个月时间里催生成的重达十吨的人造肉畜，属于速生品，制成的罐头非常油腻，口感极差，普通市民阶层都很少买来吃。",
+      "target": "Cái tên “Tinh Không Cự Thú” này nghe thì có vẻ cực kỳ cao cấp, xa hoa và bá đạo, nhưng thực chất lại là loại gia súc nhân tạo nặng tới mười tấn được các tông phái tu chân dùng bí dược điều chế, lai giữa heo thịt thông thường và voi lớn, thúc lớn chỉ trong vòng ba tháng. Đây là loại thực phẩm tăng trưởng nhanh, thịt hộp làm ra vô cùng ngấy, hương vị cực kỳ tệ, ngay cả tầng lớp thường dân cũng rất hiếm khi mua ăn."
+    },
+    {
+      "segment_id": "0014",
+      "source": "不过这种混合了骨头和下水的肉罐头售价便宜，十五块钱就能买到一大罐整整五斤，算是贫民阶层难得的美食，也是李耀平素主要的肉食来源，家里随时储藏了三五十罐。",
+      "target": "Tuy nhiên, loại thịt hộp pha lẫn xương và nội tạng này có giá bán rất rẻ, chỉ mười lăm đồng là có thể mua được một hộp lớn nặng tới năm cân, được coi là món ngon hiếm có của tầng lớp nghèo khó, cũng là nguồn cung cấp thịt chủ yếu thường ngày của Lý Diệu, trong nhà lúc nào cũng trữ sẵn ba năm chục hộp."
+    },
+    {
+      "segment_id": "0015",
+      "source": "此刻，李耀见了星空巨兽肉罐头，就像是饿了三天的野狼见到剥洗干净撒上香料的羊羔，眼冒红光，喉咙里发出“呼噜呼噜”的声响，不知哪儿生出一股力气，整个人跳了起来，将一听肉罐头抱在怀里，张开血盆大口，不顾三七二十一啃了过去。",
+      "target": "Lúc này, Lý Diệu nhìn thấy hộp thịt Tinh Không Cự Thú, giống như con sói đói ba ngày nhìn thấy chú cừu non đã được làm sạch rắc đầy gia vị, mắt lóe lên tia sáng đỏ, trong cổ họng phát ra tiếng “ùng ục”, không biết từ đâu sinh ra một luồng sức mạnh, cả người hắn nhảy dựng lên, ôm chặt lấy một hộp thịt vào lòng, ngoác cái miệng to như chậu máu, chẳng thèm quan tâm ba bảy hai mốt gì nữa mà ngấu nghiến gặm tới tấp."
+    },
+    {
+      "segment_id": "0016",
+      "source": "“咔嚓咔嚓！咔嚓咔嚓！”牙齿碰撞的声音，就像两台绞肉机互相撞击，锯齿间撞出火星。",
+      "target": "“Răng rắc! Răng rắc!” Tiếng răng va đập tựa như hai chiếc máy xay thịt va chạm, bắn ra cả tia lửa giữa những kẽ răng."
+    },
+    {
+      "segment_id": "0017",
+      "source": "星空巨兽肉罐头，极咸、极腥、极油腻，平时李耀就着薄薄一小片，能扒下三大碗白米饭，这会儿，他却像是吃到了世间罕有的珍馐佳肴，如饕餮附体，狼吞虎咽，一分钟就吞完了整整一听五斤装的肉罐头。",
+      "target": "Thịt hộp Tinh Không Cự Thú cực mặn, cực tanh và vô cùng ngấy, bình thường Lý Diệu chỉ cần ăn kèm một lát mỏng dính là có thể lùa sạch ba bát cơm trắng lớn. Thế nhưng lúc này, hắn lại giống như đang ăn món sơn hào hải vị hiếm có trên đời, như Thao Thiết nhập thể, ngốn ngấu ngồm ngoàm, chỉ trong một phút ngắn ngủi đã nuốt trọn cả hộp thịt đóng hộp nặng năm cân."
+    },
+    {
+      "segment_id": "0018",
+      "source": "唇齿间一片麻木，腹腔中却是鼓胀无比，星空巨兽肉罐头高度压缩，遇水膨胀，最多能膨胀十几倍大小。",
+      "target": "Môi răng đã hoàn toàn tê dại, nhưng trong khoang bụng lại căng phồng vô cùng, thịt hộp Tinh Không Cự Thú được nén ở mật độ cao, khi gặp nước sẽ trương lên, tối đa có thể phình to gấp mười mấy lần."
+    },
+    {
+      "segment_id": "0019",
+      "source": "李耀脑域深处，念头一动，跳出一副画面，是在南柯一梦中，百炼宗低级杂役总教头“巨灵神”的一段话：",
+      "target": "Trong sâu thẳm não vực của Lý Diệu, vừa động ý niệm, một hình ảnh liền hiện ra, đó là một đoạn lời nói của Tổng giáo đầu tạp dịch cấp thấp “Cự Linh Thần” của Bách Luyện Tông trong giấc mộng Nam Kha:"
+    },
+    {
+      "segment_id": "0020",
+      "source": "“吸星吞月，辟谷修真，直接吞噬天地灵能——那是高阶修士才能运用的玄妙法门，不是你们这些废物能够尝试的！”",
+      "target": "“Hấp tinh thôn nguyệt, tịch cốc tu chân, trực tiếp nuốt chửng linh năng trời đất – đó là pháp môn huyền diệu chỉ có tu sĩ cấp cao mới có thể vận dụng, không phải thứ đám phế vật các ngươi có thể thử!”"
+    },
+    {
+      "segment_id": "0021",
+      "source": "“对你们这些废物来说，食物就是唯一的灵能来源，一切修炼的基础，就是一个‘吃’字，学会‘吃饭’，是成为修真者的第一步！”",
+      "target": "“Đối với đám phế vật các ngươi mà nói, thức ăn chính là nguồn linh năng duy nhất, cơ sở của mọi sự tu luyện chỉ nằm ở một chữ 'Ăn', học được cách 'ăn cơm' chính là bước đầu tiên để trở thành tu chân giả!”"
+    },
+    {
+      "segment_id": "0022",
+      "source": "“下面，我会传授给你们《鲸吞大法》，这是专门教你们怎么吃饭的功法，能够帮你们鲸吞海塞，吸收食物中蕴藏的能量！”",
+      "target": "“Sau đây, ta sẽ truyền thụ cho các ngươi “Kinh Thôn Đại Pháp”, đây là công pháp chuyên dạy các ngươi cách ăn cơm, có thể giúp các ngươi ăn thùng uống vại, hấp thụ năng lượng ẩn chứa trong thức ăn!”"
+    },
+    {
+      "segment_id": "0023",
+      "source": "“修炼到极致时，肠胃蠕动能力提升百倍，可以日吞兽肉八百斤，连最坚固的灵兽头骨都碾成粉末，完全吸收，转化成最基本的灵能，瞬间充盈四肢百骸，令人血脉贲张，力大无穷！”",
+      "target": "“Khi tu luyện tới cực hạn, khả năng nhu động của dạ dày và đường ruột tăng lên gấp trăm lần, một ngày có thể nuốt chửng tám trăm cân thịt thú, ngay cả xương sọ linh thú cứng nhất cũng bị nghiền thành bột mịn, hấp thụ hoàn toàn, chuyển hóa thành linh năng cơ bản nhất, trong nháy mắt tràn ngập bốn chi bách hài, khiến huyết mạch sục sôi, sức mạnh vô song!”"
+    },
+    {
+      "segment_id": "0024",
+      "source": "“记住，《一百零八手披风乱锤法》修炼不到家，尚有一丝补救余地，可是这门《鲸吞大法》要是练不好，永远是凡人一个，不要想踏上修真之路！”",
+      "target": "“Hãy nhớ kỹ, “Một trăm lẻ tám tay Phi Phong Loạn Chùy Pháp” tu luyện chưa tới nơi tới chốn thì vẫn còn một tia hy vọng cứu vãn, nhưng nếu không luyện tốt môn “Kinh Thôn Đại Pháp” này thì vĩnh viễn chỉ là một kẻ phàm nhân, đừng mơ bước lên con đường tu chân!”"
+    },
+    {
+      "segment_id": "0025",
+      "source": "“欧冶明，你先给老子上来，把这两百斤臭鱼统统吃下去，老子先教 you这门百炼宗镇山秘法《鲸吞大法》！”",
+      "target": "“Âu Dã Minh, ngươi lên đây trước cho lão tử, ăn hết hai trăm cân cá thối này cho ta, lão tử sẽ dạy ngươi môn trấn sơn bí pháp “Kinh Thôn Đại Pháp” của Bách Luyện Tông này trước!”"
+    },
+    {
+      "segment_id": "0026",
+      "source": "……",
+      "target": "…"
+    },
+    {
+      "segment_id": "0027",
+      "source": "李耀的双眼忽然瞪得圆鼓鼓的，从 his的腹腔中，传来“轰隆轰隆”的声音，似乎有一部强劲的机器骤然发动！",
+      "target": "Hai mắt Lý Diệu bỗng nhiên trợn tròn xoe, từ trong bụng truyền ra tiếng “ầm ầm” vang dội, tựa như có một cỗ máy mạnh mẽ đột nhiên khởi động!"
+    },
+    {
+      "segment_id": "0028",
+      "source": "一瞬间， his肚子里，就像是有好几头怪兽乱窜，腹部的皮肤被拉伸到近乎透明！",
+      "target": "Trong thoáng chốc, trong bụng hắn giống như có mấy con quái thú đang chạy loạn, lớp da bụng bị kéo căng đến mức gần như trong suốt!"
+    },
+    {
+      "segment_id": "0029",
+      "source": "他的胃肠道正在以超越常人几十倍的效率高速蠕动，将星空巨兽肉飞快地消化、分解，转化成最基础的能量，源源不断供给到干涸的四肢百骸，奇经八脉之中！",
+      "target": "Dạ dày và đường ruột của hắn đang co bóp với tốc độ và hiệu suất vượt trội người thường gấp mấy chục lần, nhanh chóng tiêu hóa, phân giải thịt Tinh Không Cự Thú, chuyển hóa thành năng lượng cơ bản nhất, liên tục không ngừng cung cấp cho tứ chi bách hài và kỳ kinh bát mạch đang khô hạn!"
+    },
+    {
+      "segment_id": "0030",
+      "source": "星空巨兽肉遇水膨胀的速度，怎么都比不过消化吸收的速度，凸起的腹部很快平复下去，甚至又重新凹陷。",
+      "target": "Tốc độ trương nở khi gặp nước của thịt Tinh Không Cự Thú hoàn toàn không thể bắt kịp tốc độ tiêu hóa hấp thụ, phần bụng nhô lên nhanh chóng xẹp xuống, thậm chí còn hóp lại lần nữa."
+    },
+    {
+      "segment_id": "0031",
+      "source": "“不行，还是饿，快，再来一罐！”",
+      "target": "“Không được, vẫn đói quá, nhanh lên, cho ta một hộp nữa!”"
+    },
+    {
+      "segment_id": "0032",
+      "source": "李耀吃得口滑，三两口将第二罐星空巨兽肉罐头啃了个一干二净，兀自不满足，拍着地板让黑翼剑继续拿肉。",
+      "target": "Lý Diệu đang đà ngon miệng, chỉ loáng cái đã ăn sạch bách hộp thịt Tinh Không Cự Thú thứ hai, thế nhưng vẫn chưa thỏa mãn, vỗ bồm bộp xuống sàn nhà giục Hắc Dực Kiếm tiếp tục lấy thịt."
+    },
+    {
+      "segment_id": "0033",
+      "source": "三罐，五罐，二十罐……",
+      "target": "Ba hộp, năm hộp, hai mươi hộp…"
+    },
+    {
+      "segment_id": "0034",
+      "source": "短短一个钟头，他黏皮带骨吞下了整整三十一听星空巨兽肉罐头，喝光了满满一桶饮用水，把家里的存货都吃干抹净，这才意犹未尽地打了个饱嗝。",
+      "target": "Chỉ trong vòng một tiếng ngắn ngủi, hắn đã nuốt sạch sành sanh ba mươi mốt hộp thịt Tinh Không Cự Thú, uống cạn một bình nước lọc lớn, quét sạch đống hàng dự trữ trong nhà, lúc này mới đánh một cái ợ no nê đầy vẻ thèm thuồng chưa thỏa."
+    },
+    {
+      "segment_id": "0035",
+      "source": "“吱吱，吱吱？”",
+      "target": "“Chí chí, chí chí?”"
+    },
+    {
+      "segment_id": "0036",
+      "source": "黑翼剑有些担忧地看着主人——它从来没见过这么疯狂吃星空巨兽肉罐头的人，不知道主人出了什么毛病，不由关切询问。",
+      "target": "Hắc Dực Kiếm lo lắng nhìn chủ nhân – nó chưa từng thấy ai ăn thịt hộp Tinh Không Cự Thú điên cuồng đến thế, không biết chủ nhân gặp phải vấn đề gì nên cất tiếng hỏi han đầy quan thiết."
+    },
+    {
+      "segment_id": "0037",
+      "source": "李耀砸吧着嘴，用舌头剔出一缕肉丝，细细回味着：“我好像还没吃饱，还能再吃三五罐。”",
+      "target": "Lý Diệu chép chép miệng, dùng lưỡi khều ra một sợi thịt nhỏ, nhấm nháp dư vị: “Hình như ta vẫn chưa no hẳn, vẫn có thể ăn thêm ba năm hộp nữa.”"
+    },
+    {
+      "segment_id": "0038",
+      "source": "“……”黑翼剑一阵无语，如果它有眼睛，此刻一定大翻白眼。",
+      "target": "“…” Hắc Dực Kiếm câm nín, nếu nó có mắt thì lúc này chắc chắn đã trợn ngược lên rồi."
+    },
+    {
+      "segment_id": "0039",
+      "source": "“总算，又活过来了！”李耀十分满足地舒了一口气，握紧拳头，仔细打量自己的手臂，体会着骨髓深处涌动的力量。",
+      "target": "“Cuối cùng cũng sống lại rồi!” Lý Diệu thở phào nhẹ nhõm đầy mãn nguyện, hắn siết chặt nắm đấm, chăm chú nhìn cánh tay mình, cảm nhận sức mạnh cuộn trào từ tận sâu trong xương tủy."
+    },
+    {
+      "segment_id": "0040",
+      "source": "随着一听听星空巨兽肉罐头嗑下去，在《鲸吞大法》的疯狂消化吸收下， his的身体也发生了翻天覆地的变化。",
+      "target": "Cùng với việc từng hộp thịt Tinh Không Cự Thú được tống vào bụng, dưới sự tiêu hóa và hấp thụ điên cuồng của “Kinh Thôn Đại Pháp”, cơ thể hắn cũng xảy ra những biến hóa nghiêng trời lệch đất."
+    },
+    {
+      "segment_id": "0041",
+      "source": "兽肉转化成了最纯粹的灵能，有了丰沛灵能的浸润，干涸的血管重新充盈，枯萎的肌肉再度鼓胀，骨骼如同钢筋，变得异常坚韧。",
+      "target": "Thịt thú chuyển hóa thành nguồn linh năng tinh thuần nhất. Dưới sự thấm đẫm của linh năng dồi dào, những huyết quản khô cạn được lấp đầy trở lại, cơ bắp héo úa một lần nữa căng phồng, xương cốt như được đúc bằng thép, trở nên vô cùng dẻo dai và kiên cố."
+    },
+    {
+      "segment_id": "0042",
+      "source": "在镜子里， his的脸色仍旧有些灰黄，和以前比起来，身形也略显瘦弱，但是在黯淡的皮肤下面，却隐藏着紧实的肌肉，稍稍一用力就突显出来，如同一股股粗大的钢索。",
+      "target": "Trong gương, sắc mặt hắn vẫn có chút xám vàng, vóc dáng so với trước đây cũng hơi gầy gò, nhưng dưới làn da xỉn màu lại ẩn chứa những khối cơ bắp săn chắc, chỉ cần khẽ gồng lên là lập tức nổi lên cuồn cuộn, như những sợi cáp thép thô to."
+    },
+    {
+      "segment_id": "0043",
+      "source": "李耀攥紧拳头，往胸肌上不轻不重锤了两拳，发出沉闷的声响，胸口如同垫了七八层晒干的皮革，根本感觉不到痛楚。",
+      "target": "Lý Diệu siết chặt nắm đấm, nện thử hai cú không nhẹ không nặng vào cơ ngực mình, phát ra những tiếng trầm đục. Ngực hắn như thể được lót bảy tám lớp da khô, hoàn toàn không cảm nhận được chút đau đớn nào."
+    },
+    {
+      "segment_id": "0044",
+      "source": "“嗖！嗖！” arms一甩，随意刺出七八拳，虚空中顿时出现三五道残影，发出拳风破空之声。",
+      "target": "“Vút! Vút!” Cánh tay vung lên, hắn tùy ý tung ra bảy tám quyền, trong hư không lập tức hiện lên ba năm đạo tàn ảnh, kèm theo tiếng quyền phong rít lên xé gió."
+    },
+    {
+      "segment_id": "0045",
+      "source": "“拳力起码增强了15%，拳速至少提升了20%，《鲸吞大法》果然是一个字——真他娘的霸道！”",
+      "target": "“Lực đấm tăng ít nhất 15%, tốc độ ra quyền tăng tối thiểu 20%, “Kinh Thôn Đại Pháp” quả nhiên chỉ có một từ – thật mẹ nó bá đạo!”"
+    },
+    {
+      "segment_id": "0046",
+      "source": "意识到南柯一梦中的记忆碎片，竟然能在现实世界中应用，李耀不由欣喜若狂，犹如捡到了天降横财的流浪汉。",
+      "target": "Nhận ra những mảnh vỡ ký ức trong giấc mộng Nam Kha lại có thể ứng dụng được ở thế giới hiện thực, Lý Diệu không khỏi mừng rỡ phát điên, hệt như một gã lang thang nhặt được khoản hoành tài từ trên trời rơi xuống."
+    },
+    {
+      "segment_id": "0047",
+      "source": "不过，当 he有意识去回忆梦中欧冶子遗留的庞大记忆库时，却发现和所有梦境一样，前一秒还清晰无比的记忆，下一秒就变得朦朦胧胧，斑斑驳驳，无法利用。",
+      "target": "Thế nhưng, khi hắn có ý thức hồi tưởng lại kho ký ức khổng lồ do Âu Dã Tử để lại trong giấc mộng, lại phát hiện nó cũng giống như mọi giấc mơ khác, giây trước còn rõ mồn một, giây sau đã trở nên mơ hồ loang lổ, không cách nào khai thác được."
+    },
+    {
+      "segment_id": "0048",
+      "source": "“如果有办法回想起梦境的每一个细节就好了，哪怕只是被我偷学到欧冶子这老小子一成本事，成为联邦第一炼器大师，都是易如反掌！到时候我就金山银海，香车美女，受万人敬仰，成为风靡亿万青少年的偶像人物……”",
+      "target": "“Nếu có cách nào nhớ lại được mọi chi tiết trong giấc mơ thì tốt biết mấy. Chỉ cần ta học lỏm được một thành bản lĩnh của lão già Âu Dã Tử này, việc trở thành đại sư luyện khí số một Liên bang cũng dễ như trở bàn tay! Đến lúc đó ta sẽ có núi vàng núi bạc, xe sang mỹ nữ, được vạn người kính ngưỡng, trở thành thần tượng làm điên đảo hàng trăm triệu thanh thiếu niên...”"
+    },
+    {
+      "segment_id": "0049",
+      "source": "李耀嘿嘿奸笑，尽情畅想。",
+      "target": "Lý Diệu cười hắc hắc đầy gian xảo, thỏa sức mơ tưởng."
+    },
+    {
+      "segment_id": "0050",
+      "source": "黑翼剑十分不屑地冷哼一声，扭着剑柄飞走了。",
+      "target": "Hắc Dực Kiếm khinh bỉ hừ lạnh một tiếng, lắc lư chuôi kiếm bay đi mất."
+    },
+    {
+      "segment_id": "0051",
+      "source": "就在这时，晶脑忽然发出“滴滴”一声响，光幕右下方飞出一只虚拟纸鹤，绕着李耀的脑袋飞了三圈，“啪”一声爆开，化作一条冷冰冰的信息：",
+      "target": "Đúng lúc này, tinh não đột nhiên phát ra một tiếng “tít tít”, một cánh hạc giấy ảo bay ra từ góc dưới bên phải quang mạc, lượn quanh đầu Lý Diệu ba vòng, “bốp” một tiếng nổ bung, hóa thành một dòng tin nhắn lạnh lùng:"
+    },
+    {
+      "segment_id": "0052",
+      "source": "“你今天没来学校？”",
+      "target": "“Hôm nay cậu không đến trường sao?”"
+    },
+    {
+      "segment_id": "0053",
+      "source": "后面还跟着一个圆滚滚的黄色小人，小人眉毛倒竖，满脸质疑，是司佳雪。",
+      "target": "Phía sau còn kèm theo một hình người nhỏ màu vàng tròn xoe, đôi lông mày dựng ngược, khuôn mặt đầy vẻ chất vấn, chính là Tư Giai Tuyết."
+    }
+  ]
+}
+```

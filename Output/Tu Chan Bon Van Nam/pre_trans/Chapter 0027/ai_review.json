@@ -1,0 +1,17 @@
+```json
+{
+  "approved": [
+    "战兽十三势"
+  ],
+  "rejected": [
+    "中威力最强的"
+  ],
+  "uncertain": []
+}
+```
+
+### Explanation:
+*   **Approved**: 
+    *   `战兽十三势` (Thirteen War Beast Postures / Stances): This is a distinct proper noun, likely a specific martial arts technique or skill name, making it an excellent candidate for a glossary term to maintain consistency.
+*   **Rejected**: 
+    *   `中威力最强的` (the most powerful among...): This is a common descriptive phrase rather than a specific proper noun or terminology. Including it in a glossary might lead to awkward or rigid translations when context requires flexibility.

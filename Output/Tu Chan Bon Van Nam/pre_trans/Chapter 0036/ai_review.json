@@ -1,0 +1,21 @@
+{
+  "names": {
+    "approved": [
+      {
+        "source": "孙彪",
+        "target": "Tôn Bưu",
+        "type": "person",
+        "description": "Tên người"
+      },
+      {
+        "source": "李耀",
+        "target": "Lý Diệu",
+        "type": "person",
+        "description": "Tên người"
+      }
+    ]
+  },
+  "terms": {
+    "approved": []
+  }
+}

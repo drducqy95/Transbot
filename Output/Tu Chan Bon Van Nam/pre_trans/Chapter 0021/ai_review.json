@@ -1,0 +1,25 @@
+```json
+{
+  "approved": {
+    "names": [],
+    "terms": []
+  },
+  "rejected": {
+    "names": [],
+    "terms": [
+      {
+        "term": "一百零八手披",
+        "reason": "Truncated term. It is highly likely cut off from a longer term like '一百零八手披风乱锤法' (a martial arts technique/skill name)."
+      },
+      {
+        "term": "的画面再度凝",
+        "reason": "Sentence fragment and not a valid standalone term. It is likely truncated from something like '的画面再度凝固' (the picture/scene froze again)."
+      }
+    ]
+  },
+  "uncertain": {
+    "names": [],
+    "terms": []
+  }
+}
+```

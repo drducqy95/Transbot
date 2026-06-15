@@ -1,0 +1,398 @@
+# Translation Context Pack
+
+## Project
+- Branch: Tu Chan Bon Van Nam
+- Title: 
+- Author: 
+- Genre: /
+- Language: zh → vi
+
+## Translation Rules
+### Translation Goal
+Dịch truyện Trung sang tiếng Việt tự nhiên, dễ đọc, đúng nghĩa, đúng mạch truyện, đúng văn cảnh, đúng xưng hô, đúng tên riêng và thuật ngữ.
+Style: văn xuôi tiếng Việt mượt, rõ nghĩa, không máy móc
+Priorities:
+  • đúng nghĩa và đúng văn cảnh
+  • đúng tên riêng
+  • đúng thuật ngữ theo loại và bối cảnh
+  • đúng xưng hô và quan hệ nhân vật
+  • giữ ổn định thuật ngữ/tên riêng/xưng hô đã khóa
+  • tự nhiên trong tiếng Việt
+  • giữ nhịp văn, cảm xúc và giọng kể gốc
+Anti-goals:
+  • không dịch từng chữ máy móc
+  • không Hán Việt hóa tên Nhật, Hàn, phương Tây, fandom, thương hiệu, kỹ thuật
+  • không áp VietPhrase/LuatNhan lên tên riêng đã khóa
+  • không đổi thuật ngữ đã khóa nếu văn cảnh giống nhau
+  • không dùng một bản dịch cứng cho từ đa nghĩa khi văn cảnh khác nhau
+  • không làm lộ thông tin ngoài POV nếu bản gốc chưa tiết lộ
+
+### Output Rules
+  • keep paragraph structure
+  • keep dialogue structure
+  • do not merge paragraphs
+  • do not split paragraphs unnecessarily
+  • preserve punctuation when reasonable
+  • convert chinese quotes to vietnamese
+  • remove unnecessary explanation
+  • output only translation
+  • do not add notes inside translation
+  • mark uncertain items for audit only
+
+### Tone Guidelines
+  • narration: tự nhiên, rõ ràng, có chất truyện
+  • dialogue: phù hợp thân phận, quan hệ, tuổi tác, quyền lực và bối cảnh
+  • ancient_setting: cổ phong vừa phải, không lạm dụng Hán Việt khó hiểu
+  • modern_setting: hiện đại, đời thường, không cổ hóa lời thoại
+  • game_system: rõ ràng, gọn, quen thuộc với văn phong game/system
+  • comedy: giữ nhịp hài nếu có
+  • serious: giữ sắc thái căng thẳng, trang trọng nếu có
+
+### Term Normalization
+Purpose: Chuẩn hóa thuật ngữ theo văn cảnh truyện, bao gồm chiêu thức, nghề nghiệp, chức vị, cảnh giới, kỹ năng, vật phẩm, danh hiệu, tổ chức, hệ thống, khái niệm thế giới quan và cụm cố định lặp lại.
+Core principles:
+  • context first
+  • not word by word
+  • same source can have different translation if context differs
+  • same source same context must be consistent
+  • same term type should keep style consistent
+  • locked translation only applies to matching context
+  • source plus type plus context equals translation
+Decision rules:
+  • Không dịch thuật ngữ chỉ theo mặt chữ.
+  • Một source có thể có nhiều bản dịch nếu văn cảnh khác nhau.
+  • Một bản dịch đã khóa chỉ áp dụng cho đúng loại văn cảnh đã khóa.
+  • Tên chiêu thức, cảnh giới, pháp bảo quan trọng nên dùng dạng Hán Việt chuẩn, viết hoa nếu là danh từ riêng.
+  • Vật phẩm phổ thông không cần Hán Việt hóa quá mức.
+  • Nghề nghiệp phải xét bối cảnh.
+  • Chức vị phải xét hệ thống xã hội.
+  • Nếu cùng source và cùng văn cảnh, phải giữ nhất quán.
+  • Nếu không chắc văn cảnh, đánh dấu audit.
+
+### Engine Rules
+  • use context pack
+  • use previous chapter summary
+  • use character profile
+  • use story timeline
+  • use glossary
+  • use name scan
+  • use segment context
+  • avoid over literal translation
+  • avoid over smoothing that changes meaning
+
+## Characters
+N/A
+
+## Glossary
+N/A
+
+## Story Timeline (latest)
+
+## Chapter 0001 - Chương 1: Nghĩa địa pháp bảo
+
+### Summary
+Chapter 1 completed via pipeline.
+
+## Chapter 0002 - Chương 2: Quang mạc nghi
+
+### Summary
+Chapter 2 completed via pipeline.
+
+## Chapter 0003 - Chương 3: Dị mộng
+
+### Summary
+Chapter 3 completed via pipeline.
+
+## Chapter 0004 - Chương 4: Yêu Đao Bành Hải
+
+### Summary
+Chapter 4 completed via pipeline.
+
+## Chapter 0001 - Chương 1: Nghĩa địa pháp bảo
+
+### Summary
+Chapter 1 completed via pipeline.
+
+## Chapter 0002 - 0002 光幕仪
+
+### Summary
+Chapter 2 completed via pipeline.
+
+## Chapter 0003 - Chương 3: Dị mộng
+
+### Summary
+Chapter 3 completed via pipeline.
+
+## Chapter 0005 - Chương 5: Thi thử đại học
+
+### Summary
+Chapter 5 completed via pipeline.
+
+## Chapter 0006 - Chương 6: Thời đại Đại Hắc Ám
+
+### Summary
+Chapter 6 completed via pipeline.
+
+## Chapter 0007 - Chương 7: Nữ thần Nhị Trung
+
+### Summary
+Chapter 7 completed via pipeline.
+
+## Chapter 0008 - Chương 8: Sửa chữa tinh não
+
+### Summary
+Chapter 8 completed via pipeline.
+
+## Chapter 0002 - 0002 光幕仪
+
+### Summary
+Chapter 2 completed via pipeline.
+
+## Chapter 0002 - Chương 2: Quang mạc nghi
+
+### Summary
+Chapter 2 completed via pipeline.
+
+## Chapter 0002 - Chương 2: Quang mạc nghi
+
+### Summary
+Chapter 2 completed via pipeline.
+
+## Chapter 0009 - Chương 9: Cá muối và giày
+
+### Summary
+Chapter 9 completed via pipeline.
+
+## Chapter 0010 - Chương 10: Âm hồn nhập thể
+
+### Summary
+Chapter 10 completed via pipeline.
+
+## Chapter 0011 - 0011 宛若梦幻
+
+### Summary
+Chapter 11 completed via pipeline.
+
+## Chapter 0011 - Chương 11: Như trong mộng
+
+### Summary
+Chapter 11 completed via pipeline.
+
+## Chapter 0012 - Chương 12: Sướng đến bay người
+
+### Summary
+Chapter 12 completed via pipeline.
+
+## Chapter 0013 - Chương 13: Ngạ quỷ đầu thai
+
+### Summary
+Chapter 13 completed via pipeline.
+
+## Chapter 0014 - Chương 14: Ẩn Hồ Tiểu Cảnh
+
+### Summary
+Chapter 14 completed via pipeline.
+
+## Chapter 0015 - Chương 15: Không biết sống chết
+
+### Summary
+Chapter 15 completed via pipeline.
+
+## Chapter 0012 - Chương 12: Sướng đến bay người
+
+### Summary
+Chapter 12 completed via pipeline.
+
+## Chapter 0012 - Chương 12: Sướng đến bay người
+
+### Summary
+Chapter 12 completed via pipeline.
+
+## Chapter 0016 - Chương 16: Một con hải sâm
+
+### Summary
+Chapter 16 completed via pipeline.
+
+## Chapter 0017 - Chương 17: Đại tỷ quỷ thị
+
+### Summary
+Chapter 17 completed via pipeline.
+
+## Chapter 0018 - Chương 18: Thuốc cường hóa
+
+### Summary
+Chapter 18 completed via pipeline.
+
+
+## Source Chapter 19 - 0019 军道杀狼
+```json
+[
+  {
+    "segment_id": "0001",
+    "text": "# 第19章 军道杀狼"
+  },
+  {
+    "segment_id": "0002",
+    "text": "星耀联邦民风尚武，战力超群的修真者享有至高无上的地位，联邦公民无不以踏上修真之路为最大荣耀。"
+  },
+  {
+    "segment_id": "0003",
+    "text": "即便无法成为修真者，也喜欢打熬力气，磨砺筋骨，雕塑体型，终身保持修炼的习惯。"
+  },
+  {
+    "segment_id": "0004",
+    "text": "所以，大街小巷随处可见健身会所、修炼馆和武技学校，在里面修炼的未必是什么穷凶极恶的武道高手，大多是遵纪守法、循规蹈矩的学生和上班族。"
+  },
+  {
+    "segment_id": "0005",
+    "text": "李耀看到“军道杀狼修炼馆”的牌子，又多了一分信心。"
+  },
+  {
+    "segment_id": "0006",
+    "text": "他知道这类地方的老板大多是狂热的修炼爱好者，他们炼制“山寨强化药剂”，多半是给自己和修炼馆的会员服用，赚钱并不是首要目的，所以往往不惜成本，质量也有一定保障。"
+  },
+  {
+    "segment_id": "0007",
+    "text": "摸了摸脸上的蜘蛛花纹，李耀信步走了进去。"
+  },
+  {
+    "segment_id": "0008",
+    "text": "修炼馆门面不大，里面却是别有洞天，大约三四百平米的力量训练房里，十几个肌肉贲张、大汗淋漓的壮汉正把杠铃、钢索和铁片砸得“咣咣”作响，角落里还有一名大汉正在狠狠**一只沙袋。"
+  },
+  {
+    "segment_id": "0009",
+    "text": "李耀扫了一圈，发现这些大汉练的重量不太高，面容也都比较敦实良善，给人的感觉并不凶悍，看样子都是普通上班族，不由松了一口气，更加放心。"
+  },
+  {
+    "segment_id": "0010",
+    "text": "他走到角落，准备向那名正在打沙袋的壮汉询问——此君看起来最面善。"
+  },
+  {
+    "segment_id": "0011",
+    "text": "这名壮汉，却正好弓步近身，后手突刺，一记重拳，轰出浑身力量，将沙袋砸得高高飞起，正好撞到李耀脸上，发出“啪”一声响。"
+  },
+  {
+    "segment_id": "0012",
+    "text": "壮汉“啊”了一声，急道：“你没事吧？”"
+  },
+  {
+    "segment_id": "0013",
+    "text": "李耀晃了晃脑袋，鼻子有些酸涩，鼻翼抽动了两下，摇头道：“没事，请问赵馆长在什么地方？”"
+  },
+  {
+    "segment_id": "0014",
+    "text": "……"
+  },
+  {
+    "segment_id": "0015",
+    "text": "力量训练房后面，一间小小的茶室内，两个军绿色的坐垫上分别坐着一名壮汉，两人中间放着两只茶缸，还有熏肉、烧鸡、花生之类的熟菜。"
+  },
+  {
+    "segment_id": "0016",
+    "text": "左边一人大概四五十岁年纪，坑坑洼洼的光头上纹着一个插着军刺的狼头纹身，左臂从肩胛骨开始齐齐斩断，取而代之的是一条镌刻着上千道符文的灵械义肢。"
+  },
+  {
+    "segment_id": "0017",
+    "text": "右边一人，却是个看似不到三十岁的青年，披着一袭非常低调的灰色军用风衣，大约穿了许多年，已经洗得发白褪色。"
+  },
+  {
+    "segment_id": "0018",
+    "text": "如果李耀看到此人，一定激动到尿崩——这名青年赫然就是赤霄二中所有学生心目中的偶像，浮戈城修真者圈子里的新贵，筑基期修士，妖刀彭海！"
+  },
+  {
+    "segment_id": "0019",
+    "text": "此刻的彭海身上，却没有半点强大的修真者气息，他举起茶缸，对光头纹身男爽快道：“老教官，来，为了咱们当年在妖兽荒原上的激战岁月，再干一杯！”"
+  },
+  {
+    "segment_id": "0020",
+    "text": "茶缸里明明是最粗劣的二锅头，彭海这个锦衣玉食、穷奢极欲的大修士，却像是见到了琼浆玉液，一饮而尽，大声咂舌：“好酒，这他妈才是男人该喝的东西！”"
+  },
+  {
+    "segment_id": "0021",
+    "text": "光头纹身男用灵械义肢，有些僵硬地抓起茶缸，感慨道：“阿海，我知道你这小子重感情，讲情义，就算当上了筑基期修真者，都不忘咱们这些当年一起出生入死的老战友！不过你有心，隔三差五来找我喝酒也就罢了，实在没必要一直在我这里修炼——我这个地方是业余级别，水平很低，你一个筑基期修真者，在这里纯熟浪费时间！”"
+  },
+  {
+    "segment_id": "0022",
+    "text": "彭海一笑：“老教官，咱们之间的交情，可不是简简单单‘出生入死’四个字就能说清楚的，想当年，我们一起执行‘黑刃行动’，若不是你帮我挡了那一下，我早就死得不能再死，哪里还能当上筑基期修真者？而老教官你……”"
+  },
+  {
+    "segment_id": "0023",
+    "text": "目光扫向光头纹身男的左手，彭海的声音里也带上一抹沉重，“却丢掉了整条左臂，连心脏都被轰掉了70%，从炼气期十三层，跌回到了普通武者级数，不得不离开‘狼团’……”"
+  },
+  {
+    "segment_id": "0024",
+    "text": "光头纹身男摆了摆手，满不在乎地说：“修真之路，危机四伏，九死一生，既然踏上这条不归路，老子早就把脑袋别在裤腰带上，随时准备命丧黄泉！只是丢掉一只手，又算什么？要是连这点都看不穿，当年还修个鸟真，趁早回家上班当白领讨老婆不是更安全？你也不用老是把那件事放在心上，咱们出来修真的，断手断脚还是回老家卖咸鸭蛋，都看老天爷高兴，都是命！我断手，是我命中注定，和你有什么关系？再说，不让我修真，那就不修喽，老子每个月拿着大把‘退伍军人伤残津贴’，小酒喝着，烤串撸着，床上的**天天不缺，不知过得多潇洒，多开心！而仍旧留在军中的老战友，没错，是有不少人成为了筑基期修真者，甚至还出过两个结丹的大修士，那又如何？说不定明天就变成妖兽肚子里的一泡稀屎，渣都不剩下！这么一想，我还赚了嘛，哈哈哈哈！”"
+  },
+  {
+    "segment_id": "0025",
+    "text": "彭海欣然道：“拿得起，放得下，是我记忆中的老教官，铁骨铮铮的硬汉！不过有一点，老教官可是想错了，我每天到你这里来，并不是浪费时间，而是进行非常重要的修炼。”"
+  },
+  {
+    "segment_id": "0026",
+    "text": "光头纹身男瞪大了眼睛：“修炼？在我这种破地方，你能练出什么花样？”"
+  },
+  {
+    "segment_id": "0027",
+    "text": "彭海淡淡一笑，解释道：“我的瞬间灵能爆发力，已经达到‘筑基期高阶’，却非常不稳定，在好几次战斗的紧要关头，都意外掉回了‘筑基期中阶’，差点一命呜呼——这是因为我的绝对力量提升太快，而对力量的控制还不到家。想要在真正站稳‘筑基期高阶’，甚至冲击‘筑基期巅峰’境界，就必须彻底解决这个问题！”"
+  },
+  {
+    "segment_id": "0028",
+    "text": "光头纹身男沉吟片刻，点头道：“你是联邦最年轻的筑基期修真者之一，进阶太快，确实会带来根基不稳的问题，你准备怎么解决？”"
+  },
+  {
+    "segment_id": "0029",
+    "text": "彭海笑道：“为了控制自身力量，每次到老教官的‘军道杀狼修炼馆’，我都会把力量压制在3%，只发挥3%的实力，来进行超负荷的训练！”"
+  },
+  {
+    "segment_id": "0030",
+    "text": "光头纹身男恍然大悟：“原来你只发挥了3%的实力？怪不得我从你身上，感觉不到半点修真者的气息。”"
+  },
+  {
+    "segment_id": "0031",
+    "text": "彭海点头：“我已经在3%的状态下坚持了一个月，这样，当我放开限制，发挥100%实力时，感觉瞬间爆发力又有了大幅提升，对灵能的掌控度也增强了不少！我的目标，是最终能把自身力量压制在1%，还能进行超负荷的训练和对抗，如果可以做到的话，一定能冲上筑基期巅峰境界！”"
+  },
+  {
+    "segment_id": "0032",
+    "text": "顿了一顿，不无遗憾地笑了笑，“灵力不稳定是我的最大弱点，不想让别人知道，所以只能到老教官你这里来修炼——在浮戈城，我只相信两个人，老教官就是其中之一，可惜你这里的会员，实力都太弱了，没一个能扛过我用3%实力，三分钟的攻击！光是进行力量训练，似乎又差了一口气。”"
+  },
+  {
+    "segment_id": "0033",
+    "text": "光头纹身男瞪了他一眼：“我这里的会员，都是正经八百的上班族、工薪阶层，又不是专业武者，当然不够你打，就算你只用3%的实力，也纯属虐杀！不过，别说老教官不照顾你，我知道你正在找耐打的高手陪练，所以特地联系了一位在圈子里小有名气的金牌陪练员，等会儿就到。”"
+  },
+  {
+    "segment_id": "0034",
+    "text": "彭海一听，来了兴趣：“哦？厉不厉害？”"
+  },
+  {
+    "segment_id": "0035",
+    "text": "光头纹身男道：“我也是通过朋友介绍，并没有见过，不过这个人在地下鬼市已经厮混了很多年，在好几个武馆都当过专业陪练，据说抗击打能力极强，有个外号叫‘铁龟’，应该能扛住你用3%的实力打上三分钟吧？”"
+  },
+  {
+    "segment_id": "0036",
+    "text": "茶室左边的一整面墙壁，是单方向透明玻璃，从里面望出去，可以看到力量训练房的情况。"
+  },
+  {
+    "segment_id": "0037",
+    "text": "两人说话间，正好看到李耀走进来，被沙袋狠狠砸了一下脸，却若无其事的样子。"
+  },
+  {
+    "segment_id": "0038",
+    "text": "“他来了，怎么样，还行吧？”光头纹身男站了起来。"
+  }
+]
+```
+
+## Output Format
+CRITICAL INSTRUCTION: You MUST translate the source text EXACTLY paragraph by paragraph, preserving the original order perfectly. DO NOT skip, drop, merge, or reorder any paragraphs. Each paragraph in the source MUST be translated.
+Return ONLY valid JSON matching this schema:
+{
+  "chapter_number": 19,
+  "chapter_title_vi": "Chương 19: <Vietnamese title>",
+  "segments": [
+    {
+      "segment_id": "XXXX",
+      "source": "...",
+      "target": "..."
+    }
+  ]
+}

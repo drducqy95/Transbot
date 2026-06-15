@@ -1,0 +1,395 @@
+# Translation Context Pack
+
+## Project
+- Branch: Tu Chan Bon Van Nam
+- Title: 
+- Author: 
+- Genre: /
+- Language: zh → vi
+
+## Translation Rules
+### Translation Goal
+Dịch truyện Trung sang tiếng Việt tự nhiên, dễ đọc, đúng nghĩa, đúng mạch truyện, đúng văn cảnh, đúng xưng hô, đúng tên riêng và thuật ngữ.
+Style: văn xuôi tiếng Việt mượt, rõ nghĩa, không máy móc
+Priorities:
+  • đúng nghĩa và đúng văn cảnh
+  • đúng tên riêng
+  • đúng thuật ngữ theo loại và bối cảnh
+  • đúng xưng hô và quan hệ nhân vật
+  • giữ ổn định thuật ngữ/tên riêng/xưng hô đã khóa
+  • tự nhiên trong tiếng Việt
+  • giữ nhịp văn, cảm xúc và giọng kể gốc
+Anti-goals:
+  • không dịch từng chữ máy móc
+  • không Hán Việt hóa tên Nhật, Hàn, phương Tây, fandom, thương hiệu, kỹ thuật
+  • không áp VietPhrase/LuatNhan lên tên riêng đã khóa
+  • không đổi thuật ngữ đã khóa nếu văn cảnh giống nhau
+  • không dùng một bản dịch cứng cho từ đa nghĩa khi văn cảnh khác nhau
+  • không làm lộ thông tin ngoài POV nếu bản gốc chưa tiết lộ
+
+### Output Rules
+  • keep paragraph structure
+  • keep dialogue structure
+  • do not merge paragraphs
+  • do not split paragraphs unnecessarily
+  • preserve punctuation when reasonable
+  • convert chinese quotes to vietnamese
+  • remove unnecessary explanation
+  • output only translation
+  • do not add notes inside translation
+  • mark uncertain items for audit only
+
+### Tone Guidelines
+  • narration: tự nhiên, rõ ràng, có chất truyện
+  • dialogue: phù hợp thân phận, quan hệ, tuổi tác, quyền lực và bối cảnh
+  • ancient_setting: cổ phong vừa phải, không lạm dụng Hán Việt khó hiểu
+  • modern_setting: hiện đại, đời thường, không cổ hóa lời thoại
+  • game_system: rõ ràng, gọn, quen thuộc với văn phong game/system
+  • comedy: giữ nhịp hài nếu có
+  • serious: giữ sắc thái căng thẳng, trang trọng nếu có
+
+### Term Normalization
+Purpose: Chuẩn hóa thuật ngữ theo văn cảnh truyện, bao gồm chiêu thức, nghề nghiệp, chức vị, cảnh giới, kỹ năng, vật phẩm, danh hiệu, tổ chức, hệ thống, khái niệm thế giới quan và cụm cố định lặp lại.
+Core principles:
+  • context first
+  • not word by word
+  • same source can have different translation if context differs
+  • same source same context must be consistent
+  • same term type should keep style consistent
+  • locked translation only applies to matching context
+  • source plus type plus context equals translation
+Decision rules:
+  • Không dịch thuật ngữ chỉ theo mặt chữ.
+  • Một source có thể có nhiều bản dịch nếu văn cảnh khác nhau.
+  • Một bản dịch đã khóa chỉ áp dụng cho đúng loại văn cảnh đã khóa.
+  • Tên chiêu thức, cảnh giới, pháp bảo quan trọng nên dùng dạng Hán Việt chuẩn, viết hoa nếu là danh từ riêng.
+  • Vật phẩm phổ thông không cần Hán Việt hóa quá mức.
+  • Nghề nghiệp phải xét bối cảnh.
+  • Chức vị phải xét hệ thống xã hội.
+  • Nếu cùng source và cùng văn cảnh, phải giữ nhất quán.
+  • Nếu không chắc văn cảnh, đánh dấu audit.
+
+### Engine Rules
+  • use context pack
+  • use previous chapter summary
+  • use character profile
+  • use story timeline
+  • use glossary
+  • use name scan
+  • use segment context
+  • avoid over literal translation
+  • avoid over smoothing that changes meaning
+
+## Characters
+N/A
+
+## Glossary
+N/A
+
+## Story Timeline (latest)
+
+## Chapter 0001 - Chương 1: Nghĩa địa pháp bảo
+
+### Summary
+Chapter 1 completed via pipeline.
+
+## Chapter 0002 - Chương 2: Quang mạc nghi
+
+### Summary
+Chapter 2 completed via pipeline.
+
+## Chapter 0003 - Chương 3: Dị mộng
+
+### Summary
+Chapter 3 completed via pipeline.
+
+## Chapter 0004 - Chương 4: Yêu Đao Bành Hải
+
+### Summary
+Chapter 4 completed via pipeline.
+
+## Chapter 0001 - Chương 1: Nghĩa địa pháp bảo
+
+### Summary
+Chapter 1 completed via pipeline.
+
+## Chapter 0002 - 0002 光幕仪
+
+### Summary
+Chapter 2 completed via pipeline.
+
+## Chapter 0003 - Chương 3: Dị mộng
+
+### Summary
+Chapter 3 completed via pipeline.
+
+## Chapter 0005 - Chương 5: Thi thử đại học
+
+### Summary
+Chapter 5 completed via pipeline.
+
+## Chapter 0006 - Chương 6: Thời đại Đại Hắc Ám
+
+### Summary
+Chapter 6 completed via pipeline.
+
+## Chapter 0007 - Chương 7: Nữ thần Nhị Trung
+
+### Summary
+Chapter 7 completed via pipeline.
+
+## Chapter 0008 - Chương 8: Sửa chữa tinh não
+
+### Summary
+Chapter 8 completed via pipeline.
+
+## Chapter 0002 - 0002 光幕仪
+
+### Summary
+Chapter 2 completed via pipeline.
+
+## Chapter 0002 - Chương 2: Quang mạc nghi
+
+### Summary
+Chapter 2 completed via pipeline.
+
+## Chapter 0002 - Chương 2: Quang mạc nghi
+
+### Summary
+Chapter 2 completed via pipeline.
+
+## Chapter 0009 - Chương 9: Cá muối và giày
+
+### Summary
+Chapter 9 completed via pipeline.
+
+## Chapter 0010 - Chương 10: Âm hồn nhập thể
+
+### Summary
+Chapter 10 completed via pipeline.
+
+## Chapter 0011 - 0011 宛若梦幻
+
+### Summary
+Chapter 11 completed via pipeline.
+
+## Chapter 0011 - Chương 11: Như trong mộng
+
+### Summary
+Chapter 11 completed via pipeline.
+
+## Chapter 0012 - Chương 12: Sướng đến bay người
+
+### Summary
+Chapter 12 completed via pipeline.
+
+## Chapter 0013 - Chương 13: Ngạ quỷ đầu thai
+
+### Summary
+Chapter 13 completed via pipeline.
+
+## Chapter 0014 - Chương 14: Ẩn Hồ Tiểu Cảnh
+
+### Summary
+Chapter 14 completed via pipeline.
+
+## Chapter 0015 - Chương 15: Không biết sống chết
+
+### Summary
+Chapter 15 completed via pipeline.
+
+## Chapter 0012 - Chương 12: Sướng đến bay người
+
+### Summary
+Chapter 12 completed via pipeline.
+
+## Chapter 0012 - Chương 12: Sướng đến bay người
+
+### Summary
+Chapter 12 completed via pipeline.
+
+
+## Source Chapter 16 - 0016 一条海参
+```json
+[
+  {
+    "segment_id": "0001",
+    "text": "# 第16章 一条海参"
+  },
+  {
+    "segment_id": "0002",
+    "text": "“呼——”"
+  },
+  {
+    "segment_id": "0003",
+    "text": "赫连烈气势惊人，如同一辆风驰电掣的超高速晶轨列车，人还未至，令人睁不开眼的劲风已经狠狠砸到了李耀脸上。"
+  },
+  {
+    "segment_id": "0004",
+    "text": "李耀的眼球犹如针扎，一股凉意从尾椎骨直冲心脏，脑域深处仿佛有一个“开关”猛地打开，刚刚从南柯一梦中苏醒时无比敏锐的五感再次降临。"
+  },
+  {
+    "segment_id": "0005",
+    "text": "就在这0.1秒之内，他十分清晰地看到了不远处目瞪口呆的三名阔少，看清了小花园中每一株植物上的枝叶和花朵，闻到了厨房里正在烧制的几十种菜肴的香味，甚至看清楚了在七八米远的地方，一只蚊子正晃晃悠悠的飞过。"
+  },
+  {
+    "segment_id": "0006",
+    "text": "与此同时，他也看到在自己和赫连烈之间的地上，躺着一片黑黢黢的海参，那是他刚刚不小心掉在地上的。"
+  },
+  {
+    "segment_id": "0007",
+    "text": "一大堆数字在他脑域深处爆炸，爆炸，爆炸，组合成了一连串奇妙的公式，凝聚成无数力矩、力臂、作用力方向、运动轨迹等等信息流。"
+  },
+  {
+    "segment_id": "0008",
+    "text": "就在这0.1秒结束之后，李耀眨了眨眼睛，思维尚未做出反应，身体已经抢先一步，下意识地往左边挪了一小步。"
+  },
+  {
+    "segment_id": "0009",
+    "text": "他这一挪，赫连烈立刻跟进，身形微晃，将攻击路线也移动了0.1米，于是当他的右腿狠狠落地时，正好就踩在滑不溜秋的海参上，整个人都失去了平衡！"
+  },
+  {
+    "segment_id": "0010",
+    "text": "倘若面对别的对手，赫连烈根本不会如此大意，但是李耀在他眼中不过是一个无足轻重的垃圾，盛怒之下，他根本没有戒备，直接滑了出去。"
+  },
+  {
+    "segment_id": "0011",
+    "text": "李耀微微侧身，赫连烈从他身边一根头发丝的距离滑过，李耀甚至能看清楚赫连烈惊愕欲绝的表情和几乎要迸出眼眶的大眼珠子，滑出三米之后，赫连烈撞翻了一张摆满食物的大餐桌，“咣当”一声，三四个大盆子的食物劈头盖脑砸了下来。"
+  },
+  {
+    "segment_id": "0012",
+    "text": "汤汁浓稠的海参，味道浓郁的扇贝，鲜美至极的珍珠鱼丸……一点都没浪费，全都出现在赫连烈的头发上、脸上、肩膀上、价格昂贵手工打造的奢华衣衫上，看上去，赫连烈刚刚在泔水桶里洗了个澡。"
+  },
+  {
+    "segment_id": "0013",
+    "text": "沉默，恐怖的沉默，如墓地般的沉默！"
+  },
+  {
+    "segment_id": "0014",
+    "text": "赫连烈瞠目结舌，脸上的每一束神经都被冻结，扭曲成略带迷惘、羞愧、愤怒、疯狂的古怪表情。"
+  },
+  {
+    "segment_id": "0015",
+    "text": "李耀眨巴着眼睛，眼睁睁看着一条海参从赫连烈刀削斧刻的“剑眉星目”上面慢条斯理地，依依不舍地，欲说还休地滑落下来。"
+  },
+  {
+    "segment_id": "0016",
+    "text": "“这，这乐子可闹大了，这小子从哪儿冒出来的？太乱来了吧！”不远处，郑东明好似发羊癫疯一般剧烈抽搐，一张胖脸已经被不可遏制的笑意憋成了紫红色。"
+  },
+  {
+    "segment_id": "0017",
+    "text": "他拽着两名阔少，不动声色地向后退了几步，这才忍不住笑出声：“没想到看男人吃饭，比看女人脱衣服更加有趣，你们说，这不会是赫连专程为我生日安排的娱乐节目吧？”"
+  },
+  {
+    "segment_id": "0018",
+    "text": "一名阔少迟疑道：“不会吧？我记得赫连这个人似乎有些洁癖，郑少你看，赫连的表情简直像是要哭出来了，我们要不要上去帮忙？”"
+  },
+  {
+    "segment_id": "0019",
+    "text": "“当然不要，这么精彩的节目，简直千载难逢，当然是要看个过瘾！”郑大少很没义气地说，顿了一顿，又笑眯眯道，“不过我看这个小子挺有性格，小罗，快用灵鹤传书，让你家里开的私立医院，赶紧派一辆最高级的急救飞梭来——我看赫连快要爆炸啦！”"
+  },
+  {
+    "segment_id": "0020",
+    "text": "果然，赫连烈从最初的惊愕欲绝中清醒，就像一座从休眠状态中复苏的活火山，炙热的岩浆呼之欲出，周身缭绕的浓烈气焰简直凝结成了肉眼可见的实质，方圆半米之内的气温都提升了好几度！"
+  },
+  {
+    "segment_id": "0021",
+    "text": "“咔嚓咔嚓”，他周身骨骼发出一连串鞭炮齐鸣般的爆响，令人不寒而栗。"
+  },
+  {
+    "segment_id": "0022",
+    "text": "李耀的大脑全速开动，脑域深处无数记忆碎片疯狂旋转，每一块记忆碎片上都反映着一段激烈战斗的画面。"
+  },
+  {
+    "segment_id": "0023",
+    "text": "表面看上去，他被赫连烈的万丈凶芒完全震慑，呆若木鸡。"
+  },
+  {
+    "segment_id": "0024",
+    "text": "可是在呆滞的外表下，他的每一束肌肉纤维都慢慢收紧，如同压缩到极致的弹簧，凝聚起强大的能量。"
+  },
+  {
+    "segment_id": "0025",
+    "text": "双手虚握，自然而然垂挂在身体两侧，就像是攥着两柄千斤巨锤，微微晃荡，蓄势待发。"
+  },
+  {
+    "segment_id": "0026",
+    "text": "就在空气撕裂，千钧一发之时——"
+  },
+  {
+    "segment_id": "0027",
+    "text": "赫连烈的左肩膀上忽然搭住了一只胖乎乎的手，一个足有两百多斤的中年胖子，身穿经理制服，无声无息地出现在了他身后，笑吟吟道：“赫连大少，你醉了。”"
+  },
+  {
+    "segment_id": "0028",
+    "text": "赫连烈的瞳孔骤然收缩，有若实质的敌意转了一百八十度，毫不掩饰地向胖子袭去。"
+  },
+  {
+    "segment_id": "0029",
+    "text": "这个大胖子经理，也不像是修炼过什么武技的样子，面对赫连烈的敌意，却似春风拂面，浑不在意。"
+  },
+  {
+    "segment_id": "0030",
+    "text": "他慢条斯理道：“任何一名客人来隐湖小境用餐，都是我们的衣食父母，绝对会得到超一流的服务，这是我们隐湖小境几十年来一直秉承的宗旨，整个‘上东区’谁人不知？赫连大少若是没有喝醉，又怎么会当着我的面，对我的衣食父母大打出手？”"
+  },
+  {
+    "segment_id": "0031",
+    "text": "“你威胁我？”赫连烈一字一顿，语气森然。"
+  },
+  {
+    "segment_id": "0032",
+    "text": "胖子经理微微一笑，脸上肥肉乱颤，显得有些贼兮兮的：“我吃了熊心豹子胆也不敢威胁赫连大少，只不过是多嘴提醒一句，在赫连大少身后第三条回廊，第22号桌上用餐的，是《浮戈城娱乐日刊》的记者。”"
+  },
+  {
+    "segment_id": "0033",
+    "text": "“有记者？”赫连烈的脸色变得十分难看，他低头看了看身上一片狼藉，这副尊荣若是被娱乐小报的记者拍到，不出半个小时，他一定会成为浮戈城里“最出名”的富豪子弟，而这种“名气”，绝不是他想要的那一种。"
+  },
+  {
+    "segment_id": "0034",
+    "text": "他死死、死死地盯了李耀一眼，咬紧牙关，一言不发，头也不回逃离隐湖小境。"
+  },
+  {
+    "segment_id": "0035",
+    "text": "大胖子经理这才回过头来，不动声色地打量了李耀一番。"
+  },
+  {
+    "segment_id": "0036",
+    "text": "李耀和外表截然相反的泰然自若令他微微诧异，愣了一下，大胖子经理才十分诚挚地抱歉：“这位贵宾，实在不好意思，因为我们工作上的疏忽，让您在隐湖小境用餐期间受到了骚扰，为了弥补您的损失，今天这一顿费用全免，算本店请客，希望今天的小插曲不要影响您对隐湖小境的观感，也欢迎您继续支持本店。”"
+  },
+  {
+    "segment_id": "0037",
+    "text": "能够在‘上东区’屹立几十年不倒的餐厅，自有其深厚的底蕴和超然的格局，经营者并不会因为客人的衣着和身份而有一丝一毫的怠慢，一切都秉承最极致的服务理念，这才能打造出千金不易的口碑。"
+  },
+  {
+    "segment_id": "0038",
+    "text": "李耀一愣，正欲点头，一阵酒香扑面而来，一名油头粉面的猫眼少年，满脸微笑，出现在他面前。"
+  },
+  {
+    "segment_id": "0039",
+    "text": "“这位同学，我叫郑东明，你可以叫我郑少，也可以叫我大东，不过千万不要叫我小明，刚才发生的一切我都看到了，我觉得你简直是万里挑一，人中龙凤，极品中的极品，怎么样，交个朋友吧？”"
+  },
+  {
+    "segment_id": "0040",
+    "text": "在李耀有些警惕的眼神注视下，郑东明泰然自若地伸出了手，指间轻轻夹了一张装饰着华丽灵纹的名片，“不用紧张，我没有别的意思，只是想介绍一位非常专业的保险销售给你认识，我建议你现在就拿出所有存款，马上去买一份最高金额的人身意外伤害险，因为——”"
+  },
+  {
+    "segment_id": "0041",
+    "text": "顿了一顿，郑少脸上弥漫着十分诡异的笑容，阴恻恻地说：“相信我，明天你就用得上了。”"
+  }
+]
+```
+
+## Output Format
+CRITICAL INSTRUCTION: You MUST translate the source text EXACTLY paragraph by paragraph, preserving the original order perfectly. DO NOT skip, drop, merge, or reorder any paragraphs. Each paragraph in the source MUST be translated.
+Return ONLY valid JSON matching this schema:
+{
+  "chapter_number": 16,
+  "chapter_title_vi": "Chương 16: <Vietnamese title>",
+  "segments": [
+    {
+      "segment_id": "XXXX",
+      "source": "...",
+      "target": "..."
+    }
+  ]
+}

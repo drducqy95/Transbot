@@ -1,0 +1,392 @@
+# Translation Context Pack
+
+## Project
+- Branch: Tu Chan Bon Van Nam
+- Title: 
+- Author: 
+- Genre: /
+- Language: zh → vi
+
+## Translation Rules
+### Translation Goal
+Dịch truyện Trung sang tiếng Việt tự nhiên, dễ đọc, đúng nghĩa, đúng mạch truyện, đúng văn cảnh, đúng xưng hô, đúng tên riêng và thuật ngữ.
+Style: văn xuôi tiếng Việt mượt, rõ nghĩa, không máy móc
+Priorities:
+  • đúng nghĩa và đúng văn cảnh
+  • đúng tên riêng
+  • đúng thuật ngữ theo loại và bối cảnh
+  • đúng xưng hô và quan hệ nhân vật
+  • giữ ổn định thuật ngữ/tên riêng/xưng hô đã khóa
+  • tự nhiên trong tiếng Việt
+  • giữ nhịp văn, cảm xúc và giọng kể gốc
+Anti-goals:
+  • không dịch từng chữ máy móc
+  • không Hán Việt hóa tên Nhật, Hàn, phương Tây, fandom, thương hiệu, kỹ thuật
+  • không áp VietPhrase/LuatNhan lên tên riêng đã khóa
+  • không đổi thuật ngữ đã khóa nếu văn cảnh giống nhau
+  • không dùng một bản dịch cứng cho từ đa nghĩa khi văn cảnh khác nhau
+  • không làm lộ thông tin ngoài POV nếu bản gốc chưa tiết lộ
+
+### Output Rules
+  • keep paragraph structure
+  • keep dialogue structure
+  • do not merge paragraphs
+  • do not split paragraphs unnecessarily
+  • preserve punctuation when reasonable
+  • convert chinese quotes to vietnamese
+  • remove unnecessary explanation
+  • output only translation
+  • do not add notes inside translation
+  • mark uncertain items for audit only
+
+### Tone Guidelines
+  • narration: tự nhiên, rõ ràng, có chất truyện
+  • dialogue: phù hợp thân phận, quan hệ, tuổi tác, quyền lực và bối cảnh
+  • ancient_setting: cổ phong vừa phải, không lạm dụng Hán Việt khó hiểu
+  • modern_setting: hiện đại, đời thường, không cổ hóa lời thoại
+  • game_system: rõ ràng, gọn, quen thuộc với văn phong game/system
+  • comedy: giữ nhịp hài nếu có
+  • serious: giữ sắc thái căng thẳng, trang trọng nếu có
+
+### Term Normalization
+Purpose: Chuẩn hóa thuật ngữ theo văn cảnh truyện, bao gồm chiêu thức, nghề nghiệp, chức vị, cảnh giới, kỹ năng, vật phẩm, danh hiệu, tổ chức, hệ thống, khái niệm thế giới quan và cụm cố định lặp lại.
+Core principles:
+  • context first
+  • not word by word
+  • same source can have different translation if context differs
+  • same source same context must be consistent
+  • same term type should keep style consistent
+  • locked translation only applies to matching context
+  • source plus type plus context equals translation
+Decision rules:
+  • Không dịch thuật ngữ chỉ theo mặt chữ.
+  • Một source có thể có nhiều bản dịch nếu văn cảnh khác nhau.
+  • Một bản dịch đã khóa chỉ áp dụng cho đúng loại văn cảnh đã khóa.
+  • Tên chiêu thức, cảnh giới, pháp bảo quan trọng nên dùng dạng Hán Việt chuẩn, viết hoa nếu là danh từ riêng.
+  • Vật phẩm phổ thông không cần Hán Việt hóa quá mức.
+  • Nghề nghiệp phải xét bối cảnh.
+  • Chức vị phải xét hệ thống xã hội.
+  • Nếu cùng source và cùng văn cảnh, phải giữ nhất quán.
+  • Nếu không chắc văn cảnh, đánh dấu audit.
+
+### Engine Rules
+  • use context pack
+  • use previous chapter summary
+  • use character profile
+  • use story timeline
+  • use glossary
+  • use name scan
+  • use segment context
+  • avoid over literal translation
+  • avoid over smoothing that changes meaning
+
+## Characters
+N/A
+
+## Glossary
+N/A
+
+## Story Timeline (latest)
+
+## Chapter 0001 - Chương 1: Nghĩa địa pháp bảo
+
+### Summary
+Chapter 1 completed via pipeline.
+
+## Chapter 0002 - Chương 2: Quang mạc nghi
+
+### Summary
+Chapter 2 completed via pipeline.
+
+## Chapter 0003 - Chương 3: Dị mộng
+
+### Summary
+Chapter 3 completed via pipeline.
+
+## Chapter 0004 - Chương 4: Yêu Đao Bành Hải
+
+### Summary
+Chapter 4 completed via pipeline.
+
+## Chapter 0001 - Chương 1: Nghĩa địa pháp bảo
+
+### Summary
+Chapter 1 completed via pipeline.
+
+## Chapter 0002 - 0002 光幕仪
+
+### Summary
+Chapter 2 completed via pipeline.
+
+## Chapter 0003 - Chương 3: Dị mộng
+
+### Summary
+Chapter 3 completed via pipeline.
+
+## Chapter 0005 - Chương 5: Thi thử đại học
+
+### Summary
+Chapter 5 completed via pipeline.
+
+## Chapter 0006 - Chương 6: Thời đại Đại Hắc Ám
+
+### Summary
+Chapter 6 completed via pipeline.
+
+## Chapter 0007 - Chương 7: Nữ thần Nhị Trung
+
+### Summary
+Chapter 7 completed via pipeline.
+
+## Chapter 0008 - Chương 8: Sửa chữa tinh não
+
+### Summary
+Chapter 8 completed via pipeline.
+
+## Chapter 0002 - 0002 光幕仪
+
+### Summary
+Chapter 2 completed via pipeline.
+
+## Chapter 0002 - Chương 2: Quang mạc nghi
+
+### Summary
+Chapter 2 completed via pipeline.
+
+## Chapter 0002 - Chương 2: Quang mạc nghi
+
+### Summary
+Chapter 2 completed via pipeline.
+
+## Chapter 0009 - Chương 9: Cá muối và giày
+
+### Summary
+Chapter 9 completed via pipeline.
+
+## Chapter 0010 - Chương 10: Âm hồn nhập thể
+
+### Summary
+Chapter 10 completed via pipeline.
+
+## Chapter 0011 - 0011 宛若梦幻
+
+### Summary
+Chapter 11 completed via pipeline.
+
+## Chapter 0011 - Chương 11: Như trong mộng
+
+### Summary
+Chapter 11 completed via pipeline.
+
+## Chapter 0012 - Chương 12: Sướng đến bay người
+
+### Summary
+Chapter 12 completed via pipeline.
+
+## Chapter 0013 - Chương 13: Ngạ quỷ đầu thai
+
+### Summary
+Chapter 13 completed via pipeline.
+
+## Chapter 0014 - Chương 14: Ẩn Hồ Tiểu Cảnh
+
+### Summary
+Chapter 14 completed via pipeline.
+
+
+## Source Chapter 15 - 0015 不知死活
+```json
+[
+  {
+    "segment_id": "0001",
+    "text": "# 第15章 不知死活"
+  },
+  {
+    "segment_id": "0002",
+    "text": "相隔二十多米的一个小花池边，皎洁的月光下，卓立着一双气度不凡的少男少女，正是赤霄二中的“男神”赫连烈和“女神”司佳雪。"
+  },
+  {
+    "segment_id": "0003",
+    "text": "赫连烈一脸诚恳，欠身道：“小雪，对不起，昨天是我太冲动，我不该去找那个普通班的垃圾，没想到会传出一些风言风语，连累你也被家长询问，都是我的错，请你接受我的道歉。”"
+  },
+  {
+    "segment_id": "0004",
+    "text": "司佳雪依旧冷若冰霜，仿佛一座万年不化的冰山，冷冰冰地说：“我可以接受你的道歉，不过希望这件事到此为止，记住，我想和谁来往是我的自由，那家伙确实是一个贪得无厌的无赖，却也轮不到你来指手画脚！”"
+  },
+  {
+    "segment_id": "0005",
+    "text": "“我明白，我明白，来吧，一起进去和郑少喝一杯，今天是他生日，我们不要为一个垃圾动气。”赫连烈耐着性子说。"
+  },
+  {
+    "segment_id": "0006",
+    "text": "“我有点累，先回去了，你帮我和郑少说一声。”司佳雪等到了晶脑，丝毫不给面子，转身就走。"
+  },
+  {
+    "segment_id": "0007",
+    "text": "赫连烈目光阴沉，死死盯着佳人的身影隐没在回廊后面，“咔嚓”一声，脚下的青石板竟然出现蛛网般不住扩散的裂纹。"
+  },
+  {
+    "segment_id": "0008",
+    "text": "“啧啧啧啧，赫连大少好强的脚力。”一个略显浮夸的声音从背后传来，是一名身穿紫衣，眼泡有些肿胀，看似酒色过度的年轻人，他长着一对猫儿似的眼睛，在月光下隐隐散发着绿光。"
+  },
+  {
+    "segment_id": "0009",
+    "text": "“郑少。”赫连烈收回目光，神色恢复平静。"
+  },
+  {
+    "segment_id": "0010",
+    "text": "“不就是一个女人，就算司家在浮戈城里有些势力又怎么样，至于让你这么低声下气？”郑少笑嘻嘻地说，右手肆无忌惮地搭在赫连烈肩膀上。"
+  },
+  {
+    "segment_id": "0011",
+    "text": "在赤霄二中，敢说赫连烈“低声下气”的人，只怕早就被他打得爹妈都不认识。"
+  },
+  {
+    "segment_id": "0012",
+    "text": "但是这名阔少“郑东明”，不但是浮戈城赫赫有名的郑家第三代长孙，背后有众多修为深厚的凶人撑腰，本身也是“凤山门附属第二高中”的精英学生，灵根开发度74%，是这一次高考中，“浮戈城高考状元”称号的有力竞争者，实力隐隐在赫连烈之上。"
+  },
+  {
+    "segment_id": "0013",
+    "text": "是以，赫连烈也只能按捺凶焰，勉强道：“我对小雪的感情，你不懂。”"
+  },
+  {
+    "segment_id": "0014",
+    "text": "郑东明耸了耸肩，拖长音调：“是啦，我们这些凡夫俗子，怎么能领会你赫连大情圣的微妙心境呢？既然不懂，不如去喝酒啦，今天是我生日，你不是要一直摆着这张苦瓜脸吧？”"
+  },
+  {
+    "segment_id": "0015",
+    "text": "赫连烈哼了一声，脸色稍稍转寰，两人正欲进屋，几名阔少圈子里的伙伴忽然神色古怪地走了过来，一个个憋得脸色发紫，气喘如牛。"
+  },
+  {
+    "segment_id": "0016",
+    "text": "“什么事这么好笑，说出来让我们也开心一下啊？”郑东明微笑问道。"
+  },
+  {
+    "segment_id": "0017",
+    "text": "“郑少，那边有个乡巴佬，不知道从什么地方冒出来的，好像是饿鬼投胎，三年没吃饭，吃相那叫一个难看。”一名阔少捧着肚子，笑得快要抽筋了。"
+  },
+  {
+    "segment_id": "0018",
+    "text": "隐湖小境这种地方，进来用餐的多是上流社会人士，注重的是环境和格调，把这里当成社交场合，吃饭反而是其次，大家多是点到即止，保持翩翩公子的风度。"
+  },
+  {
+    "segment_id": "0019",
+    "text": "若是要胡吃海塞，大嚼大咽，自有更好的去处。"
+  },
+  {
+    "segment_id": "0020",
+    "text": "郑东明懒洋洋地说：“现在隐湖小境的档次也不行了，竟然有人专门来这里吃饭？看来下次咱们聚会，也要换个更清幽的地方。不过就算是吃相难看一点，也不至于让你们笑成这样吧？”"
+  },
+  {
+    "segment_id": "0021",
+    "text": "“不是啊，郑少，那家伙真的太夸张！”"
+  },
+  {
+    "segment_id": "0022",
+    "text": "另一名阔少强忍笑意，伸手比划着，“这么长，这么长的一根带骨烤肉，咔嚓咔嚓，三口就吃下去，连骨头都磨得粉碎，全部吞落，半点渣都不剩下！”"
+  },
+  {
+    "segment_id": "0023",
+    "text": "头一名阔少补充：“还有，还有，脸盆大的深海霸王蟹，都带着壳，带着壳啊，也被这个乡巴佬三两口吃了个一干二净，你是没看到他吃过的盘子，啧啧啧啧，简直比刷洗过的还干净！”"
+  },
+  {
+    "segment_id": "0024",
+    "text": "另一名阔少继续叫道：“是啊，我还看到他在半分钟内，眼都不眨一下，连壳吞下了整整二十个海胆！”"
+  },
+  {
+    "segment_id": "0025",
+    "text": "“总之，真的很夸张，郑少你要不要去见识一下？”两名阔少异口同声。"
+  },
+  {
+    "segment_id": "0026",
+    "text": "“算了吧，我的爱好是看女人脱衣服，不是看男人吃饭，赫连，你有没有兴趣？”郑东明浅浅打了个哈欠。"
+  },
+  {
+    "segment_id": "0027",
+    "text": "“没兴趣。”赫连烈淡淡道。"
+  },
+  {
+    "segment_id": "0028",
+    "text": "头一名阔少忽然道：“对了，赫连大少，那个乡巴佬穿的，好像是你们‘赤霄二中’的校裤！”"
+  },
+  {
+    "segment_id": "0029",
+    "text": "“嗯？”赫连烈一愣，脸色顿时变得有些难看。"
+  },
+  {
+    "segment_id": "0030",
+    "text": "郑东明也来了兴趣，眼底发亮：“赫连，你们赤霄二中虽然比不过我们凤山二中，可是在浮戈城里也算是排名比较靠前的优质中学，居然有这种极品？这就一定要见识一下了！”"
+  },
+  {
+    "segment_id": "0031",
+    "text": "“赤霄二中，都是精英，怎么会有这种饿死鬼！”赫连烈生硬地说，狠狠瞪了两名阔少一眼，大步朝他们来的方向走过去。"
+  },
+  {
+    "segment_id": "0032",
+    "text": "郑东明冲两名阔少挤眉弄眼，用口型默默道：“如果真是你们看错，赫连一定发飙，你们自求多福啦！”"
+  },
+  {
+    "segment_id": "0033",
+    "text": "说完，他笑嘻嘻的，也跟在赫连后面。"
+  },
+  {
+    "segment_id": "0034",
+    "text": "还未走进下一段回廊，就听到“咔嚓咔嚓，咔嚓咔嚓”，有如刀剑交击的咀嚼声。"
+  },
+  {
+    "segment_id": "0035",
+    "text": "“这……还真是够凶猛的。”郑东明喃喃道，看着正趴在餐桌上据案大嚼的李耀，愣了好一会儿。"
+  },
+  {
+    "segment_id": "0036",
+    "text": "瞥了一眼身边人，郑东明感觉赫连烈就快爆炸，他强忍笑意，捅了捅对方的腰眼。"
+  },
+  {
+    "segment_id": "0037",
+    "text": "“赫连大少，请问这位……壮士，是不是贵校的高材生？”"
+  },
+  {
+    "segment_id": "0038",
+    "text": "另外两名阔少躲在郑东明身后，忍不住“嗤嗤”偷笑起来。"
+  },
+  {
+    "segment_id": "0039",
+    "text": "赫连烈仿佛化作一座石像，阴冷地沉默了三秒钟，双眼眯成两把锋利的弯刀，忽然身形闪动，一步跨至李耀面前，森然问道：“你在这里干什么？”"
+  },
+  {
+    "segment_id": "0040",
+    "text": "浮戈城很大，有好几百万人口，赫连烈才不相信会有这么巧，这个普通班的垃圾正好跑到隐湖小境来丢人。"
+  },
+  {
+    "segment_id": "0041",
+    "text": "一定是跟踪司佳雪到这里来的！"
+  },
+  {
+    "segment_id": "0042",
+    "text": "李耀正吃得兴高采烈，冷不防有人在耳边咆哮，微微一愣，扭头一看，不由皱眉，一边咀嚼，一边冷笑：“我在这里洗澡，难道你看不出来？”"
+  },
+  {
+    "segment_id": "0043",
+    "text": "李耀在南柯一梦中见多了实力强横的古修，赫连烈这种级别的小角色，简直变成虾兵蟹将一般的存，他眼底自然而然流露出一抹藐视。"
+  },
+  {
+    "segment_id": "0044",
+    "text": "赫连烈在赤霄二中说一不二，就算是重点班也无人敢违逆他，没想到这个普通班的垃圾不但把他的警告当耳边风，还故意讽刺他，眼神又如此轻蔑，顿时令他怒火中烧！“你这垃圾，简直不知死活！”赫连烈猛地跨出一大步，叉开五指朝李耀的脸上狠狠掴去！"
+  }
+]
+```
+
+## Output Format
+CRITICAL INSTRUCTION: You MUST translate the source text EXACTLY paragraph by paragraph, preserving the original order perfectly. DO NOT skip, drop, merge, or reorder any paragraphs. Each paragraph in the source MUST be translated.
+Return ONLY valid JSON matching this schema:
+{
+  "chapter_number": 15,
+  "chapter_title_vi": "Chương 15: <Vietnamese title>",
+  "segments": [
+    {
+      "segment_id": "XXXX",
+      "source": "...",
+      "target": "..."
+    }
+  ]
+}

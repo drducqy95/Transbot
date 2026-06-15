@@ -1,0 +1,23 @@
+```json
+{
+  "names": {
+    "approved": [],
+    "rejected": [],
+    "uncertain": []
+  },
+  "terms": {
+    "approved": [
+      "灵蛇步法"
+    ],
+    "rejected": [
+      "极速狂飙，可",
+      "，一路小跑起"
+    ],
+    "uncertain": []
+  }
+}
+```
+
+**Reasoning:**
+*   **`灵蛇步法`** (Spirit Snake Footwork/Snake Movement): Approved as this is a clear, standalone proper noun or specific technique name often found in wuxia/xianxia contexts.
+*   **`极速狂飙，可`** (speeding furiously, can) and **`，一路小跑起`** (, starting to jog all the way): Rejected as these are sentence fragments containing punctuation and partial clauses rather than specific, standalone terms that would typically be added to a glossary.

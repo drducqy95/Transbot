@@ -1,0 +1,21 @@
+```json
+{
+  "approved": [],
+  "rejected": [
+    "化作拳法，左",
+    "征服全宇宙",
+    "正好唱到最*"
+  ],
+  "uncertain": [
+    "一百零八手披"
+  ]
+}
+```
+
+### Explanation:
+*   **Rejected**: 
+    *   `化作拳法，左` - This is a sentence fragment containing punctuation.
+    *   `征服全宇宙` - This translates to "conquer the entire universe", which is a common phrase/sentence rather than a specific proper noun or glossary term.
+    *   `正好唱到最*` - This is a sentence fragment and contains an invalid character (`*`).
+*   **Uncertain**: 
+    *   `一百零八手披` - "一百零八手" (108 hands/techniques) is a common martial arts concept, but the trailing "披" makes it look like it might be a fragment (e.g., cut off from "一百零八手披挂拳"). It needs more context to determine if it is a complete term.

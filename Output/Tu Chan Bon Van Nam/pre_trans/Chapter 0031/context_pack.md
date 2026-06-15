@@ -1,0 +1,626 @@
+# Translation Context Pack
+
+## Project
+- Branch: Tu Chan Bon Van Nam
+- Title: 
+- Author: 
+- Genre: /
+- Language: zh → vi
+
+## Translation Rules
+### Translation Goal
+Dịch truyện Trung sang tiếng Việt tự nhiên, dễ đọc, đúng nghĩa, đúng mạch truyện, đúng văn cảnh, đúng xưng hô, đúng tên riêng và thuật ngữ.
+Style: văn xuôi tiếng Việt mượt, rõ nghĩa, không máy móc
+Priorities:
+  • đúng nghĩa và đúng văn cảnh
+  • đúng tên riêng
+  • đúng thuật ngữ theo loại và bối cảnh
+  • đúng xưng hô và quan hệ nhân vật
+  • giữ ổn định thuật ngữ/tên riêng/xưng hô đã khóa
+  • tự nhiên trong tiếng Việt
+  • giữ nhịp văn, cảm xúc và giọng kể gốc
+Anti-goals:
+  • không dịch từng chữ máy móc
+  • không Hán Việt hóa tên Nhật, Hàn, phương Tây, fandom, thương hiệu, kỹ thuật
+  • không áp VietPhrase/LuatNhan lên tên riêng đã khóa
+  • không đổi thuật ngữ đã khóa nếu văn cảnh giống nhau
+  • không dùng một bản dịch cứng cho từ đa nghĩa khi văn cảnh khác nhau
+  • không làm lộ thông tin ngoài POV nếu bản gốc chưa tiết lộ
+
+### Output Rules
+  • keep paragraph structure
+  • keep dialogue structure
+  • do not merge paragraphs
+  • do not split paragraphs unnecessarily
+  • preserve punctuation when reasonable
+  • convert chinese quotes to vietnamese
+  • remove unnecessary explanation
+  • output only translation
+  • do not add notes inside translation
+  • mark uncertain items for audit only
+
+### Tone Guidelines
+  • narration: tự nhiên, rõ ràng, có chất truyện
+  • dialogue: phù hợp thân phận, quan hệ, tuổi tác, quyền lực và bối cảnh
+  • ancient_setting: cổ phong vừa phải, không lạm dụng Hán Việt khó hiểu
+  • modern_setting: hiện đại, đời thường, không cổ hóa lời thoại
+  • game_system: rõ ràng, gọn, quen thuộc với văn phong game/system
+  • comedy: giữ nhịp hài nếu có
+  • serious: giữ sắc thái căng thẳng, trang trọng nếu có
+
+### Term Normalization
+Purpose: Chuẩn hóa thuật ngữ theo văn cảnh truyện, bao gồm chiêu thức, nghề nghiệp, chức vị, cảnh giới, kỹ năng, vật phẩm, danh hiệu, tổ chức, hệ thống, khái niệm thế giới quan và cụm cố định lặp lại.
+Core principles:
+  • context first
+  • not word by word
+  • same source can have different translation if context differs
+  • same source same context must be consistent
+  • same term type should keep style consistent
+  • locked translation only applies to matching context
+  • source plus type plus context equals translation
+Decision rules:
+  • Không dịch thuật ngữ chỉ theo mặt chữ.
+  • Một source có thể có nhiều bản dịch nếu văn cảnh khác nhau.
+  • Một bản dịch đã khóa chỉ áp dụng cho đúng loại văn cảnh đã khóa.
+  • Tên chiêu thức, cảnh giới, pháp bảo quan trọng nên dùng dạng Hán Việt chuẩn, viết hoa nếu là danh từ riêng.
+  • Vật phẩm phổ thông không cần Hán Việt hóa quá mức.
+  • Nghề nghiệp phải xét bối cảnh.
+  • Chức vị phải xét hệ thống xã hội.
+  • Nếu cùng source và cùng văn cảnh, phải giữ nhất quán.
+  • Nếu không chắc văn cảnh, đánh dấu audit.
+
+### Engine Rules
+  • use context pack
+  • use previous chapter summary
+  • use character profile
+  • use story timeline
+  • use glossary
+  • use name scan
+  • use segment context
+  • avoid over literal translation
+  • avoid over smoothing that changes meaning
+
+## Characters
+N/A
+
+## Glossary
+N/A
+
+## Story Timeline (latest)
+thử đại học
+
+### Summary
+Chapter 5 completed via pipeline.
+
+## Chapter 0006 - Chương 6: Thời đại Đại Hắc Ám
+
+### Summary
+Chapter 6 completed via pipeline.
+
+## Chapter 0007 - Chương 7: Nữ thần Nhị Trung
+
+### Summary
+Chapter 7 completed via pipeline.
+
+## Chapter 0008 - Chương 8: Sửa chữa tinh não
+
+### Summary
+Chapter 8 completed via pipeline.
+
+## Chapter 0002 - 0002 光幕仪
+
+### Summary
+Chapter 2 completed via pipeline.
+
+## Chapter 0002 - Chương 2: Quang mạc nghi
+
+### Summary
+Chapter 2 completed via pipeline.
+
+## Chapter 0002 - Chương 2: Quang mạc nghi
+
+### Summary
+Chapter 2 completed via pipeline.
+
+## Chapter 0009 - Chương 9: Cá muối và giày
+
+### Summary
+Chapter 9 completed via pipeline.
+
+## Chapter 0010 - Chương 10: Âm hồn nhập thể
+
+### Summary
+Chapter 10 completed via pipeline.
+
+## Chapter 0011 - 0011 宛若梦幻
+
+### Summary
+Chapter 11 completed via pipeline.
+
+## Chapter 0011 - Chương 11: Như trong mộng
+
+### Summary
+Chapter 11 completed via pipeline.
+
+## Chapter 0012 - Chương 12: Sướng đến bay người
+
+### Summary
+Chapter 12 completed via pipeline.
+
+## Chapter 0013 - Chương 13: Ngạ quỷ đầu thai
+
+### Summary
+Chapter 13 completed via pipeline.
+
+## Chapter 0014 - Chương 14: Ẩn Hồ Tiểu Cảnh
+
+### Summary
+Chapter 14 completed via pipeline.
+
+## Chapter 0015 - Chương 15: Không biết sống chết
+
+### Summary
+Chapter 15 completed via pipeline.
+
+## Chapter 0012 - Chương 12: Sướng đến bay người
+
+### Summary
+Chapter 12 completed via pipeline.
+
+## Chapter 0012 - Chương 12: Sướng đến bay người
+
+### Summary
+Chapter 12 completed via pipeline.
+
+## Chapter 0016 - Chương 16: Một con hải sâm
+
+### Summary
+Chapter 16 completed via pipeline.
+
+## Chapter 0017 - Chương 17: Đại tỷ quỷ thị
+
+### Summary
+Chapter 17 completed via pipeline.
+
+## Chapter 0018 - Chương 18: Thuốc cường hóa
+
+### Summary
+Chapter 18 completed via pipeline.
+
+## Chapter 0019 - Chương 19: Quân Đạo Sát Lang
+
+### Summary
+Chapter 19 completed via pipeline.
+
+## Chapter 0020 - Chương 20: Gã tập thể dục
+
+### Summary
+Chapter 20 completed via pipeline.
+
+## Chapter 0021 - Chương 21: Bốn phần trăm
+
+### Summary
+Chapter 21 completed via pipeline.
+
+## Chapter 0022 - Chương 22: Cho cậu ta ăn no
+
+### Summary
+Chapter 22 completed via pipeline.
+
+## Chapter 0023 - Chương 23: Hắc bạch thông cật
+
+### Summary
+Chapter 23 completed via pipeline.
+
+## Chapter 0024 - Chương 24: Tiến bộ vượt bậc
+
+### Summary
+Chapter 24 completed via pipeline.
+
+## Chapter 0025 - Chương 25: Thiết Thú tấn công
+
+### Summary
+Chapter 25 completed via pipeline.
+
+## Chapter 0026 - Chương 26: Kẻ tàn nhẫn hơn tới
+
+### Summary
+Chapter 26 completed via pipeline.
+
+## Chapter 0027 - Chương 27: Hóa ra hắn mới là kẻ tàn nhẫn nhất
+
+### Summary
+Chapter 27 completed via pipeline.
+
+## Chapter 0028 - Chương 28: Đương nhiên phải ngông cuồng
+
+### Summary
+Chapter 28 completed via pipeline.
+
+## Chapter 0029 - Chương 29: Người đúc Yêu Đao
+
+### Summary
+Chapter 29 completed via pipeline.
+
+## Chapter 0030 - Chương 30: Cậu rất ngông cuồng đấy
+
+### Summary
+Chapter 30 completed via pipeline.
+
+
+## Source Chapter 31 - 0031 我不是咸鱼！
+```json
+[
+  {
+    "segment_id": "0001",
+    "text": "# 第31章 我不是咸鱼！"
+  },
+  {
+    "segment_id": "0002",
+    "text": "李耀心底暗叫一声“糟糕”，心说自己怎么能把四万年前古修宗门的残酷试炼拿出来当标准？"
+  },
+  {
+    "segment_id": "0003",
+    "text": "要知道，在南柯一梦中，百炼宗每年都有数百名杂役因为承受不住折磨而命丧黄泉。"
+  },
+  {
+    "segment_id": "0004",
+    "text": "就这样，百炼宗已经算是名门正派里比较宽厚仁慈的了，换了严苛一些的宗派，每年死上几千个门人，根本都不叫事儿。"
+  },
+  {
+    "segment_id": "0005",
+    "text": "至于魔门，更不用说，每一名强者的诞生，都伴随着数万弱者的牺牲。"
+  },
+  {
+    "segment_id": "0006",
+    "text": "古修时代，就是这么残忍。"
+  },
+  {
+    "segment_id": "0007",
+    "text": "“呃，孙老师，我又仔细看了一下，你这套地狱式死亡特训果然非常地狱，非常死亡，非常恐怖啊，我好怕自己无法完成！”李耀言不由衷地说。"
+  },
+  {
+    "segment_id": "0008",
+    "text": "孙彪人老成精，哪里会看不出李耀是在敷衍自己，心底勃然大怒，冷笑道：“好小子，别急着说大话，换上练功服，先做十组深蹲试试看？”"
+  },
+  {
+    "segment_id": "0009",
+    "text": "孙彪站起身，从修炼场的角落里积满灰尘的地方，摸出一套款式十分老旧的修炼服，朝李耀丢过来。"
+  },
+  {
+    "segment_id": "0010",
+    "text": "“深蹲？我喜欢！”李耀活动了一下身体，脱下校服，换上了满是尘土气息的老旧修炼服，眼中放光，笑嘻嘻地说。"
+  },
+  {
+    "segment_id": "0011",
+    "text": "他现在怪力惊人，最不怕的就是深蹲、卧推之类的力量训练，待会儿全力以赴，一定叫老头子看得眼珠都凸出来！。"
+  },
+  {
+    "segment_id": "0012",
+    "text": "走到锈迹斑斑的深蹲架前，想了想，从几乎锈成一团的杠铃片里，又拽出两片，狠狠砸进杠杆。"
+  },
+  {
+    "segment_id": "0013",
+    "text": "深蹲重量——三百公斤！"
+  },
+  {
+    "segment_id": "0014",
+    "text": "“两百公斤实在太少，根本起不到锻炼的作用，我平时都习惯用三百先热热身的，没关系吧，孙老师？”李耀冲着老头微微一笑，露出雪白的牙齿。"
+  },
+  {
+    "segment_id": "0015",
+    "text": "“当然可以，不过我怕你等会后悔啊。”孙彪也是一笑，露出黄褐色的牙齿。"
+  },
+  {
+    "segment_id": "0016",
+    "text": "“只不过三百公斤，二十组都能一口气做下来，有什么可后悔的？”李耀冲掌心啐了一口唾沫，双掌摩擦，热得发烫，死死攥住杠杆，扛在坚实的背肌上，双足骤然发力，往上一提，然后——"
+  },
+  {
+    "segment_id": "0017",
+    "text": "就感觉浑身一紧，原本宽松的练功服好似拥有生命，骤然收缩，化作一层坚韧的牛皮，把他完全裹住！"
+  },
+  {
+    "segment_id": "0018",
+    "text": "与此同时，一股绝强怪力骤然轰落，好似一座大山劈头盖脑砸了下来，一下子把他砸趴下！"
+  },
+  {
+    "segment_id": "0019",
+    "text": "“忘记告诉你了，小家伙，这件修炼服是我在十几年前专门炼制的法宝，叫做‘放弃’，拥有诸多神通，第一呢，就是能产生重力场，你穿上这件衣服，就好像穿上了一件几百斤重的铠甲，我看看，现在你身上的负重，有两百公斤！”孙彪狞笑道。"
+  },
+  {
+    "segment_id": "0020",
+    "text": "两百公斤重量，加上杠铃本身的三百公斤，就是足足半吨，李耀猝不及防之下，当然是被压得死死的。"
+  },
+  {
+    "segment_id": "0021",
+    "text": "“好卑鄙，不过，五，五百公斤也没什么了不起！”"
+  },
+  {
+    "segment_id": "0022",
+    "text": "李耀被压得眼冒金星，他死死咬紧牙关，双手硬撑，手臂上粗壮如蛇的青筋毕露，周身骨骼“咔咔”乱响，硬生生直起腰杆，重新攥住杠铃，双腿分开，腰胯下沉，又稳稳站起。"
+  },
+  {
+    "segment_id": "0023",
+    "text": "一个标准的深蹲动作，完成！"
+  },
+  {
+    "segment_id": "0024",
+    "text": "总负重，五百公斤！"
+  },
+  {
+    "segment_id": "0025",
+    "text": "“在南柯一梦中，我可是被‘巨灵神’折磨了好几十年，他的手段可比你这个死老头子更狠辣百倍，这样就想难住我，简直做梦！”李耀心中嘶吼，再度深深蹲下，准备进行第二次深蹲。"
+  },
+  {
+    "segment_id": "0026",
+    "text": "忽然，就像是一道闪电直接劈进灵魂，李耀感觉周身七百二十个穴窍，同时涌入强大电流，电得他头发炸开，眼珠发白，惨叫一声，再次躺倒在地，杠铃重重撞击在深蹲机上，发出“咣当”一声，铁锈乱爆，尘土飞扬。"
+  },
+  {
+    "segment_id": "0027",
+    "text": "“这件‘放弃’的第二种神通呢，就是会释放出强大电流，短则三五秒一次，长则一两分钟一次，轰击你的周身穴窍，刺激你的细胞强化，帮你洗髓伐筋，脱胎换骨，啧啧啧啧，这可是一般人梦寐以求的修炼至宝，只不过会有一点‘小小痛苦’，你还熬得住吧？”孙彪继续笑眯眯地问。"
+  },
+  {
+    "segment_id": "0028",
+    "text": "“开，开玩笑，当，当然熬得住！”李耀嘴唇咬得稀烂，趴在地上喘了好半天气，才艰难地爬起来，右手颤颤巍巍，无比艰难地向杠铃摸去。"
+  },
+  {
+    "segment_id": "0029",
+    "text": "指尖还未触及到杠铃，无比强烈的痛苦再度袭来，这一次不是电流强袭，而是极端的炎热！"
+  },
+  {
+    "segment_id": "0030",
+    "text": "就像是整个人都被丢进了火山口，在灼热无比的岩浆中挣扎，皮肤都被烧化，血管里奔流的是沸腾的铁水！"
+  },
+  {
+    "segment_id": "0031",
+    "text": "而下一秒钟，灼热感骤然消失，取而代之的是冻彻骨髓的寒意，似乎连脑浆都冻成一坨冰块，完全无法呼吸和思想！"
+  },
+  {
+    "segment_id": "0032",
+    "text": "极端炙热和极端寒冷的感觉反复交替了三次才逐渐消失，还不得李耀惨叫出声，电流又一次轰**窍，撕裂身体，令他不可遏制地抽搐起来！"
+  },
+  {
+    "segment_id": "0033",
+    "text": "“这件‘放弃’的最后一种神通，就是每隔一分钟，都会产生极端炙热和寒冷的幻象攻击，放心，这是针对脑域最深处的精神秘法，都是虚幻，不会对身体造成一丝一毫伤害，反而能淬炼精神力量，开拓脑域深度，有朝一日成为修真者，也能吸纳更多灵能，修炼速度都比别人快上许多。”"
+  },
+  {
+    "segment_id": "0034",
+    "text": "看李耀疼得满地打滚的样子，老头子脸上闪过一丝失望，随即自嘲地笑了笑，打了个哈欠，懒洋洋道：“好啦，玩够了，脱下来吧，这件衣服不是为你准备的，只要你说‘我放弃’三个字，它就会自动离体，不再折磨你了。”"
+  },
+  {
+    "segment_id": "0035",
+    "text": "“放弃？”"
+  },
+  {
+    "segment_id": "0036",
+    "text": "李耀在地上躺了半天，呼哧呼哧，喘得像是一条搁浅在岸边的鲸鱼。"
+  },
+  {
+    "segment_id": "0037",
+    "text": "终于，他像是一具生锈的金属傀儡，一寸一寸地站起来，万分艰难地将杠铃扛到肩膀上，硬生生扛着两百公斤负重、电流强袭和极度炎寒的精神攻击，轰出了第二次深蹲！"
+  },
+  {
+    "segment_id": "0038",
+    "text": "“两个了！”李耀喉咙深处，发出野兽般的嚎叫。"
+  },
+  {
+    "segment_id": "0039",
+    "text": "那是在法宝坟墓深处，时常回荡的战吼。"
+  },
+  {
+    "segment_id": "0040",
+    "text": "孙彪“咦”了一声，眼底闪过一丝惊愕，随即冷笑：“才两个而已，一组深蹲可是有整整十个啊！”"
+  },
+  {
+    "segment_id": "0041",
+    "text": "“三……三个！”李耀咬牙，空旷的修炼室里满是钢铁碰撞、铁锈摩擦的声音！"
+  },
+  {
+    "segment_id": "0042",
+    "text": "四个！五个！六个！七个！八个！九个！十个！"
+  },
+  {
+    "segment_id": "0043",
+    "text": "整整十次深蹲，李耀穿着这件诡异的“放弃”，耗尽最后一丝力量，轰出了整整十次姿势标准，一丝不苟的深蹲！"
+  },
+  {
+    "segment_id": "0044",
+    "text": "“我，我成功了！”李耀头昏眼花，双耳鸣响，周身血液一次次向大脑狂涌，心脏跳动无比剧烈，似乎要撕裂胸膛，蹦跳出来。"
+  },
+  {
+    "segment_id": "0045",
+    "text": "顾不上做恢复动作，他四仰八叉倒在深蹲架下，直愣愣看着天花板上刺眼的晶能灯光，感觉自己连一根小指头都控制不住了。"
+  },
+  {
+    "segment_id": "0046",
+    "text": "孙彪的身影出现在他的视野中，脸上是遮掩不住的惊讶，老头子的声音有些发颤：“小子，你没事吧？”"
+  },
+  {
+    "segment_id": "0047",
+    "text": "“我，我没事，稍微休息一下，后面还有……九组呢！”李耀的嘴角勾起，笑得比哭还难看。"
+  },
+  {
+    "segment_id": "0048",
+    "text": "孙彪沉默片刻，摇头道：“小子，放弃吧，我刚才已经说过，这件衣服不是为普通人准备的，你不可能穿着它，完成十组深蹲——后面还有整整九十次呢！来吧，说‘我放弃’，把衣服脱下来。”"
+  },
+  {
+    "segment_id": "0049",
+    "text": "李耀的目光越过孙彪，再次凝聚在天花板上耀眼的灯光上。"
+  },
+  {
+    "segment_id": "0050",
+    "text": "在眼泪和汗水的折射下，那光芒变得无比璀璨。"
+  },
+  {
+    "segment_id": "0051",
+    "text": "他忽然意识到，为什么这件法宝的名字是“放弃”。"
+  },
+  {
+    "segment_id": "0052",
+    "text": "因为，它最大的神通，既不是产生几百公斤的重力场，也不是强烈的电流袭击，更不是极端炙热或者寒冷的精神幻象。"
+  },
+  {
+    "segment_id": "0053",
+    "text": "而是，简简单单，普普通通，轻而易举的——“我放弃”三个字。"
+  },
+  {
+    "segment_id": "0054",
+    "text": "只要上下嘴皮一碰，用最轻最轻的声音，说出“我、放、弃”三个字，就能脱下这件修炼服，逃脱负重、电流和精神幻象的非人折磨，并且——"
+  },
+  {
+    "segment_id": "0055",
+    "text": "永远失去，再穿上这件衣服的勇气。"
+  },
+  {
+    "segment_id": "0056",
+    "text": "他，要放弃吗？"
+  },
+  {
+    "segment_id": "0057",
+    "text": "第一组深蹲，已经耗尽了全身力气，每一束肌肉，每一条血管，每一个细胞都被榨干，他感觉自己连撒尿的力气都没有了。"
+  },
+  {
+    "segment_id": "0058",
+    "text": "后面还有九组，整整九十个深蹲，他要在两百公斤负重、电流强袭、精神幻象攻击的重重侵袭之下，扛着三百公斤重的杠铃，不断蹲下、站起、挺直腰杆。"
+  },
+  {
+    "segment_id": "0059",
+    "text": "整整九十次。"
+  },
+  {
+    "segment_id": "0060",
+    "text": "根本做不到吧？就算咬紧牙关，使出吃奶的力气，拼命完成了两组，三组，也会在第四组、第五组、第六组第七组第八组的时候彻底崩溃，说出“我放弃”三个字吧？"
+  },
+  {
+    "segment_id": "0061",
+    "text": "既然如此，为什么不现在就放弃呢？"
+  },
+  {
+    "segment_id": "0062",
+    "text": "很简单，只要上下嘴皮一碰，声带轻轻一颤，嘴巴微微张开，我、放、弃，半秒钟之后，就轻松了，就解脱了。"
+  },
+  {
+    "segment_id": "0063",
+    "text": "“我……放……”看着天花板上璀璨的光芒，李耀一个字一个字的，轻声说道。"
+  },
+  {
+    "segment_id": "0064",
+    "text": "但是在那璀璨的光芒里，忽然浮现出一连串眼花缭乱的记忆。"
+  },
+  {
+    "segment_id": "0065",
+    "text": "“这件衣服，不是为普通人准备的。”孙彪是这么说的。"
+  },
+  {
+    "segment_id": "0066",
+    "text": "“但我，是普通人吗？”"
+  },
+  {
+    "segment_id": "0067",
+    "text": "“普通人，恐怕不会一出生就带着上辈子的记忆，还记得什么乱七八糟‘地球’上的事情吧？”"
+  },
+  {
+    "segment_id": "0068",
+    "text": "“普通人，也不可能在四万年前修真界强者欧冶子的夺舍攻击下幸存，还反过来吞噬了欧冶子的记忆吧？”"
+  },
+  {
+    "segment_id": "0069",
+    "text": "“这两件事，无论哪一件发生在一个人身上，这家伙都算不上是‘普通人’了，而在我身上，居然连续发生了两次！”"
+  },
+  {
+    "segment_id": "0070",
+    "text": "“然后，我就要在这里，在这件不是为‘普通人’准备的练功服面前——放弃吗？”"
+  },
+  {
+    "segment_id": "0071",
+    "text": "李耀的视线忽然从灯光上抽回，收缩到瞳孔最深处，变成了针尖大小的星芒。"
+  },
+  {
+    "segment_id": "0072",
+    "text": "“孙老师——我能听歌吗？”他忽然轻声说道。"
+  },
+  {
+    "segment_id": "0073",
+    "text": "“听歌？”孙彪没想到李耀会忽然提出这样一个问题，愣了小半天才道，“随便。”"
+  },
+  {
+    "segment_id": "0074",
+    "text": "“好，再给我半分钟。”"
+  },
+  {
+    "segment_id": "0075",
+    "text": "李耀微微一笑，闭上双眼，将妙音宗炼制的微型法宝“音铃”塞进耳孔。"
+  },
+  {
+    "segment_id": "0076",
+    "text": "陆音希高亢至极，仿佛能贯穿整条银河的铁嗓，立刻在他的灵魂深处震荡："
+  },
+  {
+    "segment_id": "0077",
+    "text": "“跟随着惊涛骇浪跌跌撞撞奋力向前冲！”"
+  },
+  {
+    "segment_id": "0078",
+    "text": "“雷霆万钧我心无惧闪电将会把前路照亮！”"
+  },
+  {
+    "segment_id": "0079",
+    "text": "“我和你们都不一样！”"
+  },
+  {
+    "segment_id": "0080",
+    "text": "李耀猛地睁开双眼。"
+  },
+  {
+    "segment_id": "0081",
+    "text": "他眼中针尖大小的星芒已经消失不见了，或者说——他的双眼满是星芒！"
+  },
+  {
+    "segment_id": "0082",
+    "text": "然后，他说了一句令孙彪大惑不解的话：“我，不是咸鱼……”"
+  },
+  {
+    "segment_id": "0083",
+    "text": "“你说什么？”孙彪还以为自己听错了，什么咸鱼？"
+  },
+  {
+    "segment_id": "0084",
+    "text": "在狂暴的音乐轰击下，李耀没有听到老头子的提问，他完全沉浸在自己的世界之中，小声呢喃着：“或许咸鱼也曾有过梦想，却因为各种各样的原因放弃了，干涸了，枯萎了，渐渐的，就变成了咸鱼，变成了一个个‘普通人’。”"
+  },
+  {
+    "segment_id": "0085",
+    "text": "“但我，不是咸鱼，我——决不放弃！”"
+  },
+  {
+    "segment_id": "0086",
+    "text": "李耀站了起来，肩上有三百公斤重量，浑身冒着电流，脑域深处有呼啸的寒风和肆虐的岩浆。"
+  },
+  {
+    "segment_id": "0087",
+    "text": "但他还是一把攥住了杠铃，力气很大，连最坚固的钢铁都在他的掌心“吱吱”作响。"
+  },
+  {
+    "segment_id": "0088",
+    "text": "“第二组深蹲，开始！”"
+  },
+  {
+    "segment_id": "0089",
+    "text": "尘封多年的修炼场里，再一次回荡起了惊涛骇浪般的咆哮，翻滚着激情澎湃的热浪！"
+  }
+]
+```
+
+## Output Format
+CRITICAL INSTRUCTION: You MUST translate the source text EXACTLY paragraph by paragraph, preserving the original order perfectly. DO NOT skip, drop, merge, or reorder any paragraphs. Each paragraph in the source MUST be translated.
+Return ONLY valid JSON matching this schema:
+{
+  "chapter_number": 31,
+  "chapter_title_vi": "Chương 31: <Vietnamese title>",
+  "segments": [
+    {
+      "segment_id": "XXXX",
+      "source": "...",
+      "target": "..."
+    }
+  ]
+}

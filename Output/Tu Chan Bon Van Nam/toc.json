@@ -1,18 +1,23 @@
 [
   {
-    "chapter_number": 4,
-    "title": "Chương 4: Yêu Đao Bành Hải",
-    "relative_path": "output/Chương 0004 - Chương 4 Yêu Đao Bành Hải.md"
-  },
-  {
     "chapter_number": 1,
     "title": "Chương 1: Nghĩa địa pháp bảo",
     "relative_path": "output/Chương 0001 - Chương 1 Nghĩa địa pháp bảo.md"
   },
   {
+    "chapter_number": 2,
+    "title": "Chương 2: Quang mạc nghi",
+    "relative_path": "output/Chương 0002 - Chương 2 Quang mạc nghi.md"
+  },
+  {
     "chapter_number": 3,
     "title": "Chương 3: Dị mộng",
     "relative_path": "output/Chương 0003 - Chương 3 Dị mộng.md"
+  },
+  {
+    "chapter_number": 4,
+    "title": "Chương 4: Yêu Đao Bành Hải",
+    "relative_path": "output/Chương 0004 - Chương 4 Yêu Đao Bành Hải.md"
   },
   {
     "chapter_number": 5,
@@ -35,11 +40,6 @@
     "relative_path": "output/Chương 0008 - Chương 8 Sửa chữa tinh não.md"
   },
   {
-    "chapter_number": 2,
-    "title": "Chương 2: Quang mạc nghi",
-    "relative_path": "output/Chương 0002 - Chương 2 Quang mạc nghi.md"
-  },
-  {
     "chapter_number": 9,
     "title": "Chương 9: Cá muối và giày",
     "relative_path": "output/Chương 0009 - Chương 9 Cá muối và giày.md"
@@ -53,5 +53,135 @@
     "chapter_number": 11,
     "title": "Chương 11: Như trong mộng",
     "relative_path": "output/Chương 0011 - Chương 11 Như trong mộng.md"
+  },
+  {
+    "chapter_number": 12,
+    "title": "Chương 12: Sướng đến bay người",
+    "relative_path": "output/Chương 0012 - Chương 12 Sướng đến bay người.md"
+  },
+  {
+    "chapter_number": 13,
+    "title": "Chương 13: Ngạ quỷ đầu thai",
+    "relative_path": "output/Chương 0013 - Chương 13 Ngạ quỷ đầu thai.md"
+  },
+  {
+    "chapter_number": 14,
+    "title": "Chương 14: Ẩn Hồ Tiểu Cảnh",
+    "relative_path": "output/Chương 0014 - Chương 14 Ẩn Hồ Tiểu Cảnh.md"
+  },
+  {
+    "chapter_number": 15,
+    "title": "Chương 15: Không biết sống chết",
+    "relative_path": "output/Chương 0015 - Chương 15 Không biết sống chết.md"
+  },
+  {
+    "chapter_number": 16,
+    "title": "Chương 16: Một con hải sâm",
+    "relative_path": "output/Chương 0016 - Chương 16 Một con hải sâm.md"
+  },
+  {
+    "chapter_number": 17,
+    "title": "Chương 17: Đại tỷ quỷ thị",
+    "relative_path": "output/Chương 0017 - Chương 17 Đại tỷ quỷ thị.md"
+  },
+  {
+    "chapter_number": 18,
+    "title": "Chương 18: Thuốc cường hóa",
+    "relative_path": "output/Chương 0018 - Chương 18 Thuốc cường hóa.md"
+  },
+  {
+    "chapter_number": 19,
+    "title": "Chương 19: Quân Đạo Sát Lang",
+    "relative_path": "output/Chương 0019 - Chương 19 Quân Đạo Sát Lang.md"
+  },
+  {
+    "chapter_number": 20,
+    "title": "Chương 20: Gã tập thể dục",
+    "relative_path": "output/Chương 0020 - Chương 20 Gã tập thể dục.md"
+  },
+  {
+    "chapter_number": 21,
+    "title": "Chương 21: Bốn phần trăm",
+    "relative_path": "output/Chương 0021 - Chương 21 Bốn phần trăm.md"
+  },
+  {
+    "chapter_number": 22,
+    "title": "Chương 22: Cho cậu ta ăn no",
+    "relative_path": "output/Chương 0022 - Chương 22 Cho cậu ta ăn no.md"
+  },
+  {
+    "chapter_number": 23,
+    "title": "Chương 23: Hắc bạch thông cật",
+    "relative_path": "output/Chương 0023 - Chương 23 Hắc bạch thông cật.md"
+  },
+  {
+    "chapter_number": 24,
+    "title": "Chương 24: Tiến bộ vượt bậc",
+    "relative_path": "output/Chương 0024 - Chương 24 Tiến bộ vượt bậc.md"
+  },
+  {
+    "chapter_number": 25,
+    "title": "Chương 25: Thiết Thú tấn công",
+    "relative_path": "output/Chương 0025 - Chương 25 Thiết Thú tấn công.md"
+  },
+  {
+    "chapter_number": 26,
+    "title": "Chương 26: Kẻ tàn nhẫn hơn tới",
+    "relative_path": "output/Chương 0026 - Chương 26 Kẻ tàn nhẫn hơn tới.md"
+  },
+  {
+    "chapter_number": 27,
+    "title": "Chương 27: Hóa ra hắn mới là kẻ tàn nhẫn nhất",
+    "relative_path": "output/Chương 0027 - Chương 27 Hóa ra hắn mới là kẻ tàn nhẫn nhất.md"
+  },
+  {
+    "chapter_number": 28,
+    "title": "Chương 28: Đương nhiên phải ngông cuồng",
+    "relative_path": "output/Chương 0028 - Chương 28 Đương nhiên phải ngông cuồng.md"
+  },
+  {
+    "chapter_number": 29,
+    "title": "Chương 29: Người đúc Yêu Đao",
+    "relative_path": "output/Chương 0029 - Chương 29 Người đúc Yêu Đao.md"
+  },
+  {
+    "chapter_number": 30,
+    "title": "Chương 30: Cậu rất ngông cuồng đấy",
+    "relative_path": "output/Chương 0030 - Chương 30 Cậu rất ngông cuồng đấy.md"
+  },
+  {
+    "chapter_number": 31,
+    "title": "Chương 31: Tôi không phải là cá muối!",
+    "relative_path": "output/Chương 0031 - Chương 31 Tôi không phải là cá muối!.md"
+  },
+  {
+    "chapter_number": 32,
+    "title": "Chương 32: Hắn là quái thú!",
+    "relative_path": "output/Chương 0032 - Chương 32 Hắn là quái thú!.md"
+  },
+  {
+    "chapter_number": 33,
+    "title": "Chương 33: Đêm dài đằng đẵng",
+    "relative_path": "output/Chương 0033 - Chương 33 Đêm dài đằng đẵng.md"
+  },
+  {
+    "chapter_number": 34,
+    "title": "Chương 34: Hung thú xuất chuồng",
+    "relative_path": "output/Chương 0034 - Chương 34 Hung thú xuất chuồng.md"
+  },
+  {
+    "chapter_number": 35,
+    "title": "Chương 35: Thời khắc kịch chiến",
+    "relative_path": "output/Chương 0035 - Chương 35 Thời khắc kịch chiến.md"
+  },
+  {
+    "chapter_number": 36,
+    "title": "Chương 36: Lý Diệu ra sân!",
+    "relative_path": "output/Chương 0036 - Chương 36 Lý Diệu ra sân!.md"
+  },
+  {
+    "chapter_number": 37,
+    "title": "Chương 37: Hổ Cúc Kích thất liên sát!",
+    "relative_path": "output/Chương 0037 - Chương 37 Hổ Cúc Kích thất liên sát!.md"
   }
 ]

@@ -1,0 +1,449 @@
+# Translation Context Pack
+
+## Project
+- Branch: Tu Chan Bon Van Nam
+- Title: 
+- Author: 
+- Genre: /
+- Language: zh → vi
+
+## Translation Rules
+### Translation Goal
+Dịch truyện Trung sang tiếng Việt tự nhiên, dễ đọc, đúng nghĩa, đúng mạch truyện, đúng văn cảnh, đúng xưng hô, đúng tên riêng và thuật ngữ.
+Style: văn xuôi tiếng Việt mượt, rõ nghĩa, không máy móc
+Priorities:
+  • đúng nghĩa và đúng văn cảnh
+  • đúng tên riêng
+  • đúng thuật ngữ theo loại và bối cảnh
+  • đúng xưng hô và quan hệ nhân vật
+  • giữ ổn định thuật ngữ/tên riêng/xưng hô đã khóa
+  • tự nhiên trong tiếng Việt
+  • giữ nhịp văn, cảm xúc và giọng kể gốc
+Anti-goals:
+  • không dịch từng chữ máy móc
+  • không Hán Việt hóa tên Nhật, Hàn, phương Tây, fandom, thương hiệu, kỹ thuật
+  • không áp VietPhrase/LuatNhan lên tên riêng đã khóa
+  • không đổi thuật ngữ đã khóa nếu văn cảnh giống nhau
+  • không dùng một bản dịch cứng cho từ đa nghĩa khi văn cảnh khác nhau
+  • không làm lộ thông tin ngoài POV nếu bản gốc chưa tiết lộ
+
+### Output Rules
+  • keep paragraph structure
+  • keep dialogue structure
+  • do not merge paragraphs
+  • do not split paragraphs unnecessarily
+  • preserve punctuation when reasonable
+  • convert chinese quotes to vietnamese
+  • remove unnecessary explanation
+  • output only translation
+  • do not add notes inside translation
+  • mark uncertain items for audit only
+
+### Tone Guidelines
+  • narration: tự nhiên, rõ ràng, có chất truyện
+  • dialogue: phù hợp thân phận, quan hệ, tuổi tác, quyền lực và bối cảnh
+  • ancient_setting: cổ phong vừa phải, không lạm dụng Hán Việt khó hiểu
+  • modern_setting: hiện đại, đời thường, không cổ hóa lời thoại
+  • game_system: rõ ràng, gọn, quen thuộc với văn phong game/system
+  • comedy: giữ nhịp hài nếu có
+  • serious: giữ sắc thái căng thẳng, trang trọng nếu có
+
+### Term Normalization
+Purpose: Chuẩn hóa thuật ngữ theo văn cảnh truyện, bao gồm chiêu thức, nghề nghiệp, chức vị, cảnh giới, kỹ năng, vật phẩm, danh hiệu, tổ chức, hệ thống, khái niệm thế giới quan và cụm cố định lặp lại.
+Core principles:
+  • context first
+  • not word by word
+  • same source can have different translation if context differs
+  • same source same context must be consistent
+  • same term type should keep style consistent
+  • locked translation only applies to matching context
+  • source plus type plus context equals translation
+Decision rules:
+  • Không dịch thuật ngữ chỉ theo mặt chữ.
+  • Một source có thể có nhiều bản dịch nếu văn cảnh khác nhau.
+  • Một bản dịch đã khóa chỉ áp dụng cho đúng loại văn cảnh đã khóa.
+  • Tên chiêu thức, cảnh giới, pháp bảo quan trọng nên dùng dạng Hán Việt chuẩn, viết hoa nếu là danh từ riêng.
+  • Vật phẩm phổ thông không cần Hán Việt hóa quá mức.
+  • Nghề nghiệp phải xét bối cảnh.
+  • Chức vị phải xét hệ thống xã hội.
+  • Nếu cùng source và cùng văn cảnh, phải giữ nhất quán.
+  • Nếu không chắc văn cảnh, đánh dấu audit.
+
+### Engine Rules
+  • use context pack
+  • use previous chapter summary
+  • use character profile
+  • use story timeline
+  • use glossary
+  • use name scan
+  • use segment context
+  • avoid over literal translation
+  • avoid over smoothing that changes meaning
+
+## Characters
+N/A
+
+## Glossary
+N/A
+
+## Story Timeline (latest)
+
+## Chapter 0001 - Chương 1: Nghĩa địa pháp bảo
+
+### Summary
+Chapter 1 completed via pipeline.
+
+## Chapter 0002 - Chương 2: Quang mạc nghi
+
+### Summary
+Chapter 2 completed via pipeline.
+
+## Chapter 0003 - Chương 3: Dị mộng
+
+### Summary
+Chapter 3 completed via pipeline.
+
+## Chapter 0004 - Chương 4: Yêu Đao Bành Hải
+
+### Summary
+Chapter 4 completed via pipeline.
+
+## Chapter 0001 - Chương 1: Nghĩa địa pháp bảo
+
+### Summary
+Chapter 1 completed via pipeline.
+
+## Chapter 0002 - 0002 光幕仪
+
+### Summary
+Chapter 2 completed via pipeline.
+
+## Chapter 0003 - Chương 3: Dị mộng
+
+### Summary
+Chapter 3 completed via pipeline.
+
+## Chapter 0005 - Chương 5: Thi thử đại học
+
+### Summary
+Chapter 5 completed via pipeline.
+
+## Chapter 0006 - Chương 6: Thời đại Đại Hắc Ám
+
+### Summary
+Chapter 6 completed via pipeline.
+
+## Chapter 0007 - Chương 7: Nữ thần Nhị Trung
+
+### Summary
+Chapter 7 completed via pipeline.
+
+## Chapter 0008 - Chương 8: Sửa chữa tinh não
+
+### Summary
+Chapter 8 completed via pipeline.
+
+## Chapter 0002 - 0002 光幕仪
+
+### Summary
+Chapter 2 completed via pipeline.
+
+## Chapter 0002 - Chương 2: Quang mạc nghi
+
+### Summary
+Chapter 2 completed via pipeline.
+
+## Chapter 0002 - Chương 2: Quang mạc nghi
+
+### Summary
+Chapter 2 completed via pipeline.
+
+## Chapter 0009 - Chương 9: Cá muối và giày
+
+### Summary
+Chapter 9 completed via pipeline.
+
+## Chapter 0010 - Chương 10: Âm hồn nhập thể
+
+### Summary
+Chapter 10 completed via pipeline.
+
+## Chapter 0011 - 0011 宛若梦幻
+
+### Summary
+Chapter 11 completed via pipeline.
+
+## Chapter 0011 - Chương 11: Như trong mộng
+
+### Summary
+Chapter 11 completed via pipeline.
+
+## Chapter 0012 - Chương 12: Sướng đến bay người
+
+### Summary
+Chapter 12 completed via pipeline.
+
+## Chapter 0013 - Chương 13: Ngạ quỷ đầu thai
+
+### Summary
+Chapter 13 completed via pipeline.
+
+## Chapter 0014 - Chương 14: Ẩn Hồ Tiểu Cảnh
+
+### Summary
+Chapter 14 completed via pipeline.
+
+## Chapter 0015 - Chương 15: Không biết sống chết
+
+### Summary
+Chapter 15 completed via pipeline.
+
+## Chapter 0012 - Chương 12: Sướng đến bay người
+
+### Summary
+Chapter 12 completed via pipeline.
+
+## Chapter 0012 - Chương 12: Sướng đến bay người
+
+### Summary
+Chapter 12 completed via pipeline.
+
+## Chapter 0016 - Chương 16: Một con hải sâm
+
+### Summary
+Chapter 16 completed via pipeline.
+
+## Chapter 0017 - Chương 17: Đại tỷ quỷ thị
+
+### Summary
+Chapter 17 completed via pipeline.
+
+
+## Source Chapter 18 - 0018 强化药剂
+```json
+[
+  {
+    "segment_id": "0001",
+    "text": "# 第18章 强化药剂"
+  },
+  {
+    "segment_id": "0002",
+    "text": "美食一条街人来人往，鱼龙混杂，厕所的环境十分恶劣，臭气熏天。"
+  },
+  {
+    "segment_id": "0003",
+    "text": "李耀捏着鼻子，打开一个蹲坑隔间，果然在隔间大门后面，发现了密密麻麻的几十条信息。"
+  },
+  {
+    "segment_id": "0004",
+    "text": "“你寂寞吗，你渴望吗，漫长的夜晚是否孤枕难眠？赶快联系灵鹤传书号码3877134，魔门妖女、佛宗圣女、美女剑修……几十位佳人任你挑选，长夜不再难熬！”"
+  },
+  {
+    "segment_id": "0005",
+    "text": "“专售各种二手高档飞梭车，车况一流，售价低廉，绝无事故车，灵鹤传书号码893764。”"
+  },
+  {
+    "segment_id": "0006",
+    "text": "“7734982，上百名退役特种兵，十余名炼气期修真者，专门帮你解决任何‘麻烦’！”麻烦两个字是用红笔写的，后面还画着一个骷髅头，煞有介事。"
+  },
+  {
+    "segment_id": "0007",
+    "text": "李耀一目十行，一路搜索，很快找到了自己需要的信息。"
+  },
+  {
+    "segment_id": "0008",
+    "text": "“专供各种强化药剂，价格便宜，效力稳定，副作用小，扫描灵符查看详情。”"
+  },
+  {
+    "segment_id": "0009",
+    "text": "这条信息后面，印着一个由银丝组成，繁复玄奥、错综复杂的灵符。"
+  },
+  {
+    "segment_id": "0010",
+    "text": "李耀从口袋里摸出一台微型随身晶脑，启动了扫描功能，一道蓝光扫过灵符，晶脑光幕中跳出来一个页面，却是浮戈城本地论坛中，“自由交流区”的一个帖子。"
+  },
+  {
+    "segment_id": "0011",
+    "text": "这个帖子里罗列了上百种不同的强化药剂，还详细介绍了价格、效果、副作用以及服用方法等等信息。"
+  },
+  {
+    "segment_id": "0012",
+    "text": "“强化药剂”只是一个统称，基本上，每个宗派甚至每一名稍有炼药知识的修真者都会尝试炼制独门的强化药剂。"
+  },
+  {
+    "segment_id": "0013",
+    "text": "根据原料以及炼制方法的差异，每一种强化药剂也拥有不同的功效。"
+  },
+  {
+    "segment_id": "0014",
+    "text": "有些能提升灵根开发度，强身健体；有些能在瞬间燃烧生命，提升战力；有些能滋养细胞，维持活性，延年益寿；有些则能令人雄风大振，龙精虎猛。"
+  },
+  {
+    "segment_id": "0015",
+    "text": "经过数百年的发展，各大宗派推出了上万种比较安全，稳定而有效的强化药剂，不过售价都十分高昂，一般的平民阶层根本吃不消长期消费。"
+  },
+  {
+    "segment_id": "0016",
+    "text": "这是一个无比庞大的市场，自然而然，就有人想要仿冒强化药剂。"
+  },
+  {
+    "segment_id": "0017",
+    "text": "在上百年的不断试验之后，联邦南方边境，一座名叫“虬龙山寨”的小镇，终于出现了第一种仿制强化药剂。"
+  },
+  {
+    "segment_id": "0018",
+    "text": "这是断人财路的事情，仿制者不敢在强化药剂上光明正大打出名号，干脆标注为“山寨派”出品！"
+  },
+  {
+    "segment_id": "0019",
+    "text": "随着虬龙山寨不断扩张，从一个边境小镇变成拥有数千万人口的联邦第一混乱城市，号称“无法之地”，“山寨”二字，也变成了冒牌货的专属名称。"
+  },
+  {
+    "segment_id": "0020",
+    "text": "李耀准备购买的，就是一款知名青少年高考专用强化药剂的山寨版本。"
+  },
+  {
+    "segment_id": "0021",
+    "text": "这种山寨药剂大多是在小作坊里非法炼制出来，质量极不稳定，一定要找一家比较靠谱的卖家。"
+  },
+  {
+    "segment_id": "0022",
+    "text": "李耀不忙着查看药剂详情，先把帖子拉到最下方，浏览网友评论。"
+  },
+  {
+    "segment_id": "0023",
+    "text": "他发现网友对这个药剂供应商的评价还算不错，看样子也不像是自卖自夸，而且商家提供的地址还是一个有门牌号码的正规地址。"
+  },
+  {
+    "segment_id": "0024",
+    "text": "这种坐商的信誉，就比打一枪换一个地方的流动小贩要高不少了。"
+  },
+  {
+    "segment_id": "0025",
+    "text": "他又把这个地址输入“万象搜索”，也没有查到什么负面新闻。"
+  },
+  {
+    "segment_id": "0026",
+    "text": "这才放下心来，查找自己需要的品种，很快找到相关信息。"
+  },
+  {
+    "segment_id": "0027",
+    "text": "有些意外，这家店铺给出的价格，要比一般的山寨货色高大约5%，不过老板说了，他采用的原材料和正品一模一样，炼制过程也非常规范，炼制出来的强化药剂纯度极高，基本没有副作用。"
+  },
+  {
+    "segment_id": "0028",
+    "text": "权衡了一下，李耀通过灵鹤传书联系老板：“我要一百支‘天骄之路’高考专用强化药剂，有没有现货？”"
+  },
+  {
+    "segment_id": "0029",
+    "text": "“有的，我就在店里，随时可以交易。”这笔生意金额不小，老板很快回应。"
+  },
+  {
+    "segment_id": "0030",
+    "text": "“好，我马上过来。”"
+  },
+  {
+    "segment_id": "0031",
+    "text": "李耀关上晶脑，想了想，摸出一杆笔，在歪歪扭扭的信息缝隙之间，勉强插进去一段话。"
+  },
+  {
+    "segment_id": "0032",
+    "text": "“赤霄派退休高级炼器大师，发挥余热，携十余位精英弟子，专修各类飞剑、法宝、飞梭车，价格实惠，可以上门维修。”"
+  },
+  {
+    "segment_id": "0033",
+    "text": "他在后面留下了自己的工作专用灵鹤号码，心里盘算着，如果真有肥羊上门，可以让老王来扮演“赤霄派退休高级炼器大师”，狠狠宰上一刀。"
+  },
+  {
+    "segment_id": "0034",
+    "text": "满意地拍了拍手，李耀走出公共厕所。"
+  },
+  {
+    "segment_id": "0035",
+    "text": "店主留下的地址，和美食街隔了四个区域，大约五里路，李耀加快脚步。"
+  },
+  {
+    "segment_id": "0036",
+    "text": "穿过两片区域时，他在街角发现了一台“自动灵符售卖机”。"
+  },
+  {
+    "segment_id": "0037",
+    "text": "这是一种很常见的便民设施，里面储备着数百种比较廉价的常用灵符，自助售卖，方便市民。"
+  },
+  {
+    "segment_id": "0038",
+    "text": "李耀心中一动，从口袋里摸出三枚硬币，塞进售卖机的吞币口，手指轻点，选择了“纹面符”。"
+  },
+  {
+    "segment_id": "0039",
+    "text": "售卖机高速震动了两秒钟，从下方的“出货口”，轻飘飘掉出一片东西。"
+  },
+  {
+    "segment_id": "0040",
+    "text": "撕开包装，是一张黏糊糊的面膜，上面镌刻着几十道符文，蜿蜒而下，交织成一束瑰丽的花纹。"
+  },
+  {
+    "segment_id": "0041",
+    "text": "将面膜贴在脸上，伴随着一阵“哧溜哧溜”的声音，李耀感觉面部肌肉一阵收缩和拉扯，凑近路边商店的玻璃橱窗一看，他的脸上布满了蜘蛛般的诡异花纹，就算死党孟江站在眼前，只怕也认不出他是何方神圣。"
+  },
+  {
+    "segment_id": "0042",
+    "text": "地下鬼城鱼龙混杂，李耀还是第一次和这个药剂供应商打交道，不知道对方的底细，不得不小心谨慎，改头换面。"
+  },
+  {
+    "segment_id": "0043",
+    "text": "这样，万一双方闹出什么矛盾，大不了一拍屁股走人，干脆利落，不会留下手尾。"
+  },
+  {
+    "segment_id": "0044",
+    "text": "这种“纹面符”，在脸上催生出独特花纹，根据使用环境不同，效果可以维持十个钟头左右，是地下鬼市大受欢迎的热销灵符。"
+  },
+  {
+    "segment_id": "0045",
+    "text": "特别是在进行灰色交易时，几乎人手一张，所以李耀也不怕药剂老板会起什么疑心。"
+  },
+  {
+    "segment_id": "0046",
+    "text": "第六十三区是地下鬼市的灵能供应区，负责为整座地下要塞的通风管道和基础设施提供源源不断的灵力。"
+  },
+  {
+    "segment_id": "0047",
+    "text": "这里行人不多，通道狭窄，四周都是纵横交错的粗大管道，犹如万千金属巨蛇盘踞，因为年久失修，不少管道都锈迹斑斑，从接缝处“嗤嗤”往外喷射着蒸汽。"
+  },
+  {
+    "segment_id": "0048",
+    "text": "阴暗的金属甬道，晶石灵灯坏了一半，剩下一半也是时明时暗，灯光忽隐忽现。"
+  },
+  {
+    "segment_id": "0049",
+    "text": "在甬道最深处，半开着一扇狭窄的铁门，门上烙印着一头张牙舞爪的黑狼，黑狼头上还插着一柄带血的军刺，而铁门上面，用铁条焊接成四个方方正正的字："
+  },
+  {
+    "segment_id": "0050",
+    "text": "“军道杀狼！”"
+  },
+  {
+    "segment_id": "0051",
+    "text": "从里面，传来暴喝声，“砰砰”的击打声，铁锈的味道，还有浓郁的男性汗臭味。"
+  },
+  {
+    "segment_id": "0052",
+    "text": "这是一处修炼馆。"
+  }
+]
+```
+
+## Output Format
+CRITICAL INSTRUCTION: You MUST translate the source text EXACTLY paragraph by paragraph, preserving the original order perfectly. DO NOT skip, drop, merge, or reorder any paragraphs. Each paragraph in the source MUST be translated.
+Return ONLY valid JSON matching this schema:
+{
+  "chapter_number": 18,
+  "chapter_title_vi": "Chương 18: <Vietnamese title>",
+  "segments": [
+    {
+      "segment_id": "XXXX",
+      "source": "...",
+      "target": "..."
+    }
+  ]
+}

@@ -1,0 +1,265 @@
+Dưới đây là bản dịch đã được sửa lỗi `cjk_leftover` (loại bỏ các dấu ngoặc kép CJK `《` và `》` trong segment 0027 và thay thế bằng dấu nháy đơn `'` để đồng nhất với các tên gọi khác trong đoạn).
+
+```json
+{
+  "chapter_number": 12,
+  "chapter_title_vi": "Chương 12: Sướng đến bay người",
+  "segments": [
+    {
+      "segment_id": "0001",
+      "source": "# 第12章 爽到飞起",
+      "target": "# Chương 12: Sướng đến bay người"
+    },
+    {
+      "segment_id": "0002",
+      "source": "“痛，痛痛痛痛痛痛痛！”",
+      "target": "\"Đau, đau đau đau đau đau đau đau!\""
+    },
+    {
+      "segment_id": "0003",
+      "source": "李耀的头一个感觉就是头痛欲裂，梦境中栩栩如生的数百年光阴化作恒河沙数的信息流，如山洪暴发一般在他脑域深处横冲直撞，最后直接撞进了前额的松果体！",
+      "target": "Cảm giác đầu tiên của Lý Diệu chính là đau đầu như búa bổ, mấy trăm năm thời gian sống động như thật trong mộng cảnh hóa thành dòng thông tin nhiều như hằng hà sa số, giống như lũ quét hung hăng va chạm trong sâu thẳm não vực của hắn, cuối cùng trực tiếp đâm thẳng vào tuyến tùng trước trán!"
+    },
+    {
+      "segment_id": "0004",
+      "source": "眉心处一跳一跳，就像是一株雨后春笋，即将冲破颅骨，破体而出！",
+      "target": "Vị trí mi tâm giật giật, giống như một mầm măng sau cơn mưa sắp đâm thủng hộp sọ, chui ra khỏi cơ thể!"
+    },
+    {
+      "segment_id": "0005",
+      "source": "随之而来的是一种无法用笔墨形容的古怪感觉。",
+      "target": "Kéo theo đó là một loại cảm giác kỳ quái không cách nào diễn tả bằng bút mực."
+    },
+    {
+      "segment_id": "0006",
+      "source": "就好像他原本是一个裹着重重外壳的“套中人”，而每一次痛楚都把他的“外壳”撕开一道口子，令他的五感大幅提升，感知到精彩万分的真实世界。",
+      "target": "Cứ như thể hắn vốn là một \"người trong bao\" được bọc bởi lớp vỏ tầng tầng lớp lớp, mà mỗi một lần đau đớn đều xé rách \"lớp vỏ\" của hắn ra một cái miệng nhỏ, khiến cho ngũ quan của hắn tăng lên diện rộng, cảm nhận được thế giới chân thực đặc sắc vạn phần."
+    },
+    {
+      "segment_id": "0007",
+      "source": "他在瞬间数清了天花板上有327道裂纹，看清楚了三米开外茶杯上镌刻的上百个蝇头小字，并且想起这是133年前一位联邦军旅诗人写的战场诗篇，脑中同时浮现出了这位军旅诗人的生平和经历过的七次战役，就连七次战役的胜负都记得一清二楚。",
+      "target": "Hắn trong nháy mắt đếm rõ trên trần nhà có 327 vết nứt, nhìn rõ ràng trên tách trà cách xa ba mét có khắc hàng trăm chữ nhỏ như ruồi, đồng thời nhớ ra đây là một bài thơ chiến trường do một nhà thơ quân đội Liên bang viết cách đây 133 năm, trong đầu đồng thời hiện ra cuộc đời của nhà thơ quân đội này cùng với bảy cuộc chiến dịch mà ông ta từng trải qua, ngay cả thắng bại của bảy cuộc chiến dịch cũng nhớ rành mạch."
+    },
+    {
+      "segment_id": "0008",
+      "source": "顺带便，他还听到在楼下右侧相隔二十米的房间中，传来阵阵灵肉撞击的声音。",
+      "target": "Nhân tiện, hắn còn nghe thấy trong căn phòng dưới lầu bên phải cách đó hai mươi mét, truyền tới từng đợt âm thanh linh nhục va chạm."
+    },
+    {
+      "segment_id": "0009",
+      "source": "“这究竟是怎么回事，简直……爽翻了！”",
+      "target": "\"Chuyện này rốt cuộc là sao, quả thực... sướng điên lên được!\""
+    },
+    {
+      "segment_id": "0010",
+      "source": "李耀眨巴着眼睛，每一次眨眼都觉得世界更加清晰一分，无数种他叫不出名字的斑斓色彩撞击着视觉细胞，撞得他头昏眼花，心花怒放。",
+      "target": "Lý Diệu chớp chớp mắt, mỗi lần chớp mắt đều cảm thấy thế giới dường như rõ ràng hơn một phần, vô số loại màu sắc sặc sỡ mà hắn không gọi nổi tên đập vào tế bào thị giác, đập cho hắn váng đầu hoa mắt, vui sướng như điên."
+    },
+    {
+      "segment_id": "0011",
+      "source": "双手用力揉搓眉心，李耀试图厘清思路，可是大脑中的信息流却似海啸肆虐，大河泛滥，一发不可收拾。",
+      "target": "Hai tay dùng sức xoa nắn mi tâm, Lý Diệu ý đồ làm rõ suy nghĩ, nhưng dòng thông tin trong não lại giống như sóng thần tàn phá, sông lớn tràn đê, một khi đã xảy ra là không thể cứu vãn."
+    },
+    {
+      "segment_id": "0012",
+      "source": "“58942乘以88743等于5230689906！去年八月二十五号发行的第903期联邦修真彩票一等奖中奖号码是73、89、42、74、55、16，奖金是13547328元，扣除14.32%的特别税之后净到手11607350.63元！星耀联邦国土面积3714万平方公里，总人口104.55亿，常备军1674.78万，拥有‘元始天尊’级超巨型战略晶石战列舰13艘；‘通天教主’级重装晶石巡洋舰52艘……”",
+      "target": "\"58942 nhân với 88743 bằng 5230689906! Dãy số trúng giải nhất kỳ 903 của xổ số tu chân Liên bang phát hành vào ngày 25 tháng 8 năm ngoái là 73, 89, 42, 74, 55, 16, tiền thưởng là 13547328 đồng, sau khi khấu trừ 14.32% thuế đặc biệt thực nhận 11607350.63 đồng! Diện tích lãnh thổ Tinh Diệu Liên bang là 37.14 triệu km vuông, tổng dân số 10.455 tỷ, quân thường trực 16.7478 triệu, sở hữu 13 siêu chiến hạm tinh thạch chiến lược khổng lồ cấp 'Nguyên Thủy Thiên Tôn'; 52 tuần dương hạm tinh thạch bọc thép cấp 'Thông Thiên Giáo Chủ'...\""
+    },
+    {
+      "segment_id": "0013",
+      "source": "“我在三年前的5月30号曾经走过罗浮大道和岐山路的交叉十字路口，当天气温13到21度，有2级西北风，在我西南方向十一米处有个穿浅绿色裙子的女人，年纪在二十六到二十九岁之间，裙子被风吹了起来，她的**是粉红色带淡紫色花纹的！”",
+      "target": "\"Ngày 30 tháng 5 ba năm trước ta từng đi qua ngã tư La Phù Đại Đạo và đường Kỳ Sơn, nhiệt độ hôm đó 13 đến 21 độ, có gió Tây Bắc cấp 2, ở hướng Tây Nam cách ta mười một mét có một người phụ nữ mặc váy màu xanh nhạt, tuổi từ hai mươi sáu đến hai mươi chín, váy bị gió thổi tung lên, ** của cô ta là màu hồng nhạt có hoa văn màu tím nhạt!\""
+    },
+    {
+      "segment_id": "0014",
+      "source": "“楼下正在盘肠大战的应该是赵哥家，一分钟内撞击了七十二次，这个频率比赵哥平常表现提升了35.8%，而女人发出的叫声也比平时尖利了至少23.4%，如果不是赵哥吃了什么秘药，恐怕他头上就要带点绿了！”",
+      "target": "\"Dưới lầu đang đại chiến xoắn xuýt kia hẳn là nhà anh Triệu, trong vòng một phút va chạm bảy mươi hai lần, tần suất này so với biểu hiện bình thường của anh Triệu tăng 35.8%, mà tiếng kêu người phụ nữ phát ra cũng chói tai hơn bình thường ít nhất 23.4%, nếu không phải anh Triệu uống bí dược gì đó, chỉ sợ trên đầu anh ta sắp đội nón xanh rồi!\""
+    },
+    {
+      "segment_id": "0015",
+      "source": "“有没有搞错，为什么我忽然能想到那么多东西，处理那么多纷乱的念头，简直像是……修真者一样！”",
+      "target": "\"Có nhầm lẫn gì không, tại sao ta đột nhiên lại có thể nghĩ ra nhiều thứ như vậy, xử lý nhiều ý nghĩ hỗn loạn như vậy, quả thực cứ như là... tu chân giả vậy!\""
+    },
+    {
+      "segment_id": "0016",
+      "source": "李耀被自己的念头吓了一跳，又回想起刚刚逃脱的南柯一梦，后脑勺有些发冷。",
+      "target": "Lý Diệu bị suy nghĩ của mình làm cho hoảng sợ, lại nhớ tới giấc mộng Nam Kha vừa mới thoát khỏi kia, sau gáy có chút ớn lạnh."
+    },
+    {
+      "segment_id": "0017",
+      "source": "他眯着眼睛，在大腿根上狠狠揪了一把，用刺痛来集中思绪，凝神静气，思考前因后果。",
+      "target": "Hắn híp mắt lại, hung hăng véo một cái vào gốc đùi, dùng cảm giác đau nhói để tập trung suy nghĩ, ngưng thần tĩnh khí, tự hỏi nguyên nhân hậu quả."
+    },
+    {
+      "segment_id": "0018",
+      "source": "片刻之后，脑域中庞大的信息库里，跳出上百条有效信息，犹如闪闪发亮的珍珠，串联成了完整的线索链条。",
+      "target": "Một lát sau, trong kho thông tin khổng lồ nơi não vực, nhảy ra hàng trăm thông tin hữu hiệu, tựa như những viên ngọc trai lấp lánh tỏa sáng, xâu chuỗi thành một chuỗi manh mối hoàn chỉnh."
+    },
+    {
+      "segment_id": "0019",
+      "source": "“晶脑，启动！”",
+      "target": "\"Tinh não, khởi động!\""
+    },
+    {
+      "segment_id": "0020",
+      "source": "李耀轻呼一声，床尾浮起一台三角形晶脑，射出一道柔和的光束，在一阵叮咚作响的开机音乐之后，扩散成一张巨大的光幕。",
+      "target": "Lý Diệu khẽ hô một tiếng, đuôi giường nổi lên một đài tinh não hình tam giác, bắn ra một chùm sáng nhu hòa, sau một hồi âm nhạc khởi động kêu đinh đong, khuếch tán thành một tấm quang mạc khổng lồ."
+    },
+    {
+      "segment_id": "0021",
+      "source": "李耀接入万维网，打开一个名叫“万象搜索”的页面，在搜索框中输入“百炼宗”三个字，轻轻按下“发动”符文。",
+      "target": "Lý Diệu kết nối vào mạng Vạn Duy, mở một trang web tên là \"Vạn Tượng Tìm Kiếm\", trong khung tìm kiếm nhập ba chữ \"Bách Luyện Tông\", nhẹ nhàng nhấn phù văn \"Phát động\"."
+    },
+    {
+      "segment_id": "0022",
+      "source": "页面流光溢彩，七彩符文全屏纷舞，组成数段简短的文字。",
+      "target": "Trang web tràn ngập ánh sáng rực rỡ, phù văn bảy màu nhảy múa đầy màn hình, tạo thành vài đoạn văn tự ngắn gọn."
+    },
+    {
+      "segment_id": "0023",
+      "source": "“百炼宗，是迄今47000年前，古典修真时代中期，在‘中州域’的‘洪荒大世界’曾经鼎盛一时的宗派，以擅长炼器、铸剑、打造法宝闻名，特别是第三十六代宗主欧冶子，号称‘器宗’，是名动一方的炼器大师，在多部古代笔记、典籍中都有提及。”",
+      "target": "\"Bách Luyện Tông, là một tông phái từng cực thịnh một thời ở 'Hồng Hoang Đại Thế Giới' thuộc 'Trung Châu Vực' vào khoảng 47000 năm trước tính đến nay, vào thời kỳ giữa của thời đại tu chân cổ điển, nổi tiếng về sở trường luyện khí, đúc kiếm, chế tạo pháp bảo, đặc biệt là tông chủ đời thứ ba mươi sáu Âu Dã Tử, được xưng là 'Khí Tông', là bậc thầy luyện khí danh chấn một phương, trong nhiều cuốn bút ký, điển tịch cổ đại đều có nhắc tới.\""
+    },
+    {
+      "segment_id": "0024",
+      "source": "“大约46000年前，百炼宗因为一场不明原因的大爆炸，山门被毁，短短十几年间就烟消云散，彻底灭亡。”",
+      "target": "\"Khoảng 46000 năm trước, Bách Luyện Tông bởi vì một vụ nổ lớn không rõ nguyên nhân, sơn môn bị hủy, chỉ trong vòng mười mấy năm ngắn ngủi đã khói tiêu mây tan, diệt vong triệt để.\""
+    },
+    {
+      "segment_id": "0025",
+      "source": "“根据目前出土的一些同时代修真者笔记记载，欧冶子号称炼制成功了一种能够穿梭时光的传送阵，在进行第一次试验时不慎引发了灵能潮汐大爆炸，落得灰飞烟灭，神魂俱散的下场。”",
+      "target": "\"Căn cứ theo ghi chép trong một số bút ký của tu chân giả cùng thời đại được khai quật hiện nay, Âu Dã Tử tự xưng luyện chế thành công một loại truyền tống trận có thể xuyên thoi thời gian, lúc tiến hành thử nghiệm lần đầu tiên không cẩn thận dẫn phát vụ nổ lớn linh năng thủy triều, rơi vào kết cục hôi phi yên diệt, thần hồn câu tán.\""
+    },
+    {
+      "segment_id": "0026",
+      "source": "“不过，目前尚未发现任何一处百炼宗的遗迹，所有关于百炼宗的信息，都来源于古代笔记，属于间接证据，欧冶子暴毙、百炼宗衰亡的真实原因，还不得而知。”",
+      "target": "\"Tuy nhiên, trước mắt vẫn chưa phát hiện bất cứ di tích nào của Bách Luyện Tông, tất cả thông tin liên quan đến Bách Luyện Tông đều bắt nguồn từ bút ký cổ đại, thuộc về chứng cứ gián tiếp, nguyên nhân thực sự Âu Dã Tử bạo tễ, Bách Luyện Tông suy vong, đến nay vẫn chưa được biết rõ.\""
+    },
+    {
+      "segment_id": "0027",
+      "source": "“附：在我们‘万象派’开发的最新游戏《古修世界剑侠传》中，就有百炼宗的出现，玩家可以扮演百炼宗弟子，和‘器宗’欧冶子直接交流，探索最玄妙的炼器奥秘！现在加入即赠送新手大礼包，前一万名下载神念的玩家，还有追加五套酷炫战甲，还等什么，赶快下载神念，进入游戏吧！”",
+      "target": "\"Đính kèm: Trong tựa game mới nhất 'Cổ Tu Thế Giới Kiếm Hiệp Truyện' do 'Vạn Tượng Phái' chúng tôi phát triển, liền có sự xuất hiện của Bách Luyện Tông, người chơi có thể hóa thân thành đệ tử Bách Luyện Tông, trực tiếp giao lưu với 'Khí Tông' Âu Dã Tử, khám phá bí ẩn luyện khí huyền diệu nhất! Tham gia ngay lúc này sẽ được tặng quà tân thủ, một vạn người chơi tải thần niệm đầu tiên, còn được tặng thêm năm bộ chiến giáp siêu ngầu, còn chờ gì nữa, mau tải thần niệm, tiến vào trò chơi đi!\""
+    },
+    {
+      "segment_id": "0028",
+      "source": "李耀直接忽略了最后一条信息，把前面几段话翻来覆去，看了又看。",
+      "target": "Lý Diệu trực tiếp bỏ qua dòng thông tin cuối cùng, đem mấy đoạn lời nói phía trước lật đi lật lại, xem đi xem lại nhiều lần."
+    },
+    {
+      "segment_id": "0029",
+      "source": "渐渐的，他的眼睛明亮起来，脑海中神念飞转，无数念头如同丝线穿梭，交织成了一副错综复杂的精美图案。",
+      "target": "Dần dần, đôi mắt của hắn sáng ngời hẳn lên, thần niệm trong đầu vận chuyển bay lượn, vô số ý nghĩ tựa như sợi tơ xuyên qua, đan xen thành một bức vẽ tinh mỹ phức tạp."
+    },
+    {
+      "segment_id": "0030",
+      "source": "“原来如此，百炼宗是真实存在的古老宗派，欧冶子也是天纵英才的炼器大师，他在四万六千年前就发明了一种能够穿梭时光的‘时间机器’，并且亲自试验，没想到引发了一场惊天动地的大爆炸，导致百炼宗毁灭。”",
+      "target": "\"Hóa ra là vậy, Bách Luyện Tông là tông phái cổ lão tồn tại chân thực, Âu Dã Tử cũng là bậc thầy luyện khí thiên tài xuất chúng, ông ta đã phát minh ra một loại 'cỗ máy thời gian' có thể xuyên thoi thời gian vào bốn vạn sáu ngàn năm trước, đồng thời đích thân thử nghiệm, không ngờ lại gây ra một vụ nổ kinh thiên động địa, dẫn đến sự hủy diệt của Bách Luyện Tông.\""
+    },
+    {
+      "segment_id": "0031",
+      "source": "“百炼宗虽然被毁灭，欧冶子的试验却是成功了，他真的跨越了时间的壁障，来到了四万六千年后的修真40000年代！”",
+      "target": "\"Bách Luyện Tông tuy rằng bị hủy diệt, thử nghiệm của Âu Dã Tử lại thành công, ông ta thật sự đã vượt qua rào cản thời gian, đi tới niên đại tu chân 40000 của bốn vạn sáu ngàn năm sau!\""
+    },
+    {
+      "segment_id": "0032",
+      "source": "“这个时代，拥有无数古代修真者想都想不到的神奇法宝，欧冶子这样的炼器狂人，当然是见猎心喜，特别是对‘超高速晶轨列车’这样的现代大型法宝系统，一见到了，哪有不好好研究一番的道理？”",
+      "target": "\"Thời đại này sở hữu vô số pháp bảo thần kỳ mà tu chân giả cổ đại nghĩ cũng không dám nghĩ tới, kẻ cuồng luyện khí như Âu Dã Tử, đương nhiên là thấy cái hay liền hớn hở, đặc biệt là đối với hệ thống pháp bảo cỡ lớn hiện đại như 'đoàn tàu tinh quỹ siêu tốc', một khi đã nhìn thấy, làm gì có đạo lý không nghiên cứu cẩn thận một phen chứ?\""
+    },
+    {
+      "segment_id": "0033",
+      "source": "“结果他就被列车……撞死了！”",
+      "target": "\"Kết quả là ông ta liền bị đoàn tàu... tông chết!\""
+    },
+    {
+      "segment_id": "0034",
+      "source": "“估计，时间旅行这种事情，对修真者的身体损伤也是很大，欧冶子一定是受了重创，修为大跌，否则以他在梦境中表现出来的强横实力，说不定还真能把列车撞到桥下去。”",
+      "target": "\"Dự đoán, chuyện du hành thời gian này, tạo thành tổn thương cho cơ thể tu chân giả cũng rất lớn, Âu Dã Tử nhất định là đã bị thương nặng, tu vi rớt thê thảm, bằng không với thực lực cường hãn mà ông ta thể hiện ra trong mộng cảnh, nói không chừng còn có thể thật sự đụng đoàn tàu rớt xuống gầm cầu đấy.\""
+    },
+    {
+      "segment_id": "0035",
+      "source": "“不管怎么说，欧冶子的躯体被晶轨列车撕成碎片，可是他庞大无比的神魂却没那么容易烟消云散，正好遇上我从桥下路过，就一股脑儿涌入我的身体，妄图‘夺舍’！”",
+      "target": "\"Dù nói thế nào đi chăng nữa, thân thể Âu Dã Tử bị đoàn tàu tinh quỹ xé thành mảnh vụn, thế nhưng thần hồn khổng lồ vô song của ông ta lại không dễ dàng tiêu tan như thế, đúng lúc gặp gỡ ta đi ngang qua dưới gầm cầu, liền ào ào tràn vào cơ thể ta, vọng tưởng 'đoạt xá'!\""
+    },
+    {
+      "segment_id": "0036",
+      "source": "“是了，当时我感到一股阴风在体内肆虐，一定是这老小子不怀好意，梦中种种异象，都是他装神弄鬼，倘若没有及时看破，此刻躺在床上的人，一定以为自己就是货真价实的‘欧冶子’！”",
+      "target": "\"Đúng rồi, lúc ấy ta cảm thấy có một luồng âm phong tàn phá trong cơ thể, nhất định là lão già này không có ý tốt, các loại dị tượng trong mộng đều là do ông ta giả thần giả quỷ, nếu không kịp thời nhìn thấu, người lúc này nằm trên giường nhất định sẽ cho rằng mình chính là 'Âu Dã Tử' hàng thật giá thật!\""
+    },
+    {
+      "segment_id": "0037",
+      "source": "“可是，我只是一个修为低微的普通人，怎么可能抵挡住欧冶子的强大神魂，令他夺舍失败？”",
+      "target": "\"Nhưng mà, ta chỉ là một người bình thường tu vi thấp kém, làm sao có thể chống đỡ được thần hồn cường đại của Âu Dã Tử, khiến cho ông ta đoạt xá thất bại?\""
+    },
+    {
+      "segment_id": "0038",
+      "source": "李耀心思电转，沉吟片刻，回想起在南柯一梦中，自己即将和太阿上人之女洞房时，曾经出现过一缕不和谐的波纹。",
+      "target": "Tâm tư Lý Diệu thay đổi thật nhanh, trầm ngâm một lát, nhớ lại trong giấc mộng Nam Kha kia, thời điểm mình sắp động phòng với con gái Thái A Thượng Nhân, từng xuất hiện qua một gợn sóng không hài hòa."
+    },
+    {
+      "segment_id": "0039",
+      "source": "脑中忽然灵光一闪，找到了原因所在。",
+      "target": "Trong đầu chợt lóe lên linh quang, đã tìm thấy nguyên nhân."
+    },
+    {
+      "segment_id": "0040",
+      "source": "“哈哈，欧冶子这个老小子真是倒霉！”",
+      "target": "\"Ha ha, lão già Âu Dã Tử này thật là xui xẻo!\""
+    },
+    {
+      "segment_id": "0041",
+      "source": "“以他强横无匹的神魂修为，无论是夺舍联邦中任何一个人，就算是一些低阶修真者，恐怕都不会遇上半点麻烦。”",
+      "target": "\"Với tu vi thần hồn cường hãn vô đối của ông ta, bất kể là đoạt xá bất kỳ ai trong Liên bang, cho dù là một ít tu chân giả cấp thấp, e rằng cũng sẽ không gặp phải nửa điểm phiền phức.\""
+    },
+    {
+      "segment_id": "0042",
+      "source": "“可是我不同，在我的脑域深处，原本就潜藏着一份不属于这个世界的记忆，从某种意义上讲，我这具身体，已经被‘地球人李耀’夺舍过一次，相当于注射过一次疫苗，对夺舍有了天然的抵抗力。”",
+      "target": "\"Nhưng ta thì khác, trong sâu thẳm não vực của ta vốn đã ẩn giấu một phần ký ức không thuộc về thế giới này, xét ở một ý nghĩa nào đó, thân thể này của ta đã bị 'người Trái Đất Lý Diệu' đoạt xá một lần, tương đương với đã tiêm một liều vắc-xin, có sức đề kháng bẩm sinh với đoạt xá.\""
+    },
+    {
+      "segment_id": "0043",
+      "source": "“再凶险的病毒，对注射过疫苗的人都无能为力，合该欧冶子走背字，非但没能夺舍成功，反而给我留下莫大的好处！”",
+      "target": "\"Virus có nguy hiểm cỡ nào đi chăng nữa thì đối với người đã tiêm vắc-xin đều trở nên vô lực, nên Âu Dã Tử xui xẻo, không những không thể đoạt xá thành công mà ngược lại còn để lại cho ta một lợi ích to lớn!\""
+    },
+    {
+      "segment_id": "0044",
+      "source": "李耀再怎么迟钝，都意识到在自己身上恐怕发生了不得了的变化，至少他的思维比过去敏捷了不下十倍。",
+      "target": "Dù Lý Diệu có trì độn đến mấy cũng ý thức được trên người mình e là đã xảy ra thay đổi lớn nào đó, ít nhất tư duy của hắn so với lúc trước mẫn tiệp hơn không dưới mười lần."
+    },
+    {
+      "segment_id": "0045",
+      "source": "别的不提，就说他根据一鳞半爪的信息，在三分钟之内把前因后果思考得八九不离十，换成以前，只怕三天三夜都想不明白。",
+      "target": "Những cái khác không đề cập tới, chỉ tính việc hắn dựa vào thông tin rải rác rời rạc, trong vòng ba phút đã suy nghĩ trước sau của sự việc đúng đến tám chín phần mười, đổi lại là trước đây, chỉ sợ ba ngày ba đêm đều nghĩ không rõ ràng."
+    },
+    {
+      "segment_id": "0046",
+      "source": "“冥修课的老师曾经说过，冥修的最高境界，就是进入一种‘时间流动无比缓慢，真实世界一秒钟，仿佛精神世界一年’的奇妙状态，在这种状态下修炼，对提升灵根开发度大有好处！”",
+      "target": "\"Giáo viên tiết minh tu từng nói, cảnh giới tối cao của minh tu, chính là tiến vào một loại trạng thái kỳ diệu 'thời gian trôi đi vô cùng chậm chạp, thế giới thực một giây, thế giới tinh thần tựa như một năm', tu luyện trong trạng thái này, đối với việc nâng cao độ phát triển linh căn có lợi ích cực lớn!\""
+    },
+    {
+      "segment_id": "0047",
+      "source": "“我在南柯一梦中，好似度过了数百年光阴，难道正是进入了此种玄之又玄的境界，又被欧冶子的强大神魂磨砺，在不知不觉中，大大提升了灵根开发度？”",
+      "target": "\"Ta ở trong giấc mộng Nam Kha dường như đã trải qua mấy trăm năm thời gian, lẽ nào chính là bước vào loại cảnh giới huyền diệu khó giải thích này, lại bị thần hồn cường đại của Âu Dã Tử mài giũa, trong lúc vô tình, đã tăng mạnh độ phát triển linh căn?\""
+    },
+    {
+      "segment_id": "0048",
+      "source": "李耀听老师说过，灵根开发度的提升，会在瞬间大幅提升记忆力、分析计算力、思维力和感知力。",
+      "target": "Lý Diệu từng nghe giáo viên nói, độ phát triển linh căn tăng lên, sẽ trong nháy mắt nâng cao mạnh mẽ năng lực ghi nhớ, năng lực phân tích tính toán, năng lực tư duy cùng năng lực cảm nhận."
+    },
+    {
+      "segment_id": "0049",
+      "source": "另一个更加直接的标志，就是眉心处的“松果体”，会有春笋呼之欲出的感觉。",
+      "target": "Một dấu hiệu trực tiếp hơn nữa, chính là 'tuyến tùng' ở vị trí mi tâm, sẽ có cảm giác như măng mọc sau cơn mưa."
+    },
+    {
+      "segment_id": "0050",
+      "source": "这些迹象，都和他身上发生的异变一模一样！",
+      "target": "Những dấu hiệu này, đều giống hệt với dị biến xảy ra trên người hắn!"
+    },
+    {
+      "segment_id": "0051",
+      "source": "“发达了发达了，不知道我的灵根开发度提升了多少，有没有实力把重点班那帮鼻孔朝天的天之骄子都打成猪头？”",
+      "target": "\"Phát tài rồi phát tài rồi, không biết độ phát triển linh căn của ta tăng lên bao nhiêu, có đủ thực lực đánh đám con cưng của trời lỗ mũi hếch lên trời trong lớp chọn thành đầu heo hay không?\""
+    }
+  ]
+}
+```

@@ -1,0 +1,20 @@
+```json
+{
+  "approved": [
+    "女修白洁",
+    "少年剑仙阿宾"
+  ],
+  "rejected": [
+    "。\n“太老了",
+    "狡猾的炼药大"
+  ],
+  "uncertain": []
+}
+```
+
+### Explanation:
+* **Approved**: 
+  * `女修白洁` (Female cultivator Bai Jie) and `少年剑仙阿宾` (Young Sword Immortal A Bin) are complete, valid character designations consisting of a title and a name, suitable for a glossary.
+* **Rejected**: 
+  * `。\n“太老了` is a text fragment containing punctuation, a newline, and a partial quote ("Too old").
+  * `狡猾的炼药大` is truncated at the end (likely missing "师" to make it "Cunning Alchemy Grandmaster") and is therefore incomplete.

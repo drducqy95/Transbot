@@ -1,0 +1,17 @@
+```json
+{
+  "approved": [],
+  "rejected": [
+    {
+      "term": "中，就有百炼",
+      "reason": "This is a sentence fragment ('Among them, there is Bailian') rather than a standalone term."
+    }
+  ],
+  "uncertain": [
+    {
+      "term": "古修世界剑侠",
+      "reason": "This appears to be a compound phrase ('Ancient Cultivation World' + 'Swordsman/Sword Immortal') rather than a single distinct glossary term. It might be better split into '古修世界' and '剑侠'."
+    }
+  ]
+}
+```

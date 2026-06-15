@@ -1,0 +1,198 @@
+```json
+{
+  "chapter_number": 29,
+  "chapter_title_vi": "Chương 29: Người đúc Yêu Đao",
+  "segments": [
+    {
+      "segment_id": "0001",
+      "source": "# 第29章 铸造妖刀的人",
+      "target": "# Chương 29: Người đúc Yêu Đao"
+    },
+    {
+      "segment_id": "0002",
+      "source": "走过来的这个老头子头发花白稀疏，双眼灰白，似乎有白内障，身材伛偻，喘息急促，简直一阵风都能吹倒。",
+      "target": "Lão già đi tới tóc hoa râm lưa thưa, hai mắt xam xám dường như bị đục thủy tinh thể, thân hình còng xuống, thở dốc liên hồi, quả thực một cơn gió cũng có thể thổi ngã."
+    },
+    {
+      "segment_id": "0003",
+      "source": "李耀记得，开学时他和同学一起去仓库领校服，曾经见过这个姓孙的老头。",
+      "target": "Lý Diệu nhớ lại, lúc khai giảng hắn cùng bạn học tới nhà kho nhận đồng phục đã từng gặp lão già họ Tôn này."
+    },
+    {
+      "segment_id": "0004",
+      "source": "“他可不是一般的仓库管理员，我听说这个老头‘孙彪’在七十多年前就已经是学校的武技老师，是非常厉害的高手，而且眼光很毒，**出了不少修炼天才，当年就是他在贫民窟一眼看出‘妖刀彭海’的不凡之处，把彭海特招进学校！不过他已经一百五十多岁，十年前就不教学生，算半退休状态，只是在家里闲不住，干脆来工作了一辈子的学校里当个仓库管理员，消磨时间。别看他瘦不拉几，毫不起眼，在学校里有很高的威望，连校长赵秃头都要卖他几分面子！”孟江是学校里的八卦王，滔滔不绝地介绍起来。",
+      "target": "\"Ông ấy không phải người quản lý nhà kho bình thường đâu, tớ nghe nói ông lão 'Tôn Bưu' này từ hơn bảy mươi năm trước đã là giáo viên võ kỹ của trường rồi, là một cao thủ rất lợi hại. Hơn nữa mắt nhìn người rất chuẩn, đào tạo ra không ít thiên tài tu luyện. Năm đó chính ông ấy đã liếc mắt một cái nhìn ra điểm bất phàm của 'Yêu Đao Bành Hải' ở khu ổ chuột, đặc cách chiêu mộ Bành Hải vào trường! Nhưng ông ấy đã hơn một trăm năm mươi tuổi rồi, mười năm trước đã không dạy học sinh nữa, coi như ở trạng thái bán hưu trí. Chẳng qua là ở nhà rảnh rỗi không chịu được, dứt khoát đến ngôi trường đã làm việc cả đời này làm quản lý nhà kho, giết thời gian. Đừng thấy ông ấy gầy gò ốm yếu, trông chẳng có gì nổi bật, ông ấy có uy vọng rất cao trong trường, ngay cả hiệu trưởng Triệu trọc đầu cũng phải nể mặt ông ấy mấy phần!\" Mạnh Giang là vua hóng hớt trong trường, thao thao bất tuyệt giới thiệu."
+    },
+    {
+      "segment_id": "0005",
+      "source": "“发掘‘妖刀彭海’的人！”李耀肃然起敬。",
+      "target": "\"Người đã phát hiện ra 'Yêu Đao Bành Hải'!\" Lý Diệu nghiêm nghị hẳn lên."
+    },
+    {
+      "segment_id": "0006",
+      "source": "“没想到孙老会出现，看来事情还有转机，记得，在他老人家面前机灵点，说不定是福不是祸，快去吧！”孟江用力推了李耀一把，忽然又道，“等等！”",
+      "target": "\"Không ngờ Tôn lão lại xuất hiện, xem ra mọi chuyện vẫn còn bước ngoặt. Nhớ kỹ, trước mặt lão nhân gia ngài ấy phải lanh lợi một chút, nói không chừng trong cái rủi lại có cái may, mau đi đi!\" Mạnh Giang dùng sức đẩy Lý Diệu một cái, bỗng nhiên lại nói: \"Đợi đã!\""
+    },
+    {
+      "segment_id": "0007",
+      "source": "“嗯？”李耀站住。",
+      "target": "\"Hử?\" Lý Diệu đứng lại."
+    },
+    {
+      "segment_id": "0008",
+      "source": "“小妖，你刚才说，面对敌人的威胁，一定要先血拼到底，然后再讲道理或者妥协，听起来是很有气势啦——可是万一拼不过怎么办？”孟江刚才一直在琢磨李耀的话，越琢磨越觉得很酷很炫很霸气，可是隐隐觉得有什么地方不对，这会儿才反应过来。",
+      "target": "\"Tiểu Yêu, cậu vừa nói, đối mặt với sự uy hiếp của kẻ địch, nhất định phải liều mạng tới cùng trước, sau đó mới nói lý lẽ hoặc thỏa hiệp, nghe thì rất có khí thế đấy... nhưng ngộ nhỡ liều không lại thì phải làm sao?\" Mạnh Giang vừa rồi luôn cân nhắc những lời Lý Diệu nói, càng cân nhắc càng cảm thấy rất ngầu rất oách rất bá đạo, nhưng lại loáng thoáng cảm thấy có chỗ nào đó không đúng, đến lúc này mới phản ứng lại được."
+    },
+    {
+      "segment_id": "0009",
+      "source": "“拼不过就跑，跑不掉就挨，挨不住了还可以去死啊！”李耀冲死党一翻白眼，向仓库管理员孙彪走去。",
+      "target": "\"Liều không lại thì bỏ chạy, chạy không thoát thì chịu đòn, chịu không nổi nữa thì vẫn có thể đi chết mà!\" Lý Diệu trợn trắng mắt với bạn chí cốt, đi về phía người quản lý nhà kho Tôn Bưu."
+    },
+    {
+      "segment_id": "0010",
+      "source": "他比孙彪高了足足一个头，站在对方面前，只能看到一个头发稀疏的头顶心，布满了老人斑，看似平平无奇。",
+      "target": "Hắn cao hơn Tôn Bưu chừng một cái đầu, đứng trước mặt đối phương chỉ có thể nhìn thấy một đỉnh đầu tóc lưa thưa, đầy đồi mồi, nhìn qua trông rất bình thường."
+    },
+    {
+      "segment_id": "0011",
+      "source": "李耀却是紧张到了极点，一颗心砰砰乱跳——对方可是发掘了“妖刀彭海”的人！",
+      "target": "Nhưng Lý Diệu lại căng thẳng tới cực điểm, trái tim đập thình thịch... đối phương chính là người đã phát hiện ra \"Yêu Đao Bành Hải\" cơ mà!"
+    },
+    {
+      "segment_id": "0012",
+      "source": "孙彪侧着脖子，似乎颈椎不太好，有些吃力地偏过脑袋，仔仔细细打量了半天。",
+      "target": "Tôn Bưu nghiêng cổ, tựa hồ đốt sống cổ không tốt lắm, hơi tốn sức ngoảnh đầu qua, cẩn thận đánh giá hắn hồi lâu."
+    },
+    {
+      "segment_id": "0013",
+      "source": "那眼神，就像是狂热的美食家盯着一块鲜嫩多汁的小牛肉，直到李耀头皮发麻，脊背发凉，老头才慢吞吞地说：“镁粉撒得不错！”",
+      "target": "Ánh mắt kia, giống như một nhà sành ăn cuồng nhiệt đang nhìn chằm chằm vào một miếng thịt bê non mềm mọng nước, mãi đến khi Lý Diệu thấy tê dại cả da đầu, lạnh toát sống lưng, ông lão mới chậm rãi nói: \"Rắc bột magie khá lắm!\""
+    },
+    {
+      "segment_id": "0014",
+      "source": "李耀一愣，不由露出微笑，他也觉得自己撒得一手好镁粉，一招就抢占先机，奠定胜局。",
+      "target": "Lý Diệu sửng sốt, không khỏi mỉm cười. Hắn cũng tự thấy mình rắc bột magie rất điệu nghệ, chỉ một chiêu đã chiếm được tiên cơ, đặt nền móng cho chiến thắng."
+    },
+    {
+      "segment_id": "0015",
+      "source": "否则以赵亮60%的灵根开发度，老老实实交手，谁把谁打成猪头还不一定呢！",
+      "target": "Nếu không với 60% độ khai phá linh căn của Triệu Lượng, thành thành thật thật giao thủ, ai đánh ai thành đầu heo còn chưa biết được!"
+    },
+    {
+      "segment_id": "0016",
+      "source": "“不过——”孙彪话锋一转，伸出两根枯枝般的手指头，“如果换成是我，撒的就不是镁粉，而是沙袋里的铁砂，只要力量足够，一下子就击穿对方的视网膜，令对手完全丧失视力！然后在地上洒满铁钉，对方看不见，一脚踩上去，脚心绝对洞穿！虽然不至于致命，但这种温室里成长起来的乖宝宝，最怕痛的嘛，一定丧失移动力！视力和移动力都丧失了，只要两秒钟，就能干掉他！”",
+      "target": "\"Thế nhưng...\" Tôn Bưu chuyển đề tài, duỗi ra hai ngón tay như cành cây khô, \"Nếu đổi lại là ta, thứ rắc ra sẽ không phải là bột magie mà là cát sắt trong bao cát. Chỉ cần sức lực đủ lớn, lập tức sẽ đâm thủng võng mạc của đối phương, khiến đối thủ hoàn toàn mất đi thị lực! Sau đó rải đầy đinh sắt trên mặt đất, đối phương không nhìn thấy, một cước đạp lên, lòng bàn chân tuyệt đối bị đâm thủng! Mặc dù không đến mức mất mạng, nhưng loại bé ngoan lớn lên trong nhà kính này sợ đau nhất, nhất định sẽ mất đi khả năng di chuyển! Thị lực và khả năng di chuyển đều mất đi, chỉ cần hai giây là có thể xử lý được hắn!\""
+    },
+    {
+      "segment_id": "0017",
+      "source": "李耀听得目瞪口呆，半天才反应过来，不由争辩：“当时情况那么紧急，我能偷偷抓到一把镁粉就很不错了，哪有时间剖开沙袋去弄里面的铁砂？铁钉就更夸张，体育馆里哪有大把铁钉给我洒？”",
+      "target": "Lý Diệu nghe mà trợn mắt há mồm, hồi lâu sau mới phản ứng lại, không khỏi phân bua: \"Tình huống lúc đó khẩn cấp như vậy, cháu có thể lén lút vơ được một nắm bột magie là tốt lắm rồi, làm gì có thời gian rạch bao cát ra để lấy cát sắt bên trong? Đinh sắt thì lại càng khoa trương, trong nhà thi đấu làm gì có cả đống đinh sắt cho cháu rải?\""
+    },
+    {
+      "segment_id": "0018",
+      "source": "孙彪“嘿嘿”阴笑了两声：“身为一名打架高手，当然是一天二十四个小时，每一秒都要做好战斗的准备，铁砂和铁钉之类的小零碎，根本就该随身携带，就算洗澡的时候，都要在**里夹一根铁钉！你连这点最基本的准备都没有，还敢出来学人家打架？”",
+      "target": "Tôn Bưu \"hắc hắc\" cười gở hai tiếng: \"Với tư cách là một cao thủ đánh lộn, đương nhiên một ngày hai mươi bốn giờ đồng hồ, mỗi một giây đều phải chuẩn bị sẵn sàng để chiến đấu. Những món đồ lặt vặt như cát sắt và đinh sắt, vốn nên mang theo bên mình, ngay cả lúc tắm rửa cũng phải kẹp một cây đinh sắt ở kẽ mông! Cậu ngay cả một chút chuẩn bị cơ bản nhất này cũng không có, còn dám ra ngoài học đòi người ta đánh lộn?\""
+    },
+    {
+      "segment_id": "0019",
+      "source": "李耀一时语塞，忽然觉得这个老头比自己还卑鄙无耻一百倍。",
+      "target": "Lý Diệu nhất thời cứng họng, bỗng nhiên cảm thấy ông lão này còn hèn hạ vô sỉ hơn cả mình gấp một trăm lần."
+    },
+    {
+      "segment_id": "0020",
+      "source": "孙彪冷哼一声，继续道：“不过这年头，真正会打架的年轻人已经越来越少啦，我看你多少还算有点潜质，走，去我那里，陪老头子聊聊吧！”",
+      "target": "Tôn Bưu hừ lạnh một tiếng, tiếp tục nói: \"Nhưng thời buổi này, người trẻ tuổi thực sự biết đánh lộn đã càng ngày càng ít rồi. Ta thấy cậu ít nhiều cũng coi như có chút tiềm chất, đi, đến chỗ ta, theo bồi trò chuyện với ông già này một chút đi!\""
+    },
+    {
+      "segment_id": "0021",
+      "source": "说着，他一转身，背着双手，向仓库走去。",
+      "target": "Nói xong, ông xoay người, chắp hai tay sau lưng đi về phía nhà kho."
+    },
+    {
+      "segment_id": "0022",
+      "source": "李耀犹豫了一下，老老实实跟在老头子后面。",
+      "target": "Lý Diệu do dự một chút, thành thật đi theo sau ông lão."
+    },
+    {
+      "segment_id": "0023",
+      "source": "然后他就发现了一件怪事——孙彪看似颤颤巍巍，挪着小碎步，一个喷嚏就能吹倒，可速度一点都不慢，而且像是后脑勺上长着眼睛，随着李耀的速度变化，始终保持在他前面五米。",
+      "target": "Rồi sau đó hắn liền phát hiện ra một chuyện kỳ lạ — Tôn Bưu nhìn như run run rẩy rẩy, lê từng bước nhỏ xíu, một cái hắt hơi cũng có thể thổi ngã, nhưng tốc độ lại một chút cũng không chậm, hơn nữa giống như sau gáy mọc mắt, nương theo tốc độ thay đổi của Lý Diệu, ông luôn duy trì khoảng cách năm mét ở phía trước hắn."
+    },
+    {
+      "segment_id": "0024",
+      "source": "李耀有些不信邪，一咬牙，干脆施展《灵蛇步法》，一路小跑起来。",
+      "target": "Lý Diệu có chút không tin tà, cắn răng một cái, dứt khoát thi triển \"Linh Xà Bộ Pháp\", chạy chậm một mạch."
+    },
+    {
+      "segment_id": "0025",
+      "source": "孙彪依旧背负双手，步履蹒跚。",
+      "target": "Tôn Bưu vẫn chắp hai tay sau lưng, bước đi tập tễnh."
+    },
+    {
+      "segment_id": "0026",
+      "source": "可是无论李耀怎么加速，甚至跑得满头热汗直冒，都无法缩短哪怕一根头发丝的距离！",
+      "target": "Nhưng cho dù Lý Diệu tăng tốc thế nào, thậm chí chạy đến mức mồ hôi nóng túa ra đầy đầu, cũng không cách nào rút ngắn lại khoảng cách dù chỉ bằng một sợi tóc!"
+    },
+    {
+      "segment_id": "0027",
+      "source": "“是极高明的武技步法，还是缩地成寸之类的修真仙法？”李耀心中无比讶异。",
+      "target": "\"Là bộ pháp võ kỹ cực kỳ cao minh, hay là tiên pháp tu chân kiểu như súc địa thành thốn?\" Lý Diệu vô cùng kinh ngạc trong lòng."
+    },
+    {
+      "segment_id": "0028",
+      "source": "直到旁边有几名同学慢条斯理地走过，他才恍然意识到，并非孙彪走得太快，而是自己实在太慢了！",
+      "target": "Mãi cho đến khi có vài người bạn học chậm rãi thong thả đi ngang qua bên cạnh, hắn mới chợt ý thức được, không phải Tôn Bưu đi quá nhanh, mà là bản thân mình thực sự quá chậm!"
+    },
+    {
+      "segment_id": "0029",
+      "source": "他明明施展出《灵蛇步法》极速狂飙，可是跑了半天依旧没跑出十米距离，直到同学路过之前，根本没意识到有什么不对劲！",
+      "target": "Hắn rõ ràng đã thi triển \"Linh Xà Bộ Pháp\" lao đi với tốc độ cực nhanh, thế nhưng chạy cả nửa ngày vẫn không qua khỏi khoảng cách mười mét, mãi đến trước lúc bạn học đi ngang qua, hắn hoàn toàn không ý thức được có gì đó không đúng!"
+    },
+    {
+      "segment_id": "0030",
+      "source": "“难道是精神幻术攻击？”李耀头皮发麻，终于认识到孙彪的深不可测，不敢再胡乱造次，收住脚步，夹着尾巴，老老实实跟在孙彪身后。",
+      "target": "\"Lẽ nào là công kích huyễn thuật tinh thần?\" Lý Diệu tê dại da đầu, cuối cùng cũng nhận ra sự sâu không lường được của Tôn Bưu, không dám làm càn thêm nữa, thu lại bước chân, ngoan ngoãn cụp đuôi đi theo sau lưng Tôn Bưu."
+    },
+    {
+      "segment_id": "0031",
+      "source": "说来奇怪，他收住脚步，两人的速度反而不可思议地快了起来，九号体育馆距离后勤仓库有大约一千多米，可是才走了一分钟就看到仓库大门。",
+      "target": "Nói ra cũng kỳ lạ, hắn thu bước chân lại, tốc độ của hai người ngược lại nhanh lên một cách không thể tưởng tượng nổi. Nhà thi đấu số chín cách nhà kho hậu cần khoảng hơn một nghìn mét, thế mà mới đi một phút đã nhìn thấy cổng lớn nhà kho."
+    },
+    {
+      "segment_id": "0032",
+      "source": "后勤仓库是一座灰扑扑的小楼，不少地方的外皮都剥落了，露出了黄褐色的砖石，显得有些丑陋。",
+      "target": "Nhà kho hậu cần là một tòa nhà nhỏ xám xịt, không ít chỗ vỏ ngoài đã bong tróc, lộ ra gạch đá màu nâu vàng, trông có phần xấu xí."
+    },
+    {
+      "segment_id": "0033",
+      "source": "看似不大，里面却是内有乾坤，在七弯八绕，穿过大堆的后勤用品之后，出现在李耀眼前的，赫然是一处标准灵能球场大小的修炼场。",
+      "target": "Trông có vẻ không lớn, nhưng bên trong lại có càn khôn khác. Sau khi đi ngoằn ngoèo vòng vèo, xuyên qua một đống đồ dùng hậu cần lớn, hiện ra trước mắt Lý Diệu rõ ràng là một sân tu luyện có kích cỡ bằng một sân bóng linh năng tiêu chuẩn."
+    },
+    {
+      "segment_id": "0034",
+      "source": "哑铃、杠铃、蝴蝶机、深蹲机、力量测试机、水晶冻胶泥人形拳靶……各种修炼器械一应俱全。",
+      "target": "Tạ tay, tạ đòn, máy tập ép ngực, máy tập squat, máy kiểm tra lực lượng, bia tập đấm hình người bằng bùn keo pha lê... đủ các loại thiết bị tu luyện không thiếu thứ gì."
+    },
+    {
+      "segment_id": "0035",
+      "source": "不过绝大多数都是几十年前的型号，傻大粗黑，锈迹斑斑，隐隐透露出一股粗犷彪悍的气息。",
+      "target": "Nhưng tuyệt đại đa số đều là mẫu mã của mấy chục năm trước, to lớn thô kệch, rỉ sét loang lổ, loáng thoáng toát ra một cỗ khí tức thô mộc bưu hãn."
+    },
+    {
+      "segment_id": "0036",
+      "source": "所有修炼器械上都落满灰尘，似乎很久没人使用。",
+      "target": "Trên mọi thiết bị tu luyện đều phủ kín bụi bặm, dường như đã rất lâu không có người sử dụng."
+    },
+    {
+      "segment_id": "0037",
+      "source": "走到修炼场中央，孙彪转身，忽然做了一件让李耀怎么猜都猜不到的事情。",
+      "target": "Đi đến giữa sân tu luyện, Tôn Bưu xoay người, bỗng nhiên làm một việc mà Lý Diệu có đoán thế nào cũng không thể đoán được."
+    },
+    {
+      "segment_id": "0038",
+      "source": "这个一百五十多岁，曾经发掘出“妖刀彭海”，德高望重的退休老教师，竟然对着李耀深深鞠了一躬，声音一下子变得无比严肃：“首先，李耀同学，请接受我的道歉。”",
+      "target": "Vị giáo viên già đã nghỉ hưu hơn một trăm năm mươi tuổi, từng phát hiện ra \"Yêu Đao Bành Hải\", đức cao vọng trọng này, vậy mà lại cúi rạp người thật sâu trước Lý Diệu, giọng nói chợt trở nên vô cùng nghiêm túc: \"Trước tiên, bạn học Lý Diệu, xin hãy chấp nhận lời xin lỗi của ta.\""
+    }
+  ]
+}
+```

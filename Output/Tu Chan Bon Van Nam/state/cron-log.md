@@ -16,3 +16,46 @@
 - 2026-06-12 18:17 | Chapter 10 | completed | Chương 0010 - Chương 10 Âm hồn nhập thể.md
 - 2026-06-12 18:51 | Chapter 11 | completed | Chương 0011 - 0011 宛若梦幻.md
 - 2026-06-12 19:08 | Chapter 11 | completed | Chương 0011 - Chương 11 Như trong mộng.md
+- 2026-06-12 20:02 | Chapter 12 | completed | Chương 0012 - Chương 12 Sướng đến bay người.md
+- 2026-06-12 20:19 | Chapter 13 | completed | Chương 0013 - Chương 13 Ngạ quỷ đầu thai.md
+- 2026-06-13 03:03 | Chapter 14 | completed | Chương 0014 - Chương 14 Ẩn Hồ Tiểu Cảnh.md
+- 2026-06-13 03:23 | Chapter 15 | completed | Chương 0015 - Chương 15 Không biết sống chết.md
+- 2026-06-13 03:49 | Chapter 12 | completed | Chương 0012 - Chương 12 Sướng đến bay người.md
+- 2026-06-13 04:14 | Chapter 12 | completed | Chương 0012 - Chương 12 Sướng đến bay người.md
+- 2026-06-13 04:27 | Chapter 16 | completed | Chương 0016 - Chương 16 Một con hải sâm.md
+- 2026-06-13 04:53 | Chapter 17 | completed | Chương 0017 - Chương 17 Đại tỷ quỷ thị.md
+- 2026-06-13 05:12 | Chapter 18 | completed | Chương 0018 - Chương 18 Thuốc cường hóa.md
+- 2026-06-13 05:32 | Chapter 19 | completed | Chương 0019 - Chương 19 Quân Đạo Sát Lang.md
+- 2026-06-13 05:42 | Chapter 20 | completed | Chương 0020 - Chương 20 Gã tập thể dục.md
+- 2026-06-13 05:59 | Chapter 21 | completed | Chương 0021 - Chương 21 Bốn phần trăm.md
+- 2026-06-13 06:12 | Chapter 22 | completed | Chương 0022 - Chương 22 Cho cậu ta ăn no.md
+- 2026-06-13 06:32 | Chapter 23 | completed | Chương 0023 - Chương 23 Hắc bạch thông cật.md
+- 2026-06-13 06:52 | Chapter 24 | completed | Chương 0024 - Chương 24 Tiến bộ vượt bậc.md
+- 2026-06-13 07:12 | Chapter 25 | completed | Chương 0025 - Chương 25 Thiết Thú tấn công.md
+- 2026-06-13 07:32 | Chapter 26 | completed | Chương 0026 - Chương 26 Kẻ tàn nhẫn hơn tới.md
+- 2026-06-13 07:54 | Chapter 27 | completed | Chương 0027 - Chương 27 Hóa ra hắn mới là kẻ tàn nhẫn nhất.md
+- 2026-06-13 08:07 | Chapter 28 | completed | Chương 0028 - Chương 28 Đương nhiên phải ngông cuồng.md
+- 2026-06-13 08:27 | Chapter 29 | completed | Chương 0029 - Chương 29 Người đúc Yêu Đao.md
+- 2026-06-13 08:41 | Chapter 30 | completed | Chương 0030 - Chương 30 Cậu rất ngông cuồng đấy.md
+- 2026-06-13 08:58 | Chapter 31 | completed | Chương 0031 - Chương 31 Tôi không phải là cá muối!.md
+- 2026-06-13 09:17 | Chapter 32 | completed | Chương 0032 - Chương 32 Hắn là quái thú!.md
+- 2026-06-13 09:43 | Chapter 33 | completed | Chương 0033 - Chương 33 Đêm dài đằng đẵng.md
+- 2026-06-13 10:07 | Chapter 33 | completed | Chương 0033 - Chương 33 Đêm dài đằng đẵng.md
+- 2026-06-13 10:41 | Chapter 34 | completed | Chương 0034 - Chương 34 Hung thú xuất chuồng.md
+- 2026-06-13 10:58 | Chapter 35 | completed | Chương 0035 - Chương 35 Thời khắc kịch chiến.md
+- 2026-06-13 11:11 | Chapter 35 | completed | Chương 0035 - 0035 激战时刻.md
+- 2026-06-13 11:19 | Chapter 36 | completed | Chương 0036 - 0036 李耀上场！.md
+- 2026-06-13 11:32 | Chapter 35 | completed | Chương 0035 - 0035 激战时刻.md
+- 2026-06-13 11:43 | Chapter 36 | completed | Chương 0036 - 0036 李耀上场！.md
+- 2026-06-13 11:57 | Chapter 37 | completed | Chương 0037 - Chương 37 Hổ Cúc Kích thất liên sát!.md
+- 2026-06-13 12:09 | Chapter 35 | completed | Chương 0035 - Chương 35 Thời khắc kịch chiến.md
+- 2026-06-13 12:42 | Chapter 36 | completed | Chương 0036 - 0036 李耀上场！.md
+- 2026-06-13 12:54 | Chapter 38 | completed | Chương 0038 - 0038 杀向魔蛟岛.md
+- 2026-06-13 13:03 | Chapter 36 | completed | Chương 0036 - 0036 李耀上场！.md
+- 2026-06-13 13:15 | Chapter 38 | completed | Chương 0038 - 0038 杀向魔蛟岛.md
+- 2026-06-13 13:23 | Chapter 39 | completed | Chương 0039 - 0039 修真世界，海阔天空！.md
+- 2026-06-13 13:35 | Chapter 36 | completed | Chương 0036 - 0036 李耀上场！.md
+- 2026-06-13 13:43 | Chapter 38 | completed | Chương 0038 - 0038 杀向魔蛟岛.md
+- 2026-06-13 13:55 | Chapter 39 | completed | Chương 0039 - 0039 修真世界，海阔天空！.md
+- 2026-06-13 13:58 | Chapter 40 | completed | Chương 0040 - 0040 修真者的类型.md
+- 2026-06-15 21:18 | Chapter 36 | completed | Chương 0036 - Chương 36 Lý Diệu ra sân!.md

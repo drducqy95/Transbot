@@ -1,0 +1,64 @@
+{
+  "issues": [
+    {
+      "segment_id": "0003",
+      "type": "unnatural_vietnamese",
+      "severity": "medium",
+      "fix": "Đội thứ hai với thực lực bình thường đã chiến đấu đến kiệt sức, gần một nửa bị thương và giảm quân số, không thể tiếp tục."
+    },
+    {
+      "segment_id": "0004",
+      "type": "unnatural_vietnamese",
+      "severity": "medium",
+      "fix": "Lúc này, học sinh lớp chọn mới ra khỏi lớp, khởi động, bắt đầu tranh tài."
+    },
+    {
+      "segment_id": "0005",
+      "type": "unnatural_vietnamese",
+      "severity": "medium",
+      "fix": "Khi họ vào sân, mức độ kịch liệt của cuộc chiến tăng lên vài cấp độ, nhanh chóng, mười tấm chứng chỉ đều rơi vào tay học sinh lớp chọn, biến cuộc chiến thành nội chiến của lớp chọn."
+    },
+    {
+      "segment_id": "0006",
+      "type": "unnatural_vietnamese",
+      "severity": "medium",
+      "fix": "1 giờ 30 phút, tất cả học sinh lớp chọn trừ Hách Liên Liệt và Tư Gia Tuyết đều ra sân!"
+    },
+    {
+      "segment_id": "0007",
+      "type": "unnatural_vietnamese",
+      "severity": "medium",
+      "fix": "2 giờ 10 phút, Tư Gia Tuyết từ từ mở mắt đẹp, gia nhập đội chiến đấu!"
+    },
+    {
+      "segment_id": "0008",
+      "type": "unnatural_vietnamese",
+      "severity": "medium",
+      "fix": "2 giờ 15 phút, Hách Liên Liệt, vua của Hồng Tiêu Trung Học, với khí thế như giáp trụ, bước ra khỏi lớp học, chính thức tham chiến!"
+    },
+    {
+      "segment_id": "0009",
+      "type": "unnatural_vietnamese",
+      "severity": "medium",
+      "fix": "Hách Liên Liệt và Tư Gia Tuyết rõ ràng mạnh hơn các học sinh khác một bậc, khoảng cách không thể san lấp chỉ bằng lợi thế số đông."
+    },
+    {
+      "segment_id": "0010",
+      "type": "unnatural_vietnamese",
+      "severity": "medium",
+      "fix": "Hai người chỉ mất chưa đầy một phút để giành một chứng chỉ, sau đó đánh lui đợt tấn công của ít nhất bảy tám học sinh, thậm chí đưa sáu học sinh lên phi thuyền y tế."
+    },
+    {
+      "segment_id": "0011",
+      "type": "unnatural_vietnamese",
+      "severity": "medium",
+      "fix": "Như vậy, không ai dám cướp chứng chỉ của họ nữa - dù sao còn tám tấm, không cần tìm chết dưới tay hai con quái vật này."
+    },
+    {
+      "segment_id": "0012",
+      "type": "unnatural_vietnamese",
+      "severity": "medium",
+      "fix": "\"Hách Liên Liệt, Tư Gia Tuyết... Hồng Tiêu Trung Học ba năm nay chưa có học trò nào giỏi như vậy phải không!\" Lão Chu Ẩn, trưởng lão phái Hồng Tiêu, người giữ mặt nghiêm túc cả ngày, cuối cùng cũng mỉm cười nhạt."
+    }
+  ]
+}

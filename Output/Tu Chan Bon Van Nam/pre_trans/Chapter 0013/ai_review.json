@@ -1,0 +1,55 @@
+I will begin by listing the contents of the project directory to understand the project structure and see if there are existing glossaries, scripts, or translation review conventions.
+I will list the contents of the `Script` and `Source` directories to understand how the translation project handles glossaries and term approval.
+I will list the contents of the `Source` directory to see what it contains.
+I will search for glossary or term-related logic in `transbot_pipeline.py` using grep to understand how names and terms are processed.
+I will search for "term" or "name" in `transbot_pipeline.py` or other files in the `Script` directory to see if there is any standard function or system prompt for translation name/term extraction and filtering.
+I will view `test_api.py` to see what kind of translation APIs or helper functions are used.
+I will view the first 100 lines of `transbot_pipeline.py` to see the structure of the translation pipeline.
+I will list the contents of the `Global State` directory to see if glossaries or dictionaries are stored there.
+I will list the contents of the `Output` directory to see if there are subfolders for each novel, containing states or dictionary files.
+I will list the contents of `Output/Chu Than Dai Dao` to see what metadata, state, or glossary files exist for a novel.
+I will search for glossary or config-related files in `transbot_pipeline.py` to see how they are read and used.
+I will search for `translation_config.json` in `transbot_pipeline.py` to see where it references configurations.
+I will view lines 100 to 200 of `transbot_pipeline.py`.
+I will view lines 200 to 400 of `transbot_pipeline.py` to see where characters, glossary, and pronoun configuration files are loaded or saved.
+I will search for functions related to audit or name/term extraction in `transbot_pipeline.py` using grep.
+I will run a search for `def` in `transbot_pipeline.py` to check the function definitions.
+I will check the allowed permissions to ensure I can run git/grep command if needed.
+I will list all files in the Transbot directory using a shell command to ensure I don't miss anything.
+I will search the codebase for references to "approved", "rejected", or "uncertain" to see if there is a predefined workflow or JSON structure for auditing names and terms.
+I will view `Temp/workflows/translate-wiki.md` to see if there are guidelines on managing glossaries, names, and terms.
+I will check the status of the background task we ran to see the grep output.
+I will search the source texts for the terms "一百零八手" and "鲸吞大法" to get more context and find out which novel this refers to and if there are other terms.
+I will read the status of the search task.
+I will view the log output for the "鲸吞" search to see all occurrences.
+I will check the status of task-40 to see if it finished.
+I will view the contents of `Temp/pipeline/terminology_suggester.py` to see if it defines how terms are analyzed or categorized.
+I will list the running background tasks.
+I will cancel the background tasks since I have obtained the necessary translation context.
+I will terminate task-46 since we also have its logs.
+Here is the review of the requested terms. 
+
+### Context Analysis
+Based on the source text from the novel **"Tu Chân Bốn Vạn Năm"** ([Tu Chân Bốn Vạn Năm_Ngọa Ngưu Chân Nhân.txt](file:///mnt/sdcard/My%20Agent/Transbot/Source/Source%20full/Tu%20Ch%C3%A2n%20B%E1%BB%91n%20V%E1%BA%A1n%20N%C4%83m_Ng%E1%BB%8Da%20Ng%C6%B0u%20Ch%C3%A2n%20Nh%C3%A2n.txt#L660-L683)), these strings represent segments extracted from the early chapters describing cultivation techniques and narrative dialogues:
+* **`鲸吞大法`** is an approved terminology representing a specific cultivation technique (Sino-Vietnamese: *Kình Thôn Đại Pháp*).
+* **`一百零八手披`** is a truncated fragment of the full martial technique name **`一百零八手披风乱锤法`** (*Nhất Bách Linh Bát Thủ Phi Phong Loạn Chùy Pháp*). It is marked as **uncertain** because it is incomplete but refers to a valid term.
+* The remaining terms (**`修炼不到家，`**, **`果然是一个字`**, **`的疯狂消化吸`**, **`要是练不好，`**, **`，这是专门教`**) are rejected as they represent sentence fragments, common phrases, or contain trailing/leading punctuation.
+
+### Review Results (JSON)
+```json
+{
+  "approved": [
+    "鲸吞大法"
+  ],
+  "rejected": [
+    "修炼不到家，",
+    "果然是一个字",
+    "的疯狂消化吸",
+    "要是练不好，",
+    "，这是专门教"
+  ],
+  "uncertain": [
+    "一百零8手披"
+  ]
+}
+```

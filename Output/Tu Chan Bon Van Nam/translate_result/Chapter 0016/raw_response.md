@@ -1,0 +1,213 @@
+```json
+{
+  "chapter_number": 16,
+  "chapter_title_vi": "Chương 16: Một con hải sâm",
+  "segments": [
+    {
+      "segment_id": "0001",
+      "source": "# 第16章 一条海参",
+      "target": "Chương 16: Một con hải sâm"
+    },
+    {
+      "segment_id": "0002",
+      "source": "“呼——”",
+      "target": "\"Vù ——\""
+    },
+    {
+      "segment_id": "0003",
+      "source": "赫连烈气势惊人，如同一辆风驰电掣的超高速晶轨列车，人还未至，令人睁不开眼的劲风已经狠狠砸到了李耀脸上。",
+      "target": "Khí thế của Hách Liên Liệt vô cùng kinh người, giống hệt một đoàn tàu tinh quỹ siêu tốc đang chạy như bay, người còn chưa tới, luồng gió mạnh khiến người ta không mở nổi mắt đã đập thẳng vào mặt Lý Diệu."
+    },
+    {
+      "segment_id": "0004",
+      "source": "李耀的眼球犹如针扎，一股凉意从尾椎骨直冲心脏，脑域深处仿佛有一个“开关”猛地打开，刚刚从南柯一梦中苏醒时无比敏锐的五感再次降临。",
+      "target": "Nhãn cầu Lý Diệu đau như kim châm, một luồng khí lạnh từ xương cụt xông thẳng lên tim, sâu trong não vực dường như có một cái \"công tắc\" đột ngột mở ra, ngũ quan nhạy bén vô song khi vừa tỉnh lại từ giấc mộng Nam Kha lại một lần nữa giáng lâm."
+    },
+    {
+      "segment_id": "0005",
+      "source": "就在这0.1秒之内，他十分清晰地看到了不远处目瞪口呆的三名阔少，看清了小花园中每一株植物上的枝叶和花朵，闻到了厨房里正在烧制的几十种菜肴的香味，甚至看清楚了在七八米远的地方，一只蚊子正晃晃悠悠的飞过。",
+      "target": "Ngay trong 0,1 giây này, hắn nhìn thấy vô cùng rõ ràng ba tên thiếu gia nhà giàu đang trợn mắt há hốc mồm ở cách đó không xa, nhìn rõ từng cành lá và nụ hoa trên mỗi bụi cây trong khu vườn nhỏ, ngửi thấy mùi thơm của mấy chục món ăn đang được chế biến trong bếp, thậm chí còn nhìn rõ một con muỗi đang bay lảo đảo ở cách đó bảy tám mét."
+    },
+    {
+      "segment_id": "0006",
+      "source": "与此同时，他也看到在自己和赫连烈之间的地上，躺着一片黑黢黢的海参，那是他刚刚不小心掉在地上的。",
+      "target": "Cùng lúc đó, hắn cũng nhìn thấy trên mặt đất giữa mình và Hách Liên Liệt đang nằm chễm chệ một miếng hải sâm đen thui, đó là do hắn vừa rồi vô ý đánh rơi."
+    },
+    {
+      "segment_id": "0007",
+      "source": "一大堆数字在他脑域深处爆炸，爆炸，爆炸，组合成了一连串奇妙的公式，凝聚成无数力矩、力臂、作用力方向、运动轨迹等等信息流。",
+      "target": "Một đống lớn những con số nổ tung, nổ tung, nổ tung trong sâu thẳm não vực hắn, tổ hợp thành một chuỗi những công thức kỳ diệu, ngưng tụ thành vô số dòng thông tin như mô-men lực, cánh tay đòn, hướng tác dụng lực, quỹ đạo chuyển động v.v..."
+    },
+    {
+      "segment_id": "0008",
+      "source": "就在这0.1秒结束之后，李耀眨了眨眼睛，思维尚未做出反应，身体已经抢先一步，下意识地往左边挪了一小步。",
+      "target": "Ngay sau khi 0,1 giây này kết thúc, Lý Diệu chớp chớp mắt, tư duy còn chưa kịp phản ứng, cơ thể đã ra tay trước một bước, theo bản năng nhích sang trái một bước nhỏ."
+    },
+    {
+      "segment_id": "0009",
+      "source": "他这一挪，赫连烈立刻跟进，身形微晃，将攻击路线也移动了0.1米，于是当他的右腿狠狠落地时，正好就踩在滑不溜秋的海参上，整个人都失去了平衡！",
+      "target": "Hắn vừa nhích người, Hách Liên Liệt lập tức bám theo, thân hình khẽ lắc, cũng dời tuyến đường tấn công sang 0,1 mét, thế là khi chân phải gã hậm hực chạm đất, vừa vặn giẫm trúng miếng hải sâm trơn tuột, khiến cả người mất thăng bằng!"
+    },
+    {
+      "segment_id": "0010",
+      "source": "倘若面对别的对手，赫连烈根本不会如此大意，但是李耀在他眼中不过是一个无足轻重的垃圾，盛怒之下，他根本没有戒备，直接滑了出去。",
+      "target": "Nếu đối mặt với đối thủ khác, Hách Liên Liệt căn bản sẽ không chủ quan như vậy, nhưng trong mắt gã, Lý Diệu chẳng qua chỉ là một thứ rác rưởi vô giá trị, dưới cơn thịnh nộ, gã hoàn toàn không đề phòng gì mà trượt thẳng ra ngoài."
+    },
+    {
+      "segment_id": "0011",
+      "source": "李耀微微侧身，赫连烈从他身边一根头发丝的距离滑过，李耀甚至能看清楚赫连烈惊愕欲绝的表情和几乎要迸出眼眶的大眼珠子，滑出三米之后，赫连烈撞翻了一张摆满食物的大餐桌，“咣当”一声，三四个大盆子的食物劈头盖脑砸了下来。",
+      "target": "Lý Diệu hơi nghiêng người, Hách Liên Liệt trượt qua người hắn ở khoảng cách chỉ bằng một sợi tóc, Lý Diệu thậm chí có thể nhìn rõ biểu cảm kinh ngạc đến tột cùng cùng hai tròng mắt to như sắp lồi ra ngoài của gã. Sau khi trượt đi ba mét, Hách Liên Liệt tông lật một chiếc bàn ăn lớn bày đầy đồ ăn, một tiếng \"loảng xoảng\" vang lên, ba bốn mâm thức ăn to ụp thẳng xuống đầu gã."
+    },
+    {
+      "segment_id": "0012",
+      "source": "汤汁浓稠的海参，味道浓郁的扇贝，鲜美至极的珍珠鱼丸……一点都没浪费，全都出现在赫连烈的头发上、脸上、肩膀上、价格昂贵手工打造的奢华衣衫上，看上去，赫连烈刚刚在泔水桶里洗了个澡。",
+      "target": "Hải sâm với nước sốt đặc sệt, sò điệp đậm đà, cá viên trân châu tươi ngon vô cùng... Không lãng phí chút nào, tất cả đều xuất hiện trên tóc, trên mặt, trên vai, trên bộ quần áo xa hoa được may thủ công đắt tiền của Hách Liên Liệt. Trông gã chẳng khác nào vừa tắm trong thùng nước gạo."
+    },
+    {
+      "segment_id": "0013",
+      "source": "沉默，恐怖的沉默，如墓地般的沉默！",
+      "target": "Im lặng, sự im lặng đáng sợ, sự im lặng như chốn nghĩa trang!"
+    },
+    {
+      "segment_id": "0014",
+      "source": "赫连烈瞠目结舌，脸上的每一束神经都被冻结，扭曲成略带迷惘、羞愧、愤怒、疯狂的古怪表情。",
+      "target": "Hách Liên Liệt trợn tròn mắt cứng họng, mỗi bó dây thần kinh trên mặt đều bị đóng băng, vặn vẹo thành một biểu cảm kỳ quái pha lẫn chút mờ mịt, xấu hổ, phẫn nộ và điên cuồng."
+    },
+    {
+      "segment_id": "0015",
+      "source": "李耀眨巴着眼睛，眼睁睁看着一条海参从赫连烈刀削斧刻的“剑眉星目”上面慢条斯理地，依依不舍地，欲说还休地滑落下来。",
+      "target": "Lý Diệu chớp chớp mắt, trơ mắt nhìn một con hải sâm chầm chậm, đầy lưu luyến, muốn nói lại thôi mà trượt từ trên gương mặt \"kiếm mi tinh mục\" góc cạnh của Hách Liên Liệt xuống."
+    },
+    {
+      "segment_id": "0016",
+      "source": "“这，这乐子可闹大了，这小子从哪儿冒出来的？太乱来了吧！”不远处，郑东明好似发羊癫疯一般剧烈抽搐，一张胖脸已经被不可遏制的笑意憋成了紫红色。",
+      "target": "\"Chuyện, chuyện này vui lớn rồi, tiểu tử này từ đâu chui ra vậy? Quá làm loạn rồi!\" Cách đó không xa, Trịnh Đông Minh co giật kịch liệt như lên cơn động kinh, khuôn mặt mập mạp đã nghẹn đến đỏ tía vì nụ cười không thể kiềm chế."
+    },
+    {
+      "segment_id": "0017",
+      "source": "他拽着两名阔少，不动声色地向后退了几步，这才忍不住笑出声：“没想到看男人吃饭，比看女人脱衣服更加有趣，你们说，这不会是赫连专程为我生日安排的娱乐节目吧？”",
+      "target": "Hắn kéo hai tên thiếu gia nhà giàu, bất động thanh sắc lùi lại phía sau vài bước, lúc này mới nhịn không được bật cười thành tiếng: \"Không ngờ xem đàn ông ăn cơm còn thú vị hơn xem phụ nữ cởi quần áo, các cậu nói xem, đây không phải là tiết mục giải trí do Hách Liên cất công sắp xếp cho sinh nhật của tôi đấy chứ?\""
+    },
+    {
+      "segment_id": "0018",
+      "source": "一名阔少迟疑道：“不会吧？我记得赫连这个人似乎有些洁癖，郑少你看，赫连的表情简直像是要哭出来了，我们要不要上去帮忙？”",
+      "target": "Một tên thiếu gia nhà giàu ngập ngừng nói: \"Không đâu? Tôi nhớ Hách Liên người này hình như có hơi mắc bệnh sạch sẽ, Trịnh thiếu anh nhìn kìa, vẻ mặt của Hách Liên quả thực giống như sắp khóc đến nơi rồi, chúng ta có nên tiến lên giúp một tay không?\""
+    },
+    {
+      "segment_id": "0019",
+      "source": "“当然不要，这么精彩的节目，简直千载难逢，当然是要看个过瘾！”郑大少很没义气地说，顿了一顿，又笑眯眯道，“不过我看这个小子挺有性格，小罗，快用灵鹤传书，让你家里开的私立医院，赶紧派一辆最高级的急救飞梭来——我看赫连快要爆炸啦！”",
+      "target": "\"Tất nhiên là không, tiết mục đặc sắc thế này, quả thực là ngàn năm có một, đương nhiên là phải xem cho đã!\" Trịnh đại thiếu gia rất thiếu nghĩa khí nói, ngừng lại một chút, lại cười híp mắt nói: \"Nhưng tôi thấy tiểu tử này rất có cá tính, Tiểu La, mau dùng linh hạc truyền thư, bảo bệnh viện tư nhân nhà cậu nhanh chóng cử một chiếc phi thoi cấp cứu cao cấp nhất tới đây... Tôi thấy Hách Liên sắp nổ tung rồi!\""
+    },
+    {
+      "segment_id": "0020",
+      "source": "果然，赫连烈从最初的惊愕欲绝中清醒，就像一座从休眠状态中复苏的活火山，炙热的岩浆呼之欲出，周身缭绕的浓烈气焰简直凝结成了肉眼可见的实质，方圆半米之内的气温都提升了好几度！",
+      "target": "Quả nhiên, Hách Liên Liệt đã tỉnh táo lại từ sự kinh ngạc tột độ ban đầu, hệt như một ngọn núi lửa đang ngủ say được đánh thức, dung nham nóng rực chực trào ra, ngọn lửa hung hãn quẩn quanh người gã gần như ngưng tụ thành thực thể có thể nhìn thấy bằng mắt thường, nhiệt độ trong vòng nửa mét xung quanh đều tăng lên vài độ!"
+    },
+    {
+      "segment_id": "0021",
+      "source": "“咔嚓咔嚓”，他周身骨骼发出一连串鞭炮齐鸣般的爆响，令人不寒而栗。",
+      "target": "\"Rắc rắc\", xương cốt toàn thân gã phát ra một chuỗi tiếng nổ lốp bốp như pháo nổ tề minh, khiến người ta lạnh sống lưng."
+    },
+    {
+      "segment_id": "0022",
+      "source": "李耀的大脑全速开动，脑域深处无数记忆碎片疯狂旋转，每一块记忆碎片上都反映着一段激烈战斗的画面。",
+      "target": "Đại não Lý Diệu hoạt động hết công suất, vô số mảnh vỡ ký ức điên cuồng xoay tròn sâu trong não vực, mỗi một mảnh vỡ ký ức đều phản chiếu hình ảnh của một cuộc chiến ác liệt."
+    },
+    {
+      "segment_id": "0023",
+      "source": "表面看上去，他被赫连烈的万丈凶芒完全震慑，呆若木鸡。",
+      "target": "Nhìn bề ngoài, hắn đã bị sự hung tợn ngập trời của Hách Liên Liệt uy hiếp hoàn toàn, đứng ngây ra như phỗng."
+    },
+    {
+      "segment_id": "0024",
+      "source": "可是在呆滞的外表下，他的每一束肌肉纤维都慢慢收紧，如同压缩到极致的弹簧，凝聚起强大的能量。",
+      "target": "Thế nhưng dưới vẻ ngoài đờ đẫn ấy, từng bó sợi cơ của hắn đều đang từ từ thắt chặt lại, tựa như lò xo bị nén đến cực hạn, ngưng tụ nguồn năng lượng cường đại."
+    },
+    {
+      "segment_id": "0025",
+      "source": "双手虚握，自然而然垂挂在身体两侧，就像是攥着两柄千斤巨锤，微微晃荡，蓄势待发。",
+      "target": "Hai tay khẽ nắm lại, hờ hững buông thõng hai bên người một cách tự nhiên, giống như đang nắm chặt hai thanh búa khổng lồ nặng ngàn cân, hơi đung đưa, sẵn sàng bộc phát."
+    },
+    {
+      "segment_id": "0026",
+      "source": "就在空气撕裂，千钧一发之时——",
+      "target": "Ngay khi không khí bị xé rách, khoảnh khắc ngàn cân treo sợi tóc..."
+    },
+    {
+      "segment_id": "0027",
+      "source": "赫连烈的左肩膀上忽然搭住了一只胖乎乎的手，一个足有两百多斤的中年胖子，身穿经理制服，无声无息地出现在了他身后，笑吟吟道：“赫连大少，你醉了。”",
+      "target": "Trên vai trái của Hách Liên Liệt đột nhiên xuất hiện một bàn tay múp míp đặt lên, một người đàn ông trung niên mập mạp nặng hơn hai trăm cân, mặc đồng phục quản lý, xuất hiện sau lưng gã không một tiếng động, tươi cười nói: \"Hách Liên đại thiếu, cậu say rồi.\""
+    },
+    {
+      "segment_id": "0028",
+      "source": "赫连烈的瞳孔骤然收缩，有若实质的敌意转了一百八十度，毫不掩饰地向胖子袭去。",
+      "target": "Đồng tử Hách Liên Liệt đột ngột co rút lại, địch ý dường như đã hóa thành thực thể xoay chuyển một trăm tám mươi độ, không hề che giấu mà đánh úp về phía gã mập."
+    },
+    {
+      "segment_id": "0029",
+      "source": "这个大胖子经理，也不像是修炼过什么武技的样子，面对赫连烈的敌意，却似春风拂面，浑不在意。",
+      "target": "Tên quản lý béo bự này trông chẳng giống người đã tu luyện võ kỹ gì, thế nhưng đối mặt với địch ý của Hách Liên Liệt, ông ta lại chẳng hề bận tâm, cứ như gió xuân lướt qua mặt."
+    },
+    {
+      "segment_id": "0030",
+      "source": "他慢条斯理道：“任何一名客人来隐湖小境用餐，都是我们的衣食父母，绝对会得到超一流的服务，这是我们隐湖小境几十年来一直秉承的宗旨，整个‘上东区’谁人不知？赫连大少若是没有喝醉，又怎么会当着我的面，对我的衣食父母大打出手？”",
+      "target": "Ông ta chậm rãi nói: \"Bất kỳ vị khách nào đến Ẩn Hồ Tiểu Cảnh dùng bữa đều là cha mẹ nuôi cơm mặc áo của chúng tôi, tuyệt đối sẽ nhận được sự phục vụ siêu hạng, đây là tôn chỉ mà Ẩn Hồ Tiểu Cảnh chúng tôi vẫn luôn tuân theo suốt mấy chục năm qua, cả 'khu Thượng Đông' này có ai mà không biết? Nếu Hách Liên đại thiếu không say, sao lại có thể ở ngay trước mặt tôi, đánh đập cha mẹ nuôi cơm mặc áo của tôi chứ?\""
+    },
+    {
+      "segment_id": "0031",
+      "source": "“你威胁我？”赫连烈一字一顿，语气森然。",
+      "target": "\"Ông uy hiếp tôi?\" Hách Liên Liệt gằn từng chữ, giọng điệu lạnh lẽo."
+    },
+    {
+      "segment_id": "0032",
+      "source": "胖子经理微微一笑，脸上肥肉乱颤，显得有些贼兮兮的：“我吃了熊心豹子胆也不敢威胁赫连大少，只不过是多嘴提醒一句，在赫连大少身后第三条回廊，第22号桌上用餐的，是《浮戈城娱乐日刊》的记者。”",
+      "target": "Quản lý mập mạp mỉm cười, mỡ trên mặt rung lên bần bật, trông có vẻ hơi ranh mãnh: \"Tôi có ăn gan hùm mật báo cũng không dám uy hiếp Hách Liên đại thiếu, chỉ là tiện miệng nhắc nhở một câu, người đang dùng bữa ở bàn số 22 tại hành lang thứ ba sau lưng Hách Liên đại thiếu, là phóng viên của 'Nhật báo giải trí Phù Qua Thành'.\""
+    },
+    {
+      "segment_id": "0033",
+      "source": "“有记者？”赫连烈的脸色变得十分难看，他低头看了看身上一片狼藉，这副尊荣若是被娱乐小报的记者拍到，不出半个小时，他一定会成为浮戈城里“最出名”的富豪子弟，而这种“名气”，绝不是他想要的那一种。",
+      "target": "\"Có phóng viên?\" Sắc mặt Hách Liên Liệt trở nên cực kỳ khó coi, gã cúi đầu nhìn bộ dạng nhếch nhác trên người mình, nếu bộ dạng này mà bị phóng viên của các tờ báo lá cải giải trí chụp được, không đến nửa tiếng, gã nhất định sẽ trở thành con em nhà giàu \"nổi tiếng nhất\" ở Phù Qua Thành, mà thứ \"danh tiếng\" này, tuyệt đối không phải là loại gã muốn."
+    },
+    {
+      "segment_id": "0034",
+      "source": "他死死、死死地盯了李耀一眼，咬紧牙关，一言不发，头也不回逃离隐湖小境。",
+      "target": "Gã gắt gao, gắt gao nhìn chằm chằm Lý Diệu một cái, nghiến chặt răng, không nói một lời, không thèm quay đầu lại mà bỏ chạy khỏi Ẩn Hồ Tiểu Cảnh."
+    },
+    {
+      "segment_id": "0035",
+      "source": "大胖子经理这才回过头来，不动声色地打量了李耀一番。",
+      "target": "Quản lý mập bự lúc này mới quay đầu lại, bất động thanh sắc đánh giá Lý Diệu một phen."
+    },
+    {
+      "segment_id": "0036",
+      "source": "李耀和外表截然相反的泰然自若令他微微诧异，愣了一下，大胖子经理才十分诚挚地抱歉：“这位贵宾，实在不好意思，因为我们工作上的疏忽，让您在隐湖小境用餐期间受到了骚扰，为了弥补您的损失，今天这一顿费用全免，算本店请客，希望今天的小插曲不要影响您对隐湖小境的观感，也欢迎您继续支持本店。”",
+      "target": "Vẻ thản nhiên tự nhã hoàn toàn trái ngược với vẻ ngoài của Lý Diệu khiến ông ta hơi ngạc nhiên. Cứng người một lúc, quản lý mập bự mới vô cùng chân thành nói lời xin lỗi: \"Vị quý khách này, thật sự xin lỗi, do sơ suất trong công việc của chúng tôi đã khiến ngài bị quấy rầy trong thời gian dùng bữa ở Ẩn Hồ Tiểu Cảnh. Để bù đắp tổn thất của ngài, toàn bộ chi phí bữa ăn hôm nay sẽ được miễn phí, coi như bổn điếm mời khách, hy vọng sự cố nhỏ hôm nay không ảnh hưởng đến ấn tượng của ngài về Ẩn Hồ Tiểu Cảnh, cũng hoan nghênh ngài tiếp tục ủng hộ bổn điếm.\""
+    },
+    {
+      "segment_id": "0037",
+      "source": "能够在‘上东区’屹立几十年不倒的餐厅，自有其深厚的底蕴和超然的格局，经营者并不会因为客人的衣着和身份而有一丝一毫的怠慢，一切都秉承最极致的服务理念，这才能打造出千金不易的口碑。",
+      "target": "Một nhà hàng có thể đứng vững sừng sững mấy chục năm ở 'khu Thượng Đông' tự có gốc rễ sâu xa và cục diện siêu phàm của riêng nó, người kinh doanh tuyệt đối không vì cách ăn mặc và thân phận của thực khách mà tỏ ra lơ là dù chỉ một chút, tất cả đều tuân thủ triết lý phục vụ tối thượng nhất, như vậy mới có thể tạo ra danh tiếng khó bề mua được bằng ngàn vàng."
+    },
+    {
+      "segment_id": "0038",
+      "source": "李耀一愣，正欲点头，一阵酒香扑面而来，一名油头粉面的猫眼少年，满脸微笑，出现在他面前。",
+      "target": "Lý Diệu sững sờ, đang định gật đầu, một trận mùi rượu thơm nức xông vào mũi, một thiếu niên mặt hoa da phấn mắt mèo, vẻ mặt tươi cười xuất hiện trước mặt hắn."
+    },
+    {
+      "segment_id": "0039",
+      "source": "“这位同学，我叫郑东明，你可以叫我郑少，也可以叫我大东，不过千万不要叫我小明，刚才发生的一切我都看到了，我觉得你简直是万里挑一，人中龙凤，极品中的极品，怎么样，交个朋友吧？”",
+      "target": "\"Bạn học này, tôi tên Trịnh Đông Minh, cậu có thể gọi tôi là Trịnh thiếu, cũng có thể gọi tôi là Đại Đông, nhưng ngàn vạn lần đừng gọi tôi là Tiểu Minh. Mọi chuyện xảy ra lúc nãy tôi đều nhìn thấy hết rồi, tôi cảm thấy cậu quả thực là vạn người có một, rồng phượng trong loài người, cực phẩm trong các cực phẩm. Thế nào, kết bạn nhé?\""
+    },
+    {
+      "segment_id": "0040",
+      "source": "在李耀有些警惕的眼神注视下，郑东明泰然自若地伸出了手，指间轻轻夹了一张装饰着华丽灵纹的名片，“不用紧张，我没有别的意思，只是想介绍一位非常专业的保险销售给你认识，我建议你现在就拿出所有存款，马上去买一份最高金额的人身意外伤害险，因为——”",
+      "target": "Dưới ánh mắt đầy cảnh giác của Lý Diệu, Trịnh Đông Minh ung dung thản nhiên vươn tay ra, giữa các ngón tay kẹp nhẹ một tấm danh thiếp được trang trí bằng những linh văn hoa lệ: \"Đừng căng thẳng, tôi không có ý gì khác, chỉ muốn giới thiệu một nhân viên bán bảo hiểm vô cùng chuyên nghiệp cho cậu làm quen thôi. Tôi đề nghị cậu bây giờ nên lấy hết tất cả tiền tiết kiệm ra, đi mua ngay một gói bảo hiểm tai nạn cá nhân với số tiền bồi thường cao nhất đi, bởi vì...\""
+    },
+    {
+      "segment_id": "0041",
+      "source": "顿了一顿，郑少脸上弥漫着十分诡异的笑容，阴恻恻地说：“相信我，明天你就用得上了。”",
+      "target": "Khựng lại một chút, trên mặt Trịnh thiếu tràn ngập nụ cười mười phần quỷ dị, âm trầm nói: \"Tin tôi đi, ngày mai cậu sẽ dùng tới đấy.\""
+    }
+  ]
+}
+```
