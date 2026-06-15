@@ -1,7 +1,7 @@
 {
-  "schema_version": "2.0",
-  "chapter_id": "chapter_0039",
-  "segment_translations": [
+  "chapter_number": 39,
+  "chapter_title_vi": "Chương 39: Trong Tử Kim Thạch, Thiềm Cổ Ngủ Say",
+  "segments": [
     {
       "segment_id": "0001",
       "source": "# 第四十节：紫金石中蟾蛊眠",
@@ -30,7 +30,7 @@
     {
       "segment_id": "0006",
       "source": "“是这里了。”他抬眼打量，只见这帐篷门口设着两个立柱，立柱上用阴刻手法，刻着一副对联。",
-      "target": "“Đúng là đây.” Hắn ngẩng đầu quan sát, thấy cửa lều dựng hai cột đứng, trên cột dùng kỹ thuật khắc âm leo một副 đối聯."
+      "target": "“Đúng là đây.” Hắn ngẩng đầu quan sát, thấy cửa lều dựng hai cột đứng, trên cột dùng kỹ thuật khắc âm leo một cặp đối liên."
     },
     {
       "segment_id": "0007",
@@ -45,7 +45,7 @@
     {
       "segment_id": "0009",
       "source": "中间还有一个横批：时来运转。",
-      "target": "Giữa còn có một横批: Thời lai vận chuyển."
+      "target": "Giữa còn có một hoành phi: Thời lai vận chuyển."
     },
     {
       "segment_id": "0010",
@@ -70,7 +70,7 @@
     {
       "segment_id": "0014",
       "source": "有三三两两的蛊师，站在柜台前，有的细心端详着柜台上摆放的石头，有的拿起化石在手掌中小心地搓动，感受手感，有的和同伴小声讨论，有的在和店家伙计商量价格。",
-      "target": "Có ba năm hai bảy Cổ sư đứng trước quầy, có người chăm chú ngắm nghía những tảng đá trên quầy, có người nhặt hóa thạch lên tay xoa bóp cẩn thận cảm nhận hand cảm, có người thì thầm bàn bạc với bạn đồng hành, có người đang thương lượng giá với伙计 cửa hàng."
+      "target": "Có ba năm hai bảy Cổ sư đứng trước quầy, có người chăm chú ngắm nghía những tảng đá trên quầy, có người nhặt hóa thạch lên tay xoa bóp cẩn thận cảm nhận cảm giác tay, có người thì thầm bàn bạc với bạn đồng hành, có người đang thương lượng giá với nhân viên cửa hàng."
     },
     {
       "segment_id": "0015",
@@ -125,7 +125,7 @@
     {
       "segment_id": "0025",
       "source": "“像这种小型赌石场，十块石头有八九块都是实心的，里面没有蛊虫。就算是有蛊虫的石块，也未必都是活虫，十有八九都是死蛊。不过一旦赌到了活蛊，大部分情况下，都能大赚一笔。如是蛊虫极为珍稀，那么不是从此飞黄腾达，就是被杀人越货。”",
-      "target": "“Như loại đổ thạch nhỏ này, mười tảng đá có tám chín tảng là đặc ruột, bên trong không có Cổ trùng. Dù có Cổ trùng, cũng chưa chắc đã sống, tám chín phần mười là Cổ chết. Nhưng một khi trúng Cổ sống, đa số trường hợp đều kiếm được lớn. Nếu Cổ trùng cực kỳ hiếm, thì không phải bay lên cành thành phượng,就是 bị giết người cướp của.”"
+      "target": "“Như loại đổ thạch nhỏ này, mười tảng đá có tám chín tảng là đặc ruột, bên trong không có Cổ trùng. Dù có Cổ trùng, cũng chưa chắc đã sống, tám chín phần mười là Cổ chết. Nhưng một khi trúng Cổ sống, đa số trường hợp đều kiếm được lớn. Nếu Cổ trùng cực kỳ hiếm, thì không phải bay lên cành thành phượng, thì sẽ bị giết người cướp của.”"
     },
     {
       "segment_id": "0026",
@@ -135,7 +135,7 @@
     {
       "segment_id": "0027",
       "source": "前世的时候，他也参加过商队，在赌石场当过伙计。后来一段时间，他甚至经营过一家赌石场，比这场子还大，是中型的赌石场。坑过不少赌徒，也走过眼，几次被其他人赌出价值珍贵的蛊虫。",
-      "target": "Kiếp trước, hắn cũng từng tham gia thương đội, làm伙计 ở đổ thạch. Sau đó một thời gian, hắn thậm chí kinh doanh một nhà đổ thạch, lớn hơn chỗ này, quy mô trung. Đã hớ nhiều tay bạc, cũng từng走眼, vài lần bị người khác bóc ra Cổ trùng quý giá."
+      "target": "Kiếp trước, hắn cũng từng tham gia thương đội, làm nhân viên ở đổ thạch. Sau đó một thời gian, hắn thậm chí kinh doanh một nhà đổ thạch, lớn hơn chỗ này, quy mô trung. Đã hớ nhiều tay bạc, cũng từng nhìn nhầm, vài lần bị người khác bóc ra Cổ trùng quý giá."
     },
     {
       "segment_id": "0028",
@@ -145,7 +145,7 @@
     {
       "segment_id": "0029",
       "source": "柜台后，间隔几米就站着一位店家的伙计，有男有女。他们腰间都系着青色腰带，不是凡人，都是一转蛊师。大多数是初阶，有个别的是中阶。",
-      "target": "Sau quầy, cách nhau vài mét đứng một伙计, có nam có nữ. Họ thắt lưng xanh, không phải phàm nhân, đều là Cổ sư một chuyển. Đa số sơ giai, có vài cái trung giai."
+      "target": "Sau quầy, cách nhau vài mét đứng một nhân viên, có nam có nữ. Họ thắt lưng xanh, không phải phàm nhân, đều là Cổ sư một chuyển. Đa số sơ giai, có vài cái trung giai."
     },
     {
       "segment_id": "0030",
@@ -195,7 +195,7 @@
     {
       "segment_id": "0039",
       "source": "只是隐约记得，就是在这一年，商队到来的第一晚，有一个幸运儿花了十块元石买了一块石皮上泛着紫金色泽的化石。",
-      "target": "Chỉ nhớ mờ, năm đó, đêm đầu thương隊 đến, có một người may mắn bỏ mười khối Nguyên thạch mua một tảng hóa thạch vỏ đá泛着 tử kim sắc."
+      "target": "Chỉ nhớ mờ, năm đó, đêm đầu thương đội đến, có một người may mắn bỏ mười khối Nguyên thạch mua một tảng hóa thạch vỏ đá ánh lên sắc tử kim."
     },
     {
       "segment_id": "0040",
@@ -210,7 +210,7 @@
     {
       "segment_id": "0042",
       "source": "这柜台上，外表泛着紫金光彩的化石，有二十多枚。究竟在哪一块里面，藏有癞土蛤蟆呢？",
-      "target": "Trên quầy này, hóa thạch bề mặt泛着 tử kim quang彩 có hơn hai mươi tảng. Chốt chặn tảng nào giấu Lệ Thổ Cốc?"
+      "target": "Trên quầy này, hóa thạch bề mặt ánh lên ánh tử kim có hơn hai mươi tảng. Chốt chặn tảng nào giấu Lệ Thổ Cốc?"
     },
     {
       "segment_id": "0043",
@@ -260,77 +260,7 @@
     {
       "segment_id": "0052",
       "source": "蛊虫封印沉眠之后，形成的化石浑然一体，本身杜绝世间大多数的探测手段。剩下的一些探测方法几乎都强硬蛮横，一旦用了，就会直接杀死里面奄奄一息的蛊虫。",
-      "target": "Cổ trùng phong ấn trầm miên, hình thành hóa thạch nguyên vẹn, bản thân chặn đứng hầu hết thủ段 dò tìm. Những phương pháp còn lại gần như cường ngạnh, một khi dùng sẽ giết chết Cổ trùng đang tàn息 bên trong."
-    },
-    {
-      "segment_id": "0053",
-      "source": "因此蛊师来选石，只能靠猜测，靠经验，靠运气，靠偶尔间的灵光一闪。",
-      "target": "Vì vậy Cổ sư chọn đá chỉ dựa đoán, kinh nghiệm, vận may, và những lúc chớp nhoáng linh cảm."
-    },
-    {
-      "segment_id": "0054",
-      "source": "若非如此，这里也不会叫做赌场了。",
-      "target": "Không thì chỗ này cũng không gọi là sòng bạc."
-    },
-    {
-      "segment_id": "0055",
-      "source": "当然这大千世界，无奇不有，也不排除有极个别的温和的探测手段，能让蛊师事先知晓石头中是否藏有蛊虫。",
-      "target": "Tất nhiên thiên hạ rộng lớn, vô kỳ bất hữu, cũng không loại trừ có cực ít thủ段 dò tìm nhẹ nhàng, để Cổ sư biết trước đá có giấu Cổ trùng."
-    },
-    {
-      "segment_id": "0056",
-      "source": "方源前世就听说过一些风声，但是后来经过验证，发现都是谣传。",
-      "target": "Phương Nguyên kiếp trước từng nghe tin đồn, nhưng sau khi kiểm chứng, đều là lời suông."
-    },
-    {
-      "segment_id": "0057",
-      "source": "方源私下设想：若真有这种手段存在，也必定是秘密传承，只会掌握在极少数的神秘人手中。对整个赌业大局是没有影响的。",
-      "target": "Phương Nguyên thầm nghĩ: Nếu thật có thủ đoạn đó, chắc chắn là bí truyền, chỉ nắm trong tay vài người thần bí. Đối với đại cục nghề cược không có ảnh hưởng."
-    },
-    {
-      "segment_id": "0058",
-      "source": "在青茅山这一带还好些，越往东，赌场就越盛行。到了白头山区域，每家山寨都设有赌场。有些大型山寨中，还有大型赌场林立。在以赌石远见闻名的三大山寨：磐石寨、古墓寨、苍鲸寨中，更有超大型的赌石场。",
-      "target": "Ở quanh Thanh Mao Sơn còn khá, càng về đông sòng bạc càng thịnh. Đến vùng Bạch Đầu Sơn, mỗi sơn trại đều có sòng bạc. Sơn trại lớn còn có nhiều sòng bạc lớn tập trung. Ở ba đại sơn trại nổi tiếng cược đá: Bàn Thạch Trại, Cổ Mộ Trại, Thương Cá Voi Trại, còn có siêu đại đổ thạch."
-    },
-    {
-      "segment_id": "0059",
-      "source": "这三家超大型的赌石场，每一家都有上千年的历史。如今仍旧生意红火，赌徒络绎不绝。从未发生过什么被人扫场的事情。",
-      "target": "Ba siêu đại đổ thạch này, mỗi nơi đều có hơn ngàn năm lịch sử. Nay vẫn buôn bán hưng thịnh, tay bạc nối nhau không ngứt. Chưa từng có chuyện bị người quét sạch."
-    },
-    {
-      "segment_id": "0060",
-      "source": "如今方源所在的这间帐篷，充其量只能勉强算是小型赌场。",
-      "target": "Chiếc lều Phương Nguyên đang ở, nhiều nhất chỉ miễn cưỡng tính là sòng bạc nhỏ."
-    },
-    {
-      "segment_id": "0061",
-      "source": "但若是其他十五岁的少年来这里，必定会被这些化石缭乱了双眼，就算是挑选化石也是纯粹瞎蒙乱指。",
-      "target": "Nhưng nếu thiếu niên mười lăm tuổi khác đến đây, chắc chắn bị hóa thạch làm choáng mắt, chọn cũng chỉ mò mò đoán đoán."
-    },
-    {
-      "segment_id": "0062",
-      "source": "但是方源不同。",
-      "target": "Nhưng Phương Nguyên khác."
-    },
-    {
-      "segment_id": "0063",
-      "source": "首先，他事先就已经知道一部分的答案，因此选择范围就骤然缩小到三十块以下。",
-      "target": "Thứ nhất, hắn trước đã biết một phần đáp án, nên phạm vi chọn co lại dưới ba mươi tảng."
-    },
-    {
-      "segment_id": "0064",
-      "source": "当然从这二十多块化石中，挑选出唯一的那块，也极不容易。",
-      "target": "Tất nhiên, từ hai mươi tảng hóa thạch này chọn ra tảng duy nhất, cũng cực khó."
-    },
-    {
-      "segment_id": "0065",
-      "source": "但是方源却有五百年的经验打底，靠着这样雄厚的底蕴，他观察了片刻，筛选出最符合标准的六块紫金化石。",
-      "target": "Nhưng Phương Nguyên có năm trăm năm kinh nghiệm làm gốc, nhờ nội lực đó, quan sát chốc lát, sàng lọc ra sáu tảng tử kim hóa thạch phù hợp nhất."
-    },
-    {
-      "segment_id": "0066",
-      "source": "他有八成的把握可以肯定——癞土蛤蟆就在其中的一块紫金化石中沉眠着！",
-      "target": "Hắn có tám phần chắc chắn — Lệ Thổ Cốc đang trầm miên trong một trong sáu tảng tử kim hóa thạch đó!"
+      "target": "Cổ trùng phong ấn trầm miên, hình thành hóa thạch nguyên vẹn, bản thân chặn đứng hầu hết thủ đoạn dò tìm. Những phương pháp còn lại gần như cường ngạnh, một khi dùng sẽ giết chết Cổ trùng đang thoi thóp bên trong."
     }
   ]
 }

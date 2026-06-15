@@ -283,3 +283,8 @@ Chapter 37 completed via pipeline.
 
 ### Summary
 Chapter 36 completed via pipeline.
+
+## Chapter 0039 - Chương 39: Trong Tử Kim Thạch, Thiềm Cổ Ngủ Say
+
+### Summary
+Chapter 39 completed via pipeline.

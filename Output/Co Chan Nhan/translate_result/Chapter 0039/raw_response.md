@@ -1,7 +1,7 @@
 {
-  "schema_version": "2.0",
-  "chapter_id": "chapter_0039",
-  "segment_translations": [
+  "chapter_number": 39,
+  "chapter_title_vi": "Chương 39: Trong Tử Kim Thạch, Thiềm Cổ Ngủ Say",
+  "segments": [
     {
       "segment_id": "0001",
       "source": "# 第四十节：紫金石中蟾蛊眠",

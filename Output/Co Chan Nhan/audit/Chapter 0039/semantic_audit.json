@@ -1,0 +1,82 @@
+{
+  "issues": [
+    {
+      "segment_id": "0003",
+      "type": "unnatural_vietnamese",
+      "severity": "low",
+      "fix": "Những gian hàng vỉa hè nhỏ bé dần biến mất, nhường chỗ cho những chiếc lều vải lớn hùng vĩ."
+    },
+    {
+      "segment_id": "0020",
+      "type": "unnatural_vietnamese",
+      "severity": "medium",
+      "fix": "Trải qua năm tháng, vỏ đá ngày càng dày nặng, cuối cùng hình thành một khối ngốc thạch."
+    },
+    {
+      "segment_id": "0023",
+      "type": "unnatural_vietnamese",
+      "severity": "medium",
+      "fix": "Một số Cổ sư tình cờ đạt được những ngốc thạch hay trùng kén phong ấn Cổ trùng, đánh thức chúng. Có người nhờ đó phát tài bất ngờ."
+    },
+    {
+      "segment_id": "0024",
+      "type": "unnatural_vietnamese",
+      "severity": "medium",
+      "fix": "Nguồn gốc ngốc thạch ở đây chính từ đó. Tất nhiên những tảng đá này chỉ nghi ngờ về hình thái."
+    },
+    {
+      "segment_id": "0025",
+      "type": "unnatural_vietnamese",
+      "severity": "low",
+      "fix": "Nếu Cổ trùng cực kỳ hiếm, thì không phải một bước lên mây, thì sẽ bị giết người cướp của."
+    },
+    {
+      "segment_id": "0027",
+      "type": "unnatural_vietnamese",
+      "severity": "low",
+      "fix": "Đã khiến nhiều con bạc thua lỗ, cũng từng nhìn nhầm, vài lần bị người khác bóc ra Cổ trùng quý giá."
+    },
+    {
+      "segment_id": "0029",
+      "type": "wrong_pronoun",
+      "severity": "low",
+      "fix": "Đa số sơ giai, có vài người trung giai."
+    },
+    {
+      "segment_id": "0030",
+      "type": "unnatural_vietnamese",
+      "severity": "medium",
+      "fix": "Muốn kích thích thì đi thẳng quầy cao cấp phía trước, ngốc thạch đó bán hai mươi khối một tảng."
+    },
+    {
+      "segment_id": "0040",
+      "type": "term_context_mismatch",
+      "severity": "high",
+      "fix": "Hắn bóc đá ngay chỗ, được một con Nê Thổ Thiềm. Sau đó con Thiềm Cổ này bị người thu mua, hắn kiếm được không ít Nguyên thạch."
+    },
+    {
+      "segment_id": "0042",
+      "type": "term_context_mismatch",
+      "severity": "high",
+      "fix": "Chốt chặn tảng nào giấu Nê Thổ Thiềm?"
+    },
+    {
+      "segment_id": "0048",
+      "type": "term_context_mismatch",
+      "severity": "high",
+      "fix": "Tảng này, tử kim như sao điểm xuyết, nhưng dẹt như bánh, bên trong chắc không giấu Nê Thổ Thiềm."
+    },
+    {
+      "segment_id": "0049",
+      "type": "term_context_mismatch",
+      "severity": "high",
+      "fix": "Nếu thật giấu Nê Thổ Thiềm, phải lớn hơn nó ít nhất ba thành."
+    },
+    {
+      "segment_id": "0050",
+      "type": "term_context_mismatch",
+      "severity": "high",
+      "fix": "mà vỏ đá Nê Thổ Thiềm đều lõm nhõm. Hiển nhiên không phải…"
+    }
+  ]
+}
