@@ -1,0 +1,621 @@
+# Translation Context Pack
+
+## Project
+- Branch: Tieu Dao Mong Duong
+- Title: 
+- Author: 
+- Genre: /
+- Language: zh → vi
+
+## Translation Rules
+### Translation Goal
+Dịch truyện Trung sang tiếng Việt tự nhiên, dễ đọc, đúng nghĩa, đúng mạch truyện, đúng văn cảnh, đúng xưng hô, đúng tên riêng và thuật ngữ.
+Style: văn xuôi tiếng Việt mượt, rõ nghĩa, không máy móc
+Priorities:
+  • đúng nghĩa và đúng văn cảnh
+  • đúng tên riêng
+  • đúng thuật ngữ theo loại và bối cảnh
+  • đúng xưng hô và quan hệ nhân vật
+  • giữ ổn định thuật ngữ/tên riêng/xưng hô đã khóa
+  • tự nhiên trong tiếng Việt
+  • giữ nhịp văn, cảm xúc và giọng kể gốc
+Anti-goals:
+  • không dịch từng chữ máy móc
+  • không Hán Việt hóa tên Nhật, Hàn, phương Tây, fandom, thương hiệu, kỹ thuật
+  • không áp VietPhrase/LuatNhan lên tên riêng đã khóa
+  • không đổi thuật ngữ đã khóa nếu văn cảnh giống nhau
+  • không dùng một bản dịch cứng cho từ đa nghĩa khi văn cảnh khác nhau
+  • không làm lộ thông tin ngoài POV nếu bản gốc chưa tiết lộ
+
+### Output Rules
+  • keep paragraph structure
+  • keep dialogue structure
+  • do not merge paragraphs
+  • do not split paragraphs unnecessarily
+  • preserve punctuation when reasonable
+  • convert chinese quotes to vietnamese
+  • remove unnecessary explanation
+  • output only translation
+  • do not add notes inside translation
+  • mark uncertain items for audit only
+
+### Tone Guidelines
+  • narration: tự nhiên, rõ ràng, có chất truyện
+  • dialogue: phù hợp thân phận, quan hệ, tuổi tác, quyền lực và bối cảnh
+  • ancient_setting: cổ phong vừa phải, không lạm dụng Hán Việt khó hiểu
+  • modern_setting: hiện đại, đời thường, không cổ hóa lời thoại
+  • game_system: rõ ràng, gọn, quen thuộc với văn phong game/system
+  • comedy: giữ nhịp hài nếu có
+  • serious: giữ sắc thái căng thẳng, trang trọng nếu có
+
+### Term Normalization
+Purpose: Chuẩn hóa thuật ngữ theo văn cảnh truyện, bao gồm chiêu thức, nghề nghiệp, chức vị, cảnh giới, kỹ năng, vật phẩm, danh hiệu, tổ chức, hệ thống, khái niệm thế giới quan và cụm cố định lặp lại.
+Core principles:
+  • context first
+  • not word by word
+  • same source can have different translation if context differs
+  • same source same context must be consistent
+  • same term type should keep style consistent
+  • locked translation only applies to matching context
+  • source plus type plus context equals translation
+Decision rules:
+  • Không dịch thuật ngữ chỉ theo mặt chữ.
+  • Một source có thể có nhiều bản dịch nếu văn cảnh khác nhau.
+  • Một bản dịch đã khóa chỉ áp dụng cho đúng loại văn cảnh đã khóa.
+  • Tên chiêu thức, cảnh giới, pháp bảo quan trọng nên dùng dạng Hán Việt chuẩn, viết hoa nếu là danh từ riêng.
+  • Vật phẩm phổ thông không cần Hán Việt hóa quá mức.
+  • Nghề nghiệp phải xét bối cảnh.
+  • Chức vị phải xét hệ thống xã hội.
+  • Nếu cùng source và cùng văn cảnh, phải giữ nhất quán.
+  • Nếu không chắc văn cảnh, đánh dấu audit.
+
+### Engine Rules
+  • use context pack
+  • use previous chapter summary
+  • use character profile
+  • use story timeline
+  • use glossary
+  • use name scan
+  • use segment context
+  • avoid over literal translation
+  • avoid over smoothing that changes meaning
+
+## Characters
+N/A
+
+## Glossary
+| 封神演义 | Phong Thần Diễn Nghĩa | term |
+
+
+## Story Timeline (latest)
+
+## Chapter 0001 - Chương 1: Phương Nguyên
+
+### Summary
+Chapter 1 completed via pipeline.
+
+## Chapter 0002 - Chương 2: Thuộc Tính
+
+### Summary
+Chapter 2 completed via pipeline.
+
+## Chapter 0001 - Chương 1: Phương Nguyên
+
+### Summary
+Chapter 1 completed via pipeline.
+
+## Chapter 0002 - Chương 2: Thuộc Tính
+
+### Summary
+Chapter 2 completed via pipeline.
+
+## Chapter 0003 - Chương 3: Linh Trà
+
+### Summary
+Chapter 3 completed via pipeline.
+
+## Chapter 0004 - Chương 4: Vấn Tâm (Cầu sưu tầm)
+
+### Summary
+Chapter 4 completed via pipeline.
+
+## Chapter 0005 - Chương 5: Xuất sơn (Cầu đề cử)
+
+### Summary
+Chapter 5 completed via pipeline.
+
+## Chapter 0006 - Chương 6: Bị trộm
+
+### Summary
+Chapter 6 completed via pipeline.
+
+## Chapter 0007 - Chương 7: Linh thú (Cầu ủng hộ!)
+
+### Summary
+Chapter 7 completed via pipeline.
+
+## Chapter 0008 - Chương 8: Trao đổi
+
+### Summary
+Chapter 8 completed via pipeline.
+
+## Chapter 0009 - Chương 9: Khách tới (Cầu sưu tầm)
+
+### Summary
+Chapter 9 completed via pipeline.
+
+## Chapter 0009 - Chương 9: Khách tới
+
+### Summary
+Chapter 9 completed via pipeline.
+
+## Chapter 0010 - Chương 10: Giao dịch
+
+### Summary
+Chapter 10 completed via pipeline.
+
+## Chapter 0011 - Chương 11: Bí kíp (Cầu ủng hộ)
+
+### Summary
+Chapter 11 completed via pipeline.
+
+## Chapter 0012 - Chương 12: Độc Long Thảo
+
+### Summary
+Chapter 12 completed via pipeline.
+
+## Chapter 0013 - Chương 13: Ngư ông
+
+### Summary
+Chapter 13 completed via pipeline.
+
+## Chapter 0014 - Chương 14: Hỗn độc
+
+### Summary
+Chapter 14 completed via pipeline.
+
+
+## Source Chapter 14 - 0014 混毒
+```json
+[
+  {
+    "segment_id": "0001",
+    "text": "# 第14章 混毒"
+  },
+  {
+    "segment_id": "0002",
+    "text": "“俺是这里的采药人，之前看见那么多血，还有尸体，可真是吓坏了，你们莫不是遇到熊瞎子……”"
+  },
+  {
+    "segment_id": "0003",
+    "text": "那少年郎絮絮叨叨地说着，有些憨傻。"
+  },
+  {
+    "segment_id": "0004",
+    "text": "韩寿武者出身，只是闻了一闻药汤，就知道里面绝无问题，不由小口小口地喝着，感觉腹中略微有了一些暖意，看向少年的目中又带着一丝阴狠。"
+  },
+  {
+    "segment_id": "0005",
+    "text": "虽然得这小子相救，但为了保密，等到恢复一些之后，还是得将他灭口了才好。"
+  },
+  {
+    "segment_id": "0006",
+    "text": "嘴上却感激道：“我们兄弟骤遭大难，得小兄弟相救，实在感激不尽，你说尸体……莫不是我那大哥……死了？”"
+  },
+  {
+    "segment_id": "0007",
+    "text": "他脸色一下呆滞，顿时大滴大滴的眼泪就落了下来，端得是情真意切，纵然方元也不由在心底默默给他点了个赞。"
+  },
+  {
+    "segment_id": "0008",
+    "text": "“唉……这也是没办法的事，你那大哥我已经给葬了，改天等你好些了，再带你去认认路，好启出骸骨，落叶归根……”"
+  },
+  {
+    "segment_id": "0009",
+    "text": "方元安慰道。"
+  },
+  {
+    "segment_id": "0010",
+    "text": "“那真是不胜感激，救命大恩，无以为报，我们兄弟二人，来世就是当牛做马，也要报答小兄弟你的恩情！”"
+  },
+  {
+    "segment_id": "0011",
+    "text": "韩寿此时一无所知，还在大飚演技。"
+  },
+  {
+    "segment_id": "0012",
+    "text": "“呵呵……不必如此，不必如此！”"
+  },
+  {
+    "segment_id": "0013",
+    "text": "方元摸摸头，很是憨厚地笑了。"
+  },
+  {
+    "segment_id": "0014",
+    "text": "此时的韩寿跟个植物人类似，连动个身子都需要方元帮忙，自然打不了什么坏主意。"
+  },
+  {
+    "segment_id": "0015",
+    "text": "倒是观察过周围，确认是深山中一处所在之后，顿时放下心来，看着方元自顾自在一边看书，又有些好奇：“小兄弟，你看得什么？”"
+  },
+  {
+    "segment_id": "0016",
+    "text": "“这可是俺爹传下来的好东西！”"
+  },
+  {
+    "segment_id": "0017",
+    "text": "方元将书册往前面一送：“就是有好些字俺不认识……”"
+  },
+  {
+    "segment_id": "0018",
+    "text": "他看向韩寿，眼睛里面顿时闪过一丝不好意思的光芒：“要不你给我念念？”"
+  },
+  {
+    "segment_id": "0019",
+    "text": "“唔……筋骨爪节，以筋为重，形意次之……宛若猛鹰，迅捷疾扑……这不是鹰爪功么？”"
+  },
+  {
+    "segment_id": "0020",
+    "text": "韩寿看了几行，心里顿时有些不屑。"
+  },
+  {
+    "segment_id": "0021",
+    "text": "但再看看那小子有些急切的脸色，心里暗自一笑，脸上却是做出踌躇之色：“这……可是武功秘笈啊，给在下看好么！”"
+  },
+  {
+    "segment_id": "0022",
+    "text": "“反正我也看不懂，要不大哥你教教我呗！”"
+  },
+  {
+    "segment_id": "0023",
+    "text": "方元脸上故意带着一丝急迫。"
+  },
+  {
+    "segment_id": "0024",
+    "text": "‘嗯，这是你自取死路，可怪不得我了！’"
+  },
+  {
+    "segment_id": "0025",
+    "text": "韩寿心里暗道，脸上却做出大义凛然之色：“小兄弟你救我性命，区区解读几个字，又算得了什么？”"
+  },
+  {
+    "segment_id": "0026",
+    "text": "“那就太好了，这几个字怎么念？”"
+  },
+  {
+    "segment_id": "0027",
+    "text": "方元脸上做出迫不及待之色。"
+  },
+  {
+    "segment_id": "0028",
+    "text": "“嗯，这是关元，代表身上的一个穴位！”"
+  },
+  {
+    "segment_id": "0029",
+    "text": "“这个呢？”"
+  },
+  {
+    "segment_id": "0030",
+    "text": "“骨海！”"
+  },
+  {
+    "segment_id": "0031",
+    "text": "“气元！”"
+  },
+  {
+    "segment_id": "0032",
+    "text": "……"
+  },
+  {
+    "segment_id": "0033",
+    "text": "韩寿随口解释，心里却在暗自冷笑。"
+  },
+  {
+    "segment_id": "0034",
+    "text": "若真是按照他解读的来习练，不用多久，这个山野小子就要自己走火入魔而死了。"
+  },
+  {
+    "segment_id": "0035",
+    "text": "‘这人……果然心如毒蝎！’"
+  },
+  {
+    "segment_id": "0036",
+    "text": "殊不知方元心里，也在暗自齿冷：‘反倒是林本初林员外给的，没有什么问题。’"
+  },
+  {
+    "segment_id": "0037",
+    "text": "这个道理很简单，他自己可是识字并且通晓医术的，若是林员外给的秘笈有问题，以韩寿的见识，大可照本宣科地解读出来。"
+  },
+  {
+    "segment_id": "0038",
+    "text": "但现在，他故意曲解，反倒是显得另外一位比较无辜了。"
+  },
+  {
+    "segment_id": "0039",
+    "text": "“哦，韩大哥，这个字怎么读？”"
+  },
+  {
+    "segment_id": "0040",
+    "text": "想到这里，方元的眼眸里就闪过一丝冷色。"
+  },
+  {
+    "segment_id": "0041",
+    "text": "“这个啊，念命门，为身上一处要害！”"
+  },
+  {
+    "segment_id": "0042",
+    "text": "韩寿随口编了一句，突然间面色一变：“你怎么知道我姓韩？”"
+  },
+  {
+    "segment_id": "0043",
+    "text": "“不止呢，之前你可不是这么解读的！”"
+  },
+  {
+    "segment_id": "0044",
+    "text": "方元跳开数步，脸上露出冷笑，悍然摊牌。"
+  },
+  {
+    "segment_id": "0045",
+    "text": "韩寿脸上一红，知道自己心急之下，随口解释，没有细细推敲，顿时跟前面冲突，露出了马脚。"
+  },
+  {
+    "segment_id": "0046",
+    "text": "但下一刹那，他脸色就变化了：“小子，你装傻诈我？”"
+  },
+  {
+    "segment_id": "0047",
+    "text": "“韩寿，你这个师门败类，我们彼此彼此罢了！”"
+  },
+  {
+    "segment_id": "0048",
+    "text": "方元三两步跳出门外，隔得远远地叫喊。"
+  },
+  {
+    "segment_id": "0049",
+    "text": "“该死，好滑溜的小子！”"
+  },
+  {
+    "segment_id": "0050",
+    "text": "韩寿恢复极快，此时手上已经扣了一枚铜纽扣，只等对方靠近，凭着几门刺激气血，压抑伤势的自残之法，也要射杀了那小子，却想不到对方如此滑溜，顷刻间就跑了没影。"
+  },
+  {
+    "segment_id": "0051",
+    "text": "“等一等，刚才是韩某不对，小兄弟你若肯救治在下，在下愿意将师门真正的神功妙法传授给你！”"
+  },
+  {
+    "segment_id": "0052",
+    "text": "现在敌暗我明，纵然不放火烧屋，只是每天不送饭，韩寿都要倒霉，只能服软道。"
+  },
+  {
+    "segment_id": "0053",
+    "text": "“罢了，几本粗浅武功都敢如此，我又怎么敢学你的‘神功妙法’？”"
+  },
+  {
+    "segment_id": "0054",
+    "text": "方元的声音中带着戏谑：“韩兄实力惊人，还是请乖乖去死好了。”"
+  },
+  {
+    "segment_id": "0055",
+    "text": "他自家人知道自家事，论智谋心计，乃至武功，自己都根本不是韩寿的对手。"
+  },
+  {
+    "segment_id": "0056",
+    "text": "并且对方伤势看起来很严重，但保不准什么时候就恢复过来，或者强行镇压下去，因此还是不受诱惑，直接送对方去死好了。"
+  },
+  {
+    "segment_id": "0057",
+    "text": "自己宁可从头开始，习练没有问题的粗浅武功，也不能与虎谋皮。"
+  },
+  {
+    "segment_id": "0058",
+    "text": "“好小子！”"
+  },
+  {
+    "segment_id": "0059",
+    "text": "韩寿眼珠一转，不知道又要想着什么阴谋诡计。"
+  },
+  {
+    "segment_id": "0060",
+    "text": "这时候，方元幽幽的声音就传了进来：“韩先生，你也不必想着什么阴谋诡计了，因为你的小命，现在已经掌握在我的手里！”"
+  },
+  {
+    "segment_id": "0061",
+    "text": "“你的手里？！”"
+  },
+  {
+    "segment_id": "0062",
+    "text": "韩寿冷冷一笑：“之前的药汤，没有丝毫问题，本人又怎么会……”"
+  },
+  {
+    "segment_id": "0063",
+    "text": "话到一半，突然停住。"
+  },
+  {
+    "segment_id": "0064",
+    "text": "因为他赫然想到自己之前昏迷，落入对方掌中，岂不是想怎么摆布就怎么摆布？"
+  },
+  {
+    "segment_id": "0065",
+    "text": "“不错，我在你之前的绷带中，混入了绮罗香，此香原本只有净尘止血之功，对人体殊无害处，只是若遇到了药汤中的参合子，就有些小小的麻烦，会令患者肢体僵硬，甚至部分腐烂……”"
+  },
+  {
+    "segment_id": "0066",
+    "text": "“混毒？！”"
+  },
+  {
+    "segment_id": "0067",
+    "text": "韩寿面色肃穆，微一运气，的确感觉到四肢僵硬，但脸上却露出冷笑。"
+  },
+  {
+    "segment_id": "0068",
+    "text": "纵然对方再怎么智谋百出，也毕竟只是个普通人，又怎么知道他这种连破五关的武道高手之恐怖？"
+  },
+  {
+    "segment_id": "0069",
+    "text": "区区混毒，以自己的内息与身体素质，撑过一段时间，也就自会消去。"
+  },
+  {
+    "segment_id": "0070",
+    "text": "现在需要做的，只是如何将这可恶小子赚进来一举灭掉，又或者稳住，争取时间。"
+  },
+  {
+    "segment_id": "0071",
+    "text": "“哦？看起来你对自己很有信心！”"
+  },
+  {
+    "segment_id": "0072",
+    "text": "方元的声音传了进来，带着一点诧异：“看来武道高手，的确有把握对付这种毒素？”"
+  },
+  {
+    "segment_id": "0073",
+    "text": "听到这个，韩寿的心一下就宛若沉入无底深渊。"
+  },
+  {
+    "segment_id": "0074",
+    "text": "因为对方语气自信，似乎丝毫都没有害怕或者恐惧。"
+  },
+  {
+    "segment_id": "0075",
+    "text": "反倒是他，在之前短暂地压制下毒素之后，却是骇然发现，四肢的僵硬感又浮现上来，甚至皮肉都开始了明显的腐烂。"
+  },
+  {
+    "segment_id": "0076",
+    "text": "“忘了告诉你……我配置的混毒，加入了其它材料，效力更加非凡哦！”"
+  },
+  {
+    "segment_id": "0077",
+    "text": "听着屋内不断传来惊人的惨叫，方元的面色淡漠，近乎古今无波，又看了眼自己的属性："
+  },
+  {
+    "segment_id": "0078",
+    "text": "“姓名：方元"
+  },
+  {
+    "segment_id": "0079",
+    "text": "精：1"
+  },
+  {
+    "segment_id": "0080",
+    "text": "气：1"
+  },
+  {
+    "segment_id": "0081",
+    "text": "神：1.4"
+  },
+  {
+    "segment_id": "0082",
+    "text": "年龄：18"
+  },
+  {
+    "segment_id": "0083",
+    "text": "修为：无"
+  },
+  {
+    "segment_id": "0084",
+    "text": "技能：无"
+  },
+  {
+    "segment_id": "0085",
+    "text": "专长：医术【一级】、种植术【三级】”"
+  },
+  {
+    "segment_id": "0086",
+    "text": "“医术【一级】——能治疗简单伤势，包括轻微类的外伤，通过草药，可以获得额外的治愈加成效果。”"
+  },
+  {
+    "segment_id": "0087",
+    "text": "“额外的治愈加成，反过来，做成毒药，也有着增幅啊！不过，最关键的因素，恐怕还在珠尾蛇之毒吧？”"
+  },
+  {
+    "segment_id": "0088",
+    "text": "等了片刻之后，屋内已经没有了人声，只有令人毛骨悚然的腐蚀声还在不断传出。"
+  },
+  {
+    "segment_id": "0089",
+    "text": "方元用白布捂着口鼻，施施然走进，旋即就看到了被腐蚀得千疮百孔的木板床，以及地上的一滩脓水。"
+  },
+  {
+    "segment_id": "0090",
+    "text": "“效果如此之好？”"
+  },
+  {
+    "segment_id": "0091",
+    "text": "这么可怕的效果，顿时连始作俑者的方元都有些傻眼：“倒是省了处理尸体的麻烦……”"
+  },
+  {
+    "segment_id": "0092",
+    "text": "他将零散的衣物拾起，准备一把火烧了，彻底毁尸灭迹。"
+  },
+  {
+    "segment_id": "0093",
+    "text": "这韩寿来历明显非同小可，更代表着麻烦，方元利用完之后就准备撇个一干二净，丝毫都不准备沾惹的。"
+  },
+  {
+    "segment_id": "0094",
+    "text": "“倒是……为了什么宝物叛门？”"
+  },
+  {
+    "segment_id": "0095",
+    "text": "他看着韩寿的靴子，脸上带起一丝笑意。"
+  },
+  {
+    "segment_id": "0096",
+    "text": "对方将东西藏得真是十分不错，若非一清醒过来之后，就下意识地瞥了靴子一眼，纵然方元也有可能遗漏过去。"
+  },
+  {
+    "segment_id": "0097",
+    "text": "他立即上前，掏出匕首，将韩寿的云靴大卸八块。"
+  },
+  {
+    "segment_id": "0098",
+    "text": "在右脚靴底的夹层中，一张黑色的牛皮纸就浮现出来。"
+  },
+  {
+    "segment_id": "0099",
+    "text": "“这就是他不惜叛门，击杀师兄，也要独吞的宝物？”"
+  },
+  {
+    "segment_id": "0100",
+    "text": "方元看着黑纸上鬼画符一般的线条，不由十分无语地猜测：“藏宝图？似乎还是残缺的……见鬼了……”"
+  },
+  {
+    "segment_id": "0101",
+    "text": "这东西藏得十分严密，错非将靴子拆开，根本发现不了丝毫，令方元清楚知晓韩寿对于此物的看重。"
+  },
+  {
+    "segment_id": "0102",
+    "text": "只是一份残缺的藏宝图，纵然到手了，又有什么用呢？"
+  },
+  {
+    "segment_id": "0103",
+    "text": "方元对此十分不解，但还是决定将它收好，旋即打了个火堆，将韩寿的衣物彻底焚烧，污水洗了，抛入深谷。"
+  },
+  {
+    "segment_id": "0104",
+    "text": "从此，韩寿这个人，就真真正正地从世界上消失，任凭谁也找不回来了。"
+  },
+  {
+    "segment_id": "0105",
+    "text": "“只是忘了问他到底是哪个宗门的了，附近的大宗门，似乎只有一个归灵宗？”"
+  },
+  {
+    "segment_id": "0106",
+    "text": "在毁尸灭迹之后，方元才有心情胡思乱想：“没有拿到神功秘笈，也有些可惜，不过相比于风险而言，如此还是完全值得的。”"
+  }
+]
+```
+
+## Output Format
+CRITICAL INSTRUCTION: You MUST translate the source text EXACTLY paragraph by paragraph, preserving the original order perfectly. DO NOT skip, drop, merge, or reorder any paragraphs. Each paragraph in the source MUST be translated.
+Return ONLY valid JSON matching this schema:
+{
+  "chapter_number": 14,
+  "chapter_title_vi": "Chương 14: <Vietnamese title>",
+  "segments": [
+    {
+      "segment_id": "XXXX",
+      "source": "...",
+      "target": "..."
+    }
+  ]
+}

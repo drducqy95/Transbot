@@ -1,0 +1,82 @@
+Here is the classification and review for the names and terms provided in your request. 
+
+The decisions are aligned with how similar terms were reviewed in previous chapters of the novel translations, such as in [Chapter 0002](file:///mnt/sdcard/My%20Agent/Transbot/Output/Tieu%20Dao%20Mong%20Duong/pre_trans/Chapter%200002/ai_review.json), [Chapter 0003](file:///mnt/sdcard/My%20Agent/Transbot/Output/Tieu%20Dao%20Mong%20Duong/pre_trans/Chapter%200003/ai_review.json), and [Chapter 0008](file:///mnt/sdcard/My%20Agent/Transbot/Output/Tieu%20Dao%20Mong%20Duong/pre_trans/Chapter%200008/ai_review.json) of *Tiêu Dao Mộng Lộ* (Tieu Dao Mong Duong).
+
+### Summary of Decisions
+1. **`一级`** (Level 1) & **`三级`** (Level 3): **Approved**. Clean and valid progression/tier terms frequently used in game status or attribute panels.
+2. **`——能治疗简`**: **Rejected**. A fragment of a longer description sentence that starts with em-dashes (`——`).
+3. **`”\n“医术`** & **`、种植术`**: **Uncertain / Rejected (Needs Cleanup)**. The raw strings contain formatting/punctuation noise (quotes, newlines, and enumeration commas). However, once cleaned of punctuation to **`医术`** (Y thuật / Thuật trị bệnh) and **`种植术`** (Thuật trồng trọt), they are valid terms.
+
+---
+
+### Simplified JSON Format
+
+```json
+{
+  "names": {
+    "approved": [],
+    "rejected": [],
+    "uncertain": []
+  },
+  "terms": {
+    "approved": [
+      "一级",
+      "三级"
+    ],
+    "rejected": [
+      "——能治疗简",
+      "”\n“医术",
+      "、种植术"
+    ],
+    "uncertain": []
+  }
+}
+```
+
+---
+
+### Detailed JSON Format (with suggested cleanups & translations)
+
+```json
+{
+  "names": {
+    "approved": [],
+    "rejected": [],
+    "uncertain": []
+  },
+  "terms": {
+    "approved": [
+      {
+        "term": "一级",
+        "translation": "Cấp một / Bậc một",
+        "reason": "Clean progression or skill rank/tier term."
+      },
+      {
+        "term": "三级",
+        "translation": "Cấp ba / Bậc ba",
+        "reason": "Clean progression or skill rank/tier term."
+      }
+    ],
+    "rejected": [
+      {
+        "term": "——能治疗简",
+        "reason": "Sentence fragment containing em-dashes, not a standalone term."
+      }
+    ],
+    "uncertain": [
+      {
+        "term": "”\n“医术",
+        "reason": "Contains quote and newline formatting noise. The cleaned term is valid.",
+        "suggested_cleanup": "医术",
+        "suggested_translation": "Y thuật / Thuật trị bệnh"
+      },
+      {
+        "term": "、种植术",
+        "reason": "Contains an leading enumeration comma. The cleaned term is valid.",
+        "suggested_cleanup": "种植术",
+        "suggested_translation": "Thuật trồng trọt"
+      }
+    ]
+  }
+}
+```

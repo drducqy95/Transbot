@@ -1,0 +1,20 @@
+```json
+{
+  "approved": [],
+  "rejected": [
+    "”\n“精元从",
+    "、种植术",
+    "一级",
+    "三级",
+    "专长：医术",
+    "二层"
+  ],
+  "uncertain": []
+}
+```
+
+**Reasoning for Rejections:**
+*   **`”\n“精元从`**: Contains punctuation, line breaks, and incomplete phrasing. It is an artifact of improper text segmentation.
+*   **`、种植术`**: Contains a Chinese enumeration comma (`、`). While "种植术" (Planting Skill) could be a valid term, it should not include the punctuation.
+*   **`一级` / `三级` / `二层`**: These are extremely common words (Level 1, Level 3, Layer/Floor 2) and usually do not require glossary entries unless they are part of a very specific, non-standard cultivation tier system.
+*   **`专长：医术`**: Contains a colon. The actual skill term would be "医术" (Medical Skill), while "专长" (Specialty) is just a label. Glossary terms should generally not include formatting or structural punctuation.

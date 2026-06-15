@@ -1,0 +1,35 @@
+```json
+{
+  "names": {
+    "approved": [],
+    "rejected": [],
+    "uncertain": []
+  },
+  "terms": {
+    "approved": [],
+    "rejected": [
+      "——外门功法", 
+      "”\n“鹰爪铁", 
+      "、种植术", 
+      "、鹰爪铁布衫", 
+      "专长：医术",
+      "三层", 
+      "三级", 
+      "二级", 
+      "五层"
+    ],
+    "uncertain": []
+  },
+  "notes": {
+    "——外门功法": "Rejected due to leading punctuation. Clean term would be '外门功法'.",
+    "”\n“鹰爪铁": "Rejected due to punctuation, newline, and incomplete word.",
+    "、种植术": "Rejected due to leading punctuation. Clean term would be '种植术'.",
+    "、鹰爪铁布衫": "Rejected due to leading punctuation. Clean term would be '鹰爪铁布衫'.",
+    "专长：医术": "Rejected because it contains a colon and acts more like a phrase than a single glossary term.",
+    "三层": "Rejected because it is a generic word (third layer/tier).",
+    "三级": "Rejected because it is a generic word (level 3).",
+    "二级": "Rejected because it is a generic word (level 2).",
+    "五层": "Rejected because it is a generic word (fifth layer/tier)."
+  }
+}
+```

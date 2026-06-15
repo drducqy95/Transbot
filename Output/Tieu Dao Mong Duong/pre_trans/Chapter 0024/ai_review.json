@@ -1,0 +1,26 @@
+```json
+{
+  "approved": [
+    "一级",
+    "二级",
+    "三级",
+    "三层",
+    "四层"
+  ],
+  "rejected": [
+    "——你已经是",
+    "——外门功法",
+    "”\n“危险越",
+    "”\n此时，在",
+    "、种植术"
+  ],
+  "uncertain": [
+    "专长：医术"
+  ]
+}
+```
+
+**Reasoning:**
+- **Approved:** Standard cultivation/gaming terms representing levels or tiers (`一级`, `二级`, `三级`, `三层`, `四层`).
+- **Rejected:** These contain punctuation, line breaks, or are sentence fragments (`——你已经是`, `”\n“危险越`, `”\n此时，在`). Terms like `外门功法` and `种植术` are valid terms on their own, but should not include the punctuation marks (`——` and `、`) attached to them. 
+- **Uncertain:** `专长：医术` includes a colon. It acts more like a UI string or a character sheet stat than a standalone dictionary term. It could be approved if you want to standardize the exact string, but typically you'd extract just `专长` and `医术` as separate terms.

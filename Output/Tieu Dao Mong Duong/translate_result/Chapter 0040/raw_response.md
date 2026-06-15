@@ -1,0 +1,523 @@
+```json
+{
+  "chapter_number": 40,
+  "chapter_title_vi": "Chương 40: Bí văn",
+  "segments": [
+    {
+      "segment_id": "0001",
+      "source": "# 第40章 秘闻",
+      "target": "# Chương 40: Bí văn"
+    },
+    {
+      "segment_id": "0002",
+      "source": "归灵宗前长老宋中恶贯满盈，被击杀枭首！",
+      "target": "Cựu trưởng lão Quy Linh Tông Tống Trung tội ác tày trời, đã bị giết và chém đầu!"
+    },
+    {
+      "segment_id": "0003",
+      "source": "这消息顿时在整个清河郡流传开来，当然，与之一同的，还有某个不怎么靠谱的传言，比如最后出手的乃是一位少年俊杰，武功高强无比，又凭此获得了归灵宗的赏格云云。",
+      "target": "Tin tức này lập tức lan truyền khắp toàn bộ quận Thanh Hà, đương nhiên, cùng với nó, còn có một lời đồn đại không đáng tin cậy cho lắm, ví dụ như người ra tay cuối cùng là một thiếu niên tuấn kiệt, võ công cao cường vô cùng, lại nhờ vậy mà nhận được phần thưởng của Quy Linh Tông vân vân."
+    },
+    {
+      "segment_id": "0004",
+      "source": "大部分武者，对此都是不怎么相信的。",
+      "target": "Phần lớn võ giả đều không mấy tin tưởng vào điều này."
+    },
+    {
+      "segment_id": "0005",
+      "source": "宋中是谁？那可是凶威震四方的七关武者，内力境界！",
+      "target": "Tống Trung là ai chứ? Đó chính là võ giả thất quan hung uy chấn động tứ phương, cảnh giới nội lực!"
+    },
+    {
+      "segment_id": "0006",
+      "source": "纵然归灵宗掌门弟子林蕾月，与对方相比也要相形见绌，那个少年又何德何能，敢与归灵宗掌门弟子相比？",
+      "target": "Cho dù là chưởng môn đệ tử Quy Linh Tông Lâm Lôi Nguyệt, so sánh với đối phương cũng phải mờ nhạt, thiếu niên kia có tài đức gì, dám sánh ngang với chưởng môn đệ tử Quy Linh Tông?"
+    },
+    {
+      "segment_id": "0007",
+      "source": "此事定然是谣言！",
+      "target": "Chuyện này chắc chắn là tin đồn nhảm!"
+    },
+    {
+      "segment_id": "0008",
+      "source": "那宋中，八成还是归灵宗高手主动清理门户的。",
+      "target": "Tống Trung kia, tám phần là do cao thủ Quy Linh Tông chủ động dọn dẹp môn hộ."
+    },
+    {
+      "segment_id": "0009",
+      "source": "否则，以对方修为，足以在清河郡横行。",
+      "target": "Nếu không, với tu vi của đối phương, đủ để hoành hành ở quận Thanh Hà."
+    },
+    {
+      "segment_id": "0010",
+      "source": "只是一些大世家，知晓内情者，听到这些传闻之后，表情就不由十分微妙起来。",
+      "target": "Chỉ là một số đại thế gia, những người biết rõ nội tình, sau khi nghe thấy những tin đồn này, biểu cảm không khỏi trở nên vô cùng vi diệu."
+    },
+    {
+      "segment_id": "0011",
+      "source": "……",
+      "target": "..."
+    },
+    {
+      "segment_id": "0012",
+      "source": "“方元，你真的要走？”",
+      "target": "“Phương Nguyên, ngươi thật sự muốn đi sao?”"
+    },
+    {
+      "segment_id": "0013",
+      "source": "清河郡城之外，一个小亭边上。",
+      "target": "Bên ngoài thành quận Thanh Hà, bên cạnh một cái đình nhỏ."
+    },
+    {
+      "segment_id": "0014",
+      "source": "林蕾月面色复杂，望着翻身上马的少年：“以你的武道资质，大可拜入归灵宗，成为亲传弟子的……”",
+      "target": "Lâm Lôi Nguyệt sắc mặt phức tạp, nhìn thiếu niên xoay người lên ngựa: “Với tư chất võ đạo của ngươi, hoàn toàn có thể bái nhập Quy Linh Tông, trở thành đệ tử chân truyền...”"
+    },
+    {
+      "segment_id": "0015",
+      "source": "“抱歉，我闲云野鹤惯了，实在受不得拘束……月丫头，后会有期了！”",
+      "target": "“Xin lỗi, ta quen làm nhàn vân dã hạc, thật sự không chịu được gò bó... Nguyệt nha đầu, sau này còn gặp lại!”"
+    },
+    {
+      "segment_id": "0016",
+      "source": "方元婉拒，一挥马鞭，青鬃马嘶啼一声，撒开四腿，化为一道黑影，没有多久就消失在天际。",
+      "target": "Phương Nguyên uyển chuyển từ chối, vung roi ngựa, Thanh Tông Mã hí lên một tiếng, sải bốn chân, hóa thành một đạo hắc ảnh, không bao lâu đã biến mất nơi chân trời."
+    },
+    {
+      "segment_id": "0017",
+      "source": "那归灵宗之内派系众多，更何况还有林蕾月这个天然的麻烦源头在，她的身份，必然给方元带来诸多困扰。",
+      "target": "Trong Quy Linh Tông kia phái hệ đông đảo, huống hồ còn có Lâm Lôi Nguyệt là một nguồn rắc rối bẩm sinh này, thân phận của nàng, chắc chắn sẽ mang đến cho Phương Nguyên nhiều phiền phức."
+    },
+    {
+      "segment_id": "0018",
+      "source": "明知道如此，还留在郡城中作甚？",
+      "target": "Biết rõ là như thế, còn ở lại trong quận thành làm gì?"
+    },
+    {
+      "segment_id": "0019",
+      "source": "在兑换到自己想要的东西之后，方元自然丝毫留恋都没有的转身就走。",
+      "target": "Sau khi đổi được thứ mình muốn, Phương Nguyên tự nhiên không chút lưu luyến nào xoay người rời đi."
+    },
+    {
+      "segment_id": "0020",
+      "source": "反倒是林蕾月看着他消失的背影，心里滋味复杂难言，又有着一点隐约的失落。",
+      "target": "Ngược lại là Lâm Lôi Nguyệt nhìn bóng lưng hắn biến mất, trong lòng tư vị phức tạp khó tả, lại mang theo một chút mất mát loáng thoáng."
+    },
+    {
+      "segment_id": "0021",
+      "source": "“后悔么？”",
+      "target": "“Hối hận sao?”"
+    },
+    {
+      "segment_id": "0022",
+      "source": "人影一闪，师语彤的倩影刹那间浮现在凉亭之内，宛若鬼魅。",
+      "target": "Nhân ảnh lóe lên, bóng dáng xinh đẹp của Sư Ngữ Đồng trong chớp mắt hiện ra bên trong lương đình, giống như quỷ mị."
+    },
+    {
+      "segment_id": "0023",
+      "source": "“他有他的路，我有我的道，既然已经选择了，又夫复何言？”",
+      "target": "“Hắn có đường của hắn, ta có đạo của ta, đã lựa chọn, thì còn lời nào để nói?”"
+    },
+    {
+      "segment_id": "0024",
+      "source": "林蕾月仰起头，倔强地回答。",
+      "target": "Lâm Lôi Nguyệt ngẩng đầu lên, quật cường trả lời."
+    },
+    {
+      "segment_id": "0025",
+      "source": "“嗯……甚好！”",
+      "target": "“Ừm... Rất tốt!”"
+    },
+    {
+      "segment_id": "0026",
+      "source": "师语彤满意点头，又看向方元离开的方向：“不过……你这个前未婚夫，根基资质惊人，倒不似池中之物的！”",
+      "target": "Sư Ngữ Đồng hài lòng gật đầu, lại nhìn về hướng Phương Nguyên rời đi: “Nhưng mà... vị vị hôn phu cũ này của ngươi, căn cơ tư chất kinh người, ngược lại không giống vật trong ao đâu!”"
+    },
+    {
+      "segment_id": "0027",
+      "source": "“他……”",
+      "target": "“Hắn...”"
+    },
+    {
+      "segment_id": "0028",
+      "source": "林蕾月眼眸中顿时泛起感兴趣之色：“师尊……您跟我说说！”",
+      "target": "Trong đôi mắt Lâm Lôi Nguyệt lập tức hiện lên vẻ hứng thú: “Sư tôn... người nói cho con nghe một chút đi!”"
+    },
+    {
+      "segment_id": "0029",
+      "source": "“呵呵……”",
+      "target": "“Ha ha...”"
+    },
+    {
+      "segment_id": "0030",
+      "source": "师语彤哑然失笑，又摸了摸林蕾月的琼鼻：“小丫头也起了攀比之心了……你放心，论资质潜力，你是我所见过的第一，任何同辈都无法相比的！”",
+      "target": "Sư Ngữ Đồng á khẩu cười rộ lên, lại sờ sờ chiếc mũi quỳnh của Lâm Lôi Nguyệt: “Nha đầu ngốc cũng nổi lòng hơn thua rồi... Ngươi yên tâm, luận tư chất tiềm lực, ngươi là đệ nhất mà ta từng gặp, bất cứ người đồng lứa nào cũng không thể so sánh!”"
+    },
+    {
+      "segment_id": "0031",
+      "source": "“那为何之前……”",
+      "target": "“Vậy tại sao lúc trước...”"
+    },
+    {
+      "segment_id": "0032",
+      "source": "林蕾月有些疑惑，毕竟之前她对宋中，只能勉强支撑，但对方却能枭首而归，相差不可以道理计。",
+      "target": "Lâm Lôi Nguyệt có chút nghi hoặc, dù sao lúc trước nàng đối đầu với Tống Trung, chỉ có thể miễn cưỡng chống đỡ, nhưng đối phương lại có thể chém đầu hắn mang về, chênh lệch không thể tính bằng lẽ thường được."
+    },
+    {
+      "segment_id": "0033",
+      "source": "“那只是因为那少年根基雄浑罢了……蕾月你也知道的，有的人天生神力，武功一入门就可发挥极大威力，甚至足以与四五关的高手争锋！那方元也是一般，要么天赋异禀，要么吃过什么天材地宝，而据你描述，当时的宋中已是樯橹之末，连内劲都几乎消耗殆尽，又经过车轮战，被活活耗死，为师是毫不意外的……”",
+      "target": "“Đó chỉ là bởi vì căn cơ của thiếu niên kia hùng hậu mà thôi... Lôi Nguyệt ngươi cũng biết, có một số người trời sinh thần lực, võ công vừa mới nhập môn liền có thể phát huy uy lực cực lớn, thậm chí đủ để tranh phong với cao thủ tứ ngũ quan! Phương Nguyên kia cũng giống như vậy, hoặc là thiên phú dị bẩm, hoặc là từng ăn qua thiên tài địa bảo gì đó, mà theo như ngươi miêu tả, Tống Trung lúc đó đã là nỏ mạnh hết đà, ngay cả nội kình cũng gần như tiêu hao sạch sẽ, lại trải qua luân xa chiến, bị từ từ bào mòn đến chết, vi sư hoàn toàn không cảm thấy bất ngờ...”"
+    },
+    {
+      "segment_id": "0034",
+      "source": "师语彤解释道。",
+      "target": "Sư Ngữ Đồng giải thích."
+    },
+    {
+      "segment_id": "0035",
+      "source": "心里，还有一点惋惜，那少年精气神都是不错，奈何还差了一点，若神元也超出常人数倍，那就是传闻中的灵士资质了。",
+      "target": "Trong lòng vẫn còn một chút thương tiếc, tinh khí thần của thiếu niên kia đều không tồi, nhưng nại hà còn thiếu một chút, nếu thần nguyên cũng vượt qua người thường gấp mấy lần, đó chính là tư chất linh sĩ trong lời đồn."
+    },
+    {
+      "segment_id": "0036",
+      "source": "但现在这点，纵然在青年一辈中算是杰出，却也会被很快赶上。",
+      "target": "Nhưng với chút này hiện tại, cho dù trong thế hệ thanh niên xem như xuất sắc, lại cũng sẽ nhanh chóng bị đuổi kịp."
+    },
+    {
+      "segment_id": "0037",
+      "source": "毕竟内力之用，神乎其神，妙法无穷。",
+      "target": "Dù sao tác dụng của nội lực, thần diệu phi thường, diệu pháp vô cùng."
+    },
+    {
+      "segment_id": "0038",
+      "source": "不论根基如何，到了三险关的内力境，都会有着一个脱胎换骨的变化。",
+      "target": "Bất luận căn cơ ra sao, đến cảnh giới nội lực của tam hiểm quan, đều sẽ có một sự thay đổi thoát thai hoán cốt."
+    },
+    {
+      "segment_id": "0039",
+      "source": "那些身体素质过人者，到了这里，就会被慢慢追平，纵然还有些优势，却也不甚明显了。",
+      "target": "Những kẻ có tố chất thân thể hơn người, đến nơi này, liền sẽ bị dần dần san bằng, cho dù vẫn còn một chút ưu thế, nhưng lại cũng không quá rõ ràng."
+    },
+    {
+      "segment_id": "0040",
+      "source": "她看向徒弟，当即道：“蕾月你也不必灰心，此次因祸得福，只要突破武道第六关伤门，清河郡年青一辈，仍是以你为第一！”",
+      "target": "Nàng nhìn về phía đồ đệ, lập tức nói: “Lôi Nguyệt ngươi cũng không cần nản chí, lần này trong cái rủi có cái may, chỉ cần đột phá võ đạo đệ lục quan Thương Môn, thế hệ trẻ tuổi quận Thanh Hà, vẫn lấy ngươi làm đệ nhất!”"
+    },
+    {
+      "segment_id": "0041",
+      "source": "“我知道了！”",
+      "target": "“Con biết rồi!”"
+    },
+    {
+      "segment_id": "0042",
+      "source": "林蕾月握紧小拳头，看向方元离开位置，眸子里有着不服输的色彩。",
+      "target": "Lâm Lôi Nguyệt nắm chặt nắm đấm nhỏ, nhìn về phía vị trí Phương Nguyên rời đi, trong mắt mang theo sắc thái không chịu thua."
+    },
+    {
+      "segment_id": "0043",
+      "source": "……",
+      "target": "..."
+    },
+    {
+      "segment_id": "0044",
+      "source": "“驾！”",
+      "target": "“Giá!”"
+    },
+    {
+      "segment_id": "0045",
+      "source": "方元策马奔腾，看着两边景色飞退，胸中壁垒顿开，却是有着一股海阔凭鱼跃，天高任鸟飞，猛虎归山林的畅快感觉，不由一声清啸。",
+      "target": "Phương Nguyên giục ngựa phi nước đại, nhìn cảnh sắc hai bên bay ngược về phía sau, rào cản trong ngực chợt mở ra, lại có một cảm giác sảng khoái biển rộng mặc cá bơi, trời cao mặc chim bay, mãnh hổ về núi rừng, không khỏi hét lên một tiếng trong trẻo."
+    },
+    {
+      "segment_id": "0046",
+      "source": "清河郡中龙蛇混杂，宛若囚笼一般。",
+      "target": "Trong quận Thanh Hà rồng rắn lẫn lộn, giống như một lồng giam."
+    },
+    {
+      "segment_id": "0047",
+      "source": "诚然，此时的他还是一个新人，与各方势力没有多少牵扯，或许还不会受到针对。",
+      "target": "Thật vậy, lúc này hắn vẫn còn là một người mới, không có bao nhiêu liên quan với các phe thế lực, có lẽ vẫn sẽ không bị nhắm vào."
+    },
+    {
+      "segment_id": "0048",
+      "source": "但如若长久呆下去，甚至拜入归灵宗内，那可就难说了。",
+      "target": "Nhưng nếu cứ ở lại lâu dài, thậm chí bái nhập vào trong Quy Linh Tông, vậy thì khó nói rồi."
+    },
+    {
+      "segment_id": "0049",
+      "source": "“到底还是金窝银窝，不如自己的狗窝啊！”",
+      "target": "“Rốt cuộc ổ vàng ổ bạc, cũng không bằng ổ chó của mình a!”"
+    },
+    {
+      "segment_id": "0050",
+      "source": "方元嘴角带起一丝笑意。",
+      "target": "Khóe miệng Phương Nguyên mang theo một tia ý cười."
+    },
+    {
+      "segment_id": "0051",
+      "source": "他这次的前来郡城，可谓是收获颇丰。",
+      "target": "Hắn lần này tới quận thành, có thể nói là thu hoạch khá phong phú."
+    },
+    {
+      "segment_id": "0052",
+      "source": "扳倒宋中，收获灵种是一方面，而最大的惊喜，还是来自归灵宗藏书阁。",
+      "target": "Đánh đổ Tống Trung, thu hoạch linh chủng là một phương diện, mà kinh hỉ lớn nhất, vẫn là tới từ Tàng Thư Các của Quy Linh Tông."
+    },
+    {
+      "segment_id": "0053",
+      "source": "斩杀宋中，方元选了一枚归元令做奖赏，并且立即使用，要求前往归灵宗的藏书阁一观。",
+      "target": "Chém giết Tống Trung, Phương Nguyên chọn một tấm Quy Nguyên Lệnh làm phần thưởng, đồng thời lập tức sử dụng, yêu cầu đến Tàng Thư Các của Quy Linh Tông xem qua."
+    },
+    {
+      "segment_id": "0054",
+      "source": "若是要求遍览武功秘笈，那方元估计自己立马就要死得不明不白，连归元令都没鸟用。",
+      "target": "Nếu như yêu cầu xem khắp võ công bí kíp, Phương Nguyên dự tính mình ngay lập tức sẽ phải chết không rõ ràng, ngay cả Quy Nguyên Lệnh cũng chẳng có tác dụng quái gì."
+    },
+    {
+      "segment_id": "0055",
+      "source": "但只要求看杂书的话，那当真是惠而不费的事，没有哪个会拒绝。",
+      "target": "Nhưng chỉ yêu cầu xem tạp thư thôi thì đúng là chuyện có lợi mà không tốn công sức, không có kẻ nào sẽ từ chối."
+    },
+    {
+      "segment_id": "0056",
+      "source": "在靠着林蕾月的关系，提出请求之后，那师语彤果然很快答应下来，让他在藏书楼任意阅览三日。",
+      "target": "Dựa vào mối quan hệ với Lâm Lôi Nguyệt, sau khi đưa ra yêu cầu, Sư Ngữ Đồng quả nhiên rất nhanh đồng ý, để hắn tùy ý đọc trong Tàng Thư Các ba ngày."
+    },
+    {
+      "segment_id": "0057",
+      "source": "只是没能见到这位传说中的武宗真面目，令方元略微有些遗憾。",
+      "target": "Chỉ là không thể nhìn thấy chân diện mục của vị Vũ Tông trong truyền thuyết này, khiến Phương Nguyên hơi có chút tiếc nuối."
+    },
+    {
+      "segment_id": "0058",
+      "source": "“哼……不过以归灵宗的底蕴，暗中窥视过我的高手，可当真不少，其中未尝就没有那位武宗大人呢！”",
+      "target": "“Hừ... Nhưng với gốc gác của Quy Linh Tông, những cao thủ thầm dòm ngó ta cũng không ít, trong đó chưa chắc đã không có vị Vũ Tông đại nhân kia!”"
+    },
+    {
+      "segment_id": "0059",
+      "source": "方元冷笑一声，放缓了马速。",
+      "target": "Phương Nguyên cười lạnh một tiếng, thả chậm tốc độ ngựa."
+    },
+    {
+      "segment_id": "0060",
+      "source": "说实话，他除了一个系统在脑袋里之外，其它的一切纵然泄漏出去，也顶多算是奇遇，还是比较小的那一类。",
+      "target": "Nói thật, hắn ngoại trừ một cái hệ thống ở trong đầu ra, những thứ khác cho dù có rò rỉ ra ngoài thì nhiều nhất cũng chỉ được coi là kỳ ngộ, mà còn là loại khá nhỏ bé."
+    },
+    {
+      "segment_id": "0061",
+      "source": "不真正看到系统说明，有哪个会相信他有培育灵种，甚至令普通植株变异的能力？",
+      "target": "Không thật sự nhìn thấy thuyết minh hệ thống, có kẻ nào sẽ tin hắn có năng lực bồi dưỡng linh chủng, thậm chí khiến thực vật bình thường biến dị?"
+    },
+    {
+      "segment_id": "0062",
+      "source": "因此，自然无所畏惧。",
+      "target": "Bởi vậy, đương nhiên không có gì phải sợ hãi."
+    },
+    {
+      "segment_id": "0063",
+      "source": "只是这种窥视的感觉，还是令人有些不爽就是。",
+      "target": "Chỉ là loại cảm giác bị dòm ngó này, vẫn khiến người ta có chút khó chịu mà thôi."
+    },
+    {
+      "segment_id": "0064",
+      "source": "“嘿嘿……归灵宗，很了不起么？”",
+      "target": "“Hắc hắc... Quy Linh Tông, rất tài ba sao?”"
+    },
+    {
+      "segment_id": "0065",
+      "source": "眼见已经远离郡城，方元按住缰绳，徐徐前行。",
+      "target": "Mắt thấy đã rời xa quận thành, Phương Nguyên giữ cương, chậm rãi tiến lên."
+    },
+    {
+      "segment_id": "0066",
+      "source": "“不过，作为代价而言，也是很值得的！”",
+      "target": "“Nhưng mà, nói về mặt cái giá phải trả thì cũng rất xứng đáng!”"
+    },
+    {
+      "segment_id": "0067",
+      "source": "他也比较理解对方的做法，毕竟自己终归是个外人，必要的防范还是需要的，只是理解是一回事，接不接受又是另外一回事了。",
+      "target": "Hắn cũng khá hiểu cách làm của đối phương, dù sao mình xét cho cùng vẫn là một người ngoài, sự đề phòng cần thiết là điều phải có, chỉ là thấu hiểu là một chuyện, có chấp nhận hay không lại là chuyện khác."
+    },
+    {
+      "segment_id": "0068",
+      "source": "倒是这次冒了一点风险，进入归灵宗藏书阁，总算是物有所值。",
+      "target": "Có điều lần này mạo hiểm một chút, tiến vào Tàng Thư Các Quy Linh Tông, dù sao cũng xem như đáng đồng tiền bát gạo."
+    },
+    {
+      "segment_id": "0069",
+      "source": "在浩瀚若烟海一般的文献当中，方元还是找到了自己想要的一点东西。",
+      "target": "Trong biển tài liệu mênh mông như khói sóng, Phương Nguyên vẫn tìm được một chút thứ mình muốn."
+    },
+    {
+      "segment_id": "0070",
+      "source": "“想不到……这个世界竟然如此辽阔！相比较而言，普通武者不过底层，甚至都无法接触真相……连灵士也不过刚刚入门，还有更加飘渺神化的丹师、梦师么？”",
+      "target": "“Không ngờ... thế giới này lại rộng lớn như vậy! So sánh mà nói, võ giả bình thường chẳng qua chỉ là tầng chót, thậm chí còn không cách nào tiếp xúc với chân tướng... Ngay cả linh sĩ cũng chỉ mới vừa nhập môn, còn có Đan Sư, Mộng Sư mờ ảo thần hóa hơn nữa sao?”"
+    },
+    {
+      "segment_id": "0071",
+      "source": "这点记录，是他在一部类似武者游记的书上看到的，当时便是如获至宝。",
+      "target": "Chút ghi chép này, là hắn nhìn thấy trong một cuốn sách giống như du ký võ giả, lúc đó liền như bắt được vàng."
+    },
+    {
+      "segment_id": "0072",
+      "source": "那位留书的武者是归灵宗某代长老，已经将金锁重楼十二关修炼至大圆满境界，外出云游，寻找突破武宗之机缘。",
+      "target": "Vị võ giả để lại sách kia là trưởng lão một đời nào đó của Quy Linh Tông, đã tu luyện Kim Tỏa Trùng Lâu mười hai quan tới cảnh giới đại viên mãn, đi ra ngoài du ngoạn, tìm kiếm cơ duyên đột phá Vũ Tông."
+    },
+    {
+      "segment_id": "0073",
+      "source": "虽然后来还是无法突破，回到宗门不久就坐化了，但留下的大量杂谈，游记，却是开眼看世界的丰富资料。",
+      "target": "Mặc dù sau đó vẫn không thể đột phá, vừa về tới tông môn không lâu liền tọa hóa, nhưng lượng lớn tạp đàm, du ký để lại lại là nguồn tài liệu phong phú để mở mang tầm mắt về thế giới."
+    },
+    {
+      "segment_id": "0074",
+      "source": "在他的一篇杂谈里，就提到了灵地的形成。",
+      "target": "Trong một bài tạp đàm của người đó, đã đề cập đến sự hình thành của linh địa."
+    },
+    {
+      "segment_id": "0075",
+      "source": "“灵地者，天意所钟，地气凝聚，造化而成，可遇而不可求……这话对也不对！”",
+      "target": "“Linh địa, là nơi thiên ý hội tụ, địa khí ngưng tụ, tạo hóa mà thành, có thể gặp mà không thể cầu... Câu này đúng mà cũng không đúng!”"
+    },
+    {
+      "segment_id": "0076",
+      "source": "方元目光游离：“好像归灵宗的那片小小灵地，就真的是自然造化生成，第一代宗主发现之后就如获至宝，将整个宗门都搬迁过来，视为根基……但还有一种灵地，却是与修士有关！”",
+      "target": "Ánh mắt Phương Nguyên lơ đãng: “Hình như mảnh linh địa nho nhỏ kia của Quy Linh Tông, thật sự là tự nhiên tạo hóa sinh ra, thế hệ tông chủ thứ nhất sau khi phát hiện liền như bắt được vàng, đem toàn bộ tông môn đều chuyển tới đây, coi như căn cơ... Nhưng còn có một loại linh địa, lại liên quan đến tu sĩ!”"
+    },
+    {
+      "segment_id": "0077",
+      "source": "“据说，有着一种大神通修士，在遇到某种特定情况，比如说坐化之时，就有可能诞生出新的灵地来。”",
+      "target": "“Tương truyền, có một loại tu sĩ đại thần thông, lúc gặp được tình huống đặc biệt nào đó, ví dụ như lúc tọa hóa, thì có khả năng sinh ra linh địa mới.”"
+    },
+    {
+      "segment_id": "0078",
+      "source": "“虽然这位大长老连武宗都不是，因此记录的也只是道听途说，但世界之大，无奇不有，既然丹师都能炼制灵丹，夺天地造化，那再来一种修士，能造化天地，自成灵地、福地……也并非没有可能！”",
+      "target": "“Mặc dù vị đại trưởng lão này ngay cả Vũ Tông cũng không phải, cho nên thứ ghi lại cũng chỉ là nghe đồn đoán bậy bạ, nhưng thế giới rộng lớn, không gì là không có, nếu Đan Sư đều có thể luyện chế linh đan, đoạt thiên địa tạo hóa, vậy thì thêm một loại tu sĩ, có thể tạo hóa thiên địa, tự thành linh địa, phúc địa... Cũng không phải là không có khả năng!”"
+    },
+    {
+      "segment_id": "0079",
+      "source": "“就是不知我深山中发现的青峰灵地，到底源流何处……”",
+      "target": "“Chỉ là không biết Thanh Phong linh địa mà ta phát hiện trong núi sâu, rốt cuộc có cội nguồn từ nơi nào...”"
+    },
+    {
+      "segment_id": "0080",
+      "source": "方元抬头，望着清灵山高低起伏的山峦，眼眸中蓦然浮现出一抹炙热，又有一股亲切之感：“到家了……”",
+      "target": "Phương Nguyên ngẩng đầu, nhìn dãy núi nhấp nhô của Thanh Linh Sơn, trong mắt bỗng nhiên hiện lên một tia nóng rực, lại có một luồng cảm giác thân thiết: “Về đến nhà rồi...”"
+    },
+    {
+      "segment_id": "0081",
+      "source": "幽谷。",
+      "target": "Trong u cốc."
+    },
+    {
+      "segment_id": "0082",
+      "source": "“咯咯！吱吱！”",
+      "target": "“Cục cục! Chi chi!”"
+    },
+    {
+      "segment_id": "0083",
+      "source": "方元刚刚踏入谷口，花狐貂的身影就闪电般激射过来，扯着他的裤脚，一副急切而又乐不可支的模样。",
+      "target": "Phương Nguyên vừa mới bước vào cửa cốc, bóng dáng Hoa Hồ Điêu liền lao tới nhanh như chớp, kéo ống quần hắn, bày ra dáng vẻ sốt ruột lại vui sướng tột độ."
+    },
+    {
+      "segment_id": "0084",
+      "source": "“嗯，急成这样？”",
+      "target": "“Hả, gấp gáp thành thế này sao?”"
+    },
+    {
+      "segment_id": "0085",
+      "source": "方元心里一惊，又见到花狐貂一个劲地拉着他往种植园跑，顿时就猜测出了一二。",
+      "target": "Trong lòng Phương Nguyên giật mình, lại nhìn thấy Hoa Hồ Điêu ra sức kéo hắn chạy về phía vườn trồng trọt, lập tức đã đoán ra được đôi chút."
+    },
+    {
+      "segment_id": "0086",
+      "source": "“莫非……”",
+      "target": "“Chẳng lẽ...”"
+    },
+    {
+      "segment_id": "0087",
+      "source": "他心里有些激动，顿时加快了脚步。",
+      "target": "Trong lòng hắn có chút kích động, liền vội vàng tăng tốc bước chân."
+    },
+    {
+      "segment_id": "0088",
+      "source": "一路到了茶林位置，一股清香四溢，提神醒脑，令人浑身一爽。",
+      "target": "Một đường đến vị trí rừng trà, một mùi hương thanh khiết lan tỏa tứ phía, giúp tỉnh táo đầu óc, khiến toàn thân sảng khoái."
+    },
+    {
+      "segment_id": "0089",
+      "source": "“果然……”",
+      "target": "“Quả nhiên...”"
+    },
+    {
+      "segment_id": "0090",
+      "source": "方元大喜，迈步上前，顿时见到最深处一株通体有若碧玉的问心茶树。",
+      "target": "Phương Nguyên mừng rỡ, tiến lên một bước, lập tức nhìn thấy một gốc Vấn Tâm Trà thụ ở nơi sâu nhất toàn thân giống như bích ngọc."
+    },
+    {
+      "segment_id": "0091",
+      "source": "此时的这株灵植欣欣向荣，枝干上，一片片嫩绿的茶叶舒展着芽儿，泛着惊人的茶香。",
+      "target": "Lúc này, gốc linh thực này đang tràn đầy sức sống, trên cành lá, từng chiếc lá trà xanh non mơn mởn đang vươn mình đâm chồi nảy lộc, tỏa ra hương trà đến kinh ngạc."
+    },
+    {
+      "segment_id": "0092",
+      "source": "“咯咯！”",
+      "target": "“Cục cục!”"
+    },
+    {
+      "segment_id": "0093",
+      "source": "花狐貂指了指土壤，方元顿时见到问心茶树根部，大片大片的灵肥痕迹。",
+      "target": "Hoa Hồ Điêu chỉ chỉ vào đất, Phương Nguyên lập tức nhìn thấy ở gốc Vấn Tâm Trà thụ có từng mảng lớn dấu vết linh phì."
+    },
+    {
+      "segment_id": "0094",
+      "source": "“看样子，在我离开的这段时间之内，花狐貂也没有闲着……”",
+      "target": "“Xem ra, trong khoảng thời gian ta rời đi, Hoa Hồ Điêu cũng không hề nhàn rỗi...”"
+    },
+    {
+      "segment_id": "0095",
+      "source": "见到这一幕，方元顿时哑然失笑。",
+      "target": "Nhìn thấy cảnh này, Phương Nguyên lập tức á khẩu bật cười."
+    },
+    {
+      "segment_id": "0096",
+      "source": "这貂儿傲气得很，除了问心茶树与红玉灵米之外，其它植株，那是根本不屑一顾的。",
+      "target": "Con chồn này rất kiêu ngạo, ngoại trừ Vấn Tâm Trà thụ và Hồng Ngọc Linh Mễ ra, những loại thực vật khác, nó căn bản là chẳng thèm ngó ngàng tới."
+    },
+    {
+      "segment_id": "0097",
+      "source": "而此时见到茶树长叶，竟然还能忍住，当真是成长了不少。",
+      "target": "Mà lúc này thấy trà thụ ra lá, vậy mà vẫn có thể nhịn được, quả thật là đã trưởng thành lên không ít."
+    },
+    {
+      "segment_id": "0098",
+      "source": "“没有我的坐忘茶道，就没有能增长神元的问心灵茶！”",
+      "target": "“Không có Tọa Vong Trà Đạo của ta, thì sẽ không có Vấn Tâm Linh Trà có thể gia tăng thần nguyên!”"
+    },
+    {
+      "segment_id": "0099",
+      "source": "方元摸了摸花狐貂的小脑袋：“放心，少不了你一份的！”",
+      "target": "Phương Nguyên sờ sờ cái đầu nhỏ của Hoa Hồ Điêu: “Yên tâm, không thiếu phần của ngươi đâu!”"
+    },
+    {
+      "segment_id": "0100",
+      "source": "在遍览群书之后，他对于问心茶树的价值又有了更加深刻的了解。",
+      "target": "Sau khi đọc hết mọi loại sách, hắn đã có sự hiểu biết sâu sắc hơn đối với giá trị của Vấn Tâm Trà thụ."
+    },
+    {
+      "segment_id": "0101",
+      "source": "灵植也分高下，比如红玉稻米与翡翠草，就是最低级的一种，但也有增长精元气元的不可思议效果。",
+      "target": "Linh thực cũng phân cao thấp, ví dụ như Hồng Ngọc Đạo Mễ và Phỉ Thúy Thảo chính là một loại thấp nhất, nhưng cũng có hiệu quả gia tăng tinh nguyên khí nguyên một cách khó tin."
+    },
+    {
+      "segment_id": "0102",
+      "source": "至于能增长神元的灵植？简直闻所未闻，传出去之后必然遭到疯狂追捧！",
+      "target": "Còn linh thực có thể tăng trưởng thần nguyên sao? Quả thực là điều chưa từng nghe đến, nếu truyền ra ngoài chắc chắn sẽ bị người ta điên cuồng săn đón!"
+    },
+    {
+      "segment_id": "0103",
+      "source": "因为想要成为灵士、丹师，神元就是最重要的门槛！",
+      "target": "Bởi vì muốn trở thành linh sĩ, Đan Sư, thần nguyên chính là ngưỡng cửa quan trọng nhất!"
+    }
+  ]
+}
+```

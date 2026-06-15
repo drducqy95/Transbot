@@ -1,0 +1,565 @@
+Here is the corrected translation. The issue was in segment `0019` where the target text had an untranslated Chinese character (`tính ẩn蔽`). It has been changed to `sự kín đáo`.
+
+```json
+{
+  "chapter_number": 30,
+  "chapter_title_vi": "Chương 30: Linh cầm",
+  "segments": [
+    {
+      "segment_id": "0001",
+      "source": "# 第30章 灵禽",
+      "target": "# Chương 30: Linh cầm"
+    },
+    {
+      "segment_id": "0002",
+      "source": "“灵地啊……”",
+      "target": "“Linh địa a…”"
+    },
+    {
+      "segment_id": "0003",
+      "source": "方元望着前方，神色炙热。",
+      "target": "Phương Nguyên nhìn về phía trước, ánh mắt nóng rực."
+    },
+    {
+      "segment_id": "0004",
+      "source": "纵然最低等的灵地，也是一个巨大的宝藏，当然，也蕴含着极大的危险。",
+      "target": "Dù là linh địa hạ đẳng nhất cũng là một kho báu khổng lồ, tất nhiên, trong đó cũng ẩn chứa nguy hiểm cực lớn."
+    },
+    {
+      "segment_id": "0005",
+      "source": "别的不说，灵花灵草既多，伴生的灵兽凶兽就绝不会少，纵然一株毒龙草，都有着变异珠尾蛇守护，更何况真正的灵植呢？",
+      "target": "Chưa nói đến những thứ khác, linh hoa linh thảo đã nhiều, linh thú hung thú mọc nương theo tuyệt đối cũng không ít, dù chỉ là một gốc Độc Long Thảo cũng đã có Châu Vĩ Xà biến dị thủ hộ, huống hồ là linh thực chân chính?"
+    },
+    {
+      "segment_id": "0006",
+      "source": "“拼了，不入虎穴，焉得虎子？”",
+      "target": "“Liều thôi, không vào hang cọp, sao bắt được cọp con?”"
+    },
+    {
+      "segment_id": "0007",
+      "source": "方元咬了咬牙齿，脸上带着一丝狠色：“花狐貂，带路，我们去找灵肥！”",
+      "target": "Phương Nguyên cắn răng, trên mặt hiện lên vẻ tàn nhẫn: “Hoa Hồ Điêu, dẫn đường, chúng ta đi tìm linh phì!”"
+    },
+    {
+      "segment_id": "0008",
+      "source": "这条路线花狐貂经常跑，之前几次既然没有出事，自己只要小心些，不要受到这诡异雾气的影响，应当也没有什么大问题。",
+      "target": "Tuyến đường này Hoa Hồ Điêu thường xuyên chạy, mấy lần trước đã không xảy ra chuyện gì, bản thân chỉ cần cẩn thận một chút, không để màn sương mù quỷ dị này ảnh hưởng, hẳn là cũng không có vấn đề gì lớn."
+    },
+    {
+      "segment_id": "0009",
+      "source": "“咯咯！”",
+      "target": "“Cục cục!”"
+    },
+    {
+      "segment_id": "0010",
+      "source": "花狐貂极通人性，在前面带路，方元则是匍匐着身子，在后面默默跟着，内息汇聚于双耳，时刻注意着周围的动静。",
+      "target": "Hoa Hồ Điêu cực kỳ hiểu nhân tính, ở phía trước dẫn đường. Phương Nguyên thì khom người, lặng lẽ đi theo phía sau, nội tức hội tụ ở hai tai, thời khắc chú ý động tĩnh xung quanh."
+    },
+    {
+      "segment_id": "0011",
+      "source": "说来也是奇怪。",
+      "target": "Nói ra cũng kỳ lạ."
+    },
+    {
+      "segment_id": "0012",
+      "source": "自从想到师父的教导，以坐忘茶道收摄心神之后，这诡异的雾气就再也没有了之前那种奇异的影响。",
+      "target": "Từ lúc nhớ tới lời dạy của sư phụ, dùng Tọa Vong Trà Đạo thu nhiếp tâm thần, màn sương mù quỷ dị này không còn tạo ra loại ảnh hưởng kỳ lạ như trước nữa."
+    },
+    {
+      "segment_id": "0013",
+      "source": "甚至，再走一段之后，山雾就渐渐散开，现出后面的景观。",
+      "target": "Thậm chí, đi thêm một đoạn, sương mù trên núi dần tan đi, lộ ra cảnh quan phía sau."
+    },
+    {
+      "segment_id": "0014",
+      "source": "“那是……”",
+      "target": "“Đó là…”"
+    },
+    {
+      "segment_id": "0015",
+      "source": "方元望着这一幕，瞳孔却是微微扩大。",
+      "target": "Phương Nguyên nhìn cảnh tượng này, đồng tử hơi mở to."
+    },
+    {
+      "segment_id": "0016",
+      "source": "在他视线所及，是一座小巧玲珑的青峰，周围被一圈白雾笼罩，有如天幕一般阻隔，到了里面，天空却是赤红如血，清晰可见夕阳西下的美景。",
+      "target": "Trong tầm mắt của hắn là một ngọn núi xanh nhỏ nhắn lung linh, xung quanh bị một vòng sương trắng bao phủ, tựa như màn trời ngăn cách, nhưng vào đến bên trong, bầu trời lại đỏ rực như máu, nhìn rõ được cảnh đẹp hoàng hôn buông xuống."
+    },
+    {
+      "segment_id": "0017",
+      "source": "“一道雾气墙壁，将这整个山头都笼罩了起来？”",
+      "target": "“Một bức tường sương mù, bao phủ toàn bộ đỉnh núi này sao?”"
+    },
+    {
+      "segment_id": "0018",
+      "source": "方元有些诧异，知道若非自己有着花狐貂带路，一门心思地往里面钻，八成也要错过这个疑似灵地之处。",
+      "target": "Phương Nguyên có chút kinh ngạc, biết rằng nếu không có Hoa Hồ Điêu dẫn đường, một lòng cắm đầu chui vào trong, tám phần là cũng sẽ bỏ lỡ chỗ hoài nghi là linh địa này."
+    },
+    {
+      "segment_id": "0019",
+      "source": "从这方面来讲，此地的隐蔽性，又不知道要超出幽谷多少了。",
+      "target": "Xét về mặt này, sự kín đáo của nơi này, không biết đã vượt xa U Cốc bao nhiêu lần rồi."
+    },
+    {
+      "segment_id": "0020",
+      "source": "“呼……”",
+      "target": "“Phù…”"
+    },
+    {
+      "segment_id": "0021",
+      "source": "“等一等！”",
+      "target": "“Đợi đã!”"
+    },
+    {
+      "segment_id": "0022",
+      "source": "方元长出口气，又是发觉不同。",
+      "target": "Phương Nguyên thở hắt ra một hơi, lại phát hiện ra điểm khác biệt."
+    },
+    {
+      "segment_id": "0023",
+      "source": "“连这里的空气，都似乎更加清新，带着灵性……普通人在此居住，足可延年益寿，甚至武者在此习武，都大有助益！”",
+      "target": "“Ngay cả không khí nơi này dường như cũng trong lành hơn, mang theo linh tính... Người bình thường sống ở đây cũng đủ để kéo dài tuổi thọ, thậm chí võ giả luyện võ ở đây cũng có lợi ích rất lớn!”"
+    },
+    {
+      "segment_id": "0024",
+      "source": "他眼睛发亮：“这种种神异，此地必是灵地无疑！”",
+      "target": "Hai mắt hắn sáng lên: “Những sự thần dị này, nơi này chắc chắn là linh địa không thể nghi ngờ!”"
+    },
+    {
+      "segment_id": "0025",
+      "source": "刹那间，方元就有着一种中大奖的感觉。",
+      "target": "Trong chớp mắt, Phương Nguyên có cảm giác như trúng được giải thưởng lớn."
+    },
+    {
+      "segment_id": "0026",
+      "source": "只是越到这种重大关头，他心思却越发沉静，跟随在花狐貂之后，向青峰的一侧跑去。",
+      "target": "Chỉ là càng đến lúc quan trọng thế này, tâm tư của hắn lại càng trầm tĩnh. Hắn bám theo sau Hoa Hồ Điêu, chạy về một bên ngọn núi xanh."
+    },
+    {
+      "segment_id": "0027",
+      "source": "在青峰一侧，是一处有些光秃秃的悬崖峭壁，上面诸多黑点，影影幢幢，因为天色渐黑，有些看不清晰。",
+      "target": "Ở một bên ngọn núi xanh là một vách đá có phần trơ trọi, bên trên có rất nhiều điểm đen, bóng dáng chập chờn, bởi vì sắc trời dần tối nên có chút nhìn không rõ."
+    },
+    {
+      "segment_id": "0028",
+      "source": "花狐貂到了这里，变得更加警惕，招了招小爪子，半点声音都没有发出。",
+      "target": "Hoa Hồ Điêu đến đây thì trở nên cảnh giác hơn, vẫy vẫy móng vuốt nhỏ, không phát ra chút tiếng động nào."
+    },
+    {
+      "segment_id": "0029",
+      "source": "方元深吸口气，跟随它到了峭壁之下。",
+      "target": "Phương Nguyên hít sâu một hơi, theo nó đi đến dưới vách đá."
+    },
+    {
+      "segment_id": "0030",
+      "source": "“咦？这是……”",
+      "target": "“Hả? Đây là…”"
+    },
+    {
+      "segment_id": "0031",
+      "source": "悬崖绝壁下方，有着一个小湖，湖水青碧如玉，周围则是一圈白色的沙滩。",
+      "target": "Bên dưới vách núi đen nhẵn có một cái hồ nước nhỏ, nước hồ xanh ngắt như ngọc, xung quanh là một vòng bãi cát trắng."
+    },
+    {
+      "segment_id": "0032",
+      "source": "等到了地头之后，方元的鼻子顿时闻到了灵肥特有的腥香之气，看着面前的沙滩，顿时无语了。",
+      "target": "Đợi đến nơi, mũi Phương Nguyên lập tức ngửi thấy mùi tanh thơm đặc trưng của linh phì, nhìn bãi cát trước mặt, hắn lập tức cạn lời."
+    },
+    {
+      "segment_id": "0033",
+      "source": "“这整个‘沙滩’……竟然都是灵肥堆成的，如此多……如此多的灵肥！”",
+      "target": "“Cả ‘bãi cát’ này… lại đều là linh phì chất thành, nhiều như vậy… thật nhiều linh phì!”"
+    },
+    {
+      "segment_id": "0034",
+      "source": "他喃喃着，面上浮现出狂喜之色。",
+      "target": "Hắn lẩm bẩm, trên mặt hiện lên vẻ mừng rỡ như điên."
+    },
+    {
+      "segment_id": "0035",
+      "source": "灵肥的模样他早已熟悉，是一种半透明的颗粒，在这个沙滩之上，简直随处可见，几处凹陷明显被动物利爪挖掘过，最深处的颗粒越加透明，而最上方却是一片纯白色。",
+      "target": "Hình dáng của linh phì hắn đã quen thuộc từ lâu, là một loại hạt bán trong suốt, trên bãi cát này quả thực có thể thấy ở khắp nơi. Vài chỗ trũng xuống rõ ràng đã bị móng vuốt động vật đào bới qua, những hạt ở sâu nhất càng trở nên trong suốt, trong khi ở trên cùng lại là một màu trắng xóa."
+    },
+    {
+      "segment_id": "0036",
+      "source": "“似乎越透明的灵肥，效果越好……这片沙滩，也不知道是怎么形成的，发了！发了！”",
+      "target": "“Dường như linh phì càng trong suốt thì hiệu quả càng tốt… Bãi cát này cũng không biết hình thành như thế nào, phát tài rồi! Phát tài rồi!”"
+    },
+    {
+      "segment_id": "0037",
+      "source": "方元眼睛大亮，卸下竹篓，挽起袖口，就要上前好好采集一番。",
+      "target": "Hai mắt Phương Nguyên sáng rực, cởi gùi trúc xuống, xắn tay áo lên, định bước tới thu thập một phen thật cẩn thận."
+    },
+    {
+      "segment_id": "0038",
+      "source": "“啾啾！”",
+      "target": "“Chíp chíp!”"
+    },
+    {
+      "segment_id": "0039",
+      "source": "然而，就在这时，旁边一株青木之上，一只拳头大小，浑身羽毛洁白，眼珠通红，带着凶意的小鸟叫了起来。",
+      "target": "Tuy nhiên, đúng lúc này, trên một cái cây xanh bên cạnh, một con chim nhỏ chừng bằng nắm tay, toàn thân lông vũ trắng muốt, đôi mắt đỏ ngầu mang theo hung ý kêu lên."
+    },
+    {
+      "segment_id": "0040",
+      "source": "它这一叫，顿时惊动旁边一只大鸟，体形几乎是这只小鸟的十倍以上，有如小老鹰一般，凶态毕露，向方元飞扑而来。",
+      "target": "Nó vừa kêu lên lập tức kinh động một con chim lớn bên cạnh, thể hình lớn hơn con chim nhỏ này gấp mười lần, giống như một con diều hâu nhỏ, hung tướng lộ rõ, lao thẳng về phía Phương Nguyên."
+    },
+    {
+      "segment_id": "0041",
+      "source": "“嗯？又是异种灵禽，此地果然善能生养灵物！”",
+      "target": "“Hửm? Lại là dị chủng linh cầm, nơi này quả nhiên rất dễ sinh sôi linh vật!”"
+    },
+    {
+      "segment_id": "0042",
+      "source": "方元见了，却是凛然不惧，右手五指成爪，迅如电光疾火一般：“鹰爪手！”",
+      "target": "Phương Nguyên thấy vậy, lại chẳng hề sợ hãi, năm ngón tay phải biến thành hình móng vuốt, nhanh như chớp giật lửa xẹt: “Ưng Trảo Thủ!”"
+    },
+    {
+      "segment_id": "0043",
+      "source": "噗哧！",
+      "target": "Phập!"
+    },
+    {
+      "segment_id": "0044",
+      "source": "一阵凄厉的鸣叫当中，大量洁白的羽毛洒落。",
+      "target": "Trong tiếng kêu gào thảm thiết, vô số lông vũ trắng muốt rơi lả tả."
+    },
+    {
+      "segment_id": "0045",
+      "source": "这头大鸟最多算得上异种，半灵鸟，距离真正的灵兽还有点差距，又怎么可能是方元的对手？",
+      "target": "Con chim lớn này cùng lắm chỉ được coi là dị chủng, bán linh điểu, khoảng cách tới linh thú chân chính vẫn còn một đoạn, sao có thể là đối thủ của Phương Nguyên được?"
+    },
+    {
+      "segment_id": "0046",
+      "source": "只是一招之下，就被鹰爪手抓断了脖子。",
+      "target": "Chỉ với một chiêu, nó đã bị Ưng Trảo Thủ bóp gãy cổ."
+    },
+    {
+      "segment_id": "0047",
+      "source": "“哈哈……花狐貂，今晚有加餐了！”",
+      "target": "“Haha… Hoa Hồ Điêu, tối nay có thêm món mới rồi!”"
+    },
+    {
+      "segment_id": "0048",
+      "source": "方元将这头灵鸟扔入背篓，笑着对花狐貂道。",
+      "target": "Phương Nguyên ném con linh điểu này vào trong gùi trúc, cười nói với Hoa Hồ Điêu."
+    },
+    {
+      "segment_id": "0049",
+      "source": "只是此时，花狐貂却飞扑上前，咬着方元的裤脚，亡命奔逃。",
+      "target": "Chỉ là lúc này, Hoa Hồ Điêu lại nhào lên, cắn ống quần Phương Nguyên, liều mạng bỏ chạy."
+    },
+    {
+      "segment_id": "0050",
+      "source": "“这……”",
+      "target": "“Chuyện này…”"
+    },
+    {
+      "segment_id": "0051",
+      "source": "看它这模样，明显是感知到了什么极大的危险，浑身毛发倒竖而起，笔直如剑。",
+      "target": "Nhìn bộ dạng này của nó, rõ ràng là đã cảm nhận được sự nguy hiểm cực lớn nào đó, lông tơ toàn thân dựng ngược lên, thẳng tắp như kiếm."
+    },
+    {
+      "segment_id": "0052",
+      "source": "方元也是个有决断的，当即顾不上灵肥，抓起竹篓，整个身影就化为了一阵风。",
+      "target": "Phương Nguyên cũng là kẻ có tính quyết đoán, lập tức mặc kệ linh phì, chộp lấy gùi trúc, cả người hóa thành một cơn gió."
+    },
+    {
+      "segment_id": "0053",
+      "source": "“啾啾！”",
+      "target": "“Chíp chíp!”"
+    },
+    {
+      "segment_id": "0054",
+      "source": "在他身后，那只小白鸟的叫声越发凄厉。",
+      "target": "Phía sau hắn, tiếng kêu của con chim trắng nhỏ kia ngày càng trở nên chói tai."
+    },
+    {
+      "segment_id": "0055",
+      "source": "“啾啾！”",
+      "target": "“Chíp chíp!”"
+    },
+    {
+      "segment_id": "0056",
+      "source": "“啾啾！”",
+      "target": "“Chíp chíp!”"
+    },
+    {
+      "segment_id": "0057",
+      "source": "……",
+      "target": "…"
+    },
+    {
+      "segment_id": "0058",
+      "source": "旋即，仿佛应和一般，越来越多的鸟鸣声从悬崖之上出现，一粒粒黑点张开翅膀，飞快扑下，赫然都是之前那种红眼白鸟。",
+      "target": "Ngay sau đó, như thể đáp lời, càng lúc càng có nhiều tiếng chim hót vang lên từ trên vách đá, từng chấm đen dang rộng đôi cánh, nhanh chóng lao xuống, rành rành đều là loại chim trắng mắt đỏ vừa rồi."
+    },
+    {
+      "segment_id": "0059",
+      "source": "“嘶……”",
+      "target": "“Tss…”"
+    },
+    {
+      "segment_id": "0060",
+      "source": "转头看了一眼的方元亡魂皆冒，旋即毫不吝啬地将内息注入双腿，飞快逃命起来。",
+      "target": "Quay đầu nhìn lại một cái, Phương Nguyên sợ đến mức hồn vía lên mây, lập tức không chút tiếc rẻ truyền nội tức vào hai chân, điên cuồng trốn chạy."
+    },
+    {
+      "segment_id": "0061",
+      "source": "不跑不行！",
+      "target": "Không chạy không được!"
+    },
+    {
+      "segment_id": "0062",
+      "source": "后面的红眼白鸟黑压压一片，简直是遮天蔽日！",
+      "target": "Bầy chim trắng mắt đỏ phía sau đông nghịt một mảng đen kịt, quả thực là che khuất cả bầu trời!"
+    },
+    {
+      "segment_id": "0063",
+      "source": "这种数目，纵然只是半灵鸟，合起来，连真正的灵兽都不敢掠其锋芒！",
+      "target": "Số lượng như vậy, cho dù chỉ là bán linh điểu, gom lại cùng một chỗ, đến cả linh thú chân chính cũng không dám nghênh cản mũi nhọn!"
+    },
+    {
+      "segment_id": "0064",
+      "source": "就好像旁边的花狐貂一样，同样夹着尾巴，跑得飞快。",
+      "target": "Cũng giống như Hoa Hồ Điêu bên cạnh, cúp đuôi chạy với tốc độ kinh hồn."
+    },
+    {
+      "segment_id": "0065",
+      "source": "“我终于知道花狐貂为什么之前不让我来了！”",
+      "target": "“Cuối cùng ta cũng biết tại sao Hoa Hồ Điêu lúc trước không cho ta tới đây rồi!”"
+    },
+    {
+      "segment_id": "0066",
+      "source": "方元一边狂奔，心思则是在飞快转动：“如此多的半灵鸟，若是普通人来，恐怕跑不出几步就要被追上，活活啄死！”",
+      "target": "Phương Nguyên vừa chạy như điên, tâm tư lại nhanh chóng xoay chuyển: “Nhiều bán linh điểu như vậy, nếu là người bình thường đến đây, sợ là chạy chưa được mấy bước đã bị đuổi kịp, mổ chết tươi!”"
+    },
+    {
+      "segment_id": "0067",
+      "source": "“去雾墙！”",
+      "target": "“Vào tường sương mù!”"
+    },
+    {
+      "segment_id": "0068",
+      "source": "他也是有决断之人，当即向雾墙狂奔。",
+      "target": "Hắn cũng là người quyết đoán, lập tức lao nhanh về phía bức tường sương mù."
+    },
+    {
+      "segment_id": "0069",
+      "source": "对方居高临下，纵然自己先跑一步，又有内息助力，也容易被追上，唯一的希望，就在躲入密林或者迷雾中，令它们失去踪迹。",
+      "target": "Đối phương lao từ trên cao xuống, cho dù bản thân chạy trước một bước, lại có nội tức trợ giúp, cũng rất dễ bị đuổi kịp. Tia hy vọng duy nhất là chui vào trong rừng rậm hoặc sương mù để chúng mất dấu."
+    },
+    {
+      "segment_id": "0070",
+      "source": "嗖！",
+      "target": "Vèo!"
+    },
+    {
+      "segment_id": "0071",
+      "source": "花狐貂果然没有坑方元。",
+      "target": "Hoa Hồ Điêu quả nhiên không lừa Phương Nguyên."
+    },
+    {
+      "segment_id": "0072",
+      "source": "以他现在的速度，在那些红眼白鸟集结起来，刚刚追出的时候，就一头扎进了雾墙之中，整个身影都消失不见。",
+      "target": "Với tốc độ hiện tại của hắn, ngay lúc bầy chim trắng mắt đỏ tụ tập lại, vừa mới đuổi theo, hắn đã cắm đầu chui vào bức tường sương mù, cả người hoàn toàn biến mất."
+    },
+    {
+      "segment_id": "0073",
+      "source": "“啾啾！”",
+      "target": "“Chíp chíp!”"
+    },
+    {
+      "segment_id": "0074",
+      "source": "失去了方元这个残杀它们同伴凶手的身影，巨大的鸟群也只能绕着青山不断盘旋、悲鸣……整个灵地都似乎在它们的叫声中簌簌发抖。",
+      "target": "Mất đi bóng dáng Phương Nguyên - kẻ hung thủ tàn sát đồng loại của chúng, bầy chim khổng lồ đành phải lượn lờ vòng quanh ngọn núi xanh, cất tiếng bi thương... Toàn bộ linh địa dường như cũng đang run rẩy dưới tiếng kêu của chúng."
+    },
+    {
+      "segment_id": "0075",
+      "source": "在宣泄了愤怒之后，庞大的异种鸟群还是回到了悬崖上的巢穴中，渐渐安静下来。",
+      "target": "Sau khi trút cơn giận, đàn chim dị chủng khổng lồ cuối cùng cũng bay về tổ trên vách đá, dần dần im lặng."
+    },
+    {
+      "segment_id": "0076",
+      "source": "“呼……”",
+      "target": "“Phù…”"
+    },
+    {
+      "segment_id": "0077",
+      "source": "看到这一幕的方元当即松了一口长气，也不敢再去挑衅这个异种鸟群，而是慢慢退出这里。",
+      "target": "Nhìn thấy cảnh này, Phương Nguyên lập tức thở phào nhẹ nhõm, hắn cũng không dám đi khiêu khích đàn chim dị chủng này nữa, bèn từ từ lùi ra ngoài."
+    },
+    {
+      "segment_id": "0078",
+      "source": "外界。",
+      "target": "Bên ngoài."
+    },
+    {
+      "segment_id": "0079",
+      "source": "感受了灵地之内的灵气之后，再来到外面，方元顿时就有些受不了，感觉天地都好像污秽了一般。",
+      "target": "Sau khi cảm nhận được linh khí bên trong linh địa, lúc ra bên ngoài, Phương Nguyên lập tức có chút không chịu nổi, cảm giác trời đất như trở nên ô uế."
+    },
+    {
+      "segment_id": "0080",
+      "source": "实际上，整个清灵山的山水都是不错，之所以有着此种感觉，完全就是比较出来的结果。",
+      "target": "Trên thực tế, sơn thủy toàn bộ núi Thanh Linh đều không tồi, sở dĩ có cảm giác như vậy, hoàn toàn là do sự so sánh mà ra."
+    },
+    {
+      "segment_id": "0081",
+      "source": "“灵地！”",
+      "target": "“Linh địa!”"
+    },
+    {
+      "segment_id": "0082",
+      "source": "方元望着雾气萦绕的远方，脸上浮现出一丝激动：“这片灵地，是我的了！”",
+      "target": "Phương Nguyên nhìn về phía xa xa nơi sương mù lượn lờ, trên mặt hiện lên vẻ kích động: “Mảnh linh địa này, là của ta rồi!”"
+    },
+    {
+      "segment_id": "0083",
+      "source": "他没有理由不如此！",
+      "target": "Hắn hoàn toàn có lý do để như vậy!"
+    },
+    {
+      "segment_id": "0084",
+      "source": "一个天然的灵地，完全就是一个大宝藏，那座青峰之上，不知道藏了多少奇花异草，别的不说，就是那些灵肥，就足以令方元垂涎三尺了。",
+      "target": "Một linh địa thiên nhiên, hoàn toàn chính là một kho báu lớn, trên ngọn núi xanh kia, không biết cất giấu bao nhiêu kỳ hoa dị thảo. Không nói những thứ khác, chỉ với những linh phì đó thôi, đã đủ khiến Phương Nguyên thèm thuồng nhỏ dãi."
+    },
+    {
+      "segment_id": "0085",
+      "source": "“还有灵鸟……那么大的异种鸟群，鸟王绝对有着灵兽级别，甚至可能比花狐貂还要高出一筹来！”",
+      "target": "“Còn có linh điểu… bầy chim dị chủng lớn như vậy, chim vua tuyệt đối đạt đẳng cấp linh thú, thậm chí có thể còn cao hơn Hoa Hồ Điêu một bậc!”"
+    },
+    {
+      "segment_id": "0086",
+      "source": "方元目前最大的心愿，就是拿下整个青峰山，作为自己的基地，再将灵茶、灵米什么的全部移植过来。",
+      "target": "Tâm nguyện lớn nhất hiện tại của Phương Nguyên chính là đánh hạ ngọn núi Thanh Phong này làm căn cứ của mình, sau đó dời toàn bộ linh trà, linh mễ sang."
+    },
+    {
+      "segment_id": "0087",
+      "source": "有了这片灵地，原本幽谷的基业，又算得了什么呢？",
+      "target": "Có được mảnh linh địa này rồi, cơ đồ ở U Cốc trước kia thì tính là gì chứ?"
+    },
+    {
+      "segment_id": "0088",
+      "source": "“奈何……实力不够啊……”",
+      "target": "“Khổ nỗi… thực lực chưa đủ a…”"
+    },
+    {
+      "segment_id": "0089",
+      "source": "方元皱了皱眉头：“那么多的异种禽鸟，恐怕唯有武宗能够硬抗吧？”",
+      "target": "Phương Nguyên cau mày: “Nhiều chim chóc dị chủng như vậy, e là chỉ có Vũ Tông mới có thể chống đỡ cứng rắn được thôi nhỉ?”"
+    },
+    {
+      "segment_id": "0090",
+      "source": "想到这里，他顿时看向自己竹篓。",
+      "target": "Nghĩ tới đây, hắn lập tức nhìn sang chiếc gùi trúc của mình."
+    },
+    {
+      "segment_id": "0091",
+      "source": "在这里面，除了薄薄的一层灵肥之外，还有一头战利品呢！",
+      "target": "Bên trong đó, ngoại trừ một lớp linh phì mỏng manh, còn có một con chiến lợi phẩm nữa!"
+    },
+    {
+      "segment_id": "0092",
+      "source": "“哈哈……花狐貂，你不是抱怨叫花鸡没吃够么？今天晚上又有口福了！”",
+      "target": "“Haha… Hoa Hồ Điêu, không phải ngươi cứ phàn nàn gà ăn mày chưa đủ sao? Tối nay lại được lộc ăn rồi!”"
+    },
+    {
+      "segment_id": "0093",
+      "source": "方元细细打量着手上的灵禽。",
+      "target": "Phương Nguyên tỉ mỉ quan sát linh cầm trên tay."
+    },
+    {
+      "segment_id": "0094",
+      "source": "对方通体羽毛雪白，眼珠却是明红色，利爪带着精铁一般的光芒，配合尖尖的喙子，就如同一只小鹰一般。",
+      "target": "Toàn thân đối phương có bộ lông trắng như tuyết, thế nhưng nhãn cầu lại có màu đỏ tươi. Móng vuốt sắc bén mang theo ánh sáng như tinh thiết, kết hợp với chiếc mỏ nhọn hoắt, trông y hệt một con chim ưng nhỏ."
+    },
+    {
+      "segment_id": "0095",
+      "source": "而亲自与这灵禽交手之后，方元更是知晓其实力不弱。",
+      "target": "Sau khi đích thân giao thủ với con linh cầm này, Phương Nguyên càng nhận ra thực lực của nó không hề yếu."
+    },
+    {
+      "segment_id": "0096",
+      "source": "别看在他手上撑不住一招，但他毕竟已经是武道第五关，放在外界也是宗门执事一类的好手了！",
+      "target": "Đừng thấy nó không chịu nổi một chiêu trong tay hắn, dù sao hắn cũng đã đạt tới Võ đạo đệ ngũ quan, đặt ở bên ngoài cũng là cao thủ cỡ chấp sự tông môn rồi!"
+    },
+    {
+      "segment_id": "0097",
+      "source": "若真是遇到普通人，以这红眼白鸟的速度，一扑一啄，利爪一钩，若是运气不好，眼珠什么的都得扣出来！",
+      "target": "Nếu thật sự gặp phải người bình thường, với tốc độ của con chim trắng mắt đỏ này, vừa lao tới vừa mổ, lại thêm vuốt sắc cào một cái, lỡ vận khí xui xẻo, ngay cả tròng mắt cũng bị móc ra!"
+    },
+    {
+      "segment_id": "0098",
+      "source": "“此是什么异鸟？之前都没有听说过？叫什么呢？红眼隼？白羽乌鸦？红眼白鸟？”",
+      "target": "“Đây là dị điểu gì? Từ trước đến nay chưa từng nghe qua? Gọi là gì nhỉ? Hồng Nhãn Chuẩn? Bạch Vũ Ô Nha? Hồng Nhãn Bạch Điểu?”"
+    },
+    {
+      "segment_id": "0099",
+      "source": "方元顿时来了一点起名的兴趣，最后有了决定：“嗯……还是一开始的红眼白鸟最佳，哈哈……我果然是一个取名的天才……”",
+      "target": "Phương Nguyên nhất thời nổi hứng đặt tên, cuối cùng quyết định: “Ừm… vẫn là Hồng Nhãn Bạch Điểu lúc ban đầu nghe hay nhất. Haha… ta quả nhiên là một thiên tài đặt tên…”"
+    },
+    {
+      "segment_id": "0100",
+      "source": "殊不知，委委屈屈地顶着花狐貂名字的白貂在旁边闻言，顿时无语地翻了一个白眼。",
+      "target": "Ngờ đâu, con chồn trắng phải chịu đựng mang cái tên Hoa Hồ Điêu oan ức bên cạnh nghe thấy vậy, nhất thời cạn lời, lườm một cái."
+    },
+    {
+      "segment_id": "0101",
+      "source": "当然，这点委屈也就持续了一会儿。",
+      "target": "Đương nhiên, chút uất ức này cũng chỉ kéo dài một lúc."
+    },
+    {
+      "segment_id": "0102",
+      "source": "等到方元将红眼白鸟如法炮制，做成一顿叫花鸟肉的时候，花狐貂顿时将什么高傲与无语都抛到一边，绕着方元裤脚不停打转，雪白的尾巴接连摇着，好像一条拼命讨好的哈巴狗。",
+      "target": "Đợi đến lúc Phương Nguyên làm theo cách cũ, chế biến Hồng Nhãn Bạch Điểu thành một món chim ăn mày, Hoa Hồ Điêu lập tức vứt sạch mọi sự kiêu ngạo và cạn lời ra sau lưng. Nó không ngừng chạy vòng quanh ống quần Phương Nguyên, chiếc đuôi trắng như tuyết liên tục ve vẩy, hệt như một con chó nịnh bợ ra sức lấy lòng."
+    },
+    {
+      "segment_id": "0103",
+      "source": "“见鬼，你是貂，不是狗，要有一点貂的尊严啊！”",
+      "target": "“Gặp quỷ, ngươi là chồn, không phải chó, phải giữ lại chút tôn nghiêm của chồn chứ!”"
+    },
+    {
+      "segment_id": "0104",
+      "source": "方元见到此幕，顿时哭笑不得，将一半的叫花鸟撕开，抛给花狐貂。",
+      "target": "Phương Nguyên nhìn thấy cảnh này, tức cười không được khóc cũng không xong, bèn xé một nửa con chim ăn mày ném cho Hoa Hồ Điêu."
+    },
+    {
+      "segment_id": "0105",
+      "source": "“咯咯！”",
+      "target": "“Cục cục!”"
+    },
+    {
+      "segment_id": "0106",
+      "source": "花狐貂飞快接过，抱着一顿大啃，不时发出满足的咕噜声。",
+      "target": "Hoa Hồ Điêu nhanh nhẹn đón lấy, ôm một trận gặm nhấm ngấu nghiến, thỉnh thoảng lại phát ra tiếng “rừ rừ” đầy thỏa mãn."
+    },
+    {
+      "segment_id": "0107",
+      "source": "对于它而言，在美食面前，区区一点节操，又算什么啊？",
+      "target": "Đối với nó mà nói, trước mặt đồ ăn ngon, một chút tiết tháo cỏn con, thì có đáng là gì đâu?"
+    },
+    {
+      "segment_id": "0108",
+      "source": "“嗯？味道这么好么？”",
+      "target": "“Hửm? Mùi vị ngon đến thế sao?”"
+    },
+    {
+      "segment_id": "0109",
+      "source": "看着花狐貂如此，方元也咬了一口鸟肉，整个人的表情顿时变了。",
+      "target": "Thấy Hoa Hồ Điêu như vậy, Phương Nguyên cũng cắn một miếng thịt chim, biểu cảm cả người lập tức thay đổi."
+    },
+    {
+      "segment_id": "0110",
+      "source": "“这鸟肉比鸡肉更嫩，香酥不腻口，好吃！好吃！”",
+      "target": "“Thịt chim này còn mềm hơn thịt gà, thơm giòn không ngán, ngon quá! Ngon quá!”"
+    },
+    {
+      "segment_id": "0111",
+      "source": "他风卷残云一般，将鸟肉飞快吃完，满足地摸了摸肚子，感受着体内一道道暖流升腾，面色又是一变：“这种增益，都比得上一顿红玉稻米了吧？不愧是半灵鸟！”",
+      "target": "Hắn như gió cuốn mây tan, nhanh chóng ăn sạch thịt chim, thỏa mãn xoa xoa bụng. Cảm nhận được từng đạo dòng nước ấm dâng lên trong cơ thể, sắc mặt hắn lại biến đổi: “Sự gia tăng này, có thể sánh ngang với một chầu Hồng Ngọc Đạo Mễ rồi nhỉ? Không hổ là bán linh điểu!”"
+    }
+  ]
+}
+```

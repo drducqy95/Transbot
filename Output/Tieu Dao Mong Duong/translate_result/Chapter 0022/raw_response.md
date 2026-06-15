@@ -1,0 +1,558 @@
+```json
+{
+  "chapter_number": 22,
+  "chapter_title_vi": "Chương 22: Hạ sát",
+  "segments": [
+    {
+      "segment_id": "0001",
+      "source": "# 第22章 击杀",
+      "target": "# Chương 22: Hạ sát"
+    },
+    {
+      "segment_id": "0002",
+      "source": "“黑沙掌？”",
+      "target": "“Hắc Sa Chưởng?”"
+    },
+    {
+      "segment_id": "0003",
+      "source": "宋志高自然认得这门流传相当广泛的掌法。",
+      "target": "Tống Chí Cao tự nhiên nhận ra môn chưởng pháp được lưu truyền khá rộng rãi này."
+    },
+    {
+      "segment_id": "0004",
+      "source": "说实在话，这是一门笨功夫，需要一点点的慢慢磨，打熬外功筋骨气力，对于有着归灵宗教导的他而言，实在有些看不上眼。",
+      "target": "Nói thật, đây là một môn công phu ngốc nghếch, cần phải từ từ mài giũa từng chút một, rèn luyện ngoại công gân cốt khí lực, đối với kẻ được Quy Linh tông chỉ dạy như gã mà nói, quả thực có chút chướng mắt."
+    },
+    {
+      "segment_id": "0005",
+      "source": "但宋志高无论如何也想象不到，如此一门平平无奇的掌法，到了对方手上，竟然有着如此大的威力！",
+      "target": "Nhưng Tống Chí Cao có tưởng tượng thế nào cũng không ngờ tới, một môn chưởng pháp bình thường không có gì lạ như vậy, vào tay đối phương, lại có uy lực lớn đến thế!"
+    },
+    {
+      "segment_id": "0006",
+      "source": "臂掌交接，只听喀嚓一声，刺耳的骨裂响起，旋即宋志高双臂剧痛，一下惨叫，整个人倒飞而出，在半空中还在狂撒鲜血。",
+      "target": "Cánh tay và bàn tay va chạm, chỉ nghe 'rắc' một tiếng, âm thanh xương nứt chói tai vang lên, ngay sau đó hai tay Tống Chí Cao đau nhức kịch liệt, hét thảm một tiếng, cả người bay ngược ra sau, giữa không trung vẫn còn điên cuồng phun ra máu tươi."
+    },
+    {
+      "segment_id": "0007",
+      "source": "“你……你的力气……怪物！”",
+      "target": "“Ngươi… sức lực của ngươi… Quái vật!”"
+    },
+    {
+      "segment_id": "0008",
+      "source": "他倒在地上，看着断掉的双臂，嘶着冷气，望向方元的目光就好像在看某头怪兽。",
+      "target": "Gã ngã gục trên mặt đất, nhìn hai cánh tay đã gãy, hít vào một ngụm khí lạnh, ánh mắt nhìn Phương Nguyên như đang nhìn một con quái thú nào đó."
+    },
+    {
+      "segment_id": "0009",
+      "source": "‘我现在的力道，怕是接近普通人的两倍！这不仅是破关之功，更有红玉稻米的助力，令我的根基远胜普通武者！’",
+      "target": "‘Lực lượng hiện tại của ta, e là đã gần gấp đôi người bình thường! Đây không chỉ là công lao nhờ phá quan, mà còn có sự trợ giúp của gạo Hồng Ngọc, khiến căn cơ của ta vượt xa võ giả bình thường!’"
+    },
+    {
+      "segment_id": "0010",
+      "source": "方元看着这一幕，心里却是有着明悟。",
+      "target": "Phương Nguyên nhìn cảnh này, trong lòng lại có chút minh ngộ."
+    },
+    {
+      "segment_id": "0011",
+      "source": "高手相争，一丝一毫的差距都有可能影响最后的成败，这宋志高纵然也是三关武者，奈何本身素质没有他高，更是久疏战阵，采买做惯了，贪生怕死，比他这个菜鸟还不如，一交手之下，落到这个地步，也是在所难免。",
+      "target": "Cao thủ tranh đấu, chênh lệch một li một tí đều có thể ảnh hưởng đến thành bại cuối cùng, Tống Chí Cao này cho dù cũng là võ giả tam quan, khổ nỗi tố chất bản thân không cao bằng hắn, lại càng lâu ngày không ra trận, làm quản sự mua sắm quen thói tham sống sợ chết, còn không bằng một lính mới như hắn, vừa giao thủ đã rơi vào bước đường này, cũng là chuyện khó tránh khỏi."
+    },
+    {
+      "segment_id": "0012",
+      "source": "“你到底是谁？”",
+      "target": "“Ngươi rốt cuộc là ai?”"
+    },
+    {
+      "segment_id": "0013",
+      "source": "宋志高倒在地上，眼珠乱转，脸上带着惊慌之色：“不要杀我，我可以给你很多金银财宝，甚至武功秘籍……”",
+      "target": "Tống Chí Cao ngã trên mặt đất, tròng mắt đảo liên hồi, trên mặt mang theo vẻ hoảng sợ: “Đừng giết ta, ta có thể cho ngươi rất nhiều vàng bạc châu báu, thậm chí là bí kíp võ công…”"
+    },
+    {
+      "segment_id": "0014",
+      "source": "“你话太多了！”",
+      "target": "“Ngươi nói quá nhiều rồi!”"
+    },
+    {
+      "segment_id": "0015",
+      "source": "方元深知不能跟反派话太多的道理，直接上前，一掌印在宋志高天灵。",
+      "target": "Phương Nguyên hiểu rõ đạo lý không thể nói quá nhiều với kẻ phản diện, hắn trực tiếp tiến lên, một chưởng ấn thẳng lên thiên linh cái của Tống Chí Cao."
+    },
+    {
+      "segment_id": "0016",
+      "source": "砰！",
+      "target": "Bốp!"
+    },
+    {
+      "segment_id": "0017",
+      "source": "一声巨响之后，宋志高的尸体就软软倒了下去。",
+      "target": "Sau một tiếng vang trầm đục, thi thể của Tống Chí Cao liền mềm nhũn ngã gục xuống."
+    },
+    {
+      "segment_id": "0018",
+      "source": "“啊！”",
+      "target": "“Á!”"
+    },
+    {
+      "segment_id": "0019",
+      "source": "“杀人啦！”",
+      "target": "“Giết người rồi!”"
+    },
+    {
+      "segment_id": "0020",
+      "source": "刚才几下交手实在太快，等到那些仆役奴婢反应过来的时候，方元已经轻松收割走宋志高的小命。",
+      "target": "Vài chiêu giao thủ ban nãy quả thực quá nhanh, đợi đến khi bọn hạ nhân nô tỳ kia phản ứng lại, Phương Nguyên đã nhẹ nhàng đoạt lấy cái mạng nhỏ của Tống Chí Cao."
+    },
+    {
+      "segment_id": "0021",
+      "source": "“我可不是弑杀之人！”",
+      "target": "“Ta cũng không phải kẻ lạm sát!”"
+    },
+    {
+      "segment_id": "0022",
+      "source": "有着斗笠面巾等等遮掩，他自然不会有着什么顾忌与斩草除根的想法，上去一人一掌，将几名叫得最大声的奴仆与女婢打昏，准备进屋收割一番。",
+      "target": "Có nón rộng vành và khăn che mặt che chắn, hắn đương nhiên sẽ không có gì phải e ngại hay ý nghĩ nhổ cỏ tận gốc, hắn bước lên mỗi người một chưởng, đánh ngất mấy tên nô bộc và tỳ nữ la hét lớn nhất, chuẩn bị vào nhà thu hoạch một phen."
+    },
+    {
+      "segment_id": "0023",
+      "source": "这也是他从那个梦中世界里面带来的习惯。",
+      "target": "Đây cũng là thói quen mà hắn mang đến từ thế giới trong mơ kia."
+    },
+    {
+      "segment_id": "0024",
+      "source": "打完BOSS之后，哪里有不拿战利品的道理？",
+      "target": "Đánh xong BOSS rồi, làm gì có đạo lý không lấy chiến lợi phẩm?"
+    },
+    {
+      "segment_id": "0025",
+      "source": "只是这一次，方元有些失算了。",
+      "target": "Chỉ là lần này, Phương Nguyên có chút tính sai."
+    },
+    {
+      "segment_id": "0026",
+      "source": "“小贼，杀了人还敢如此猖狂！”",
+      "target": "“Tiểu tặc, giết người rồi mà còn dám càn rỡ như vậy!”"
+    },
+    {
+      "segment_id": "0027",
+      "source": "砰！",
+      "target": "Rầm!"
+    },
+    {
+      "segment_id": "0028",
+      "source": "伴随着一声爆喝，门框碎裂，如同漫天花雨一般飞驰激射，目标赫然是方元！",
+      "target": "Kèm theo một tiếng quát lớn, khung cửa vỡ nát, lao vút bắn ra như mưa hoa đầy trời, mục tiêu nhắm thẳng vào Phương Nguyên!"
+    },
+    {
+      "segment_id": "0029",
+      "source": "而在诸多木屑纷飞当中，一道人影更是迅捷无伦地扑出，右手骈指成剑，中宫直入，白虹贯日一般，刺向方元眉心。",
+      "target": "Mà trong vô số mảnh gỗ vụn bay lả tả, một đạo nhân ảnh càng vồ ra nhanh vô cùng, tay phải chắp ngón tay thành kiếm, xông thẳng trung cung, như Bạch Hồng Quán Nhật, đâm thẳng về phía mi tâm Phương Nguyên."
+    },
+    {
+      "segment_id": "0030",
+      "source": "咻咻！",
+      "target": "Vù vù!"
+    },
+    {
+      "segment_id": "0031",
+      "source": "这气劲撕扯虚空，发出咻咻声响。",
+      "target": "Luồng khí kình này xé rách hư không, phát ra tiếng vù vù."
+    },
+    {
+      "segment_id": "0032",
+      "source": "“高手！”",
+      "target": "“Cao thủ!”"
+    },
+    {
+      "segment_id": "0033",
+      "source": "方元一掌击出，与指剑在半空中交错，整个人顿时后退，面色凝重地盯着刚出现的年青人。",
+      "target": "Phương Nguyên đánh ra một chưởng, giao phong với chỉ kiếm giữa không trung, cả người lập tức lùi lại, sắc mặt ngưng trọng chằm chằm nhìn người thanh niên vừa xuất hiện."
+    },
+    {
+      "segment_id": "0034",
+      "source": "“武道第三关？”",
+      "target": "“Võ đạo đệ tam quan?”"
+    },
+    {
+      "segment_id": "0035",
+      "source": "对方穿着青玉色长袍，腰系金带，挂着一块无暇美玉，星眉剑目，神情颇为潇洒，此时望着方元的眼神就带着不屑：“敢杀我归灵宗的采买，你胆子不小！”",
+      "target": "Đối phương mặc trường bào màu ngọc bích, thắt lưng vàng, đeo một miếng mỹ ngọc không tỳ vết, mắt kiếm mày sao, thần sắc khá là tiêu sái, lúc này ánh mắt nhìn Phương Nguyên mang theo vẻ khinh thường: “Dám giết người mua sắm của Quy Linh tông ta, gan ngươi không nhỏ nhỉ!”"
+    },
+    {
+      "segment_id": "0036",
+      "source": "“大意了！”",
+      "target": "“Sơ ý rồi!”"
+    },
+    {
+      "segment_id": "0037",
+      "source": "方元神色木然，看了看手心的红印。",
+      "target": "Vẻ mặt Phương Nguyên lạnh nhạt, nhìn vết đỏ trong lòng bàn tay."
+    },
+    {
+      "segment_id": "0038",
+      "source": "以他黑沙掌的造诣，此时功力运转到极限，不能说不避刀剑，但普通拳掌攻击，也早已免疫大半。",
+      "target": "Với tạo nghệ Hắc Sa Chưởng của hắn, lúc này công lực vận chuyển đến cực hạn, không thể nói là đao thương bất nhập, nhưng những đòn tấn công quyền chưởng bình thường, cũng đã sớm miễn nhiễm hơn phân nửa."
+    },
+    {
+      "segment_id": "0039",
+      "source": "但此时，他手心却是蓦然感觉到一股剧痛。",
+      "target": "Nhưng lúc này, lòng bàn tay hắn lại đột nhiên cảm thấy một cơn đau nhức kịch liệt."
+    },
+    {
+      "segment_id": "0040",
+      "source": "“想不到宋志高这里居然还有客人，并且还是四五关的小高手！”",
+      "target": "“Không ngờ chỗ Tống Chí Cao lại còn có khách, hơn nữa còn là tiểu cao thủ tứ, ngũ quan!”"
+    },
+    {
+      "segment_id": "0041",
+      "source": "方元此时已经估计出了对方的实力，绝对是突破杜门的武者，并且武艺也是千锤百炼，自己纵然身体素质惊人，之前能乱拳打死老师傅，但对上他的话，还是有所不敌。",
+      "target": "Lúc này Phương Nguyên đã ước lượng ra thực lực của đối phương, tuyệt đối là võ giả đột phá Đỗ môn, hơn nữa võ nghệ cũng là thiên chùy bách luyện, mình mặc dù tố chất thân thể kinh người, trước đó có thể tung quyền loạn xạ đánh chết thầy già, nhưng nếu đối đầu với y, vẫn có chỗ không địch lại."
+    },
+    {
+      "segment_id": "0042",
+      "source": "“不说？”",
+      "target": "“Không nói sao?”"
+    },
+    {
+      "segment_id": "0043",
+      "source": "此时，那年青人却是步履从容，缓缓逼近：“不说也没关系，反正我会将你拿下，慢慢拷问的，归灵宗十大酷刑，也不知你能撑到第几样……敢杀我的人，终归要付出一点代价！”",
+      "target": "Lúc này, thanh niên kia lại bước đi thong dong, chậm rãi tới gần: “Không nói cũng không sao, dù sao ta cũng sẽ bắt ngươi lại, từ từ tra khảo, mười đại khốc hình của Quy Linh tông, cũng không biết ngươi có thể chống đỡ được đến loại thứ mấy… Dám giết người của ta, rốt cuộc cũng phải trả một chút giá đắt!”"
+    },
+    {
+      "segment_id": "0044",
+      "source": "“你的人？”",
+      "target": "“Người của ngươi?”"
+    },
+    {
+      "segment_id": "0045",
+      "source": "方元沙哑着嗓子开口：“你是宋玉杰？”",
+      "target": "Phương Nguyên khàn giọng mở miệng: “Ngươi là Tống Ngọc Kiệt?”"
+    },
+    {
+      "segment_id": "0046",
+      "source": "“哦？你认得我？”",
+      "target": "“Ồ? Ngươi nhận ra ta sao?”"
+    },
+    {
+      "segment_id": "0047",
+      "source": "年青武者嘴角略微勾起，带着一丝诡异的弧度。",
+      "target": "Khóe miệng thanh niên võ giả hơi nhếch lên, mang theo một độ cong quỷ dị."
+    },
+    {
+      "segment_id": "0048",
+      "source": "“呼……”",
+      "target": "“Phù…”"
+    },
+    {
+      "segment_id": "0049",
+      "source": "方元没有回答，缓缓吐出一口长气。",
+      "target": "Phương Nguyên không trả lời, chậm rãi thở ra một hơi dài."
+    },
+    {
+      "segment_id": "0050",
+      "source": "若是遇到其它高手，那他现在肯定掉头就走。",
+      "target": "Nếu gặp phải cao thủ khác, thì hiện tại hắn chắc chắn quay đầu bỏ đi ngay."
+    },
+    {
+      "segment_id": "0051",
+      "source": "但宋玉杰么？",
+      "target": "Nhưng Tống Ngọc Kiệt thì sao?"
+    },
+    {
+      "segment_id": "0052",
+      "source": "说实际的，宋志高只是他的一条狗，真论起来，此人才是源头啊！",
+      "target": "Nói thực tế, Tống Chí Cao chỉ là một con chó của y, nếu bàn cho kỹ, người này mới là đầu sỏ a!"
+    },
+    {
+      "segment_id": "0053",
+      "source": "“今日运气真是相当不错！”",
+      "target": "“Hôm nay vận khí quả thật khá tốt!”"
+    },
+    {
+      "segment_id": "0054",
+      "source": "方元双掌平伸，原本白玉般的手掌一下青筋暴起，皮肤宛若精铁一般，带着漆黑之色。",
+      "target": "Phương Nguyên duỗi thẳng hai bàn tay, bàn tay vốn như bạch ngọc thoắt cái nổi gân xanh, da dẻ như tinh thiết, mang theo sắc đen xịt."
+    },
+    {
+      "segment_id": "0055",
+      "source": "“能将黑沙掌练到如此地步，你已经足堪自豪，奈何此门外功等阶太低，又怎么可能是我归灵宗神功妙法的对手？”",
+      "target": "“Có thể luyện Hắc Sa Chưởng đến bước đường này, ngươi đã đủ để tự hào rồi, khổ nỗi đẳng cấp của môn ngoại công này quá thấp, sao có thể là đối thủ của thần công diệu pháp Quy Linh tông ta?”"
+    },
+    {
+      "segment_id": "0056",
+      "source": "宋玉杰嗤笑一声，右手并起双指，嗤嗤有声，蓦然一剑刺来：“看我归灵剑法！”",
+      "target": "Tống Ngọc Kiệt cười khẩy một tiếng, tay phải chụm hai ngón tay lại, vang lên tiếng 'xuy xuy', đột nhiên đâm tới một kiếm: “Xem Quy Linh Kiếm Pháp của ta đây!”"
+    },
+    {
+      "segment_id": "0057",
+      "source": "“剑气！”",
+      "target": "“Kiếm khí!”"
+    },
+    {
+      "segment_id": "0058",
+      "source": "方元眸子一凝。",
+      "target": "Ánh mắt Phương Nguyên ngưng trọng."
+    },
+    {
+      "segment_id": "0059",
+      "source": "这是高度凝聚之后的内力，配合剑术才有的力量，宋玉杰能做到这点，绝对是天纵奇才。",
+      "target": "Đây là nội lực sau khi ngưng tụ cao độ, phối hợp với kiếm thuật mới có lực lượng này, Tống Ngọc Kiệt có thể làm được điều này, tuyệt đối là thiên túng kỳ tài."
+    },
+    {
+      "segment_id": "0060",
+      "source": "但此时根本无法后退，他也不指望自己能跑赢这个武道四五关的好手，顿时脸色一狠，整个人疯了一般的扑上：“黑沙莽莽！”",
+      "target": "Nhưng lúc này căn bản không cách nào lùi lại, hắn cũng không trông cậy bản thân có thể chạy trốn thắng được cao thủ võ đạo tứ, ngũ quan này, sắc mặt lập tức trở nên tàn nhẫn, cả người như phát điên lao lên: “Hắc Sa Mãng Mãng!”"
+    },
+    {
+      "segment_id": "0061",
+      "source": "砰！",
+      "target": "Oành!"
+    },
+    {
+      "segment_id": "0062",
+      "source": "掌风轻易被剑气击溃，只有一点余波落在宋玉杰身上。",
+      "target": "Chưởng phong dễ dàng bị kiếm khí đánh tan, chỉ có một chút dư âm rơi vào trên người Tống Ngọc Kiệt."
+    },
+    {
+      "segment_id": "0063",
+      "source": "他低垂下头，看了看自己手背上一个小小的黑印，再看看胸前多了一个血洞的方元，脸上的表情却是扭曲起来：“你竟敢伤我？”",
+      "target": "Y cúi đầu xuống, nhìn một dấu vết đen nhỏ trên mu bàn tay mình, lại nhìn Phương Nguyên trước ngực thêm một lỗ máu, biểu cảm trên mặt lại trở nên vặn vẹo: “Ngươi lại dám đả thương ta?”"
+    },
+    {
+      "segment_id": "0064",
+      "source": "“不止……咳咳……伤你，我还要杀了你呢！”",
+      "target": "“Không chỉ… khục khục… đả thương ngươi, ta còn muốn giết chết ngươi cơ!”"
+    },
+    {
+      "segment_id": "0065",
+      "source": "方元咳出一口血沫，却仍笑道。",
+      "target": "Phương Nguyên ho ra một ngụm bọt máu, nhưng vẫn cười nói."
+    },
+    {
+      "segment_id": "0066",
+      "source": "接近常人一倍的身体素质，所带来的愈合力也是恐怖非常，至少他就清楚，此时自己的伤势，绝对没有外表看起来那么恐怖。",
+      "target": "Tố chất thân thể gần gấp đôi người thường, mang theo năng lực tự chữa lành cũng vô cùng khủng bố, ít nhất hắn hiểu rõ, thương thế của mình lúc này, tuyệt đối không khủng bố như vẻ bề ngoài."
+    },
+    {
+      "segment_id": "0067",
+      "source": "“哼，死鸭子嘴硬！”",
+      "target": "“Hừ, vịt chết còn già mồm!”"
+    },
+    {
+      "segment_id": "0068",
+      "source": "宋玉杰上前一步，右手一抖，一道灵蛇般的光芒就自腰间浮现，伸缩不定，赫然是一柄绕指柔的软剑！",
+      "target": "Tống Ngọc Kiệt bước lên một bước, tay phải vung lên, một luồng ánh sáng như linh xà liền hiện ra từ bên hông, co giãn không chừng, thình lình là một thanh nhuyễn kiếm mềm nhũn quấn ngón tay!"
+    },
+    {
+      "segment_id": "0069",
+      "source": "在被方元小小伤到一次之后，他终于有些认真起来了。",
+      "target": "Sau khi bị Phương Nguyên đả thương nhỏ một lần, y cuối cùng cũng có chút nghiêm túc."
+    },
+    {
+      "segment_id": "0070",
+      "source": "“看来刚才你并未出全力，这可真是我的幸运了……咳咳……”",
+      "target": "“Xem ra vừa rồi ngươi cũng không có dùng toàn lực, đây thật đúng là may mắn của ta… Khục khục…”"
+    },
+    {
+      "segment_id": "0071",
+      "source": "方元庆幸无比地道。",
+      "target": "Phương Nguyên vô cùng may mắn nói."
+    },
+    {
+      "segment_id": "0072",
+      "source": "心知自己纵然有着灵种助益，奈何时日太短，与那些真正的宗门天才还是有着一点距离。",
+      "target": "Trong lòng hắn biết mình dù có linh chủng trợ giúp, khổ nỗi thời gian quá ngắn, so với những thiên tài tông môn chân chính kia vẫn còn một chút khoảng cách."
+    },
+    {
+      "segment_id": "0073",
+      "source": "若刚才宋玉杰就动用软剑，自己又没练过兵刃，恐怕立即就要死无葬身之地了。",
+      "target": "Nếu vừa nãy Tống Ngọc Kiệt động thủ dùng nhuyễn kiếm, mình lại chưa từng luyện qua binh khí, chỉ sợ lập tức sẽ chết không có chỗ chôn."
+    },
+    {
+      "segment_id": "0074",
+      "source": "“幸运……”",
+      "target": "“May mắn…”"
+    },
+    {
+      "segment_id": "0075",
+      "source": "宋玉杰眉头皱起。",
+      "target": "Tống Ngọc Kiệt nhíu mày."
+    },
+    {
+      "segment_id": "0076",
+      "source": "无论如何，他都看不出面前这个神秘人还有何翻盘的希望。",
+      "target": "Dù thế nào, y cũng nhìn không ra người bí ẩn trước mặt này còn có hi vọng lật kèo gì."
+    },
+    {
+      "segment_id": "0077",
+      "source": "然而，就在他准备举剑上前，挑断这神秘人的四肢，好细细盘问的时候，一种不对劲的感觉，蓦然浮现在他心扉。",
+      "target": "Tuy nhiên, ngay lúc y chuẩn bị giơ kiếm tiến lên, chém đứt gân tay chân của kẻ bí ẩn này để dễ bề tra hỏi, một loại cảm giác không ổn đột nhiên hiện lên trong lòng y."
+    },
+    {
+      "segment_id": "0078",
+      "source": "“右手……麻木了……”",
+      "target": "“Tay phải… tê rần rồi…”"
+    },
+    {
+      "segment_id": "0079",
+      "source": "他眼睛一凝，盯着手背上的黑印：“你下毒？！卑鄙！”",
+      "target": "Ánh mắt y ngưng đọng, chằm chằm nhìn dấu vết màu đen trên mu bàn tay: “Ngươi hạ độc?! Đê tiện!”"
+    },
+    {
+      "segment_id": "0080",
+      "source": "“生死相博，哪里还有什么卑鄙不卑鄙的说法！”",
+      "target": "“Sinh tử vật lộn, làm gì còn cái thuyết đê tiện hay không đê tiện nữa!”"
+    },
+    {
+      "segment_id": "0081",
+      "source": "方元缓缓上前，看着脸色渐渐青黑，一个劲地掏出药瓶往嘴里倾倒的宋玉杰，摇了摇头：“劝你不必多此一举了，我这奇毒经过检验，纵然三险关的高手都无法抵抗……”",
+      "target": "Phương Nguyên chậm rãi tiến lên, nhìn Tống Ngọc Kiệt sắc mặt ngày càng xanh đen, liên tục móc lọ thuốc dốc vào trong miệng, hắn lắc đầu nói: “Khuyên ngươi không cần phải làm việc thừa thãi nữa, kỳ độc này của ta đã qua kiểm nghiệm, cho dù là cao thủ Tam Hiểm Quan cũng không cách nào chống cự…”"
+    },
+    {
+      "segment_id": "0082",
+      "source": "在说话的同时，宋玉杰已经倒在地上，惊恐万分地看着自己的手掌开始腐烂。",
+      "target": "Trong lúc nói chuyện, Tống Ngọc Kiệt đã ngã xuống đất, muôn phần hoảng sợ nhìn bàn tay của mình bắt đầu thối rữa."
+    },
+    {
+      "segment_id": "0083",
+      "source": "他所中的，赫然是变异珠尾蛇的剧毒！",
+      "target": "Chất kịch độc y trúng phải, thình lình là của rắn Châu Vĩ biến dị!"
+    },
+    {
+      "segment_id": "0084",
+      "source": "黑沙掌到了第三层之后，已经可以附加毒素攻击，而方元自然老实不客气，仗着有阎王帖为后盾，直接尝试在掌力中萃入变异珠尾蛇的奇毒。",
+      "target": "Hắc Sa Chưởng đến tầng thứ ba, đã có thể gắn thêm công kích độc tố, mà Phương Nguyên dĩ nhiên chẳng thèm khách sáo, ỷ vào có Diêm Vương Thiếp làm hậu thuẫn, trực tiếp thử dung hợp kỳ độc của rắn Châu Vĩ biến dị vào trong chưởng lực."
+    },
+    {
+      "segment_id": "0085",
+      "source": "这次一发惊人，效果非凡，直接就将没有防备的宋玉杰放倒。",
+      "target": "Lần này một đòn kinh người, hiệu quả phi phàm, trực tiếp đánh gục Tống Ngọc Kiệt đang không hề phòng bị."
+    },
+    {
+      "segment_id": "0086",
+      "source": "“黑沙掌……附毒？你是寇封的亲传弟子？”",
+      "target": "“Hắc Sa Chưởng… tẩm độc? Ngươi là đệ tử thân truyền của Khấu Phong?”"
+    },
+    {
+      "segment_id": "0087",
+      "source": "宋玉杰惨叫着，声音惊天动地：“啊……你死定了，归灵宗还有我父亲一定不会放过你的！”",
+      "target": "Tống Ngọc Kiệt kêu thảm, âm thanh kinh thiên động địa: “A… Ngươi chết chắc rồi, Quy Linh tông và phụ thân ta nhất định sẽ không tha cho ngươi đâu!”"
+    },
+    {
+      "segment_id": "0088",
+      "source": "“死到临头，还嘴硬？”",
+      "target": "“Chết đến nơi rồi, còn mạnh miệng?”"
+    },
+    {
+      "segment_id": "0089",
+      "source": "方元上前，一掌印在已经毫无反抗之力的宋玉杰天灵，为他解除了痛苦。",
+      "target": "Phương Nguyên tiến lên, một chưởng vỗ thẳng vào thiên linh cái của Tống Ngọc Kiệt đã hoàn toàn mất đi sức phản kháng, giải trừ nỗi đau đớn cho y."
+    },
+    {
+      "segment_id": "0090",
+      "source": "“黑沙掌淬毒，似乎是一门特殊的技巧，只有创始人寇封与他亲传弟子才会么？”",
+      "target": "“Hắc Sa Chưởng tẩm độc, hình như là một môn kỹ xảo đặc thù, chỉ có người sáng lập Khấu Phong và đệ tử thân truyền của hắn mới biết sao?”"
+    },
+    {
+      "segment_id": "0091",
+      "source": "倒是宋玉杰最后流露出的消息，令方元略微有些惊讶。",
+      "target": "Ngược lại tin tức Tống Ngọc Kiệt tiết lộ ra cuối cùng, khiến Phương Nguyên hơi có chút kinh ngạc."
+    },
+    {
+      "segment_id": "0092",
+      "source": "他的黑沙掌第一层之时，就有着相应信息提示出现，后来淬炼毒液也是水到渠成，如同本能一般。",
+      "target": "Lúc Hắc Sa Chưởng của hắn ở tầng thứ nhất, liền có thông tin nhắc nhở tương ứng xuất hiện, sau đó rèn luyện nọc độc cũng là nước chảy thành sông, giống như bản năng vậy."
+    },
+    {
+      "segment_id": "0093",
+      "source": "“这应该是系统的作用？令每门武功发挥至极限，并且发掘出隐藏能力？”",
+      "target": "“Đây hẳn là tác dụng của hệ thống? Khiến mỗi môn võ công phát huy đến cực hạn, đồng thời khai quật ra năng lực ẩn giấu?”"
+    },
+    {
+      "segment_id": "0094",
+      "source": "此时证据太少，方元也只能如此猜测。",
+      "target": "Lúc này chứng cứ quá ít, Phương Nguyên cũng chỉ có thể suy đoán như vậy."
+    },
+    {
+      "segment_id": "0095",
+      "source": "“不过，现在真的应该走了！”",
+      "target": "“Bất quá, bây giờ thật sự nên đi rồi!”"
+    },
+    {
+      "segment_id": "0096",
+      "source": "他看了看周围。",
+      "target": "Hắn nhìn xung quanh một chút."
+    },
+    {
+      "segment_id": "0097",
+      "source": "由于他大开杀戒，先后宰了两人，整个宋府之内一片大乱，哭喊声隐约从后宅传来，又有不少仆役婢女打开大门，四散奔逃。",
+      "target": "Bởi vì hắn đại khai sát giới, trước sau giết hai người, trong toàn bộ Tống phủ đã trở nên đại loạn, tiếng khóc than loáng thoáng truyền tới từ nhà sau, lại có không ít hạ nhân tỳ nữ mở cổng lớn ra, chạy trốn tán loạn."
+    },
+    {
+      "segment_id": "0098",
+      "source": "“这动静太大，很快就会将其他人引来！”",
+      "target": "“Động tĩnh này quá lớn, rất nhanh sẽ dẫn những người khác tới!”"
+    },
+    {
+      "segment_id": "0099",
+      "source": "方元顿时放弃了前往后宅搜刮战利品的打算，略微翻了一下宋志高与宋玉杰的尸首，拿到一些零碎当成战利品，旋即看也不看，飞快翻墙离开。",
+      "target": "Phương Nguyên lập tức từ bỏ ý định tiến về nhà sau vơ vét chiến lợi phẩm, hơi lục lọi thi thể của Tống Chí Cao và Tống Ngọc Kiệt một chút, lấy được vài món lặt vặt xem như chiến lợi phẩm, ngay sau đó nhìn cũng không thèm nhìn, vội vã lật tường rời đi."
+    },
+    {
+      "segment_id": "0100",
+      "source": "在临走之前，他更是放了一把大火，看着整个宋志高费尽心思与积蓄才建造起来的大宅毁于火光之中。",
+      "target": "Trước lúc rời đi, hắn còn phóng một mồi lửa lớn, nhìn toàn bộ tòa nhà lớn mà Tống Chí Cao phải tốn bao tâm huyết và tiền của tích cóp mới xây dựng được bị hủy trong biển lửa."
+    },
+    {
+      "segment_id": "0101",
+      "source": "这自然不是为了泄愤，而是为了制造混乱，同时吸引所有人的注意，方便逃离罢了。",
+      "target": "Đây dĩ nhiên không phải là để trút giận, mà là để tạo ra hỗn loạn, đồng thời thu hút sự chú ý của mọi người, tiện cho việc tẩu thoát mà thôi."
+    },
+    {
+      "segment_id": "0102",
+      "source": "毕竟，面对这火，官府与其他人一旦不救，等到火势蔓延开来，说不定半个县城都要沦陷，这怎么可以？",
+      "target": "Dù sao, đối mặt với đám cháy này, quan phủ và những người khác một khi không cứu, chờ đến khi thế lửa lan rộng ra, nói không chừng nửa cái huyện thành đều sẽ chìm trong biển lửa, sao có thể được?"
+    },
+    {
+      "segment_id": "0103",
+      "source": "黑烟蔓延，火光冲天。",
+      "target": "Khói đen lan tràn, ánh lửa ngút trời."
+    },
+    {
+      "segment_id": "0104",
+      "source": "在县城一片混乱中，方元却是施施然出了大门，隐身入道路旁边的密林之中。",
+      "target": "Trong lúc huyện thành đang một mảng hỗn loạn, Phương Nguyên lại thong dong bước ra khỏi cổng lớn, ẩn mình vào trong khu rừng rậm bên đường."
+    },
+    {
+      "segment_id": "0105",
+      "source": "他自幼在深山中长大，任何密林都是如履平地，更将自己痕迹彻底抹去。",
+      "target": "Hắn từ nhỏ lớn lên ở trong núi sâu, bất kỳ khu rừng rậm nào cũng giống như đi trên đất bằng, càng đem dấu vết của bản thân xóa đi một cách triệt để."
+    },
+    {
+      "segment_id": "0106",
+      "source": "“痛快！当真痛快！”",
+      "target": "“Sảng khoái! Thật sự sảng khoái!”"
+    },
+    {
+      "segment_id": "0107",
+      "source": "奔行良久之后，前面出现条小溪，方元上前，痛饮泉水，又将外套与斗笠脱下，付诸一炬。",
+      "target": "Chạy vội một hồi lâu sau, phía trước xuất hiện một con suối nhỏ, Phương Nguyên tiến lên, uống thỏa thích nước suối, lại cởi áo khoác ngoài và nón trúc xuống, châm lửa đốt sạch."
+    },
+    {
+      "segment_id": "0108",
+      "source": "熊熊火焰之中，梦中世界的一首诗不知如何，就浮现在他脑海：",
+      "target": "Trong ngọn lửa hừng hực, một bài thơ ở thế giới trong mơ không biết thế nào, cứ hiện lên trong đầu hắn:"
+    },
+    {
+      "segment_id": "0109",
+      "source": "“衔枚夜度五千兵，密领军符号令明。狭巷短兵相接处，杀人如草不闻声。”",
+      "target": "“Hàm mai dạ độ ngũ thiên binh,\nMật lĩnh quân phù hiệu lệnh minh.\nHiệp hạng đoản binh tương tiếp xứ,\nSát nhân như thảo bất văn thanh.”"
+    },
+    {
+      "segment_id": "0110",
+      "source": "“这次一击灭贼，虽然并非悄无声息，有些遗憾，但一下除了大患，实在痛快！”",
+      "target": "“Lần này một đòn diệt giặc, mặc dù không phải không tiếng động, có chút đáng tiếc, nhưng một cái loại bỏ được tai hoạ ngầm, quả thực sảng khoái!”"
+    }
+  ]
+}
+```

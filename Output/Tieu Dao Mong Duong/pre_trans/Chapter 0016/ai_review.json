@@ -1,0 +1,23 @@
+```json
+{
+  "approved": [],
+  "rejected": [
+    "——外门功法",
+    "”\n当他将注",
+    "、种植术",
+    "专长：医术"
+  ],
+  "uncertain": [
+    "一层",
+    "一级",
+    "三级"
+  ]
+}
+```
+
+### Review Notes:
+* **Rejected:**
+  * `——外门功法`, `、种植术`, and `专长：医术` were rejected because they contain leading punctuation or formatting marks (dashes, commas, colons). The clean terms (`外门功法`, `种植术`, `医术`) would be good candidates for approval.
+  * `”\n当他将注` is an incomplete sentence fragment and text noise.
+* **Uncertain:**
+  * `一层` (First layer/level), `一级` (Level 1), and `三级` (Level 3) are very generic numerics/levels. They might not be specific enough to warrant inclusion in a glossary unless your translation system requires strictly standardizing them across the text.

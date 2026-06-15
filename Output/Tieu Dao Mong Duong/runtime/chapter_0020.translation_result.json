@@ -1,0 +1,556 @@
+{
+  "schema_version": "2.0",
+  "chapter_id": "chapter_0020",
+  "segment_translations": [
+    {
+      "segment_id": "0001",
+      "source": "# 第20章 迫近",
+      "target": "# Chương 20: Áp sát"
+    },
+    {
+      "segment_id": "0002",
+      "source": "“呼……”",
+      "target": "“Phù...”"
+    },
+    {
+      "segment_id": "0003",
+      "source": "对着初升朝阳，方元吞吐紫气，神情肃穆至极。",
+      "target": "Đối diện với ánh nắng ban mai vừa lên, Phương Nguyên hít thở tử khí, nét mặt vô cùng trang nghiêm."
+    },
+    {
+      "segment_id": "0004",
+      "source": "“有着红玉稻米相助，武功实在进展神速啊！”",
+      "target": "“Có gạo Hồng Ngọc trợ giúp, võ công tiến triển quả thực thần tốc!”"
+    },
+    {
+      "segment_id": "0005",
+      "source": "他最近有点练功练上瘾，毕竟，那种熟练度飞快增长，一点点变强的感觉，实在是很容易令人迷醉下去。",
+      "target": "Gần đây hắn có chút nghiện luyện công, suy cho cùng, cảm giác độ thuần thục tăng vọt, từng chút từng chút trở nên mạnh mẽ kia thật sự rất dễ khiến người ta mê đắm."
+    },
+    {
+      "segment_id": "0006",
+      "source": "“或许……另外的鹰爪功、硬气功，也可以尽快入手了！”",
+      "target": "“Có lẽ... Ưng Trảo Công, Ngạnh Khí Công khác cũng có thể nhanh chóng bắt tay vào luyện tập rồi!”"
+    },
+    {
+      "segment_id": "0007",
+      "source": "以前是怕贪多嚼不烂，但此时的方元却根本不会有着这个顾忌。",
+      "target": "Trước đây là sợ tham nhiều nhai không nát, nhưng Phương Nguyên lúc này căn bản không hề có nỗi cố kỵ đó."
+    },
+    {
+      "segment_id": "0008",
+      "source": "武功练到高阶之后，再去习练其它武艺，低级的时候无疑会提升飞快，在他这里更是坐火箭一般的速度。",
+      "target": "Võ công luyện đến tầng cao rồi lại đi tu luyện võ nghệ khác, ở những cấp độ thấp chắc chắn sẽ tăng lên cực nhanh, ở chỗ hắn thì càng là tốc độ như hỏa tiễn."
+    },
+    {
+      "segment_id": "0009",
+      "source": "“不过，还是等我武道到了第五关境界再说吧……”",
+      "target": "“Nhưng mà, vẫn là đợi võ đạo của ta đến cảnh giới ải thứ năm rồi tính tiếp vậy...”"
+    },
+    {
+      "segment_id": "0010",
+      "source": "方元下意识瞥了一眼自己的属性：",
+      "target": "Phương Nguyên vô thức liếc nhìn thuộc tính của mình:"
+    },
+    {
+      "segment_id": "0011",
+      "source": "“姓名：方元",
+      "target": "“Họ tên: Phương Nguyên"
+    },
+    {
+      "segment_id": "0012",
+      "source": "精：1.8",
+      "target": "Tinh: 1.8"
+    },
+    {
+      "segment_id": "0013",
+      "source": "气：1.6",
+      "target": "Khí: 1.6"
+    },
+    {
+      "segment_id": "0014",
+      "source": "神：1.5",
+      "target": "Thần: 1.5"
+    },
+    {
+      "segment_id": "0015",
+      "source": "年龄：18",
+      "target": "Tuổi: 18"
+    },
+    {
+      "segment_id": "0016",
+      "source": "修为：武道第三关",
+      "target": "Tu vi: Võ đạo ải thứ ba"
+    },
+    {
+      "segment_id": "0017",
+      "source": "技能：黑沙掌【三层】",
+      "target": "Kỹ năng: Hắc Sa Chưởng [Tầng 3]"
+    },
+    {
+      "segment_id": "0018",
+      "source": "专长：医术【一级】、种植术【三级】”",
+      "target": "Sở trường: Y thuật [Cấp 1], Trồng trọt [Cấp 3]”"
+    },
+    {
+      "segment_id": "0019",
+      "source": "“破了武道第三关生门，给精元与气元带来的增幅大致是0.3，剩下的就是红玉稻米的功劳了……”",
+      "target": "“Phá ải thứ ba Sinh môn của võ đạo, mức độ tăng cường mang lại cho tinh nguyên và khí nguyên đại khái là 0.3, phần còn lại chính là công lao của gạo Hồng Ngọc...”"
+    },
+    {
+      "segment_id": "0020",
+      "source": "“只是神元自从问心茶告罄之后就未曾增长过，连突破三吉关都是如此……”",
+      "target": "“Chỉ là thần nguyên từ sau khi Vấn Tâm Trà cạn kiệt thì chưa từng tăng trưởng qua, ngay cả lúc đột phá ba ải Cát cũng vậy...”"
+    },
+    {
+      "segment_id": "0021",
+      "source": "神元增长越是艰难，方元对它却越发看重。",
+      "target": "Thần nguyên tăng trưởng càng khó khăn, Phương Nguyên lại càng thêm coi trọng nó."
+    },
+    {
+      "segment_id": "0022",
+      "source": "毕竟，以此时的属性，拥有超出普通人一半的神元，已经令他感受到了自身脱胎换骨般的变化。",
+      "target": "Suy cho cùng, với thuộc tính lúc này, sở hữu thần nguyên vượt quá người bình thường một nửa đã khiến hắn cảm nhận được sự biến hóa như thoát thai hoán cốt của bản thân."
+    },
+    {
+      "segment_id": "0023",
+      "source": "如果再将神元提升上去，又会有着什么不可思议的事情出现？",
+      "target": "Nếu lại nâng cao thần nguyên lên, sẽ còn chuyện khó tin gì xuất hiện nữa?"
+    },
+    {
+      "segment_id": "0024",
+      "source": "方元对此可是非常期待的。",
+      "target": "Phương Nguyên đối với chuyện này vô cùng mong đợi."
+    },
+    {
+      "segment_id": "0025",
+      "source": "“问心茶树也快再次抽芽了……还有红玉稻米，我已经划出一大片稻田，足够种下……目前的缺口，还是灵肥啊！”",
+      "target": "“Cây Vấn Tâm Trà cũng sắp đâm chồi lần nữa rồi... Còn có gạo Hồng Ngọc, ta đã vạch ra một mảng ruộng lớn, đủ để gieo trồng... Chỗ thiếu hụt hiện tại, vẫn là linh phì a!”"
+    },
+    {
+      "segment_id": "0026",
+      "source": "这种花狐貂带来的奇异半透明颗粒，有着促进灵植成熟的奇效。",
+      "target": "Loại hạt bán trong suốt kỳ dị mà Hoa Hồ Điêu mang đến này, có kỳ hiệu thúc đẩy linh thực trưởng thành."
+    },
+    {
+      "segment_id": "0027",
+      "source": "而现在方元习武，又需要大量的红玉稻米供应，对于灵肥的依赖更是增长到了一个极点。",
+      "target": "Mà bây giờ Phương Nguyên tập võ, lại cần một lượng lớn gạo Hồng Ngọc cung cấp, sự ỷ lại vào linh phì càng là tăng lên đến cực điểm."
+    },
+    {
+      "segment_id": "0028",
+      "source": "“我需要灵肥！大量的灵肥！否则红玉稻米与问心茶叶就是空中阁楼……”",
+      "target": "“Ta cần linh phì! Số lượng lớn linh phì! Nếu không gạo Hồng Ngọc và lá Vấn Tâm Trà cũng chỉ là lầu các trên không...”"
+    },
+    {
+      "segment_id": "0029",
+      "source": "可惜花狐貂早已跟他反复表述，那个灵肥所在之地十分危险，以现在他的实力，还是不要冒然前往的好。",
+      "target": "Đáng tiếc Hoa Hồ Điêu đã nhiều lần biểu đạt với hắn, nơi có linh phì kia vô cùng nguy hiểm, với thực lực hiện tại của hắn, tốt nhất là không nên mạo muội tiến đến."
+    },
+    {
+      "segment_id": "0030",
+      "source": "“如今的我，已经是武道三关的好手，甚至全神贯注之下，也可以发现白貂行动的轨迹……看来它所谓的危险，应该就在二平关与三险关中间的样子！”",
+      "target": "“Ta của bây giờ đã là hảo thủ võ đạo ải thứ ba, thậm chí dưới sự tập trung toàn lực, cũng có thể phát hiện quỹ tích hành động của chồn trắng... Xem ra thứ gọi là nguy hiểm của nó, chắc hẳn nằm ở khoảng giữa hai ải Bình và ba ải Hiểm!”"
+    },
+    {
+      "segment_id": "0031",
+      "source": "金锁重楼十二关，乃是当世武者避不开的门槛。",
+      "target": "Kim Tỏa Trùng Lâu mười hai ải, chính là ranh giới mà võ giả đương thời không thể nào tránh khỏi."
+    },
+    {
+      "segment_id": "0032",
+      "source": "方元此时已经将三吉关尽数破去，接下来若破得杜门，立即就进入了一个全新的境界。",
+      "target": "Phương Nguyên lúc này đã phá vỡ toàn bộ ba ải Cát, tiếp theo nếu phá được Đỗ môn, sẽ lập tức bước vào một cảnh giới hoàn toàn mới."
+    },
+    {
+      "segment_id": "0033",
+      "source": "按照硬气功秘笈所言，前三关的武者算烂大街的话，那到了杜、景二关，在武道上也算初窥门径了。",
+      "target": "Theo như bí kíp Ngạnh Khí Công nói, nếu võ giả ba ải đầu coi như nhan nhản trên phố, vậy thì đến hai ải Đỗ, Cảnh, trên con đường võ đạo cũng coi như mới nhìn thấy cửa nẻo."
+    },
+    {
+      "segment_id": "0034",
+      "source": "至于破了伤门，乃至更高的惊门、死门三险关，那绝对可以算得上登堂入室，纵然在归灵宗当中也可任得长老。",
+      "target": "Còn về phần phá Thương môn, cho đến ba ải Hiểm cao hơn là Kinh môn, Tử môn, thì tuyệt đối có thể coi là đăng đường nhập thất, dẫu ở trong Quy Linh Tông cũng có thể nhậm chức trưởng lão."
+    },
+    {
+      "segment_id": "0035",
+      "source": "那个宋志高的依仗，背后的宋中宋长老，实际上也就三险关的武道好手。",
+      "target": "Chỗ dựa của Tống Chí Cao đó, Tống Trung Tống trưởng lão ở phía sau, thực tế cũng chỉ là hảo thủ võ đạo ba ải Hiểm."
+    },
+    {
+      "segment_id": "0036",
+      "source": "并且，以他的年龄而言，这辈子也不太可能突破死关，冲击最后的四天门境界了。",
+      "target": "Hơn nữa, xét theo tuổi tác của ông ta, đời này cũng không có khả năng đột phá Tử quan, trùng kích cảnh giới Tứ Thiên Môn cuối cùng nữa."
+    },
+    {
+      "segment_id": "0037",
+      "source": "“咯咯！”",
+      "target": "“Cục cục!”"
+    },
+    {
+      "segment_id": "0038",
+      "source": "“咯咯！”",
+      "target": "“Cục cục!”"
+    },
+    {
+      "segment_id": "0039",
+      "source": "就在这时，花狐貂突然出现，咬着方元的裤脚，向谷口奔去。",
+      "target": "Đúng lúc này, Hoa Hồ Điêu đột nhiên xuất hiện, cắn ống quần Phương Nguyên, lao về phía cửa cốc."
+    },
+    {
+      "segment_id": "0040",
+      "source": "“嗯？又来人了！？”",
+      "target": "“Hửm? Lại có người đến rồi!?”"
+    },
+    {
+      "segment_id": "0041",
+      "source": "方元有些不耐，此时无法，也只能来到谷口，顿时就眼神一凝。",
+      "target": "Phương Nguyên có chút mất kiên nhẫn, lúc này hết cách, cũng chỉ đành đến cửa cốc, ánh mắt lập tức ngưng tụ."
+    },
+    {
+      "segment_id": "0042",
+      "source": "在他面前，赫然是一支庞大的队伍，为首者乃是林本初林员外，周家兄妹也在。",
+      "target": "Hiện ra trước mắt hắn, nghiễm nhiên là một đội ngũ khổng lồ, người dẫn đầu là Lâm viên ngoại Lâm Bản Sơ, huynh muội Chu gia cũng ở đây."
+    },
+    {
+      "segment_id": "0043",
+      "source": "不仅如此，除了他们之外，后面还有四名身强力壮的仆役，抬着一架软轿，四周纱帘垂下，隐约可以看见里面躺着的人影。",
+      "target": "Không chỉ vậy, ngoại trừ bọn họ, phía sau còn có bốn gã sai vặt cường tráng, khiêng một cỗ kiệu mềm, rèm lụa xung quanh buông thõng, thấp thoáng có thể nhìn thấy bóng người nằm bên trong."
+    },
+    {
+      "segment_id": "0044",
+      "source": "“贤侄啊！”",
+      "target": "“Hiền điệt à!”"
+    },
+    {
+      "segment_id": "0045",
+      "source": "林员外上前，摊了摊手：“这次之事，你真有把握？”",
+      "target": "Lâm viên ngoại bước lên, dang hai tay: “Chuyện lần này, ngươi thật sự nắm chắc chứ?”"
+    },
+    {
+      "segment_id": "0046",
+      "source": "“什么事？”",
+      "target": "“Chuyện gì cơ?”"
+    },
+    {
+      "segment_id": "0047",
+      "source": "方元一头雾水。",
+      "target": "Phương Nguyên mờ mịt khó hiểu."
+    },
+    {
+      "segment_id": "0048",
+      "source": "“自然是治病救人的事情啊，周家可是孤注一掷，将周老爷都带来了！”",
+      "target": "“Tất nhiên là chuyện chữa bệnh cứu người rồi, Chu gia dốc sạch vốn liếng, đưa cả Chu lão gia đến đây rồi!”"
+    },
+    {
+      "segment_id": "0049",
+      "source": "林本初肃穆道：“日前你派遣那田老汉送来信笺，说你有救人良策，但必须将人送入幽谷之中，才肯救治……唉，实在有些托大了！”",
+      "target": "Lâm Bản Sơ nghiêm túc nói: “Mấy ngày trước ngươi phái lão Điền đưa thư đến, nói ngươi có kế hay cứu người, nhưng bắt buộc phải đưa người vào trong U Cốc mới chịu cứu chữa... Ôi, quả thực có chút thác đại rồi!”"
+    },
+    {
+      "segment_id": "0050",
+      "source": "“信笺？”",
+      "target": "“Thư từ?”"
+    },
+    {
+      "segment_id": "0051",
+      "source": "方元心里一沉，表面上却不动声色，取过看了，就见上面与林员外所说的别无二致，大体意思就是自己有着妙策回春，只是必须周家将人送到山里，否则就不予救治，用词之间，颇为傲慢。",
+      "target": "Trong lòng Phương Nguyên trầm xuống, nhưng bề ngoài vẫn điềm nhiên như không, nhận lấy xem thử, liền thấy nội dung bên trên không khác gì so với lời Lâm viên ngoại nói, ý tứ đại khái là bản thân có diệu kế hồi xuân, chỉ là bắt buộc Chu gia phải đưa người vào núi, bằng không sẽ không cứu chữa, từ ngữ dùng khá là kiêu ngạo."
+    },
+    {
+      "segment_id": "0052",
+      "source": "特别是，这一笔一划，跟他的手书完全一致，纵然方元，都差点以为是自己写的了。",
+      "target": "Đặc biệt là, từng nét bút nét vẽ này hoàn toàn đồng nhất với nét chữ của hắn, dẫu là Phương Nguyên, cũng suýt chút nữa tưởng rằng chính mình đã viết."
+    },
+    {
+      "segment_id": "0053",
+      "source": "“田老汉……”",
+      "target": "“Lão Điền...”"
+    },
+    {
+      "segment_id": "0054",
+      "source": "方元眼珠一转，立即就知道了问题出在哪里。",
+      "target": "Tròng mắt Phương Nguyên đảo một vòng, lập tức biết được vấn đề nằm ở đâu."
+    },
+    {
+      "segment_id": "0055",
+      "source": "作为唯一与幽谷有着交往的采药人，他手上倒是有着自己亲笔写的几分清单与书信，伪造一份手书不难。",
+      "target": "Thân là người hái thuốc duy nhất có qua lại với U Cốc, trong tay ông ta lại có vài bản danh sách và thư từ do chính tay hắn viết, ngụy tạo một lá thư là không khó."
+    },
+    {
+      "segment_id": "0056",
+      "source": "并且，林员外也见过田老汉，知晓他相当于半个幽谷的话事人，因此也深信不疑。",
+      "target": "Hơn nữa, Lâm viên ngoại cũng từng gặp lão Điền, biết ông ta tương đương với nửa người phát ngôn của U Cốc, vì vậy cũng tin tưởng không nghi ngờ."
+    },
+    {
+      "segment_id": "0057",
+      "source": "奈何，自己根本就没有打过包票，对于周家老爷的病情更是一无所知啊！",
+      "target": "Ngặt nỗi, bản thân căn bản chưa từng dám chắc điều gì, đối với bệnh tình của Chu gia lão gia lại càng mù tịt a!"
+    },
+    {
+      "segment_id": "0058",
+      "source": "“毒计！”",
+      "target": "“Độc kế!”"
+    },
+    {
+      "segment_id": "0059",
+      "source": "方元眼光有些发寒：‘好一条毒计，如此一来，我当真是百口莫辩了！’",
+      "target": "Ánh mắt Phương Nguyên có chút lạnh lẽo: ‘Thật là một cái độc kế tốt, cứ như vậy, ta quả thật là trăm miệng cũng khó bào chữa!’"
+    },
+    {
+      "segment_id": "0060",
+      "source": "很显然，周家老爷本来就命在旦夕，又被骗得奔波劳碌，说不定会直接死在幽谷，那自己与周家顿时可谓结下死仇了！",
+      "target": "Rất rõ ràng, Chu gia lão gia vốn dĩ đã tính mạng sớm tối, lại bị lừa gạt bôn ba mệt nhọc, không chừng sẽ chết thẳng trong U Cốc, vậy thì mình và Chu gia lập tức có thể coi là kết hạ tử thù rồi!"
+    },
+    {
+      "segment_id": "0061",
+      "source": "此时，纵然他说信笺不是自己所写，又有哪个会相信？",
+      "target": "Lúc này, dẫu hắn nói thư này không phải do mình viết, thì lại có ai chịu tin chứ?"
+    },
+    {
+      "segment_id": "0062",
+      "source": "看着一脸殷切之色的周家人，方元顿时沉默了。",
+      "target": "Nhìn vẻ mặt ân cần mong mỏi của người nhà họ Chu, Phương Nguyên lập tức trầm mặc."
+    },
+    {
+      "segment_id": "0063",
+      "source": "他更是想到一点，若他是幕后主使者，此时必然已经将田老汉灭口，才能做到天衣无缝！",
+      "target": "Hắn càng nghĩ tới một điểm, nếu hắn là kẻ chủ mưu sau lưng, lúc này chắc chắn đã diệt khẩu lão Điền, mới có thể làm đến mức thiên y vô phùng!"
+    },
+    {
+      "segment_id": "0064",
+      "source": "‘说不定还是一石二鸟，这个周家老爷，本来就是宋长老敌对的派系，否则借宋志高几个胆子，也绝对不敢如此……’",
+      "target": "‘Nói không chừng còn là một mũi tên trúng hai đích, Chu gia lão gia này vốn dĩ đã là phe phái thù địch với Tống trưởng lão, nếu không thì cho Tống Chí Cao mượn thêm mấy lá gan, cũng tuyệt đối không dám làm thế này...’"
+    },
+    {
+      "segment_id": "0065",
+      "source": "方元一下就猜测出了许多东西。",
+      "target": "Phương Nguyên thoáng chốc liền suy đoán ra được rất nhiều thứ."
+    },
+    {
+      "segment_id": "0066",
+      "source": "“怎么了……贤侄……你莫非……”",
+      "target": "“Sao thế... Hiền điệt... Chẳng lẽ ngươi...”"
+    },
+    {
+      "segment_id": "0067",
+      "source": "林员外人老成精，冷汗就有些下来了。",
+      "target": "Lâm viên ngoại người già thành tinh, mồ hôi lạnh có chút ứa ra rồi."
+    },
+    {
+      "segment_id": "0068",
+      "source": "天可怜见，实在是周老爷的病情已经拖不得了，周家被逼得没办法，才会死马当作活马医，送来这幽谷。",
+      "target": "Trời xui đất khiến sao, thực sự là bệnh tình của Chu lão gia đã không thể kéo dài được nữa, Chu gia bị ép đến hết cách, mới có thể coi ngựa chết thành ngựa sống mà chữa, đưa đến U Cốc này."
+    },
+    {
+      "segment_id": "0069",
+      "source": "在这当中，他可也是拍过胸脯，打过包票的。",
+      "target": "Trong chuyện này, ông ta cũng từng vỗ ngực, dám chắc đảm bảo."
+    },
+    {
+      "segment_id": "0070",
+      "source": "若是此时方元放了鸽子，后果简直不堪想象！",
+      "target": "Nếu lúc này Phương Nguyên cho leo cây, hậu quả quả thực không thể tưởng tượng nổi!"
+    },
+    {
+      "segment_id": "0071",
+      "source": "“我还是先看看病人吧！”",
+      "target": "“Ta vẫn nên xem bệnh nhân trước đã!”"
+    },
+    {
+      "segment_id": "0072",
+      "source": "方元瞥了林员外一眼，心知也怪不得对方。",
+      "target": "Phương Nguyên liếc Lâm viên ngoại một cái, trong lòng biết cũng không thể trách đối phương."
+    },
+    {
+      "segment_id": "0073",
+      "source": "毕竟，自己之前还真的通过田老汉，跟他传递过几次消息，再说幽谷辟处深山，要联系也实在不方便。",
+      "target": "Suy cho cùng, trước đây mình quả thực từng thông qua lão Điền truyền tin cho ông ta vài lần, hơn nữa U Cốc ở tận nơi rừng sâu núi thẳm, muốn liên lạc cũng thực sự không tiện."
+    },
+    {
+      "segment_id": "0074",
+      "source": "“这个自然！”",
+      "target": "“Điều này là hiển nhiên!”"
+    },
+    {
+      "segment_id": "0075",
+      "source": "林员外头皮有些发麻，带着方元来到软轿之前。",
+      "target": "Lâm viên ngoại da đầu hơi tê rần, dẫn Phương Nguyên đến trước kiệu mềm."
+    },
+    {
+      "segment_id": "0076",
+      "source": "“方居士，一切拜托了！”",
+      "target": "“Phương cư sĩ, tất cả xin nhờ cậy ngài!”"
+    },
+    {
+      "segment_id": "0077",
+      "source": "软轿周围，周文武带着周文馨，还有几个周家人重重行礼，旁边还有几个气息深沉的高手环视。",
+      "target": "Xung quanh kiệu mềm, Chu Văn Vũ dắt theo Chu Văn Hinh, cùng vài người Chu gia Trịnh trọng hành lễ, bên cạnh còn có mấy cao thủ khí tức trầm ổn đưa mắt nhìn quanh."
+    },
+    {
+      "segment_id": "0078",
+      "source": "方元看了，却是心里冷冷一笑，根本理都没理，他相当清楚，若自己妙手回春，能救得回周家老爷，自然一切好说，但如果救不回……这种巨大期待失败而产生的落差，足以变成自己的催命符。",
+      "target": "Phương Nguyên nhìn thoáng qua, trong lòng lại cười lạnh một tiếng, căn bản chẳng buồn để ý, hắn vô cùng rõ ràng, nếu mình diệu thủ hồi xuân, có thể cứu mạng Chu gia lão gia, mọi chuyện tự nhiên dễ nói, nhưng nếu cứu không được... loại sụp đổ sinh ra từ kỳ vọng to lớn khi thất bại này, đủ để trở thành bùa đòi mạng của chính hắn."
+    },
+    {
+      "segment_id": "0079",
+      "source": "至于解释清楚什么的？",
+      "target": "Còn việc giải thích rõ ràng thì sao?"
+    },
+    {
+      "segment_id": "0080",
+      "source": "现在的周家人，难道还听得进去么？",
+      "target": "Người Chu gia lúc này, lẽ nào còn nghe lọt tai sao?"
+    },
+    {
+      "segment_id": "0081",
+      "source": "‘好大一个坑，此事必是宋志高在幕后指使无疑！’",
+      "target": "‘Một cái hố thật lớn, chuyện này chắc chắn là Tống Chí Cao ở phía sau chỉ đạo, không thể nghi ngờ!’"
+    },
+    {
+      "segment_id": "0082",
+      "source": "此时箭在弦上，不得不发。",
+      "target": "Lúc này tên đã lên dây, không thể không bắn."
+    },
+    {
+      "segment_id": "0083",
+      "source": "方元当即上前，掀开帘幕，顿时一股腐臭味道就扑鼻而来。",
+      "target": "Phương Nguyên lập tức bước tới, xốc rèm lên, tức thì một mùi hôi thối xộc thẳng vào mũi."
+    },
+    {
+      "segment_id": "0084",
+      "source": "“见鬼，这周家老爷，与死人又有何异？”",
+      "target": "“Gặp quỷ, Chu gia lão gia này so với người chết thì có gì khác chứ?”"
+    },
+    {
+      "segment_id": "0085",
+      "source": "方元心里一下凉了半截，勉强看过去。",
+      "target": "Trong lòng Phương Nguyên lập tức lạnh đi một nửa, miễn cưỡng nhìn sang."
+    },
+    {
+      "segment_id": "0086",
+      "source": "就见软轿之中，躺着一位老者，似乎正在酣睡，但气息却是微若游丝，简直好像下一刹那就会断气一般。",
+      "target": "Chỉ thấy bên trong kiệu mềm, một lão giả đang nằm, tựa hồ đang say ngủ, nhưng khí tức lại mong manh như tơ, quả thực giống như giây tiếp theo sẽ tắt thở vậy."
+    },
+    {
+      "segment_id": "0087",
+      "source": "这一幕，纵然任何一个名医见了，心里恐怕都会浮现出‘油尽灯枯’、‘药石无灵’等等的论断。",
+      "target": "Cảnh tượng này, dẫu là bất kỳ danh y nào nhìn thấy, trong lòng e rằng đều sẽ hiện ra những phán đoán như ‘đèn cạn dầu’, ‘thuốc men vô dụng’ v.v."
+    },
+    {
+      "segment_id": "0088",
+      "source": "在老者胸口，正是伤势所在，看来曾经受创不轻，但现在却包扎完好，呈现出愈合的态势。",
+      "target": "Trên ngực lão giả chính là vị trí vết thương, xem ra từng bị thương không nhẹ, nhưng hiện tại đã được băng bó hoàn hảo, cho thấy dấu hiệu đang lành lại."
+    },
+    {
+      "segment_id": "0089",
+      "source": "“咦？这倒奇了！”",
+      "target": "“Ồ? Thật là kỳ lạ!”"
+    },
+    {
+      "segment_id": "0090",
+      "source": "方元看了几眼，不自觉地脱口而出。",
+      "target": "Phương Nguyên nhìn mấy lần, bất giác thốt ra."
+    },
+    {
+      "segment_id": "0091",
+      "source": "“小居士，吾父如何？可还有的救？”",
+      "target": "“Tiểu cư sĩ, gia phụ thế nào? Có còn cứu được không?”"
+    },
+    {
+      "segment_id": "0092",
+      "source": "旁边的周文武立即忐忑不安地问道，周围的周家人则是脸色不善地盯着方元。",
+      "target": "Chu Văn Vũ bên cạnh lập tức thắc thỏm không yên hỏi, người nhà họ Chu xung quanh thì sắc mặt bất thiện chằm chằm nhìn Phương Nguyên."
+    },
+    {
+      "segment_id": "0093",
+      "source": "谁让这个医生太过耍大牌了呢！",
+      "target": "Ai bảo vị đại phu này quá mức làm cao chứ!"
+    },
+    {
+      "segment_id": "0094",
+      "source": "脾气架子这么大，令他们都不得不钻这深山老林，不少人心里已经暗暗发狠，若是这少年只是一个草包的话，那必然要他好看！",
+      "target": "Tính khí làm giá lớn như vậy, khiến bọn họ đều không thể không chui vào nơi thâm sơn cùng cốc này, không ít người trong lòng đã thầm phát tợn, nếu như thiếu niên này chỉ là một kẻ vô dụng, vậy chắc chắn phải cho hắn biết tay!"
+    },
+    {
+      "segment_id": "0095",
+      "source": "“已略有些眉目，具体如何，还需要再看看！”",
+      "target": "“Đã nhìn ra một chút manh mối, cụ thể ra sao, vẫn cần phải xem lại!”"
+    },
+    {
+      "segment_id": "0096",
+      "source": "方元回转谷中，没有多久就拿来一盒银针，随意抬起周老爷的一条胳膊，扎了进去。",
+      "target": "Phương Nguyên quay vào trong cốc, không bao lâu liền lấy ra một hộp ngân châm, tùy ý nâng một cánh tay của Chu lão gia lên, đâm châm vào."
+    },
+    {
+      "segment_id": "0097",
+      "source": "噗！",
+      "target": "Phốc!"
+    },
+    {
+      "segment_id": "0098",
+      "source": "片刻之后，银针取出，一无异样，只是方元注视着针尖，默然不语，突然取出一个火折子点燃了，将银针放在火中熏烤片刻，又细细嗅了嗅，鼻尖顿时闻到了一股兰花般清幽的香气。",
+      "target": "Một lát sau, ngân châm được rút ra, không hề có gì khác thường, chỉ là Phương Nguyên chăm chú nhìn mũi châm, lặng yên không nói, đột nhiên lấy ra một hỏa chiết tử đốt lên, đem ngân châm đặt trên lửa hơ một lát, lại tinh tế đánh hơi, chóp mũi lập tức ngửi thấy một mùi hương thanh u như hoa lan."
+    },
+    {
+      "segment_id": "0099",
+      "source": "‘这周老爷子，并非重伤，而是中了毒！’",
+      "target": "‘Chu lão gia tử này, không phải bị trọng thương, mà là trúng độc!’"
+    },
+    {
+      "segment_id": "0100",
+      "source": "方元看着气若游丝的老者，心里默道：“并且……还是师父提过的奇毒情人醉……”",
+      "target": "Phương Nguyên nhìn lão giả khí nhược du ty, trong lòng thầm nói: “Hơn nữa... còn là kỳ độc Tình Nhân Túy mà sư phụ từng nhắc tới...”"
+    },
+    {
+      "segment_id": "0101",
+      "source": "问心居士乃是医道国手，救人经验丰富，也曾经跟方元聊过一些病例，这情人醉更是令方元记忆犹新。",
+      "target": "Vấn Tâm cư sĩ chính là quốc thủ y đạo, kinh nghiệm cứu người phong phú, cũng từng cùng Phương Nguyên nói chuyện phiếm qua vài bệnh án, loại Tình Nhân Túy này càng làm cho Phương Nguyên nhớ rõ như in."
+    },
+    {
+      "segment_id": "0102",
+      "source": "因为这种奇毒无色无味，一开始也没有什么症状，只会令人日渐消瘦，神思恍惚，最终郁郁而去，就仿佛因情伤逝一般，十分奇异。",
+      "target": "Bởi vì loại kỳ độc này vô sắc vô vị, lúc ban đầu cũng không có triệu chứng gì, chỉ khiến người ta ngày một gầy gò, tinh thần hoảng hốt, cuối cùng u uất mà chết, tựa như vì tình mà buồn bã tạ thế vậy, vô cùng kỳ lạ."
+    },
+    {
+      "segment_id": "0103",
+      "source": "此种奇毒，一旦种下，就如跗骨之蛆一般，更偏偏绝无中毒症状，银针都试不出来，唯有火烤之后，有着一股淡淡的兰花香气，乃是唯一的破绽。",
+      "target": "Loại kỳ độc này một khi gieo xuống, liền giống như dòi trong xương, càng oái ăm là tuyệt đối không có triệu chứng trúng độc, ngân châm cũng không thử ra được, chỉ có sau khi hơ lửa, có một cỗ mùi thơm hoa lan nhàn nhạt, mới là sơ hở duy nhất."
+    },
+    {
+      "segment_id": "0104",
+      "source": "当时问心居士说的有趣，方元也就记下了，想不此时，却真的见到了一个中了‘情人醉’的病人。",
+      "target": "Khi đó Vấn Tâm cư sĩ kể chuyện thú vị, Phương Nguyên cũng liền ghi nhớ, không ngờ lúc này, lại thật sự gặp được một bệnh nhân trúng ‘Tình Nhân Túy’."
+    },
+    {
+      "segment_id": "0105",
+      "source": "“如何？”",
+      "target": "“Thế nào rồi?”"
+    },
+    {
+      "segment_id": "0106",
+      "source": "看到方元眉头一时紧皱、一时舒展的模样，周家兄妹都不敢大声呼吸，轻声问着。",
+      "target": "Nhìn thấy dáng vẻ khi thì nhíu chặt mày, khi thì giãn ra của Phương Nguyên, huynh muội Chu gia đều không dám thở mạnh, khẽ giọng hỏi han."
+    },
+    {
+      "segment_id": "0107",
+      "source": "“周老爷子的病，我能治！”",
+      "target": "“Bệnh của Chu lão gia tử, ta có thể trị!”"
+    },
+    {
+      "segment_id": "0108",
+      "source": "方元点点头。",
+      "target": "Phương Nguyên gật đầu."
+    },
+    {
+      "segment_id": "0109",
+      "source": "若是遇到真的重伤病患，他那点医术等级还真有点不够看，但这毒伤却是凛然无惧。",
+      "target": "Nếu gặp phải người bệnh trọng thương thật sự, chút đẳng cấp y thuật kia của hắn còn có chút không đủ nhìn, nhưng loại độc thương này hắn lại hoàn toàn không e ngại."
+    },
+    {
+      "segment_id": "0110",
+      "source": "下一刻，方元就道：“只是，我有几个条件！”",
+      "target": "Một khắc sau, Phương Nguyên liền nói: “Chỉ là, ta có mấy điều kiện!”"
+    }
+  ]
+}

@@ -1,0 +1,578 @@
+```json
+{
+  "chapter_number": 35,
+  "chapter_title_vi": "Chương 35: Theo dõi",
+  "segments": [
+    {
+      "segment_id": "0001",
+      "source": "# 第35章 盯梢",
+      "target": "# Chương 35: Theo dõi"
+    },
+    {
+      "segment_id": "0002",
+      "source": "“哦？原来还是一位种植的行家，当真失敬失敬！”",
+      "target": "“Ồ? Hóa ra còn là một chuyên gia gieo trồng, quả thật thất kính thất kính!”"
+    },
+    {
+      "segment_id": "0003",
+      "source": "钱老面浑浊的眼睛中闪过一丝诧异，一摆手：“既然都是内行人，那老朽也就直言了，本阁内有两份灵种，一份为红玉稻米，一份为翡翠碧草，小兄弟要哪样？不若就那红玉稻米吧？只是稻种有限，不能多买……”",
+      "target": "Trong đôi mắt đục ngầu của Tiền lão lóe lên một tia kinh ngạc, lão xua tay: “Đã đều là người trong nghề, vậy lão hủ cũng xin nói thẳng, trong các có hai loại linh chủng, một loại là lúa Hồng Ngọc, một loại là cỏ Phỉ Thúy Bích, tiểu huynh đệ muốn loại nào? Không bằng cứ lấy lúa Hồng Ngọc nhé? Chỉ là giống lúa có hạn, không thể mua nhiều...”"
+    },
+    {
+      "segment_id": "0004",
+      "source": "实际上，但凡前来购买灵种的，都是以红玉稻米居多。",
+      "target": "Thực tế, hễ những ai đến mua linh chủng, đều chủ yếu chọn lúa Hồng Ngọc."
+    },
+    {
+      "segment_id": "0005",
+      "source": "毕竟，稻谷纵然种不出来，也可以直接吃了，补益元气。",
+      "target": "Dẫu sao, dù không trồng ra lúa, cũng có thể trực tiếp ăn để bổ ích nguyên khí."
+    },
+    {
+      "segment_id": "0006",
+      "source": "这种挂羊头，卖狗肉的做法，一直是四海阁灵种收益的大头所在。",
+      "target": "Thủ đoạn treo đầu dê bán thịt chó này luôn là nguồn thu lớn nhất từ linh chủng của Tứ Hải Các."
+    },
+    {
+      "segment_id": "0007",
+      "source": "奈何方元对于红玉稻米，那可是实在没有什么兴趣，毕竟家中留种的已经足够了。",
+      "target": "Tiếc là Phương Nguyên đối với lúa Hồng Ngọc lại thực sự chẳng có chút hứng thú nào, dù sao thì hạt giống giữ lại ở nhà đã đủ rồi."
+    },
+    {
+      "segment_id": "0008",
+      "source": "“不知那翡翠碧草，有何功用？”",
+      "target": "“Không biết Phỉ Thúy Bích thảo kia có công dụng gì?”"
+    },
+    {
+      "segment_id": "0009",
+      "source": "他当即开口。",
+      "target": "Hắn lập tức lên tiếng."
+    },
+    {
+      "segment_id": "0010",
+      "source": "“嗯？不要稻米？”",
+      "target": "“Hử? Không cần lúa sao?”"
+    },
+    {
+      "segment_id": "0011",
+      "source": "钱老一怔，旋即回答：“那碧草与红玉稻一般，都是最低等的灵植，只是许多素食灵兽似乎很喜欢吃，也有一定改良土壤之功……”",
+      "target": "Tiền lão giật mình, chợt trả lời: “Bích thảo kia cũng giống như lúa Hồng Ngọc, đều là linh thực cấp thấp nhất, chỉ là rất nhiều linh thú ăn chay dường như rất thích ăn, cũng có công hiệu cải tạo đất đai nhất định...”"
+    },
+    {
+      "segment_id": "0012",
+      "source": "实际上，人家到他这里，打的都是大规模交易红玉稻米的主意，并且，还真的都能搞到一点份额，其流源不问自知，只是心照不宣罢了。",
+      "target": "Thực tế, người ta tìm đến chỗ lão đều mang ý đồ giao dịch lúa Hồng Ngọc với quy mô lớn, hơn nữa, quả thật đều có thể lấy được một ít định mức. Nguồn gốc của nó thì không nói cũng hiểu, chỉ là mọi người trong lòng tự biết mà không vạch trần mà thôi."
+    },
+    {
+      "segment_id": "0013",
+      "source": "“那就来一点翡翠碧草的草籽草种吧！”",
+      "target": "“Vậy lấy một ít hạt giống của Phỉ Thúy Bích thảo đi!”"
+    },
+    {
+      "segment_id": "0014",
+      "source": "虽然有些不太满意，但方元还是不准备放过。",
+      "target": "Mặc dù có chút không hài lòng, nhưng Phương Nguyên vẫn không định bỏ lỡ."
+    },
+    {
+      "segment_id": "0015",
+      "source": "只是他脑海中又浮现出一头脸色皱巴巴，吞着青草的花狐貂形象，不知道为何，脸上就有些忍俊不禁。",
+      "target": "Chỉ là trong đầu hắn lại hiện lên hình ảnh một con Hoa Hồ Điêu mặt nhăn nhó, đang nuốt cỏ xanh, không biết vì sao, trên mặt hắn lại có chút buồn cười nhịn không được."
+    },
+    {
+      "segment_id": "0016",
+      "source": "“什么？要草籽？不要灵米？”",
+      "target": "“Cái gì? Muốn hạt cỏ? Không cần linh mễ?”"
+    },
+    {
+      "segment_id": "0017",
+      "source": "钱复生大掌柜的十分诧异，但还是很有操守地道：“翡翠碧草草籽，一粒一两黄金，童叟无欺，若是客人一次要五十粒以上，还可有着优惠！”",
+      "target": "Đại chưởng quỹ Tiền Phục Sinh hết sức kinh ngạc, nhưng vẫn rất có đạo đức nghề nghiệp nói: “Hạt giống Phỉ Thúy Bích thảo, một hạt giá một lượng hoàng kim, già trẻ không lừa, nếu khách nhân mua một lần trên năm mươi hạt, còn có thể được ưu đãi!”"
+    },
+    {
+      "segment_id": "0018",
+      "source": "“这价格……”",
+      "target": "“Cái giá này...”"
+    },
+    {
+      "segment_id": "0019",
+      "source": "方元脸色有些抽抽，第一次觉得自己真是一个穷鬼。",
+      "target": "Khóe miệng Phương Nguyên hơi giật giật, lần đầu tiên cảm thấy bản thân mình thật sự là một tên quỷ nghèo."
+    },
+    {
+      "segment_id": "0020",
+      "source": "“灵种什么的，都是世家大族在操作，我一个根基浅薄的穷小子，实在不怎么消耗得起……”",
+      "target": "“Linh chủng các loại, đều là do thế gia đại tộc thao túng, một tên nhãi nghèo hèn căn cơ nông cạn như ta, quả thật là tiêu xài không nổi...”"
+    },
+    {
+      "segment_id": "0021",
+      "source": "他一边掏出金子结账，心里一边叹息：“纵然翡翠碧草与红玉稻米都是最低级的灵物，但我如此，也是很招人眼球的，下次就必须改头换面了……”",
+      "target": "Hắn vừa móc vàng ra thanh toán, trong lòng vừa thở dài: “Dù Phỉ Thúy Bích thảo và lúa Hồng Ngọc đều là linh vật cấp thấp nhất, nhưng ta làm như vậy cũng rất rước lấy sự chú ý, lần sau nhất định phải thay đổi diện mạo rồi...”"
+    },
+    {
+      "segment_id": "0022",
+      "source": "正是因为这个，他才没有带来灵物要求交换。",
+      "target": "Chính vì nguyên nhân này, hắn mới không mang theo linh vật tới yêu cầu trao đổi."
+    },
+    {
+      "segment_id": "0023",
+      "source": "几十两金子，以四海阁的财大气粗，还起不了什么心思，但若是一千两，一万两呢？",
+      "target": "Mấy chục lượng vàng, với sự tài đại khí thô của Tứ Hải Các thì còn chưa khiến họ động tâm tư gì, nhưng nếu là một ngàn lượng, một vạn lượng thì sao?"
+    },
+    {
+      "segment_id": "0024",
+      "source": "世界上并没有绝对的公平，只有付不付得起代价！",
+      "target": "Trên đời này vốn không có sự công bằng tuyệt đối, chỉ có việc trả nổi cái giá đó hay không mà thôi!"
+    },
+    {
+      "segment_id": "0025",
+      "source": "“好，这是翡翠草籽，请客人收好！”",
+      "target": "“Được, đây là hạt giống cỏ Phỉ Thúy, mời khách nhân cất kỹ!”"
+    },
+    {
+      "segment_id": "0026",
+      "source": "清点了黄金之后，钱复生动作很快，拿来一个紫檀木盒，这木盒雕刻精致，上面带着一股幽香，显然也不是凡品。",
+      "target": "Sau khi kiểm điểm vàng, động tác của Tiền Phục Sinh rất nhanh, lấy tới một chiếc hộp gỗ tử đàn. Chiếc hộp gỗ này điêu khắc tinh xảo, bên trên tỏa ra một mùi hương thoang thoảng, hiển nhiên cũng không phải phàm phẩm."
+    },
+    {
+      "segment_id": "0027",
+      "source": "“这灵草之种与金行相克，客人切记不要让它接触到任何金性之物……”",
+      "target": "“Hạt giống linh thảo này tương khắc với ngũ hành thuộc Kim, khách nhân nhớ kỹ đừng để nó tiếp xúc với bất kỳ vật nào mang tính Kim...”"
+    },
+    {
+      "segment_id": "0028",
+      "source": "钱复生慎重叮嘱着，打开木盒，里面一粒粒青色的草籽带着勃勃生机，表面似乎有着一层碧绿之意闪过。",
+      "target": "Tiền Phục Sinh thận trọng căn dặn, mở chiếc hộp gỗ ra, bên trong là từng hạt giống cỏ màu xanh bừng bừng bừng sức sống, trên bề mặt dường như có một tầng sắc xanh biếc lóe lên."
+    },
+    {
+      "segment_id": "0029",
+      "source": "“很好！”",
+      "target": "“Rất tốt!”"
+    },
+    {
+      "segment_id": "0030",
+      "source": "方元将木盒收起，在告辞之时，又似乎随口问道：“整个清河郡之内，就真的没有另外的灵地么？在下对于此种灵异之地的诞生与形成，还是颇有兴趣的，不知道掌柜可知道其中渊源？”",
+      "target": "Phương Nguyên cất gọn hộp gỗ, lúc cáo từ lại như tùy tiện hỏi: “Trong toàn bộ Thanh Hà quận, thật sự không còn linh địa nào khác sao? Tại hạ đối với sự ra đời và hình thành của loại địa phương linh dị này khá là hứng thú, không biết chưởng quỹ có biết được căn nguyên trong đó không?”"
+    },
+    {
+      "segment_id": "0031",
+      "source": "“这……”",
+      "target": "“Việc này...”"
+    },
+    {
+      "segment_id": "0032",
+      "source": "钱复生勃然变色，旋即坚决摇头：“灵地乃是天地所钟，造化自成，要看福缘的，其中奥秘，老朽也是不知！”",
+      "target": "Tiền Phục Sinh biến sắc, chợt kiên quyết lắc đầu: “Linh địa là do thiên địa hội tụ, tạo hóa tự thành, phải xem phúc duyên, trong đó có huyền cơ gì, lão hủ cũng không biết!”"
+    },
+    {
+      "segment_id": "0033",
+      "source": "“原来如此！”",
+      "target": "“Thì ra là thế!”"
+    },
+    {
+      "segment_id": "0034",
+      "source": "方元大步走出房门：“那在下就先告辞了！”",
+      "target": "Phương Nguyên sải bước ra khỏi cửa phòng: “Vậy tại hạ xin cáo từ trước!”"
+    },
+    {
+      "segment_id": "0035",
+      "source": "等他身影离开之后，钱复生在原地踱了数步，面上就带着奇异：“小三！”",
+      "target": "Sau khi bóng lưng hắn rời đi, Tiền Phục Sinh dạo bước tại chỗ vài vòng, trên mặt mang theo vẻ kỳ lạ: “Tiểu Tam!”"
+    },
+    {
+      "segment_id": "0036",
+      "source": "“掌柜的！”",
+      "target": "“Chưởng quỹ!”"
+    },
+    {
+      "segment_id": "0037",
+      "source": "房屋内，一扇青山绿水屏风自动退后，露出一条通道，里面一个人影浮现出来。",
+      "target": "Trong phòng, một tấm bình phong vẽ non xanh nước biếc tự động lùi về phía sau, lộ ra một thông đạo, bên trong hiện ra một bóng người."
+    },
+    {
+      "segment_id": "0038",
+      "source": "“向宗内禀报吧！”",
+      "target": "“Bẩm báo với trong tông đi!”"
+    },
+    {
+      "segment_id": "0039",
+      "source": "钱复生叹息一声。",
+      "target": "Tiền Phục Sinh thở dài một tiếng."
+    },
+    {
+      "segment_id": "0040",
+      "source": "“只是一次灵草小交易而已，也算重要的情报消息？”",
+      "target": "“Chỉ là một giao dịch linh thảo nhỏ nhoi mà thôi, cũng được tính là tin tức tình báo quan trọng sao?”"
+    },
+    {
+      "segment_id": "0041",
+      "source": "这小三明显有些惊愕地说着。",
+      "target": "Tiểu Tam này hiển nhiên có chút kinh ngạc nói."
+    },
+    {
+      "segment_id": "0042",
+      "source": "“几十粒灵草种子，自然算不得什么，但此人最后又问到了灵地的情报，实在不能不让人多长一个心眼的，再派出一人，盯梢去吧！”",
+      "target": "“Mấy chục hạt giống linh thảo đương nhiên không tính là gì, nhưng người này cuối cùng lại hỏi đến tình báo về linh địa, thật sự không thể không khiến người ta phải để tâm thêm một chút. Phái thêm một người nữa, đi bám đuôi hắn đi!”"
+    },
+    {
+      "segment_id": "0043",
+      "source": "“你这掌柜，倒还算尽心！”",
+      "target": "“Chưởng quỹ nhà ngươi, ngược lại cũng coi như tận tâm!”"
+    },
+    {
+      "segment_id": "0044",
+      "source": "这时候，密道里面，又一个人影转了出来，是一名穿着青衫，体形纤瘦的少年公子，头上戴着一块猫眼绿，皮肤晶莹如玉，整个人光彩非凡。",
+      "target": "Lúc này, bên trong mật đạo lại có thêm một bóng người bước ra. Đó là một thiếu niên công tử mặc thanh sam, vóc dáng mảnh khảnh, trên đầu đội một viên ngọc thạch Mắt Mèo màu xanh lục, làn da trắng nõn như ngọc, cả người tỏa ra thần thái phi phàm."
+    },
+    {
+      "segment_id": "0045",
+      "source": "他此时摇着折扇：“宗内一片乌烟瘴气，颇为气闷，还是外面有趣，连出来押运物资，都可碰到这事。”",
+      "target": "Lúc này y đang phe phẩy quạt xếp: “Trong tông một mảnh chướng khí mù mịt, khá là buồn bực, vẫn là bên ngoài thú vị hơn, ngay cả đi ra áp tải vật tư cũng có thể gặp phải chuyện này.”"
+    },
+    {
+      "segment_id": "0046",
+      "source": "“原来是青少爷！”",
+      "target": "“Hóa ra là Thanh thiếu gia!”"
+    },
+    {
+      "segment_id": "0047",
+      "source": "钱复生与小三立即躬身行礼，神态谦卑到了极点。",
+      "target": "Tiền Phục Sinh và Tiểu Tam lập tức khom lưng hành lễ, thần thái vô cùng khiêm nhường."
+    },
+    {
+      "segment_id": "0048",
+      "source": "“此人我亲自去跟，你们该做什么就做什么去吧！”",
+      "target": "“Người này ta sẽ đích thân đi theo, các ngươi nên làm gì thì đi làm đi!”"
+    },
+    {
+      "segment_id": "0049",
+      "source": "这位青公子盯着方元离开的方向，不知道想起什么，眼睛浮现出一丝促狭之色。",
+      "target": "Vị Thanh công tử này nhìn chằm chằm vào hướng Phương Nguyên rời đi, không biết nhớ tới chuyện gì, trong mắt hiện lên một tia giảo hoạt."
+    },
+    {
+      "segment_id": "0050",
+      "source": "“遵命！”",
+      "target": "“Tuân mệnh!”"
+    },
+    {
+      "segment_id": "0051",
+      "source": "钱复生与小三对视一眼，脸上都带着无奈。",
+      "target": "Tiền Phục Sinh cùng Tiểu Tam nhìn nhau một cái, trên mặt đều mang theo vẻ bất đắc dĩ."
+    },
+    {
+      "segment_id": "0052",
+      "source": "……",
+      "target": "..."
+    },
+    {
+      "segment_id": "0053",
+      "source": "“嗯？”",
+      "target": "“Hử?”"
+    },
+    {
+      "segment_id": "0054",
+      "source": "走出四海阁之后，方元又转了几间店铺，眉头不经意间就是皱起。",
+      "target": "Sau khi bước ra khỏi Tứ Hải Các, Phương Nguyên lại dạo quanh vài cửa tiệm, mày không để ý đã nhíu lại."
+    },
+    {
+      "segment_id": "0055",
+      "source": "两种武功相加，令他的内息在第五关武者中也是一流，再加上超出常人一等的神元，令他敏锐地把握到了后方的一个小尾巴。",
+      "target": "Hai loại võ công kết hợp với nhau, khiến nội tức của hắn đứng vào hàng nhất lưu trong số các võ giả ải thứ năm, cộng thêm thần nguyên vượt qua người thường một bậc, làm cho hắn nhạy bén nắm bắt được một cái đuôi nhỏ ở phía sau."
+    },
+    {
+      "segment_id": "0056",
+      "source": "“有人跟踪？莫非是要黑吃黑？就为了一点灵草种子？不可能！”",
+      "target": "“Có người theo dõi? Lẽ nào là muốn hắc cật hắc? Chỉ vì một chút hạt giống linh thảo? Không thể nào!”"
+    },
+    {
+      "segment_id": "0057",
+      "source": "他心里否定了这种猜测，旋即就有了答案：“看来是我直接打听灵地消息，有些忌讳……毕竟，此时整个清河郡明面上，也只有归灵宗才有一小块罢了……”",
+      "target": "Trong lòng hắn phủ định suy đoán này, chợt có được đáp án: “Xem ra là do ta trực tiếp hỏi thăm tin tức về linh địa nên phạm phải điều kiêng kỵ... Dù sao, hiện tại trên bề mặt toàn bộ Thanh Hà quận, cũng chỉ có Quy Linh Tông mới có một khối nhỏ mà thôi...”"
+    },
+    {
+      "segment_id": "0058",
+      "source": "纵然再怎么心智成熟，方元也毕竟久居深山，一时间就有着疏漏。",
+      "target": "Cho dù tâm trí có trưởng thành đến mấy, Phương Nguyên cũng sống ở nơi thâm sơn cùng cốc đã lâu, nhất thời để xảy ra sơ suất."
+    },
+    {
+      "segment_id": "0059",
+      "source": "“只是……四海阁底蕴如此雄浑么？只是为了盯梢，就派出一个四五关的小好手？”",
+      "target": "“Chỉ là... Tứ Hải Các có nội tình hùng hậu như vậy sao? Chỉ để bám đuôi thôi mà đã phái ra một cao thủ nhỏ ải thứ tư thứ năm rồi?”"
+    },
+    {
+      "segment_id": "0060",
+      "source": "此种武者，可不是什么大路货，令方元有些惊讶。",
+      "target": "Võ giả như vậy không phải là loại hàng hóa nhan nhản trên phố, khiến Phương Nguyên có chút kinh ngạc."
+    },
+    {
+      "segment_id": "0061",
+      "source": "想到这里，他脚步一转，进入一条小巷之内，身影飞快消失。",
+      "target": "Nghĩ tới đây, hắn xoay bước chân, đi vào trong một con hẻm nhỏ, bóng người nhanh chóng biến mất."
+    },
+    {
+      "segment_id": "0062",
+      "source": "“嗯？”",
+      "target": "“Hử?”"
+    },
+    {
+      "segment_id": "0063",
+      "source": "没有多久，青衫一闪，那位青公子同样来到巷口：“发现了？”",
+      "target": "Không lâu sau, thanh sam lướt qua, vị Thanh công tử kia cũng đi tới đầu hẻm: “Phát hiện rồi sao?”"
+    },
+    {
+      "segment_id": "0064",
+      "source": "祂艺高人胆大，却是不闪不避，直接追了过去。",
+      "target": "Y cậy tài cao gan lớn, lại không thèm né tránh, cứ thế trực tiếp đuổi theo."
+    },
+    {
+      "segment_id": "0065",
+      "source": "巷子很短，一下就到了尽头，却是一条绝路。",
+      "target": "Con hẻm rất ngắn, thoắt cái đã đến cuối đường, lại là ngõ cụt."
+    },
+    {
+      "segment_id": "0066",
+      "source": "“贼子，吃我一爪！”",
+      "target": "“Tặc tử, ăn của ta một trảo!”"
+    },
+    {
+      "segment_id": "0067",
+      "source": "嗖！",
+      "target": "Vút!"
+    },
+    {
+      "segment_id": "0068",
+      "source": "衣袂破空之声自背后响起，带着大喝。",
+      "target": "Tiếng xé gió của vạt áo vang lên từ phía sau, kèm theo một tiếng quát lớn."
+    },
+    {
+      "segment_id": "0069",
+      "source": "对于意图不轨者，方元自然不会有什么好脸色，准备直接打发了。",
+      "target": "Đối với kẻ có ý đồ bất chính, tự nhiên Phương Nguyên sẽ không để lại sắc mặt tốt gì, chuẩn bị ra tay đuổi cổ luôn."
+    },
+    {
+      "segment_id": "0070",
+      "source": "“呵呵……白痴，哪有偷袭之前还自曝位置的！”",
+      "target": "“Ha ha... Đồ ngốc, làm gì có chuyện trước khi đánh lén còn tự bộc lộ vị trí chứ!”"
+    },
+    {
+      "segment_id": "0071",
+      "source": "青公子轻笑一声，手上的折扇蓦然合并，看也不看地向身后一点：“飞燕穿云击！”",
+      "target": "Thanh công tử cười khẽ một tiếng, chiếc quạt xếp trên tay bỗng nhiên gập lại, nhìn cũng không nhìn liền điểm về phía sau: “Phi Yến Xuyên Vân Kích!”"
+    },
+    {
+      "segment_id": "0072",
+      "source": "嗤！",
+      "target": "Xuy!"
+    },
+    {
+      "segment_id": "0073",
+      "source": "纵然一柄普通的折扇，此时在祂手上，却是如同真正的利刃一般，刺破空气，发出嗤嗤声响，没入一团黑影中。",
+      "target": "Cho dù là một chiếc quạt xếp bình thường, lúc này ở trong tay y lại giống hệt như một thanh lợi nhận chân chính, đâm rách không khí, phát ra âm thanh xuy xuy, găm vào trong một đoàn bóng đen."
+    },
+    {
+      "segment_id": "0074",
+      "source": "噗！",
+      "target": "Phốc!"
+    },
+    {
+      "segment_id": "0075",
+      "source": "黑影毫无阻碍地被破开个大洞，但那种出错力的不妙感觉，却是蓦然浮现在青公子的心头。",
+      "target": "Bóng đen không hề bị ngăn cản chút nào mà bị đâm thủng một lỗ lớn, nhưng cảm giác không ổn như dùng sai sức lực lại đột nhiên hiện lên trong lòng Thanh công tử."
+    },
+    {
+      "segment_id": "0076",
+      "source": "“不好！”",
+      "target": "“Không ổn!”"
+    },
+    {
+      "segment_id": "0077",
+      "source": "祂几乎是下意识地暴退，手上折扇护住全身。",
+      "target": "Y gần như thối lui về sau theo bản năng, chiếc quạt xếp trên tay bảo vệ toàn thân."
+    },
+    {
+      "segment_id": "0078",
+      "source": "奈何一步错，步步错。",
+      "target": "Ngặt nỗi sai một ly, đi một dặm."
+    },
+    {
+      "segment_id": "0079",
+      "source": "之前一击不中，已经令祂失去先手！",
+      "target": "Đòn tấn công lúc trước không trúng mục tiêu đã khiến y đánh mất tiên cơ!"
+    },
+    {
+      "segment_id": "0080",
+      "source": "嗤嗤！",
+      "target": "Xuy xuy!"
+    },
+    {
+      "segment_id": "0081",
+      "source": "利爪破空，对方的攻击几乎是下一瞬间就出现在了眼前，劲风扑面，凌厉狠辣到了极点。",
+      "target": "Lợi trảo xé gió, đòn công kích của đối phương gần như xuất hiện ngay trước mắt ở khoảnh khắc tiếp theo. Kình phong ập vào mặt, vô cùng lăng lệ và tàn nhẫn."
+    },
+    {
+      "segment_id": "0082",
+      "source": "“好！”",
+      "target": "“Hay!”"
+    },
+    {
+      "segment_id": "0083",
+      "source": "青公子面对这个，脸上不惊反喜，脚下如踏莲步，于间不容发间暴退数丈，一下拉开距离：“好鹰爪，纵然比起余秋冷，也只是差了几分火候罢了！你是谁的弟子？”",
+      "target": "Thanh công tử đối mặt với đòn này, trên mặt không kinh sợ mà còn mừng rỡ. Dưới chân y như đạp liên bộ, thối lui lại vài trượng trong khoảnh khắc ngàn cân treo sợi tóc, lập tức kéo giãn khoảng cách: “Ưng trảo tốt lắm, cho dù so với Dư Thu Lãnh thì cũng chỉ kém vài phần hỏa hầu mà thôi! Ngươi là đệ tử của ai?”"
+    },
+    {
+      "segment_id": "0084",
+      "source": "能有着这样的武功，必是名家子弟。",
+      "target": "Người có thể luyện được võ công như vậy, chắc chắn là con cháu danh gia."
+    },
+    {
+      "segment_id": "0085",
+      "source": "“奈何你功力尚浅，才第四层的鹰爪铁布衫吧？我可是破了五关的高手啊！”",
+      "target": "“Tiếc là công lực của ngươi còn nông cạn, mới là Ưng Trảo Thiết Bố Sam tầng thứ tư thôi chứ gì? Ta chính là cao thủ đã phá ải thứ năm đấy!”"
+    },
+    {
+      "segment_id": "0086",
+      "source": "青公子挺起胸膛，有些傲娇满满地宣布。",
+      "target": "Thanh công tử ưỡn ngực, có vẻ vô cùng tự kiêu mà tuyên bố."
+    },
+    {
+      "segment_id": "0087",
+      "source": "“白痴！”",
+      "target": "“Đồ ngốc!”"
+    },
+    {
+      "segment_id": "0088",
+      "source": "方元看着祂的眼睛，却是充满了怜悯与蔑视。",
+      "target": "Ánh mắt Phương Nguyên nhìn y lại tràn đầy vẻ thương hại và khinh miệt."
+    },
+    {
+      "segment_id": "0089",
+      "source": "这种一开战就将底牌泄漏给敌人的家伙，不是极度自信，就是傻子。",
+      "target": "Cái loại gia hỏa mới bắt đầu giao chiến đã tiết lộ bài tẩy cho kẻ địch, nếu không phải cực kỳ tự tin thì cũng là một tên ngốc."
+    },
+    {
+      "segment_id": "0090",
+      "source": "而很可惜，对方属于后一种！",
+      "target": "Mà đáng tiếc thay, đối phương lại thuộc vào loại sau!"
+    },
+    {
+      "segment_id": "0091",
+      "source": "“第五关高手，不出黑沙掌，有些难以拿下，但也仅仅是难点而已！”",
+      "target": "“Cao thủ ải thứ năm, nếu không dùng Hắc Sa Chưởng thì có hơi khó hạ gục, nhưng cũng chỉ là hơi khó một chút mà thôi!”"
+    },
+    {
+      "segment_id": "0092",
+      "source": "方元看了看鹰爪铁布衫的熟练度，嘴角略微勾起，蓦然长啸一声，猱身而上，双手接连抓出，爪风破空，连绵不绝。",
+      "target": "Phương Nguyên nhìn độ thục luyện của Ưng Trảo Thiết Bố Sam, khóe miệng hơi nhếch lên, đột ngột hú dài một tiếng, uyển chuyển tiến lên, hai tay liên tiếp cào ra. Trảo phong xé gió, liên miên không dứt."
+    },
+    {
+      "segment_id": "0093",
+      "source": "“等一等！”",
+      "target": "“Đợi một chút!”"
+    },
+    {
+      "segment_id": "0094",
+      "source": "青公子一边拆解，一边暗暗焦急：“这其中有着误会！”",
+      "target": "Thanh công tử vừa tháo gỡ chiêu thức, vừa âm thầm sốt ruột: “Trong chuyện này có hiểu lầm!”"
+    },
+    {
+      "segment_id": "0095",
+      "source": "天可怜见，祂只是想着搞一出监视跟踪的，怎么不知不觉就发展成为了生死相搏了？",
+      "target": "Trời cao thương xót, y chỉ nghĩ đến việc theo dõi giám sát một phen, sao không biết bất giác lại phát triển thành đánh nhau sống chết rồi thế này?"
+    },
+    {
+      "segment_id": "0096",
+      "source": "还有对面的那小子，居然是这种‘一言不合，血溅三尺’的性子，更是祂始料未及之事。",
+      "target": "Còn tên tiểu tử ở đối diện kia lại là cái tính cách ‘một lời không hợp là máu chảy năm bước’ như vậy, càng là chuyện y không ngờ tới từ đầu."
+    },
+    {
+      "segment_id": "0097",
+      "source": "“幸好……我内息远比他深厚，他如此狂风暴雨地疾攻，势不可久，等到他力竭之后，我便可以……”",
+      "target": "“Cũng may... Nội tức của ta thâm hậu hơn hắn rất nhiều, hắn đánh nhanh như cuồng phong bạo vũ thế này chắc chắn không thể kéo dài được bao lâu, chờ đến khi hắn kiệt sức, ta liền có thể...”"
+    },
+    {
+      "segment_id": "0098",
+      "source": "奈何，这青公子心里念头刚刚转动，却突然感觉对面的攻势一下狂暴了倍许！",
+      "target": "Nào ngờ, ý nghĩ trong lòng vị Thanh công tử này vừa mới xoay chuyển, lại đột nhiên cảm thấy thế công của đối diện chợt trở nên cuồng bạo hơn gấp bội!"
+    },
+    {
+      "segment_id": "0099",
+      "source": "“鹰爪铁布衫——第五层！怎么可能？”",
+      "target": "“Ưng Trảo Thiết Bố Sam —— Tầng thứ năm! Sao có thể chứ?”"
+    },
+    {
+      "segment_id": "0100",
+      "source": "武者相争，一线就是天差地别，更何况突然增加一倍的劲力？",
+      "target": "Võ giả tranh đấu, kém một đường là khác biệt một trời một vực, huống hồ lại còn đột ngột tăng kình lực lên gấp đôi?"
+    },
+    {
+      "segment_id": "0101",
+      "source": "青公子惊叫刚刚出口，就被爪风攻破防御，身体高高飞起，重重摔在了墙壁之上。",
+      "target": "Thanh công tử vừa cất tiếng kinh hô đã bị trảo phong công phá phòng ngự, cơ thể bay vút lên cao, ngã đập mạnh lên bức tường."
+    },
+    {
+      "segment_id": "0102",
+      "source": "“你……”",
+      "target": "“Ngươi...”"
+    },
+    {
+      "segment_id": "0103",
+      "source": "祂面色一白，一小口鲜血就喷了出来：“你不能杀我……”",
+      "target": "Sắc mặt y trắng nhợt, phun ra một búng máu tươi: “Ngươi không thể giết ta...”"
+    },
+    {
+      "segment_id": "0104",
+      "source": "“为什么？”",
+      "target": "“Tại sao?”"
+    },
+    {
+      "segment_id": "0105",
+      "source": "方元上前，随意打散祂的头冠，露出一头瀑布般的秀发：“就因为你是个……女人？”",
+      "target": "Phương Nguyên tiến lên, tùy ý đánh rơi phát quan của y, để lộ ra một mái tóc suôn mượt như thác nước: “Chỉ vì ngươi là... phụ nữ sao?”"
+    },
+    {
+      "segment_id": "0106",
+      "source": "“你发现了？”",
+      "target": "“Ngươi phát hiện rồi?”"
+    },
+    {
+      "segment_id": "0107",
+      "source": "青公子尖叫一声，连声音都变得越发清脆尖利起来。",
+      "target": "Thanh công tử hét lên một tiếng chói tai, ngay cả giọng nói cũng trở nên trong trẻo lanh lảnh hơn."
+    },
+    {
+      "segment_id": "0108",
+      "source": "“如此蹩脚的伪装，瞎子才看不出来！”",
+      "target": "“Lớp ngụy trang vụng về như vậy, chỉ có kẻ mù mới không nhìn ra!”"
+    },
+    {
+      "segment_id": "0109",
+      "source": "方元顿时非常无语：“你是何人？为何要跟踪我？四海阁与你有何关系？”",
+      "target": "Phương Nguyên lập tức vô cùng cạn lời: “Ngươi là người phương nào? Tại sao lại theo dõi ta? Tứ Hải Các có quan hệ thế nào với ngươi?”"
+    },
+    {
+      "segment_id": "0110",
+      "source": "“哼！”",
+      "target": "“Hừ!”"
+    },
+    {
+      "segment_id": "0111",
+      "source": "不知为何，这个青公子被揭破身份之后，又是有恃无恐起来，咬着牙一言不发。",
+      "target": "Không biết vì lý do gì, vị Thanh công tử này sau khi bị vạch trần thân phận lại trở nên có chỗ dựa mà không sợ hãi gì nữa, cắn chặt răng không nói một lời."
+    },
+    {
+      "segment_id": "0112",
+      "source": "“哦？”",
+      "target": "“Ồ?”"
+    },
+    {
+      "segment_id": "0113",
+      "source": "方元抓了抓手指，骨节发出爆响，带着坏笑上前：“小妞，我劝你最好还是识相点，否则……别以为我不会对付女人！”",
+      "target": "Phương Nguyên bẻ bẻ ngón tay, các khớp xương phát ra tiếng răng rắc, hắn nở nụ cười xấu xa tiến lên: “Tiểu nữu, ta khuyên ngươi tốt nhất vẫn nên biết điều một chút, nếu không... đừng tưởng rằng ta sẽ không ra tay với phụ nữ!”"
+    },
+    {
+      "segment_id": "0114",
+      "source": "他这幅模样，反而令青公子起了一丝惧色，眼泪都要下来了。",
+      "target": "Dáng vẻ này của hắn ngược lại làm cho Thanh công tử dâng lên một tia sợ hãi, nước mắt sắp rơi xuống."
+    }
+  ]
+}
+```

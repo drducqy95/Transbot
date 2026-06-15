@@ -1,0 +1,551 @@
+{
+  "schema_version": "2.0",
+  "chapter_id": "chapter_0034",
+  "segment_translations": [
+    {
+      "segment_id": "0001",
+      "source": "# 第34章 四海阁",
+      "target": "# Chương 34: Tứ Hải Các"
+    },
+    {
+      "segment_id": "0002",
+      "source": "“站住，例行检查！”",
+      "target": "\"Đứng lại, kiểm tra thường lệ!\""
+    },
+    {
+      "segment_id": "0003",
+      "source": "清河郡，西门。",
+      "target": "Thanh Hà quận, cổng tây."
+    },
+    {
+      "segment_id": "0004",
+      "source": "数名武者穿着归灵宗弟子服饰，神色不善地盯着每一个过往行人，对于有着车篷遮蔽的马车与牛车更是丝毫不放过，非要掀起细细查看，任凭使多少银子都没用，闹得一片鸡飞狗跳。",
+      "target": "Vài tên võ giả mặc trang phục đệ tử Quy Linh tông, ánh mắt bất thiện chằm chằm nhìn từng người qua đường. Đối với xe ngựa và xe bò có mui che, bọn chúng càng không bỏ qua, một mực phải xốc lên xem xét tỉ mỉ, mặc kệ ném bao nhiêu bạc cũng vô dụng, náo loạn đến mức gà bay chó sủa."
+    },
+    {
+      "segment_id": "0005",
+      "source": "牛车缓缓驶近，周文武看着这一幕，浑身却是渐渐紧张起来。",
+      "target": "Xe bò chậm rãi tiến đến gần, Chu Văn Vũ nhìn cảnh này, toàn thân dần dần căng thẳng lên."
+    },
+    {
+      "segment_id": "0006",
+      "source": "这种严格的搜查，他自问无法隐瞒，那就必然要大打出手。",
+      "target": "Với kiểu soát xét gắt gao thế này, hắn tự vấn không cách nào che giấu được, vậy tất nhiên là phải động thủ đánh nhau rồi."
+    },
+    {
+      "segment_id": "0007",
+      "source": "幸好惊鸿几瞥之下，发现宋中并未在此处，令他很是松了一口长气。",
+      "target": "May mà vội liếc nhìn vài cái, phát hiện Tống Trung không có ở đây, khiến hắn thở phào nhẹ nhõm một hơi dài."
+    },
+    {
+      "segment_id": "0008",
+      "source": "在归灵宗招牌的高压之下，入城者自然不敢违抗，诸多女眷被从马车中被揪出，都是面色羞红，以扇袖掩面，旁边的男丁青筋暴起。",
+      "target": "Dưới sức ép mạnh mẽ của bảng hiệu Quy Linh tông, những người vào thành tự nhiên không dám chống đối. Rất nhiều nữ quyến bị lôi ra từ trong xe ngựa, ai nấy đều đỏ mặt xấu hổ, lấy tay áo che mặt, đám nam đinh bên cạnh nổi gân xanh đầy người."
+    },
+    {
+      "segment_id": "0009",
+      "source": "即使速度很慢，但漫长的队伍缓缓前行，不久后也是轮到了方元。",
+      "target": "Dù tốc độ rất chậm, nhưng hàng dài lê thê vẫn dần tiến lên, không lâu sau cũng đến lượt Phương Nguyên."
+    },
+    {
+      "segment_id": "0010",
+      "source": "“牛车里面是你妻子还是女儿？叫出来让爷瞅瞅！”",
+      "target": "\"Trong xe bò là vợ hay con gái ngươi? Kêu ra cho gia nhìn xem nào!\""
+    },
+    {
+      "segment_id": "0011",
+      "source": "一名三角眼的弟子笑着，眼中就冒出淫邪之色来，轻佻地上前，要掀起车帘。",
+      "target": "Một tên đệ tử mắt tam giác cười rộ lên, trong mắt lộ ra vẻ dâm tà, bỡn cợt tiến lên định vén rèm xe."
+    },
+    {
+      "segment_id": "0012",
+      "source": "“呵呵……”",
+      "target": "\"Ha ha...\""
+    },
+    {
+      "segment_id": "0013",
+      "source": "方元一听，顿时有些忍俊不禁，看向马车之内的眼神中也带着戏谑。",
+      "target": "Phương Nguyên vừa nghe, lập tức có chút nhịn không được cười, ánh mắt nhìn vào trong xe ngựa cũng mang theo vẻ cợt nhả."
+    },
+    {
+      "segment_id": "0014",
+      "source": "“你笑什么？”",
+      "target": "\"Ngươi cười cái gì?\""
+    },
+    {
+      "segment_id": "0015",
+      "source": "感觉受到奚落的三角眼手已经按上刀柄。",
+      "target": "Cảm thấy bị chế nhạo, tên mắt tam giác lập tức đặt tay lên chuôi đao."
+    },
+    {
+      "segment_id": "0016",
+      "source": "“你是宋中的人？我笑你死到临头还不自知，岂非白痴？”",
+      "target": "\"Ngươi là người của Tống Trung sao? Ta cười ngươi chết đến nơi rồi mà còn không tự biết, há chẳng phải là tên ngu ngốc sao?\""
+    },
+    {
+      "segment_id": "0017",
+      "source": "方元摇摇头，右手五指张开，以迅雷不及掩耳之势抓出。",
+      "target": "Phương Nguyên lắc đầu, năm ngón tay phải mở ra, vồ tới với thế sét đánh không kịp bưng tai."
+    },
+    {
+      "segment_id": "0018",
+      "source": "咔嚓！咯咧！",
+      "target": "Rắc! Cạch!"
+    },
+    {
+      "segment_id": "0019",
+      "source": "在清脆的响声当中，这名三角眼就捂着手臂，满脸痛苦地倒在了地上。",
+      "target": "Trong tiếng vang giòn giã, tên mắt tam giác ôm lấy cánh tay, vẻ mặt đầy đau đớn ngã xuống đất."
+    },
+    {
+      "segment_id": "0020",
+      "source": "“鹰爪功？”",
+      "target": "\"Ưng Trảo Công?\""
+    },
+    {
+      "segment_id": "0021",
+      "source": "旁边几名归灵宗弟子互相对视一眼，在一名绿袍青年的率领之下，并肩冲了过来：“一起上！”",
+      "target": "Mấy tên đệ tử Quy Linh tông bên cạnh liếc nhìn nhau, dưới sự dẫn dắt của một thanh niên mặc áo bào xanh, liền sóng vai xông lên: \"Cùng lên!\""
+    },
+    {
+      "segment_id": "0022",
+      "source": "蓬蓬！",
+      "target": "Bịch! Bịch!"
+    },
+    {
+      "segment_id": "0023",
+      "source": "方元深吸口气，皮肤上泛起一种青黑的色泽来，完全不闪不避，上前强打硬攻。",
+      "target": "Phương Nguyên hít sâu một hơi, trên da dẻ nổi lên một tầng màu xanh đen, hoàn toàn không né không tránh, tiến lên nghênh đón đánh bạo."
+    },
+    {
+      "segment_id": "0024",
+      "source": "在特意避开刀剑之后，其它拳脚与钝器攻击落在他身上，根本就不痛不痒，与挠痒痒差不多。",
+      "target": "Sau khi cố ý tránh né đao kiếm, những cú đấm đá cùng công kích vũ khí cùn khác giáng lên người hắn hoàn toàn không đau không ngứa, chẳng khác nào gãi ngứa."
+    },
+    {
+      "segment_id": "0025",
+      "source": "反倒是他双爪抓出，每次必有一名弟子惨呼倒下。",
+      "target": "Trái lại, hai trảo của hắn mỗi lần xuất ra, chắc chắn có một đệ tử kêu thảm ngã gục."
+    },
+    {
+      "segment_id": "0026",
+      "source": "这情形，顿时就令城门一阵大乱，一些官兵与更多的归灵宗弟子跑了过来。",
+      "target": "Cảnh tượng này lập tức khiến cho cổng thành trở nên đại loạn, một số quan binh cùng với càng nhiều đệ tử Quy Linh tông chạy tới."
+    },
+    {
+      "segment_id": "0027",
+      "source": "“周文武，看你的了！”",
+      "target": "\"Chu Văn Vũ, xem ngươi đó!\""
+    },
+    {
+      "segment_id": "0028",
+      "source": "方元冷喝一声，身影几个转折，顿时没入城门，消失不见。",
+      "target": "Phương Nguyên quát lạnh một tiếng, thân ảnh ngoặt vài cái liền lập tức lẩn vào cổng thành, biến mất dạng."
+    },
+    {
+      "segment_id": "0029",
+      "source": "“我乃归灵宗外门执事周通之子！”",
+      "target": "\"Ta là con trai của ngoại môn chấp sự Quy Linh tông Chu Thông!\""
+    },
+    {
+      "segment_id": "0030",
+      "source": "周文武站了出来，高高举着一面铁令：“有宗门令牌为证，特来举报长老宋中，杀我全家老少七十三口！还望宗门为我做主！”",
+      "target": "Chu Văn Vũ đứng ra, giơ cao một tấm lệnh bài bằng sắt: \"Có lệnh bài tông môn làm chứng, đặc biệt đến đây vạch trần trưởng lão Tống Trung đã tàn sát bảy mươi ba mạng già trẻ lớn bé của cả nhà ta! Mong tông môn làm chủ cho ta!\""
+    },
+    {
+      "segment_id": "0031",
+      "source": "他最后几句，几乎是声嘶力竭，满场可闻，倒在地上的那些宋中弟子听了，更是面如土色。",
+      "target": "Mấy câu cuối cùng hắn gần như là gào khản cả giọng, ai ở đó cũng đều có thể nghe thấy. Những đệ tử của Tống Trung đang ngã dưới đất nghe vậy sắc mặt liền xám xịt."
+    },
+    {
+      "segment_id": "0032",
+      "source": "纵然宋中实力再强，在清河郡也不可能一手遮天，现在被苦主当面喊出来，必然会惊动宗门。",
+      "target": "Cho dù Tống Trung có thực lực mạnh hơn nữa thì ở Thanh Hà quận cũng không có khả năng một tay che trời. Giờ bị người bị hại công khai kêu gào trước mặt bao người, chắc chắn sẽ kinh động tông môn."
+    },
+    {
+      "segment_id": "0033",
+      "source": "“果然是周贤侄！”",
+      "target": "\"Quả nhiên là Chu hiền điệt!\""
+    },
+    {
+      "segment_id": "0034",
+      "source": "不久，一队归灵宗弟子就簇拥着一名白发老者赶来，望着周文武，连忙安慰道：“贤侄放心，我归灵宗必不会放过残杀手足的败类！”",
+      "target": "Không lâu sau, một đội đệ tử Quy Linh tông xúm xít bao quanh một lão giả tóc bạc trắng vội vã đi tới, nhìn Chu Văn Vũ, vội vàng an ủi: \"Hiền điệt yên tâm, Quy Linh tông ta nhất định sẽ không buông tha cho hạng cặn bã tàn sát đồng môn!\""
+    },
+    {
+      "segment_id": "0035",
+      "source": "他冷冷瞥了一眼地上的宋中弟子，一挥手：“抓起来！”",
+      "target": "Lão lạnh lùng liếc nhìn đám đệ tử Tống Trung trên đất, phất tay: \"Bắt lại!\""
+    },
+    {
+      "segment_id": "0036",
+      "source": "登时就有诸多弟子上前，拿出水牛皮编织成的粗绳，将他们厚厚实实地捆起。",
+      "target": "Ngay lập tức có rất nhiều đệ tử bước lên, lấy sợi dây thừng to làm từ da trâu bện lại, trói nghiến chúng lại một cách chắc chắn."
+    },
+    {
+      "segment_id": "0037",
+      "source": "“薛叔叔，还望您一定要为我主持公道啊！”",
+      "target": "\"Tiết thúc thúc, mong ngài nhất định phải lấy lại công bằng cho cháu!\""
+    },
+    {
+      "segment_id": "0038",
+      "source": "周文武完全本色演出，眼睛中就流下热泪。",
+      "target": "Chu Văn Vũ diễn xuất y như thật, trong mắt rưng rưng lệ nóng."
+    },
+    {
+      "segment_id": "0039",
+      "source": "实际上，在他心底，一阵冷意散发而出，透骨入髓。",
+      "target": "Thực tế, trong lòng hắn một luồng hơi lạnh đã tỏa ra, lạnh thấu xương tủy."
+    },
+    {
+      "segment_id": "0040",
+      "source": "青叶城之事宗门岂会真的不知？自己这一系的长老却任凭宋中门人弟子在此耀武扬威，非得等自己出现才现身，这就是故意要将事情闹大，以此给宗主压力。",
+      "target": "Sự việc ở Thanh Diệp thành làm sao tông môn lại thực sự không biết? Trưởng lão phe cánh của mình lại mặc cho môn nhân đệ tử của Tống Trung diễu võ giương oai ở đây, phải đợi mình xuất hiện thì mới lộ diện. Rõ ràng là cố ý làm lớn chuyện để tạo áp lực cho tông chủ."
+    },
+    {
+      "segment_id": "0041",
+      "source": "而宗主大人却是稳坐钓鱼台，推波助澜。",
+      "target": "Còn tông chủ đại nhân lại ngồi vững điếu ngư đài, đổ thêm dầu vào lửa."
+    },
+    {
+      "segment_id": "0042",
+      "source": "整个归灵宗，就仿佛一只张开大口，将他缓缓吞噬的巨兽！",
+      "target": "Cả Quy Linh tông tựa như một con cự thú há cái miệng rộng ngoác, từ từ cắn nuốt lấy hắn!"
+    },
+    {
+      "segment_id": "0043",
+      "source": "“对了，那护送贤侄前来的义士呢？”",
+      "target": "\"Đúng rồi, vị nghĩa sĩ hộ tống hiền điệt đến đây đâu rồi?\""
+    },
+    {
+      "segment_id": "0044",
+      "source": "薛长老把了把周文武的脉搏，脸上浮现出一丝诧异之色，又问道。",
+      "target": "Tiết trưởng lão bắt mạch cho Chu Văn Vũ, trên mặt thoáng hiện một tia ngạc nhiên, lại hỏi."
+    },
+    {
+      "segment_id": "0045",
+      "source": "“方兄？或许他自己走了吧……”",
+      "target": "\"Phương huynh? Có lẽ huynh ấy tự mình đi rồi...\""
+    },
+    {
+      "segment_id": "0046",
+      "source": "周文武深知方元不愿趟浑水的心理，此时就道：“宗主在何处？我要立即面见宗主！”",
+      "target": "Chu Văn Vũ biết rất rõ tâm lý không muốn chuốc lấy rắc rối của Phương Nguyên, lúc này liền nói: \"Tông chủ đang ở đâu? Ta muốn lập tức gặp tông chủ!\""
+    },
+    {
+      "segment_id": "0047",
+      "source": "“这个自然，不过在此之前，先见见我们这一脉的寒长老！他老人家已经等候你多时了！”",
+      "target": "\"Chuyện này đương nhiên, nhưng trước đó, đi gặp Hàn trưởng lão của nhất mạch chúng ta đã! Ngài ấy đã đợi cháu từ lâu rồi!\""
+    },
+    {
+      "segment_id": "0048",
+      "source": "薛长老抓着周文武的胳膊，力气之大，纵然他身上无伤之时，也绝难以逃脱过去。",
+      "target": "Tiết trưởng lão tóm lấy cánh tay Chu Văn Vũ, lực tay rất lớn, dù cho lúc hắn không bị thương thì tuyệt đối cũng khó mà vùng vẫy thoát ra được."
+    },
+    {
+      "segment_id": "0049",
+      "source": "“好吧！”",
+      "target": "\"Được rồi!\""
+    },
+    {
+      "segment_id": "0050",
+      "source": "周文武苦笑一声，应答道。",
+      "target": "Chu Văn Vũ cười khổ một tiếng, đáp lại."
+    },
+    {
+      "segment_id": "0051",
+      "source": "……",
+      "target": "..."
+    },
+    {
+      "segment_id": "0052",
+      "source": "人群之中，默默看着这一幕的方元心里一凜，又飞快随着人流散开。",
+      "target": "Giữa đám đông, Phương Nguyên âm thầm nhìn chằm chằm một màn này mà trong lòng chấn động, nhanh chóng hòa theo dòng người tản ra."
+    },
+    {
+      "segment_id": "0053",
+      "source": "“果然……此时的归灵宗，内部的竞争已经到了白热化阶段，纵然周文武这时入局，也是被双方当成棋子，不能自己！”",
+      "target": "\"Quả nhiên... Trong nội bộ Quy Linh tông lúc này cạnh tranh đã đến giai đoạn căng thẳng cực điểm. Dù Chu Văn Vũ có bị kéo vào vòng xoáy vào lúc này thì cũng chỉ bị hai phe biến thành quân cờ, thân bất do kỷ!\""
+    },
+    {
+      "segment_id": "0054",
+      "source": "他自然不愿意落到这个下场，因此制造混乱，吸引来注意之后，就飞快遁走。",
+      "target": "Hắn tự nhiên không muốn rơi vào kết cục này, cho nên sau khi tạo ra sự hỗn loạn, hấp dẫn sự chú ý, liền nhanh chóng trốn thoát."
+    },
+    {
+      "segment_id": "0055",
+      "source": "连周文武这个嫡系都是身不由己的待遇，还想他这个外人能如何？",
+      "target": "Đến cả Chu Văn Vũ, một kẻ thuộc dòng chính mà cũng thân bất do kỷ thì hắn, một người ngoài, còn mong đợi được điều gì?"
+    },
+    {
+      "segment_id": "0056",
+      "source": "“不过这次宋中有错在先，极难过关，要是直接被处决，那真是省了我不少事情了……”",
+      "target": "\"Nhưng lần này Tống Trung đã sai trước, rất khó qua ải, nếu như bị xử tử trực tiếp thì thực sự tiết kiệm cho ta không ít phiền toái...\""
+    },
+    {
+      "segment_id": "0057",
+      "source": "在一处阴暗角落中，方元略微改头换面，旋即就大摇大摆地走在郡城街道之上。",
+      "target": "Tại một góc tối, Phương Nguyên sửa sang qua loa lại vẻ bề ngoài, ngay lập tức lại nghênh ngang bước đi trên đường phố quận thành."
+    },
+    {
+      "segment_id": "0058",
+      "source": "之前城门的骚乱持续并不久，城内更是没有多少察觉，仍是一片繁华喧嚣的场面。",
+      "target": "Sự náo loạn ở cổng thành vừa nãy không kéo dài bao lâu, người ở trong thành càng không mảy may hay biết gì, cảnh tượng ở đây vẫn vô cùng sầm uất nhộn nhịp."
+    },
+    {
+      "segment_id": "0059",
+      "source": "与青叶城相比，这里更是多了三三两两的武者，连女子中亦有挎刀之人，令方元不由多注意了两眼。",
+      "target": "So với Thanh Diệp thành, nơi này còn có thêm rất nhiều nhóm võ giả đi cùng nhau. Thậm chí trong nữ nhân cũng có người mang đao, khiến Phương Nguyên không khỏi chú ý thêm vài phần."
+    },
+    {
+      "segment_id": "0060",
+      "source": "这个世界上当然有那种大门不出，二门不迈的大家闺秀，但女子若是习武，当中也有不少强者。",
+      "target": "Trên thế giới này đương nhiên có những khuê nữ thế gia đại môn bất xuất, nhị môn bất mại. Nhưng nữ tử mà tập võ thì cũng không thiếu những kẻ mạnh mẽ."
+    },
+    {
+      "segment_id": "0061",
+      "source": "就比如那位归灵宗的武宗，似乎也是女子之身，在清河郡内大有名气。",
+      "target": "Giống như vị Vũ Tông của Quy Linh tông kia, dường như cũng là thân nhi nữ, thanh danh lừng lẫy trong khắp Thanh Hà quận."
+    },
+    {
+      "segment_id": "0062",
+      "source": "“这次来郡城，主要就是将周文武这个炸弹送来，其次就是搜集更多的灵种、最好还要获得有关灵地的资料……”",
+      "target": "\"Lần này tới quận thành, chủ yếu là mang trái bom nổ chậm Chu Văn Vũ này tới đây, thứ hai là để thu thập thêm nhiều linh chủng, tốt nhất là tìm được tư liệu liên quan đến linh địa...\""
+    },
+    {
+      "segment_id": "0063",
+      "source": "方元难得出一次远门，如今好不容易到了郡城之内，自然不想就这么离开。",
+      "target": "Khó khăn lắm mới được đi xa một chuyến, giờ lại còn vất vả mới đến được quận thành, đương nhiên Phương Nguyên không muốn rời đi tay không như thế này."
+    },
+    {
+      "segment_id": "0064",
+      "source": "并且，也需要打探动静，知道宋中最后下场。",
+      "target": "Đồng thời hắn cũng cần dò la tin tức, để biết xem rốt cuộc kết cục của Tống Trung thế nào."
+    },
+    {
+      "segment_id": "0065",
+      "source": "“奈何灵种难寻，灵地之秘，更非是一般店铺能够有着，不过我一家家找过去，总该有着一点收获才是……”",
+      "target": "\"Khốn nỗi linh chủng rất khó tìm, bí mật của linh địa càng không phải là thứ mà các cửa hàng bình thường có được, có điều ta tìm từng nhà, hẳn là cũng thu thập được chút đỉnh...\""
+    },
+    {
+      "segment_id": "0066",
+      "source": "他看了看周围，就见一座巨大的阁楼屹立于街道中心，大门行人熙攘，显然生意很是不错。",
+      "target": "Hắn liếc nhìn xung quanh, liền thấy một tòa lầu gác khổng lồ sừng sững giữa khu trung tâm đường phố, ngoài cửa đông đúc người qua lại, hiển nhiên làm ăn vô cùng phát đạt."
+    },
+    {
+      "segment_id": "0067",
+      "source": "“四海阁？”",
+      "target": "\"Tứ Hải Các?\""
+    },
+    {
+      "segment_id": "0068",
+      "source": "方元念叨了两句，直接跨入门扉。",
+      "target": "Phương Nguyên lẩm nhẩm hai câu, đi thẳng vào cửa."
+    },
+    {
+      "segment_id": "0069",
+      "source": "“这位爷，您有何吩咐？”",
+      "target": "\"Vị gia này, ngài có dặn dò gì không?\""
+    },
+    {
+      "segment_id": "0070",
+      "source": "刚一进门，一位小二就满脸堆笑地上前，丝毫不因为方元衣着普通而有着鄙夷。",
+      "target": "Vừa bước vào, một tiểu nhị nở nụ cười nịnh bợ tiến lên, không hề tỏ ý khinh miệt dù Phương Nguyên chỉ mặc y phục đơn giản."
+    },
+    {
+      "segment_id": "0071",
+      "source": "“我是外地来的，你们这里，主要卖什么？”",
+      "target": "\"Ta ở từ nơi khác đến, chỗ này của các ngươi chủ yếu bán những gì?\""
+    },
+    {
+      "segment_id": "0072",
+      "source": "方元四下打量，眸子里略微带着好奇。",
+      "target": "Phương Nguyên đảo mắt nhìn một vòng, ánh mắt thoáng chút tò mò."
+    },
+    {
+      "segment_id": "0073",
+      "source": "“爷您真是慧眼如炬，咱们四海阁，就是整个清河郡最大的卖场，从杂物百货、到秘笈兵器、乃至情报武功，我们无所不卖，也无所不收！”",
+      "target": "\"Gia, ngài quả là có con mắt tinh tường. Tứ Hải Các ta chính là cửa hàng lớn nhất của toàn Thanh Hà quận. Từ tạp hóa bách hoá, tới bí kíp binh khí, thậm chí là võ công tình báo, cái gì cũng bán, và cái gì cũng mua!\""
+    },
+    {
+      "segment_id": "0074",
+      "source": "小二骄傲地回答道。",
+      "target": "Tiểu nhị tự hào đáp lại."
+    },
+    {
+      "segment_id": "0075",
+      "source": "“哦？！”",
+      "target": "\"Ồ?!\""
+    },
+    {
+      "segment_id": "0076",
+      "source": "方元眉毛一掀，知道若这个小二没有说谎的话，这个四海阁八成就有官方背景，或者干脆就是归灵宗的马甲。",
+      "target": "Phương Nguyên nhíu mày, biết nếu tên tiểu nhị này không nói dối, tám phần mười thì Tứ Hải Các này cũng có chỗ dựa từ phía nhà nước, hoặc đơn giản chính là một cái vỏ bọc của Quy Linh tông."
+    },
+    {
+      "segment_id": "0077",
+      "source": "否则，敢在此城中说这种大话的，真当归灵宗会饶过不成？",
+      "target": "Nếu không, đám người dám buông lời ngang ngược trong tòa thành này, làm sao mà Quy Linh tông chịu bỏ qua cho dễ thế?"
+    },
+    {
+      "segment_id": "0078",
+      "source": "“当真什么都卖？”",
+      "target": "\"Sự thật cái gì cũng bán sao?\""
+    },
+    {
+      "segment_id": "0079",
+      "source": "“爷说笑了，世上奇珍如此多，若你真的说几样传说中的东西，那本阁还真没有，但整个清河郡内，若是连我们这里都没有的话，爷您也不必向其它地方寻了！”",
+      "target": "\"Gia, ngài đùa rồi. Thế gian này vô vàn kỳ trân, nếu ngài nói một số thứ chỉ tồn tại trong truyền thuyết, thế thì bản các thật sự không có. Thế nhưng, trong toàn Thanh Hà quận, nếu ngay ở chỗ chúng ta đây mà không có thì ngài cũng không cần phải tìm nơi nào khác đâu!\""
+    },
+    {
+      "segment_id": "0080",
+      "source": "小二微微一笑，端的是牙尖嘴利。",
+      "target": "Tiểu nhị cười mỉm, miệng lưỡi sắc bén, khéo léo nói."
+    },
+    {
+      "segment_id": "0081",
+      "source": "“也是……”",
+      "target": "\"Cũng đúng...\""
+    },
+    {
+      "segment_id": "0082",
+      "source": "方元听了，心里却是不由升起一线希望来：“我想要灵种，不知你们这里有没有？”",
+      "target": "Phương Nguyên nghe vậy, trong lòng không khỏi le lói chút hy vọng: \"Ta muốn linh chủng, không biết ở đây có hay không?\""
+    },
+    {
+      "segment_id": "0083",
+      "source": "“灵种？”",
+      "target": "\"Linh chủng?\""
+    },
+    {
+      "segment_id": "0084",
+      "source": "小二有些倒抽凉气：“这东西可不便宜啊！”",
+      "target": "Tiểu nhị hơi hít vào một ngụm khí lạnh: \"Đồ chơi này cũng không phải rẻ đâu!\""
+    },
+    {
+      "segment_id": "0085",
+      "source": "“嗯？”",
+      "target": "\"Hử?\""
+    },
+    {
+      "segment_id": "0086",
+      "source": "方元有些惊喜：“真的有？”",
+      "target": "Phương Nguyên hơi ngạc nhiên và vui mừng: \"Thật sự là có ư?\""
+    },
+    {
+      "segment_id": "0087",
+      "source": "此郡归灵宗之内，似乎就有一小块灵地，专门种植各色灵物，若有流传出来，也并非什么不可思议之事。",
+      "target": "Quận này nằm trong phạm vi thế lực của Quy Linh tông, trong tông hình như có một khối linh địa rất nhỏ, chuyên dùng để trồng đủ loại linh vật. Nếu có bị truyền ra bên ngoài cũng không phải việc gì đáng để thắc mắc cả."
+    },
+    {
+      "segment_id": "0088",
+      "source": "毕竟，上次林员外就能给他搞到一瓶红玉稻种，这四海阁应当也不会让他失望才是。",
+      "target": "Dù sao thì lần trước Lâm viên ngoại cũng có thể giúp hắn kiếm được một bình lúa giống Hồng Ngọc, Tứ Hải Các này hẳn là cũng sẽ không khiến hắn phải thất vọng."
+    },
+    {
+      "segment_id": "0089",
+      "source": "“爷真要买灵种？”",
+      "target": "\"Gia thật muốn mua linh chủng?\""
+    },
+    {
+      "segment_id": "0090",
+      "source": "小二脸上却是显得有些迟疑。",
+      "target": "Trên mặt tên tiểu nhị lại có vẻ do dự."
+    },
+    {
+      "segment_id": "0091",
+      "source": "“放心，你当我付不起钱么？”",
+      "target": "\"Yên tâm đi, ngươi sợ ta không trả nổi tiền sao?\""
+    },
+    {
+      "segment_id": "0092",
+      "source": "方元见到他的模样，顿时一笑，随手甩出一枚金叶子：“带我去！”",
+      "target": "Phương Nguyên thấy bộ dạng hắn, liền phì cười, tiện tay ném một chiếc lá vàng ròng: \"Đưa ta đi!\""
+    },
+    {
+      "segment_id": "0093",
+      "source": "这次外出，他将谷内金银都带在身上，就是以防不时之需的，毕竟购买灵种与灵地资料，怎么看都是一大笔支出。",
+      "target": "Chuyến này đi ra ngoài, hắn đem hết toàn bộ vàng bạc trong cốc mang theo bên người, chính là để đề phòng lúc cần tới. Bất luận thế nào, việc mua linh chủng và tư liệu về linh địa thì kiểu gì cũng tốn một số tiền khổng lồ."
+    },
+    {
+      "segment_id": "0094",
+      "source": "“好嘞！”",
+      "target": "\"Được ngay!\""
+    },
+    {
+      "segment_id": "0095",
+      "source": "小二眼睛一亮：“这位爷里边请！”",
+      "target": "Tiểu nhị sáng rực mắt lên: \"Vị gia này, xin mời đi lối trong!\""
+    },
+    {
+      "segment_id": "0096",
+      "source": "四海阁内部，又是诸多分开的包厢，等到跨过一道门帘之后，外界的喧嚣顿时被隔绝。",
+      "target": "Bên trong Tứ Hải Các là rất nhiều gian phòng riêng lẻ. Đợi đến lúc vén rèm cửa lên, bên ngoài mọi ồn ào đều bị cách ly hoàn toàn."
+    },
+    {
+      "segment_id": "0097",
+      "source": "“甲字十三号客厅！”",
+      "target": "\"Phòng khách số mười ba chữ Giáp!\""
+    },
+    {
+      "segment_id": "0098",
+      "source": "这小二将方元带到一个大厅内，旋即躬身退开。",
+      "target": "Tên tiểu nhị này dẫn Phương Nguyên vào một sảnh lớn, sau đó cung kính lui xuống."
+    },
+    {
+      "segment_id": "0099",
+      "source": "没有多久，两个巧笑嫣然的丫鬟就上前，恭请方元坐下，又布置了茶水果盘。",
+      "target": "Không lâu sau, hai người nha hoàn nét mặt tươi cười xinh xắn bước đến, cung kính mời Phương Nguyên ngồi xuống, lại bày trà nước, đĩa trái cây."
+    },
+    {
+      "segment_id": "0100",
+      "source": "“这待遇，是又上升了一层么？”",
+      "target": "\"Cái đãi ngộ này, có phải được tăng thêm một bậc không?\""
+    },
+    {
+      "segment_id": "0101",
+      "source": "方元有些哭笑不得地想着，旋即就看到一名员外般的老者走进，向他恭敬一礼：“老朽钱复生，忝为四海阁掌柜，这位客人想要求取灵种？”",
+      "target": "Phương Nguyên dở khóc dở cười nghĩ thầm, ngay lập tức nhìn thấy một lão giả dáng vẻ viên ngoại bước vào, cung kính thi lễ với hắn: \"Lão hủ Tiền Phục Sinh, là chưởng quỹ của Tứ Hải Các. Vị khách này muốn tìm mua linh chủng?\""
+    },
+    {
+      "segment_id": "0102",
+      "source": "“正是，你这有什么？价格好商量！”",
+      "target": "\"Đúng vậy, chỗ ông có thứ gì? Giá cả dễ thương lượng!\""
+    },
+    {
+      "segment_id": "0103",
+      "source": "方元一挥手，显得特别豪气。",
+      "target": "Phương Nguyên xua tay, có vẻ rất là hào phóng."
+    },
+    {
+      "segment_id": "0104",
+      "source": "实际上，他心里也是有些惴惴，不知道自己的身家是否足够。",
+      "target": "Thực tế trong lòng hắn cũng hơi chột dạ, sợ rằng bản thân không có đủ tiền để mua."
+    },
+    {
+      "segment_id": "0105",
+      "source": "“灵种倒并非什么稀罕之物，本阁也售卖出过不少，奈何真正能种出来的，却是少之又少，甚至不少名家为此倾家荡产，小兄弟可要谨慎啊！”",
+      "target": "\"Linh chủng thật ra cũng không phải thứ gì khan hiếm, bản các cũng từng bán qua rất nhiều. Khổ nỗi những thứ thật sự có thể trồng ra được lại vô cùng ít ỏi, thậm chí không ít gia tộc có tiếng vì nó mà khuynh gia bại sản. Tiểu huynh đệ nên thận trọng mới được!\""
+    },
+    {
+      "segment_id": "0106",
+      "source": "这钱老似乎好心地劝诫道：“但凡灵种，都是天地所钟，唯有灵地才能大规模种植，而整个清河郡，也唯有归灵宗有着一小块，其他人么……”",
+      "target": "Tiền lão dường như rất tốt bụng khuyên bảo: \"Nhưng phàm là linh chủng thì đều được trời đất ưu ái, chỉ có linh địa thì mới có thể trồng trên diện rộng, mà ở khắp Thanh Hà quận cũng chỉ có Quy Linh tông là sở hữu một tiểu linh địa, người khác ấy à...\""
+    },
+    {
+      "segment_id": "0107",
+      "source": "他摇摇头，神态已经说明了一切。",
+      "target": "Lão khẽ lắc đầu, vẻ mặt này đã nói lên tất cả mọi chuyện."
+    },
+    {
+      "segment_id": "0108",
+      "source": "“但若不惜血本，堆砌地力，也有一点成活指望，否则那些深山中昙花一现的野生灵植是如何来的？”",
+      "target": "\"Nhưng nếu không tiếc dốc hết vốn liếng, không ngừng bồi đắp địa lực thì cũng có chút đỉnh hy vọng sống sót. Bằng không, những linh thực mọc hoang, sớm nở tối tàn ở những ngọn núi hoang vu hẻo lánh làm sao mà sinh sôi nảy nở được?\""
+    },
+    {
+      "segment_id": "0109",
+      "source": "奈何方元原本就是种植的行家，更是亲手培育过灵种，有着经验，因此毫不犹豫地回答。",
+      "target": "Chẳng qua Phương Nguyên vốn dĩ là dân chuyên trồng trọt, hắn còn tự tay nuôi trồng qua linh chủng và tích lũy được không ít kinh nghiệm, bởi vậy không chút do dự mà trả lời lại lão."
+    }
+  ]
+}

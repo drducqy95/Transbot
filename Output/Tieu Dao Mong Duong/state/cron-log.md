@@ -14,3 +14,47 @@
 - 2026-06-12 18:17 | Chapter 11 | completed | Chương 0011 - Chương 11 Bí kíp (Cầu ủng hộ).md
 - 2026-06-12 18:47 | Chapter 12 | completed | Chương 0012 - Chương 12 Độc Long Thảo.md
 - 2026-06-12 19:07 | Chapter 13 | completed | Chương 0013 - Chương 13 Ngư ông.md
+- 2026-06-12 19:50 | Chapter 14 | completed | Chương 0014 - Chương 14 Hỗn độc.md
+- 2026-06-12 20:19 | Chapter 14 | completed | Chương 0014 - Chương 14 Hỗn độc.md
+- 2026-06-13 03:02 | Chapter 15 | completed | Chương 0015 - Chương 15 Bồi lễ.md
+- 2026-06-13 03:23 | Chapter 16 | completed | Chương 0016 - Chương 16 Phá quan.md
+- 2026-06-13 03:38 | Chapter 17 | completed | Chương 0017 - Chương 17 Dòm ngó.md
+- 2026-06-13 04:13 | Chapter 18 | completed | Chương 0018 - Chương 18 Âm mưu.md
+- 2026-06-13 04:27 | Chapter 19 | completed | Chương 0019 - Chương 19 Linh mễ.md
+- 2026-06-13 04:53 | Chapter 20 | completed | Chương 0020 - Chương 20 Áp sát.md
+- 2026-06-13 05:12 | Chapter 21 | completed | Chương 0021 - Chương 21 Ám sát.md
+- 2026-06-13 05:32 | Chapter 22 | completed | Chương 0022 - Chương 22 Hạ sát.md
+- 2026-06-13 05:42 | Chapter 23 | completed | Chương 0023 - Chương 23 Chuyện sau đó.md
+- 2026-06-13 05:58 | Chapter 24 | completed | Chương 0024 - Chương 24 Nội Tức.md
+- 2026-06-13 06:15 | Chapter 25 | completed | Chương 0025 - Chương 25 Tặng lễ.md
+- 2026-06-13 06:32 | Chapter 26 | completed | Chương 0026 - Chương 26 Tứ Thiên Môn.md
+- 2026-06-13 06:53 | Chapter 27 | completed | Chương 0027 - Chương 27 Diệt môn (Cảm tạ minh chủ Tử Hiên Tiên Tôn!).md
+- 2026-06-13 07:15 | Chapter 27 | completed | Chương 0027 - Chương 27 Diệt môn (Cảm tạ minh chủ Tử Hiên Tiên Tôn!).md
+- 2026-06-13 07:32 | Chapter 28 | completed | Chương 0028 - Chương 28 Ngũ quan.md
+- 2026-06-13 07:53 | Chapter 29 | completed | Chương 0029 - Chương 29 Linh địa.md
+- 2026-06-13 08:09 | Chapter 30 | completed | Chương 0030 - Chương 30 Linh cầm.md
+- 2026-06-13 08:28 | Chapter 31 | completed | Chương 0031 - Chương 31 Rắc rối.md
+- 2026-06-13 08:39 | Chapter 32 | completed | Chương 0032 - Chương 32 Quận thành.md
+- 2026-06-13 08:57 | Chapter 33 | completed | Chương 0033 - Chương 33 Dự tính.md
+- 2026-06-13 09:17 | Chapter 34 | completed | Chương 0034 - Chương 34 Tứ Hải Các.md
+- 2026-06-13 09:43 | Chapter 35 | completed | Chương 0035 - Chương 35 Theo dõi.md
+- 2026-06-13 10:02 | Chapter 36 | completed | Chương 0036 - Chương 36.md
+- 2026-06-13 10:43 | Chapter 36 | completed | Chương 0036 - Chương 36 Đánh cướp.md
+- 2026-06-13 10:58 | Chapter 37 | completed | Chương 0037 - Chương 37 Dòm ngó.md
+- 2026-06-13 11:12 | Chapter 38 | completed | Chương 0038 - 0038 激战.md
+- 2026-06-13 11:19 | Chapter 39 | completed | Chương 0039 - 0039 击杀.md
+- 2026-06-13 11:33 | Chapter 38 | completed | Chương 0038 - 0038 激战.md
+- 2026-06-13 11:44 | Chapter 39 | completed | Chương 0039 - 0039 击杀.md
+- 2026-06-13 11:57 | Chapter 40 | completed | Chương 0040 - Chương 40 Bí văn.md
+- 2026-06-13 12:10 | Chapter 38 | completed | Chương 0038 - Chương 38 Ác chiến.md
+- 2026-06-13 12:43 | Chapter 39 | completed | Chương 0039 - 0039 击杀.md
+- 2026-06-13 12:55 | Chapter 41 | completed | Chương 0041 - 0041 破关.md
+- 2026-06-13 13:03 | Chapter 39 | completed | Chương 0039 - 0039 击杀.md
+- 2026-06-13 13:14 | Chapter 41 | completed | Chương 0041 - 0041 破关.md
+- 2026-06-13 13:23 | Chapter 42 | completed | Chương 0042 - 0042 六层.md
+- 2026-06-13 13:35 | Chapter 39 | completed | Chương 0039 - 0039 击杀.md
+- 2026-06-13 13:42 | Chapter 41 | completed | Chương 0041 - 0041 破关.md
+- 2026-06-13 13:55 | Chapter 42 | completed | Chương 0042 - 0042 六层.md
+- 2026-06-13 13:59 | Chapter 43 | completed | Chương 0043 - 0043 讨好.md
+- 2026-06-13 19:28 | Chapter 39 | completed | Chương 0039 - Chương 39 Hạ sát.md
+- 2026-06-15 21:05 | Chapter 41 | completed | Chương 0041 - Chương 41 Phá quan.md

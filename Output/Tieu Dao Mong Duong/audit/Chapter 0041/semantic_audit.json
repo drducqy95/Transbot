@@ -1,0 +1,28 @@
+{
+  "issues": [
+    {
+      "segment_id": "0009",
+      "type": "unnatural_vietnamese",
+      "severity": "medium",
+      "fix": "Với sự ẩn mình của nơi đó, ngay cả Chân Võ Tông nếu không tiến sâu vào cũng không thể phát hiện ra, chỉ là vẫn còn rắc rối với đàn chim trắng mắt đỏ."
+    },
+    {
+      "segment_id": "0010",
+      "type": "unnatural_vietnamese",
+      "severity": "medium",
+      "fix": "Phương Nguyên đã quyết định, đợi sau khi nghĩ ra cách giải quyết, nhất định phải di dời toàn bộ cơ mật của U Cốc qua đó."
+    },
+    {
+      "segment_id": "0023",
+      "type": "term_context_mismatch",
+      "severity": "high",
+      "fix": "Phương Nguyên cũng phát hiện ra sự mạnh mẽ của bản thân lúc này, các chỉ số sau khi lượng hóa e rằng vượt xa võ giả cùng đẳng cấp."
+    },
+    {
+      "segment_id": "0025",
+      "type": "missing_translation",
+      "severity": "high",
+      "fix": "Đây là một tin xấu, đồng nghĩa với việc một ưu thế nào đó đang dần mất đi, nhưng nhìn bờ ruộng trước mặt, trên mặt Phương Nguyên lại nở một nụ cười rạng rỡ."
+    }
+  ]
+}

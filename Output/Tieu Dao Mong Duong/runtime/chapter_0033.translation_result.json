@@ -1,0 +1,526 @@
+{
+  "schema_version": "2.0",
+  "chapter_id": "chapter_0033",
+  "segment_translations": [
+    {
+      "segment_id": "0001",
+      "source": "# 第33章 打算",
+      "target": "# Chương 33: Dự tính"
+    },
+    {
+      "segment_id": "0002",
+      "source": "噗哧！噗哧！",
+      "target": "Phành phạch! Phành phạch!"
+    },
+    {
+      "segment_id": "0003",
+      "source": "一只通体洁白的信鸽扑腾着翅膀，没入一大片建筑群当中。",
+      "target": "Một con bồ câu đưa thư toàn thân trắng muốt vỗ cánh phành phạch, bay vào giữa một quần thể kiến trúc rộng lớn."
+    },
+    {
+      "segment_id": "0004",
+      "source": "这片建筑位于清河郡城一角，占地颇广，隐约间有着龙盘虎踞之势，一望就非同小可。",
+      "target": "Quần thể kiến trúc này nằm ở một góc quận thành Thanh Hà, chiếm diện tích khá rộng, loáng thoáng có thế rồng chầu hổ phục, thoạt nhìn đã thấy không phải tầm thường."
+    },
+    {
+      "segment_id": "0005",
+      "source": "而周围行人，要么目中羡慕不已，要么低头疾步走过，都是不敢有丝毫冒犯。",
+      "target": "Mà người đi đường xung quanh, kẻ thì trong mắt ánh lên vẻ hâm mộ không ngớt, người thì cúi đầu rảo bước đi qua, đều không dám có chút mạo phạm nào."
+    },
+    {
+      "segment_id": "0006",
+      "source": "因为这里是清河郡的土皇帝，归灵宗总舵所在！",
+      "target": "Bởi vì nơi này là thổ hoàng đế của quận Thanh Hà, nơi tọa lạc tổng đà Quy Linh Tông!"
+    },
+    {
+      "segment_id": "0007",
+      "source": "“咕咕！”",
+      "target": "“Cúc cu!”"
+    },
+    {
+      "segment_id": "0008",
+      "source": "信鸽落入归灵宗一处清幽的院子之内，被一只白玉般的手掌稳稳接住。",
+      "target": "Bồ câu đưa thư sà xuống một tiểu viện thanh u trong Quy Linh Tông, được một bàn tay trắng trẻo như ngọc vững vàng đón lấy."
+    },
+    {
+      "segment_id": "0009",
+      "source": "“师尊！青叶城急报！”",
+      "target": "“Sư tôn! Cấp báo từ thành Thanh Diệp!”"
+    },
+    {
+      "segment_id": "0010",
+      "source": "玉手的主人取下信鸽腿上绑着的信条，脸色顿时微变，看着旁边一名半边面纱蒙脸的俏丽女子。",
+      "target": "Chủ nhân của bàn tay ngọc tháo phong thư buộc trên chân bồ câu xuống, sắc mặt lập tức hơi đổi, nhìn nữ tử xinh đẹp đeo mạng che nửa mặt ở bên cạnh."
+    },
+    {
+      "segment_id": "0011",
+      "source": "这女子大概三四十岁左右，身材婀娜多姿，一双眼睛灿若星辰，明眸善睐，似含秋波，可以想见在年轻之时必然也是一位大美人。",
+      "target": "Nữ tử này chừng ba bốn mươi tuổi, dáng người thướt tha mềm mại, đôi mắt sáng như sao trời, trong veo linh động, tựa như ngậm sóng thu, có thể tưởng tượng khi còn trẻ ắt hẳn cũng là một đại mỹ nhân."
+    },
+    {
+      "segment_id": "0012",
+      "source": "她便是归灵宗宗主，清河郡唯一的武宗——师语彤！",
+      "target": "Nàng chính là tông chủ Quy Linh Tông, Võ Tông duy nhất của quận Thanh Hà —— Sư Ngữ Đồng!"
+    },
+    {
+      "segment_id": "0013",
+      "source": "这位归灵宗最高掌权者，之前传闻带着爱徒远走访友，此时却赫然已经位于总坛之中。",
+      "target": "Vị người nắm quyền cao nhất của Quy Linh Tông này, trước đó có lời đồn mang theo ái đồ đi xa thăm bạn, lúc này lại nghiễm nhiên đang ở trong tổng đàn."
+    },
+    {
+      "segment_id": "0014",
+      "source": "贵妇模样的师语彤看了看信笺，好看的秀美微微一蹙，语气有些沉凝：“宋中，做得过了！”",
+      "target": "Sư Ngữ Đồng với dáng vẻ quý phụ xem lướt qua phong thư, đôi mày thanh tú xinh đẹp hơi nhíu lại, giọng điệu có chút trầm ngưng: “Tống Trung, làm quá rồi!”"
+    },
+    {
+      "segment_id": "0015",
+      "source": "她自然知道宋中痛失爱子，做事略微出格，也是在所难免。",
+      "target": "Nàng đương nhiên biết Tống Trung đau xót mất đi con trai, làm việc hơi xuất cách cũng là chuyện khó tránh khỏi."
+    },
+    {
+      "segment_id": "0016",
+      "source": "若只是灭了几个寇家庄那样的势力，根本没有什么。",
+      "target": "Nếu chỉ là diệt vài thế lực cỡ Khấu Gia Trang thì căn bản chẳng có gì."
+    },
+    {
+      "segment_id": "0017",
+      "source": "但为了一个猜疑，连本门执事都动手，却实在是太过逾越了。",
+      "target": "Nhưng chỉ vì một sự nghi ngờ, đến cả chấp sự bổn môn cũng ra tay thì quả thực đã quá vượt quyền rồi."
+    },
+    {
+      "segment_id": "0018",
+      "source": "“师尊！”",
+      "target": "“Sư tôn!”"
+    },
+    {
+      "segment_id": "0019",
+      "source": "在师语彤旁边的年轻少女也说话了：“我爹爹……”",
+      "target": "Thiếu nữ trẻ tuổi bên cạnh Sư Ngữ Đồng cũng lên tiếng: “Cha con...”"
+    },
+    {
+      "segment_id": "0020",
+      "source": "“放心，我已经密令宗门人手，将林员外接出青叶城那个是非之地，很快月儿你就可以与他在郡城相会了！”",
+      "target": "“Yên tâm, ta đã mật lệnh cho nhân thủ trong tông môn, đón Lâm viên ngoại ra khỏi vùng đất thị phi thành Thanh Diệp kia rồi, rất nhanh Nguyệt nhi con có thể đoàn tụ với ông ấy ở quận thành thôi!”"
+    },
+    {
+      "segment_id": "0021",
+      "source": "师语彤微微一笑。",
+      "target": "Sư Ngữ Đồng mỉm cười nhẹ."
+    },
+    {
+      "segment_id": "0022",
+      "source": "这名清丽的少女，赫然是与方元曾经有过婚约的林员外之女——林蕾月。",
+      "target": "Thiếu nữ thanh tú này nghiễm nhiên là con gái Lâm viên ngoại từng có hôn ước với Phương Nguyên —— Lâm Lôi Nguyệt."
+    },
+    {
+      "segment_id": "0023",
+      "source": "师语彤谈性很浓，将宗内派系一一分析，似乎是想要林蕾月尽快接触这个层面：“此次宋中如此，炎长老那一系绝无法再说什么，据我所知，周家并未全灭，我等只要等在郡城之内，等其告状，再主持公道就可以了！”",
+      "target": "Hứng thú nói chuyện của Sư Ngữ Đồng rất đậm, phân tích từng phái hệ trong tông, dường như muốn Lâm Lôi Nguyệt mau chóng tiếp xúc với tầng nấc này: “Lần này Tống Trung làm thế, phe Viêm trưởng lão tuyệt đối không thể nói thêm được gì, theo ta được biết, Chu gia vẫn chưa bị diệt toàn bộ, chúng ta chỉ cần đợi trong quận thành, chờ bọn họ cáo trạng, rồi chủ trì công đạo là được!”"
+    },
+    {
+      "segment_id": "0024",
+      "source": "“只是如此……”",
+      "target": "“Chỉ như vậy...”"
+    },
+    {
+      "segment_id": "0025",
+      "source": "林蕾月似乎有些踌躇。",
+      "target": "Lâm Lôi Nguyệt tựa hồ có phần do dự."
+    },
+    {
+      "segment_id": "0026",
+      "source": "“你可是觉得为师有些不近人情？”",
+      "target": "“Có phải con cảm thấy vi sư hơi cạn tình cạn lý?”"
+    },
+    {
+      "segment_id": "0027",
+      "source": "师语彤微微一笑，妙目一转，仿佛看透了林蕾月内心。",
+      "target": "Sư Ngữ Đồng khẽ cười, đôi mắt đẹp lưu chuyển, phảng phất như nhìn thấu nội tâm của Lâm Lôi Nguyệt."
+    },
+    {
+      "segment_id": "0028",
+      "source": "“蕾月不敢！”",
+      "target": "“Lôi Nguyệt không dám!”"
+    },
+    {
+      "segment_id": "0029",
+      "source": "林蕾月连忙躬身谢罪。",
+      "target": "Lâm Lôi Nguyệt vội vàng khom người tạ tội."
+    },
+    {
+      "segment_id": "0030",
+      "source": "“这便是为师今日要教你的，平衡！”",
+      "target": "“Đây chính là bài học hôm nay vi sư muốn dạy con, cân bằng!”"
+    },
+    {
+      "segment_id": "0031",
+      "source": "师语彤语气略微加重：“身为宗主，要学会平衡其下各方的势力！之前炎长老一系颇多桀骜，正好借着此次事情，打击一二，并且借力打力，自有周通背后的寒长老为其出头，我等居中调停，掌握生杀大权，才是重中之重，明白了么？”",
+      "target": "Giọng Sư Ngữ Đồng hơi đanh lại: “Thân là tông chủ, phải học cách cân bằng thế lực các bên dưới quyền! Trước kia phe Viêm trưởng lão khá ngang ngược, vừa khéo mượn chuyện lần này đả kích một hai, hơn nữa mượn lực đánh lực, tự có Hàn trưởng lão đứng sau Chu Thông ra mặt thay hắn, chúng ta ở giữa điều đình, nắm giữ đại quyền sinh sát, đó mới là điều quan trọng nhất, hiểu chưa?”"
+    },
+    {
+      "segment_id": "0032",
+      "source": "“师尊的意思，就是我们轻易不能下场，要做高高在上的仲裁者？”",
+      "target": "“Ý của Sư tôn là chúng ta không thể tùy tiện xuống sân, mà phải làm một trọng tài cao cao tại thượng?”"
+    },
+    {
+      "segment_id": "0033",
+      "source": "林蕾月眨了眨眼。",
+      "target": "Lâm Lôi Nguyệt chớp chớp mắt."
+    },
+    {
+      "segment_id": "0034",
+      "source": "“不错！”",
+      "target": "“Không sai!”"
+    },
+    {
+      "segment_id": "0035",
+      "source": "师语彤欣慰点头：“你这丫头，悟性不错，须知只要是个组织势力，内部就必有党派争斗，身为魁首，首先便是这平衡二字，取其均势，令双方不得不依靠我们，自然便可驱策，如臂使指了……”",
+      "target": "Sư Ngữ Đồng vui mừng gật đầu: “Nha đầu con ngộ tính không tệ. Phải biết phàm là một tổ chức thế lực thì nội bộ ắt sẽ có bè phái tranh đấu. Thân là người đứng đầu, trước tiên phải nắm vững hai chữ cân bằng này, giữ thế cân bằng, khiến hai bên đều không thể không nương tựa vào chúng ta, tự nhiên có thể sai khiến dễ dàng như cánh tay sai bảo ngón tay...”"
+    },
+    {
+      "segment_id": "0036",
+      "source": "这些，普通徒弟自然不会说，但师语彤是将林蕾月当成未来宗主培养的，自然早早传授下去。",
+      "target": "Những điều này, đệ tử bình thường đương nhiên sẽ không được nghe, nhưng Sư Ngữ Đồng xem Lâm Lôi Nguyệt như tông chủ tương lai mà bồi dưỡng, tự nhiên truyền thụ từ sớm."
+    },
+    {
+      "segment_id": "0037",
+      "source": "“多谢师尊提点！”",
+      "target": "“Đa tạ Sư tôn chỉ bảo!”"
+    },
+    {
+      "segment_id": "0038",
+      "source": "林蕾月心里清楚，区区一个周家余孽，对师尊而言，完全不算什么，能前来郡城，算是他的造化，纵然来不了，也只是福薄。",
+      "target": "Lâm Lôi Nguyệt hiểu rõ trong lòng, khu khu một mầm mống còn sót lại của Chu gia, đối với sư tôn mà nói hoàn toàn chẳng là gì, có thể đi tới quận thành được thì coi như tạo hóa của hắn, dẫu không đến được cũng chỉ là do phúc mỏng."
+    },
+    {
+      "segment_id": "0039",
+      "source": "既然师尊已经决定出手，宋中必然落不到善终。",
+      "target": "Nếu sư tôn đã quyết định ra tay, Tống Trung tất nhiên sẽ không có kết cục tốt đẹp."
+    },
+    {
+      "segment_id": "0040",
+      "source": "作为执掌归灵宗的武宗，师语彤自然有着这样的气势与底气。",
+      "target": "Với tư cách là Võ Tông chưởng quản Quy Linh Tông, Sư Ngữ Đồng tự nhiên có khí thế và tự tin như vậy."
+    },
+    {
+      "segment_id": "0041",
+      "source": "“呵呵……说起来也是好笑，那宋中之子，宋玉杰，似乎还想追求蕾月你吧？当真是癞蛤蟆想吃天鹅肉……贪心不足，这次也算死有余辜了……”",
+      "target": "“Ha ha... Nhắc tới cũng nực cười, con trai Tống Trung là Tống Ngọc Kiệt kia, tựa hồ còn muốn theo đuổi Lôi Nguyệt con nhỉ? Quả đúng là cóc ghẻ đòi ăn thịt thiên nga... Lòng tham không đáy, lần này cũng coi như chết chưa hết tội...”"
+    },
+    {
+      "segment_id": "0042",
+      "source": "师语彤瞥了眼林蕾月，打趣道：“我们家月儿如此天姿国色，日后也不知道要迷倒多少男子呢？”",
+      "target": "Sư Ngữ Đồng liếc nhìn Lâm Lôi Nguyệt, trêu ghẹo nói: “Nguyệt nhi nhà chúng ta quốc sắc thiên hương thế này, không biết sau này sẽ làm say đắm bao nhiêu nam tử đây?”"
+    },
+    {
+      "segment_id": "0043",
+      "source": "“师尊！”",
+      "target": "“Sư tôn!”"
+    },
+    {
+      "segment_id": "0044",
+      "source": "林蕾月顿时红了小脸，跺着脚：“连你也来打趣人家！”",
+      "target": "Khuôn mặt nhỏ nhắn của Lâm Lôi Nguyệt lập tức ửng đỏ, giậm chân: “Đến cả người cũng trêu chọc con!”"
+    },
+    {
+      "segment_id": "0045",
+      "source": "“你一向分得清轻重，我是比较放心的！”",
+      "target": "“Con xưa nay luôn phân rõ nặng nhẹ, ta cũng khá yên tâm!”"
+    },
+    {
+      "segment_id": "0046",
+      "source": "师语彤神色转为肃穆，徐徐说道。",
+      "target": "Sư Ngữ Đồng đổi sang vẻ mặt trang nghiêm, từ tốn nói."
+    },
+    {
+      "segment_id": "0047",
+      "source": "这林蕾月跟随她习练高深内功，对于纯阴有着要求，但宗内宗外，追求之人却如过江之鲫，只求定下名分即可，这当中为的什么，师徒两人心里都跟明镜似的。",
+      "target": "Lâm Lôi Nguyệt này theo nàng luyện tập nội công cao thâm, có yêu cầu đối với thuần âm, nhưng trong ngoài tông môn, người theo đuổi lại như cá diếc qua sông, chỉ cầu định ra một danh phận là được, trong chuyện này rốt cuộc vì cái gì, trong lòng hai thầy trò đều sáng như gương."
+    },
+    {
+      "segment_id": "0048",
+      "source": "“这个世界很大！我之前带你去见的，也只是冰山一角而已……”",
+      "target": "“Thế giới này rất lớn! Trước đây ta đưa con đi gặp mặt, cũng chỉ là một phần nổi của tảng băng chìm mà thôi...”"
+    },
+    {
+      "segment_id": "0049",
+      "source": "师语彤语重心长地道：“蕾月，你天生百脉俱通，又是通灵月身，与我的‘明月诀’最是匹配，未来的成就必然可以远远超越为师，接触到真正的修行界……”",
+      "target": "Sư Ngữ Đồng thấm thía nói: “Lôi Nguyệt, con trời sinh bách mạch đều thông, lại là Thông Linh Nguyệt Thân, phù hợp nhất với ‘Minh Nguyệt Quyết’ của ta, thành tựu tương lai tất nhiên có thể vượt xa vi sư, tiếp xúc đến giới tu hành chân chính...”"
+    },
+    {
+      "segment_id": "0050",
+      "source": "“真正的……修行界！”",
+      "target": "“Giới tu hành... chân chính!”"
+    },
+    {
+      "segment_id": "0051",
+      "source": "林蕾月喃喃着，眸子里也有着向往。",
+      "target": "Lâm Lôi Nguyệt lẩm bẩm, trong mắt cũng tràn ngập vẻ khao khát."
+    },
+    {
+      "segment_id": "0052",
+      "source": "她这次跟随师尊拜访的那位丹师朋友，就令她大开眼界。",
+      "target": "Lần này nàng theo sư tôn đi bái phỏng người bạn Đan sư kia, đã khiến nàng được mở rộng tầm mắt."
+    },
+    {
+      "segment_id": "0053",
+      "source": "作为比传说中的法士、灵士还要稀罕的存在，丹师拥有一样绝技，能以体内丹火，萃取灵材灵药，炼制出各种具有不可思议效力的灵丹来。",
+      "target": "Là tồn tại còn hiếm có hơn cả Pháp sĩ, Linh sĩ trong truyền thuyết, Đan sư sở hữu một tuyệt kỹ, có thể dùng đan hỏa trong cơ thể chiết xuất linh tài linh dược, luyện chế ra các loại linh đan có công hiệu không thể tưởng tượng nổi."
+    },
+    {
+      "segment_id": "0054",
+      "source": "这种灵丹，不仅绝无丹毒，功效更是如神，每一种都足以令武者打破头去争抢。",
+      "target": "Loại linh đan này không chỉ tuyệt đối không có đan độc, công hiệu càng như thần, mỗi một loại đều đủ sức khiến võ giả vỡ đầu mẻ trán để tranh đoạt."
+    },
+    {
+      "segment_id": "0055",
+      "source": "比如这次师尊为她求取的一枚‘凝月丹’，就与她的体质颇为相配，能令她习练武功进度一日千里，甚至未来冲刺三险关之时，还会多出数成把握！",
+      "target": "Chẳng hạn như một viên ‘Ngưng Nguyệt Đan’ lần này sư tôn cầu lấy cho nàng, vô cùng phù hợp với thể chất của nàng, có thể khiến tiến độ tập luyện võ công của nàng tiến triển một ngày ngàn dặm, thậm chí khi trùng kích Tam Hiểm Quan trong tương lai, còn nắm chắc thêm vài phần!"
+    },
+    {
+      "segment_id": "0056",
+      "source": "在亲眼见到之前，林蕾月根本想都想不到世上竟然还有如斯奇物！",
+      "target": "Trước khi tận mắt nhìn thấy, Lâm Lôi Nguyệt căn bản không thể tưởng tượng được trên đời lại có kỳ vật như thế!"
+    },
+    {
+      "segment_id": "0057",
+      "source": "而丹师掌握着此种能力，自然也是各个势力的座上宾，百般讨好，轻易不敢得罪。",
+      "target": "Mà Đan sư nắm giữ năng lực như vậy, tự nhiên cũng là thượng khách của các thế lực, được trăm phương ngàn kế lấy lòng, không dám tùy tiện đắc tội."
+    },
+    {
+      "segment_id": "0058",
+      "source": "就好像她这次拜访的那位，甚至身边就有一位武宗，贴身保护，若非师语彤与他有旧，怎么也不会为林蕾月出手。",
+      "target": "Giống như người mà nàng bái phỏng lần này, thậm chí bên cạnh còn có một vị Võ Tông theo sát bảo vệ, nếu không phải Sư Ngữ Đồng có giao tình cũ với ông ta thì dù thế nào cũng sẽ không ra tay vì Lâm Lôi Nguyệt."
+    },
+    {
+      "segment_id": "0059",
+      "source": "饶是如此，这位丹师，也只不过是更高修行界的一个角落而已！",
+      "target": "Dù là vậy, vị Đan sư này cũng chỉ là một góc nhỏ bé của giới tu hành cao cấp hơn mà thôi!"
+    },
+    {
+      "segment_id": "0060",
+      "source": "一想到这些，林蕾月就有些心神澎湃。",
+      "target": "Cứ nghĩ tới những điều này, Lâm Lôi Nguyệt lại thấy tâm thần sục sôi."
+    },
+    {
+      "segment_id": "0061",
+      "source": "即使身为女儿之身，她也有着攀登更高绝峰的梦想。",
+      "target": "Dẫu mang phận nhi nữ, nàng cũng có ước mơ trèo lên đỉnh cao tuyệt phong."
+    },
+    {
+      "segment_id": "0062",
+      "source": "“徒儿必不负师尊所望！”",
+      "target": "“Đồ nhi tuyệt đối không phụ sự kỳ vọng của sư tôn!”"
+    },
+    {
+      "segment_id": "0063",
+      "source": "林蕾月盈盈拜下，神色坚定。",
+      "target": "Lâm Lôi Nguyệt uyển chuyển bái lạy, thần sắc kiên định."
+    },
+    {
+      "segment_id": "0064",
+      "source": "“哈哈……很好！”",
+      "target": "“Ha ha... Rất tốt!”"
+    },
+    {
+      "segment_id": "0065",
+      "source": "师语彤双手扶起，眸子里也很是振奋：“现在的你，只需要好好练武，有着灵丹之助，必能飞快突破伤门，化生内力，到时候我就直接将你定为掌门弟子，任凭谁都说不出话来！”",
+      "target": "Sư Ngữ Đồng đưa hai tay đỡ nàng dậy, trong ánh mắt cũng đầy hưng phấn: “Con bây giờ chỉ cần chuyên tâm luyện võ, có linh đan trợ giúp ắt sẽ nhanh chóng đột phá Thương Môn, hóa sinh nội lực, đến lúc đó ta sẽ trực tiếp định con làm chưởng môn đệ tử, dẫu là ai cũng không thể nói được gì!”"
+    },
+    {
+      "segment_id": "0066",
+      "source": "“还有，其它的一切凡尘俗事，我也自会给你打发了！”",
+      "target": "“Còn nữa, tất cả những phàm trần tục sự khác, ta cũng sẽ tự mình xử lý thay con!”"
+    },
+    {
+      "segment_id": "0067",
+      "source": "‘方家哥哥……’",
+      "target": "‘Phương gia ca ca...’"
+    },
+    {
+      "segment_id": "0068",
+      "source": "林蕾月听到这里，却是身体一颤，想到了幽谷之中，某个普通的少年。",
+      "target": "Lâm Lôi Nguyệt nghe đến đây thì cả người run lên, nhớ tới một thiếu niên bình thường nọ trong u cốc."
+    },
+    {
+      "segment_id": "0069",
+      "source": "当初师尊不问青红皂白，径自取消婚约，自己根本没有丝毫反抗之余地。",
+      "target": "Năm đó sư tôn không phân rõ trắng đen, tự ý hủy bỏ hôn ước, bản thân căn bản không có chút cơ hội phản kháng nào."
+    },
+    {
+      "segment_id": "0070",
+      "source": "只是若重来一次，自己当真有着决心，可以据理力争么？",
+      "target": "Chỉ là nếu làm lại lần nữa, mình thật sự có đủ quyết tâm để cãi lý đấu tranh sao?"
+    },
+    {
+      "segment_id": "0071",
+      "source": "林蕾月心里一片混沌，第一次迷惘了……",
+      "target": "Trong lòng Lâm Lôi Nguyệt rối bời, lần đầu tiên cảm thấy mờ mịt..."
+    },
+    {
+      "segment_id": "0072",
+      "source": "……",
+      "target": "..."
+    },
+    {
+      "segment_id": "0073",
+      "source": "“清河郡城，到了！”",
+      "target": "“Quận thành Thanh Hà, đến rồi!”"
+    },
+    {
+      "segment_id": "0074",
+      "source": "不远处，一辆牛车缓缓靠近，方元手搭凉棚，望了望不远处的城垣轮廓，微笑道。",
+      "target": "Cách đó không xa, một chiếc xe bò chậm rãi tiến lại gần, Phương Nguyên đưa tay che nắng, đưa mắt nhìn hình dáng tường thành cách đó không xa, mỉm cười nói."
+    },
+    {
+      "segment_id": "0075",
+      "source": "他也是第一次前来如此大城，颇有一点兴奋的感觉。",
+      "target": "Hắn cũng là lần đầu tiên tới một tòa thành lớn như vậy, có chút cảm giác hưng phấn."
+    },
+    {
+      "segment_id": "0076",
+      "source": "“咳咳……”",
+      "target": "“Khụ khụ...”"
+    },
+    {
+      "segment_id": "0077",
+      "source": "周文武强自撑着病体出来，脸上带着一点不正常的潮红：“只要到了宗门总舵，纵然宋中也无法一手遮天，只是此时，他必然安排人手，在城门堵我……”",
+      "target": "Chu Văn Vũ gắng gượng chống đỡ cơ thể ốm yếu bước ra, trên mặt mang theo nét ửng đỏ không bình thường: “Chỉ cần tới được tổng đà tông môn, dù Tống Trung cũng không thể một tay che trời, chỉ là lúc này, hắn tất nhiên đã sắp xếp nhân thủ chặn đường ta ở cửa thành...”"
+    },
+    {
+      "segment_id": "0078",
+      "source": "中途路线有着千万条，只要肯绕路，除非宋中是归灵宗之主，否则根本拦截不过来。",
+      "target": "Giữa chừng có tới hàng vạn tuyến đường, chỉ cần chịu đi đường vòng thì trừ phi Tống Trung là tông chủ Quy Linh Tông, nếu không căn bản chẳng thể chặn hết được."
+    },
+    {
+      "segment_id": "0079",
+      "source": "但若猜到周文武的目标是清河郡城的话，守株待兔，却是极为简单的事情了。",
+      "target": "Nhưng nếu đoán được mục tiêu của Chu Văn Vũ là quận thành Thanh Hà thì ôm cây đợi thỏ lại là một chuyện cực kỳ đơn giản."
+    },
+    {
+      "segment_id": "0080",
+      "source": "“方兄有何妙计？”",
+      "target": "“Phương huynh có diệu kế gì không?”"
+    },
+    {
+      "segment_id": "0081",
+      "source": "周文武看向方元，眸子中有着期待。",
+      "target": "Chu Văn Vũ nhìn về phía Phương Nguyên, trong mắt chứa đầy mong chờ."
+    },
+    {
+      "segment_id": "0082",
+      "source": "外出之时，方元自然不会让别人一口一个居士地叫着自己，徒惹注意。",
+      "target": "Lúc ra ngoài, Phương Nguyên tự nhiên sẽ không để người khác cứ một câu cư sĩ hai câu cư sĩ gọi mình, chỉ chuốc lấy sự chú ý vô ích."
+    },
+    {
+      "segment_id": "0083",
+      "source": "再说他跟周文武年纪差不多，一来二去之后，两人就熟络了起来，趁机改了称呼。",
+      "target": "Lại nói hắn và Chu Văn Vũ tuổi tác xấp xỉ nhau, qua lại một hồi, hai người liền trở nên thân quen, nhân cơ hội đó đã đổi cách xưng hô."
+    },
+    {
+      "segment_id": "0084",
+      "source": "“妙计没有，倒是有一个笨办法！”",
+      "target": "“Diệu kế thì không có, nhưng lại có một cách ngốc nghếch!”"
+    },
+    {
+      "segment_id": "0085",
+      "source": "方元嘴角带起一丝笑意：“直接选个门，冲过去，就这么简单！”",
+      "target": "Khóe miệng Phương Nguyên mang theo nụ cười: “Trực tiếp chọn một cái cổng, xông thẳng qua, đơn giản vậy thôi!”"
+    },
+    {
+      "segment_id": "0086",
+      "source": "“如此……”",
+      "target": "“Như vậy...”"
+    },
+    {
+      "segment_id": "0087",
+      "source": "周文武脸上肌肉一抽，想不到方元的解决办法，竟然是如此的简单粗暴。",
+      "target": "Cơ mặt Chu Văn Vũ giật giật, không ngờ cách giải quyết của Phương Nguyên lại đơn giản thô bạo như thế."
+    },
+    {
+      "segment_id": "0088",
+      "source": "“此事是宋中一人所起，难道他那一系还敢冒天下之大不韪，再派人来堵我们？”",
+      "target": "“Chuyện này do một mình Tống Trung gây ra, chẳng lẽ phe cánh của hắn còn dám bất chấp mọi sự lên án, tiếp tục phái người tới chặn đường chúng ta sao?”"
+    },
+    {
+      "segment_id": "0089",
+      "source": "方元摊了摊双手：“而郡城足有四门，难道宋中会分身术？只要我们运气不是太差，不至于直接跟他对上……”",
+      "target": "Phương Nguyên dang hai tay ra: “Mà quận thành có đến bốn cổng, chẳng lẽ Tống Trung biết thuật phân thân? Chỉ cần vận khí của chúng ta không quá tệ thì sẽ không đến mức phải đối đầu trực diện với hắn...”"
+    },
+    {
+      "segment_id": "0090",
+      "source": "若拦路的只是宋中的几个弟子，他一只手就可以收拾了。",
+      "target": "Nếu kẻ chặn đường chỉ là vài gã đệ tử của Tống Trung thì một tay hắn đã có thể thu dọn sạch sẽ rồi."
+    },
+    {
+      "segment_id": "0091",
+      "source": "“但万一……”",
+      "target": "“Nhưng rủi như...”"
+    },
+    {
+      "segment_id": "0092",
+      "source": "周文武显得有些踌躇，眼见大仇得报在即，他可不想节外生枝。",
+      "target": "Chu Văn Vũ tỏ ra hơi do dự, mắt thấy đại cừu sắp được báo, hắn cũng không muốn tiết ngoại sinh chi."
+    },
+    {
+      "segment_id": "0093",
+      "source": "“万一真的我们点背，与宋中当面撞上，那便只能开打了，反正只要将动静闹大，归灵宗自会有人接应的吧？”",
+      "target": "“Rủi như chúng ta thật sự quá đen đủi, đụng mặt Tống Trung, vậy thì chỉ có thể khai chiến thôi, dù sao chỉ cần làm ầm ĩ lên, Quy Linh Tông tự nhiên sẽ có người tiếp ứng phải không?”"
+    },
+    {
+      "segment_id": "0094",
+      "source": "方元瞥了一眼周文武。",
+      "target": "Phương Nguyên liếc nhìn Chu Văn Vũ."
+    },
+    {
+      "segment_id": "0095",
+      "source": "若是连这个大好机会都不懂得利用，那周通所在的派系恐怕早就被宋中灭掉，连根拔起了。",
+      "target": "Nếu như ngay cả cơ hội trời cho này mà cũng không biết tận dụng thì phe phái của Chu Thông e rằng đã bị Tống Trung tiêu diệt, nhổ cỏ tận gốc từ lâu rồi."
+    },
+    {
+      "segment_id": "0096",
+      "source": "“正是！就按方兄所言去办！”",
+      "target": "“Đúng thế! Cứ làm theo lời Phương huynh nói!”"
+    },
+    {
+      "segment_id": "0097",
+      "source": "周文武一咬牙。",
+      "target": "Chu Văn Vũ cắn răng một cái."
+    },
+    {
+      "segment_id": "0098",
+      "source": "连方元这个外人都敢如此，他又还有什么好怕的。",
+      "target": "Ngay cả Phương Nguyên là người ngoài còn dám như thế, hắn thì có gì đáng sợ nữa chứ."
+    },
+    {
+      "segment_id": "0099",
+      "source": "奈何周大公子并不清楚，方元之所以敢这么做，完全是因为有着武功傍身。",
+      "target": "Có điều Chu đại công tử hoàn toàn không biết, Phương Nguyên sở dĩ dám làm như vậy, hoàn toàn là vì có võ công phòng thân."
+    },
+    {
+      "segment_id": "0100",
+      "source": "纵然到时候宋中前来，只要将周文武一丟，自然可以跑路。",
+      "target": "Dẫu đến lúc đó Tống Trung xuất hiện, chỉ cần vứt Chu Văn Vũ lại thì tự nhiên có thể bỏ chạy."
+    },
+    {
+      "segment_id": "0101",
+      "source": "反正宋中现在还不知道他就是杀子仇人，应该不至于像疯狗一样地追他。",
+      "target": "Dù sao hiện giờ Tống Trung vẫn chưa biết hắn chính là kẻ thù giết con mình, hẳn sẽ không đến mức như chó điên mà đuổi theo hắn."
+    },
+    {
+      "segment_id": "0102",
+      "source": "甚至，还可以大庭广众之下，将周文武送给宋中灭口，彻底坐死宋中的罪名！",
+      "target": "Thậm chí dưới sự chứng kiến của mọi người, hắn có thể giao Chu Văn Vũ cho Tống Trung diệt khẩu, triệt để đính cứng tội danh của Tống Trung!"
+    },
+    {
+      "segment_id": "0103",
+      "source": "“当然，这种派系之争，最忌讳外人插足进去……我如此冒然，若是一个处理不好，八成会被两派围攻，或者干脆当成棋子利用！”",
+      "target": "“Đương nhiên, loại tranh đấu phe phái này kiêng kị nhất là người ngoài thò chân vào... Ta đường đột như vậy, nếu xử lý không cẩn thận, tám chín phần mười sẽ bị cả hai phái vây công, hoặc dứt khoát bị coi thành quân cờ để lợi dụng!”"
+    },
+    {
+      "segment_id": "0104",
+      "source": "有着另外一个世界的人生经验，此时方元的心里跟明镜一样：“无论如何，这次做事之后，必须马上脱身，远离漩涡！”",
+      "target": "Sở hữu kinh nghiệm sống của một thế giới khác, trong lòng Phương Nguyên lúc này sáng như gương: “Bất luận thế nào, sau khi xong việc lần này, phải lập tức rút lui, tránh xa vòng xoáy!”"
+    }
+  ]
+}

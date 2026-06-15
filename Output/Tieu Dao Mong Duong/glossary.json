@@ -2,5 +2,17 @@
   "封神演义": {
     "target": "Phong Thần Diễn Nghĩa",
     "type": "term"
+  },
+  "种植术": {
+    "target": "Trồng trọt thuật",
+    "type": "term"
+  },
+  "鹰爪铁布衫": {
+    "target": "Ưng Trảo Thiết Bố Sam",
+    "type": "term"
+  },
+  "专长：医术": {
+    "target": "Chuyên trang: Y thuật",
+    "type": "term"
   }
 }

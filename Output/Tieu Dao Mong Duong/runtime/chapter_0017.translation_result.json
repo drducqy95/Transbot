@@ -1,0 +1,586 @@
+{
+  "schema_version": "2.0",
+  "chapter_id": "chapter_0017",
+  "segment_translations": [
+    {
+      "segment_id": "0001",
+      "source": "# 第17章 窥视",
+      "target": "Chương 17: Dòm ngó"
+    },
+    {
+      "segment_id": "0002",
+      "source": "“喝，黑沙掌！”",
+      "target": "“Hà, Hắc Sa Chưởng!”"
+    },
+    {
+      "segment_id": "0003",
+      "source": "幽谷之中，一道人影迅捷疾扑，右掌伸出，顿时在靶子上留下一个清晰的掌印。",
+      "target": "Trong u cốc, một đạo nhân ảnh nhanh chóng nhào tới, tung ra hữu chưởng, tức thì lưu lại một chưởng ấn rõ nét trên bia."
+    },
+    {
+      "segment_id": "0004",
+      "source": "“威力又有进步了？不错不错！”",
+      "target": "“Uy lực lại tiến bộ rồi? Không tệ, không tệ!”"
+    },
+    {
+      "segment_id": "0005",
+      "source": "方元收掌而立，看着已经满了大半的经验条，脸上带着兴奋之色。",
+      "target": "Phương Nguyên thu chưởng đứng thẳng, nhìn thanh kinh nghiệm đã đầy hơn phân nửa, trên mặt mang theo vẻ hưng phấn."
+    },
+    {
+      "segment_id": "0006",
+      "source": "在每练习一次，熟练度就会有所提升之后，他就彻底迷上了这种不断变强的感觉。",
+      "target": "Sau khi mỗi lần luyện tập thì độ thục luyện lại tăng lên, hắn đã hoàn toàn mê mẩn cảm giác không ngừng mạnh lên này."
+    },
+    {
+      "segment_id": "0007",
+      "source": "“如果属性栏中的功法提升没有什么如种植术一般的瓶颈的话，我很快就可以将黑沙掌练到巅峰的第五层！”",
+      "target": "“Nếu sự thăng cấp của công pháp trong bảng thuộc tính không có bình cảnh giống như Trồng Trọt Thuật, ta có thể nhanh chóng luyện Hắc Sa Chưởng đến tầng thứ năm đỉnh phong!”"
+    },
+    {
+      "segment_id": "0008",
+      "source": "“当然，也要营养跟得上……”",
+      "target": "“Tất nhiên, dinh dưỡng cũng phải theo kịp...”"
+    },
+    {
+      "segment_id": "0009",
+      "source": "到了中午，方元吃着珍珠玉晶米，又有些叹息。",
+      "target": "Đến trưa, Phương Nguyên ăn Trân Châu Ngọc Tinh Mễ, lại có chút thở dài."
+    },
+    {
+      "segment_id": "0010",
+      "source": "若是换成普通人家，哪里有着他这样的积累，顿顿玉晶米不停供应？",
+      "target": "Nếu đổi lại là gia đình bình thường, lấy đâu ra tích lũy giống như hắn, bữa nào cũng có Ngọc Tinh Mễ cung ứng không ngừng?"
+    },
+    {
+      "segment_id": "0011",
+      "source": "而不如此，又怎么能够支持成千上万遍黑沙掌练习的消耗？因此对于贫寒人家而言，除非天赋异禀，直接拜入宗门，获得培养，否则要诞生什么武林高手，完全就是一种奢望。",
+      "target": "Nếu không làm như vậy, làm sao có thể chống đỡ được sự tiêu hao của hàng ngàn hàng vạn lần luyện tập Hắc Sa Chưởng? Bởi vậy đối với những gia đình bần hàn, trừ phi thiên phú dị bẩm, trực tiếp bái nhập tông môn để nhận được sự bồi dưỡng, nếu không muốn sinh ra một võ lâm cao thủ nào đó, hoàn toàn chính là một loại xa vọng."
+    },
+    {
+      "segment_id": "0012",
+      "source": "“另外……本身素质，对于习武似乎也有着加成……”",
+      "target": "“Ngoài ra... tố chất cơ thể, đối với việc luyện võ dường như cũng có tăng phúc...”"
+    },
+    {
+      "segment_id": "0013",
+      "source": "武者原本的身体素质，就是基石，基础打得越牢，未来的成就才能越高。",
+      "target": "Tố chất cơ thể ban đầu của võ giả chính là nền tảng, cơ sở đánh càng vững chắc thì thành tựu tương lai mới càng cao."
+    },
+    {
+      "segment_id": "0014",
+      "source": "方元甚至怀疑，自己黑沙掌练得如此快，与自己暴增的神元也未尝没有关系。",
+      "target": "Phương Nguyên thậm chí hoài nghi, bản thân luyện Hắc Sa Chưởng nhanh như vậy, chưa chắc đã không liên quan tới Thần Nguyên tăng vọt của mình."
+    },
+    {
+      "segment_id": "0015",
+      "source": "“用不了多久，问心茶树就要再次结叶了，并且还有红玉稻，也即将收获……这可是灵米，纵然武宗所需，也足够维持的！”",
+      "target": "“Không bao lâu nữa, Vấn Tâm Trà Thụ sẽ lại kết lá, hơn nữa còn có Hồng Ngọc Đạo cũng sắp thu hoạch... Đây chính là linh mễ, cho dù Võ Tông cần dùng, cũng đủ để duy trì!”"
+    },
+    {
+      "segment_id": "0016",
+      "source": "方元心里蓦然产生出一种期待来。",
+      "target": "Trong lòng Phương Nguyên chợt sinh ra một loại mong đợi."
+    },
+    {
+      "segment_id": "0017",
+      "source": "穷文富武，在灵种的支持之下，他的武道修习，必然能够更加突飞猛进。",
+      "target": "Cùng văn phú võ, dưới sự hỗ trợ của linh chủng, việc tu tập võ đạo của hắn tất nhiên có thể ngày càng tiến bộ thần tốc."
+    },
+    {
+      "segment_id": "0018",
+      "source": "之所以如此迫不及待，倒并非全是为了日后，更是为了现在的安全考虑。",
+      "target": "Sở dĩ không kịp chờ đợi như vậy, cũng không hoàn toàn là vì ngày sau, mà càng vì suy xét cho an toàn hiện tại."
+    },
+    {
+      "segment_id": "0019",
+      "source": "“归灵宗采买——宋志高？！”",
+      "target": "“Kẻ thu mua của Quy Linh Tông —— Tống Chí Cao?!”"
+    },
+    {
+      "segment_id": "0020",
+      "source": "如果说林本初与周家兄妹，或许还算没有什么恶意的话，那这个归灵宗外门执事，却是直接表现出了敌意，令方元也不得不正视一二。",
+      "target": "Nếu như nói Lâm Bản Sơ và anh em Chu gia có lẽ còn chưa có ác ý gì, thì tên ngoại môn chấp sự Quy Linh Tông này lại thể hiện rõ địch ý, khiến Phương Nguyên cũng phải nhìn thẳng vào vấn đề."
+    },
+    {
+      "segment_id": "0021",
+      "source": "他虽然性情淡薄，却并非傻子，更不可能容忍一条毒蛇在暗中窥视自己的。",
+      "target": "Tuy tính tình hắn đạm bạc, nhưng không phải kẻ ngốc, càng không thể nhẫn nhịn một con rắn độc đang ngấm ngầm dòm ngó mình."
+    },
+    {
+      "segment_id": "0022",
+      "source": "“只是要一劳永逸，还需要实力啊！”",
+      "target": "“Chỉ là muốn giải quyết dứt điểm, vẫn cần có thực lực a!”"
+    },
+    {
+      "segment_id": "0023",
+      "source": "练武之后，方元来到种植园中，开始细心照料起硕谷累累的红玉稻田来。",
+      "target": "Sau khi luyện võ, Phương Nguyên đi tới đồn điền trồng trọt, bắt đầu chăm sóc tỉ mỉ ruộng Hồng Ngọc Đạo hạt trĩu nặng."
+    },
+    {
+      "segment_id": "0024",
+      "source": "他的未来，他的武道，大致就着落在这片灵种之上了。",
+      "target": "Tương lai của hắn, võ đạo của hắn, đại khái đều đặt trên đám linh chủng này."
+    },
+    {
+      "segment_id": "0025",
+      "source": "……",
+      "target": "..."
+    },
+    {
+      "segment_id": "0026",
+      "source": "夜已深。",
+      "target": "Đêm đã khuya."
+    },
+    {
+      "segment_id": "0027",
+      "source": "幽谷之外，蓦然多出几条鬼鬼祟祟的黑影。",
+      "target": "Ngoài u cốc, chợt xuất hiện vài bóng đen lén lút."
+    },
+    {
+      "segment_id": "0028",
+      "source": "“宋买办所言，便是此处了？”",
+      "target": "“Nơi Tống mãi biện nói, chính là chỗ này sao?”"
+    },
+    {
+      "segment_id": "0029",
+      "source": "一名黑衣人看了看周围，低声骂了一句：“果然深山老林，环境恶劣，也只有野人才住得下去！”",
+      "target": "Một tên hắc y nhân nhìn xung quanh, thấp giọng chửi một câu: “Quả nhiên là thâm sơn cùng cốc, môi trường tồi tệ, cũng chỉ có dã nhân mới sống được!”"
+    },
+    {
+      "segment_id": "0030",
+      "source": "“是此处，不会错的！”",
+      "target": "“Chính là nơi này, không sai được đâu!”"
+    },
+    {
+      "segment_id": "0031",
+      "source": "旁边一人猎户打扮，手持钢叉：“我曾经来过这里，与问心师徒交换过兽皮、药材……”",
+      "target": "Một người ăn mặc như thợ săn bên cạnh tay cầm cương xoa: “Ta từng tới nơi này, giao dịch thú bì, dược liệu với hai thầy trò Vấn Tâm...”"
+    },
+    {
+      "segment_id": "0032",
+      "source": "言语之间，就有些唏嘘之色。",
+      "target": "Trong lời nói mang theo vài phần thổn thức."
+    },
+    {
+      "segment_id": "0033",
+      "source": "“怎么，想起旧情，下不了手？”",
+      "target": "“Sao thế, nhớ lại tình xưa, không nỡ ra tay à?”"
+    },
+    {
+      "segment_id": "0034",
+      "source": "为首的黑衣人嗤笑一声。",
+      "target": "Hắc y nhân cầm đầu cười nhạo một tiếng."
+    },
+    {
+      "segment_id": "0035",
+      "source": "“怎么可能？十片金叶子，足够买上十条山民之命了，对付区区一个少年，又算得了什么？”",
+      "target": "“Làm sao có thể? Mười chiếc kim diệp tử đủ để mua lấy mười cái mạng của sơn dân, đối phó với một thiếu niên cỏn con thì tính là cái gì?”"
+    },
+    {
+      "segment_id": "0036",
+      "source": "猎户冷笑一声，眼睛中就放出狠毒的神采来：“要我说，何必如此窥视，直接杀进去，将那少年郎宰了，尸首抛弃荒野，保管第二天就连一堆骨头都剩不下！”",
+      "target": "Thợ săn cười lạnh một tiếng, trong mắt lóe lên tia tàn độc: “Theo ta nói, cần gì phải dòm ngó thế này, trực tiếp giết vào trong, làm thịt tên thiếu niên kia, vứt xác ngoài hoang dã, đảm bảo ngày hôm sau một đống xương cũng chẳng còn!”"
+    },
+    {
+      "segment_id": "0037",
+      "source": "“话虽如此，但宋买办必不会高兴的，我们要的，是先让那人身败名裂，千夫所指，随后才能下手！”",
+      "target": "“Lời tuy là vậy, nhưng Tống mãi biện chắc chắn sẽ không vui, điều chúng ta cần là trước tiên làm cho kẻ đó thân bại danh liệt, ngàn người chỉ trích, sau đó mới ra tay!”"
+    },
+    {
+      "segment_id": "0038",
+      "source": "黑衣人沉声道：“谁让那穷小子，挡了宋买办身后贵人的路呢！”",
+      "target": "Hắc y nhân trầm giọng nói: “Ai bảo tiểu tử nghèo kiết xác đó cản đường quý nhân đứng sau Tống mãi biện cơ chứ!”"
+    },
+    {
+      "segment_id": "0039",
+      "source": "“贵人？！”",
+      "target": "“Quý nhân?!”"
+    },
+    {
+      "segment_id": "0040",
+      "source": "另外几个人，都是附近的山民、猎户、盗贼之流，闻言有些面面相觑，但见到首领如此讳莫如深的样子，也就不好继续发问。",
+      "target": "Mấy người khác, đều là bọn sơn dân, thợ săn, cường đạo ở quanh đó, nghe xong thì nhìn nhau, nhưng thấy bộ dáng kiêng dè sâu sắc của thủ lĩnh, cũng không tiện tiếp tục gặng hỏi."
+    },
+    {
+      "segment_id": "0041",
+      "source": "“好了，我们今夜的任务，只是查探，只要摸清这个幽谷布局，又或者那小子有着什么底牌就成！”",
+      "target": "“Được rồi, nhiệm vụ đêm nay của chúng ta chỉ là thăm dò, chỉ cần nắm rõ bố cục u cốc này, hoặc tiểu tử kia có át chủ bài gì là được!”"
+    },
+    {
+      "segment_id": "0042",
+      "source": "黑衣人首领沉声道：“当然，最关键的是，不能留下手尾证据！”",
+      "target": "Thủ lĩnh hắc y nhân trầm giọng nói: “Đương nhiên, quan trọng nhất là không được lưu lại dấu vết bằng chứng!”"
+    },
+    {
+      "segment_id": "0043",
+      "source": "“明白！”",
+      "target": "“Rõ!”"
+    },
+    {
+      "segment_id": "0044",
+      "source": "几个人狰狞一笑，又齐齐摸入幽谷之中。",
+      "target": "Mấy người nhe răng cười dữ tợn, đồng loạt mò vào trong u cốc."
+    },
+    {
+      "segment_id": "0045",
+      "source": "夜晚漆黑，纵然借着月光，能见度也是很低，这一群人偏偏又不敢明火执仗，自然遭了不少罪。",
+      "target": "Đêm tối mịt mù, cho dù nương theo ánh trăng thì tầm nhìn cũng rất thấp, đám người này lại không dám thắp đuốc giương cờ, tự nhiên phải chịu không ít khổ sở."
+    },
+    {
+      "segment_id": "0046",
+      "source": "好在知晓对方只有一人，幽谷防备也不怎么严密，这几人还是比较放心大胆的。",
+      "target": "Cũng may biết rõ đối phương chỉ có một người, phòng bị ở u cốc cũng không mấy nghiêm ngặt, đám người này vẫn khá yên tâm bạo dạn."
+    },
+    {
+      "segment_id": "0047",
+      "source": "“嗯……这就是幽谷之内？几间精舍倒是不错……”",
+      "target": "“Ừm... Nơi này là bên trong u cốc? Vài gian tinh xá cũng khá không tồi...”"
+    },
+    {
+      "segment_id": "0048",
+      "source": "“还有花圃，泉眼，看起来也十分一般，我们去后面看看……”",
+      "target": "“Còn có bồn hoa, dòng suối, nhìn qua cũng hết sức bình thường, chúng ta đi ra phía sau xem...”"
+    },
+    {
+      "segment_id": "0049",
+      "source": "一行人分工极为默契，又来到了后谷，种植园之外。",
+      "target": "Đoàn người phân công vô cùng ăn ý, lại đi tới hậu cốc, ở bên ngoài đồn điền trồng trọt."
+    },
+    {
+      "segment_id": "0050",
+      "source": "“灌木之后，或许还有些东西！”",
+      "target": "“Phía sau bụi rậm, có lẽ còn có thứ gì đó!”"
+    },
+    {
+      "segment_id": "0051",
+      "source": "这找来的都是老猎人、老盗贼，经验丰富，顿时看出来了不同。",
+      "target": "Những kẻ được gọi tới này đều là thợ săn lão luyện, cường đạo lâu năm, kinh nghiệm phong phú, lập tức nhìn ra điều bất đồng."
+    },
+    {
+      "segment_id": "0052",
+      "source": "“哦？”",
+      "target": "“Ồ?”"
+    },
+    {
+      "segment_id": "0053",
+      "source": "黑衣人首领立即上前，等到发现灌木之后的小道之时，更是顿时大喜：“快……去看看！小心点，这小子有着古怪，上次周家豪仆至此，全部都被废了手筋，连周家都看不出深浅……啊……”",
+      "target": "Thủ lĩnh hắc y nhân lập tức tiến lên, khi phát hiện con đường nhỏ sau bụi rậm, càng lập tức đại hỉ: “Mau... tới xem thử! Cẩn thận một chút, tiểu tử này có điểm cổ quái, lần trước hào bộc của Chu gia tới đây, toàn bộ đều bị phế gân tay, ngay cả Chu gia cũng không nhìn thấu nông sâu... A...”"
+    },
+    {
+      "segment_id": "0054",
+      "source": "他说到一半，突然间，清脆的咬合声响起，惨叫顿时传出。",
+      "target": "Gã nói được một nửa, đột nhiên, tiếng cắn hợp giòn giã vang lên, tiếng hét thảm lập tức truyền ra."
+    },
+    {
+      "segment_id": "0055",
+      "source": "“怎么回事？”",
+      "target": "“Sao thế?”"
+    },
+    {
+      "segment_id": "0056",
+      "source": "旁边几名同伴立即看向地面，就见到一个深黑色的兽夹，此时两边的锯齿牢牢合拢，将首领的整条小腿都吞了进去。",
+      "target": "Mấy đồng bọn bên cạnh lập tức nhìn xuống đất, liền thấy một cái bẫy thú đen thui, lúc này răng cưa hai bên đã khép lại thật chặt, cắn nuốt trọn toàn bộ bắp chân của thủ lĩnh."
+    },
+    {
+      "segment_id": "0057",
+      "source": "“陷阱！”",
+      "target": "“Cạm bẫy!”"
+    },
+    {
+      "segment_id": "0058",
+      "source": "“该死！”",
+      "target": "“Chết tiệt!”"
+    },
+    {
+      "segment_id": "0059",
+      "source": "他们顿时一阵大乱。",
+      "target": "Bọn chúng nhất thời rối loạn."
+    },
+    {
+      "segment_id": "0060",
+      "source": "毕竟之前偷偷潜入，都是特意压低声音，但现在这么鬼叫一声，又是夜深人静之时，整个幽谷都清晰可闻，岂不立即就给发现了？",
+      "target": "Dù sao trước đó lén lút lẻn vào, đều cố ý đè thấp giọng, nhưng nay rống lên như quỷ khóc thế này, lại đúng lúc đêm khuya tĩnh lặng, toàn bộ u cốc đều nghe rõ mồn một, chẳng phải sẽ bị phát hiện ngay lập tức sao?"
+    },
+    {
+      "segment_id": "0061",
+      "source": "“实在不行……”",
+      "target": "“Thực sự không được thì...”"
+    },
+    {
+      "segment_id": "0062",
+      "source": "几名凶徒对视一眼，瞳孔中就闪过一丝血色。",
+      "target": "Mấy tên hung đồ liếc nhau, trong đồng tử lóe lên một tia huyết quang."
+    },
+    {
+      "segment_id": "0063",
+      "source": "纵然这次只是来调查玄异，但真的被撞破了，恐怕也唯有下杀手了。",
+      "target": "Tuy lần này chỉ tới để điều tra sự tình, nhưng nếu thực sự bị đụng phải, e rằng chỉ còn cách hạ sát thủ."
+    },
+    {
+      "segment_id": "0064",
+      "source": "对于那种传闻，他们是丝毫不信的。",
+      "target": "Đối với những lời đồn kia, bọn chúng tuyệt nhiên không tin."
+    },
+    {
+      "segment_id": "0065",
+      "source": "而一个毛头小子，难道对付得了他们全部不成？",
+      "target": "Mà một thằng nhãi ranh vắt mũi chưa sạch, chẳng lẽ đối phó được với tất cả bọn chúng hay sao?"
+    },
+    {
+      "segment_id": "0066",
+      "source": "嗯，就是这小子奸猾，竟然还知道布置陷阱，得小心防范才是。",
+      "target": "Ừm, chỉ là tiểu tử này giảo hoạt, thế mà biết đặt bẫy, cần cẩn thận đề phòng mới được."
+    },
+    {
+      "segment_id": "0067",
+      "source": "“嘶嘶！”",
+      "target": "“Tê tê!”"
+    },
+    {
+      "segment_id": "0068",
+      "source": "“嘶嘶！”",
+      "target": "“Tê tê!”"
+    },
+    {
+      "segment_id": "0069",
+      "source": "只是，他们没有料到的是，那个奸猾小子没有等来，却等来了一尊白色的死神！",
+      "target": "Chỉ là, điều bọn chúng không ngờ là thằng nhãi giảo hoạt kia không tới, lại đợi được một vị tử thần màu trắng!"
+    },
+    {
+      "segment_id": "0070",
+      "source": "一道白光，犹如闪电一般，激射到他们面前，化为一只庞大的白貂模样，正是护谷灵兽花狐貂！",
+      "target": "Một vệt sáng trắng hệt như tia chớp, bắn vọt tới trước mặt bọn chúng, hóa thành bộ dáng một con chồn trắng khổng lồ, chính là linh thú hộ cốc Hoa Hồ Điêu!"
+    },
+    {
+      "segment_id": "0071",
+      "source": "此时，花狐貂却是毛发张开，发出危险的气息。",
+      "target": "Lúc này, lông tóc Hoa Hồ Điêu xù lên, tỏa ra hơi thở nguy hiểm."
+    },
+    {
+      "segment_id": "0072",
+      "source": "毕竟，种植园里面的，可是它的命根子，怎么能容忍外人窥视？",
+      "target": "Dù sao thì đồ ở bên trong đồn điền trồng trọt chính là sinh mệnh của nó, làm sao có thể dung nhẫn người ngoài dòm ngó?"
+    },
+    {
+      "segment_id": "0073",
+      "source": "“那是什么？”",
+      "target": "“Đó là thứ gì?”"
+    },
+    {
+      "segment_id": "0074",
+      "source": "“貂儿？”",
+      "target": "“Chồn?”"
+    },
+    {
+      "segment_id": "0075",
+      "source": "“好大！”",
+      "target": "“Thật lớn!”"
+    },
+    {
+      "segment_id": "0076",
+      "source": "猎户惊疑一声：“小心，这或许是那小子养的异种……”",
+      "target": "Thợ săn kinh nghi nói: “Cẩn thận, đây có lẽ là dị chủng do tiểu tử kia nuôi dưỡng...”"
+    },
+    {
+      "segment_id": "0077",
+      "source": "“呵……再怎么样，也不过一头畜生，与猛犬又有何区别？”",
+      "target": "“Hừ... Dù thế nào đi nữa, cũng chỉ là một súc sinh, nào có điểm gì khác với mãnh khuyển chứ?”"
+    },
+    {
+      "segment_id": "0078",
+      "source": "一名习惯偷鸡摸狗的同伴嬉笑一声，面色却忽然变化了。",
+      "target": "Một tên đồng bọn quen thói trộm chó bắt gà cười cợt, nhưng sắc mặt lại chợt thay đổi."
+    },
+    {
+      "segment_id": "0079",
+      "source": "在他面前，一道白光一闪而过。",
+      "target": "Trước mặt gã, một luồng bạch quang vừa lóe qua."
+    },
+    {
+      "segment_id": "0080",
+      "source": "“大成，怎么了？”",
+      "target": "“Đại Thành, sao vậy?”"
+    },
+    {
+      "segment_id": "0081",
+      "source": "见这汉子呆立不动，旁边一名同伴一推，却轻轻巧巧地将他上半身推了下来。",
+      "target": "Thấy hán tử này đứng đờ ra đó, một tên đồng bọn bên cạnh huých một cái, thế mà nhẹ nhàng đẩy luôn nửa thân trên của gã rớt xuống."
+    },
+    {
+      "segment_id": "0082",
+      "source": "原来不知道在什么时候，他赫然已经被花狐貂腰斩！",
+      "target": "Hóa ra không biết từ lúc nào, gã nghiễm nhiên đã bị Hoa Hồ Điêu chém ngang hông!"
+    },
+    {
+      "segment_id": "0083",
+      "source": "“鬼……鬼啊！”",
+      "target": "“Quỷ... Quỷ a!”"
+    },
+    {
+      "segment_id": "0084",
+      "source": "这血淋淋的一幕，顿时就吓呆了众人。",
+      "target": "Cảnh tượng máu me đầm đìa này lập tức hù dọa mọi người chết lặng."
+    },
+    {
+      "segment_id": "0085",
+      "source": "“这貂不是普通野兽，而是灵兽，精怪！”",
+      "target": "“Con chồn này không phải dã thú bình thường, mà là linh thú, tinh quái!”"
+    },
+    {
+      "segment_id": "0086",
+      "source": "猎户头皮发麻，蓦然想起了有关精灵的传说。",
+      "target": "Thợ săn tê dại da đầu, chợt nhớ tới những truyền thuyết về tinh linh."
+    },
+    {
+      "segment_id": "0087",
+      "source": "从刚才对方的表现来看，完全听得懂人话！再加上这种体形，还有奔行如电，利爪如刀的实力，说不是精怪，又有谁信？",
+      "target": "Xét theo biểu hiện của đối phương vừa nãy thì hoàn toàn nghe hiểu được tiếng người! Lại thêm loại thể hình này, còn có tốc độ phi nước đại như điện, thực lực vuốt sắc như dao, nói không phải tinh quái thì có ai tin?"
+    },
+    {
+      "segment_id": "0088",
+      "source": "“快走！”",
+      "target": "“Chạy mau!”"
+    },
+    {
+      "segment_id": "0089",
+      "source": "几个人对视一眼，立即一哄而散，将黑衣首领都抛弃在原地。",
+      "target": "Mấy người liếc nhìn nhau, lập tức giải tán trong tích tắc, bỏ rơi luôn thủ lĩnh hắc y nhân ở lại chỗ cũ."
+    },
+    {
+      "segment_id": "0090",
+      "source": "没有办法，他们背后的雇主，宋志高也不过一个外门买办，能掌握多少实权？就这次派出的人手，除了中陷阱的黑衣人是他委派之外，其它都是被重金诱惑而来的投机客。",
+      "target": "Hết cách rồi, cố chủ sau lưng bọn chúng là Tống Chí Cao cũng chẳng qua chỉ là một gã ngoại môn mãi biện, có thể nắm giữ bao nhiêu thực quyền? Về nhân thủ được cử ra lần này, ngoại trừ hắc y nhân trúng bẫy là do hắn phái tới, những kẻ còn lại đều là dân cơ hội bị trọng kim dụ dỗ mà đến."
+    },
+    {
+      "segment_id": "0091",
+      "source": "这样的团队，顺风顺水或许还能办成一些事情，稍微遇到挫折，内讧甚至散伙，也是再正常不过的事情了。",
+      "target": "Đoàn đội thế này, xuôi chèo mát mái có lẽ còn có thể làm được chút chuyện, một khi hơi gặp trắc trở, nội chiến thậm chí giải tán là chuyện quá sức bình thường."
+    },
+    {
+      "segment_id": "0092",
+      "source": "奈何，以他们这群连武功都不会的粗浅汉子，想要在花狐貂的速度下逃命，简直是做梦一般。",
+      "target": "Ngặt nỗi, với đám hán tử thô lỗ đến võ công cũng chẳng biết này, muốn chạy giữ mạng dưới tốc độ của Hoa Hồ Điêu quả thực chẳng khác nào nằm mơ."
+    },
+    {
+      "segment_id": "0093",
+      "source": "“咯咯！”",
+      "target": "“Cách cách!”"
+    },
+    {
+      "segment_id": "0094",
+      "source": "花狐貂眼珠一转，仿佛顽童找到了一个好玩的玩具一般，故意放慢速度，追在那个猎户的身后。",
+      "target": "Tròng mắt Hoa Hồ Điêu xoay vòng, tựa như đứa trẻ tinh nghịch tìm được một món đồ chơi thú vị, cố ý giảm tốc độ, đuổi theo sát sau lưng người thợ săn kia."
+    },
+    {
+      "segment_id": "0095",
+      "source": "“该死！”",
+      "target": "“Đáng chết!”"
+    },
+    {
+      "segment_id": "0096",
+      "source": "猎户望着不断迫近的花狐貂，脸上一肃，反身狠狠一钢叉。",
+      "target": "Thợ săn nhìn Hoa Hồ Điêu không ngừng ép tới gần, sắc mặt đanh lại, xoay người hung hăng đâm tới một đường cương xoa."
+    },
+    {
+      "segment_id": "0097",
+      "source": "咻！",
+      "target": "Vèo!"
+    },
+    {
+      "segment_id": "0098",
+      "source": "猎叉刺了个空，他右手却是一阵剧痛，眼前突然浮现出一拍雪白锋利的牙齿。",
+      "target": "Xiên săn đâm hụt, tay phải của gã lại truyền đến một trận đau nhức dữ dội, trước mắt đột nhiên hiện lên một hàm răng sắc nhọn trắng như tuyết."
+    },
+    {
+      "segment_id": "0099",
+      "source": "噗！",
+      "target": "Phốc!"
+    },
+    {
+      "segment_id": "0100",
+      "source": "下一刹那，血花飞溅……",
+      "target": "Trong chốc lát, máu tươi bắn tung tóe..."
+    },
+    {
+      "segment_id": "0101",
+      "source": "……",
+      "target": "..."
+    },
+    {
+      "segment_id": "0102",
+      "source": "“真要命，深更半夜，还让不让人好好睡了？”",
+      "target": "“Thật đòi mạng, đêm hôm khuya khoắt, còn để cho người ta ngủ ngon hay không đây?”"
+    },
+    {
+      "segment_id": "0103",
+      "source": "此起彼伏的惨叫接连响起，纵然方元也不能继续装死睡懒觉了。",
+      "target": "Tiếng kêu la thảm thiết liên tiếp vang lên nối tiếp nhau, cho dù là Phương Nguyên cũng không thể tiếp tục giả chết ngủ nướng được nữa."
+    },
+    {
+      "segment_id": "0104",
+      "source": "他披着外套，边打着哈欠边从屋内走出：“有贼么？也难为他们跑到这鸟不拉屎的地方来偷我了……”",
+      "target": "Hắn khoác áo ngoài, vừa ngáp vừa từ trong nhà bước ra: “Có trộm sao? Cũng làm khó bọn họ chạy đến cái nơi khỉ ho cò gáy này để ăn trộm đồ của ta...”"
+    },
+    {
+      "segment_id": "0105",
+      "source": "话虽然如此说，但种植园毕竟是他最大的财产，还是有些关注，加快脚步，来到后谷。",
+      "target": "Ngoài miệng tuy nói vậy, nhưng đồn điền trồng trọt dẫu sao cũng là tài sản lớn nhất của hắn, hắn vẫn hơi quan tâm, đẩy nhanh cước bộ đi tới hậu cốc."
+    },
+    {
+      "segment_id": "0106",
+      "source": "“这……”",
+      "target": "“Chuyện này...”"
+    },
+    {
+      "segment_id": "0107",
+      "source": "不得不说，遍地鲜血淋漓的一幕，实在相当震撼，方元一时间也有些傻眼，旋即就是气急败坏：“花狐貂！你做什么？弄得这么一塌糊涂，要我明天收拾到什么时候啊？”",
+      "target": "Không thể không nói, một màn máu chảy đầm đìa khắp mặt đất quả thực vô cùng chấn động, trong nhất thời Phương Nguyên cũng có chút sững sờ, rồi lập tức giận đùng đùng: “Hoa Hồ Điêu! Ngươi làm cái gì vậy? Chơi đùa tới mức be bét thế này, ngày mai bắt ta phải dọn dẹp tới khi nào đây?”"
+    },
+    {
+      "segment_id": "0108",
+      "source": "“咯咯！”",
+      "target": "“Cách cách!”"
+    },
+    {
+      "segment_id": "0109",
+      "source": "爪牙犹自带着鲜血，守在最后那名黑衣人首领之前的花狐貂闻言顿时转过身，黑溜溜的眼睛里面满是无辜的表情。",
+      "target": "Răng vuốt vẫn còn mang theo vết máu tươi, Hoa Hồ Điêu canh gác ngay trước mặt thủ lĩnh hắc y nhân cuối cùng kia nghe vậy thì lập tức xoay người lại, trong đôi mắt đen láy tràn đầy vẻ vô tội."
+    },
+    {
+      "segment_id": "0110",
+      "source": "“不要给我装傻，你明天绝对有份大扫除！”",
+      "target": "“Đừng có giả ngu với ta, ngày mai ngươi tuyệt đối phải nhận một phần tổng vệ sinh!”"
+    },
+    {
+      "segment_id": "0111",
+      "source": "方元气哼哼地饶过几处尸体，来到唯一还在喘气的黑衣人面前。",
+      "target": "Phương Nguyên hầm hừ đi vòng qua vài bộ thi thể, đi tới trước mặt hắc y nhân duy nhất vẫn còn đang thở dốc."
+    },
+    {
+      "segment_id": "0112",
+      "source": "这倒霉家伙一过来就被兽夹夹断腿，却因此成为了花狐貂爪下唯一的活口，也算因祸得福了。",
+      "target": "Tên xui xẻo này vừa tới đã bị bẫy thú kẹp gãy chân, nhưng cũng nhờ vậy mới trở thành người sống duy nhất dưới vuốt của Hoa Hồ Điêu, coi như là trong cái rủi có cái may."
+    },
+    {
+      "segment_id": "0113",
+      "source": "“不要……不要吃我！”",
+      "target": "“Đừng... Đừng ăn ta!”"
+    },
+    {
+      "segment_id": "0114",
+      "source": "当然，此时这家伙已经完全吓坏了，看到方元过来，简直是涕泪横流，仿佛见到了救星一般：“小公子饶命啊，一切都是那宋志高的指使，我……我什么都交待了！”",
+      "target": "Đương nhiên, lúc này gã đã hoàn toàn sợ ngây người, thấy Phương Nguyên đi tới thì quả thực là nước mắt nước mũi giàn giụa, tựa như nhìn thấy cứu tinh: “Tiểu công tử tha mạng a, tất cả đều là Tống Chí Cao xúi giục, ta... ta sẽ khai hết mọi thứ!”"
+    },
+    {
+      "segment_id": "0115",
+      "source": "天可怜见！",
+      "target": "Trời cao thương xót!"
+    },
+    {
+      "segment_id": "0116",
+      "source": "被野兽吞食，死无葬身之地，这种死法也未免太过考验神经了一点。",
+      "target": "Bị dã thú nuốt chửng, chết không có chỗ chôn, loại kiểu chết này khó tránh khỏi quá thử thách thần kinh một chút."
+    }
+  ]
+}

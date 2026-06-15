@@ -1,0 +1,538 @@
+```json
+{
+  "chapter_number": 14,
+  "chapter_title_vi": "Chương 14: Hỗn độc",
+  "segments": [
+    {
+      "segment_id": "0001",
+      "source": "# 第14章 混毒",
+      "target": "# Chương 14: Hỗn độc"
+    },
+    {
+      "segment_id": "0002",
+      "source": "“俺是这里的采药人，之前看见那么多血，还有尸体，可真是吓坏了，你们莫不是遇到熊瞎子……”",
+      "target": "“Tôi là người hái thuốc ở đây, lúc trước nhìn thấy nhiều máu như vậy, lại còn có xác chết, đúng là dọa tôi khiếp vía, không biết có phải các anh đụng phải gấu mù...”"
+    },
+    {
+      "segment_id": "0003",
+      "source": "那少年郎絮絮叨叨地说着，有些憨傻。",
+      "target": "Chàng thiếu niên lải nhải nói, vẻ mặt có chút khờ khạo."
+    },
+    {
+      "segment_id": "0004",
+      "source": "韩寿武者出身，只是闻了一闻药汤，就知道里面绝无问题，不由小口小口地喝着，感觉腹中略微有了一些暖意，看向少年的目中又带着一丝阴狠。",
+      "target": "Hàn Thọ xuất thân võ giả, chỉ ngửi chén thuốc một chút là biết bên trong tuyệt đối không có vấn đề gì, liền hớp từng ngụm nhỏ uống vào, cảm thấy trong bụng thoáng có chút ấm áp, nhưng ánh mắt nhìn về phía thiếu niên lại mang theo một tia hiểm độc."
+    },
+    {
+      "segment_id": "0005",
+      "source": "虽然得这小子相救，但为了保密，等到恢复一些之后，还是得将他灭口了才好。",
+      "target": "Tuy được tiểu tử này cứu mạng, nhưng để giữ bí mật, sau khi khôi phục lại đôi chút, vẫn phải giết người diệt khẩu mới tốt."
+    },
+    {
+      "segment_id": "0006",
+      "source": "嘴上却感激道：“我们兄弟骤遭大难，得小兄弟相救，实在感激不尽，你说尸体……莫不是我那大哥……死了？”",
+      "target": "Nhưng ngoài miệng gã lại cảm kích nói: “Huynh đệ chúng tôi đột nhiên gặp đại nạn, được tiểu huynh đệ cứu giúp, thực sự vô cùng cảm kích. Cậu nói xác chết... không lẽ đại ca của tôi... đã chết rồi sao?”"
+    },
+    {
+      "segment_id": "0007",
+      "source": "他脸色一下呆滞，顿时大滴大滴的眼泪就落了下来，端得是情真意切，纵然方元也不由在心底默默给他点了个赞。",
+      "target": "Sắc mặt gã lập tức đờ đẫn, nước mắt từng giọt lớn lã chã rơi xuống, quả thực là tình chân ý thiết, ngay cả Phương Nguyên cũng không nhịn được thầm giơ ngón tay cái khen ngợi gã trong lòng."
+    },
+    {
+      "segment_id": "0008",
+      "source": "“唉……这也是没办法的事，你那大哥我已经给葬了，改天等你好些了，再带你去认认路，好启出骸骨，落叶归根……”",
+      "target": "“Haizz... Chuyện này cũng đành chịu thôi, vị đại ca kia của anh đã được tôi đem chôn rồi, hôm nào đợi anh khỏe hơn chút, tôi lại dẫn anh đi nhận đường, để còn đào hài cốt lên đưa về quê nhà lá rụng về cội...”"
+    },
+    {
+      "segment_id": "0009",
+      "source": "方元安慰道。",
+      "target": "Phương Nguyên an ủi."
+    },
+    {
+      "segment_id": "0010",
+      "source": "“那真是不胜感激，救命大恩，无以为报，我们兄弟二人，来世就是当牛做马，也要报答小兄弟你的恩情！”",
+      "target": "“Thế thì thật sự vô cùng cảm kích. Ơn cứu mạng to lớn không có gì báo đáp nổi, hai huynh đệ chúng tôi kiếp sau dù có làm trâu làm ngựa cũng phải báo đáp ân tình của tiểu huynh đệ!”"
+    },
+    {
+      "segment_id": "0011",
+      "source": "韩寿此时一无所知，还在大飚演技。",
+      "target": "Hàn Thọ lúc này hoàn toàn không biết gì, vẫn đang ra sức thể hiện diễn xuất của mình."
+    },
+    {
+      "segment_id": "0012",
+      "source": "“呵呵……不必如此，不必如此！”",
+      "target": "“Hì hì... không cần thế đâu, không cần thế đâu!”"
+    },
+    {
+      "segment_id": "0013",
+      "source": "方元摸摸头，很是憨厚地笑了。",
+      "target": "Phương Nguyên gãi đầu, nở nụ cười vô cùng chất phác."
+    },
+    {
+      "segment_id": "0014",
+      "source": "此时的韩寿跟个植物人类似，连动个身子都需要方元帮忙，自然打不了什么坏主意。",
+      "target": "Hàn Thọ lúc này không khác gì người thực vật, ngay cả trở mình cũng cần Phương Nguyên giúp đỡ, tự nhiên không thể giở trò xấu xa gì."
+    },
+    {
+      "segment_id": "0015",
+      "source": "倒是观察过周围，确认是深山中一处所在之后，顿时放下心来，看着方元自顾自在一边看书，又有些好奇：“小兄弟，你看得什么？”",
+      "target": "Ngược lại gã đã quan sát xung quanh, sau khi xác nhận đây là một nơi chốn trong núi sâu, lập tức yên lòng. Thấy Phương Nguyên tự mình ngồi đọc sách ở một bên, gã lại có chút tò mò: “Tiểu huynh đệ, cậu đang đọc sách gì thế?”"
+    },
+    {
+      "segment_id": "0016",
+      "source": "“这可是俺爹传下来的好东西！”",
+      "target": "“Đây là đồ tốt do cha tôi truyền lại đấy!”"
+    },
+    {
+      "segment_id": "0017",
+      "source": "方元将书册往前面一送：“就是有好些字俺不认识……”",
+      "target": "Phương Nguyên đưa cuốn sách ra trước mặt gã: “Chỉ là có rất nhiều chữ tôi không nhận ra...”"
+    },
+    {
+      "segment_id": "0018",
+      "source": "他看向韩寿，眼睛里面顿时闪过一丝不好意思的光芒：“要不你给我念念？”",
+      "target": "Cậu nhìn về phía Hàn Thọ, trong mắt chợt lóe lên vẻ ngượng ngùng: “Hay là anh đọc cho tôi nghe thử xem?”"
+    },
+    {
+      "segment_id": "0019",
+      "source": "“唔……筋骨爪节，以筋为重，形意次之……宛若猛鹰，迅捷疾扑……这不是鹰爪功么？”",
+      "target": "“Ừm... Gân cốt trảo tiết, lấy gân làm trọng, hình ý thứ hai... tựa như mãnh ưng, lao vồ nhanh chóng... Đây chẳng phải là Ưng Trảo Công sao?”"
+    },
+    {
+      "segment_id": "0020",
+      "source": "韩寿看了几行，心里顿时有些不屑。",
+      "target": "Hàn Thọ đọc vài dòng, trong lòng lập tức có chút khinh thường."
+    },
+    {
+      "segment_id": "0021",
+      "source": "但再看看那小子有些急切的脸色，心里暗自一笑，脸上却是做出踌躇之色：“这……可是武功秘笈啊，给在下看好么！”",
+      "target": "Nhưng nhìn vẻ mặt có chút nôn nóng của tiểu tử kia, gã thầm cười lạnh, trên mặt lại tỏ vẻ do dự: “Đây... đây là bí kíp võ công mà, để tại hạ xem liệu có tiện không!”"
+    },
+    {
+      "segment_id": "0022",
+      "source": "“反正我也看不懂，要不大哥你教教我呗！”",
+      "target": "“Dù sao tôi cũng chẳng đọc hiểu, hay là đại ca dạy tôi đi!”"
+    },
+    {
+      "segment_id": "0023",
+      "source": "方元脸上故意带着一丝急迫。",
+      "target": "Trên mặt Phương Nguyên cố ý lộ vẻ nôn nóng."
+    },
+    {
+      "segment_id": "0024",
+      "source": "‘嗯，这是你自取死路，可怪不得我了！’",
+      "target": "‘Hừ, đây là ngươi tự tìm đường chết, vậy thì không trách ta được!’"
+    },
+    {
+      "segment_id": "0025",
+      "source": "韩寿心里暗道，脸上却做出大义凛然之色：“小兄弟你救我性命，区区解读几个字，又算得了什么？”",
+      "target": "Hàn Thọ thầm nghĩ, trên mặt lại lộ ra vẻ đại nghĩa lẫm liệt: “Tiểu huynh đệ đã cứu mạng ta, giải nghĩa dăm ba chữ này có đáng là gì?”"
+    },
+    {
+      "segment_id": "0026",
+      "source": "“那就太好了，这几个字怎么念？”",
+      "target": "“Thế thì tốt quá rồi, mấy chữ này đọc thế nào?”"
+    },
+    {
+      "segment_id": "0027",
+      "source": "方元脸上做出迫不及待之色。",
+      "target": "Trên mặt Phương Nguyên lộ ra vẻ nóng lòng muốn biết."
+    },
+    {
+      "segment_id": "0028",
+      "source": "“嗯，这是关元，代表身上的一个穴位！”",
+      "target": "“Ừm, đây là Quan Nguyên, đại biểu cho một huyệt vị trên người!”"
+    },
+    {
+      "segment_id": "0029",
+      "source": "“这个呢？”",
+      "target": "“Còn cái này?”"
+    },
+    {
+      "segment_id": "0030",
+      "source": "“骨海！”",
+      "target": "“Cốt Hải!”"
+    },
+    {
+      "segment_id": "0031",
+      "source": "“气元！”",
+      "target": "“Khí Nguyên!”"
+    },
+    {
+      "segment_id": "0032",
+      "source": "……",
+      "target": "……"
+    },
+    {
+      "segment_id": "0033",
+      "source": "韩寿随口解释，心里却在暗自冷笑。",
+      "target": "Hàn Thọ tùy miệng giải thích, trong lòng thầm cười lạnh."
+    },
+    {
+      "segment_id": "0034",
+      "source": "若真是按照他解读的来习练，不用多久，这个山野小子就要自己走火入魔而死了。",
+      "target": "Nếu thật sự luyện theo lời gã giải thích, chẳng bao lâu nữa, tiểu tử nghèo trong núi này sẽ tự tẩu hỏa nhập ma mà chết."
+    },
+    {
+      "segment_id": "0035",
+      "source": "‘这人……果然心如毒蝎！’",
+      "target": "‘Người này... quả nhiên lòng dạ rắn rết!’"
+    },
+    {
+      "segment_id": "0036",
+      "source": "殊不知方元心里，也在暗自齿冷：‘反倒是林本初林员外给的，没有什么问题。’",
+      "target": "Nào ngờ trong lòng Phương Nguyên cũng thầm lạnh người: ‘Xem ra cuốn sách mà Lâm viên ngoại Lâm Bản Sơ đưa cho trái lại không có vấn đề gì.’"
+    },
+    {
+      "segment_id": "0037",
+      "source": "这个道理很简单，他自己可是识字并且通晓医术的，若是林员外给的秘笈有问题，以韩寿的见识，大可照本宣科地解读出来。",
+      "target": "Đạo lý này rất đơn giản, bản thân cậu vốn biết chữ lại thông hiểu y thuật, nếu bí kíp Lâm viên ngoại đưa cho có vấn đề, với kiến thức của Hàn Thọ, gã hoàn toàn có thể giải nghĩa rập khuôn theo sách."
+    },
+    {
+      "segment_id": "0038",
+      "source": "但现在，他故意曲解，反倒是显得另外一位比较无辜了。",
+      "target": "Nhưng bây giờ, gã lại cố ý xuyên tạc, trái lại khiến cho người còn lại có vẻ vô can."
+    },
+    {
+      "segment_id": "0039",
+      "source": "“哦，韩大哥，这个字怎么读？”",
+      "target": "“Ồ, Hàn đại ca, chữ này đọc thế nào vậy?”"
+    },
+    {
+      "segment_id": "0040",
+      "source": "想到这里，方元的眼眸里就闪过一丝冷色。",
+      "target": "Nghĩ đến đây, trong ánh mắt Phương Nguyên thoáng qua một tia lạnh lẽo."
+    },
+    {
+      "segment_id": "0041",
+      "source": "“这个啊，念命门，为身上一处要害！”",
+      "target": "“Chữ này hả, đọc là Mệnh Môn, là một chỗ hiểm yếu trên người!”"
+    },
+    {
+      "segment_id": "0042",
+      "source": "韩寿随口编了一句，突然间面色一变：“你怎么知道我姓韩？”",
+      "target": "Hàn Thọ tùy miệng bịa đại một câu, bỗng nhiên biến sắc: “Làm sao cậu biết ta họ Hàn?”"
+    },
+    {
+      "segment_id": "0043",
+      "source": "“不止呢，之前你可不是这么解读的！”",
+      "target": "“Không chỉ vậy đâu, lúc nãy anh giải nghĩa đâu phải thế này!”"
+    },
+    {
+      "segment_id": "0044",
+      "source": "方元跳开数步，脸上露出冷笑，悍然摊牌。",
+      "target": "Phương Nguyên lùi lại vài bước, trên mặt lộ ra vẻ lạnh lùng, dứt khoát lật bài ngửa."
+    },
+    {
+      "segment_id": "0045",
+      "source": "韩寿脸上一红，知道自己心急之下，随口解释，没有细细推敲，顿时跟前面冲突，露出了马脚。",
+      "target": "Mặt Hàn Thọ đỏ bừng, biết mình do vội vàng nên tùy tiện giải thích mà không suy nghĩ kỹ, lập tức mâu thuẫn với lời nói phía trước, thế là lộ ra chân tướng."
+    },
+    {
+      "segment_id": "0046",
+      "source": "但下一刹那，他脸色就变化了：“小子，你装傻诈我？”",
+      "target": "Nhưng ngay khoảnh khắc sau, sắc mặt gã biến đổi: “Tiểu tử, ngươi giả ngu lừa ta?”"
+    },
+    {
+      "segment_id": "0047",
+      "source": "“韩寿，你这个师门败类，我们彼此彼此罢了！”",
+      "target": "“Hàn Thọ, đồ bại loại sư môn nhà ngươi, chúng ta cũng chỉ tám lạng nửa cân thôi!”"
+    },
+    {
+      "segment_id": "0048",
+      "source": "方元三两步跳出门外，隔得远远地叫喊。",
+      "target": "Phương Nguyên thoăn thoắt nhảy ra ngoài cửa, đứng từ đằng xa gọi vọng vào."
+    },
+    {
+      "segment_id": "0049",
+      "source": "“该死，好滑溜的小子！”",
+      "target": "“Đáng chết, tiểu tử này thật ranh ma!”"
+    },
+    {
+      "segment_id": "0050",
+      "source": "韩寿恢复极快，此时手上已经扣了一枚铜纽扣，只等对方靠近，凭着几门刺激气血，压抑伤势的自残之法，也要射杀了那小子，却想不到对方如此滑溜，顷刻间就跑了没影。",
+      "target": "Hàn Thọ hồi phục cực nhanh, lúc này trong tay gã đã kẹp sẵn một chiếc cúc đồng, chỉ đợi đối phương lại gần là sẽ dùng vài môn tự tàn kích thích khí huyết kìm hãm vết thương để bắn chết đối phương, không ngờ tiểu tử này lại ranh ma như thế, trong chớp mắt đã chạy mất tăm."
+    },
+    {
+      "segment_id": "0051",
+      "source": "“等一等，刚才是韩某不对，小兄弟你若肯救治在下，在下愿意将师门真正的神功妙法传授给你！”",
+      "target": "“Khoan đã, vừa rồi là Hàn mưu không đúng, tiểu huynh đệ nếu chịu cứu trị cho tại hạ, tại hạ sẵn lòng truyền thụ thần công diệu pháp thực sự của sư môn cho cậu!”"
+    },
+    {
+      "segment_id": "0052",
+      "source": "现在敌暗我明，纵然不放火烧屋，只是每天不送饭，韩寿都要倒霉，只能服软道。",
+      "target": "Hiện tại địch ở trong tối ta ở ngoài sáng, cho dù đối phương không phóng hỏa đốt nhà, chỉ cần mỗi ngày không đưa cơm là Hàn Thọ cũng đủ thảm rồi, gã đành phải hạ giọng xuống nước."
+    },
+    {
+      "segment_id": "0053",
+      "source": "“罢了，几本粗浅武功都敢如此，我又怎么敢学你的‘神功妙法’？”",
+      "target": "“Thôi đi, vài cuốn võ công thô thiển mà còn dám giở trò như thế, sao tôi dám học 'thần công diệu pháp' của anh chứ?”"
+    },
+    {
+      "segment_id": "0054",
+      "source": "方元的声音中带着戏谑：“韩兄实力惊人，还是请乖乖去死好了。”",
+      "target": "Giọng nói của Phương Nguyên mang theo vẻ trêu cợt: “Hàn huynh thực lực kinh người, thôi thì xin mời ngoan ngoãn đi chết cho rồi.”"
+    },
+    {
+      "segment_id": "0055",
+      "source": "他自家人知道自家事，论智谋心计，乃至武功，自己都根本不是韩寿的对手。",
+      "target": "Cậu tự biết lượng sức mình, luận về mưu trí tâm kế hay cả võ công, bản thân đều hoàn toàn không phải đối thủ của Hàn Thọ."
+    },
+    {
+      "segment_id": "0056",
+      "source": "并且对方伤势看起来很严重，但保不准什么时候就恢复过来，或者强行镇压下去，因此还是不受诱惑，直接送对方去死好了。",
+      "target": "Hơn nữa thương thế của đối phương trông tuy rất nghiêm trọng, nhưng không biết chừng lúc nào sẽ hồi phục lại, hoặc cưỡng ép đè nén xuống, thế nên tốt nhất không nên chịu cám dỗ, trực tiếp tiễn gã lên đường cho xong."
+    },
+    {
+      "segment_id": "0057",
+      "source": "自己宁可从头开始，习练没有问题的粗浅武功，也不能与虎谋皮。",
+      "target": "Bản thân thà bắt đầu lại từ đầu, luyện tập võ công thô thiển không có vấn đề, chứ quyết không thể cùng hổ mưu da."
+    },
+    {
+      "segment_id": "0058",
+      "source": "“好小子！”",
+      "target": "“Tiểu tử khá lắm!”"
+    },
+    {
+      "segment_id": "0059",
+      "source": "韩寿眼珠一转，不知道又要想着什么阴谋诡计。",
+      "target": "Hàn Thọ đảo mắt liên hồi, không biết lại đang tính toán âm mưu quỷ kế gì."
+    },
+    {
+      "segment_id": "0060",
+      "source": "这时候，方元幽幽的声音就传了进来：“韩先生，你也不必想着什么阴谋诡计了，因为你的小命，现在已经掌握在我的手里！”",
+      "target": "Đúng lúc này, giọng nói u u của Phương Nguyên lại truyền vào: “Hàn tiên sinh, anh cũng không cần phải nghĩ tới âm mưu quỷ kế gì nữa đâu, bởi vì mạng nhỏ của anh bây giờ đã nằm trong tay tôi rồi!”"
+    },
+    {
+      "segment_id": "0061",
+      "source": "“你的手里？！”",
+      "target": "“Trong tay cậu?!”"
+    },
+    {
+      "segment_id": "0062",
+      "source": "韩寿冷冷一笑：“之前的药汤，没有丝毫问题，本人又怎么会……”",
+      "target": "Hàn Thọ cười lạnh: “Chén thuốc lúc nãy không hề có chút vấn đề gì, bản nhân làm sao có thể...”"
+    },
+    {
+      "segment_id": "0063",
+      "source": "话到一半，突然停住。",
+      "target": "Nói được nửa chừng, gã bỗng nhiên im bặt."
+    },
+    {
+      "segment_id": "0064",
+      "source": "因为他赫然想到自己之前昏迷，落入对方掌中，岂不是想怎么摆布就怎么摆布？",
+      "target": "Bởi vì gã chợt nhận ra lúc trước mình hôn mê rơi vào tay đối phương, chẳng phải đối phương muốn định đoạt ra sao thì định đoạt thế ấy sao?"
+    },
+    {
+      "segment_id": "0065",
+      "source": "“不错，我在你之前的绷带中，混入了绮罗香，此香原本只有净尘止血之功，对人体殊无害处，只是若遇到了药汤中的参合子，就有些小小的麻烦，会令患者肢体僵硬，甚至部分腐烂……区域”，",
+      "target": "“Đúng vậy, tôi đã trộn Kỳ La Hương vào đống băng gạc trước đó của anh. Loại hương này vốn dĩ chỉ có công dụng sát trùng cầm máu, hoàn toàn không gây hại cho cơ thể người. Chỉ có điều nếu nó gặp phải Sâm Hợp Tử có trong chén thuốc thì sẽ phát sinh chút rắc rối nhỏ, khiến cho tứ chi của người bệnh cứng đờ, thậm chí là thối rữa một phần...”"
+    },
+    {
+      "segment_id": "0066",
+      "source": "“混毒？！”",
+      "target": "“Hỗn độc sao?!”"
+    },
+    {
+      "segment_id": "0067",
+      "source": "韩寿面色肃穆，微一运气，的确感觉到四肢僵硬，但脸上却露出冷笑。",
+      "target": "Vẻ mặt Hàn Thọ nghiêm trọng, khẽ vận khí, quả thực cảm giác được tứ chi cứng đờ, nhưng trên mặt lại lộ ra nụ cười lạnh."
+    },
+    {
+      "segment_id": "0068",
+      "source": "纵然对方再怎么智谋百出，也毕竟只是个普通人，又怎么知道他这种连破五关的武道高手之恐怖？",
+      "target": "Cho dù đối phương có mưu kế chồng chất thế nào đi nữa, rốt cuộc cũng chỉ là một kẻ bình thường, sao biết được sự đáng sợ của cao thủ võ đạo liên phá ngũ quan như gã?"
+    },
+    {
+      "segment_id": "0069",
+      "source": "区区混毒，以自己的内息与身体素质，撑过一段时间，也就自会消去。",
+      "target": "Chút hỗn độc cỏn con này, dựa vào nội tức và tố chất cơ thể của gã, chỉ cần chống đỡ qua một khoảng thời gian thì tự khắc sẽ tiêu tan."
+    },
+    {
+      "segment_id": "0070",
+      "source": "现在需要做的，只是如何将这可恶小子赚进来一举灭掉，又或者稳住，争取时间。",
+      "target": "Việc cần làm lúc này chỉ là làm thế nào để dụ tiểu tử đáng ghét này vào phòng rồi diệt gọn trong một đòn, hoặc là ổn định đối phương nhằm kéo dài thời gian."
+    },
+    {
+      "segment_id": "0071",
+      "source": "“哦？看起来你对自己很有信心！”",
+      "target": "“Oh? Xem ra anh rất tự tin vào bản thân nhỉ!”"
+    },
+    {
+      "segment_id": "0072",
+      "source": "方元的声音传了进来，带着一点诧异：“看来武道高手，的确有把握对付这种毒素？”",
+      "target": "Giọng nói của Phương Nguyên truyền vào, mang theo một chút ngạc nhiên: “Xem ra cao thủ võ đạo quả thực có nắm chắc đối phó được loại độc tố này?”"
+    },
+    {
+      "segment_id": "0073",
+      "source": "听到这个，韩寿的心一下就宛若沉入无底深渊。",
+      "target": "Nghe thấy vậy, trái tim Hàn Thọ lập tức như chìm vào vực sâu không đáy."
+    },
+    {
+      "segment_id": "0074",
+      "source": "因为对方语气自信，似乎丝毫都没有害怕或者恐惧。",
+      "target": "Bởi vì giọng điệu của đối phương vô cùng tự tin, dường như không hề có chút e ngại hay sợ hãi nào."
+    },
+    {
+      "segment_id": "0075",
+      "source": "反倒是他，在之前短暂地压制下毒素之后，却是骇然发现，四肢的僵硬感又浮现上来，甚至皮肉都开始了明显的腐烂。",
+      "target": "Trái lại là gã, sau khi tạm thời đè nén độc tố lúc nãy, lại kinh hãi phát hiện cảm giác tê cứng ở tứ chi lại nổi lên, thậm chí da thịt đã bắt đầu thối rữa rõ ràng."
+    },
+    {
+      "segment_id": "0076",
+      "source": "“忘了告诉你……我配置的混毒，加入了其它材料，效力更加非凡哦！”",
+      "target": "“Quên chưa nói với anh... Hỗn độc tôi điều chế có thêm vào một số nguyên liệu khác, công hiệu càng thêm phi phàm đấy nhé!”"
+    },
+    {
+      "segment_id": "0077",
+      "source": "听着屋内不断传来惊人的惨叫，方元的面色淡漠，近乎古今无波，又看了眼自己的属性：",
+      "target": "Nghe tiếng la hét thảm thiết không ngừng vọng ra từ trong phòng, sắc mặt Phương Nguyên vẫn lãnh đạm, tựa như giếng cổ không gợn sóng, cậu liếc nhìn bảng thuộc tính của mình:"
+    },
+    {
+      "segment_id": "0078",
+      "source": "“姓名：方元",
+      "target": "“Họ tên: Phương Nguyên"
+    },
+    {
+      "segment_id": "0079",
+      "source": "精：1",
+      "target": "Tinh: 1"
+    },
+    {
+      "segment_id": "0080",
+      "source": "气：1",
+      "target": "Khí: 1"
+    },
+    {
+      "segment_id": "0081",
+      "source": "神：1.4",
+      "target": "Thần: 1.4"
+    },
+    {
+      "segment_id": "0082",
+      "source": "年龄：18",
+      "target": "Tuổi: 18"
+    },
+    {
+      "segment_id": "0083",
+      "source": "修为：无",
+      "target": "Tu vi: Không"
+    },
+    {
+      "segment_id": "0084",
+      "source": "技能：无",
+      "target": "Kỹ năng: Không"
+    },
+    {
+      "segment_id": "0085",
+      "source": "专长：医术【一级】、种植术【三级】”",
+      "target": "Sở trường: Y thuật [Cấp 1], Trồng trọt [Cấp 3]”"
+    },
+    {
+      "segment_id": "0086",
+      "source": "“医术【一级】——能治疗简单伤势，包括轻微类的外伤，通过草药，可以获得额外的治愈加成效果。”",
+      "target": "“Y thuật [Cấp 1] —— Có thể điều trị các vết thương đơn giản, bao gồm cả ngoại thương thể nhẹ, thông qua thảo dược có thể nhận được hiệu ứng trị liệu cộng thêm.”"
+    },
+    {
+      "segment_id": "0087",
+      "source": "“额外的治愈加成，反过来，做成毒药，也有着增幅啊！不过，最关键的因素，恐怕还在珠尾蛇之毒吧？”",
+      "target": "“Hiệu ứng trị liệu cộng thêm, ngược lại, chế thành thuốc độc thì cũng có sự gia tăng sao! Có điều, yếu tố mấu chốt nhất e rằng vẫn là ở độc tính của Châu Vĩ Xà nhỉ?”"
+    },
+    {
+      "segment_id": "0088",
+      "source": "等了片刻之后，屋内已经没有了人声，只有令人毛骨悚然的腐蚀声还在不断传出。",
+      "target": "Đợi thêm một lát, trong phòng đã không còn tiếng người, chỉ còn tiếng ăn mòn rợn tóc gáy vẫn không ngừng truyền ra ngoài."
+    },
+    {
+      "segment_id": "0089",
+      "source": "方元用白布捂着口鼻，施施然走进，旋即就看到了被腐蚀得千疮百孔的木板床，以及地上的一滩脓水。",
+      "target": "Phương Nguyên dùng một tấm vải trắng che miệng mũi, thong thả đi vào, ngay sau đó liền nhìn thấy chiếc giường ván gỗ bị ăn mòn loang lổ trăm ngàn lỗ thủng, cùng với một vũng nước mủ trên mặt đất."
+    },
+    {
+      "segment_id": "0090",
+      "source": "“效果如此之好？”",
+      "target": "“Hiệu quả lại tốt đến thế sao?”"
+    },
+    {
+      "segment_id": "0091",
+      "source": "这么可怕的效果，顿时连始作俑者的方元都有些傻眼：“倒是省了处理尸体的麻烦……”",
+      "target": "Hiệu quả đáng sợ như thế lập tức khiến ngay cả kẻ chủ mưu là Phương Nguyên cũng có phần ngơ ngác: “Trái lại đỡ được phiền phức xử lý thi thể...”"
+    },
+    {
+      "segment_id": "0092",
+      "source": "他将零散的衣物拾起，准备一把火烧了，彻底毁尸灭迹。",
+      "target": "Cậu nhặt đống quần áo rơi rụng lên, chuẩn bị châm một mồi lửa đốt sạch, triệt để hủy thi diệt tích."
+    },
+    {
+      "segment_id": "0093",
+      "source": "这韩寿来历明显非同小可，更代表着麻烦，方元利用完之后就准备撇个一干二净，丝毫都不准备沾惹的。",
+      "target": "Hàn Thọ này lai lịch rõ ràng không hề tầm thường, càng đại biểu cho rắc rối, Phương Nguyên lợi dụng xong liền định phủi tay sạch sẽ, không muốn dây dưa vào một chút nào."
+    },
+    {
+      "segment_id": "0094",
+      "source": "“倒是……为了什么宝物叛门？”",
+      "target": "“Có điều... gã vì bảo vật gì mà phản bội sư môn nhỉ?”"
+    },
+    {
+      "segment_id": "0095",
+      "source": "他看着韩寿的靴子，脸上带起一丝笑意。",
+      "target": "Cậu nhìn chằm chằm vào đôi ủng của Hàn Thọ, trên mặt hiện lên một tia cười ý."
+    },
+    {
+      "segment_id": "0096",
+      "source": "对方将东西藏得真是十分不错，若非一清醒过来之后，就下意识地瞥了靴子一眼，纵然方元也有可能遗漏过去。",
+      "target": "Đối phương giấu đồ quả thực vô cùng kín kẽ, nếu không phải ngay khi vừa tỉnh lại gã đã vô thức liếc nhìn đôi ủng một cái, e là Phương Nguyên cũng có khả năng bỏ sót."
+    },
+    {
+      "segment_id": "0097",
+      "source": "他立即上前，掏出匕首，将韩寿的云靴大卸八块。",
+      "target": "Cậu lập tức bước tới, rút dao găm ra, rạch nát đôi ủng vân của Hàn Thọ ra làm nhiều mảnh."
+    },
+    {
+      "segment_id": "0098",
+      "source": "在右脚靴底的夹层中，一张黑色的牛皮纸就浮现出来。",
+      "target": "Trong lớp đệm dưới đế ủng bên phải, một mảnh giấy da bò màu đen lộ ra."
+    },
+    {
+      "segment_id": "0099",
+      "source": "“这就是他不惜叛门，击杀师兄，也要独吞的宝物？”",
+      "target": "“Đây chính là bảo vật gã không tiếc phản bội sư môn, sát hại sư huynh, cũng muốn độc chiếm sao?”"
+    },
+    {
+      "segment_id": "0100",
+      "source": "方元看着黑纸上鬼画符一般的线条，不由十分无语地猜测：“藏宝图？似乎还是残缺的……见鬼了……”",
+      "target": "Phương Nguyên nhìn những đường nét loằng ngoằng như vẽ bùa trên mảnh giấy đen, không khỏi vô cùng cạn lời đoán: “Bản đồ kho báu? Hình như còn là bản thiếu... Đúng là gặp quỷ mà...”"
+    },
+    {
+      "segment_id": "0101",
+      "source": "这东西藏得十分严密，错非将靴子拆开，根本发现不了丝毫，令方元清楚知晓韩寿对于此物的看重。",
+      "target": "Thứ này giấu vô cùng kín kẽ, nếu không tháo rời chiếc ủng ra thì căn bản không phát hiện nổi một chút dấu vết, điều này giúp Phương Nguyên hiểu rõ Hàn Thọ coi trọng vật này đến mức nào."
+    },
+    {
+      "segment_id": "0102",
+      "source": "只是一份残缺 of 藏宝图，纵然到手了，又有什么用呢？",
+      "target": "Chỉ có điều, một tấm bản đồ kho báu bị khuyết thế này, cho dù có đoạt được thì có ích gì chứ?"
+    },
+    {
+      "segment_id": "0103",
+      "source": "方元对此十分不解，但还是决定将它收好，旋即打了个火堆，将韩寿的衣物彻底焚烧，污水洗了，抛入深谷。",
+      "target": "Phương Nguyên vô cùng khó hiểu về chuyện này, nhưng vẫn quyết định cất kỹ nó đi, ngay sau đó nhóm lên một đống lửa, thiêu hủy hoàn toàn quần áo của Hàn Thọ, dội nước rửa sạch vết tích bẩn thỉu rồi ném xuống vực sâu."
+    },
+    {
+      "segment_id": "0104",
+      "source": "从此，韩寿这个人，就真真正正地从世界上消失，任凭谁也找不回来了。",
+      "target": "Từ đây, người tên Hàn Thọ này đã chân chính biến mất khỏi thế gian, bất kể là ai cũng đừng hòng tìm ra được nữa."
+    },
+    {
+      "segment_id": "0105",
+      "source": "“只是忘了问他到底是哪个宗门的了，附近的大宗门，似乎只有一个归灵宗？”",
+      "target": "“Chỉ tiếc quên hỏi gã rốt cuộc thuộc tông môn nào, tông môn lớn ở gần đây hình như chỉ có mỗi Quy Linh Tông?”"
+    },
+    {
+      "segment_id": "0106",
+      "source": "在毁尸灭迹之后，方元才有心情胡思乱想：“没有拿到神功秘笈，也有些可惜，不过相比于风险而言，如此还是完全值得的。”",
+      "target": "Sau khi hủy thi diệt tích xong xuôi, Phương Nguyên mới có tâm trí suy nghĩ vẩn vơ: “Không lấy được bí kíp thần công quả thực có chút đáng tiếc, nhưng so với rủi ro phải gánh chịu thì như thế này vẫn hoàn toàn xứng đáng.”"
+    }
+  ]
+}
+```

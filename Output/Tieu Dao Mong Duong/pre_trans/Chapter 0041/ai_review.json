@@ -1,0 +1,17 @@
+```json
+{
+  "names": {
+    "approved": [
+      {"source": "方元", "target": "Phương Nguyên", "type": "person"},
+      {"source": "花狐貂", "target": "Hoa Hồ Điêu", "type": "person"}
+    ]
+  },
+  "terms": {
+    "approved": [
+      {"source": "种植术", "target": "Trồng trọt thuật", "type": "term"},
+      {"source": "鹰爪铁布衫", "target": "Ưng Trảo Thiết Bố Sam", "type": "term"},
+      {"source": "专长：医术", "target": "Chuyên trang: Y thuật", "type": "term"}
+    ]
+  }
+}
+```

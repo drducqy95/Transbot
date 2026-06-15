@@ -1,0 +1,468 @@
+```json
+{
+  "chapter_number": 15,
+  "chapter_title_vi": "Chương 15: Bồi lễ",
+  "segments": [
+    {
+      "segment_id": "0001",
+      "source": "# 第15章 赔礼",
+      "target": "# Chương 15: Bồi lễ"
+    },
+    {
+      "segment_id": "0002",
+      "source": "幽谷之内。",
+      "target": "Trong u cốc."
+    },
+    {
+      "segment_id": "0003",
+      "source": "清晨，方元架起一口铁锅，将泉水烧滚，又灌入细沙，加入药材，细细熬煮。",
+      "target": "Sáng sớm, Phương Nguyên bắc một cái nồi sắt lên, đun sôi nước suối, lại đổ cát mịn vào, thêm dược liệu, tỉ mỉ sắc nấu."
+    },
+    {
+      "segment_id": "0004",
+      "source": "“黑沙掌的习练，必须要用特定的药砂，在捶打过程中将药力渗入筋骨……再配合招式、技法，练成之后，开碑裂石，无往不利……”",
+      "target": "\"Việc tu luyện Hắc Sa Chưởng bắt buộc phải dùng dược sa đặc chế, trong quá trình đập tay sẽ khiến dược lực ngấm vào gân cốt... Lại phối hợp với chiêu thức, kỹ pháp, sau khi luyện thành có thể khai bia nứt đá, đánh đâu thắng đó...\""
+    },
+    {
+      "segment_id": "0005",
+      "source": "原本这三本秘笈经过方元检验，确信没有什么大问题，又再经过韩寿的最后一试，此时终于准备上手习练。",
+      "target": "Vốn ba cuốn bí kíp này đã được Phương Nguyên kiểm tra, tin chắc không có vấn đề gì lớn, lại trải qua lần thử nghiệm cuối cùng của Hàn Thọ, lúc này rốt cuộc hắn cũng chuẩn bị bắt tay vào luyện tập."
+    },
+    {
+      "segment_id": "0006",
+      "source": "“武道之中，有金锁重楼十二关，黑沙掌若练到巅峰，勉强可到第五关的地步……”",
+      "target": "\"Trong võ đạo có Kim Tỏa Trọng Lâu Thập Nhị Quan, Hắc Sa Chưởng nếu luyện tới đỉnh phong, miễn cưỡng có thể đạt tới cảnh giới cửa ải thứ năm...\""
+    },
+    {
+      "segment_id": "0007",
+      "source": "这就是黑沙掌的极限，也是普通功法与神功秘册的差别所在。",
+      "target": "Đây chính là giới hạn của Hắc Sa Chưởng, cũng là sự khác biệt giữa công pháp bình thường và thần công bí điển."
+    },
+    {
+      "segment_id": "0008",
+      "source": "“鹰爪功更坑，至多练到第三关，其后就需要特定的心法配合，但如果真的找到了，是足以冲破桎梏，到达第八关的功法，在那些宗门之中也算不错了……”",
+      "target": "\"Ưng Trảo Công còn hố hơn, nhiều nhất chỉ luyện tới cửa ải thứ ba, sau đó cần có tâm pháp đặc thù phối hợp. Nhưng nếu thực sự tìm được thì lại là công pháp đủ để phá vỡ gông cùm, đạt tới cửa ải thứ tám, ở trong những tông môn kia cũng tính là không tệ rồi...\""
+    },
+    {
+      "segment_id": "0009",
+      "source": "方元细细整理着自秘笈中得到的信息。",
+      "target": "Phương Nguyên cẩn thận sắp xếp lại những thông tin thu được từ trong bí kíp."
+    },
+    {
+      "segment_id": "0010",
+      "source": "“还有最后一本硬气功，虽然有些内息的味道，奈何连创始人都不知道它能到什么地步，历史上，就是在冲击第六关伤门的时候失败，反伤而死了……”",
+      "target": "\"Còn cuốn Ngạnh Khí Công cuối cùng, mặc dù có chút hương vị nội tức, nhưng làm sao ngay cả người sáng lập cũng không biết nó có thể đạt tới mức nào. Trong lịch sử, người đó chính là khi đang xung kích cửa ải thứ sáu Thương môn thì thất bại, bị phản phệ mà chết...\""
+    },
+    {
+      "segment_id": "0011",
+      "source": "方元叹了口气。",
+      "target": "Phương Nguyên thở dài một hơi."
+    },
+    {
+      "segment_id": "0012",
+      "source": "金锁重楼十二关，每一关都是一个疑难，又有几个大关卡。",
+      "target": "Kim Tỏa Trọng Lâu Thập Nhị Quan, mỗi một cửa ải đều là một nan đề, lại có mấy chướng ngại lớn."
+    },
+    {
+      "segment_id": "0013",
+      "source": "“金锁重楼十二关，我现在只知道前八关：开、休、生、杜、景、伤、惊、死！这其中又有细分，前三关开、休、生，一旦突破，对于人身就有增幅，并且突破失败也没有伤害，为武道基础，杜、景二关就有些麻烦，但失败对身体伤害也不大，只是最后三关，一旦破关失败，武者必然受到反噬，甚至身死！特别是第八关死关，必须一鼓作气冲破，失败就是死！”",
+      "target": "\"Kim Tỏa Trọng Lâu Thập Nhị Quan, ta hiện tại chỉ biết tám cửa ải đầu: Khai, Hưu, Sinh, Đỗ, Cảnh, Thương, Kinh, Tử! Trong đó lại chia nhỏ ra, ba cửa ải đầu Khai, Hưu, Sinh một khi đột phá, đối với thân thể con người sẽ có sự tăng phúc, hơn nữa đột phá thất bại cũng không bị tổn thương, là nền tảng võ đạo. Hai cửa Đỗ, Cảnh thì có chút rắc rối, nhưng thất bại cũng không gây thương tổn lớn cho thân thể. Chỉ là ba cửa ải sau cùng, một khi phá quan thất bại, võ giả tất nhiên sẽ bị phản phệ, thậm chí mất mạng! Đặc biệt là cửa ải thứ tám Tử quan, bắt buộc phải dốc toàn lực làm một mạch phá vỡ, thất bại chính là chết!\""
+    },
+    {
+      "segment_id": "0014",
+      "source": "修行之道，从来都不是什么简单的事情。",
+      "target": "Con đường tu hành, từ trước đến nay đều không phải là chuyện đơn giản gì."
+    },
+    {
+      "segment_id": "0015",
+      "source": "“前八关都是如此，后四门据说又是另外一重天地，而在这之上的武宗，就不知道是何等的境界了……”",
+      "target": "\"Tám cửa ải đầu đã là như thế, bốn môn phía sau nghe nói lại là một tầng thiên địa khác, mà Võ Tông ở phía trên cái này, cũng không biết là loại cảnh giới nào rồi...\""
+    },
+    {
+      "segment_id": "0016",
+      "source": "方元幽幽叹息一声。",
+      "target": "Phương Nguyên khẽ thở dài một tiếng u uẩn."
+    },
+    {
+      "segment_id": "0017",
+      "source": "“还有传说，在武者之上，有着更多的修炼之途，更有想象不到，不可思议的强者……”",
+      "target": "\"Còn có truyền thuyết kể rằng, ở trên võ giả còn có nhiều con đường tu luyện hơn, càng có những cường giả bất khả tư nghị, không thể tưởng tượng nổi...\""
+    },
+    {
+      "segment_id": "0018",
+      "source": "在方元心里，蓦然生出一股向往。",
+      "target": "Trong lòng Phương Nguyên bỗng nhiên sinh ra một cỗ khát khao."
+    },
+    {
+      "segment_id": "0019",
+      "source": "他虽然没有多少野心，但如果能成为仙神一般的人物，不老不死，快活逍遥，似乎也是一件非常不错的事情。",
+      "target": "Hắn tuy không có bao nhiêu dã tâm, nhưng nếu có thể trở thành nhân vật giống như tiên thần, bất lão bất tử, khoái hoạt tiêu dao, dường như cũng là một chuyện vô cùng không tồi."
+    },
+    {
+      "segment_id": "0020",
+      "source": "“并且，我的确需要一点自保的力量！”",
+      "target": "\"Hơn nữa, ta quả thật cần một chút sức mạnh để tự bảo vệ mình!\""
+    },
+    {
+      "segment_id": "0021",
+      "source": "药砂煎好，原本细腻洁白的细砂就泛着黑色，泛着一股药味，方元当即找来粗布，将这些药砂细细收好。",
+      "target": "Dược sa nấu xong, lớp cát mịn vốn nhỏ nhẵn trắng trẻo liền ngả sang màu đen, thoang thoảng một mùi thuốc. Phương Nguyên lập tức tìm mảnh vải thô, cẩn thận cất dọn đống dược sa này vào."
+    },
+    {
+      "segment_id": "0022",
+      "source": "“鹰爪功没有心法与行气路线配合，撑死练个前三关，放在江湖上也是最普通的打酱油货色……”",
+      "target": "\"Ưng Trảo Công không có tâm pháp cùng lộ tuyến hành khí phối hợp, ráng lắm cũng chỉ luyện được ba cửa ải đầu, đặt trên giang hồ cũng là loại hàng sắc bình thường nhất, chuyên đi làm nền...\""
+    },
+    {
+      "segment_id": "0023",
+      "source": "“而硬气功属于自创，练的人不多，关键创始人在冲关之时将自己练死了……最多只能练个前五层……”",
+      "target": "\"Còn Ngạnh Khí Công thuộc loại tự sáng tạo, người luyện không nhiều. Quan trọng là người sáng lập trong lúc xung quan đã tự luyện mình tới chết... Nhiều nhất chỉ có thể luyện được năm tầng đầu...\""
+    },
+    {
+      "segment_id": "0024",
+      "source": "按照秘笈所言，还有方元自己的推测，前三关的武道好手，可能才是现今江湖的主流。",
+      "target": "Chiếu theo lời ghi trong bí kíp, cùng với suy đoán của bản thân Phương Nguyên, hảo thủ võ đạo ở ba cửa ải đầu có lẽ mới là trào lưu chính trên giang hồ hiện nay."
+    },
+    {
+      "segment_id": "0025",
+      "source": "四五关的就比较少见稀罕了，至少能保证养尊处优，地位崇高。",
+      "target": "Người ở cửa ải thứ tư, thứ năm thì hiếm thấy hơn một chút, ít nhất cũng có thể bảo đảm cuộc sống sung sướng, địa vị cao quý."
+    },
+    {
+      "segment_id": "0026",
+      "source": "而到了伤门关之后，更是宗派中的精英主力，足可称之为一方小高手了。",
+      "target": "Còn sau khi đạt tới Thương môn quan thì lại càng là đội ngũ tinh anh chủ lực trong các tông phái, hoàn toàn đủ để xưng là tiểu cao thủ một phương."
+    },
+    {
+      "segment_id": "0027",
+      "source": "“前八关便是如此厉害，那后四关，以及更上的武宗之境……”",
+      "target": "\"Tám cửa ải đầu đã lợi hại như vậy, vậy bốn cửa ải sau, cùng với cảnh giới Võ Tông ở tầng cao hơn...\""
+    },
+    {
+      "segment_id": "0028",
+      "source": "方元吐出一口长气，深知归灵宗能独霸一方，土皇帝一般，并非没有依仗。",
+      "target": "Phương Nguyên thở hắt ra một hơi dài, hiểu rõ Quy Linh Tông có thể độc bá một phương, giống như một vị thổ hoàng đế, cũng không phải là không có chỗ dựa."
+    },
+    {
+      "segment_id": "0029",
+      "source": "一位武宗，便足以镇压这一切！",
+      "target": "Một vị Võ Tông, liền đủ để trấn áp tất cả những thứ này!"
+    },
+    {
+      "segment_id": "0030",
+      "source": "“这个世界很大，清灵山不过边缘一角，要想去见识更加广阔的世界，就必须不断提升自己……”",
+      "target": "\"Thế giới này rất lớn, Thanh Linh Sơn chẳng qua chỉ là một góc biên giới. Nếu muốn đi kiến thức thế giới rộng lớn hơn, liền bắt buộc phải không ngừng nâng cao bản thân...\""
+    },
+    {
+      "segment_id": "0031",
+      "source": "方元虽然天性懒散淡然，只是若定下目标，却往往也会爆发出惊人的毅力。",
+      "target": "Tuy thiên tính Phương Nguyên lười biếng đạm mạc, nhưng một khi đã hạ quyết tâm, thường cũng sẽ bộc phát ra nghị lực kinh người."
+    },
+    {
+      "segment_id": "0032",
+      "source": "“目前而言，还是黑沙掌最适合我！”",
+      "target": "\"Ở hiện tại mà nói, Hắc Sa Chưởng vẫn là thích hợp với ta nhất!\""
+    },
+    {
+      "segment_id": "0033",
+      "source": "他现在也只是需要一门能助他破关的武技，专精一门便足够了，否则贪多嚼不烂，哪里有着这样的闲功夫？",
+      "target": "Hắn hiện tại cũng chỉ cần một môn võ kỹ có thể giúp hắn phá quan, chuyên tinh một môn là đủ rồi, bằng không tham thì thâm, làm gì có thời gian rảnh rỗi như vậy?"
+    },
+    {
+      "segment_id": "0034",
+      "source": "“呼……”",
+      "target": "\"Phù...\""
+    },
+    {
+      "segment_id": "0035",
+      "source": "看着面前用药砂包好的沙包，方元深吸口气：“摔掌！”",
+      "target": "Nhìn bao cát dùng dược sa gói kỹ trước mặt, Phương Nguyên hít sâu một hơi: \"Suất chưởng!\""
+    },
+    {
+      "segment_id": "0036",
+      "source": "啪！",
+      "target": "Bốp!"
+    },
+    {
+      "segment_id": "0037",
+      "source": "他反身一掌，印在沙包之上，顿时感觉手背有些火辣辣的疼。",
+      "target": "Hắn xoay người đánh một chưởng in lên bao cát, lập tức cảm thấy mu bàn tay có chút đau rát."
+    },
+    {
+      "segment_id": "0038",
+      "source": "“果然，练武很苦，纵然以前的师父逼着我练，搞不好我也会逃掉……”",
+      "target": "\"Quả nhiên, luyện võ rất khổ, cho dù sư phụ trước kia có ép ta luyện, không chừng ta cũng sẽ bỏ trốn...\""
+    },
+    {
+      "segment_id": "0039",
+      "source": "十掌！",
+      "target": "Mười chưởng!"
+    },
+    {
+      "segment_id": "0040",
+      "source": "五十掌！",
+      "target": "Năm mươi chưởng!"
+    },
+    {
+      "segment_id": "0041",
+      "source": "一百掌！",
+      "target": "Một trăm chưởng!"
+    },
+    {
+      "segment_id": "0042",
+      "source": "五百掌！！",
+      "target": "Năm trăm chưởng!!"
+    },
+    {
+      "segment_id": "0043",
+      "source": "足足一千掌之后，方元这才收回双手，看到双手手心手背都有些破皮，一股火辣之意萦绕，又有丝丝清亮的药性涌入。",
+      "target": "Phải tới đủ một ngàn chưởng sau đó, Phương Nguyên lúc này mới thu hồi hai tay, nhìn thấy cả lòng bàn tay lẫn mu bàn tay đều có chút trầy da, một cỗ cảm giác nóng rát quẩn quanh, lại có từng tia dược tính thanh mát ùa vào."
+    },
+    {
+      "segment_id": "0044",
+      "source": "“呼……”",
+      "target": "\"Phù...\""
+    },
+    {
+      "segment_id": "0045",
+      "source": "见此，方元不敢怠慢，又将双手浸泡到旁边准备好的水盆里。",
+      "target": "Thấy vậy, Phương Nguyên không dám chậm trễ, lại đem hai tay ngâm vào chậu nước đã chuẩn bị sẵn bên cạnh."
+    },
+    {
+      "segment_id": "0046",
+      "source": "“练习黑沙掌，绝对不能断了药材供应，特别是这最后的温养手续，若没有这个，只会练成个废人。”",
+      "target": "\"Luyện tập Hắc Sa Chưởng tuyệt đối không thể để đứt đoạn việc cung cấp dược liệu, đặc biệt là quá trình ôn dưỡng cuối cùng này. Nếu không có nó, sẽ chỉ luyện thành một phế nhân.\""
+    },
+    {
+      "segment_id": "0047",
+      "source": "小半个时辰之后，方元将已经变得有些漆黑的水倒掉，又换了一盆新的。",
+      "target": "Gần nửa canh giờ sau, Phương Nguyên đổ đi chậu nước đã đổi sang màu đen xì, lại thay một chậu mới."
+    },
+    {
+      "segment_id": "0048",
+      "source": "“幸好，这种普通草药，我幽谷之中还算齐备，储量也不小……”",
+      "target": "\"May mà loại thảo dược bình thường này, trong u cốc của ta coi như cũng có đủ, số lượng dự trữ cũng không nhỏ...\""
+    },
+    {
+      "segment_id": "0049",
+      "source": "“咯咯！”",
+      "target": "\"Két két!\""
+    },
+    {
+      "segment_id": "0050",
+      "source": "在旁边，花狐貂看了半天，有些百无赖聊地打着哈欠，突然黑溜溜的眼睛一转，跑到边上，特意嗅了嗅方元丢掉的药汁，顿时一脸嫌弃地退开。",
+      "target": "Ở bên cạnh, Hoa Hồ Điêu nhìn nửa ngày, có chút buồn chán ngáp một cái. Đột nhiên cặp mắt đen nhánh xoay chuyển, nó chạy tới bên cạnh, cố ý ngửi ngửi chỗ nước thuốc mà Phương Nguyên đổ đi, lập tức bày ra vẻ mặt ghét bỏ lùi lại."
+    },
+    {
+      "segment_id": "0051",
+      "source": "这种极为拟人的神态，令方元几乎以为自己见到了一个活生生的人。",
+      "target": "Vẻ mặt cực kỳ giống người này, làm Phương Nguyên suýt nữa tưởng rằng mình đang nhìn thấy một con người bằng xương bằng thịt."
+    },
+    {
+      "segment_id": "0052",
+      "source": "“好了，花狐貂，不要胡闹，我马上为你准备烤肉！”",
+      "target": "\"Được rồi, Hoa Hồ Điêu, đừng làm rộn nữa, ta lập tức chuẩn bị thịt nướng cho mi!\""
+    },
+    {
+      "segment_id": "0053",
+      "source": "方元笑骂了一句，又看了看自己的双手。",
+      "target": "Phương Nguyên cười mắng một câu, lại nhìn hai tay của mình."
+    },
+    {
+      "segment_id": "0054",
+      "source": "在浸泡药水之后，原本的火辣之意完全消散，这时双掌完全一片清凉，甚至隐约间还有一点死皮皱起，即将脱落。",
+      "target": "Sau khi ngâm nước thuốc, cảm giác nóng rát lúc trước hoàn toàn tiêu tán. Lúc này hai bàn tay hoàn toàn là một mảnh mát lạnh, thậm chí mơ hồ còn có chút da chết nhăn lại, sắp sửa bong ra."
+    },
+    {
+      "segment_id": "0055",
+      "source": "“按照秘笈所言，黑沙掌大成，手掌反而细腻洁白，比妙龄女子之手还要滑腻，但一运功，却是能顷刻间坚硬若铁，开碑裂石，甚至可附加毒伤……”",
+      "target": "\"Chiếu theo lời ghi trong bí kíp, Hắc Sa Chưởng đạt tới đại thành thì bàn tay trái lại sẽ mịn màng trắng trẻo, còn nhẵn nhụi hơn cả tay của thiếu nữ thanh xuân. Nhưng một khi vận công lại có thể trong khoảnh khắc cứng rắn như sắt, khai bia nứt đá, thậm chí có thể cộng thêm độc thương...\""
+    },
+    {
+      "segment_id": "0056",
+      "source": "“从今天开始，每日抽出三个时辰习练黑沙掌，就不知道什么能够破关了……”",
+      "target": "\"Bắt đầu từ hôm nay, mỗi ngày rút ra ba canh giờ luyện tập Hắc Sa Chưởng, chỉ là không biết khi nào mới có thể phá quan...\""
+    },
+    {
+      "segment_id": "0057",
+      "source": "方元看着自己的属性栏，有些无奈。",
+      "target": "Phương Nguyên nhìn bảng thuộc tính của mình, có chút bất đắc dĩ."
+    },
+    {
+      "segment_id": "0058",
+      "source": "他这个系统眼界太高，能被看上，主动收录的，终究是少数。",
+      "target": "Nhãn quan hệ thống này của hắn quá cao, những thứ lọt vào mắt xanh được nó chủ động thu lục lại, suy cho cùng chỉ là số ít."
+    },
+    {
+      "segment_id": "0059",
+      "source": "“不过，等到我将黑沙掌彻底上手，甚至突破武者第一关的时候，它再怎么样也必须承认了吧？”",
+      "target": "\"Bất quá, chờ đến khi ta triệt để thuần thục Hắc Sa Chưởng, thậm chí đột phá cửa ải thứ nhất của võ giả, nó dù thế nào cũng bắt buộc phải công nhận chứ?\""
+    },
+    {
+      "segment_id": "0060",
+      "source": "方元心里有些踌躇满志地想着。",
+      "target": "Phương Nguyên nghĩ thầm trong lòng với vẻ đầy chí khí."
+    },
+    {
+      "segment_id": "0061",
+      "source": "……",
+      "target": "..."
+    },
+    {
+      "segment_id": "0062",
+      "source": "“二哥，为何人家还要来这里？”",
+      "target": "\"Nhị ca, tại sao muội còn phải đến nơi này?\""
+    },
+    {
+      "segment_id": "0063",
+      "source": "山外，周家大小姐周文馨与周二哥一起，向幽谷缓缓进发，周文馨的脸上不情不愿，更带着一点隐隐的惧怕。",
+      "target": "Ngoài núi, đại tiểu thư Chu gia Chu Văn Hinh cùng Chu nhị ca đang từ từ tiến về phía u cốc. Trên mặt Chu Văn Hinh tràn đầy vẻ không tình nguyện, càng mang theo một tia sợ hãi mờ nhạt."
+    },
+    {
+      "segment_id": "0064",
+      "source": "‘难得终于有了个能制住小妹的人……’",
+      "target": "'Hiếm khi mới có được một người trị được tiểu muội...'"
+    },
+    {
+      "segment_id": "0065",
+      "source": "周二哥看了，心里一笑，却板起了脸：“你之前登门问罪，简直是不分青红皂白，道歉也是应该的……”",
+      "target": "Chu nhị ca thấy vậy thì cười thầm trong lòng, nhưng ngoài mặt lại nghiêm giọng nói: \"Lần trước muội tới cửa hỏi tội, quả thực là không phân biệt trắng đen, đến xin lỗi cũng là việc nên làm...\""
+    },
+    {
+      "segment_id": "0066",
+      "source": "周家财大气粗，仆从如云，药材如此关键的东西，在进入周老爷嘴之前又怎么可能不经过数道检验？",
+      "target": "Chu gia tài đại khí thô, nô bộc như mây, thứ quan trọng như dược liệu, trước khi đưa vào miệng Chu lão gia sao có thể không trải qua mấy khâu kiểm tra cho được?"
+    },
+    {
+      "segment_id": "0067",
+      "source": "别的不说，纵然林员外也不会如此。",
+      "target": "Không nói đâu xa, ngay cả Lâm viên ngoại cũng sẽ không làm như vậy."
+    },
+    {
+      "segment_id": "0068",
+      "source": "两家认定都没有问题，周老爷这段时间又不止进了这一味药，再找人家麻烦，实在有些强词夺理的感觉。",
+      "target": "Cả hai nhà đều nhận định là không có vấn đề, Chu lão gia khoảng thời gian này cũng không chỉ dùng mỗi vị thuốc này, lại tiếp tục kiếm chuyện với người ta, quả thực mang cảm giác cưỡng từ đoạt lý."
+    },
+    {
+      "segment_id": "0069",
+      "source": "“那为什么还要去求他……明明只是一个不懂武功的……”",
+      "target": "\"Vậy tại sao còn phải tới cầu xin hắn... Rõ ràng chỉ là một tên không hiểu võ công...\""
+    },
+    {
+      "segment_id": "0070",
+      "source": "周文馨原本还想说些什么，但脑海中蓦然浮现出方元的身影，却是吓得双腿颤抖，原本想骂的话也出不了口。",
+      "target": "Chu Văn Hinh vốn còn định nói thêm gì đó, nhưng trong đầu bỗng nhiên hiện ra thân ảnh của Phương Nguyên, lại sợ hãi đến mức hai chân run rẩy, những lời định chửi mắng cũng không thốt nên lời."
+    },
+    {
+      "segment_id": "0071",
+      "source": "“不会武功，保不准会别的啊……这个世上，可不是单有武者，传闻中的法士、灵士之流，纵然八关之后的武者都要礼敬……”",
+      "target": "\"Không biết võ công, nhưng chưa chắc đã không biết thứ khác... Trên đời này cũng không phải chỉ có mỗi võ giả. Hạng người Pháp Sĩ, Linh Sĩ trong truyền thuyết, cho dù là võ giả sau tám cửa ải cũng phải cung kính thi lễ...\""
+    },
+    {
+      "segment_id": "0072",
+      "source": "周二哥这时候的脸色终于转为肃穆：“那日家丁的伤口，我都看了，十分奇异，并且根据你等描述，纵然眼力最好之人，也只是看到一道白光闪烁，这就有些类似灵士手段了……”",
+      "target": "Sắc mặt Chu nhị ca lúc này rốt cục cũng chuyển sang vẻ trang nghiêm: \"Vết thương của đám gia đinh ngày hôm đó, huynh đều xem qua rồi, vô cùng kỳ lạ. Hơn nữa theo như lời các muội miêu tả, cho dù người có nhãn lực tốt nhất cũng chỉ nhìn thấy một tia bạch quang lóe lên, cái này có chút giống thủ đoạn của Linh Sĩ rồi...\""
+    },
+    {
+      "segment_id": "0073",
+      "source": "一想到方元当日的神异，纵然周文馨都是默然不语。",
+      "target": "Vừa nghĩ tới sự thần dị của Phương Nguyên ngày hôm đó, ngay cả Chu Văn Hinh cũng đều lặng im không nói."
+    },
+    {
+      "segment_id": "0074",
+      "source": "“是以今日，你一定记住，千万不要再耍大小姐脾气了，知道么？”",
+      "target": "\"Vì vậy ngày hôm nay, muội nhất định phải nhớ kỹ, tuyệt đối đừng giở thói tính khí đại tiểu thư ra nữa, biết chưa?\""
+    },
+    {
+      "segment_id": "0075",
+      "source": "周家二哥一瞬间声色俱厉：“这也是为了我们父亲！”",
+      "target": "Sắc mặt và giọng điệu của Chu gia nhị ca trong chốc lát trở nên nghiêm khắc: \"Chuyện này cũng là vì phụ thân của chúng ta!\""
+    },
+    {
+      "segment_id": "0076",
+      "source": "周老爷到了现在，近乎药石无灵，或许也唯有传说中的灵士，才能以法术之力挽回了。",
+      "target": "Chu lão gia đến hiện tại đã gần như dược thạch vô linh, có lẽ cũng chỉ có Linh Sĩ trong truyền thuyết, mới có thể dùng pháp thuật vãn hồi thôi."
+    },
+    {
+      "segment_id": "0077",
+      "source": "“我……我知道了！”",
+      "target": "\"Muội... Muội biết rồi!\""
+    },
+    {
+      "segment_id": "0078",
+      "source": "虽然从小被当成宝贝一般，受尽千万般宠溺，但此时的周文馨还是知晓轻重缓急，当即垂着头，声音仿佛蚊鸣。",
+      "target": "Mặc dù từ nhỏ đã được coi như bảo bối, nhận hết ngàn vạn bề nuông chiều, nhưng Chu Văn Hinh lúc này vẫn biết phân biệt mức độ nặng nhẹ, lập tức cúi đầu, giọng nói nhỏ như muỗi kêu."
+    },
+    {
+      "segment_id": "0079",
+      "source": "实际上，自从上次方元狠狠教训过她一顿之后，就在周大小姐心里留下了阴影，恐怕纵然周家二哥不提醒，也绝对不可能再去找麻烦的。",
+      "target": "Trên thực tế, kể từ sau lần bị Phương Nguyên hung hăng giáo huấn cho một trận, trong lòng Chu đại tiểu thư đã lưu lại bóng ma tâm lý. E rằng dù cho Chu gia nhị ca không nhắc nhở, nàng cũng tuyệt đối không dám tới gây sự nữa."
+    },
+    {
+      "segment_id": "0080",
+      "source": "不多时，幽谷赫然在望。",
+      "target": "Không bao lâu sau, u cốc đã hiện ra rõ rệt trước mắt."
+    },
+    {
+      "segment_id": "0081",
+      "source": "周家二哥环视一圈，旋即深吸口气：“周家周文武、周文馨，请见方小居士！”",
+      "target": "Chu gia nhị ca đưa mắt nhìn quanh một vòng, ngay lập tức hít sâu một hơi: \"Chu gia Chu Văn Võ, Chu Văn Hinh, xin cầu kiến Phương tiểu cư sĩ!\""
+    },
+    {
+      "segment_id": "0082",
+      "source": "他声音清越，远远传播开去，四处可闻。",
+      "target": "Giọng nói của y trong trẻo vang xa, truyền đi bốn phía, từ xa cũng nghe thấy được."
+    },
+    {
+      "segment_id": "0083",
+      "source": "“嗯？”",
+      "target": "\"Hả?\""
+    },
+    {
+      "segment_id": "0084",
+      "source": "山谷之内，原本正在埋头练掌的方元豁然抬头：“周家二少，这声音……想不到他也是习武之人，并且修为比我高深，也不知道到了第几关……”",
+      "target": "Bên trong sơn cốc, Phương Nguyên vốn đang cắm cúi luyện chưởng đột ngột ngẩng đầu lên: \"Chu gia nhị thiếu, giọng nói này... Không ngờ hắn cũng là người tập võ, hơn nữa tu vi còn thâm hậu hơn ta, cũng không biết đã đạt tới cửa ải thứ mấy rồi...\""
+    },
+    {
+      "segment_id": "0085",
+      "source": "此时的方元，仍旧一关未破，但底气十足。",
+      "target": "Phương Nguyên lúc này vẫn chưa phá được cửa ải nào, nhưng vẫn tràn đầy tự tin."
+    },
+    {
+      "segment_id": "0086",
+      "source": "攻伐方面，他有着花狐貂，就等于一尊连破数关的武林好手保驾护航，而即使打不过，以幽谷的地利与密道，也是想走就走，自然凛然无惧。",
+      "target": "Về mặt đánh giết, hắn có Hoa Hồ Điêu, liền tương đương với một cao thủ võ lâm liên tục phá mấy cửa ải đang bảo vệ hộ tống. Còn nếu như đánh không lại, với địa lợi và mật đạo của u cốc, cũng là muốn đi thì đi, tự nhiên hiên ngang không chút sợ hãi."
+    },
+    {
+      "segment_id": "0087",
+      "source": "当即来到谷口，见到周文武与周文馨，皮笑肉不笑地打了个招呼：“原来是两位到来，莫非还是为了上次之事？”",
+      "target": "Hắn lập tức ra tới cửa cốc, nhìn thấy Chu Văn Võ và Chu Văn Hinh thì cười như không cười chào hỏi: \"Thì ra là hai vị tới, chẳng lẽ vẫn là vì chuyện lần trước?\""
+    },
+    {
+      "segment_id": "0088",
+      "source": "“方小居士不要误会，舍妹莽撞，之前冲撞了居士，还望居士多多海涵！”",
+      "target": "\"Phương tiểu cư sĩ đừng hiểu lầm, xá muội lỗ mãng, trước kia đã va chạm tới cư sĩ, mong cư sĩ rộng lượng bỏ qua!\""
+    },
+    {
+      "segment_id": "0089",
+      "source": "周文武一揖到地，神态十分诚恳，又转过头：“小妹！”",
+      "target": "Chu Văn Võ vái dài một cái sát đất, thần thái cực kỳ thành khẩn, lại quay đầu nói: \"Tiểu muội!\""
+    },
+    {
+      "segment_id": "0090",
+      "source": "“我……我知道了。”",
+      "target": "\"Muội... Muội biết rồi.\""
+    },
+    {
+      "segment_id": "0091",
+      "source": "周文馨委委屈屈地上前，对上方元的眸子，双腿又是不自觉地一阵颤抖。",
+      "target": "Chu Văn Hinh đầy uỷ khuất bước lên phía trước, chạm phải ánh mắt Phương Nguyên, hai chân lại bất giác run lên một hồi."
+    },
+    {
+      "segment_id": "0092",
+      "source": "被周文武眼睛一盯，又福了一福：“方公子，之前之事真是对不住，本姑……奴家在此向您赔不是了，还望您大人有大量……”",
+      "target": "Bị ánh mắt Chu Văn Võ liếc tới, nàng lại khom người hành lễ: \"Phương công tử, chuyện trước kia thật sự là có lỗi. Bổn cô... Nô gia ở đây xin bồi tội với ngài, mong ngài đại nhân có đại lượng...\""
+    }
+  ]
+}
+```
