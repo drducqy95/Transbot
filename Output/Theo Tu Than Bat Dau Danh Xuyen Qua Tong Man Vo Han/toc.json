@@ -30,6 +30,11 @@
     "relative_path": "output/Chương 0006 - Chương 6 Bài kiểm tra nhập học.md"
   },
   {
+    "chapter_number": 7,
+    "title": "Chương 7: Kiếm đạo? Ta chưa từng học nha",
+    "relative_path": "output/Chương 0007 - Chương 7 Kiếm đạo Ta chưa từng học nha.md"
+  },
+  {
     "chapter_number": 8,
     "title": "Chương 8: Bạch Đả, Yoruichi (Ba canh cầu phiếu)",
     "relative_path": "output/Chương 0008 - Chương 8 Bạch Đả, Yoruichi (Ba canh cầu phiếu).md"
@@ -43,11 +48,6 @@
     "chapter_number": 10,
     "title": "Chương 10: Đại Quỷ Đạo Trưởng",
     "relative_path": "output/Chương 0010 - Chương 10 Đại Quỷ Đạo Trưởng.md"
-  },
-  {
-    "chapter_number": 7,
-    "title": "Chương 7: Kiếm đạo? Ta chưa từng học nha",
-    "relative_path": "output/Chương 0007 - Chương 7 Kiếm đạo Ta chưa từng học nha.md"
   },
   {
     "chapter_number": 11,
@@ -78,5 +78,105 @@
     "chapter_number": 16,
     "title": "Chương 16: Cứ mãng là xong việc",
     "relative_path": "output/Chương 0016 - Chương 16 Cứ mãng là xong việc.md"
+  },
+  {
+    "chapter_number": 17,
+    "title": "Chương 17: Cô Unohana hướng dẫn lên lớp",
+    "relative_path": "output/Chương 0017 - Chương 17 Cô Unohana hướng dẫn lên lớp.md"
+  },
+  {
+    "chapter_number": 18,
+    "title": "Chương 18: Cô Unohana hướng dẫn sau giờ học",
+    "relative_path": "output/Chương 0018 - Chương 18 Cô Unohana hướng dẫn sau giờ học.md"
+  },
+  {
+    "chapter_number": 19,
+    "title": "Chương 19: Chắc chắn là do cách ta mở cửa không đúng",
+    "relative_path": "output/Chương 0019 - Chương 19 Chắc chắn là do cách ta mở cửa không đúng.md"
+  },
+  {
+    "chapter_number": 20,
+    "title": "Chương 20: Không ai dạy được",
+    "relative_path": "output/Chương 0020 - Chương 20 Không ai dạy được.md"
+  },
+  {
+    "chapter_number": 21,
+    "title": "Chương 21: Lục quân, cậu phải tiết chế chứ",
+    "relative_path": "output/Chương 0021 - Chương 21 Lục quân, cậu phải tiết chế chứ.md"
+  },
+  {
+    "chapter_number": 22,
+    "title": "Chương 22: Cậu không phải là người sao?",
+    "relative_path": "output/Chương 0022 - Chương 22 Cậu không phải là người sao.md"
+  },
+  {
+    "chapter_number": 23,
+    "title": "Chương 23: Ma thần trong lồng giam",
+    "relative_path": "output/Chương 0023 - Chương 23 Ma thần trong lồng giam.md"
+  },
+  {
+    "chapter_number": 24,
+    "title": "Chương 24: Thiết quyền giáo dục của Tổng đội trưởng",
+    "relative_path": "output/Chương 0024 - Chương 24 Thiết quyền giáo dục của Tổng đội trưởng.md"
+  },
+  {
+    "chapter_number": 25,
+    "title": "Chương 25: Tử thần không muốn đánh bại Tổng đội trưởng không phải là Tử thần tốt",
+    "relative_path": "output/Chương 0025 - Chương 25 Tử thần không muốn đánh bại Tổng đội trưởng không phải là Tử thần tốt.md"
+  },
+  {
+    "chapter_number": 26,
+    "title": "Chương 26: Điều kiện speedrun",
+    "relative_path": "output/Chương 0026 - Chương 26 Điều kiện speedrun.md"
+  },
+  {
+    "chapter_number": 27,
+    "title": "Chương 27: Cho tôi xem Thủy Giải của cậu đi",
+    "relative_path": "output/Chương 0027 - Chương 27 Cho tôi xem Thủy Giải của cậu đi.md"
+  },
+  {
+    "chapter_number": 28,
+    "title": "Chương 28: Liệu pháp thôi miên",
+    "relative_path": "output/Chương 0028 - Chương 28 Liệu pháp thôi miên.md"
+  },
+  {
+    "chapter_number": 29,
+    "title": "Chương 29: Bài thi cuối cùng (Ba canh cầu đọc tiếp, phiếu tháng)",
+    "relative_path": "output/Chương 0029 - Chương 29 Bài thi cuối cùng (Ba canh cầu đọc tiếp, phiếu tháng).md"
+  },
+  {
+    "chapter_number": 30,
+    "title": "Chương 30: Unohana: Tới đây, mua vui cho ta đi!",
+    "relative_path": "output/Chương 0030 - Chương 30 Unohana Tới đây, mua vui cho ta đi!.md"
+  },
+  {
+    "chapter_number": 31,
+    "title": "Chương 31: Tù Ma",
+    "relative_path": "output/Chương 0031 - Chương 31 Tù Ma.md"
+  },
+  {
+    "chapter_number": 32,
+    "title": "Chương 32: Nhiệm vụ hoàn thành (Ba canh cầu đọc tiếp, phiếu tháng)",
+    "relative_path": "output/Chương 0032 - Chương 32 Nhiệm vụ hoàn thành (Ba canh cầu đọc tiếp, phiếu tháng).md"
+  },
+  {
+    "chapter_number": 33,
+    "title": "Chương 33: Đội trưởng tranh người rồi",
+    "relative_path": "output/Chương 0033 - Chương 33 Đội trưởng tranh người rồi.md"
+  },
+  {
+    "chapter_number": 34,
+    "title": "Chương 34: Trở về, kết toán",
+    "relative_path": "output/Chương 0034 - Chương 34 Trở về, kết toán.md"
+  },
+  {
+    "chapter_number": 35,
+    "title": "Chương 35: Khế ước Tiên Khu Giả (Canh ba cầu đọc tiếp, phiếu tháng)",
+    "relative_path": "output/Chương 0035 - Chương 35 Khế ước Tiên Khu Giả (Canh ba cầu đọc tiếp, phiếu tháng).md"
+  },
+  {
+    "chapter_number": 36,
+    "title": "Chương 36: Cường hóa",
+    "relative_path": "output/Chương 0036 - Chương 36 Cường hóa.md"
   }
 ]

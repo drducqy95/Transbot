@@ -1,0 +1,36 @@
+```json
+{
+  "approved": [
+    "称号：无畏者",
+    "评级：B+"
+  ],
+  "rejected": [
+    "“先驱者？",
+    "先驱者将被派",
+    "先驱者的探索",
+    "出于新终焉规",
+    "在空间战争时",
+    "契约成立后",
+    "契约成立，探",
+    "好似是读懂",
+    "将为先驱者开",
+    "特殊情况下，",
+    "终焉空间挑选",
+    "终焉空间邀请",
+    "请探索者阅读",
+    "陆离懂了，",
+    "陆离眼前出"
+  ],
+  "uncertain": []
+}
+```
+
+**Notes on the review:**
+Most of the extracted terms in the list are partial sentences, phrases containing verbs, or chunks with punctuation (e.g., `陆离懂了，`, `终焉空间挑选`). These have been marked as **rejected** because they are not suitable as standalone glossary items. 
+
+However, you may want to manually add the following core terms/names extracted from those rejected phrases to your glossary instead:
+*   **先驱者** (Pioneer/Forerunner)
+*   **探索者** (Explorer)
+*   **终焉空间** (Terminus Space)
+*   **陆离** (Lu Li - character name)
+*   **契约** (Contract)

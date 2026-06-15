@@ -1,0 +1,428 @@
+# Translation Context Pack
+
+## Project
+- Branch: Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han
+- Title: 
+- Author: 
+- Genre: /
+- Language: zh → vi
+
+## Translation Rules
+### Translation Goal
+Dịch truyện Trung sang tiếng Việt tự nhiên, dễ đọc, đúng nghĩa, đúng mạch truyện, đúng văn cảnh, đúng xưng hô, đúng tên riêng và thuật ngữ.
+Style: văn xuôi tiếng Việt mượt, rõ nghĩa, không máy móc
+Priorities:
+  • đúng nghĩa và đúng văn cảnh
+  • đúng tên riêng
+  • đúng thuật ngữ theo loại và bối cảnh
+  • đúng xưng hô và quan hệ nhân vật
+  • giữ ổn định thuật ngữ/tên riêng/xưng hô đã khóa
+  • tự nhiên trong tiếng Việt
+  • giữ nhịp văn, cảm xúc và giọng kể gốc
+Anti-goals:
+  • không dịch từng chữ máy móc
+  • không Hán Việt hóa tên Nhật, Hàn, phương Tây, fandom, thương hiệu, kỹ thuật
+  • không áp VietPhrase/LuatNhan lên tên riêng đã khóa
+  • không đổi thuật ngữ đã khóa nếu văn cảnh giống nhau
+  • không dùng một bản dịch cứng cho từ đa nghĩa khi văn cảnh khác nhau
+  • không làm lộ thông tin ngoài POV nếu bản gốc chưa tiết lộ
+
+### Output Rules
+  • keep paragraph structure
+  • keep dialogue structure
+  • do not merge paragraphs
+  • do not split paragraphs unnecessarily
+  • preserve punctuation when reasonable
+  • convert chinese quotes to vietnamese
+  • remove unnecessary explanation
+  • output only translation
+  • do not add notes inside translation
+  • mark uncertain items for audit only
+
+### Tone Guidelines
+  • narration: tự nhiên, rõ ràng, có chất truyện
+  • dialogue: phù hợp thân phận, quan hệ, tuổi tác, quyền lực và bối cảnh
+  • ancient_setting: cổ phong vừa phải, không lạm dụng Hán Việt khó hiểu
+  • modern_setting: hiện đại, đời thường, không cổ hóa lời thoại
+  • game_system: rõ ràng, gọn, quen thuộc với văn phong game/system
+  • comedy: giữ nhịp hài nếu có
+  • serious: giữ sắc thái căng thẳng, trang trọng nếu có
+
+### Term Normalization
+Purpose: Chuẩn hóa thuật ngữ theo văn cảnh truyện, bao gồm chiêu thức, nghề nghiệp, chức vị, cảnh giới, kỹ năng, vật phẩm, danh hiệu, tổ chức, hệ thống, khái niệm thế giới quan và cụm cố định lặp lại.
+Core principles:
+  • context first
+  • not word by word
+  • same source can have different translation if context differs
+  • same source same context must be consistent
+  • same term type should keep style consistent
+  • locked translation only applies to matching context
+  • source plus type plus context equals translation
+Decision rules:
+  • Không dịch thuật ngữ chỉ theo mặt chữ.
+  • Một source có thể có nhiều bản dịch nếu văn cảnh khác nhau.
+  • Một bản dịch đã khóa chỉ áp dụng cho đúng loại văn cảnh đã khóa.
+  • Tên chiêu thức, cảnh giới, pháp bảo quan trọng nên dùng dạng Hán Việt chuẩn, viết hoa nếu là danh từ riêng.
+  • Vật phẩm phổ thông không cần Hán Việt hóa quá mức.
+  • Nghề nghiệp phải xét bối cảnh.
+  • Chức vị phải xét hệ thống xã hội.
+  • Nếu cùng source và cùng văn cảnh, phải giữ nhất quán.
+  • Nếu không chắc văn cảnh, đánh dấu audit.
+
+### Engine Rules
+  • use context pack
+  • use previous chapter summary
+  • use character profile
+  • use story timeline
+  • use glossary
+  • use name scan
+  • use segment context
+  • avoid over literal translation
+  • avoid over smoothing that changes meaning
+
+## Characters
+N/A
+
+## Glossary
+| Chinese | Vietnamese | Type |
+| --- | --- | --- |
+| 产地：衍生 | Sản địa: Phái sinh | term |
+| 天赋评级： | Đánh giá thiên phú: | term |
+| 天赋：限制器 | Thiên phú: Bộ hạn chế | term |
+| 浅打 | Thiển Đả | term |
+
+
+## Story Timeline (latest)
+
+## Chapter 0001 - Chương 1: Ta Có Một Vẻ Đẹp Trị Số
+
+### Summary
+Chapter 1 completed via pipeline.
+
+## Chapter 0002 - Chương 2: Không Gian Chung Yên
+
+### Summary
+Chapter 2 completed via pipeline.
+
+## Chapter 0003 - Chương 3: Hóa Ra Ta Đang Cười
+
+### Summary
+Chapter 3 completed via pipeline.
+
+## Chapter 0004 - Chương 4: Unohana (Truyện mới cầu cất chứa)
+
+### Summary
+Chapter 4 completed via pipeline.
+
+## Chapter 0005 - Chương 5: Bạn Cùng Phòng Của Ta Là Aizen? (Ba canh cầu phiếu)
+
+### Summary
+Chapter 5 completed via pipeline.
+
+## Chapter 0006 - Chương 6: Bài kiểm tra nhập học
+
+### Summary
+Chapter 6 completed via pipeline.
+
+## Chapter 0007 - Chương 7: Kiếm đạo? Ta chưa từng học nha
+
+### Summary
+Chapter 7 completed via pipeline.
+
+## Chapter 0008 - Chương 8: Bạch Đả, Yoruichi (Ba canh cầu phiếu)
+
+### Summary
+Chapter 8 completed via pipeline.
+
+## Chapter 0009 - Chương 9: Đè Yoruichi xuống đất ma sát
+
+### Summary
+Chapter 9 completed via pipeline.
+
+## Chapter 0010 - Chương 10: Đại Quỷ Đạo Trưởng
+
+### Summary
+Chapter 10 completed via pipeline.
+
+## Chapter 0007 - Chương 7: Kiếm đạo? Ta chưa từng học nha
+
+### Summary
+Chapter 7 completed via pipeline.
+
+## Chapter 0011 - Chương 11: Quỷ đạo cũng không khó mà (Canh ba cầu đọc tiếp, cất chứa, phiếu tháng)
+
+### Summary
+Chapter 11 completed via pipeline.
+
+## Chapter 0012 - Chương 12: Sousuke, trói tôi
+
+### Summary
+Chapter 12 completed via pipeline.
+
+## Chapter 0013 - Chương 13 Aizen: Muốn xem Thế giới đầu của tôi không?
+
+### Summary
+Chapter 13 completed via pipeline.
+
+## Chapter 0014 - Chương 14: Thuấn Bộ (Canh ba cầu đọc tiếp, cất chứa, phiếu tháng)
+
+### Summary
+Chapter 14 completed via pipeline.
+
+## Chapter 0015 - Chương 15: Vụ cá cược
+
+### Summary
+Chapter 15 completed via pipeline.
+
+## Chapter 0016 - Chương 16: Cứ mãng là xong việc
+
+### Summary
+Chapter 16 completed via pipeline.
+
+## Chapter 0016 - Chương 16: Cứ mãng là xong việc
+
+### Summary
+Chapter 16 completed via pipeline.
+
+## Chapter 0017 - Chương 17: Cô Unohana hướng dẫn lên lớp
+
+### Summary
+Chapter 17 completed via pipeline.
+
+
+## Source Chapter 18 - 0018 卯之花老师课后指导
+```json
+[
+  {
+    "segment_id": "0001",
+    "text": "# 第18章 卯之花老师课后指导"
+  },
+  {
+    "segment_id": "0002",
+    "text": "按照卯之花之前讲述的回道理论，回道是用灵子修复灵体，可他不是灵体，当他知道回道原理的时候，还以为这门技术对自己没用了呢。"
+  },
+  {
+    "segment_id": "0003",
+    "text": "结果卯之花成功修复了他的伤势，这让他不得不重新思考，所谓肉体和高密度的灵体……究竟有什么分别？"
+  },
+  {
+    "segment_id": "0004",
+    "text": "如果用他前世所了解过的一些基本的科学知识来想，那么会不会所谓灵子，也是分子或原子的一种？"
+  },
+  {
+    "segment_id": "0005",
+    "text": "当然也还有一种可能，那就是终焉空间的‘伪装’高明到了，真的让他在这个世界内暂时以灵体特质存活。"
+  },
+  {
+    "segment_id": "0006",
+    "text": "接下来的时间内，课堂上的每个学员都分到了一只小白鼠，开始进行回道的练习。"
+  },
+  {
+    "segment_id": "0007",
+    "text": "毕竟不是每个人都能成功使出回道，若都用自残的方式进行练习，那恐怕最终大部分人都要卯之花出手才能治好。"
+  },
+  {
+    "segment_id": "0008",
+    "text": "陆离给自己的小白鼠拉了一道小口子，然后回想着卯之花给自己治疗时的那种感觉进行尝试。"
+  },
+  {
+    "segment_id": "0009",
+    "text": "回道果然不是那么容易修习的，陆离第一次没成功。"
+  },
+  {
+    "segment_id": "0010",
+    "text": "他一连试了十几次，才找到了那种感觉，操控着灵子修复小白鼠的伤势。"
+  },
+  {
+    "segment_id": "0011",
+    "text": "少许时间后，小白鼠的伤口愈合了，但是留有一道明显的疤痕。"
+  },
+  {
+    "segment_id": "0012",
+    "text": "显然，他的回道水准跟卯之花差的太多了，不仅治疗的慢，效果也差。"
+  },
+  {
+    "segment_id": "0013",
+    "text": "“要多去想象其原本完好时的模样，引导灵子去还原。”"
+  },
+  {
+    "segment_id": "0014",
+    "text": "卯之花的声音在陆离耳畔响起，不知何时，她已经巡视到了陆离身边。"
+  },
+  {
+    "segment_id": "0015",
+    "text": "看着陆离台子上的小白鼠，卯之花心中还是有些惊讶的，她代过不少次课，但还从未见过有谁第一堂课就能成功用出回道。"
+  },
+  {
+    "segment_id": "0016",
+    "text": "如果以真央灵术院的标准，陆离在回道课上已经可以拿到合格的成绩了，再假以时日锻炼一番，加入四番队也会是合格的医疗人员。"
+  },
+  {
+    "segment_id": "0017",
+    "text": "这孩子……难道真的没有短板？"
+  },
+  {
+    "segment_id": "0018",
+    "text": "她听说陆离已经把剑道、白打课的老师给整自闭了，私下里那两位老师直呼教不了陆离，这并不是在指责陆离刺头什么的，而是真的‘教不了’"
+  },
+  {
+    "segment_id": "0019",
+    "text": "此时卯之花也只能庆幸自己的回道水准高超，起码在这个领域，她还是可以教陆离的。"
+  },
+  {
+    "segment_id": "0020",
+    "text": "在卯之花的注视下，陆离又给了小白鼠一刀，按照她的指点，再次使用回道。"
+  },
+  {
+    "segment_id": "0021",
+    "text": "这次小白鼠身上的伤势以肉眼可见的速度恢复，而且留疤不怎么明显了。"
+  },
+  {
+    "segment_id": "0022",
+    "text": "卯之花眼睛一亮，身形又凑近了几分，盯着陆离的眼睛，“我问你，你为什么想学回道？”"
+  },
+  {
+    "segment_id": "0023",
+    "text": "正专注于回味方才回道细节的陆离闻言，几乎是不假思索的说道：“当然是为了更好的享受战斗啊。”"
+  },
+  {
+    "segment_id": "0024",
+    "text": "话音刚落，陆离就感觉自己被一股气场给笼罩了，面前卯之花的那双眸子透着兴奋。"
+  },
+  {
+    "segment_id": "0025",
+    "text": "陆离感觉自己好像说错话了，他不该说出自己的心里话的。"
+  },
+  {
+    "segment_id": "0026",
+    "text": "他差点忘了，卯之花也是个战斗狂人，只是在遇到更木剑八后才卸任了十一番队的队长，转到四番队去做后援。"
+  },
+  {
+    "segment_id": "0027",
+    "text": "可实际上，这个女人对厮杀的渴望一点也没有减少，只是平日里压抑的很好罢了。"
+  },
+  {
+    "segment_id": "0028",
+    "text": "卯之花在加入护廷十三队之前是可是被称作尸魂界史上空前绝后的大恶人，后来被总队长收入麾下，这才收敛了些，如今在众人面前表现出来的温柔只是面具。"
+  },
+  {
+    "segment_id": "0029",
+    "text": "“原来是这样……下课后你留一下。”"
+  },
+  {
+    "segment_id": "0030",
+    "text": "卯之花眼中的兴奋被很好的隐藏了下去，脸上又换上了平日里温柔的笑容，一双眼眯起，“既然你这么喜欢回道，我就对你特别指导一番吧。”      陆离的背脊莫名的感觉发寒，但他也知道卯之花单独教他回道这是千载难逢的好机会，他也没理由拒绝。"
+  },
+  {
+    "segment_id": "0031",
+    "text": "既然你这么想找个对手厮杀，总不能在教回道的时候把我教死了吧？"
+  },
+  {
+    "segment_id": "0032",
+    "text": "想到卯之花的对手，陆离也有些疑惑，更木剑八到底哪去了？"
+  },
+  {
+    "segment_id": "0033",
+    "text": "他问过蓝染，现在的十一番队队长是刳屋敷剑八，真央灵术院内也没有更木这号人。"
+  },
+  {
+    "segment_id": "0034",
+    "text": "思索时，下课铃响起，大多数学员都失望的离开了教室，显然在这堂课上没能成功的拯救小白鼠。"
+  },
+  {
+    "segment_id": "0035",
+    "text": "陆离倒是不用担心下一节课，今天下午只有选修课，他只上一节课也是可以的。"
+  },
+  {
+    "segment_id": "0036",
+    "text": "在最后一个学员离开教室后，一阵灵压掀起的微风将门关上了。"
+  },
+  {
+    "segment_id": "0037",
+    "text": "让陆离心感不妙的是，他好像还听到了上锁的声音。"
+  },
+  {
+    "segment_id": "0038",
+    "text": "他抬头看向卯之花老师，对方还是穿着内衬为灰樱色的羽织，此时卯之花正笑眯眯的看着自己，素手搭在了腰间的刀柄上。"
+  },
+  {
+    "segment_id": "0039",
+    "text": "“陆同学，就剩我们两个了呢～”"
+  },
+  {
+    "segment_id": "0040",
+    "text": "卯之花白皙的手握住刀柄，在陆离的困惑的目光中，一寸一寸的拔出了她的斩魄刀肉雫唼。"
+  },
+  {
+    "segment_id": "0041",
+    "text": "“卯之花老师？”"
+  },
+  {
+    "segment_id": "0042",
+    "text": "陆离感觉脑海中危险的雷达已经报警了，“您这是？”"
+  },
+  {
+    "segment_id": "0043",
+    "text": "卯之花脸上带着温柔的笑，仿佛邻家大姐姐一般，“当然是让你体验下更高级的回道啊。”"
+  },
+  {
+    "segment_id": "0044",
+    "text": "陆离刚要‘尔康手’表示等一下，可下一刹，他便看到血泉冲霄而起，染红了天花板。"
+  },
+  {
+    "segment_id": "0045",
+    "text": "他漆黑的眸子也在灯光和鲜血的映衬下染上了一丝红，延迟到来的疼痛感让他的大脑认知到方才那一瞬发生了什么，而在疼痛感之后，便是难以压抑的兴奋感。"
+  },
+  {
+    "segment_id": "0046",
+    "text": "他绝不是什么抖M，可他还是第一次见到如此快的刀，就连他的动态视力都未能捕捉到半分，那一刀快到他的感知还未预警！"
+  },
+  {
+    "segment_id": "0047",
+    "text": "那一刀自左肩斜着向下，切开了自己的血肉、骨骼以及心脏，他的心脏就像是一台老旧的发动机还在奋力的跳动，想要挽救这幅残躯，可无论它怎么努力，也只能让血泉涌动的更高。"
+  },
+  {
+    "segment_id": "0048",
+    "text": "身体的机能在逐渐丧失，陆离缓缓的向后倒去，却并未能触及到地面，而是被一只手轻柔的拖住了。"
+  },
+  {
+    "segment_id": "0049",
+    "text": "在还未开始模糊的视野里，陆离看到卯之花邻家大姐姐一般的笑容，“我会用你的身体，教会你的。”"
+  },
+  {
+    "segment_id": "0050",
+    "text": "陆离轻微的点头，尽管他已经处于濒死状态，却并不慌乱，他已经明白卯之花要做什么了，要让自己亲自体验高级回道是如何治愈严重的濒死伤势的。"
+  },
+  {
+    "segment_id": "0051",
+    "text": "于是他强提精神，准备仔细观察卯之花的手法。"
+  },
+  {
+    "segment_id": "0052",
+    "text": "只见卯之花的手上再次亮起淡青色的光芒，但比之前在课堂上的范围要大，光芒也璀璨的多。"
+  },
+  {
+    "segment_id": "0053",
+    "text": "奇怪的是，明明处于濒死状态，陆离却发现自己的思维格外清晰，感知能力好像也比之前更强了。"
+  },
+  {
+    "segment_id": "0054",
+    "text": "甚至他闭上眼，也能清晰的感受到卯之花的回道细节，就像是有一根根轻柔的丝线拂过自己的胸膛。"
+  }
+]
+```
+
+## Output Format
+CRITICAL INSTRUCTION: You MUST translate the source text EXACTLY paragraph by paragraph, preserving the original order perfectly. DO NOT skip, drop, merge, or reorder any paragraphs. Each paragraph in the source MUST be translated.
+Return ONLY valid JSON matching this schema:
+{
+  "chapter_number": 18,
+  "chapter_title_vi": "Chương 18: <Vietnamese title>",
+  "segments": [
+    {
+      "segment_id": "XXXX",
+      "source": "...",
+      "target": "..."
+    }
+  ]
+}

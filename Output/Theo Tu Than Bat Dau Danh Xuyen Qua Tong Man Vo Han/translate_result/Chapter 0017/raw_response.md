@@ -1,0 +1,301 @@
+{
+  "chapter_number": 17,
+  "chapter_title_vi": "Chương 17: Cô Unohana hướng dẫn lên lớp",
+  "segments": [
+    {
+      "segment_id": "0001",
+      "source": "# 第17章 卯之花老师授课指导",
+      "target": "# Chương 17: Cô Unohana hướng dẫn lên lớp"
+    },
+    {
+      "segment_id": "0002",
+      "source": "“啊？为什么？”",
+      "target": "“A? Tại sao?”"
+    },
+    {
+      "segment_id": "0003",
+      "source": "陆离问道，跟蓝染相处了两天，别的不说，把对方当成死神小百科还是挺方便的，结果现在对方要跟自己分开了。",
+      "target": "Lục Ly hỏi. Ở chung với Aizen hai ngày, chưa bàn tới việc khác, coi đối phương như một cuốn tiểu bách khoa về Tử thần quả thực rất tiện lợi, không ngờ bây giờ đối phương lại sắp tách ra khỏi mình."
+    },
+    {
+      "segment_id": "0004",
+      "source": "“今天下午的第一堂课是选修课，我选修了书法，陆君你不是想要学习回道吗？这两堂课的时间冲突。”",
+      "target": "“Tiết đầu tiên chiều nay là môn tự chọn, tôi chọn thư pháp. Cậu Lục, chẳng phải cậu muốn học Hồi đạo sao? Thời gian của hai tiết này bị trùng nhau.”"
+    },
+    {
+      "segment_id": "0005",
+      "source": "蓝染解释时陆离才注意蓝染今天一直背着一个小包，那里面是他的书法用具。",
+      "target": "Khi Aizen giải thích, Lục Ly mới để ý hôm nay Aizen luôn đeo một chiếc túi nhỏ, bên trong chính là dụng cụ viết thư pháp của hắn."
+    },
+    {
+      "segment_id": "0006",
+      "source": "“现在的回道是谁代课？”",
+      "target": "“Tiết Hồi đạo bây giờ là ai dạy thay vậy?”"
+    },
+    {
+      "segment_id": "0007",
+      "source": "陆离好奇的问蓝染牌百科全书。",
+      "target": "Lục Ly tò mò hỏi cuốn bách khoa toàn thư mang thương hiệu Aizen."
+    },
+    {
+      "segment_id": "0008",
+      "source": "“陆君……”",
+      "target": "“Cậu Lục...”"
+    },
+    {
+      "segment_id": "0009",
+      "source": "蓝染似乎有些无奈的看着陆离，“我也不是什么都知道啊，选修课的老师一直都是在变的，基本是谁有时间谁来代课，我怎么可能知道今天是谁？”",
+      "target": "Aizen có vẻ hơi bất lực nhìn Lục Ly, “Tôi cũng đâu phải chuyện gì cũng biết chứ. Giáo viên của môn tự chọn luôn thay đổi, cơ bản là ai rảnh thì tới dạy thay thôi, làm sao tôi biết được hôm nay là ai chứ?”"
+    },
+    {
+      "segment_id": "0010",
+      "source": "“哦，这样啊，没事，一会儿开课我就知道了。”",
+      "target": "“Ồ, ra vậy, không sao, lát nữa vào học là biết thôi.”"
+    },
+    {
+      "segment_id": "0011",
+      "source": "陆离起身摸了摸自己的肚子，“我中午就不回宿舍了，想再去找找瞬步的感觉。”",
+      "target": "Lục Ly đứng dậy xoa xoa bụng, “Buổi trưa tôi không về ký túc xá đâu, muốn đi tìm lại cảm giác của Thuấn Bộ.”"
+    },
+    {
+      "segment_id": "0012",
+      "source": "蓝染看着陆离的背影在心中嘀咕，以前他觉得自己就够卷了，没想到自己的这个室友也这么卷。",
+      "target": "Aizen nhìn theo bóng lưng của Lục Ly, thầm lẩm bẩm trong lòng, trước đây hắn cứ nghĩ bản thân đã đủ 'cày' rồi, không ngờ người bạn cùng phòng này của mình cũng 'cày' như vậy."
+    },
+    {
+      "segment_id": "0013",
+      "source": "唯一的差别在于他是偷着卷，而陆离是明着卷。",
+      "target": "Điểm khác biệt duy nhất là hắn lén lút cày, còn Lục Ly thì cày công khai."
+    },
+    {
+      "segment_id": "0014",
+      "source": "…………",
+      "target": "…………"
+    },
+    {
+      "segment_id": "0015",
+      "source": "“我们又见面了，还适应灵术院内的生活吗？”",
+      "target": "“Chúng ta lại gặp nhau rồi, em đã quen với cuộc sống ở Linh Thuật Viện chưa?”"
+    },
+    {
+      "segment_id": "0016",
+      "source": "温柔好听的声音自前方的讲台上传来，声音的主人正笑眯眯的看着陆离。",
+      "target": "Một giọng nói dịu dàng, êm tai truyền đến từ phía bục giảng, chủ nhân của giọng nói đang mỉm cười nhìn Lục Ly."
+    },
+    {
+      "segment_id": "0017",
+      "source": "陆离看了眼自己个人菜单上的‘幸运1’，他在想自己算不算是运气很好的那一类？",
+      "target": "Lục Ly liếc nhìn chỉ số 'May mắn: 1' trên bảng thuộc tính của mình, thầm nghĩ liệu bản thân có được tính là thuộc nhóm người cực kỳ may mắn hay không?"
+    },
+    {
+      "segment_id": "0018",
+      "source": "一定是的吧？自己刚想学回道，代这堂课的老师，就变成了此道绝顶高手。",
+      "target": "Chắc chắn là vậy rồi. Mình vừa muốn học Hồi đạo, giáo viên dạy thay của lớp này đã lập tức biến thành một cao thủ đỉnh phong của môn này."
+    },
+    {
+      "segment_id": "0019",
+      "source": "“还要感谢卯之花队长，否则我还在流魂街饿肚子呢，灵术院的伙食很好。”",
+      "target": "“Em vẫn phải cảm ơn Đội trưởng Unohana, nếu không giờ em vẫn đang phải nhịn đói ở phố Lưu Hồn rồi, thức ăn ở Linh Thuật Viện ngon lắm.”"
+    },
+    {
+      "segment_id": "0020",
+      "source": "陆离感谢道，这倒是出自真心，没有卯之花他就算能进入瀞灵廷，要加入真央灵术院也得费点功夫，最可怕的是，他多半要多饿两天。",
+      "target": "Lục Ly nói lời cảm ơn, điều này hoàn toàn là thật lòng, không có Unohana thì dù có vào được Tĩnh Linh Đình, việc gia nhập Học viện Chân Ương Linh Thuật cũng phải tốn không ít công sức, đáng sợ nhất là có lẽ cậu sẽ phải chịu đói thêm vài ngày."
+    },
+    {
+      "segment_id": "0021",
+      "source": "“你的主要关注点居然是伙食吗？还有，在这里要叫我老师。”",
+      "target": "“Điểm chú ý chính của em lại là đồ ăn sao? Hơn nữa, ở đây phải gọi tôi là cô giáo.”"
+    },
+    {
+      "segment_id": "0022",
+      "source": "卯之花心说真是个奇怪的孩子，她这两天已经听过不少关于陆离在真央灵术院的表现，让她感觉十分有意思。",
+      "target": "Unohana thầm nghĩ đúng là một đứa trẻ kỳ lạ, hai ngày nay cô đã nghe không ít lời bàn tán về biểu hiện của Lục Ly ở Chân Ương Linh Thuật Viện, điều này khiến cô cảm thấy vô cùng thú vị."
+    },
+    {
+      "segment_id": "0023",
+      "source": "所以她今天才特意来了一趟真央灵术院代课，主要就是想再见见陆离，结果没想到在课堂上就见到陆离了。",
+      "target": "Vì vậy hôm nay cô mới đặc biệt đến Chân Ương Linh Thuật Viện dạy thay một chuyến, chủ yếu là muốn gặp lại Lục Ly, kết quả không ngờ lại gặp cậu ngay trong lớp học."
+    },
+    {
+      "segment_id": "0024",
+      "source": "她本以为对方只是个战斗天资绝佳的好苗子，可对方还选修了回道课。",
+      "target": "Cô vốn nghĩ đối phương chỉ là một mầm non tốt có thiên phú chiến đấu tuyệt vời, không ngờ cậu còn chọn học thêm môn Hồi đạo."
+    },
+    {
+      "segment_id": "0025",
+      "source": "那么……你选择回道的目的，究竟是想要当个后勤人员，还是说……和我一样呢？",
+      "target": "Vậy thì... mục đích em chọn Hồi đạo rốt cuộc là muốn làm một nhân viên hậu cần, hay là... cũng giống như tôi?"
+    },
+    {
+      "segment_id": "0026",
+      "source": "想到这里，卯之花的嘴角勾起危险的弧度，让陆离感到一阵寒意。",
+      "target": "Nghĩ đến đây, khóe môi Unohana nhếch lên một độ cong nguy hiểm, khiến Lục Ly cảm thấy một luồng ớn lạnh."
+    },
+    {
+      "segment_id": "0027",
+      "source": "“缚道和破道有较严谨的等级系统，而回道却没有，是一种治疗用鬼道且无需咏唱……”",
+      "target": "“Phược đạo và Phá đạo có hệ thống cấp độ khá chặt chẽ, nhưng Hồi đạo thì không. Nó là một loại Quỷ đạo chuyên dùng để trị liệu và không cần ngâm xướng...”"
+    },
+    {
+      "segment_id": "0028",
+      "source": "卯之花在台上讲着回道的基础知识，即便在场的很多学员已经对基础了然于心，却没人提任何意见。",
+      "target": "Unohana giảng giải kiến thức cơ bản về Hồi đạo trên bục giảng, dù nhiều học viên có mặt đã nắm rõ những điều cơ bản này nhưng không một ai dám có ý kiến."
+    },
+    {
+      "segment_id": "0029",
+      "source": "大部分学员是崇敬着温柔美丽的卯之花队长，也有少部分学员感觉卯之花队长有时候挺吓人的，不敢造次。",
+      "target": "Đa phần học viên đều kính trọng Đội trưởng Unohana dịu dàng xinh đẹp, cũng có một số ít học viên cảm thấy Đội trưởng Unohana thỉnh thoảng rất đáng sợ nên không dám vô lễ."
+    },
+    {
+      "segment_id": "0030",
+      "source": "陆离听得津津有味，还用从蓝染那里‘借’来的新笔记本不断的记笔记。",
+      "target": "Lục Ly nghe đến mức say sưa, còn dùng cuốn sổ tay mới 'mượn' từ chỗ Aizen để liên tục ghi chép."
+    },
+    {
+      "segment_id": "0031",
+      "source": "听卯之花讲完基础后，他发现回道可能才是三种鬼道中最难的那一种。      正因为无需咏唱，回道的释放难度才更高，毕竟更加依赖死神的操控力。",
+      "target": "Sau khi nghe Unohana giảng xong phần cơ bản, cậu phát hiện Hồi đạo có lẽ mới là loại khó nhất trong ba loại Quỷ đạo. Chính vì không cần ngâm xướng, độ khó khi thi triển Hồi đạo lại càng cao hơn, suy cho cùng nó phụ thuộc nhiều hơn vào khả năng kiểm soát của Tử thần."
+    },
+    {
+      "segment_id": "0032",
+      "source": "目​​前尸魂界的回道简单理解，是对灵体的修复，也就是使用灵子对灵体修补，这是十分精密的操作，不是一般人能做到的。",
+      "target": "Hồi đạo của Thi Hồn Giới hiện tại có thể hiểu một cách đơn giản là sự phục hồi linh thể, nghĩa là sử dụng linh tử để vá lại linh thể. Đây là một thao tác cực kỳ tinh vi, không phải người bình thường có thể làm được."
+    },
+    {
+      "segment_id": "0033",
+      "source": "据蓝染所说，每年各年级加起来，选修回道课的都有上百人，但最终能在回道课上拿到合格成绩的死神却只有个位数。",
+      "target": "Theo lời Aizen, mỗi năm tính gộp tất cả các khối lớp lại, số người chọn môn Hồi đạo lên tới hàng trăm người, nhưng cuối cùng số Tử thần đạt điểm đỗ ở môn này chỉ đếm trên đầu ngón tay."
+    },
+    {
+      "segment_id": "0034",
+      "source": "说白了，回道才是三种鬼道中最依赖天赋的，没点天赋根本玩不转。",
+      "target": "Nói trắng ra, Hồi đạo mới là loại phụ thuộc vào thiên phú nhất trong ba loại Quỷ đạo, không có chút thiên phú nào thì căn bản không thể chơi nổi."
+    },
+    {
+      "segment_id": "0035",
+      "source": "“我接下来会示范一下简单的回道，需要一名志愿者。”",
+      "target": "“Tiếp theo tôi sẽ thị phạm Hồi đạo đơn giản, tôi cần một tình nguyện viên.”"
+    },
+    {
+      "segment_id": "0036",
+      "source": "卯之花的话音刚落，就有几名同学举手，显然是卯之花老师的狂热粉。",
+      "target": "Lời của Unohana vừa dứt, đã có vài học viên giơ tay, rõ ràng là fan cuồng của cô Unohana."
+    },
+    {
+      "segment_id": "0037",
+      "source": "可卯之花却没有选中那几个举手的同学，目光转动间，落在了陆离身上，“就先让新同学体验下吧，陆离，你上来。”",
+      "target": "Nhưng Unohana lại không chọn mấy học viên đang giơ tay kia, ánh mắt cô đảo quanh rồi dừng lại trên người Lục Ly, “Vậy ưu tiên cho học viên mới trải nghiệm trước đi, Lục Ly, em lên đây.”"
+    },
+    {
+      "segment_id": "0038",
+      "source": "陆离倒也不排斥，这是自己近距离体悟回道的好机会，如果用自己的身体做示范，他也能更仔细的感受卯之花老师……的手法。",
+      "target": "Lục Ly cũng không bài xích, đây là cơ hội tốt để cậu cảm nhận trực quan Hồi đạo ở cự ly gần. Nếu dùng chính cơ thể mình để làm mẫu, cậu cũng có thể cảm nhận kỹ càng hơn... thủ pháp của cô Unohana."
+    },
+    {
+      "segment_id": "0039",
+      "source": "卯之花笑眯眯的看着陆离，开口道：“手伸出来。”",
+      "target": "Unohana cười tủm tỉm nhìn Lục Ly, lên tiếng: “Đưa tay ra đây nào.”"
+    },
+    {
+      "segment_id": "0040",
+      "source": "陆离乖乖的伸出手，然后就被卯之花老师抓住了，那只看上去温如白玉的素手力气大的让陆离无法反抗，一瞬间陆离就被向前拉了些，更靠近卯之花了。",
+      "target": "Lục Ly ngoan ngoãn đưa tay ra, sau đó liền bị cô Unohana nắm lấy. Bàn tay trông như ngọc trắng ấm áp ấy lại có sức mạnh khiến Lục Ly không thể phản kháng, trong chớp mắt cậu đã bị kéo về phía trước một chút, càng gần Unohana hơn."
+    },
+    {
+      "segment_id": "0041",
+      "source": "紧接着，卯之花一只手抓着陆离的手腕，另一只手从袖口向上拂动，伴随着摩擦的瘙痒感，陆离道服的袖子被捋了上去，露出了他肌肉线条完美的手臂。",
+      "target": "Ngay sau đó, một tay Unohana nắm cổ tay Lục Ly, tay kia vuốt ngược từ cổ tay lên, kèm theo cảm giác ngứa ngáy do ma sát, tay áo võ phục của Lục Ly bị kéo lên, để lộ cánh tay có đường nét cơ bắp hoàn mỹ."
+    },
+    {
+      "segment_id": "0042",
+      "source": "“锻炼的不错呢……”",
+      "target": "“Luyện tập tốt đấy chứ...”"
+    },
+    {
+      "segment_id": "0043",
+      "source": "卯之花用温柔的口吻笑着说道，却让陆离感觉有些头皮发麻。",
+      "target": "Unohana mỉm cười nói bằng giọng điệu dịu dàng, nhưng lại khiến Lục Ly cảm thấy da đầu có chút tê dại."
+    },
+    {
+      "segment_id": "0044",
+      "source": "只见卯之花伸出一根手指，在陆离的手臂上轻轻滑动，陆离清楚对方要做什么，但他心说能不能快一点，很痒啊！",
+      "target": "Chỉ thấy Unohana đưa một ngón tay ra, nhẹ nhàng lướt trên cánh tay Lục Ly. Lục Ly biết rõ đối phương muốn làm gì, nhưng trong lòng cậu thầm nghĩ có thể nhanh lên một chút không, ngứa quá đi mất!"
+    },
+    {
+      "segment_id": "0045",
+      "source": "就在陆离想要开口询问时，刺痛感传来，殷红的血自他手臂上滑落，而那疼痛还在手臂上不断延伸。",
+      "target": "Ngay khi Lục Ly định lên tiếng hỏi, một cơn đau nhói truyền đến, máu đỏ tươi từ trên cánh tay cậu chảy xuống, và cơn đau ấy vẫn tiếp tục lan rộng trên cánh tay."
+    },
+    {
+      "segment_id": "0046",
+      "source": "卯之花的手指从手腕处开始滑动，一直划到手臂中段，留下了长长的、深深的口子。",
+      "target": "Ngón tay của Unohana bắt đầu trượt từ cổ tay kéo dài đến giữa cánh tay, để lại một vết rách sâu và dài."
+    },
+    {
+      "segment_id": "0047",
+      "source": "陆离并未因为刺痛感皱眉或分心，他习武以来受过的伤多了，对疼痛有着极高的耐受性，他此时全神贯注，因为他知道卯之花马上就要演示回道了。",
+      "target": "Lục Ly không hề cau mày hay phân tâm vì cơn đau nhói này. Từ khi luyện võ đến nay cậu đã chịu vô số vết thương, khả năng chịu đựng đau đớn cực kỳ cao. Lúc này cậu tập trung toàn bộ tinh thần, bởi vì cậu biết Unohana chuẩn bị thị phạm Hồi đạo."
+    },
+    {
+      "segment_id": "0048",
+      "source": "见陆离并未因疼痛有半分异动，在无人能看到的角度中，卯之花的眸子中更添了几分色彩……像是在渴望着什么。",
+      "target": "Thấy Lục Ly không hề có chút dao động nào trước cơn đau, ở một góc độ không ai nhìn thấy, trong mắt Unohana lại tăng thêm vài phần sắc thái... giống như đang khao khát điều gì đó."
+    },
+    {
+      "segment_id": "0049",
+      "source": "不过她的动作也没有停顿，“同学们看好了。”",
+      "target": "Tuy nhiên, động tác của cô cũng không hề dừng lại: “Các em nhìn kỹ nhé.”"
+    },
+    {
+      "segment_id": "0050",
+      "source": "说罢，她手上亮起柔和的淡青色光芒，缓慢的、轻柔的抚过陆离的那道伤口。",
+      "target": "Dứt lời, trên tay cô tỏa ra luồng ánh sáng màu xanh nhạt dịu nhẹ, chậm rãi, nhẹ nhàng vuốt qua vết thương của Lục Ly."
+    },
+    {
+      "segment_id": "0051",
+      "source": "就像是变魔术一般，被卯之花素手抚过的地方，伤口直接消失了，唯有血迹残留。",
+      "target": "Giống như đang ảo thuật vậy, nơi bàn tay ngọc ngà của Unohana lướt qua, vết thương trực tiếp biến mất, chỉ còn lại vệt máu loang lổ."
+    },
+    {
+      "segment_id": "0052",
+      "source": "陆离神情凝重，因为他发现卯之花尽管只是简单的示范，但用的手法和技巧却很精妙，而实际上的恢复效果对他来说已经堪称超凡了。",
+      "target": "Lục Ly vẻ mặt nghiêm trọng, bởi vì cậu phát hiện dù Unohana chỉ đơn giản là thị phạm, nhưng thủ pháp và kỹ xảo được sử dụng lại rất tinh tế, mà hiệu quả phục hồi thực tế đối với cậu đã có thể coi là siêu phàm rồi."
+    },
+    {
+      "segment_id": "0053",
+      "source": "直到 his 伤口全部愈合，陆离还未回神，在细细品味方才的那种感觉。",
+      "target": "Cho đến khi vết thương hoàn toàn khép miệng, Lục Ly vẫn chưa lấy lại tinh thần, vẫn đang nghiền ngẫm kỹ lưỡng cảm giác vừa rồi."
+    },
+    {
+      "segment_id": "0054",
+      "source": "“好了陆同学，你可以回去了。”",
+      "target": "“Được rồi trò Lục, em có thể về chỗ rồi.”"
+    },
+    {
+      "segment_id": "0055",
+      "source": "直到卯之花松开抓住陆离的手开口时，陆离才缓缓回神。",
+      "target": "Cho đến khi Unohana buông bàn tay đang nắm lấy Lục Ly ra và lên tiếng, Lục Ly mới chậm rãi hồi thần."
+    },
+    {
+      "segment_id": "0056",
+      "source": "他无视了几道莫名其妙的羡慕的，带着思索回到自己的座位。",
+      "target": "Cậu ngó lơ vài ánh nhìn ghen tị vô lý, mang theo sự suy tư trở lại chỗ ngồi của mình."
+    },
+    {
+      "segment_id": "0057",
+      "source": "这就是回道吗……",
+      "target": "Đây chính là Hồi đạo sao..."
+    },
+    {
+      "segment_id": "0058",
+      "source": "可卯之花到底是怎么成功的？",
+      "target": "Nhưng Unohana rốt cuộc làm thế nào mà thành công được chứ?"
+    },
+    {
+      "segment_id": "0059",
+      "source": "是的，陆离现在心中最大的疑问就在于此，因为他知道，自己根本不是灵体，他是真真正正的活人！",
+      "target": "Đúng vậy, nghi vấn lớn nhất trong lòng Lục Ly hiện tại chính là ở điểm này, bởi vì cậu biết rõ, bản thân căn bản không phải là linh thể, cậu là một người sống thực sự bằng xương bằng thịt!"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+```json
+{
+  "approved": [],
+  "rejected": [
+    "体质：18点",
+    "力量：17点",
+    "幸运：1点",
+    "敏捷：18点",
+    "精神：24点",
+    "这一个月他",
+    "魅力：6点"
+  ],
+  "uncertain": [
+    "探索者404"
+  ]
+}
+```
+
+### Review Notes:
+* **Rejected:** The RPG stat entries (`体质：18点`, `力量：17点`, etc.) include specific numerical values, which makes them poor glossary terms since the numbers will change. It is recommended to extract only the base attributes (e.g., `体质`, `力量`, `幸运`, `敏捷`, `精神`, `魅力`) for the glossary instead. `这一个月他` is a sentence fragment and should not be a term.
+* **Uncertain:** `探索者404` (Explorer 404) could be a specific proper noun or ID, but usually, it's better to just have `探索者` (Explorer) as the glossary term unless "Explorer 404" is uniquely treated as an immutable name throughout the text.

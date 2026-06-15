@@ -174,6 +174,11 @@ Chapter 14 completed via pipeline.
 ### Summary
 Chapter 15 completed via pipeline.
 
+## Chapter 0016 - Chương 16: Cứ mãng là xong việc
+
+### Summary
+Chapter 16 completed via pipeline.
+
 
 ## Source Chapter 16 - 0016 莽就完事了
 ```json

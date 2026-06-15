@@ -1,0 +1,21 @@
+```json
+{
+  "approved": [],
+  "rejected": [
+    "他的属性有",
+    "体质：17点",
+    "力量：16点",
+    "幸运：1点",
+    "探索者404",
+    "敏捷：17点",
+    "精神：22点",
+    "魅力：6点"
+  ],
+  "uncertain": []
+}
+```
+
+### Reason for Rejection:
+*   **"他的属性有"**: This is a phrase/sentence ("His attributes are") rather than a standalone glossary term.
+*   **Terms with numbers ("体质：17点", "力量：16点", "幸运：1点", "敏捷：17点", "精神：22点", "魅力：6点")**: These contain variable numbers and should not be added to a static glossary in their current form. It is recommended to add the base stats instead (e.g., `体质`, `力量`, `幸运`, `敏捷`, `精神`, `魅力`).
+*   **"探索者404"**: Contains a specific numerical identifier. You may want to add just the base noun `"探索者"` (Explorer) to the glossary.

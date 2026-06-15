@@ -1,0 +1,283 @@
+```json
+{
+  "chapter_number": 22,
+  "chapter_title_vi": "Chương 22: Cậu không phải là người sao?",
+  "segments": [
+    {
+      "segment_id": "0001",
+      "source": "# 第22章 你不是人吗？",
+      "target": "# Chương 22: Cậu không phải là người sao?"
+    },
+    {
+      "segment_id": "0002",
+      "source": "“所以……你只是在让卯之花老师砍你？让你深度体验回道治愈自己的奥妙？”",
+      "target": "“Cho nên... cậu chỉ đang để cô Unohana chém cậu? Để cậu trải nghiệm sâu sắc sự ảo diệu của việc dùng Hồi Đạo tự chữa trị cho chính mình?”"
+    },
+    {
+      "segment_id": "0003",
+      "source": "蓝染听了陆离的解释后眼神怪异，“你被砍，上瘾？”",
+      "target": "Aizen nghe Lục Ly giải thích xong, ánh mắt trở nên kỳ quái, “Cậu bị chém đến nghiện rồi à?”"
+    },
+    {
+      "segment_id": "0004",
+      "source": "“胡说什么呢？谁会因为被神速斩击切开心脏上瘾啊！”",
+      "target": "“Nói bậy bạ gì thế? Ai lại đi nghiện việc bị trảm kích thần tốc chém mở trái tim cơ chứ!”"
+    },
+    {
+      "segment_id": "0005",
+      "source": "陆离有些无语，为了避免蓝染产生奇怪的误会，他刚刚跟蓝染解释了一下，并让对方保密。",
+      "target": "Lục Ly có chút cạn lời. Để tránh Aizen sinh ra hiểu lầm kỳ quái, hắn vừa mới giải thích một chút với Aizen, đồng thời bảo đối phương giữ bí mật."
+    },
+    {
+      "segment_id": "0006",
+      "source": "两个月相处下来，别的他不敢说，起码他可以肯定蓝染的嘴挺严的，应该不会乱传。",
+      "target": "Qua hai tháng chung đụng, cái khác hắn không dám nói, ít nhất hắn có thể khẳng định miệng Aizen rất kín, chắc chắn sẽ không truyền đi bậy bạ."
+    },
+    {
+      "segment_id": "0007",
+      "source": "“可我听说放课后的回道教室里总传出‘老师，请再来一次’的声音。”",
+      "target": "“Nhưng tớ nghe nói phòng học Hồi Đạo sau giờ học luôn truyền ra âm thanh ‘Cô ơi, xin hãy làm lại lần nữa’.”"
+    },
+    {
+      "segment_id": "0008",
+      "source": "蓝染面无表情的说道。",
+      "target": "Aizen mặt không cảm xúc nói."
+    },
+    {
+      "segment_id": "0009",
+      "source": "陆离表情僵硬，“那是我太想进步了……话说！你到底是从谁那听到这种事的啊！”",
+      "target": "Vẻ mặt Lục Ly cứng đờ, “Đó là do tớ quá muốn tiến bộ... Mà nói này! Rốt cuộc cậu nghe được chuyện này từ ai thế hả!”"
+    },
+    {
+      "segment_id": "0010",
+      "source": "蓝染扫过教室内的所有同学，“真央灵术院内……应该没人不知道吧？已经成为学院七大怪谈之一了。”",
+      "target": "Aizen liếc nhìn tất cả bạn học trong lớp, “Trong Chân Ương Linh Thuật Viện... chắc không có ai là không biết đâu nhỉ? Chuyện đó đã trở thành một trong bảy chuyện kỳ bí của học viện rồi.”"
+    },
+    {
+      "segment_id": "0011",
+      "source": "“啊？灵术院里还有七大怪谈？”",
+      "target": "“Hả? Trong Linh Thuật Viện còn có bảy chuyện kỳ bí sao?”"
+    },
+    {
+      "segment_id": "0012",
+      "source": "陆离再次被震惊，心说这不是现世初高中才会有的校园传说吗？一般都是幽灵之类的，可你们是死神诶，也好玩这一套？",
+      "target": "Lục Ly một lần nữa bị khiếp sợ, thầm nghĩ đây không phải là truyền thuyết học đường chỉ có ở trường cấp hai, cấp ba Hiện Thế sao? Bình thường đều là u linh các loại, nhưng các người là Tử Thần đấy, cũng thích chơi cái trò này à?"
+    },
+    {
+      "segment_id": "0013",
+      "source": "“有啊，我没跟陆君说过吗？”",
+      "target": "“Có chứ, tớ chưa từng nói với Lục quân sao?”"
+    },
+    {
+      "segment_id": "0014",
+      "source": "蓝染一本正经的点评道：“器材仓库内染血的竹剑、每到零点就会消失的浅打、入夜后空气灵子减少的宿舍楼、流不尽血的小白鼠、深夜食堂内消失的米饭、变动阶层的楼梯以及……放课后传出奇怪声音的回道教室。”",
+      "target": "Aizen nghiêm trang kể lể: “Thanh kiếm trúc dính máu trong nhà kho dụng cụ, Thiển Đả biến mất mỗi khi điểm không giờ, tòa ký túc xá giảm lượng linh tử trong không khí sau khi về đêm, con chuột bạch chảy máu không ngừng, cơm trắng biến mất trong nhà ăn lúc đêm khuya, cầu thang thay đổi số bậc thang, cùng với... phòng học Hồi Đạo truyền ra âm thanh kỳ quái sau giờ học.”"
+    },
+    {
+      "segment_id": "0015",
+      "source": "陆离单手扶额，他算是服了这群真央灵术院的学生了，只能说八卦这种恶趣味，不管是人还是死神，貌似都逃不掉。",
+      "target": "Lục Ly một tay đỡ trán. Hắn xem như bái phục đám học sinh Chân Ương Linh Thuật Viện này rồi, chỉ có thể nói ác thú vị ngồi lê đôi mách này, mặc kệ là người hay là Tử Thần, có vẻ đều không thể thoát được."
+    },
+    {
+      "segment_id": "0016",
+      "source": "而且他很想吐槽，所谓的七大怪谈，这其中惣右介你分明也要背锅吧！？",
+      "target": "Hơn nữa hắn rất muốn oán thầm, cái gọi là bảy chuyện kỳ bí, trong đó Sousuke cậu rõ ràng cũng phải gánh tội đúng không!?"
+    },
+    {
+      "segment_id": "0017",
+      "source": "入夜后宿舍楼内的灵子变得稀薄，分明是你这个卷王在作怪吧！？",
+      "target": "Lượng linh tử trong tòa ký túc xá trở nên loãng đi sau khi về đêm, rõ ràng là do tên vua cày cuốc là cậu dở trò mà!?"
+    },
+    {
+      "segment_id": "0018",
+      "source": "“陆君，深夜食堂的米饭……”",
+      "target": "“Lục quân, cơm trắng trong nhà ăn lúc đêm khuya...”"
+    },
+    {
+      "segment_id": "0019",
+      "source": "蓝染的话还没说完，陆离就抬手摇头开口一气呵成，“断然不是我！”",
+      "target": "Aizen còn chưa dứt lời, Lục Ly liền lập tức giơ tay lắc đầu, phủ nhận một mạch: “Tuyệt đối không phải tớ!”"
+    },
+    {
+      "segment_id": "0020",
+      "source": "小插曲过后，他和蓝染都开始静下心来和斩魄刀共鸣，虽然蓝染只是做做样子而已，毕竟他早就已经掌握始解了。",
+      "target": "Sau một đoạn xen ngang nhỏ, hắn và Aizen đều bắt đầu tĩnh tâm lại để cộng hưởng cùng Trảm Phách Đao. Mặc dù Aizen chỉ làm ra vẻ mà thôi, rốt cuộc thì cậu ta đã sớm nắm giữ được Thủy Giải rồi."
+    },
+    {
+      "segment_id": "0021",
+      "source": "陆离这两个月在真央灵术院可谓是收获颇丰，各种战斗专精的等级都有提升先不说，他还掌握了一大堆技能。",
+      "target": "Lục Ly trải qua hai tháng ở Chân Ương Linh Thuật Viện có thể nói là thu hoạch được rất nhiều. Đẳng cấp chuyên tinh chiến đấu các loại được nâng lên khoan hãy nói, hắn còn nắm vững được một đống lớn kỹ năng."
+    },
+    {
+      "segment_id": "0022",
+      "source": "比如从夜一那里赢来的高级瞬步技巧‘空蝉’，从卯之花那里学来的‘死神回道’，以及鬼道课上掌握的各种缚道和相对实用的破道。",
+      "target": "Ví dụ như kỹ xảo Thuấn Bộ cao cấp ‘Không Thiền’ thắng được từ chỗ Yoruichi, ‘Tử Thần Hồi Đạo’ học được từ chỗ Unohana, cùng với các loại Phược Đạo và Phá Đạo tương đối thực dụng nắm vững được trong giờ học Quỷ Đạo."
+    },
+    {
+      "segment_id": "0023",
+      "source": "其中回道方面他已经有不俗的造诣了，如今卯之花老师只需要负责砍，他自己就可以进行治疗，只不过速度方面还有待练习。",
+      "target": "Trong đó, về mặt Hồi Đạo hắn đã có thành tựu không nhỏ. Hiện giờ cô Unohana chỉ cần phụ trách chém, bản thân hắn có thể tự tiến hành trị liệu, chỉ có điều về mặt tốc độ thì vẫn cần phải luyện tập thêm."
+    },
+    {
+      "segment_id": "0024",
+      "source": "像那种从左肩到腰腹的致命伤，他现在只需要十分钟就可以治好，如果他去医疗部队搞后援的话，这个水准已经相当够用了。",
+      "target": "Giống như loại vết thương chí mạng kéo dài từ vai trái đến eo bụng kia, hắn hiện tại chỉ cần mười phút là có thể chữa khỏi. Nếu như hắn đến đội ngũ y tế làm hậu cần, trình độ này đã khá là đủ dùng rồi."
+    },
+    {
+      "segment_id": "0025",
+      "source": "可问题是他想在战斗中即时使用，这个速度还是太慢了，起码他要练到能瞬间恢复轻伤，几个呼吸间恢复重伤的程度。",
+      "target": "Nhưng vấn đề là hắn muốn sử dụng ngay tức thời trong lúc chiến đấu, tốc độ này vẫn còn quá chậm. Ít nhất hắn phải luyện đến mức độ có thể nháy mắt khôi phục vết thương nhẹ, vài nhịp thở khôi phục vết thương nặng."
+    },
+    {
+      "segment_id": "0026",
+      "source": "之所以暂时不考虑致命伤，是因为无论他回道炼的再快，若是碰到能把他打出致命伤的敌人，多半也是无力回天的。",
+      "target": "Sở dĩ tạm thời không cân nhắc tới vết thương chí mạng, là bởi vì cho dù hắn có luyện Hồi Đạo nhanh đến đâu, nếu gặp phải kẻ địch có thể đánh hắn ra vết thương chí mạng, thì hơn phân nửa cũng là vô lực xoay chuyển trời đất."
+    },
+    {
+      "segment_id": "0027",
+      "source": "如果可以的话，陆离想把回道练到瞬息间就能恢复重伤的程度，这样实战意义就会很强了。",
+      "target": "Nếu có thể, Lục Ly muốn luyện Hồi Đạo đến mức độ trong chớp mắt là có thể khôi phục vết thương nặng, như vậy ý nghĩa thực chiến sẽ rất mạnh."
+    },
+    {
+      "segment_id": "0028",
+      "source": "但现在看来，这个目标还很遥远，起码他在这个世界的停留时间内估计是练不到那种水准了。",
+      "target": "Nhưng bây giờ xem ra, mục tiêu này còn rất xa vời, ít nhất trong khoảng thời gian hắn lưu lại ở thế giới này đoán chừng là không luyện tới trình độ đó được."
+    },
+    {
+      "segment_id": "0029",
+      "source": "当然，他现在的修行绝不是无用功，回道已经可以初步运用到战斗中了，肌体的伤势他治疗的很快。",
+      "target": "Đương nhiên, việc tu hành hiện tại của hắn tuyệt đối không phải là tốn công vô ích. Hồi Đạo đã có thể bước đầu vận dụng vào trong chiến đấu, những vết thương trên cơ thể được hắn chữa trị rất nhanh."
+    },
+    {
+      "segment_id": "0030",
+      "source": "至于灵压方面，倒不是陆离摆烂偷懒，而是他不想做一个空有属性的花把势。",
+      "target": "Còn về mặt linh áp, không phải là do Lục Ly buông xuôi lười biếng, mà là hắn không muốn làm một kẻ chỉ được cái mã ngoài rỗng tuếch có mỗi thuộc tính."
+    },
+    {
+      "segment_id": "0031",
+      "source": "师父曾经教育过自己，他的确是有一种数值的美，但那只是相对于一般人而言，自己如果只靠力大砖飞的话，总有一天碰到高手会吃亏。      所以武学技艺的修习是重中之重，灵压的修行方式他已经掌握了，什么时候都可以练，但要是错过了真央灵术院这样白嫖优质技艺的地方，那就太可惜了。",
+      "target": "Sư phụ từng dạy bảo hắn, hắn quả thật có một vẻ đẹp trị số, nhưng đó chỉ là nói tương đối so với người thường mà thôi, nếu như bản thân chỉ dựa vào sức mạnh áp đảo, sớm muộn gì cũng có ngày gặp phải cao thủ rồi chịu thiệt. \n\nCho nên việc tu tập kỹ nghệ võ học là quan trọng nhất trong những điều quan trọng. Phương thức tu hành linh áp hắn đã nắm vững rồi, lúc nào luyện cũng được, nhưng nếu bỏ lỡ một nơi có thể học chùa kỹ nghệ chất lượng cao như Chân Ương Linh Thuật Viện, thì thật sự quá đáng tiếc."
+    },
+    {
+      "segment_id": "0032",
+      "source": "最重要的是，他分析过自己的任务，恐怕想要速通真央灵术院，自己可能会面对某种特殊考核。",
+      "target": "Quan trọng nhất là, hắn đã phân tích qua nhiệm vụ của mình, e rằng muốn nhanh chóng thông quan Chân Ương Linh Thuật Viện, bản thân hắn có thể sẽ phải đối mặt với một loại khảo hạch đặc biệt nào đó."
+    },
+    {
+      "segment_id": "0033",
+      "source": "考官的灵压百分百是比自己高的，而对方多半不会仗着灵压欺负自己，所以自己目前最应该提升的是综合技艺。",
+      "target": "Linh áp của giám khảo trăm phần trăm là cao hơn mình, mà đối phương phần lớn sẽ không ỷ vào linh áp để bắt nạt mình, cho nên hiện tại điều bản thân nên nâng cao nhất chính là kỹ nghệ tổng hợp."
+    },
+    {
+      "segment_id": "0034",
+      "source": "不过接下来的一段时间，他也会让卯之花老师对自己温柔一点，因为他的回道已经登堂入室了，每天的课后指导没必要那么激烈，这样也能保存他的体力，让他晚上可以卷起来。",
+      "target": "Bất quá trong một khoảng thời gian sắp tới, hắn cũng sẽ bảo cô Unohana dịu dàng với mình một chút, bởi vì Hồi Đạo của hắn đã bước vào ngưỡng cửa thành thạo, việc hướng dẫn sau giờ học mỗi ngày không cần thiết phải mãnh liệt như vậy nữa, như thế cũng có thể bảo tồn thể lực của hắn, để ban đêm hắn có thể thức cày cuốc tiếp."
+    },
+    {
+      "segment_id": "0035",
+      "source": "陆离低头看了眼自己膝前的浅打，这两个月来他每天都有尝试共鸣，但都失败了。",
+      "target": "Lục Ly cúi đầu nhìn thoáng qua thanh Thiển Đả đặt trước đầu gối mình, hai tháng nay mỗi ngày hắn đều nỗ lực cộng hưởng, nhưng đều thất bại."
+    },
+    {
+      "segment_id": "0036",
+      "source": "他感觉并不是自己‘灵威’等级不够的缘故，也不是他没有共鸣斩魄刀的天赋，而是自己的灵魂深处貌似……有点奇怪。",
+      "target": "Hắn cảm giác không phải là do đẳng cấp ‘Linh Uy’ của mình không đủ, cũng không phải là do hắn không có thiên phú cộng hưởng Trảm Phách Đao, mà là sâu trong linh hồn mình hình như... có chút kỳ lạ."
+    },
+    {
+      "segment_id": "0037",
+      "source": "他审视自己的内心，凝视自己的灵魂，面对那无垠的紫黑，就像是在凝视深渊一般。",
+      "target": "Hắn thẩm thị nội tâm của mình, nhìn chằm chằm vào linh hồn của mình, đối mặt với màu tím đen vô tận kia, giống như là đang nhìn chằm chằm vào vực thẳm vậy."
+    },
+    {
+      "segment_id": "0038",
+      "source": "他凝视灵魂最深的一次，感觉自己好像坠落了，耳畔好似还回响着什么恐怖的嘶吼声。",
+      "target": "Lần hắn nhìn chằm chằm vào nơi sâu nhất của linh hồn, cảm giác mình dường như đã rơi xuống, bên tai tựa hồ còn vang vọng tiếng gầm gừ khủng khiếp nào đó."
+    },
+    {
+      "segment_id": "0039",
+      "source": "“惣右介，你第一次听到斩魄刀的声音时，是怎样的？”",
+      "target": "“Sousuke, lần đầu tiên cậu nghe thấy âm thanh của Trảm Phách Đao, là như thế nào vậy?”"
+    },
+    {
+      "segment_id": "0040",
+      "source": "思索后，陆离还是决定请教一下蓝染。",
+      "target": "Sau khi suy tư, Lục Ly vẫn quyết định thỉnh giáo Aizen một chút."
+    },
+    {
+      "segment_id": "0041",
+      "source": "“斩魄刀的声音？”",
+      "target": "“Âm thanh của Trảm Phách Đao?”"
+    },
+    {
+      "segment_id": "0042",
+      "source": "蓝染睁开眸子，他其实没有在共鸣，而是在修炼灵压，“斩魄刀的声音即是我们灵魂的声音，它第一次跟我说了什么，我有点忘记了。”",
+      "target": "Aizen mở to hai mắt, cậu ta kỳ thật không có đang cộng hưởng, mà là đang tu luyện linh áp, “Âm thanh của Trảm Phách Đao chính là âm thanh linh hồn của chúng ta, nó đã nói gì với tớ trong lần đầu tiên, tớ có hơi quên mất rồi.”"
+    },
+    {
+      "segment_id": "0043",
+      "source": "陆离才不信蓝染会忘，多半是对方不想透露‘隐私’，他换了种问法，“斩魄刀说的是人话吗？声音是平静还是暴躁，是温柔还是恐怖？”",
+      "target": "Lục Ly mới không tin Aizen sẽ quên, hơn phân nửa là đối phương không muốn tiết lộ ‘sự riêng tư’, hắn liền đổi một cách hỏi khác, “Trảm Phách Đao có nói tiếng người không? Giọng điệu là bình tĩnh hay là nóng nảy, là dịu dàng hay là kinh khủng?”"
+    },
+    {
+      "segment_id": "0044",
+      "source": "蓝染有些怪异的看了眼陆离，“斩魄刀是自己灵魂的一种写照，一般来说不是自我厌恶，斩魄刀都不会对主人有恶意吧？至于说的是不是人话……陆君，难道你不是人？”",
+      "target": "Aizen có chút kỳ quái nhìn thoáng qua Lục Ly, “Trảm Phách Đao là một loại bức tranh tả thực linh hồn của bản thân, bình thường mà nói nếu không phải là chán ghét chính mình, Trảm Phách Đao sẽ không có ác ý với chủ nhân đâu nhỉ? Còn về việc nó có nói tiếng người hay không... Lục quân, lẽ nào cậu không phải là người sao?”"
+    },
+    {
+      "segment_id": "0045",
+      "source": "“我当然是人。”",
+      "target": "“Tớ đương nhiên là người.”"
+    },
+    {
+      "segment_id": "0046",
+      "source": "陆离有点脸黑，他知道蓝染的意思，正常来说，斩魄刀肯定是说人话的，除非他自己不是人。",
+      "target": "Mặt Lục Ly hơi đen lại, hắn biết ý của Aizen. Bình thường mà nói, Trảm Phách Đao khẳng định là nói tiếng người, trừ phi bản thân hắn không phải là người."
+    },
+    {
+      "segment_id": "0047",
+      "source": "因为斩魄刀的刀灵可以说是诞生于主人的灵魂，那么语言常识当然相同，就算他还会很多种外语，斩魄刀说外语那也算是人话，不应该说他完全听不懂的话。",
+      "target": "Bởi vì đao linh của Trảm Phách Đao có thể nói là ra đời từ trong linh hồn của chủ nhân, vậy thì nhận thức ngôn ngữ đương nhiên cũng giống nhau. Cho dù hắn có biết nhiều loại ngoại ngữ, Trảm Phách Đao nói ngoại ngữ thì đó cũng coi như là tiếng người, nó không thể nào nói ra những lời mà hắn hoàn toàn không hiểu được."
+    },
+    {
+      "segment_id": "0048",
+      "source": "可问题就在于，他之前好像在那些恐怖的嘶吼声中，还听到了几声莫名的低语。",
+      "target": "Nhưng vấn đề nằm ở chỗ, lúc trước hắn tựa hồ còn nghe được vài tiếng nỉ non khó hiểu xen lẫn trong những tiếng gầm gừ khủng khiếp kia."
+    },
+    {
+      "segment_id": "0049",
+      "source": "“那陆君你自我厌恶吗？”",
+      "target": "“Vậy Lục quân, cậu có chán ghét bản thân không?”"
+    },
+    {
+      "segment_id": "0050",
+      "source": "蓝染就像是一个心理医生一样，认真的分析陆离的问题。",
+      "target": "Aizen giống như là một bác sĩ tâm lý vậy, nghiêm túc phân tích vấn đề của Lục Ly."
+    },
+    {
+      "segment_id": "0051",
+      "source": "陆离沉默了一瞬，他回想着自己来到终焉空间前的一生。",
+      "target": "Lục Ly im lặng một khoảnh khắc, hắn hồi tưởng lại cả cuộc đời mình trước khi đến Không Gian Chung Yên."
+    },
+    {
+      "segment_id": "0052",
+      "source": "他自幼无父无母，还是婴儿时就被师父抱回去了，这辈子他最珍视的就只有两个人。",
+      "target": "Hắn từ nhỏ đã không cha không mẹ, khi còn là trẻ sơ sinh đã được sư phụ ôm về, đời này người mà hắn trân trọng nhất cũng chỉ có hai người."
+    },
+    {
+      "segment_id": "0053",
+      "source": "一个师父。",
+      "target": "Một là sư phụ."
+    },
+    {
+      "segment_id": "0054",
+      "source": "一个师姐。",
+      "target": "Một là sư tỷ."
+    },
+    {
+      "segment_id": "0055",
+      "source": "可他们都死了，死在了自己面前。",
+      "target": "Nhưng bọn họ đều đã chết rồi, chết ở ngay trước mắt mình."
+    }
+  ]
+}
+```

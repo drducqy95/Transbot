@@ -1,0 +1,42 @@
+[
+  {
+    "source": "他的属性有",
+    "type": "term",
+    "status": "pending"
+  },
+  {
+    "source": "体质：17点",
+    "type": "term",
+    "status": "pending"
+  },
+  {
+    "source": "力量：16点",
+    "type": "term",
+    "status": "pending"
+  },
+  {
+    "source": "幸运：1点",
+    "type": "term",
+    "status": "pending"
+  },
+  {
+    "source": "探索者404",
+    "type": "term",
+    "status": "pending"
+  },
+  {
+    "source": "敏捷：17点",
+    "type": "term",
+    "status": "pending"
+  },
+  {
+    "source": "精神：22点",
+    "type": "term",
+    "status": "pending"
+  },
+  {
+    "source": "魅力：6点",
+    "type": "term",
+    "status": "pending"
+  }
+]

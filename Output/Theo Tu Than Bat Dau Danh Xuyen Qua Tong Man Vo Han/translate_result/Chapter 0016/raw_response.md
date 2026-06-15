@@ -11,267 +11,267 @@
     {
       "segment_id": "0002",
       "source": "陆离倒也没跟小女孩儿斗嘴的意思，站在起跑线处，抬脚将木屐踢飞了出去，深吸一口气。",
-      "target": "Lục Ly cũng không có ý định đấu võ mồm với bé gái, hắn đứng ở vạch xuất phát, nhấc chân đá bay đôi guốc gỗ ra ngoài, rồi hít sâu một hơi."
+      "target": "Lục Ly cũng không có ý định đấu võ mồm với cô bé, đứng ở vạch xuất phát, nhấc chân đá bay đôi guốc gỗ ra ngoài, hít sâu một hơi."
     },
     {
       "segment_id": "0003",
       "source": "离得近的学员可以清楚的看到，陆离的胸膛高高隆起，那姿态完全不是正常的深呼吸，给人的感觉倒像是汽油进入了内燃机！",
-      "target": "Những học viên đứng gần có thể nhìn thấy rõ lồng ngực Lục Ly nhô cao, tư thế đó hoàn toàn không phải là hít sâu bình thường, mà mang lại cảm giác giống như xăng được bơm vào động cơ đốt trong!"
+      "target": "Các học viên ở gần có thể nhìn thấy rõ ràng lồng ngực Lục Ly nhô lên cao, tư thế đó hoàn toàn không phải là hít sâu bình thường, mà mang lại cảm giác giống như xăng được bơm vào động cơ đốt trong!"
     },
     {
       "segment_id": "0004",
       "source": "紧接着，在陆离身形压低时，人们可以看到宽大的道服有明显的隆起。",
-      "target": "Ngay sau đó, khi Lục Ly hạ thấp thân hình, mọi người có thể thấy đạo phục rộng thùng thình có sự gồ lên rõ rệt."
+      "target": "Ngay sau đó, khi Lục Ly hạ thấp thân hình, mọi người có thể nhìn thấy bộ đạo phục rộng rãi có chỗ phồng lên rõ rệt."
     },
     {
       "segment_id": "0005",
       "source": "同学们带着惊讶的目光看着陆离，简直难以想象那道袍下的躯体此时究竟是怎样的狰狞和暴力，陆离根本不像是要进行一次‘优雅的瞬步’，倒像是猛兽扑击前的姿态！",
-      "target": "Các bạn học mang theo ánh mắt kinh ngạc nhìn Lục Ly, quả thực khó có thể tưởng tượng được cơ thể dưới lớp đạo phục kia lúc này rốt cuộc dữ tợn và bạo lực đến mức nào. Lục Ly căn bản không giống như sắp thực hiện một lần 'Thuấn Bộ thanh lịch', mà giống tư thế của một con mãnh thú trước khi vồ mồi hơn!"
+      "target": "Các bạn học mang theo ánh mắt kinh ngạc nhìn Lục Ly, quả thực khó có thể tưởng tượng được cơ thể dưới bộ đạo bào kia lúc này rốt cuộc hung bạo và dữ tợn đến mức nào, Lục Ly căn bản không giống như sắp thực hiện một lần 'Thuấn Bộ thanh lịch', mà lại giống tư thế của mãnh thú trước khi vồ mồi hơn!"
     },
     {
       "segment_id": "0006",
       "source": "下一刻，伴随着沉闷的响声和飞扬的尘土，陆离的身影消失了。",
-      "target": "Khoảnh khắc tiếp theo, nương theo một tiếng động trầm đục và bụi đất bay mù mịt, thân ảnh Lục Ly đã biến mất."
+      "target": "Giây tiếp theo, nương theo tiếng động trầm đục và bụi đất bay mù mịt, thân ảnh Lục Ly biến mất."
     },
     {
       "segment_id": "0007",
       "source": "在蓝染眼中，陆离就像是一只朝猎物扑去的猛兽，这根本不是他熟知的瞬步，无论是发力方式、对支点的借力都和瞬步不太一样，最重要的是，陆离的动静太大了！",
-      "target": "Trong mắt Aizen, Lục Ly giống như một con mãnh thú đang vồ lấy con mồi. Đây căn bản không phải là Thuấn Bộ mà hắn quen thuộc. Bất luận là cách phát lực hay mượn lực từ điểm tựa đều không quá giống với Thuấn Bộ, quan trọng nhất là, động tĩnh của Lục Ly quá lớn!"
+      "target": "Trong mắt Aizen, Lục Ly giống như một con mãnh thú đang lao về phía con mồi, đây căn bản không phải là Thuấn Bộ mà hắn quen thuộc, bất luận là cách phát lực hay mượn lực từ điểm tựa đều không quá giống với Thuấn Bộ, quan trọng nhất là, động tĩnh của Lục Ly quá lớn!"
     },
     {
       "segment_id": "0008",
       "source": "一阵脚和地面摩擦的声音响起，伴随着飞扬的尘土，陆离在超过半程外的下一个节点停了下来。",
-      "target": "Một tràng âm thanh chân ma sát với mặt đất vang lên, nương theo bụi đất bay mù mịt, Lục Ly dừng lại ở điểm nút tiếp theo, vượt quá một nửa chặng đường."
+      "target": "Một trận tiếng chân ma sát với mặt đất vang lên, nương theo bụi đất bay tứ tung, Lục Ly dừng lại ở cột mốc tiếp theo cách đó hơn nửa chặng đường."
     },
     {
       "segment_id": "0009",
       "source": "在夜一和众多同学乃至老师震惊的目光中，他咧嘴笑了笑，看向大屏幕。",
-      "target": "Trong ánh mắt khiếp sợ của Yoruichi, vô số bạn học và cả giáo viên, hắn nhếch miệng cười cười, nhìn về phía màn hình lớn."
+      "target": "Dưới ánh mắt khiếp sợ của Yoruichi, đông đảo bạn học và cả giáo viên, hắn nhe răng cười, nhìn về phía màn hình lớn."
     },
     {
       "segment_id": "0010",
       "source": "‘2.939S’",
-      "target": "'2.939s'"
+      "target": "‘2.939S’"
     },
     {
       "segment_id": "0011",
       "source": "他活动了下脖颈，然后才转身看向夜一，“好像是我赢了吧？”",
-      "target": "Hắn khởi động cổ một chút, sau đó mới xoay người nhìn về phía Yoruichi: \"Hình như là ta thắng rồi nhỉ?\""
+      "target": "Hắn cử động cổ một chút, sau đó mới xoay người nhìn Yoruichi: \"Hình như là ta thắng rồi nhỉ?\""
     },
     {
       "segment_id": "0012",
       "source": "夜一小口微张，“……你……你这根本，根本就不是瞬步！”",
-      "target": "Yoruichi hé mở cái miệng nhỏ nhắn: \"...Ngươi... Cái này của ngươi căn bản, căn bản không phải là Thuấn Bộ!\""
+      "target": "Yoruichi khẽ hé chiếc miệng nhỏ nhắn: \"... Ngươi... Ngươi cái này căn bản, căn bản không phải là Thuấn Bộ!\""
     },
     {
       "segment_id": "0013",
       "source": "“你只说了你跑全程我跑半程，谁用的时间短，你没说必须要用瞬步啊？”",
-      "target": "\"Cô chỉ nói cô chạy toàn trình còn ta chạy nửa trình, xem ai dùng ít thời gian hơn, cô đâu có nói là bắt buộc phải dùng Thuấn Bộ đâu?\""
+      "target": "\"Cô chỉ nói cô chạy toàn trình ta chạy bán trình, ai dùng thời gian ngắn hơn thì thắng, cô đâu có nói bắt buộc phải dùng Thuấn Bộ đâu?\""
     },
     {
       "segment_id": "0014",
       "source": "陆离咧嘴笑道，“再说了，谁说我用的不是瞬步？我用的就是瞬步啊。”",
-      "target": "Lục Ly nhếch miệng cười nói: \"Hơn nữa, ai nói ta dùng không phải Thuấn Bộ? Cái ta dùng chính là Thuấn Bộ mà.\""
+      "target": "Lục Ly nhe răng cười nói: \"Thêm nữa, ai nói ta dùng không phải là Thuấn Bộ? Thứ ta dùng chính là Thuấn Bộ a.\""
     },
     {
       "segment_id": "0015",
       "source": "在场的人，无论是老师还是学生都一阵无语，哪里有动静这么大的瞬步？",
-      "target": "Những người có mặt tại hiện trường, bất luận là giáo viên hay học sinh đều cạn lời. Làm gì có Thuấn Bộ nào động tĩnh lớn đến thế?"
+      "target": "Những người có mặt ở đó, bất luận là giáo viên hay học sinh đều cạn lời một phen, làm gì có Thuấn Bộ nào động tĩnh lớn như thế này?"
     },
     {
       "segment_id": "0016",
       "source": "刚才无论怎么看，你都像是莽过去的吧！？",
-      "target": "Vừa nãy dù nhìn thế nào, ngươi cũng giống như là cứ thế mãng qua đó mà!?"
+      "target": "Vừa rồi dù nhìn thế nào, ngươi cũng giống như cứ thế mãng lao tới mà!?"
     },
     {
       "segment_id": "0017",
       "source": "但在惊讶过后，也有少数几人皱眉思索，因为他们发现陆离刚刚虽然跑动的动静极大，但那的确是一种用到了瞬步理论的步法。",
-      "target": "Nhưng sau khi kinh ngạc, cũng có số ít người nhíu mày suy tư, bởi vì bọn họ phát hiện Lục Ly vừa nãy tuy động tĩnh chạy bộ cực lớn, nhưng đó quả thực là một loại bộ pháp có sử dụng lý thuyết của Thuấn Bộ."
+      "target": "Nhưng sau khi kinh ngạc qua đi, cũng có số ít vài người nhíu mày suy tư, bởi vì bọn họ phát hiện Lục Ly vừa rồi tuy động tĩnh khi chạy bộ cực lớn, nhưng đó quả thực là một loại bộ pháp đã dùng đến lý luận của Thuấn Bộ."
     },
     {
       "segment_id": "0018",
       "source": "只不过陆离舍弃了‘无声’和‘优雅’",
-      "target": "Chỉ có điều Lục Ly đã vứt bỏ sự 'không tiếng động' và 'thanh lịch'."
+      "target": "Chỉ có điều Lục Ly đã vứt bỏ 'vô thanh' và 'thanh lịch'."
     },
     {
       "segment_id": "0019",
       "source": "下课后，夜一站在陆离面前，心情复杂，“愿赌服输，说吧，你要学什么？”",
-      "target": "Sau khi tan học, Yoruichi đứng trước mặt Lục Ly, tâm trạng phức tạp: \"Chấp nhận thua cược, nói đi, ngươi muốn học cái gì?\""
+      "target": "Sau khi tan học, Yoruichi đứng trước mặt Lục Ly, tâm trạng phức tạp: \"Đã cược thì phải chịu thua, nói đi, ngươi muốn học cái gì?\""
     },
     {
       "segment_id": "0020",
       "source": "原本她输了是应该感到气愤的，尤其是陆离用的并不是传统意义上的瞬步，但她的眼力极好，尤其是在瞬步领域天赋罕有人能及，思索后她发现，陆离的那种‘瞬步’也是很有可取之处的。",
-      "target": "Vốn dĩ cô thua cuộc thì nên cảm thấy tức giận, đặc biệt là thứ Lục Ly dùng cũng không phải Thuấn Bộ theo ý nghĩa truyền thống, nhưng nhãn lực của cô cực tốt, đặc biệt là trong lĩnh vực Thuấn Bộ có thiên phú hiếm ai sánh kịp. Sau khi suy ngẫm, cô phát hiện ra 'Thuấn Bộ' kiểu đó của Lục Ly cũng có điểm đáng để học hỏi."
+      "target": "Vốn dĩ nàng thua thì nên cảm thấy tức giận, đặc biệt là thứ Lục Ly dùng cũng không phải Thuấn Bộ theo ý nghĩa truyền thống, nhưng nhãn lực của nàng cực tốt, nhất là trong lĩnh vực Thuấn Bộ thiên phú hiếm có người nào sánh kịp. Sau khi suy tư nàng phát hiện, loại 'Thuấn Bộ' kia của Lục Ly cũng có điểm rất đáng khen ngợi."
     },
     {
       "segment_id": "0021",
       "source": "之前陆离并没有学过瞬步，就只有一个疯狂的结论了，那就是陆离在初次接触瞬步后，只尝试了二十多次，就创出了新的步法。",
-      "target": "Trước đó Lục Ly chưa từng học Thuấn Bộ, thế thì chỉ có một kết luận điên rồ, đó là sau khi Lục Ly lần đầu tiên tiếp xúc với Thuấn Bộ, chỉ thử nghiệm hơn hai mươi lần là đã sáng tạo ra bộ pháp mới."
+      "target": "Trước đây Lục Ly hoàn toàn chưa từng học qua Thuấn Bộ, vậy thì chỉ có một kết luận điên rồ mà thôi, đó chính là sau khi Lục Ly lần đầu tiếp xúc với Thuấn Bộ, chỉ mới thử sức hơn hai mươi lần, vậy mà đã sáng tạo ra được bộ pháp mới."
     },
     {
       "segment_id": "0022",
       "source": "这就尼玛……离谱！",
-      "target": "Thật cmn... Quá vô lý!"
+      "target": "Thế này cmn... quá mức vô lý!"
     },
     {
       "segment_id": "0023",
       "source": "夜一当然知道瞬步不是唯一的高速移动步法，不如说真央灵术院只会教学员‘大路货’，这里的瞬步都是基础中的基础，说的好听叫‘经典瞬步’，说的难听就是‘过时瞬步’",
-      "target": "Yoruichi tất nhiên biết Thuấn Bộ không phải là bộ pháp di chuyển tốc độ cao duy nhất. Phải nói rằng Chân Ương Linh Thuật Viện chỉ dạy cho học viên 'hàng đại trà'. Thuấn Bộ ở đây đều là cơ bản của cơ bản, nói êm tai thì gọi là 'Thuấn Bộ kinh điển', nói khó nghe thì chính là 'Thuấn Bộ lỗi thời'."
+      "target": "Yoruichi đương nhiên biết Thuấn Bộ không phải là bộ pháp di chuyển tốc độ cao duy nhất, không bằng nói Chân Ương Linh Thuật Viện chỉ dạy cho học viên 'hàng đại trà', Thuấn Bộ ở đây đều là cơ sở trong cơ sở, nói hay thì gọi là 'Thuấn Bộ kinh điển', nói khó nghe thì chính là 'Thuấn Bộ lỗi thời'."
     },
     {
       "segment_id": "0024",
       "source": "她们四枫院家很擅长瞬步和白打，因此有很多秘传的白打技术以及瞬步技术，高级的瞬步技巧，不是真央灵术院教的能比的。",
-      "target": "Gia tộc Shihouin của bọn họ rất giỏi Thuấn Bộ và Bạch Đả, bởi vậy có rất nhiều kỹ thuật Bạch Đả cũng như kỹ thuật Thuấn Bộ bí truyền. Kỹ xảo Thuấn Bộ cao cấp hoàn toàn không phải thứ Chân Ương Linh Thuật Viện dạy có thể sánh được."
+      "target": "Gia tộc Shihouin các nàng rất giỏi Thuấn Bộ và Bạch Đả, do đó có rất nhiều kỹ thuật Bạch Đả cùng với kỹ thuật Thuấn Bộ bí truyền, kỹ xảo Thuấn Bộ cao cấp, không phải thứ Chân Ương Linh Thuật Viện dạy có thể sánh được."
     },
     {
       "segment_id": "0025",
       "source": "而那些所谓的高级瞬步，也是四枫院家的天才前辈们凝聚一代代的智慧创出来的。",
-      "target": "Mà những cái gọi là Thuấn Bộ cao cấp kia, cũng là do các tiền bối thiên tài của gia tộc Shihouin ngưng tụ trí tuệ từ thế hệ này sang thế hệ khác sáng tạo ra."
+      "target": "Mà những cái gọi là Thuấn Bộ cao cấp đó, cũng là do các tiền bối thiên tài của gia tộc Shihouin ngưng tụ trí tuệ từ đời này qua đời khác sáng tạo ra."
     },
     {
       "segment_id": "0026",
       "source": "结果今天她又见识到了新的‘高级瞬步’，却是一个流魂街的流民，花了几十分钟创造出来的。",
-      "target": "Kết quả hôm nay, cô lại được chứng kiến một 'Thuấn Bộ cao cấp' mới, mà lại là do một lưu dân của Rukongai dành ra vài chục phút sáng tạo ra."
+      "target": "Kết quả hôm nay nàng lại được kiến thức thêm 'Thuấn Bộ cao cấp' mới, lại là do một lưu dân ở Lưu Hồn Nhai, dành ra vài chục phút sáng tạo nên."
     },
     {
       "segment_id": "0027",
       "source": "是的，她认为陆离的那种步法是比普通瞬步要高级的，起码更适合陆离自己。",
-      "target": "Đúng vậy, cô cho rằng loại bộ pháp đó của Lục Ly cao cấp hơn Thuấn Bộ bình thường, ít nhất là càng phù hợp với bản thân Lục Ly."
+      "target": "Đúng vậy, nàng cho rằng loại bộ pháp đó của Lục Ly cao cấp hơn so với Thuấn Bộ bình thường, chí ít là thích hợp với bản thân Lục Ly hơn."
     },
     {
       "segment_id": "0028",
       "source": "她敢跟陆离比试，并让自己的距离多一倍，就是因为她掌握有高级瞬步技巧，认为刚接触普通瞬步的陆离根本不可能赢自己。",
-      "target": "Cô dám so tài với Lục Ly, đồng thời để khoảng cách của mình gấp đôi, chính là bởi vì cô nắm giữ kỹ xảo Thuấn Bộ cao cấp, cho rằng Lục Ly vừa tiếp xúc với Thuấn Bộ bình thường căn bản không có khả năng thắng được mình."
+      "target": "Nàng dám tỷ thí với Lục Ly, đồng thời để khoảng cách của mình gấp đôi, chính là bởi vì nàng nắm giữ kỹ xảo Thuấn Bộ cao cấp, cho rằng Lục Ly vừa tiếp xúc với Thuấn Bộ bình thường căn bản không có khả năng thắng được nàng."
     },
     {
       "segment_id": "0029",
       "source": "别说陆离了，就算是这堂课的老师，隐秘机动部队的第三席，让他们在同灵压等级下比试瞬步（同距离），赢的也一定是她。",
-      "target": "Đừng nói là Lục Ly, cho dù là giáo viên của tiết học này, đệ tam tịch của Lực lượng Ẩn Mật Cơ Động, để bọn họ so tài Thuấn Bộ dưới cùng một đẳng cấp linh áp (cùng khoảng cách), người thắng cũng chắc chắn là cô."
+      "target": "Đừng nói là Lục Ly, cho dù là giáo viên của tiết học này, đệ tam tịch của Ẩn Mật Cơ Động, để bọn họ tỷ thí Thuấn Bộ (cùng khoảng cách) dưới cùng cấp độ linh áp, người thắng nhất định cũng sẽ là nàng."
     },
     {
       "segment_id": "0030",
       "source": "可她做梦也想不到，陆离这个变态居然短时间内自创了一套适合他自己的瞬步，虽然动静极大，但如果只论速度是极快的。",
-      "target": "Nhưng cô nằm mơ cũng không ngờ tới, tên biến thái Lục Ly này lại tự sáng tạo ra một bộ Thuấn Bộ phù hợp với bản thân hắn trong thời gian ngắn. Mặc dù động tĩnh cực lớn, nhưng nếu chỉ xét về tốc độ thì lại cực nhanh."
+      "target": "Nhưng nàng nằm mơ cũng không ngờ tới, tên biến thái Lục Ly này lại có thể tự sáng tạo ra một bộ Thuấn Bộ phù hợp với bản thân mình chỉ trong một khoảng thời gian ngắn, tuy động tĩnh cực lớn, nhưng nếu chỉ xét về tốc độ thì lại vô cùng nhanh."
     },
     {
       "segment_id": "0031",
       "source": "而且她明白，陆离只是今天刚接触瞬步，这种新瞬步也是刚创造出来的，对方的速度随着练习只会越来越快，追上自己的巅峰也不是不可能。",
-      "target": "Hơn nữa cô hiểu rõ, Lục Ly chỉ mới tiếp xúc với Thuấn Bộ ngày hôm nay, loại Thuấn Bộ mới này cũng vừa được sáng tạo ra. Tốc độ của đối phương theo quá trình luyện tập sẽ chỉ càng ngày càng nhanh, đuổi kịp thời kỳ đỉnh cao của cô cũng không phải là không thể."
+      "target": "Hơn nữa nàng hiểu rõ, Lục Ly hôm nay mới vừa tiếp xúc Thuấn Bộ, loại Thuấn Bộ mới này cũng vừa mới được sáng tạo ra, tốc độ của đối phương theo quá trình luyện tập sẽ chỉ ngày càng nhanh hơn, đuổi kịp đỉnh phong của mình cũng không phải là chuyện không thể nào."
     },
     {
       "segment_id": "0032",
       "source": "陆离看着神情变换的夜一，也猜不透对方在脑补些什么，于是直接提出要求，“我听说过一种高级瞬步技巧，名为空蝉，不知道你会不会。”",
-      "target": "Lục Ly nhìn Yoruichi với vẻ mặt thay đổi liên tục, cũng đoán không thấu đối phương đang suy diễn những gì, thế là trực tiếp đưa ra yêu cầu: \"Ta từng nghe nói về một loại kỹ xảo Thuấn Bộ cao cấp, tên là Utsusemi, không biết cô có biết hay không.\""
+      "target": "Lục Ly nhìn Yoruichi sắc mặt thay đổi liên tục, cũng đoán không thấu đối phương đang tự bổ não cái gì, thế là trực tiếp đưa ra yêu cầu: \"Ta từng nghe nói qua một loại kỹ xảo Thuấn Bộ cao cấp tên là Không Thiền, không biết cô có biết dùng không.\""
     },
     {
       "segment_id": "0033",
       "source": "“空蝉？”",
-      "target": "\"Utsusemi?\""
+      "target": "\"Không Thiền?\""
     },
     {
       "segment_id": "0034",
-      "source": "夜一皱眉道，“你是从哪里听说这个名字的？”      陆离耸了耸肩，“吃饭的时候听食堂里有人提到的，我也记不清是谁说的了，怎么，你不会吗？”",
-      "target": "Yoruichi nhíu mày hỏi: \"Ngươi nghe được cái tên này từ đâu vậy?\" Lục Ly nhún vai: \"Lúc ăn cơm nghe có người trong nhà ăn nhắc tới, ta cũng không nhớ rõ là ai nói nữa. Sao vậy, cô không biết à?\""
+      "source": "夜一皱眉道，“你是从哪里听说这个名字的？” \t\t \t\t陆离耸了耸肩，“吃饭的时候听食堂里有人提到的，我也记不清是谁说的了，怎么，你不会吗？”",
+      "target": "Yoruichi nhíu mày hỏi: \"Ngươi nghe được cái tên này từ đâu vậy?\"\nLục Ly nhún vai: \"Lúc ăn cơm nghe có người trong nhà ăn nhắc tới, ta cũng không nhớ rõ là ai nói nữa, sao thế, cô không biết à?\""
     },
     {
       "segment_id": "0035",
       "source": "他还真没把握夜一会不会空蝉，毕竟原著中也没提过这是四枫院家掌握的技术，还是夜一后来自创的。",
-      "target": "Hắn quả thực không chắc Yoruichi có biết Utsusemi hay không. Dù sao trong nguyên tác cũng không hề nhắc tới đây là kỹ thuật mà gia tộc Shihouin nắm giữ, hay là do Yoruichi sau này tự sáng tạo ra."
+      "target": "Hắn cũng thật sự không nắm chắc Yoruichi có biết Không Thiền hay không, dù sao trong nguyên tác cũng chưa từng nhắc qua đây là kỹ thuật mà gia tộc Shihouin nắm giữ, hay là do Yoruichi tự sáng tạo ra sau này."
     },
     {
       "segment_id": "0036",
       "source": "如果是夜一自创的，那么夜一现在可能还不会呢。",
-      "target": "Nếu là do Yoruichi tự sáng tạo ra, vậy thì có thể hiện tại Yoruichi vẫn chưa biết dùng."
+      "target": "Nếu như là Yoruichi tự sáng tạo ra, vậy thì Yoruichi hiện tại có khả năng vẫn chưa biết đâu."
     },
     {
       "segment_id": "0037",
       "source": "“这是我们四枫院家的瞬步技巧，很少有人知道这个名字……”",
-      "target": "\"Đây là kỹ xảo Thuấn Bộ của gia tộc Shihouin chúng ta, rất ít người biết được cái tên này...\""
+      "target": "\"Đây là kỹ xảo Thuấn Bộ của gia tộc Shihouin chúng ta, rất ít người biết đến cái tên này...\""
     },
     {
       "segment_id": "0038",
       "source": "夜一似乎有些纠结，沉吟片刻后开口，“下次瞬步课我教你。”",
-      "target": "Yoruichi có vẻ hơi chần chừ, trầm ngâm một lát rồi lên tiếng: \"Tiết Thuấn Bộ lần sau ta sẽ dạy ngươi.\""
+      "target": "Yoruichi dường như có chút rối rắm, trầm ngâm giây lát sau đó lên tiếng: \"Tiết Thuấn Bộ lần sau ta sẽ dạy ngươi.\""
     },
     {
       "segment_id": "0039",
       "source": "她纠结是因为空蝉在四枫院家也属于高端瞬步技巧，并不是说禁止外传，但这绝不是能随意传给外人的技术，如果陆离是五大贵族之一那还好说，但陆离只是低贱的流民出身。",
-      "target": "Cô chần chừ là vì Utsusemi ở gia tộc Shihouin cũng thuộc loại kỹ xảo Thuấn Bộ cao cấp, không có nghĩa là cấm truyền ra ngoài, nhưng đây tuyệt đối không phải là kỹ thuật có thể tùy ý truyền cho người ngoài. Nếu Lục Ly là một trong Ngũ Đại Quý Tộc thì còn dễ nói, nhưng Lục Ly chỉ là xuất thân lưu dân thấp hèn."
+      "target": "Nàng rối rắm là bởi vì Không Thiền trong gia tộc Shihouin cũng thuộc về kỹ xảo Thuấn Bộ cao cấp, không phải nói cấm truyền ra ngoài, nhưng đây tuyệt đối không phải kỹ thuật có thể tùy ý truyền cho người ngoài, nếu Lục Ly là một trong Ngũ Đại Quý Tộc thì còn dễ nói, nhưng Lục Ly chỉ là xuất thân lưu dân thấp kém."
     },
     {
       "segment_id": "0040",
       "source": "她是四枫院家的继承人不假，但关于这种事她还不能随意拍板，可要让她赖账她是做不出来的，只能回去后再跟那群老头子‘战争’了。",
-      "target": "Cô là người thừa kế của gia tộc Shihouin không giả, nhưng về loại chuyện này cô vẫn chưa thể tùy ý quyết định. Thế nhưng muốn bảo cô quỵt nợ thì cô lại không làm được, chỉ có thể chờ sau khi trở về rồi 'chiến tranh' với đám lão già kia vậy."
+      "target": "Nàng là người thừa kế của gia tộc Shihouin không sai, nhưng về loại chuyện này nàng vẫn chưa thể tùy tiện quyết định, nhưng nếu bảo nàng quỵt nợ thì nàng cũng không làm được, chỉ có thể sau khi về nhà lại 'chiến tranh' với đám lão già kia mà thôi."
     },
     {
       "segment_id": "0041",
       "source": "敲定了比试的奖励后，陆离的心情不错，和蓝染一起去了食堂开始干饭时间。",
-      "target": "Sau khi chốt xong phần thưởng cho cuộc so tài, tâm trạng Lục Ly khá tốt, cùng Aizen đến nhà ăn bắt đầu giờ phút đánh chén."
+      "target": "Sau khi chốt xong phần thưởng của cuộc tỷ thí, tâm trạng Lục Ly khá tốt, cùng Aizen đi đến nhà ăn bắt đầu giờ phút xơi cơm."
     },
     {
       "segment_id": "0042",
       "source": "“陆君，刚刚的那种瞬步，是你临时想出来的？”",
-      "target": "\"Lục-kun, loại Thuấn Bộ ban nãy là do cậu lâm thời nghĩ ra sao?\""
+      "target": "\"Lục quân, loại Thuấn Bộ ban nãy, là cậu tạm thời nghĩ ra sao?\""
     },
     {
       "segment_id": "0043",
       "source": "蓝染在餐桌上好奇的问陆离，今天陆离可谓是再次刷新了他的认知。",
-      "target": "Aizen ở trên bàn ăn tò mò hỏi Lục Ly, hôm nay Lục Ly có thể nói là lại một lần nữa làm mới nhận thức của hắn."
+      "target": "Aizen hiếu kỳ hỏi Lục Ly trên bàn ăn, Lục Ly hôm nay có thể nói là lại một lần nữa đổi mới nhận thức của hắn."
     },
     {
       "segment_id": "0044",
       "source": "他知道陆离很天才，但没想到陆离居然能在初次接触瞬步的时候就创出自己的‘专属瞬步’",
-      "target": "Hắn biết Lục Ly rất thiên tài, nhưng không ngờ tới Lục Ly lại có thể tự sáng tạo ra 'Thuấn Bộ chuyên biệt' của riêng mình ngay trong lần đầu tiên tiếp xúc với Thuấn Bộ."
+      "target": "Hắn biết Lục Ly rất thiên tài, nhưng không ngờ Lục Ly lại có thể tự sáng tạo ra 'Thuấn Bộ chuyên biệt' của bản thân ngay trong lần đầu tiên tiếp xúc Thuấn Bộ."
     },
     {
       "segment_id": "0045",
       "source": "“只是根据我自身的情况小小的改进了一下罢了，怎么，惣右介想学吗？”",
-      "target": "\"Chỉ là dựa theo tình trạng của bản thân mà cải tiến đôi chút thôi. Sao nào, Sousuke muốn học à?\""
+      "target": "\"Chỉ là dựa theo tình hình của bản thân ta mà cải tiến nho nhỏ một chút mà thôi, sao thế, Sousuke muốn học à?\""
     },
     {
       "segment_id": "0046",
       "source": "陆离咽下米饭后笑道，“我教你啊。”",
-      "target": "Lục Ly nuốt xuống miếng cơm rồi cười nói: \"Tôi dạy cậu nhé.\""
+      "target": "Lục Ly nuốt xuống miếng cơm rồi cười nói: \"Ta dạy cậu nhé.\""
     },
     {
       "segment_id": "0047",
       "source": "蓝染嘴角微不可见的抽搐了下，“我还是练习普通的瞬步吧。”",
-      "target": "Khóe miệng Aizen hơi giật giật đến mức không thể nhìn thấy: \"Tôi vẫn nên luyện tập Thuấn Bộ bình thường thì hơn.\""
+      "target": "Khóe miệng Aizen khẽ giật giật đến mức không thể nhìn thấy: \"Ta vẫn nên luyện tập Thuấn Bộ bình thường thì hơn.\""
     },
     {
       "segment_id": "0048",
       "source": "那种动起来奔雷一般的动静，他还是敬谢不敏吧，这不符合他低调的做事风格。",
-      "target": "Cái động tĩnh lúc di chuyển cứ như sấm sét chạy ầm ầm đó, hắn vẫn xin khiếu thì hơn, điều này không phù hợp với phong cách làm việc khiêm tốn của hắn."
+      "target": "Loại động tĩnh khi di chuyển hệt như sấm sét chạy băng băng đó, hắn vẫn xin khiếu thì hơn, điều này không phù hợp với phong cách làm việc kín đáo của hắn."
     },
     {
       "segment_id": "0049",
       "source": "陆离此时一边干饭一边思考，他自家人知自家事，其实他创出的瞬步根本算不上什么高级瞬步。",
-      "target": "Lục Ly lúc này vừa đánh chén vừa suy nghĩ, hắn tự biết chuyện của bản thân mình, thực ra Thuấn Bộ mà hắn sáng tạo ra căn bản chẳng được coi là Thuấn Bộ cao cấp gì."
+      "target": "Lục Ly lúc này vừa xơi cơm vừa suy tư, hắn người nhà mình biết chuyện nhà mình, thực ra Thuấn Bộ do hắn sáng tạo ra căn bản chẳng tính là Thuấn Bộ cao cấp gì cả."
     },
     {
       "segment_id": "0050",
       "source": "他只是摒弃了传统瞬步中对于低调无声的技巧，专注于提升速度罢了，毕竟在他看来，他对敌时也不会搞什么偷袭暗杀。",
-      "target": "Hắn chỉ là vứt bỏ đi kỹ xảo di chuyển âm thầm không tiếng động trong Thuấn Bộ truyền thống, tập trung vào việc nâng cao tốc độ mà thôi. Dù sao thì theo hắn thấy, khi đối địch hắn cũng chẳng chơi mấy trò đánh lén ám sát làm gì."
+      "target": "Hắn chỉ là vứt bỏ những kỹ xảo kín đáo vô thanh trong Thuấn Bộ truyền thống, chỉ tập trung vào việc tăng cường tốc độ mà thôi, dù sao theo hắn thấy, khi đối địch hắn cũng sẽ không giở trò đánh lén ám sát gì."
     },
     {
       "segment_id": "0051",
       "source": "战斗，就是要堂堂正正的，从正面莽死对面。",
-      "target": "Chiến đấu, chính là phải đường đường chính chính, từ chính diện mãng chết đối thủ."
+      "target": "Chiến đấu, chính là phải đường đường chính chính, từ chính diện mãng chết đối phương."
     },
     {
       "segment_id": "0052",
       "source": "无声？底噪？有必要吗？",
-      "target": "Không tiếng động? Tiếng ồn thấp? Có cần thiết không?"
+      "target": "Vô thanh? Giảm ồn? Có cần thiết không?"
     },
     {
       "segment_id": "0053",
       "source": "“哦，对了，下午的第一节课我就不跟陆君一起了。”",
-      "target": "\"À, đúng rồi, tiết học đầu tiên của buổi chiều tôi sẽ không đi cùng Lục-kun đâu đấy.\""
+      "target": "\"À, đúng rồi, tiết học đầu tiên của buổi chiều tôi sẽ không đi cùng Lục quân nữa.\""
     },
     {
       "segment_id": "0054",
       "source": "吃完饭后，蓝染说道。",
-      "target": "Sau khi ăn xong, Aizen nói."
+      "target": "Sau khi ăn cơm xong, Aizen lên tiếng nói."
     },
     {
       "segment_id": "0055",
@@ -281,17 +281,17 @@
     {
       "segment_id": "0056",
       "source": "因为还没上推，所以还是得压一下字数，这几天只能老老实实的两更了。",
-      "target": "Bởi vì vẫn chưa được lên đề cử, cho nên vẫn phải ém chữ một chút, mấy ngày nay chỉ có thể ngoan ngoãn đăng hai chương thôi."
+      "target": "Bởi vì chưa được lên đề cử, nên vẫn phải ép chữ một chút, mấy ngày nay chỉ đành ngoan ngoãn ngày hai chương thôi."
     },
     {
       "segment_id": "0057",
       "source": "但象还是要拜求兄弟萌给点追读、评论，新书期的数据太重要啦，象不想早早死掉〒▽〒",
-      "target": "Nhưng Voi vẫn phải cầu xin các anh em cho chút đọc tiếp, bình luận. Số liệu trong giai đoạn sách mới rất quan trọng, Voi không muốn chết sớm đâu 〒▽〒"
+      "target": "Nhưng Voi vẫn phải cầu xin các anh em cho xin chút đọc tiếp, bình luận, số liệu trong kỳ sách mới quá quan trọng rồi, Voi không muốn ngỏm sớm đâu 〒▽〒"
     },
     {
       "segment_id": "0058",
       "source": "等上推后，象会继续酌情多更的，拜托大家啦。",
-      "target": "Đợi sau khi lên đề cử, Voi sẽ tiếp tục xem xét để ra thêm chương, làm phiền mọi người rồi."
+      "target": "Đợi sau khi lên đề cử, Voi sẽ tiếp tục xem xét tình hình để bạo chương, nhờ cậy mọi người đó."
     }
   ]
 }

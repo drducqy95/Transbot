@@ -1,0 +1,20 @@
+```json
+{
+  "approved": [
+    {
+      "original": "产地：死神",
+      "translation": "Sản địa: Tử thần",
+      "type": "term",
+      "reasoning": "Follows the established pattern from the glossary ('产地：衍生' -> 'Sản địa: Phái sinh'). '死神' translates to 'Tử thần'."
+    },
+    {
+      "original": "囚魔",
+      "translation": "Tù Ma",
+      "type": "term",
+      "reasoning": "A distinct proper noun/term, typically translated using Sino-Vietnamese roots as 'Tù Ma'."
+    }
+  ],
+  "rejected": [],
+  "uncertain": []
+}
+```

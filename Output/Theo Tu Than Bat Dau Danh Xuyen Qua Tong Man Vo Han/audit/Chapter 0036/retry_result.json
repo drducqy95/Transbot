@@ -1,0 +1,21 @@
+CJK leftovers found. Fix: `待遇` → `đãi ngộ`, `着` → [remove], `稀有` → `Hiếm`, `归` → `quy`.
+
+```json
+{
+  "chapter_number": 36,
+  "chapter_title_vi": "Chương 36: Cường hóa",
+  "segments": [
+    {
+      "segment_id": "0001",
+      "source": "# 第36章 强化",
+      "target": "# Chương 36: Cường hóa"
+    },
+    {
+      "segment_id": "0002",
+      "source": "在黑旋风的讲解下，陆离大概搞清楚了终焉空间是个什么地方。",
+      "target": "Nhờ giải thích của Hắc Huyễn Phong, Lục Ly nắm được khái quát Chung Yên Không Gian là nơi như thế nào."
+    },
+    {
+      "segment_id": "0003",
+      "source": "首先他们现在所在的地方是终焉古藤，这是一株巨大的藤蔓，攀爬虚空向上，根据藤蔓的分支，截出了十重天。",
+      "target": "Trước hết, nơi họ đang đứng là Chung Yên C

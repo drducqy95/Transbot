@@ -1,0 +1,303 @@
+```json
+{
+  "chapter_number": 32,
+  "chapter_title_vi": "Chương 32: Nhiệm vụ hoàn thành (Ba canh cầu đọc tiếp, phiếu tháng)",
+  "segments": [
+    {
+      "segment_id": "0001",
+      "source": "# 第32章 任务完成（三更求追读月票）",
+      "target": "# Chương 32: Nhiệm vụ hoàn thành (Ba canh cầu đọc tiếp, phiếu tháng)"
+    },
+    {
+      "segment_id": "0002",
+      "source": "卯之花极速治好了伤势，却没有将伤疤完全消除，“你已经通过了考核，可以从真央灵术院毕业了。”",
+      "target": "Unohana trị thương với tốc độ cực nhanh, nhưng lại không xóa bỏ hoàn toàn sẹo, \"Cậu đã qua kỳ sát hạch, có thể tốt nghiệp Chân Ương Linh Thuật Viện rồi.\""
+    },
+    {
+      "segment_id": "0003",
+      "source": "她朝陆离走去，捡起了那根被她斩断的手臂，“我来吧，你的回道修炼还不到家。”",
+      "target": "Cô đi về phía Lục Ly, nhặt cánh tay bị cô chém đứt lên, \"Để ta làm cho, tu luyện Hồi Đạo của cậu vẫn chưa đến nơi đến chốn đâu.\""
+    },
+    {
+      "segment_id": "0004",
+      "source": "说着，她帮陆离把手臂接了上去，开始用回道帮他恢复。",
+      "target": "Nói xong, cô giúp Lục Ly nối cánh tay lại, bắt đầu dùng Hồi Đạo giúp cậu phục hồi."
+    },
+    {
+      "segment_id": "0005",
+      "source": "陆离也得承认，卯之花在回道领域的确远超自己，只是过了几息时间他的手臂就长好了，稍微活动了下，感觉没什么后遗症。",
+      "target": "Lục Ly cũng phải thừa nhận, Unohana trong lĩnh vực Hồi Đạo quả thật vượt xa mình, chỉ qua vài nhịp thở cánh tay cậu đã lành lại. Cậu hơi cử động một chút, cảm thấy không có di chứng gì."
+    },
+    {
+      "segment_id": "0006",
+      "source": "“多谢卯之花老师手下留情。”",
+      "target": "\"Đa tạ cô Unohana nương tay.\""
+    },
+    {
+      "segment_id": "0007",
+      "source": "陆离说道。",
+      "target": "Lục Ly nói."
+    },
+    {
+      "segment_id": "0008",
+      "source": "“哦？我可没有手下留情，最后那一招的确是你赢了。”",
+      "target": "\"Ồ? Ta không có nương tay đâu, chiêu cuối cùng kia đúng là cậu đã thắng.\""
+    },
+    {
+      "segment_id": "0009",
+      "source": "卯之花将自己的头发重新绑成原来的发型，又看了眼乱成一团的和室，有些头疼，她本以为战斗很快就会结束的，没想到搞成了这个样子，看来之后免不了要被老头子骂一番。",
+      "target": "Unohana buộc lại tóc thành kiểu cũ, lại liếc nhìn phòng kiểu Nhật đang lộn xộn thành một đống, hơi đau đầu. Cô vốn tưởng trận chiến sẽ nhanh chóng kết thúc, không ngờ lại thành ra bộ dạng này, xem ra sau đó không tránh khỏi bị ông lão mắng một trận."
+    },
+    {
+      "segment_id": "0010",
+      "source": "“中途我有几次受伤的时候，卯之花老师也并未乘胜追击，不是吗？”",
+      "target": "\"Giữa chừng lúc em bị thương vài lần, cô Unohana cũng đâu có thừa thắng xông lên, đúng không?\""
+    },
+    {
+      "segment_id": "0011",
+      "source": "陆离咧嘴笑道，“如果您那时候步步紧逼的话，我或许撑不到始解就要败了。”",
+      "target": "Lục Ly nhếch miệng cười nói, \"Nếu lúc đó cô ép sát từng bước, em có lẽ không chống đỡ nổi đến lúc Thủy Giải là đã thua rồi.\""
+    },
+    {
+      "segment_id": "0012",
+      "source": "尽管他跟蓝染说自己已经抓到了某些始解的诀窍，但他之前还是没把握百分百释放始解的，最后也是福至心灵赌了一把，险而又险的成功了。",
+      "target": "Mặc dù cậu đã nói với Aizen rằng mình nắm được vài bí quyết của Thủy Giải, nhưng trước đó cậu vẫn không nắm chắc phần trăm có thể giải phóng Thủy Giải. Cuối cùng cũng là phúc chí tâm linh cược một ván, thành công trong gang tấc."
+    },
+    {
+      "segment_id": "0013",
+      "source": "也并非是他不到残血不会玩，而是如果要是像之前那样进入了共鸣状态，反而失去意识的话，那他可真是死定了。",
+      "target": "Cũng không phải là cậu chưa tàn huyết thì không biết đánh, mà là nếu như giống như trước đây tiến vào trạng thái cộng hưởng, ngược lại mất đi ý thức, vậy thì cậu chết chắc rồi."
+    },
+    {
+      "segment_id": "0014",
+      "source": "所以他才先选择不用始解跟卯之花交手，可厮杀后得出的结论是，如果他不能始解的话，战胜卯之花的希望太小了。",
+      "target": "Cho nên cậu mới chọn không dùng Thủy Giải để giao chiến với Unohana trước. Nhưng kết luận rút ra sau khi chém giết là, nếu cậu không thể Thủy Giải, hy vọng chiến thắng Unohana quá mong manh."
+    },
+    {
+      "segment_id": "0015",
+      "source": "“赢了就是赢了，而你是不是忘了什么？”",
+      "target": "\"Thắng là thắng, mà cậu có phải đã quên gì rồi không?\""
+    },
+    {
+      "segment_id": "0016",
+      "source": "卯之花整理着自己的衣衫，彷佛又变回了平日里大家印象中的那个温柔美丽的四番队队长，“这是我的考场，不是我的猎场。”",
+      "target": "Unohana chỉnh đốn lại y phục của mình, phảng phất lại biến về vị đội trưởng Đội 4 dịu dàng xinh đẹp trong ấn tượng của mọi người ngày thường, \"Đây là phòng thi của ta, không phải bãi săn của ta.\""
+    },
+    {
+      "segment_id": "0017",
+      "source": "陆离闻言愣了下，“话说……卯之花老师，这次考核的合格条件到底是什么来着？”",
+      "target": "Lục Ly nghe vậy sửng sốt một chút, \"Nói mới nhớ... cô Unohana, điều kiện đạt tiêu chuẩn của bài thi lần này rốt cuộc là gì vậy?\""
+    },
+    {
+      "segment_id": "0018",
+      "source": "卯之花脸上带着温柔的笑意，“我没说吗？你只要在我手下支撑10分钟不死就算合格啊。”",
+      "target": "Trên mặt Unohana mang theo ý cười dịu dàng, \"Ta chưa nói sao? Cậu chỉ cần chống đỡ 10 phút dưới tay ta mà không chết là được tính là đạt rồi.\""
+    },
+    {
+      "segment_id": "0019",
+      "source": "陆离：？？？",
+      "target": "Lục Ly: ???"
+    },
+    {
+      "segment_id": "0020",
+      "source": "你没说啊！",
+      "target": "Cô đâu có nói!"
+    },
+    {
+      "segment_id": "0021",
+      "source": "仔细想来，自己解放斩魄刀之前，卯之花队长就已经停止了进攻。",
+      "target": "Nghĩ kỹ lại, trước khi mình giải phóng Trảm Phách Đao, đội trưởng Unohana đã ngừng tấn công."
+    },
+    {
+      "segment_id": "0022",
+      "source": "他当时还以为是卯之花见猎心喜，想看看自己的变化呢，大概算算时间，那时候自己是不是就已经合格了，所以卯之花老师才没有进攻？",
+      "target": "Lúc đó cậu còn tưởng là Unohana thấy con mồi thì ngứa nghề, muốn xem sự biến hóa của mình. Đại khái tính toán thời gian, có phải lúc đó mình đã thi đạt rồi, cho nên cô Unohana mới không tấn công?"
+    },
+    {
+      "segment_id": "0023",
+      "source": "结果自己解放了斩魄刀，嗨起来了，又跟卯之花老师厮杀分了胜负……",
+      "target": "Kết quả mình giải phóng Trảm Phách Đao, hưng phấn quá, lại đi chém giết phân thắng bại với cô Unohana..."
+    },
+    {
+      "segment_id": "0024",
+      "source": "“现在你不仅是合格了，我个人给你满分，放心吧，你明天就是成为护庭十三队的队士了。”",
+      "target": "\"Bây giờ cậu không chỉ đạt tiêu chuẩn, cá nhân ta cho cậu điểm tối đa. Yên tâm đi, ngày mai cậu sẽ trở thành đội sĩ của Hộ Đình 13 Đội rồi.\""
+    },
+    {
+      "segment_id": "0025",
+      "source": "卯之花笑着说道，走到门前，将那扇推拉门打开，在陆离凌乱的目光中走出考场。",
+      "target": "Unohana cười nói, đi đến trước cửa, mở cánh cửa lùa ra, bước ra khỏi phòng thi dưới ánh mắt bối rối của Lục Ly."
+    },
+    {
+      "segment_id": "0026",
+      "source": "在队长级人物的攻击下坚持十分钟而不死，这是总队长给出的考核标准，但卯之花得承认自己中间确实有点放飞自我了。",
+      "target": "Kiên trì mười phút dưới sự tấn công của nhân vật cấp đội trưởng mà không chết, đây là tiêu chuẩn đánh giá Tổng đội trưởng đưa ra, nhưng Unohana phải thừa nhận giữa chừng mình đúng là có hơi bung xõa."
+    },
+    {
+      "segment_id": "0027",
+      "source": "如果陆离没有始解展现出新力量的话，她多半真的会在超时的厮杀中‘失手’将陆离杀死。",
+      "target": "Nếu Lục Ly không Thủy Giải thể hiện ra sức mạnh mới, cô e là sẽ thực sự 'lỡ tay' giết chết Lục Ly trong cuộc chém giết quá giờ."
+    },
+    {
+      "segment_id": "0028",
+      "source": "见卯之花已经离开，陆离低头看了眼自己身上唯一还算完好的遮羞布，长出一口气。",
+      "target": "Thấy Unohana đã rời đi, Lục Ly cúi đầu nhìn mảnh vải che thân duy nhất còn coi như nguyên vẹn trên người, thở phào nhẹ nhõm."
+    },
+    {
+      "segment_id": "0029",
+      "source": "就在卯之花消失的那一刻，他听到了终焉空间的提示音，告知自己主线任务已经完成。 \t\t \t\t他已经获得了回归资格，而因为本次任务既定的停留时间就只有三个月，他最多也只能在死神世界内留两天了，超时的话，会被终焉空间强制拉取回归。",
+      "target": "Ngay khoảnh khắc Unohana biến mất, cậu nghe thấy âm báo của Không Gian Chung Yên, thông báo cho mình nhiệm vụ chính tuyến đã hoàn thành. Cậu đã có tư cách trở về, mà bởi vì thời gian lưu lại đã định của nhiệm vụ lần này chỉ có ba tháng, cậu nhiều nhất cũng chỉ có thể ở lại thế giới Tử Thần hai ngày nữa. Nếu quá giờ, sẽ bị Không Gian Chung Yên cưỡng chế kéo về."
+    },
+    {
+      "segment_id": "0030",
+      "source": "陆离低头看了眼囚魔，尽管始解已经解除了，但因为由浅打转化为自己专属斩魄刀的缘故，其外形还是发生了一定变化。",
+      "target": "Lục Ly cúi đầu nhìn Tù Ma, mặc dù đã giải trừ Thủy Giải, nhưng do chuyển hóa từ Thiển Đả thành Trảm Phách Đao chuyên dụng của mình, ngoại hình của nó vẫn xảy ra biến hóa nhất định."
+    },
+    {
+      "segment_id": "0031",
+      "source": "原本银白色的刀身上多了些藤蔓般的雕纹，而素白的刀柄也变成了紫黑色的，整体给人一种神秘而危险的感觉。",
+      "target": "Thân đao màu trắng bạc ban đầu có thêm vài họa tiết điêu khắc như dây leo, mà chuôi đao màu trắng tinh cũng biến thành màu tím đen, tổng thể mang lại một cảm giác thần bí và nguy hiểm."
+    },
+    {
+      "segment_id": "0032",
+      "source": "此时再用空间的鉴定功能去看，内容已经变化了。",
+      "target": "Lúc này lại dùng chức năng giám định của Không Gian để xem, nội dung đã thay đổi."
+    },
+    {
+      "segment_id": "0033",
+      "source": "【囚魔】",
+      "target": "[Tù Ma]"
+    },
+    {
+      "segment_id": "0034",
+      "source": "产地：死神（衍生世界401118号）",
+      "target": "Sản địa: Tử Thần (Thế giới phái sinh số 401118)"
+    },
+    {
+      "segment_id": "0035",
+      "source": "稀有度：稀有",
+      "target": "Độ hiếm: Hiếm"
+    },
+    {
+      "segment_id": "0036",
+      "source": "主武器：刀剑类",
+      "target": "Vũ khí chính: Loại đao kiếm"
+    },
+    {
+      "segment_id": "0037",
+      "source": "耐久度：60/60",
+      "target": "Độ bền: 60/60"
+    },
+    {
+      "segment_id": "0038",
+      "source": "锋锐度：20",
+      "target": "Độ sắc bén: 20"
+    },
+    {
+      "segment_id": "0039",
+      "source": "坚韧度：20",
+      "target": "Độ cứng cỏi: 20"
+    },
+    {
+      "segment_id": "0040",
+      "source": "详情：由探索者40440404号向浅打中注入灵魂锻造而成的斩魄刀，已自动绑定，该装备不可出售不可交易，其他使用者无法激活该武器。",
+      "target": "Chi tiết: Trảm Phách Đao do người khám phá số 40440404 tiêm linh hồn vào Thiển Đả rèn thành. Đã tự động cố định, trang bị này không thể bán không thể giao dịch, người sử dụng khác không cách nào kích hoạt vũ khí này."
+    },
+    {
+      "segment_id": "0041",
+      "source": "武器技能1（被动）：灵魂滋养",
+      "target": "Kỹ năng vũ khí 1 (Bị động): Nuôi dưỡng linh hồn"
+    },
+    {
+      "segment_id": "0042",
+      "source": "技能描述：探索者使用囚魔击杀敌人后，将会吞噬敌人少量的灵魂力量滋养囚魔，进而提升成长度，探索者本人也可以用自身灵魂喂养囚魔，以此方式可获得极高的成长度（警告：此方式极度危险）",
+      "target": "Mô tả kỹ năng: Sau khi người khám phá dùng Tù Ma đánh chết kẻ địch, sẽ cắn nuốt một lượng nhỏ sức mạnh linh hồn của kẻ địch nuôi dưỡng Tù Ma, từ đó tăng mức độ trưởng thành. Bản thân người khám phá cũng có thể dùng linh hồn chính mình nuôi Tù Ma, dùng cách này có thể nhận được mức độ trưởng thành cực cao (Cảnh báo: Cách này cực kỳ nguy hiểm)."
+    },
+    {
+      "segment_id": "0043",
+      "source": "当前成长进度：0%",
+      "target": "Tiến độ trưởng thành hiện tại: 0%"
+    },
+    {
+      "segment_id": "0044",
+      "source": "武器技能2（主动）：始解",
+      "target": "Kỹ năng vũ khí 2 (Chủ động): Thủy Giải"
+    },
+    {
+      "segment_id": "0045",
+      "source": "技能描述：释放始解后，将持续消耗探索者的魂源值，呈现其囚魔的形态，始解状态下，探索者的全战斗属性临时+2点，且神经反射速度获得一定提升，同时囚魔的锋锐度、坚韧度增加。",
+      "target": "Mô tả kỹ năng: Sau khi giải phóng Thủy Giải, sẽ liên tục tiêu hao giá trị Hồn Nguyên của người khám phá, hiển hiện hình thái của Tù Ma. Dưới trạng thái Thủy Giải, toàn bộ thuộc tính chiến đấu của người khám phá tạm thời +2 điểm, tốc độ phản xạ thần kinh cũng được tăng cường nhất định, đồng thời độ sắc bén, độ cứng cỏi của Tù Ma cũng tăng lên."
+    },
+    {
+      "segment_id": "0046",
+      "source": "当囚魔对敌人造成伤害时，并附加侵蚀效果，被附加侵蚀效果的敌人自然回复速度减少10%，且每秒损失本次攻击最大伤害10%的侵蚀伤害，侵蚀效果持续5S，同一处伤口的侵蚀效果可叠加。",
+      "target": "Khi Tù Ma gây ra sát thương cho kẻ địch, đồng thời đính kèm hiệu ứng ăn mòn. Kẻ địch bị đính kèm hiệu ứng ăn mòn giảm 10% tốc độ phục hồi tự nhiên, và mỗi giây tổn thất sát thương ăn mòn bằng 10% sát thương tối đa của đòn tấn công lần này. Hiệu ứng ăn mòn kéo dài 5S, hiệu ứng ăn mòn trên cùng một vết thương có thể cộng dồn."
+    },
+    {
+      "segment_id": "0047",
+      "source": "冷却时间：无",
+      "target": "Thời gian hồi chiêu: Không có"
+    },
+    {
+      "segment_id": "0048",
+      "source": "评分：100+（30～100）",
+      "target": "Chấm điểm: 100+ (30~100)"
+    },
+    {
+      "segment_id": "0049",
+      "source": "评价：你的心中，囚禁着魔神。",
+      "target": "Đánh giá: Trong lòng ngươi, giam giữ Ma thần."
+    },
+    {
+      "segment_id": "0050",
+      "source": "斩魄刀觉醒后，就成了自己的专属成长主武，其各项数值也有飞跃性提升，始解后的效果也是简单粗暴，加属性他可以看成是这个世界的提升灵压。",
+      "target": "Trảm Phách Đao sau khi thức tỉnh, liền trở thành vũ khí chính có khả năng trưởng thành chuyên thuộc của mình, các chỉ số của nó cũng có sự tăng lên mang tính nhảy vọt. Hiệu ứng sau khi Thủy Giải cũng rất đơn giản thô bạo, tăng thuộc tính cậu có thể coi như là việc tăng Linh Áp ở thế giới này."
+    },
+    {
+      "segment_id": "0051",
+      "source": "而10%的禁疗效果看似不多，但面对那些恢复力强大的敌人时会有奇效，之前和卯之花交手，对方的回道速度也有受到影响，而那个侵蚀的持续伤害也很猛，相当于自己的每一刀都有50%的慢性增伤。",
+      "target": "Mà hiệu ứng cấm trị liệu 10% nhìn thì có vẻ không nhiều, nhưng khi đối mặt với những kẻ địch có khả năng phục hồi mạnh mẽ thì sẽ có kỳ hiệu. Trước đó giao thủ với Unohana, tốc độ Hồi Đạo của đối phương cũng bị ảnh hưởng. Mà sát thương duy trì của cái hiệu ứng ăn mòn kia cũng rất mãnh liệt, tương đương với việc mỗi một đao của mình đều có 50% sát thương tăng thêm mãn tính."
+    },
+    {
+      "segment_id": "0052",
+      "source": "最重要的是这个特效触发没有冷却时间，这意味着在持久战中，自己对敌人造成的伤害累积会越来越恐怖，直到临界线时让敌人血崩。",
+      "target": "Quan trọng nhất là việc kích hoạt hiệu ứng đặc biệt này không có thời gian hồi chiêu, điều này có nghĩa là trong đánh lâu dài, sát thương tích lũy mà mình gây ra cho kẻ địch sẽ ngày càng khủng khiếp, cho đến khi chạm vạch giới hạn thì sẽ khiến kẻ địch mất máu ồ ạt."
+    },
+    {
+      "segment_id": "0053",
+      "source": "刚刚和卯之花的一战他的属性并未能全部+2点，主要是因为这里的力场压制，让自己不能突破‘十六等’灵压，若是自由状态下，他还能爆发出更强的战力。",
+      "target": "Trận chiến với Unohana vừa rồi, thuộc tính của cậu cũng không thể cộng hết 2 điểm, chủ yếu là vì sự áp chế của lực trường ở đây khiến mình không thể vượt qua Linh Áp 'hạng 16'. Nếu ở trạng thái tự do, cậu còn có thể bộc phát ra sức chiến đấu mạnh hơn."
+    },
+    {
+      "segment_id": "0054",
+      "source": "至于空间的评分，他这几个月来也从终焉空间已有的信息得知了大概区间。",
+      "target": "Còn về cách chấm điểm của Không Gian, mấy tháng nay cậu cũng thông qua những thông tin sẵn có từ Không Gian Chung Yên mà biết được phân khúc đại khái."
+    },
+    {
+      "segment_id": "0055",
+      "source": "以及目前的权限，能知道的装备品质分级有：破败、灰白、精良、稀有，再往上就不知道了。",
+      "target": "Cùng với quyền hạn hiện tại, phân cấp phẩm chất trang bị mà cậu có thể biết gồm có: Rách nát, Xám trắng, Tinh lương, Hiếm có. Cao hơn nữa thì không biết."
+    },
+    {
+      "segment_id": "0056",
+      "source": "破败基本都是垃圾，评分为0，而灰白的评分是1～10，精良评分为11～30，稀有级的评分跨度倒是比较大。",
+      "target": "Rách nát cơ bản đều là rác rưởi, điểm đánh giá là 0, còn Xám trắng điểm đánh giá là 1 ~ 10, Tinh lương điểm đánh giá là 11 ~ 30, phổ điểm của cấp Hiếm có ngược lại khá lớn."
+    },
+    {
+      "segment_id": "0057",
+      "source": "自己的囚魔目前被评为稀有级满评分装备，他分析应该算是新人探索者中不错的装备了。",
+      "target": "Tù Ma của mình hiện tại được đánh giá là trang bị cấp Hiếm có đạt điểm tối đa, cậu phân tích rằng hẳn được coi là trang bị không tồi trong số những người khám phá mới."
+    },
+    {
+      "segment_id": "0058",
+      "source": "看过囚魔的属性后，陆离迈步走出考场，发现考场外已经有一道身影在那等了。",
+      "target": "Sau khi xem qua thuộc tính của Tù Ma, Lục Ly sải bước ra khỏi phòng thi, phát hiện bên ngoài phòng thi đã có một bóng người đứng đợi ở đó."
+    },
+    {
+      "segment_id": "0059",
+      "source": "是拿着一套新衣服的蓝染。",
+      "target": "Là Aizen đang cầm một bộ quần áo mới."
+    }
+  ]
+}
+```

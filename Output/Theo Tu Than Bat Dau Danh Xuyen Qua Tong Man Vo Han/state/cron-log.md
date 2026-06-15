@@ -15,3 +15,43 @@
 - 2026-06-12 18:16 | Chapter 14 | completed | Chương 0014 - Chương 14 Thuấn Bộ (Canh ba cầu đọc tiếp, cất chứa, phiếu tháng).md
 - 2026-06-12 18:37 | Chapter 15 | completed | Chương 0015 - Chương 15 Vụ cá cược.md
 - 2026-06-12 19:08 | Chapter 16 | completed | Chương 0016 - Chương 16 Cứ mãng là xong việc.md
+- 2026-06-12 19:38 | Chapter 16 | completed | Chương 0016 - Chương 16 Cứ mãng là xong việc.md
+- 2026-06-12 20:16 | Chapter 17 | completed | Chương 0017 - Chương 17 Cô Unohana hướng dẫn lên lớp.md
+- 2026-06-13 03:01 | Chapter 18 | completed | Chương 0018 - Chương 18 Cô Unohana hướng dẫn sau giờ học.md
+- 2026-06-13 03:16 | Chapter 19 | completed | Chương 0019 - Chương 19 Chắc chắn là do cách ta mở cửa không đúng.md
+- 2026-06-13 03:37 | Chapter 20 | completed | Chương 0020 - Chương 20 Không ai dạy được.md
+- 2026-06-13 04:02 | Chapter 21 | completed | Chương 0021 - Chương 21 Lục quân, cậu phải tiết chế chứ.md
+- 2026-06-13 04:27 | Chapter 22 | completed | Chương 0022 - Chương 22 Cậu không phải là người sao.md
+- 2026-06-13 04:44 | Chapter 23 | completed | Chương 0023 - Chương 23 Ma thần trong lồng giam.md
+- 2026-06-13 05:12 | Chapter 24 | completed | Chương 0024 - Chương 24 Thiết quyền giáo dục của Tổng đội trưởng.md
+- 2026-06-13 05:27 | Chapter 25 | completed | Chương 0025 - Chương 25 Tử thần không muốn đánh bại Tổng đội trưởng không phải là Tử thần tốt.md
+- 2026-06-13 05:42 | Chapter 26 | completed | Chương 0026 - Chương 26 Điều kiện speedrun.md
+- 2026-06-13 05:53 | Chapter 27 | completed | Chương 0027 - Chương 27 Cho tôi xem Thủy Giải của cậu đi.md
+- 2026-06-13 06:12 | Chapter 28 | completed | Chương 0028 - Chương 28 Liệu pháp thôi miên.md
+- 2026-06-13 06:29 | Chapter 29 | completed | Chương 0029 - Chương 29 Bài thi cuối cùng (Ba canh cầu đọc tiếp, phiếu tháng).md
+- 2026-06-13 06:56 | Chapter 29 | completed | Chương 0029 - Chương 29 Bài thi cuối cùng (Ba canh cầu đọc tiếp, phiếu tháng).md
+- 2026-06-13 07:07 | Chapter 30 | completed | Chương 0030 - Chương 30 Unohana Tới đây, mua vui cho ta đi!.md
+- 2026-06-13 07:31 | Chapter 31 | completed | Chương 0031 - Chương 31 Tù Ma.md
+- 2026-06-13 07:47 | Chapter 32 | completed | Chương 0032 - Chương 32 Nhiệm vụ hoàn thành (Ba canh cầu đọc tiếp, phiếu tháng).md
+- 2026-06-13 08:06 | Chapter 33 | completed | Chương 0033 - Chương 33 Đội trưởng tranh người rồi.md
+- 2026-06-13 08:24 | Chapter 34 | completed | Chương 0034 - Chương 34 Trở về, kết toán.md
+- 2026-06-13 08:41 | Chapter 34 | completed | Chương 0034 - Chương 34 Trở về, kết toán.md
+- 2026-06-13 11:00 | Chapter 35 | completed | Chương 0035 - Chương 35 Khế ước Tiên Khu Giả (Canh ba cầu đọc tiếp, phiếu tháng).md
+- 2026-06-13 11:08 | Chapter 34 | completed | Chương 0034 - 0034 回归，结算.md
+- 2026-06-13 11:19 | Chapter 36 | completed | Chương 0036 - 0036 强化.md
+- 2026-06-13 11:27 | Chapter 37 | completed | Chương 0037 - 0037 武装色霸气.md
+- 2026-06-13 11:40 | Chapter 34 | completed | Chương 0034 - 0034 回归，结算.md
+- 2026-06-13 11:52 | Chapter 35 | completed | Chương 0035 - 0035 先驱者契约（三更求追读月票）.md
+- 2026-06-13 12:15 | Chapter 34 | completed | Chương 0034 - Chương 34 Trở về, kết toán.md
+- 2026-06-13 12:29 | Chapter 35 | completed | Chương 0035 - Chương 35 Khế ước Tiên Khu Giả (Canh ba cầu đọc tiếp, phiếu tháng).md
+- 2026-06-13 12:42 | Chapter 36 | completed | Chương 0036 - 0036 强化.md
+- 2026-06-13 12:50 | Chapter 37 | completed | Chương 0037 - 0037 武装色霸气.md
+- 2026-06-13 13:02 | Chapter 36 | completed | Chương 0036 - 0036 强化.md
+- 2026-06-13 13:10 | Chapter 37 | completed | Chương 0037 - 0037 武装色霸气.md
+- 2026-06-13 13:22 | Chapter 38 | completed | Chương 0038 - 0038 异变的拳愿阿修罗.md
+- 2026-06-13 13:31 | Chapter 36 | completed | Chương 0036 - 0036 强化.md
+- 2026-06-13 13:42 | Chapter 37 | completed | Chương 0037 - 0037 武装色霸气.md
+- 2026-06-13 13:50 | Chapter 38 | completed | Chương 0038 - 0038 异变的拳愿阿修罗.md
+- 2026-06-13 13:58 | Chapter 39 | completed | Chương 0039 - 0039 瞬杀.md
+- 2026-06-13 14:06 | Chapter 36 | completed | Chương 0036 - 0036 强化.md
+- 2026-06-15 21:08 | Chapter 36 | completed | Chương 0036 - Chương 36 Cường hóa.md

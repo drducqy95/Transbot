@@ -1,0 +1,406 @@
+{
+  "chapter_number": 34,
+  "chapter_title_vi": "Chương 34: Trở về, kết toán",
+  "segments": [
+    {
+      "segment_id": "0001",
+      "source": "# 第34章 回归，结算",
+      "target": "# Chương 34: Trở về, kết toán"
+    },
+    {
+      "segment_id": "0002",
+      "source": "江户时代的街头，熙熙攘攘，人声鼎沸。",
+      "target": "Trên đường phố thời Edo, người qua lại tấp nập, tiếng người ồn ào náo nhiệt."
+    },
+    {
+      "segment_id": "0003",
+      "source": "街上摆满了各式各样的摊位，卖艺的、卖药的、卖小吃的，应有尽有。人流如潮，人们穿梭在街头巷尾，彼此擦肩而过，却又似乎彼此熟悉。",
+      "target": "Trên phố bày đủ loại gian hàng, từ mãi võ, bán thuốc đến bán đồ ăn vặt, cái gì cần có đều có. Dòng người như mắc cửi, chen chúc qua lại khắp các nẻo đường, lướt qua nhau nhưng lại dường như đều quen biết nhau."
+    },
+    {
+      "segment_id": "0004",
+      "source": "小贩们吆喝着自家的商品，声音此起彼伏，不绝于耳。街头的灯笼随风摇曳，映照出人们的脸庞，显得格外明亮。街道两旁摆满了各式摊贩，叫卖声此起彼伏，热闹非凡。",
+      "target": "Tiếng rao hàng của những người bán rong vang lên hết đợt này đến đợt khác, không dứt bên tai. Những chiếc đèn lồng trên phố đung đưa theo gió, chiếu rọi khuôn mặt mọi người thêm phần sáng sủa. Hai bên đường chật kín các sạp hàng, tiếng rao hàng vang lên liên tiếp, vô cùng náo nhiệt."
+    },
+    {
+      "segment_id": "0005",
+      "source": "轰——",
+      "target": "Ầm——"
+    },
+    {
+      "segment_id": "0006",
+      "source": "一声巨响打破了这祥和的景象，人群恐慌的四散奔逃，以为是地震到来。",
+      "target": "Một tiếng nổ lớn phá vỡ khung cảnh thanh bình này, đám đông hoảng loạn chạy trốn tán loạn, cứ tưởng là động đất ập tới."
+    },
+    {
+      "segment_id": "0007",
+      "source": "而在普通人看不到的视角里，如高楼般的巨大黑影在街道上横冲直撞，而那些身穿死霸装、腰间配刀的人，似乎也和路上的行人并无区别，同样在逃跑。",
+      "target": "Nhưng ở một góc độ mà người thường không thể nhìn thấy, một bóng đen khổng lồ như tòa nhà cao tầng đang đâm ngang đâm dọc trên đường phố, mà những người mặc Tử Bá trang, hông đeo đao kia, dường như cũng chẳng khác gì người đi đường, đều đang cắm đầu bỏ chạy."
+    },
+    {
+      "segment_id": "0008",
+      "source": "正在狂奔的陆离抬头看了眼追逐他们的巨物，心说为什么会变成这样呢？",
+      "target": "Lục Ly đang cắm cổ chạy thục mạng ngẩng đầu nhìn con quái vật khổng lồ đang truy đuổi bọn họ, thầm nghĩ tại sao lại thành ra thế này?"
+    },
+    {
+      "segment_id": "0009",
+      "source": "惣右介的乌鸦嘴，真特么灵啊！",
+      "target": "Cái miệng quạ đen của Sosuke, thiêng vãi chưởng!"
+    },
+    {
+      "segment_id": "0010",
+      "source": "追在自己和其他几名死神身后的是基力安，这是因灵魂的怨念而生，由100只以上虚互相吞噬而产生的巨型的虚，属于下级大虚。",
+      "target": "Đuổi theo sau lưng cậu và vài Tử thần khác là Gillian, đây là một con Hư khổng lồ sinh ra từ oán niệm của linh hồn, do hơn 100 con Hư cắn nuốt lẫn nhau mà tạo thành, thuộc loại Đại Hư cấp thấp."
+    },
+    {
+      "segment_id": "0011",
+      "source": "在原著动漫中除了刚出场时因为其巨大的体型和设定让读者感受到压迫感外，后面在主角团面前简直就是超级兵，属于黑崎一护一刀好多个的那种。",
+      "target": "Trong nguyên tác anime, ngoại trừ lúc mới xuất hiện mang đến cảm giác áp bức cho độc giả nhờ thể hình khổng lồ và thiết lập của nó, thì về sau khi đứng trước mặt nhóm nhân vật chính nó chẳng khác nào đám lính lác, thuộc loại để Kurosaki Ichigo một đao chém chết cả đám."
+    },
+    {
+      "segment_id": "0012",
+      "source": "但大虚在原著设定中可是要由副队长级处理才算稳妥的怪物，起码也要席官才能与之抗衡，其灵压保底估计也在十等以上。",
+      "target": "Nhưng Đại Hư trong thiết lập nguyên tác là quái vật phải do cấp Đội phó xử lý mới tính là an toàn, chí ít cũng phải cấp Tịch quan mới có thể chống lại, linh áp của nó bèo nhất ước tính cũng phải từ đẳng cấp mười trở lên."
+    },
+    {
+      "segment_id": "0013",
+      "source": "陆离今天是第一次来现世，和同期毕业加入五番队的几名死神一起执行任务，他原本只当是来旅游观光的，结果他们居然碰上了大虚！",
+      "target": "Hôm nay là lần đầu tiên Lục Ly tới Hiện Thế, thực hiện nhiệm vụ cùng vài Tử thần tốt nghiệp cùng khóa gia nhập Đội 5, cậu vốn tưởng chỉ đến đây du lịch ngắm cảnh, ai ngờ bọn họ lại đụng trúng Đại Hư!"
+    },
+    {
+      "segment_id": "0014",
+      "source": "轰隆——",
+      "target": "Ầm ầm——"
+    },
+    {
+      "segment_id": "0015",
+      "source": "基力安巨大的体型撞倒了一排排木屋，它是最下级的大虚，没什么智力，但灵压和身板却是实打实的，陆离面对这样的庞然大物根本没有有效的攻击手段。",
+      "target": "Thể hình khổng lồ của Gillian tông sập từng dãy nhà gỗ, nó là Đại Hư cấp thấp nhất, không có trí tuệ gì, nhưng linh áp và thân thể lại là hàng thật giá thật, đối mặt với con quái vật khổng lồ này, Lục Ly hoàn toàn không có phương thức tấn công nào hiệu quả."
+    },
+    {
+      "segment_id": "0016",
+      "source": "“妈妈——”",
+      "target": "“Mẹ ơi——”"
+    },
+    {
+      "segment_id": "0017",
+      "source": "地动山摇间，一个小女孩儿跌倒在地，伸手朝面色同样惊恐的母亲呼救。",
+      "target": "Giữa lúc trời rung đất chuyển, một bé gái ngã quỵ xuống đất, vươn tay kêu cứu người mẹ cũng đang hoảng loạn không kém."
+    },
+    {
+      "segment_id": "0018",
+      "source": "街道上已经乱成了一团，哭喊声，哀嚎声连成一批，宛若地狱。",
+      "target": "Trên đường phố đã loạn thành một mớ bòng bong, tiếng than khóc, tiếng la hét thảm thiết vang lên liên hồi, hệt như chốn địa ngục."
+    },
+    {
+      "segment_id": "0019",
+      "source": "跟陆离一同出任务的两名死神此时也是满脸惊恐，他们在真央灵术院内从来没见过这样的场面，他们用习得的破道打在基力安身上跟挠痒痒似的。",
+      "target": "Hai Tử thần cùng Lục Ly đi làm nhiệm vụ lúc này cũng mặt mũi khiếp đảm, bọn họ ở trong Chân Ương Linh Thuật Viện chưa từng thấy cảnh tượng nào như thế này, bọn họ dùng Phá Đạo đã học đánh lên người Gillian mà cứ như gãi ngứa."
+    },
+    {
+      "segment_id": "0020",
+      "source": "陆离看了眼前方的人群，这些人根本不知道发生了什么事，唯有惊恐和绝望。",
+      "target": "Lục Ly nhìn đám đông phía trước, những người này hoàn toàn không biết chuyện gì đang xảy ra, chỉ có sự kinh hoàng và tuyệt vọng."
+    },
+    {
+      "segment_id": "0021",
+      "source": "这些人清晨起床时本以为这是平常的一天，却不曾想这就是终焉。",
+      "target": "Lúc tỉnh dậy vào buổi sáng, những người này vốn tưởng đây chỉ là một ngày bình thường, nhưng không ngờ đây lại là sự kết thúc."
+    },
+    {
+      "segment_id": "0022",
+      "source": "在大地的震颤中，丈夫抱住妻子，妻子抱住孩子，彷佛这样就能带给他们面对死亡的勇气，可他们扭曲的面孔正诉说着死亡的恐惧。",
+      "target": "Giữa sự rung chuyển của mặt đất, người chồng ôm lấy vợ, vợ ôm chặt lấy con, dường như làm vậy sẽ mang đến cho họ dũng khí để đối mặt với cái chết, nhưng khuôn mặt méo mó của họ lại đang nói lên nỗi sợ hãi trước tử thần."
+    },
+    {
+      "segment_id": "0023",
+      "source": "陆离扫了眼自己剩余不多的停留时间，转身一刀斩出，同时大喊：“你们朝东边撤离，我来断后引开它！”",
+      "target": "Lục Ly lướt nhìn thời gian lưu lại không còn nhiều của mình, xoay người tung ra một đao, đồng thời hét lớn: “Các cậu rút lui về phía đông, tôi ở lại cản hậu dẫn dụ nó!”"
+    },
+    {
+      "segment_id": "0024",
+      "source": "囚魔始解后，陆离在两名死神同僚震惊的目光中，竟冲刺着杀向大虚，极速让他在大虚的身上奔行，刀光闪烁间留下一道道伤口。",
+      "target": "Sau khi Thủy Giải Tù Ma, trong ánh mắt khiếp sợ của hai người đồng nghiệp Tử thần, Lục Ly lại lao tới tấn công Đại Hư, tốc độ cực nhanh giúp cậu chạy tới lui trên người con Đại Hư, ánh đao lóe lên để lại từng vết thương chằng chịt."
+    },
+    {
+      "segment_id": "0025",
+      "source": "陆离一路杀至基力安的头顶，引导着基力安朝城镇外走去。",
+      "target": "Lục Ly một đường giết thẳng lên đỉnh đầu Gillian, dụ dỗ con Gillian đi ra ngoài thị trấn."
+    },
+    {
+      "segment_id": "0026",
+      "source": "“该死，怎么会碰到大虚！？陆君他恐怕是……”",
+      "target": "“Chết tiệt, sao lại đụng trúng Đại Hư cơ chứ!? Lục quân cậu ấy e rằng...”"
+    },
+    {
+      "segment_id": "0027",
+      "source": "一名死神队士停下来喘息，看向越来越远的陆离和基力安，心中后怕之余又带着惋惜。",
+      "target": "Một đội sĩ Tử thần dừng lại thở dốc, nhìn Lục Ly và Gillian ngày càng xa, trong lòng ngoài sợ hãi ra thì còn có phần xót xa."
+    },
+    {
+      "segment_id": "0028",
+      "source": "在他看来，陆离就算再天才，现在灵压也不高，近距离和大虚作战很快就会死亡。",
+      "target": "Theo anh ta thấy, Lục Ly có thiên tài đến đâu thì linh áp hiện tại cũng không cao, chiến đấu ở cự ly gần với Đại Hư rất nhanh sẽ phải bỏ mạng."
+    },
+    {
+      "segment_id": "0029",
+      "source": "“不，陆君他还在战斗，他杀到了大虚的头顶！”",
+      "target": "“Không, Lục quân cậu ấy vẫn đang chiến đấu, cậu ấy đã giết lên tận đỉnh đầu Đại Hư rồi!”"
+    },
+    {
+      "segment_id": "0030",
+      "source": "另一名死神握紧拳头，神情激动，“他好像斩伤大虚了！”",
+      "target": "Một Tử thần khác siết chặt nắm đấm, vẻ mặt kích động, “Cậu ấy hình như chém trúng Đại Hư rồi!”"
+    },
+    {
+      "segment_id": "0031",
+      "source": "可他兴奋还没过两秒，脸色就变得难看起来，他声音颤抖，“黑腔……坏了，大虚要回去了，但陆君还在它身上！”",
+      "target": "Nhưng anh ta mới hưng phấn chưa được hai giây thì sắc mặt đã khó coi đi, giọng anh ta run rẩy, “Hắc Khang... Hỏng bét rồi, Đại Hư sắp sửa trở về, nhưng Lục quân vẫn còn ở trên người nó!”"
+    },
+    {
+      "segment_id": "0032",
+      "source": "在两人的注视中，陆离就像是一个在大虚头顶砍至癫狂的战神，却最终无奈的被大虚拖入了黑腔之中。",
+      "target": "Dưới ánh mắt chăm chú của hai người, Lục Ly giống như một chiến thần đang chém giết điên cuồng trên đầu con Đại Hư, nhưng cuối cùng đành bất lực bị Đại Hư kéo vào trong Hắc Khang."
+    },
+    {
+      "segment_id": "0033",
+      "source": "一旦大虚通过黑腔返回了虚圈，陆离绝对是十死无生！",
+      "target": "Một khi con Đại Hư xuyên qua Hắc Khang trở lại Hư Quyển, Lục Ly tuyệt đối chết chắc!"
+    },
+    {
+      "segment_id": "0034",
+      "source": "在那名死神眼含热泪的目光中，黑腔闭合了，陆离的身影随着大虚一同彻底消失。",
+      "target": "Dưới ánh mắt ngấn lệ của tên Tử thần kia, Hắc Khang đã khép lại, bóng dáng Lục Ly cũng theo con Đại Hư biến mất hoàn toàn."
+    },
+    {
+      "segment_id": "0035",
+      "source": "他不甘且愤怒的用拳头锤在地上，“可恶，都是因为我们太弱了，陆君才要去断后！”",
+      "target": "Anh ta tức giận không cam lòng đấm mạnh nắm đấm xuống đất, “Đáng ghét, đều là do chúng ta quá yếu, Lục quân mới phải đi cản hậu!”"
+    },
+    {
+      "segment_id": "0036",
+      "source": "而陆离本人，则是在黑腔闭合前的一瞬间，停留时间就已经彻底结束了。",
+      "target": "Còn bản thân Lục Ly thì vào cái chớp mắt trước khi Hắc Khang khép lại, thời gian lưu lại đã hoàn toàn kết thúc."
+    },
+    {
+      "segment_id": "0037",
+      "source": "倒计时归零的刹那，他只觉得身体变得轻飘飘起来，眼前变得白茫茫一片，就像是在一个温暖的隧道中穿行。",
+      "target": "Khoảnh khắc đếm ngược về số không, cậu chỉ cảm thấy cơ thể bỗng chốc trở nên nhẹ bẫng, trước mắt trắng xóa một mảnh, hệt như đang đi trong một đường hầm ấm áp."
+    },
+    {
+      "segment_id": "0038",
+      "source": "等他视野再次清晰的时候，发现自己正站在一个四四方方的空房间内，耳畔传来终焉空间的声音。",
+      "target": "Đợi lúc tầm nhìn rõ ràng trở lại, cậu phát hiện mình đang đứng trong một căn phòng vuông vức trống rỗng, bên tai vang lên giọng nói của Không gian Chung Yên."
+    },
+    {
+      "segment_id": "0039",
+      "source": "【检测到探索者并无明显伤势，无负面状态，且已通过试炼世界，是否开始结算？】",
+      "target": "【Phát hiện Thám hiểm giả không có vết thương nghiêm trọng, không có trạng thái bất lợi, đồng thời đã vượt qua thế giới thử nghiệm, có bắt đầu kết toán không?】"
+    },
+    {
+      "segment_id": "0040",
+      "source": "陆离活动了下手脚，感慨着终焉空间的神奇，说准时拉就准时拉他，一点没拖沓。 \t\t \t\t师父教他习武时说过一句话，强者并没有保护弱者的义务，但强者有保护弱者的权利。",
+      "target": "Lục Ly cử động tay chân, cảm khái sự kỳ diệu của Không gian Chung Yên, nói kéo đi đúng giờ là kéo đúng giờ, không hề kéo dài tí nào. \n\n Sư phụ lúc dạy cậu luyện võ từng nói một câu, kẻ mạnh không có nghĩa vụ phải bảo vệ kẻ yếu, nhưng kẻ mạnh có quyền lợi bảo vệ kẻ yếu."
+    },
+    {
+      "segment_id": "0041",
+      "source": "小时候他感觉这句话很抽象，现在也依旧如此，可他好像能明白一点师父说这话时的心情了。",
+      "target": "Hồi nhỏ cậu cảm thấy câu nói này rất trừu tượng, giờ vẫn thấy vậy, nhưng hình như cậu đã hiểu được một chút tâm trạng của sư phụ khi nói ra câu này rồi."
+    },
+    {
+      "segment_id": "0042",
+      "source": "但求武道之心通明。",
+      "target": "Chỉ cầu trái tim võ đạo sáng sủa thông suốt."
+    },
+    {
+      "segment_id": "0043",
+      "source": "他被‘公司’搞得‘家破人亡’，最是知晓孤儿的苦，所以他若随手为之便可救下几个家庭，那他也乐得一试。",
+      "target": "Cậu bị 'công ty' hại cho 'nhà tan cửa nát', hiểu rõ nhất nỗi khổ của một đứa trẻ mồ côi, vậy nên nếu tiện tay làm mà cứu được mấy gia đình, cậu cũng sẵn lòng thử một lần."
+    },
+    {
+      "segment_id": "0044",
+      "source": "最重要的是，他被大虚追了一路着实憋屈，临走前不砍它两刀试试手感，有点说不过去。",
+      "target": "Quan trọng nhất là, cậu bị Đại Hư truy đuổi một mạch thấy ức chế quá, trước khi đi mà không chém nó vài nhát thử cảm giác tay, thì có phần hơi lãng phí."
+    },
+    {
+      "segment_id": "0045",
+      "source": "而终焉空间也没让他失望，按照描述，精准的强行把他拉出死神世界了。",
+      "target": "Và Không gian Chung Yên cũng không làm cậu thất vọng, giống như mô tả, đã kéo cậu ra khỏi thế giới Tử Thần một cách cưỡng chế và chính xác."
+    },
+    {
+      "segment_id": "0046",
+      "source": "“这里就是终焉空间吗？”",
+      "target": "“Nơi này là Không gian Chung Yên sao?”"
+    },
+    {
+      "segment_id": "0047",
+      "source": "陆离观察着周围的环境，心说这空间也太小了，这个4*4*4米的房间，就是终焉空间吗？",
+      "target": "Lục Ly quan sát hoàn cảnh xung quanh, thầm nghĩ không gian này nhỏ quá, cái phòng 4x4x4 mét này, chính là Không gian Chung Yên à?"
+    },
+    {
+      "segment_id": "0048",
+      "source": "【这是正式探索者404040404号的个人房间，外人不得授权无法进入，属于你绝对安全的私人空间，可按照你的爱好进行布置，扩充规模和添置特殊物品需消耗终焉币，常规家具免费。】",
+      "target": "【Đây là phòng cá nhân của Thám hiểm giả chính thức mang số hiệu 404040404, người ngoài nếu không được phép sẽ không thể đi vào, thuộc về không gian cá nhân an toàn tuyệt đối của cậu, có thể bày trí theo sở thích cá nhân, mở rộng quy mô và mua sắm vật phẩm đặc thù cần tiêu hao Chung Yên tệ, đồ dùng nội thất thông thường miễn phí.】"
+    },
+    {
+      "segment_id": "0049",
+      "source": "陆离恍然，原来这只是一个自己的私人房间，他按照空间指引，将房间大致布置了一番，改造成了自己前世所在武馆的模样。",
+      "target": "Lục Ly chợt hiểu ra, thì ra đây chỉ là phòng riêng của mình, cậu bèn làm theo hướng dẫn của không gian, bày biện căn phòng qua loa một phen, cải tạo nó thành dáng vẻ giống võ quán kiếp trước cậu từng ở."
+    },
+    {
+      "segment_id": "0050",
+      "source": "“正式探索者和之前相比有什么变化吗？”",
+      "target": "“Thám hiểm giả chính thức so với trước kia có gì thay đổi không?”"
+    },
+    {
+      "segment_id": "0051",
+      "source": "陆离坐在他挑选的沙发上问道。",
+      "target": "Lục Ly ngồi xuống cái sô pha cậu vừa chọn, lên tiếng hỏi."
+    },
+    {
+      "segment_id": "0052",
+      "source": "【终焉空间将对正式探索者解锁探索者印记，探索者印记代表着探索者归属身份，根据探索者阶位有着大小不同的储物空间功能。】",
+      "target": "【Không gian Chung Yên sẽ mở khóa Ấn ký Thám hiểm giả cho các Thám hiểm giả chính thức, Ấn ký Thám hiểm giả đại diện cho thân phận thuộc về của Thám hiểm giả, tùy vào giai vị của Thám hiểm giả mà có chức năng không gian lưu trữ đồ vật to nhỏ khác nhau.】"
+    },
+    {
+      "segment_id": "0053",
+      "source": "【正式探索者开放更详细的系统辅助功能，以供探索者更好的在各个世界内完成任务，如需查看详细，可在正式探索者手册中进行查阅新权限。】",
+      "target": "【Thám hiểm giả chính thức sẽ được mở hệ thống tính năng phụ trợ chi tiết hơn, để hỗ trợ Thám hiểm giả hoàn thành nhiệm vụ tại các thế giới khác nhau tốt hơn, nếu cần xem chi tiết, có thể tra cứu quyền hạn mới trong Sổ tay Thám hiểm giả chính thức.】"
+    },
+    {
+      "segment_id": "0054",
+      "source": "陆离看了眼自己的手腕，发现那里已经多了一个淡青色的藤蔓纹身，环绕在手腕上。",
+      "target": "Lục Ly nhìn cổ tay mình, phát hiện chỗ đó đã xuất hiện thêm một hình xăm dây leo màu xanh nhạt, vây quanh cổ tay."
+    },
+    {
+      "segment_id": "0055",
+      "source": "稍稍感应一番，他发现自己能够轻易的与这个印记共鸣，里面有一个小空间，可以随时存取物品。",
+      "target": "Hơi cảm nhận một lúc, cậu phát hiện mình có thể dễ dàng tạo ra sự cộng hưởng với ấn ký này, bên trong đó là một không gian nhỏ, có thể lấy hoặc cất đồ vật tùy ý."
+    },
+    {
+      "segment_id": "0056",
+      "source": "“终焉，结算。”",
+      "target": "“Chung Yên, kết toán.”"
+    },
+    {
+      "segment_id": "0057",
+      "source": "搞清楚现状，并确认自己所处地点安全后，陆离关心起了自己这次试炼世界的奖励。",
+      "target": "Làm rõ tình cảnh hiện tại, đồng thời xác nhận địa điểm mình đang ở an toàn xong, Lục Ly bắt đầu quan tâm tới phần thưởng cho đợt thế giới thử nghiệm lần này của mình."
+    },
+    {
+      "segment_id": "0058",
+      "source": "【开始结算衍生世界奖励……】",
+      "target": "【Bắt đầu kết toán phần thưởng Thế giới phái sinh...】"
+    },
+    {
+      "segment_id": "0059",
+      "source": "衍生世界：死神",
+      "target": "Thế giới phái sinh: Tử Thần"
+    },
+    {
+      "segment_id": "0060",
+      "source": "难度：lv3～？？？（困难～必死）",
+      "target": "Độ khó: lv3~??? (Khó khăn~Chắc chắn chết)"
+    },
+    {
+      "segment_id": "0061",
+      "source": "世界探索度：13.6%",
+      "target": "Mức độ khám phá thế giới: 13.6%"
+    },
+    {
+      "segment_id": "0062",
+      "source": "【开始结算探索者404040404号的任务完成情况……】",
+      "target": "【Bắt đầu kết toán tình huống hoàn thành nhiệm vụ của Thám hiểm giả số 404040404...】"
+    },
+    {
+      "segment_id": "0063",
+      "source": "【主线任务均已完成，获得3500点币，浅打*1（已转化为囚魔）】",
+      "target": "【Các nhiệm vụ chính tuyến đều đã hoàn thành, nhận được 3500 điểm tệ, Thiển Đả*1 (đã chuyển hóa thành Tù Ma)】"
+    },
+    {
+      "segment_id": "0064",
+      "source": "主线任务完成出众，本次世界综合评价提高。",
+      "target": "Nhiệm vụ chính tuyến hoàn thành xuất sắc, đánh giá tổng hợp của thế giới lần này được nâng cao."
+    },
+    {
+      "segment_id": "0065",
+      "source": "开始对探索者本次任务世界进行综合评分……",
+      "target": "Bắt đầu chấm điểm tổng hợp đối với thế giới nhiệm vụ lần này của Thám hiểm giả..."
+    },
+    {
+      "segment_id": "0066",
+      "source": "检测到探索者印记等级远低于该世界综合难度等级，评分提升，探索者经验提升。",
+      "target": "Phát hiện cấp độ Ấn ký Thám hiểm giả thấp hơn rất nhiều so với độ khó tổng hợp của thế giới này, điểm đánh giá được tăng lên, kinh nghiệm của Thám hiểm giả được nâng cao."
+    },
+    {
+      "segment_id": "0067",
+      "source": "综合评价：S-（注：评分为E-到S+，综合评价主要根据世界探索度以及完成任务完成情况进行计算，受探索者等级和世界难度对比影响。）",
+      "target": "Đánh giá tổng hợp: S- (Chú thích: Điểm đánh giá từ E- đến S+, đánh giá tổng hợp chủ yếu dựa trên mức độ khám phá thế giới và tình hình hoàn thành nhiệm vụ để tính toán, chịu ảnh hưởng từ sự chênh lệch giữa cấp độ Thám hiểm giả và độ khó của thế giới.)"
+    },
+    {
+      "segment_id": "0068",
+      "source": "获得S-荣誉勋章一枚，此勋章可以用于特殊权限兑换。",
+      "target": "Nhận được một chiếc huân chương vinh dự S-, huân chương này có thể dùng để đổi lấy quyền hạn đặc thù."
+    },
+    {
+      "segment_id": "0069",
+      "source": "探索者等级提升，已升级至lv.3",
+      "target": "Cấp độ Thám hiểm giả được nâng cao, đã thăng cấp lên lv.3"
+    },
+    {
+      "segment_id": "0070",
+      "source": "【根据探索者综合评分表现，可在以下六种奖励中选取三项。】",
+      "target": "【Dựa trên biểu hiện từ điểm đánh giá tổng hợp của Thám hiểm giả, có thể chọn ra ba hạng mục phần thưởng trong sáu loại phần thưởng dưới đây.】"
+    },
+    {
+      "segment_id": "0071",
+      "source": "A.5点自由属性奖励",
+      "target": "A. Thưởng 5 điểm thuộc tính tự do"
+    },
+    {
+      "segment_id": "0072",
+      "source": "B.10000点终焉币",
+      "target": "B. 10.000 điểm Chung Yên tệ"
+    },
+    {
+      "segment_id": "0073",
+      "source": "C.稀有级随机装备宝箱",
+      "target": "C. Rương báu trang bị ngẫu nhiên cấp Hiếm"
+    },
+    {
+      "segment_id": "0074",
+      "source": "D.稀有级随机道具宝箱",
+      "target": "D. Rương báu đạo cụ ngẫu nhiên cấp Hiếm"
+    },
+    {
+      "segment_id": "0075",
+      "source": "E.传承结晶（小）*3（注：传承结晶可用于技能、血统、专精类技巧的提升。）",
+      "target": "E. Tinh thể truyền thừa (Nhỏ)*3 (Chú thích: Tinh thể truyền thừa có thể dùng để thăng cấp cho kỹ năng, huyết thống, và các kỹ xảo loại chuyên tinh.)"
+    },
+    {
+      "segment_id": "0076",
+      "source": "F.称号.无畏者",
+      "target": "F. Danh hiệu: Kẻ không sợ hãi"
+    },
+    {
+      "segment_id": "0077",
+      "source": "因为这本书是综漫，和老书还是有一定区别的。想要去更多的动漫世界的话，肯定是不能一次性打穿死神的，否则战力直接拉高，会错过许多底武动漫，因此只能分次进入世界。",
+      "target": "(Lời tác giả) Bởi vì quyển sách này là truyện tống mạn, so với sách cũ vẫn có chút khác biệt nhất định. Nếu muốn đi tới nhiều thế giới anime hơn, chắc chắn là không thể đánh sập Tử Thần chỉ trong một lần được, bằng không chiến lực sẽ bị kéo vọt lên, bỏ lỡ mất không ít bộ anime sức mạnh võ thuật thấp, thế nên chỉ có thể chia ra nhiều lần tiến vào thế giới."
+    },
+    {
+      "segment_id": "0078",
+      "source": "这样做的好处是可以在每个实力阶段都去最适合的世界，不至于受限于实力有装逼空挡，节奏也可以更加爽快。",
+      "target": "Làm như thế này có chỗ tốt là có thể đến một thế giới phù hợp nhất trong từng giai đoạn thực lực, không bị hạn chế bởi những khoảng trống ra dẻ do thực lực gây ra, nhịp độ cũng sẽ thoải mái sảng khoái hơn."
+    },
+    {
+      "segment_id": "0079",
+      "source": "兄弟萌放心，用不了多久就还会回到死神的。",
+      "target": "Các anh em yên tâm đi, không bao lâu nữa thì sẽ lại quay lại Tử Thần thôi."
+    },
+    {
+      "segment_id": "0080",
+      "source": "另外有想看的世界，也可以评论留言，象会在大纲节奏内酌情添加。",
+      "target": "Ngoài ra nếu có thế giới nào muốn xem, thì cũng có thể để lại bình luận, Tượng sẽ cân nhắc bổ sung thêm vào nội dung trong đại cương truyện."
+    }
+  ]
+}
