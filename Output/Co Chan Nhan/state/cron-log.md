@@ -61,3 +61,4 @@
 - 2026-06-15 21:29 | Chapter 39 | completed | Chương 0039 - Chương 39 Trong Tử Kim Thạch, Thiềm Cổ Ngủ Say.md
 - 2026-06-16 06:05 | Chapter 40 | completed | Chương 0040 - Chương 40 Giải Thạch.md
 - 2026-06-16 06:17 | Chapter 41 | completed | Chương 0041 - Chương 41 Vậy mà thật sự khai ra Cổ!.md
+- 2026-06-16 07:34 | Chapter 42 | completed | Chương 0042 - Chương 42 Viên Hóa Thạch Tử Kim Thứ Sáu Cuối Cùng.md

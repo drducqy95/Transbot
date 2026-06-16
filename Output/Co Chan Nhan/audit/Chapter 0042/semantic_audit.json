@@ -1,0 +1,40 @@
+{
+  "issues": [
+    {
+      "segment_id": "0003",
+      "type": "unnatural_vietnamese",
+      "severity": "medium",
+      "fix": "Trên mặt biển, Tửu Sâu cuộn thành một đoàn, tỏa ra hương rượu như làn sương trắng mờ ảo."
+    },
+    {
+      "segment_id": "0004",
+      "type": "unnatural_vietnamese",
+      "severity": "medium",
+      "fix": "Một luồng chân nguyên vang lên một tiếng, lao lên trên, tiến thẳng vào sương rượu. Khi rơi xuống, lượng chân nguyên giảm một nửa, màu sắc thâm sâu hơn, chuyển từ xanh biếc sơ giai sang xanh xám trung giai."
+    },
+    {
+      "segment_id": "0006",
+      "type": "term_context_mismatch",
+      "severity": "high",
+      "fix": "Nguyên hải từ đó hình thành cấu trúc: nửa tầng trên là chân nguyên sơ giai, nửa tầng dưới là chân nguyên trung giai."
+    },
+    {
+      "segment_id": "0009",
+      "type": "term_mistranslation",
+      "severity": "low",
+      "fix": "Phương Nguyên vừa tinh luyện chân nguyên, vừa hấp thụ chân nguyên tự nhiên từ nguyên thạch bên ngoài để nhanh chóng bổ sung vào không khiếu trong cơ thể."
+    },
+    {
+      "segment_id": "0041",
+      "type": "term_mistranslation",
+      "severity": "low",
+      "fix": "Muốn xử lý ẩn hào Tửu Sâu, phải chủ động xuất kích. Đó mới là phong cách của Phương Nguyên."
+    },
+    {
+      "segment_id": "0050",
+      "type": "unnatural_vietnamese",
+      "severity": "medium",
+      "fix": "Hơn năm trăm khối nguyên thạch đã là một giới hạn. Khi tiêu hao tăng, Phương Nguyên hiểu rằng mức tiêu hao nguyên thạch sẽ ngày càng lớn."
+    }
+  ]
+}

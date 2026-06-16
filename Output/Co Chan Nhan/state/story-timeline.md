@@ -298,3 +298,8 @@ Chapter 40 completed via pipeline.
 
 ### Summary
 Chapter 41 completed via pipeline.
+
+## Chapter 0042 - Chương 42: Viên Hóa Thạch Tử Kim Thứ Sáu Cuối Cùng
+
+### Summary
+Chapter 42 completed via pipeline.
