@@ -1,5 +1,4 @@
 # Chương 18: Cứ để chuyện cũ như khói tan biến
-# Chương 18: Cứ để chuyện cũ như khói tan biến
 
 Đối mặt với sự chất vấn của đệ đệ, Phương Nguyên không nói gì, vẫn tiếp tục ăn bữa sáng. Hắn rất rõ tính cách của đệ đệ, Phương Chính vốn không phải là người giữ được bình tĩnh.
 

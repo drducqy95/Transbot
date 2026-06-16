@@ -1,0 +1,46 @@
+{
+  "issues": [
+    {
+      "segment_id": "0003",
+      "type": "genre_style_error",
+      "severity": "low",
+      "fix": "“Gà mờ!” Nữ Cổ Sư lập tức nảy ra một từ trong lòng."
+    },
+    {
+      "segment_id": "0018",
+      "type": "wrong_gender_pronoun",
+      "severity": "medium",
+      "fix": "Nếu có thể trèo cao với hắn, có lẽ ta sẽ không cần vất vả làm kẻ hầu việc ở đây nữa."
+    },
+    {
+      "segment_id": "0034",
+      "type": "meaning_drift",
+      "severity": "medium",
+      "fix": "Ánh mắt các Cổ Sư trong lều không khỏi đồng loạt trầm xuống..."
+    },
+    {
+      "segment_id": "0044",
+      "type": "unnatural_vietnamese",
+      "severity": "low",
+      "fix": "“Ngươi xem, hắn dùng là Nguyệt Quang Cổ đặc hữu của tộc Cổ Nguyệt chúng ta.”"
+    },
+    {
+      "segment_id": "0055",
+      "type": "wrong_name",
+      "severity": "high",
+      "fix": "“Nếu hắn mà đổ ra được Cổ tốt, ta sẽ ăn hết đống bột đá trên đất này.” Có người cười nhạt trêu chọc."
+    },
+    {
+      "segment_id": "0059",
+      "type": "term_translated_word_by_word_wrongly",
+      "severity": "low",
+      "fix": "“Thạch liệu thay đổi rồi, không phải Tử Kim Thạch nữa, mà hiện ra một màu đen mực.”"
+    },
+    {
+      "segment_id": "0063",
+      "type": "paragraph_structure_error",
+      "severity": "medium",
+      "fix": "Động tác của Phương Nguyên chậm lại rất nhiều, giữa những ngón tay xoa nắn, vụn đá rơi xuống lách tách, ngắt quãng, không còn liên tục như trước nữa."
+    }
+  ]
+}

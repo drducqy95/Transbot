@@ -1,5 +1,4 @@
 # Chương 22: Nguyệt Nhẫn bay múa
-# Chương 22: Nguyệt Nhẫn bay múa
 
 Bầu trời xanh trong vắt, thuần khiết như thể vừa được gội rửa.
 

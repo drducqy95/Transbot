@@ -1,5 +1,4 @@
 # Chương 8: Vật thị nhân phi
-# Chương 8: Vật thị nhân phi
 
 Bên cạnh học đường có xây dựng một cổ thất. Cổ thất không lớn, chỉ có sáu mươi mét vuông.
 

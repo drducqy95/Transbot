@@ -1,5 +1,4 @@
 # Chương 7: Cổ sư chia cửu chuyển, Hoa Tửu lưu di tàng
-# Chương 7: Cổ sư chia cửu chuyển, Hoa Tửu lưu di tàng
 
 Rất nhanh, một tuần lễ đã trôi qua.
 

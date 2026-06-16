@@ -1,5 +1,4 @@
 # Chương 24: Cổ sư cận chiến
-# Chương 24: Cổ sư cận chiến
 
 Ba ngày sau.
 

@@ -1,5 +1,4 @@
 # Chương 32: Trêu cợt
-# Chương 32: Trêu cợt
 
 Nếu là người bình thường bị gã đàn ông trung niên này nhìn chằm chằm đầy uy hiếp, e rằng đã hoảng sợ ba phần.
 

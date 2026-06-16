@@ -1,5 +1,4 @@
 # Chương 31: Phương Nguyên, ngươi đại họa lâm đầu rồi!
-# Chương 31: Phương Nguyên, ngươi đại họa lâm đầu rồi!
 
 "Ta khổ luyện quyền cước cơ bản liên tục bảy ngày, không ngờ chỉ chống đỡ được hai chiêu trong tay Phương Nguyên, lại bị hắn đánh ngất xỉu lần nữa. Nhục nhã, nhục nhã a!" Trong lòng Cổ Nguyệt Mạc Bắc tràn ngập nỗi xấu hổ và giận dữ.
 

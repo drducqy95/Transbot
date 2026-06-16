@@ -1,5 +1,4 @@
 # Chương 26: Bản chất của mọi tổ chức
-# Chương 26: Bản chất của mọi tổ chức
 
 Trời gần chạng vạng, tà dương phía chân trời đỏ như máu.
 

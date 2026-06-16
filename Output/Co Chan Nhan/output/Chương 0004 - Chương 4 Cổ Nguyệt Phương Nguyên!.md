@@ -1,5 +1,4 @@
 # Chương 4: Cổ Nguyệt Phương Nguyên!
-# Chương 4: Cổ Nguyệt Phương Nguyên!
 
 Mặt trời buổi sớm nhô lên, ráng mây rực rỡ.
 

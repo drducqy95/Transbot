@@ -1,0 +1,386 @@
+{
+  "chapter_number": 41,
+  "chapter_title_vi": "Chương 41: Vậy mà thật sự khai ra Cổ?!",
+  "segments": [
+    {
+      "segment_id": "0001",
+      "source": "# 第四十二节：竟然真的开出了蛊？！",
+      "target": "# Chương 41: Vậy mà thật sự khai ra Cổ?!"
+    },
+    {
+      "segment_id": "0002",
+      "source": "“咦？”",
+      "target": "“Ơ?”"
+    },
+    {
+      "segment_id": "0003",
+      "source": "“不会又是石中石吧。”",
+      "target": "“Không lẽ lại là đá trong đá sao.”"
+    },
+    {
+      "segment_id": "0004",
+      "source": "“看样子应该是的。不过有些奇怪，这黄土被坚硬的紫金石皮包裹在里面，应该被挤压的圆滑，怎么表面凹凸不平呢？”围观的蛊师们疑惑不解。",
+      "target": "“Xem chừng là vậy. Nhưng có chút kỳ lạ, lớp đất vàng này được vỏ Tử Kim Thạch cứng cáp bao bọc bên trong, đáng lẽ phải bị ép cho tròn trịa, sao bề mặt lại lồi lõm thế kia?” Đám cổ sư vây xem nghi hoặc không hiểu."
+    },
+    {
+      "segment_id": "0005",
+      "source": "看到手中的黄泥土球，方源表情不变，心中却微微一动。",
+      "target": "Nhìn quả cầu đất vàng trong tay, Phương Nguyên không đổi sắc mặt, nhưng trong lòng khẽ động."
+    },
+    {
+      "segment_id": "0006",
+      "source": "他继续磨搓，蓝色光辉如水，泥土成粉落下。粉状的泥土中，还夹杂着了不少的土疙瘩，接连掉落在他脚边的石粉堆上。",
+      "target": "Hắn tiếp tục mài, ánh sáng xanh lam như nước, đất bùn hóa thành bột rơi xuống. Trong lớp đất bột còn lẫn không ít cục đất, liên tiếp rơi xuống đống bụi đá dưới chân hắn."
+    },
+    {
+      "segment_id": "0007",
+      "source": "“不会真有料吧？！”一些蛊师看到这里，都惊奇地瞪大了双眼。",
+      "target": "“Không lẽ thật sự có hàng?!” Một vài cổ sư thấy vậy đều kinh ngạc trừng lớn mắt."
+    },
+    {
+      "segment_id": "0008",
+      "source": "“难说得很。”一些人语气不太确定了。",
+      "target": "“Khó nói lắm.” Giọng điệu vài người không còn chắc chắn nữa."
+    },
+    {
+      "segment_id": "0009",
+      "source": "“我感觉是有，好像真的有。”有人小声地叫着。",
+      "target": "“Ta cảm giác là có, hình như thật sự có đấy.” Có người nhỏ giọng kêu lên."
+    },
+    {
+      "segment_id": "0010",
+      "source": "黄球泥土渐渐被磨小，快要接近巴掌大小的时候。一个人忽然闯进了帐篷：“小子，悠着点。这土球我贾金生买了！”",
+      "target": "Quả cầu đất dần bị mài nhỏ, khi sắp chỉ còn bằng bàn tay, một người đột ngột xông vào lều: “Thằng nhóc, cẩn thận chút. Quả cầu đất này ta, Giả Kim Sinh, mua!”"
+    },
+    {
+      "segment_id": "0011",
+      "source": "方源手中动作顿止，一时间，帐篷中的蛊师都将目光集中到此人身上。",
+      "target": "Động tác tay Phương Nguyên khựng lại, nhất thời, các cổ sư trong lều đều đổ dồn ánh mắt về phía người này."
+    },
+    {
+      "segment_id": "0012",
+      "source": "此人外貌年轻，大约有二十岁至二十五岁之间。身穿一件金色长袍，腰间系着丝绸腰带，腰带中间镶着方形玉片。玉片中有着一条横状的玉纹，形成罕见的“一”字。",
+      "target": "Người này trông còn trẻ, chừng hai mươi đến hai mươi lăm tuổi. Hắn mặc trường bào màu vàng kim, thắt lưng lụa, giữa thắt lưng khảm một miếng ngọc hình vuông. Trên miếng ngọc có một đường vân ngang, tạo thành chữ “Nhất” hiếm thấy."
+    },
+    {
+      "segment_id": "0013",
+      "source": "很显然这是位一转蛊师。",
+      "target": "Rõ ràng đây là một nhất chuyển cổ sư."
+    },
+    {
+      "segment_id": "0014",
+      "source": "二十多岁了，还是一转蛊师，看来资质并不怎么样。",
+      "target": "Hơn hai mươi tuổi mà vẫn chỉ là nhất chuyển cổ sư, xem ra tư chất chẳng ra sao."
+    },
+    {
+      "segment_id": "0015",
+      "source": "但是此人地位却有些特殊。见到此人，帐篷中的蛊师都躬身行礼，齐声道：“属下见过二公子。”",
+      "target": "Nhưng địa vị người này lại khá đặc biệt. Thấy hắn, đám cổ sư trong lều đều khom người hành lễ, đồng thanh: “Thuộc hạ bái kiến Nhị công tử.”"
+    },
+    {
+      "segment_id": "0016",
+      "source": "“二公子？”",
+      "target": "“Nhị công tử?”"
+    },
+    {
+      "segment_id": "0017",
+      "source": "“他刚刚又自称贾金生，莫非就是商队领袖贾富的那个同父异母的弟弟……”",
+      "target": "“Hắn vừa tự xưng là Giả Kim Sinh, chẳng lẽ là đứa em cùng cha khác mẹ của thủ lĩnh thương đội Giả Phú...”"
+    },
+    {
+      "segment_id": "0018",
+      "source": "“这么说，这家赌石场应该就是他开的了。不过他现在冒然出来干涉，似乎是坏了赌场的规矩啊。”",
+      "target": "“Nói vậy, sòng bạc này chắc là do hắn mở. Nhưng hắn đột ngột ra can thiệp thế này, hình như đã phá quy tắc sòng bạc rồi.”"
+    },
+    {
+      "segment_id": "0019",
+      "source": "蛊师小声地议论起来。",
+      "target": "Các cổ sư nhỏ giọng bàn tán."
+    },
+    {
+      "segment_id": "0020",
+      "source": "“不错，我就是这家商铺的掌柜。小弟弟，这么小年纪就出来赌石啊。不怕你家里人追究责骂吗？我现在出四十块元石，买你手中的土球。你看怎么样？四十块元石已经不少了，里面未必会有蛊虫，只是本公子今天心情好，念你第一次赌石，不想你血本无归，算是给你回点本钱。”贾金生快步到方源的面前道。",
+      "target": "“Không sai, ta chính là chưởng quỹ của cửa tiệm này. Nhóc con, tuổi còn nhỏ mà đã ra đây đánh bạc sao? Không sợ người nhà trách phạt à? Ta ra bốn mươi khối nguyên thạch mua quả cầu đất trong tay ngươi. Thấy sao? Bốn mươi khối đã không ít rồi, bên trong chưa chắc có Cổ, chỉ là hôm nay bản công tử tâm trạng tốt, thấy ngươi lần đầu đánh bạc, không muốn ngươi mất trắng, coi như cho ngươi chút tiền vốn.” Giả Kim Sinh bước nhanh đến trước mặt Phương Nguyên nói."
+    },
+    {
+      "segment_id": "0021",
+      "source": "“四十块元石？”方源微微扬起眉头，斜看了贾金生一眼，冷笑道，“看来你想要强买我手中的泥球化石了？强买是要坏赌场规矩的。而且还是在青茅山上，你是想当众欺负我这个姓古月的？”",
+      "target": "“Bốn mươi khối nguyên thạch?” Phương Nguyên khẽ nhướng mày, liếc nhìn Giả Kim Sinh, cười lạnh: “Xem ra ngươi muốn ép mua hóa thạch bùn trong tay ta? Ép mua là phá quy tắc sòng bạc đấy. Hơn nữa đây là trên núi Thanh Mao, ngươi muốn công khai bắt nạt người họ Cổ Nguyệt ta sao?”"
+    },
+    {
+      "segment_id": "0022",
+      "source": "“嗯？”听到方源最后这话，在场的其他蛊师站不住了，不禁都升起同仇敌徼的心意，纷纷向方源的地方拥来。看向贾金生的目光也变得不善。",
+      "target": "“Hửm?” Nghe câu cuối của Phương Nguyên, các cổ sư khác tại đó không đứng yên được nữa, không khỏi dấy lên tâm ý đồng lòng, lũ lượt kéo về phía Phương Nguyên. Ánh mắt nhìn Giả Kim Sinh cũng trở nên bất thiện."
+    },
+    {
+      "segment_id": "0023",
+      "source": "贾金生原以为方源这样的十五岁少年，比较容易对付，三言两语就能撬动他的心。没有料到方源手段这般了得，一句话举轻若重，就将他陷入到不利的局面下！",
+      "target": "Giả Kim Sinh vốn tưởng thiếu niên mười lăm tuổi như Phương Nguyên dễ đối phó, ba câu hai lời là lay chuyển được. Không ngờ thủ đoạn Phương Nguyên cao tay như vậy, một câu nói nhẹ nhàng mà nặng tựa ngàn cân, đẩy hắn vào thế bất lợi!"
+    },
+    {
+      "segment_id": "0024",
+      "source": "看到蛊师们纷纷拥上来的架势，贾金生顿时脸色一变，改了口风，急忙摆手道：“小兄弟，你误会了！我是赌石场的掌柜，怎么能自己拆自己的台子，坏自己的规矩呢？那我以后还做不做生意了？呵呵呵。只是看你的土球有趣，想买下来罢了。你要是不卖，那就算了。不过待会要是没有料，可不要怪我事先没有提醒你。”",
+      "target": "Thấy đám cổ sư lũ lượt kéo tới, Giả Kim Sinh biến sắc, vội đổi giọng, xua tay: “Tiểu huynh đệ, ngươi hiểu lầm rồi! Ta là chưởng quỹ sòng bạc, sao có thể tự đập đổ bát cơm, phá quy tắc của mình chứ? Thế thì sau này còn làm ăn gì nữa? Ha ha ha. Chỉ là thấy quả cầu đất của ngươi thú vị nên muốn mua thôi. Ngươi không bán thì thôi. Nhưng lát nữa mà không có hàng, đừng trách ta không nhắc trước.”"
+    },
+    {
+      "segment_id": "0025",
+      "source": "方源不再理他，转过头，又专心地摩挲手中的泥球。",
+      "target": "Phương Nguyên không thèm để ý đến hắn nữa, quay đầu, tiếp tục tập trung mài quả cầu bùn."
+    },
+    {
+      "segment_id": "0026",
+      "source": "他的动作很缓慢，很细致。常常片刻之后，才有一丝丝一缕缕的干燥泥粉洒落下来。",
+      "target": "Động tác của hắn rất chậm rãi, tỉ mỉ. Thường phải mất một lúc lâu mới có từng chút bụi bùn khô rơi xuống."
+    },
+    {
+      "segment_id": "0027",
+      "source": "随着他的动作，一只沉眠的蛊虫逐步展现在众人的眼前。",
+      "target": "Theo động tác của hắn, một con Cổ đang ngủ say dần dần lộ diện trước mắt mọi người."
+    },
+    {
+      "segment_id": "0028",
+      "source": "“我的老天，真有蛊虫啊！”",
+      "target": "“Trời đất ơi, thật sự có Cổ!”"
+    },
+    {
+      "segment_id": "0029",
+      "source": "“真开了一只蛊！！”",
+      "target": "“Thật sự khai ra một con Cổ!!”"
+    },
+    {
+      "segment_id": "0030",
+      "source": "“有没有搞错，这样赌石都能行？”",
+      "target": "“Có nhầm không vậy, đánh bạc kiểu này mà cũng được sao?”"
+    },
+    {
+      "segment_id": "0031",
+      "source": "“这少年运气要爆了，居然真被他硬生生用运气撞出一只蛊来。”",
+      "target": "“Thiếu niên này vận khí nổ tung rồi, thế mà lại dùng vận may đụng trúng một con Cổ.”"
+    },
+    {
+      "segment_id": "0032",
+      "source": "一时间，蛊师中惊叹声迭传。",
+      "target": "Nhất thời, tiếng kinh thán vang dội khắp đám cổ sư."
+    },
+    {
+      "segment_id": "0033",
+      "source": "女蛊师下意识地捂着嘴，难以置信地看着这一幕。",
+      "target": "Nữ cổ sư vô thức che miệng, khó tin nhìn cảnh tượng này."
+    },
+    {
+      "segment_id": "0034",
+      "source": "她成为店员，一路辗转了许多山寨，遇到过形形色色的人，许许多多的顾客，但从来没有见过这么戏剧性的一幕。",
+      "target": "Làm nhân viên cửa hàng, đi qua bao sơn trại, gặp đủ loại người, vô số khách hàng, nhưng nàng chưa từng thấy cảnh tượng nào kịch tính đến thế."
+    },
+    {
+      "segment_id": "0035",
+      "source": "“果然真有蛊虫！”贾金生双眼闪过一抹寒光，心中暗恨不已。他心胸狭窄，善嫉好妒。最喜欢干的事，是讨别人便宜。最痛恨讨厌的事，是被人占便宜。",
+      "target": "“Quả nhiên là có Cổ!” Giả Kim Sinh lóe lên tia hàn quang, trong lòng hận không thôi. Hắn lòng dạ hẹp hòi, hay đố kỵ. Việc thích làm nhất là chiếm lợi người khác, việc ghét nhất là bị người khác chiếm lợi."
+    },
+    {
+      "segment_id": "0036",
+      "source": "他开了这家赌石场，在里面布置了严密的眼线。一旦有客人似乎要开出蛊虫，他得到消息就会出现，一般都会强买下来。",
+      "target": "Hắn mở sòng bạc này, bố trí tai mắt dày đặc bên trong. Một khi có khách sắp khai ra Cổ, hắn nhận tin sẽ xuất hiện, thường là ép mua lại."
+    },
+    {
+      "segment_id": "0037",
+      "source": "现在方源就在他的赌场中，在他的眼皮子底下，开出一头蛊虫。贾金生感到自己的心在滴血。",
+      "target": "Giờ đây Phương Nguyên ngay trong sòng bạc của hắn, ngay dưới mí mắt hắn mà khai ra một con Cổ. Giả Kim Sinh cảm thấy tim mình đang rỉ máu."
+    },
+    {
+      "segment_id": "0038",
+      "source": "开出来的，是一只蟾蛊。",
+      "target": "Thứ khai ra được là một con Thiềm Cổ."
+    },
+    {
+      "segment_id": "0039",
+      "source": "它浑身黄不拉几，肚皮淡黄，背部褐黄，疙疙瘩瘩，长满了蟾蜍特有的疣粒。乍一眼看上去，有些渗人。",
+      "target": "Nó toàn thân vàng khè, bụng vàng nhạt, lưng nâu vàng, sần sùi, mọc đầy những nốt mụn đặc trưng của cóc. Thoạt nhìn có chút ghê rợn."
+    },
+    {
+      "segment_id": "0040",
+      "source": "它并不大，只有巴掌大小。托在掌心中，如同托着两三颗鸡蛋。",
+      "target": "Nó không lớn, chỉ bằng bàn tay. Nằm trong lòng bàn tay như đang đỡ hai ba quả trứng gà."
+    },
+    {
+      "segment_id": "0041",
+      "source": "方源在各种惊叹、羡慕、嫉妒的目光中，面色平静，小心调动真元，注入到蛤蟆的体内。",
+      "target": "Giữa bao ánh mắt kinh thán, ngưỡng mộ, đố kỵ, Phương Nguyên vẫn bình thản, cẩn thận điều động chân nguyên rót vào cơ thể con cóc."
+    },
+    {
+      "segment_id": "0042",
+      "source": "顿时，这只蛤蟆就被他炼化。",
+      "target": "Lập tức, con cóc này bị hắn luyện hóa."
+    },
+    {
+      "segment_id": "0043",
+      "source": "解开化石得到的蛊虫，都是极其衰弱的。不仅全身的力量所剩无几，而且意志也混混沌沌，没有反抗能力，能被蛊师轻松的炼化。",
+      "target": "Cổ trùng khai từ hóa thạch đều cực kỳ suy yếu. Không chỉ sức lực còn lại chẳng bao nhiêu, mà ý chí cũng hỗn độn, không có khả năng kháng cự, dễ dàng bị cổ sư luyện hóa."
+    },
+    {
+      "segment_id": "0044",
+      "source": "蟾蛊被方源从沉睡中唤醒，它慢腾腾地睁开双眼，肚皮微微一鼓，轻轻地叫了一声。",
+      "target": "Thiềm Cổ được Phương Nguyên đánh thức từ giấc ngủ say, nó chậm chạp mở mắt, bụng khẽ phồng lên, kêu nhẹ một tiếng."
+    },
+    {
+      "segment_id": "0045",
+      "source": "呱。",
+      "target": "Oa."
+    },
+    {
+      "segment_id": "0046",
+      "source": "这声音虽然轻微虚弱，但是却让在场的其他人的脸色神情，陡然间变得十分精彩。",
+      "target": "Tiếng kêu tuy nhẹ và yếu ớt, nhưng lại khiến sắc mặt của những người có mặt tại đó trở nên vô cùng đặc sắc."
+    },
+    {
+      "segment_id": "0047",
+      "source": "一只活蛊和一只死蛊之间的价值差距，是相当巨大的。",
+      "target": "Giá trị chênh lệch giữa một con Cổ sống và một con Cổ chết là cực kỳ lớn."
+    },
+    {
+      "segment_id": "0048",
+      "source": "“是活蛊，开出了活蛊了！！”有人揉擦着眼睛，不敢相信。",
+      "target": "“Là Cổ sống, khai ra Cổ sống rồi!!” Có người dụi mắt, không dám tin."
+    },
+    {
+      "segment_id": "0049",
+      "source": "“这是癞土蛤蟆啊，该死的，真是癞土蛤蟆啊。”有人认出了蟾蛊的身份，激动地吼叫起来。",
+      "target": "“Đây là Lại Thổ Cáp Mô, chết tiệt, đúng là Lại Thổ Cáp Mô rồi.” Có người nhận ra thân phận con Thiềm Cổ, kích động gào lên."
+    },
+    {
+      "segment_id": "0050",
+      "source": "“这少年撞大运了。我怎么就没这运气！”有人叹气，情绪复杂，包含着羡慕嫉妒恨。",
+      "target": "“Thiếu niên này gặp vận may lớn rồi. Sao ta không có vận may đó chứ!” Có người thở dài, cảm xúc phức tạp, bao gồm cả ngưỡng mộ, đố kỵ và hận."
+    },
+    {
+      "segment_id": "0051",
+      "source": "“公子，真是太恭喜你了。这，这，这是我至今为止，看到的最珍贵的蛊虫了！”女蛊师激动得有些语文伦次，双眼熠熠生辉。",
+      "target": "“Công tử, thật sự chúc mừng ngài. Đây, đây là con Cổ quý giá nhất mà tôi từng thấy từ trước đến nay!” Nữ cổ sư kích động đến nói năng lộn xộn, đôi mắt sáng rực."
+    },
+    {
+      "segment_id": "0052",
+      "source": "“竟然是癞土蛤蟆！这可是稀有的二转蛊虫，足足价值五百块元石啊。该死的，该死的。竟然在我的店铺中，被人开出了这样的蛊虫。我亏大了，亏大了！”贾金生面色苍白，死死地瞪着蛤蟆，心中涌起一股强烈的冲动，想要把它抢过来。",
+      "target": "“Vậy mà là Lại Thổ Cáp Mô! Đây là nhị chuyển cổ trùng hiếm có, giá trị tận năm trăm khối nguyên thạch đấy. Chết tiệt, chết tiệt. Vậy mà lại bị người ta khai ra con Cổ như thế ngay trong tiệm của ta. Ta lỗ lớn rồi, lỗ lớn rồi!” Giả Kim Sinh mặt cắt không còn giọt máu, trừng trừng nhìn con cóc, trong lòng dâng lên xúc động mãnh liệt muốn cướp lấy nó."
+    },
+    {
+      "segment_id": "0053",
+      "source": "但是他知道不能，若真这样做了，那就是自找死路。",
+      "target": "Nhưng hắn biết không thể, nếu thật sự làm vậy thì chính là tự tìm đường chết."
+    },
+    {
+      "segment_id": "0054",
+      "source": "这可不是本家的寨子，而是外地，古月一族的地盘。",
+      "target": "Đây không phải trại của bản gia, mà là đất khách, địa bàn của tộc Cổ Nguyệt."
+    },
+    {
+      "segment_id": "0055",
+      "source": "“也许我应该多出几十块元石，兴许就能让他转让给我。不错，他不过只是个学员。我出到一百块元石，不怕他不心动。我怎么就没有这么做呢？”贾金生胸中充满了懊恼。",
+      "target": "“Có lẽ ta nên trả thêm vài chục khối nguyên thạch, biết đâu hắn sẽ nhượng lại cho ta. Đúng rồi, hắn chỉ là một học viên. Ta ra giá một trăm khối nguyên thạch, không sợ hắn không động lòng. Sao lúc nãy ta không làm thế chứ?” Giả Kim Sinh đầy vẻ hối hận."
+    },
+    {
+      "segment_id": "0056",
+      "source": "“不，也许这小子并不识货。虽然开出了这只癞土蛤蟆，但我应该能压住价格，收购下来！”贾金生心中浮现出一丝新的希望。",
+      "target": "“Không, có lẽ thằng nhóc này không biết hàng. Dù khai ra Lại Thổ Cáp Mô, ta vẫn có thể ép giá để thu mua!” Giả Kim Sinh nảy sinh một tia hy vọng mới."
+    },
+    {
+      "segment_id": "0057",
+      "source": "但是下一刻，这丝希望就被方源的一席话，给无情的击碎了。",
+      "target": "Nhưng khoảnh khắc tiếp theo, tia hy vọng đó đã bị một câu nói của Phương Nguyên nghiền nát không thương tiếc."
+    },
+    {
+      "segment_id": "0058",
+      "source": "方源淡然凝望着手中托着的癞土蛤蟆，不管旁人如何惊呼艳羡。",
+      "target": "Phương Nguyên thản nhiên nhìn con Lại Thổ Cáp Mô trên tay, mặc kệ người xung quanh kinh hô ngưỡng mộ."
+    },
+    {
+      "segment_id": "0059",
+      "source": "他以一种平静地语气，对贾金生道：“癞土蛤蟆，二转蛊虫，每顿食用一斤黄泥，黄泥越肥沃越佳。它数量稀少，是炼成宝气黄铜蟾的必须主蛊。市价五百块元石。贾金生，你要收购么？”",
+      "target": "Hắn dùng giọng điệu bình thản nói với Giả Kim Sinh: “Lại Thổ Cáp Mô, nhị chuyển cổ trùng, mỗi bữa ăn một cân đất vàng, đất càng màu mỡ càng tốt. Nó số lượng thưa thớt, là chủ Cổ bắt buộc để luyện thành Bảo Khí Hoàng Đồng Thiềm. Giá thị trường năm trăm khối nguyên thạch. Giả Kim Sinh, ngươi có muốn thu mua không?”"
+    },
+    {
+      "segment_id": "0060",
+      "source": "“你，竟然知道的这么清楚……”贾金生嘴皮子哆嗦着，被这样一打击，一时间差点说不出话来。",
+      "target": "“Ngươi, vậy mà biết rõ ràng như thế...” Môi Giả Kim Sinh run rẩy, bị đả kích như vậy, nhất thời suýt chút nữa không nói nên lời."
+    },
+    {
+      "segment_id": "0061",
+      "source": "方源轻笑一声，继续道：“你若不愿意，那就算了。我卖给其他人好了，相信会有人买的。",
+      "target": "Phương Nguyên khẽ cười, tiếp tục: “Nếu ngươi không muốn thì thôi. Ta bán cho người khác vậy, tin là sẽ có người mua.”"
+    },
+    {
+      "segment_id": "0062",
+      "source": "“慢着，慢着。我收购的，收购的。只是这价钱能不能便宜点？”贾金生的脸上浮现出苦涩的笑容。",
+      "target": "“Khoan đã, khoan đã. Ta mua, ta mua mà. Chỉ là giá này có thể bớt chút được không?” Gương mặt Giả Kim Sinh hiện lên nụ cười khổ sở."
+    },
+    {
+      "segment_id": "0063",
+      "source": "方源转身就走。",
+      "target": "Phương Nguyên quay người bỏ đi."
+    },
+    {
+      "segment_id": "0064",
+      "source": "贾金生连忙追上去：“别！别走啊。我买，我买了！”",
+      "target": "Giả Kim Sinh vội vàng đuổi theo: “Đừng! Đừng đi mà. Ta mua, ta mua!”"
+    },
+    {
+      "segment_id": "0065",
+      "source": "方源并没有计划培养这只癞土蛤蟆。",
+      "target": "Phương Nguyên không hề có kế hoạch nuôi con Lại Thổ Cáp Mô này."
+    },
+    {
+      "segment_id": "0066",
+      "source": "它是二转蛊虫，目前方源才只是一转初阶。虽是吃的黄泥，但是青茅山上到处都是青土，弄到食物很是麻烦。",
+      "target": "Nó là nhị chuyển cổ trùng, hiện tại Phương Nguyên mới chỉ nhất chuyển sơ giai. Tuy nó ăn đất vàng, nhưng trên núi Thanh Mao toàn là đất xanh, kiếm thức ăn rất phiền phức."
+    },
+    {
+      "segment_id": "0067",
+      "source": "再者，若是不卖这只蟾蛊，方源就得以一人之力同时喂养三只蛊虫。元石消耗增大不说，他目前手中的元石，也根本就不够喂养。",
+      "target": "Hơn nữa, nếu không bán con Thiềm Cổ này, Phương Nguyên phải dùng sức một mình nuôi ba con Cổ. Nguyên thạch tiêu hao tăng lên đã đành, số nguyên thạch hiện có trong tay hắn cũng không đủ để nuôi."
+    },
+    {
+      "segment_id": "0068",
+      "source": "所以方源的目标，一直就是出售癞土蛤蟆，得到五百块元石，赚上一笔。",
+      "target": "Cho nên mục tiêu của Phương Nguyên từ đầu đến cuối chính là bán con Lại Thổ Cáp Mô, thu về năm trăm khối nguyên thạch, kiếm một món hời."
+    },
+    {
+      "segment_id": "0069",
+      "source": "五百块元石，对于方源这样的一转初阶的蛊师来讲，已经算得上一大笔款子了。",
+      "target": "Năm trăm khối nguyên thạch, đối với một nhất chuyển sơ giai cổ sư như Phương Nguyên mà nói, đã là một khoản tiền lớn."
+    },
+    {
+      "segment_id": "0070",
+      "source": "交易很快就完成，方源当众将癞土蛤蟆转给贾金生，同时收下五个沉甸甸的钱袋。每个钱袋里面都装有整整一百块的元石。",
+      "target": "Giao dịch hoàn tất nhanh chóng, Phương Nguyên công khai chuyển giao Lại Thổ Cáp Mô cho Giả Kim Sinh, đồng thời nhận lấy năm túi tiền nặng trĩu. Mỗi túi đều chứa đúng một trăm khối nguyên thạch."
+    },
+    {
+      "segment_id": "0071",
+      "source": "方源原先财产是九十八块，赌石耗费了六十块，剩下三十八块。这样一来，财产瞬间翻了几番，拥有五百三十八块元石！",
+      "target": "Tài sản ban đầu của Phương Nguyên là chín mươi tám khối, đánh bạc tốn hết sáu mươi khối, còn lại ba mươi tám khối. Thế là tài sản lập tức tăng vọt, sở hữu năm trăm ba mươi tám khối nguyên thạch!"
+    },
+    {
+      "segment_id": "0072",
+      "source": "许多蛊师亲眼看着这一幕的发生，双眼都红了。",
+      "target": "Nhiều cổ sư tận mắt chứng kiến cảnh này, mắt đều đỏ ngầu."
+    },
+    {
+      "segment_id": "0073",
+      "source": "方源将五个钱袋都揣入怀中，拿起最后一块紫金化石，悠然走出了帐篷。",
+      "target": "Phương Nguyên nhét năm túi tiền vào ngực, cầm lấy khối hóa thạch Tử Kim cuối cùng, thong dong bước ra khỏi lều."
+    },
+    {
+      "segment_id": "0074",
+      "source": "“公子，您这块元石不解了吗？”女蛊师连连眨眼，望着方源的背影，大声提醒道。",
+      "target": "“Công tử, khối này ngài không giải sao?” Nữ cổ sư chớp mắt liên tục, nhìn theo bóng lưng Phương Nguyên, lớn tiếng nhắc nhở."
+    },
+    {
+      "segment_id": "0075",
+      "source": "方源充耳不闻，头也不回地离开了赌石场。",
+      "target": "Phương Nguyên làm như không nghe thấy, không ngoảnh đầu lại mà rời khỏi sòng bạc."
+    },
+    {
+      "segment_id": "0076",
+      "source": "留下一众错愕的蛊师，相视默然。",
+      "target": "Để lại đám cổ sư ngơ ngác, nhìn nhau im lặng."
+    }
+  ]
+}

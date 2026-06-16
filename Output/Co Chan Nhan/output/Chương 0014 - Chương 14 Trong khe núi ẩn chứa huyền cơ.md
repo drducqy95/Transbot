@@ -1,5 +1,4 @@
 # Chương 14: Trong khe núi ẩn chứa huyền cơ
-# Chương 14: Trong khe núi ẩn chứa huyền cơ
 
 Tửu trùng có hình dáng giống như tằm con, toàn thân tỏa ra ánh sáng trắng như trân châu, hơi mập mạp, vẻ ngoài rất đáng yêu.
 

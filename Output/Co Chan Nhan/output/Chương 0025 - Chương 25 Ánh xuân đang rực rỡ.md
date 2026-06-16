@@ -1,5 +1,4 @@
 # Chương 25: Ánh xuân đang rực rỡ
-# Chương 25: Ánh xuân đang rực rỡ
 
 "Hắn là Phương Nguyên hay là Phương Chính?" Có học viên xì xào, vẫn có người không phân biệt được hai anh em sinh đôi Phương Nguyên và Phương Chính.
 

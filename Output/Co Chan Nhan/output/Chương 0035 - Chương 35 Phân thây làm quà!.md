@@ -1,5 +1,4 @@
 # Chương 35: Phân thây làm quà!
-# Chương 35: Phân thây làm quà!
 
 "Các ngươi nghe nói chưa? Phương Nguyên giết người rồi!" Một học viên nói nhỏ với người ngồi cùng bàn.
 

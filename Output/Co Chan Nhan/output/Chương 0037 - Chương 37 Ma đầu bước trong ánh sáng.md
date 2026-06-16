@@ -1,5 +1,4 @@
 # Chương 37: Ma đầu bước trong ánh sáng
-# Chương 37: Ma đầu bước trong ánh sáng
 
 Trên bầu trời, mây đen chập chùng, mưa xuân lất phất rơi.
 

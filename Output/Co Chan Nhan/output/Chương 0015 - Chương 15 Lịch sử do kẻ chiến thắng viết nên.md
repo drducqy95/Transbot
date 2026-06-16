@@ -1,5 +1,4 @@
 # Chương 15: Lịch sử do kẻ chiến thắng viết nên
-# Chương 15: Lịch sử do kẻ chiến thắng viết nên
 
 Trong hang động bí mật này, từ phía sau lại đột nhiên truyền đến giọng nói của người khác.
 

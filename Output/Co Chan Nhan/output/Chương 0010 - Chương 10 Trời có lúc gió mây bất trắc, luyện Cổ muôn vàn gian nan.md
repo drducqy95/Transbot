@@ -1,5 +1,4 @@
 # Chương 10: Trời có lúc gió mây bất trắc, luyện Cổ muôn vàn gian nan
-# Chương 10: Trời có lúc gió mây bất trắc, luyện Cổ muôn vàn gian nan
 
 Lộp bộp lộp bộp...
 

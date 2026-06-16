@@ -1,5 +1,4 @@
 # Chương 20: Gia lão học đường cạn lời rồi
-# Chương 20: Gia lão học đường cạn lời rồi
 
 Niềm vui to lớn không làm Phương Nguyên mờ mắt, hắn nhanh chóng bình tĩnh lại, bắt đầu suy nghĩ về những ảnh hưởng mà Xuân Thu Thiền mang lại cho mình:
 

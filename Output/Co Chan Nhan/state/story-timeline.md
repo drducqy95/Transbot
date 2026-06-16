@@ -288,3 +288,13 @@ Chapter 36 completed via pipeline.
 
 ### Summary
 Chapter 39 completed via pipeline.
+
+## Chapter 0040 - Chương 40: Giải Thạch
+
+### Summary
+Chapter 40 completed via pipeline.
+
+## Chapter 0041 - Chương 41: Vậy mà thật sự khai ra Cổ?!
+
+### Summary
+Chapter 41 completed via pipeline.

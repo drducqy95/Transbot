@@ -1,5 +1,4 @@
 # Chương 21: Sao có thể là ca ca giành được hạng nhất này?
-# Chương 21: Sao có thể là ca ca giành được hạng nhất này?
 
 Trời vẫn chưa sáng rõ, mặt trời cũng chưa mọc, bầu trời phương đông mới bắt đầu hửng trắng. Màu đen trên bầu trời đang dần phai nhạt, trong không khí vẫn còn lưu lại hương thơm của bóng đêm.
 

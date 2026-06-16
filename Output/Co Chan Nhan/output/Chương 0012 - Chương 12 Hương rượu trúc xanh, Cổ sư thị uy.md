@@ -1,5 +1,4 @@
 # Chương 12: Hương rượu trúc xanh, Cổ sư thị uy
-# Chương 12: Hương rượu trúc xanh, Cổ sư thị uy
 
 “Bây giờ tất cả mọi vấn đề đều quy về di tàng của Hoa Tửu hành giả. Nếu ta có thể tìm được nó, mọi khó khăn sẽ dễ dàng được giải quyết. Nếu không tìm ra, những nan đề này sẽ kéo chậm đáng kể tốc độ tu hành của ta, khiến ta bị những người cùng lứa bỏ xa ngay từ khi bắt đầu tu hành. Thật khó hiểu, ta đã dùng hơn một tuần để thu hút Tửu trùng xuất hiện, tại sao lại mãi không có hiệu quả?”
 

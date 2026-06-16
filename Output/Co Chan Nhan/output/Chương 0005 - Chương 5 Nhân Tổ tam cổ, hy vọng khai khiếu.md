@@ -1,5 +1,4 @@
 # Chương 5: Nhân Tổ tam cổ, hy vọng khai khiếu
-# Chương 5: Nhân Tổ tam cổ, hy vọng khai khiếu
 
 Trong thoáng chốc, xung quanh bỗng lặng ngắt, vô số ánh mắt đổ dồn về phía hắn.
 

@@ -1,5 +1,4 @@
 # Chương 29: Không từ thủ đoạn
-# Chương 29: Không từ thủ đoạn
 
 "Để hết rượu xuống dưới gầm giường đi." Phương Nguyên chỉ huy bốn gã tiểu nhị của khách điếm.
 

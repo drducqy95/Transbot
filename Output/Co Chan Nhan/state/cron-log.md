@@ -59,3 +59,5 @@
 - 2026-06-13 20:08 | Chapter 37 | completed | Chương 0037 - Chương 37 Ma đầu bước trong ánh sáng.md
 - 2026-06-15 20:54 | Chapter 36 | completed | Chương 0036 - Chương 36 Vừa là thỏa hiệp, vừa là uy hiếp.md
 - 2026-06-15 21:29 | Chapter 39 | completed | Chương 0039 - Chương 39 Trong Tử Kim Thạch, Thiềm Cổ Ngủ Say.md
+- 2026-06-16 06:05 | Chapter 40 | completed | Chương 0040 - Chương 40 Giải Thạch.md
+- 2026-06-16 06:17 | Chapter 41 | completed | Chương 0041 - Chương 41 Vậy mà thật sự khai ra Cổ!.md

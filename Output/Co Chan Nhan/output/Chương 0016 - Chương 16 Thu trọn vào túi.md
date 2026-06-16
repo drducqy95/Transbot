@@ -1,5 +1,4 @@
 # Chương 16: Thu trọn vào túi
-# Chương 16: Thu trọn vào túi
 
 “Ngươi động một cái thử xem?”
 

@@ -1,5 +1,4 @@
 # Chương 33: Ngươi mắng đi
-# Chương 33: Ngươi mắng đi
 
 “Hả?” Mạc Nhan nhíu mày, trên khuôn mặt dài lập tức hiện lên vẻ tức giận, ả rốt cuộc cũng hiểu ra mình đã bị Phương Nguyên trêu đùa một vố.
 

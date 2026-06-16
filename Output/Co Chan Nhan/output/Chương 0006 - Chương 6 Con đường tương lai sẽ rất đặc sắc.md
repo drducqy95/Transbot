@@ -1,5 +1,4 @@
 # Chương 6: Con đường tương lai sẽ rất đặc sắc
-# Chương 6: Con đường tương lai sẽ rất đặc sắc
 
 Không khiếu huyền diệu khác thường, mặc dù gửi gắm bên trong cơ thể Phương Nguyên, thế nhưng lại không cùng nằm chung một không gian với lục phủ ngũ tạng. Có thể nói nó vô hạn lớn, lại cũng có thể nói nó vô hạn nhỏ.
 

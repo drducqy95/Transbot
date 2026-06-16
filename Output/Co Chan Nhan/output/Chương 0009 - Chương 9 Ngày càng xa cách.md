@@ -1,5 +1,4 @@
 # Chương 9: Ngày càng xa cách
-# Chương 9: Ngày càng xa cách
 
 Mặt trời đỏ lặn về tây, nhưng vẫn chưa khuất hẳn.
 

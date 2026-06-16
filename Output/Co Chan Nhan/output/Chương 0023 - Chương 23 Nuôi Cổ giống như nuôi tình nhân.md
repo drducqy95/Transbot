@@ -1,5 +1,4 @@
 # Chương 23: Nuôi Cổ giống như nuôi tình nhân
-# Chương 23: Nuôi Cổ giống như nuôi tình nhân
 
 Mặt trời đã xuống núi.
 

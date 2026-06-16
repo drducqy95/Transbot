@@ -1,5 +1,4 @@
 # Chương 19: Lục chuyển bản mệnh Xuân Thu Thiền!
-# Chương 19: Lục chuyển bản mệnh Xuân Thu Thiền!
 
 Trong quá trình luyện hóa, lại bị cổ trùng cắn trả!
 

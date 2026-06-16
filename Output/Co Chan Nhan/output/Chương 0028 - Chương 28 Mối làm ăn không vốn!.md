@@ -1,5 +1,4 @@
 # Chương 28: Mối làm ăn không vốn!
-# Chương 28: Mối làm ăn không vốn!
 
 "Tại sao phải ngăn cản?" Gia lão học đường nhướng mày, cười nói. Lão vươn ngón tay, chỉ xa xa về phía Phương Nguyên, lại nói: "Kẻ này đã khống chế toàn cục, ra tay cực kỳ có chừng mực. Các ngươi xem hắn chặt vào cổ người ta, đều chỉ chặt vào hai bên trái phải, không bao giờ chặt vào ót hay sau gáy. Đây là bởi vì hắn cũng biết, chặt vào hai bên cổ, có thể khiến người ta ngất xỉu ngay tại chỗ. Chặt vào ót hay sau gáy lại có khả năng gây tử vong, cho nên hắn mới chủ động từ bỏ phương thức tấn công như vậy."
 

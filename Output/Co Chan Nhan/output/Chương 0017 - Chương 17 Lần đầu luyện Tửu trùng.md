@@ -1,5 +1,4 @@
 # Chương 17: Lần đầu luyện Tửu trùng
-# Chương 17: Lần đầu luyện Tửu trùng
 
 “Với tư chất Bính đẳng của ta, nguyên hải có thể lưu trữ trong không khiếu nhiều nhất chỉ có bốn thành tư. Tốc độ Cổ trùng bài xích chân nguyên, còn nhanh hơn tốc độ ta tự khôi phục chân nguyên rất nhiều. Ta muốn luyện hóa Cổ trùng, thì phải mượn nhờ ngoại lực, nói cách khác là phải tiêu hao nguyên thạch.”
 

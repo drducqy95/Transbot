@@ -1,5 +1,4 @@
 # Chương 27: Trắng trợn tống tiền
-# Chương 27: Trắng trợn tống tiền
 
 Đám thiếu niên lập tức vừa kinh hãi vừa tức giận.
 

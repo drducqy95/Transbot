@@ -1,0 +1,19 @@
+{
+  "names": {
+    "approved": [
+      {
+        "source": "方源轻",
+        "target": "Phương Nguyên Khinh",
+        "type": "person"
+      },
+      {
+        "source": "贾金生",
+        "target": "Giả Kim Sinh",
+        "type": "person"
+      }
+    ]
+  },
+  "terms": {
+    "approved": []
+  }
+}
