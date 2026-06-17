@@ -62,3 +62,4 @@
 - 2026-06-16 06:05 | Chapter 40 | completed | Chương 0040 - Chương 40 Giải Thạch.md
 - 2026-06-16 06:17 | Chapter 41 | completed | Chương 0041 - Chương 41 Vậy mà thật sự khai ra Cổ!.md
 - 2026-06-16 07:34 | Chapter 42 | completed | Chương 0042 - Chương 42 Viên Hóa Thạch Tử Kim Thứ Sáu Cuối Cùng.md
+- 2026-06-18 05:52 | 43 | completed | Chương 0043 - Chương 43 Rượu Khỉ, cơ duyên Tửu Trùng không nhường bước.md

@@ -1,0 +1,16 @@
+{
+  "issues": [
+    {
+      "segment_id": "0015",
+      "type": "term_context_mismatch",
+      "severity": "high",
+      "fix": "trọc khí → trong khí"
+    },
+    {
+      "segment_id": "0015",
+      "type": "unnatural_vietnamese",
+      "severity": "medium",
+      "fix": "liếc mắt một cái đã nhận ra → liếc mắt đã nhận ra"
+    }
+  ]
+}
